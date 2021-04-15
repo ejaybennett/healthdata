@@ -1,0 +1,18 @@
+(secondQuint)Neuropsychological Evaluation for Early Diagnosis of PSP.
+
+ Progressive Supranuclear Palsy (PSP) is a neurodegenerative disease characterized by vertical supranuclear gaze palsy, early balance dysfunction and falls.
+
+ Tau-protein aggregation, mainly in the brainstem, is the disease hallmark.
+
+ Because of the similarities with Parkinson's disease (PD), the diagnosis is made approximately 4 years after the symptoms onset.
+
+ Cognitive deficits are a leading feature of PSP and they actually represent one of the four functional core domains in the revised diagnostic criteria.
+
+ The aim of this study is to better understand the nature of this cognitive decline, the time of its development and the relation with the other cardinal features of the disease.
+
+.
+
+ Neuropsychological Evaluation for Early Diagnosis of PSP@highlight
+
+The aim of this study is to better understand the nature of the cognitive decline in Progressive Supranuclear Palsy, the time of its development and the relation with the other cardinal features of the disease.
+

@@ -1,0 +1,30 @@
+(firstQuint)Ultrasonic Aspiration Versus CO2 Laser Ablation for the Treatment of Vulvar Intraepithelial Neoplasia.
+
+ Incidence of Vulvar Intraepithelial Neoplasia (VIN) is increasing among women and there still lacks a standard of care for optimal treatment.
+
+ Current treatment options aim to treat the symptoms associated with VIN and result in a high recurrence rate.
+
+ Due to the high reoccurrence rate and the nature of the current treatments, a more effective treatment option is warranted.
+
+ An effective treatment that targets only the diseased areas could potentially decrease recurrence rates.
+
+ Additionally, a more conservative treatment modality could contribute to reduced risks of scarring, discomfort, and psychosocial and sexual distraught.
+
+ The researchers hypothesize that treatment for VIN with ultrasonic aspiration will have a 60% reduction in recurrence rates over 12 months as compared to CO2 laser aspiration.
+
+ This study will employ a randomized controlled trial (RCT) design.
+
+ This is a phase III study to determine the effectiveness of a more targeted treatment therapy for VIN (comparing ultrasonic aspiration versus CO2 laser ablation).
+
+ Potential participants will be identified through the gynecological clinical practices following diagnosis of high grade VIN and will be randomized (1:1) to one of the treatment therapies.
+
+ Randomization will be stratified for multi-focal disease and Human Papillomavirus (HPV) status.
+
+ Both the Sonopet Ultrasonic Aspirator and the CO2 laser ablation devices are FDA approved devices for the treatment of vulvar dysplasia.
+
+.
+
+ Ultrasonic Aspiration Versus CO2 Laser Ablation for the Treatment of Vulvar Intraepithelial Neoplasia@highlight
+
+The primary objective of this study is to evaluate the incidence of vulva dysplasia recurrence within 12 months of treatment with Carbon Dioxide (CO2) laser ablation or ultrasonic aspiration.
+

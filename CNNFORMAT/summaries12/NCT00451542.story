@@ -1,0 +1,22 @@
+(secondQuint)Divalproex vs.
+
+ Lamotrigine for Bipolar Disorder.
+
+ The primary objective of the study is to assess the long-term outcome in bipolar patients treated with divalproex versus lamotrigine in a retrospective chart review of veterans as measured by time to relapse into any significant mood episode (i.
+
+e.
+
+ mania or depression).
+
+ The primary hypothesis is that bipolar patients will demonstrate significantly greater time to relapse in those treated with divalproex compared to those treated with lamotrigine.
+
+ The secondary objective of the study is to assess the safety and relative tolerability of divalproex and lamotrigine in this population based on discontinuation due to side or adverse effect.
+
+.
+
+ Divalproex vs.
+
+ Lamotrigine for Bipolar Disorder@highlight
+
+This study is a retrospective chart review of patients treated for bipolar disorder at the TVAMC in the past four years cross-referenced with the electronic pharmacy file for having received a prescription of divalproex or lamotrigine.
+

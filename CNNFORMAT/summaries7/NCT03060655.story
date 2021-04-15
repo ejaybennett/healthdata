@@ -1,0 +1,40 @@
+(thirdQuint)Study of PLGA-Mg Material in Clinical Orthopedics.
+
+ The deposition of calcium could be facilitated by the increase of magnesium, which played an important role in fracture union.
+
+ However, its degradation may be completed before the fracture line was disappeared.
+
+ In addition, the hydrogen may be released during degradation.
+
+ Thus, its clinical popularization was limited.
+
+ As a new polymer material, poly lactic-co-glycolic acid (PLGA) has been widely used clinically.
+
+ The hydrolytic production of PLGA was acidic, which could neutralize the alkalinity of production degraded from magnesium.
+
+ In addition, it was a long time before the total accomplishment of degradation of PLGA, which may postpone the degradation of magnesium.
+
+ The different proportion samples of PLGA-Mg were made in this study.
+
+ Their physical and chemical properties were analyzed to estimate its safety of implantation.
+
+ Then, they would be placed in the femoral condyle of the New Zealand rabbits.
+
+ The osteogenesis and complication of samples are examined to select an appropriate proportion of PLGA-Mg is obtained.
+
+ Then, the PLGA-Mg material will be used to fix the fracture of human as a fixation.
+
+ The review of the patients will be conducted to assess its clinical role.
+
+.
+
+ Study of PLGA-Mg Material in Clinical Orthopedics@highlight
+
+The different proportion samples of PLGA-Mg were made in this study.
+
+ Then, they would be placed in the femoral condyle of the New Zealand rabbits.
+
+ The appropriate proportion of PLGA-Mg is obtained after the experiment, which will be used to make the plate or screw to fix the fragments.
+
+ Then, the clinical role for bone will be assessed.
+

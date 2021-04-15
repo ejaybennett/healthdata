@@ -1,0 +1,70 @@
+(thirdQuint)Results Following the Vitrification of Human Oocytes Using 2 Methodologies.
+
+ Randomization of Oocytes: Oocytes will be denuded approximately 1-2 hours post retrieval and graded for maturity.
+
+ Only the Metaphase II oocyte will be vitrified.
+
+ Half of the oocytes within each donor will be randomized to the following treatments.
+
+ 1.
+
+ Frozen using an open system using a metal grid to hold the oocyte.
+
+ Three to five oocytes will be frozen on the metal grid using a minute amount ( mu ls) of cryoprotectant.
+
+ A top is put over the metal grid to protect the oocytes.
+
+ This system has proven to be successful in limited cases in Peru.
+
+ This is an open system of vitrification where the oocytes are directly plunged into liquid nitrogen.
+
+ This will serve as the control.
+
+ 2.
+
+ Frozen in closed straws using a methodology developed by Jim Stachecki.
+
+ Three to five oocytes will be frozen in 1/4 cc straws.
+
+ This is very similar to the method used to successfully vitrify blastocysts.
+
+ This will be the experimental treatment.
+
+ Null Hypothesis: The type of vitrification methodology used will not have an impact on the following: - Survival rates - Embryonic developmental rates - Pregnancy and implantation rates.
+
+ Measured Outcomes The effect of vitrification technique will be measured using the appropriate statistical analysis on the following parameters.
+
+ 1.
+
+ Survival rates following thawing.
+
+ 2.
+
+ Effect of vitrification technique on how oocytes react to ICSI.
+
+ The parameters have been previously defined at NCRS.
+
+ 3.
+
+ Normal fertilization rates, abnormal fertilization rates and rates of degeneration following ICSI.
+
+ 4.
+
+ Embryonic development rates.
+
+ Embryos will be cultured until Day 5/6 and rate as well as quality of blastocyst will be noted.
+
+ 5.
+
+ Pregnancy and implantation rates following replacement in endometrial prepared recipients.
+
+.
+
+ Results Following the Vitrification of Human Oocytes Using 2 Methodologies@highlight
+
+The investigators are going to compare embryo developmental rates of human eggs following freezing in two different freezing methods.
+
+ The investigators are going to compare the pregnancy rates following transfer to patients as well.
+
+ Null Hypothesis: The type of vitrification methodology used will not have an impact on the following: - Survival rates - Embryonic developmental rates - Pregnancy and implantation rates.
+

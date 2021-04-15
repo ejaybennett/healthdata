@@ -1,0 +1,20 @@
+(firstQuint)A Comparative, Pharmacokinetic Study of CB-839 Capsule and Tablet Formulations in Healthy Adults.
+
+ A new tablet formulation of CB-839 was recently developed in order to enable rapid, automated manufacturing of CB-839.
+
+ Previous studies have used a capsule formulation of CB-839.
+
+ This study will enable a PK comparison between CB-839 capsules and CB-839 tablets.
+
+ This is a Phase 1, comparative, randomized, single-dose, 2-way crossover PK comparability study of CB-839 administered as capsule and tablet formulations in healthy adult subjects.
+
+ Serial blood samples for PK analyses will be collected over a 24 hour period after each administration of CB-839.
+
+ All subjects will be monitored for safety throughout their participation in the study.
+
+.
+
+ A Comparative, Pharmacokinetic Study of CB-839 Capsule and Tablet Formulations in Healthy Adults@highlight
+
+This is a Phase 1, randomized, single-dose, 2-way crossover PK comparability study of CB-839 administered as capsule and tablet formulations in healthy adult subjects.
+

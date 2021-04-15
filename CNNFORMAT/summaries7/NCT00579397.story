@@ -1,0 +1,47 @@
+(thirdQuint)Markers of Inflammation in Hematopoietic Stem Cell Transplant.
+
+ Allogeneic Hematopoietic Stem Cell Transplantation (HSCT) is a successful treatment option for multiple malignant diseases (i.
+
+e.
+
+ leukemia) and non-malignant disorders (i.
+
+e.
+
+ metabolic disorders, genetic disorders, immunodeficiencies).
+
+ Unfortunately, transplantation from an HLA-related family member is only available in 30-40% of stem cell transplant recipients.
+
+ The other patients requiring HSCT must then receive their stem cells from either a matched-unrelated donor (MUD) or from cord blood.
+
+ One major limitation upon receiving these unrelated stem cells are acute and chronic graft-versus-host disease.
+
+ Specifically looking at acute graft-versus-host disease (aGVHD), up to 30% of the recipients of stem cells from an HLA-identical related donor will develop greater or equal to grade 2 of aGVHD despite immunosuppressive prophylaxis.
+
+ The percentages of patients who develop aGVHD from unrelated donors are even higher.
+
+ The current standard treatment for aGVHD is corticosteroids.
+
+ Unfortunately, only 40% of matched-siblings HSCT cases and 25% of MUD SCT cases show a complete response to these steroids.
+
+ Those patients who do not respond to corticosteroids can show a dismal outcome.
+
+ Given the poor outcome with refractory GVHD, there has been a lot of interest in trying to predict who will get GVHD.
+
+ These findings could lead to augmentation of GVHD prophylaxis.
+
+ The purpose of this study is to look at a series of identified biomarkers to predict aGVHD.
+
+ Once blood is drawn from the SCT recipient, a multiplex ligation-dependent probe amplification (MLPA) will test different biomarkers in the blood to result in about 30-45 target sequences being examined simultaneously.
+
+.
+
+ Markers of Inflammation in Hematopoietic Stem Cell Transplant@highlight
+
+Objectives: 1.
+
+ To show feasibility and reproducibility of performing a multiplex ligation-dependent amplification procedure (RT-MLPA) 2.
+
+ To describe the profile of changes in inflammatory gene products, using RT-MLPA, in pediatric patients receiving stem cell transplant 3.
+
+ To determine if changes in a specific inflammatory product, or a combination of inflammatory products, can predict grade 2-4 acute graft-versus-host disease

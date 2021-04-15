@@ -1,0 +1,18 @@
+(secondQuint)Topical Treatment of Recalcitrant Ulcerative Old World Leishmaniasis With WR 279,396.
+
+ Up to 10 volunteers, who are military health care beneficiaries, with a diagnosis of Old World cutaneous leishmaniasis who have failed pentavalent antimony or are not eligible to be treated with pentavalent antimony, will be treated with WR 279,396 (topical paromomycin-gentamicin-AQIC) twice a day for 20 days.
+
+ Primary endpoint will be the appearance of complete epithelialization of each skin lesion by Day 50+/-2 weeks, or estimated 50%-99% re-epithelialization by Day 50+/-2 weeks followed by complete epithelialization by Day 100+/-2 weeks,with both categories without relapse by Day 180+/-30 days.
+
+ Efficacy will be evaluated by clinical appearance assessed by study investigator and documented with photographs of the treated skin lesions.
+
+ Toxicity will be evaluated by local adverse reactions and by laboratory signs of systemic toxicity.
+
+.
+
+ Topical Treatment of Recalcitrant Ulcerative Old World Leishmaniasis With WR 279,396@highlight
+
+The primary objective of this protocol is to treat laboratory confirmed cutaneous leishmaniasis with WR 279,396 in military health care beneficiaries.
+
+ In this study "cutaneous leishmaniasis" is defined as Old World Leishmaniasis if acquired in the Southwest Central Asia/Middle East.
+

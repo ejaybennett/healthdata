@@ -1,0 +1,34 @@
+(thirdQuint)Computerized Questionnaires in Assessing Symptoms, Pain, Depression, and Physical Function in Patients With Metastatic and/or Advanced Locoregional Cancer.
+
+ OBJECTIVES: - Determine the feasibility of applying a computer-based system for symptom assessment and classification in palliative cancer care in patients with metastatic and/or advanced cancer.
+
+ - Examine hypothesized differences across groups related to acceptance of computers (i.
+
+e.
+
+, age, culture, stage of disease, cognitive and physical function, etc.
+
+).
+
+ - Examine the general user-friendliness of the tool.
+
+ - Test and validate the performance of selected domains and items for classification and assessment of pain and cachexia.
+
+ - Explore the validity of domains and items for depression.
+
+ OUTLINE: This is a multicenter study.
+
+ All patients undergo computer-based assessments of general symptoms by the Edmonton Symptom Assessment System (ESAS) and the European Organization for Research and Treatment of Cancer Core Quality of Life (EORTC QLQ C30) questionnaires and assessment of physical function, appetite/weight loss, and depression by the Brief Patient Health Questionnaire 9 (PRIME-MD PHQ9).
+
+ Patients who score 1 (on a 0-10 numerical rating score) on the pain screening question with or without occurrence of breakthrough pain (BTP), undergo the Alberta BTP Assessment tool assessing precipitating factors for pain, time to pain relief after intake of medication, and satisfaction with medication.
+
+ Patients complete questions regarding user-friendliness and feasibility of using the computer at the end of their session.
+
+.
+
+ Computerized Questionnaires in Assessing Symptoms, Pain, Depression, and Physical Function in Patients With Metastatic and/or Advanced Locoregional Cancer@highlight
+
+RATIONALE: A computer-based system for assessing symptoms may be effective for patients with metastatic or advanced cancer.
+
+ PURPOSE: This clinical trial is studying how well computerized questionnaires work in assessing symptoms, pain, depression, and physical function in patients with metastatic and/or advanced local/regional cancer.
+

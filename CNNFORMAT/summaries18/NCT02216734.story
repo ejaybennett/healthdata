@@ -1,0 +1,56 @@
+(fifthQuint)Effects of Facility-based Mother Support Groups on Prevention of mother-to Child Transmission Outcomes in Zimbabwe.
+
+ PRIMARY OBJECTIVE To test whether MSGs lead to increased retention of HIV-exposed infants in PMTCT programmes SECONDARY OBJECTIVES 1.
+
+ To assess whether MSGs lead to increased retention of mothers in postnatal HIV follow-up care 2.
+
+ To assess whether male participation in PMTCT activities is increased at clinics with MSGs 3.
+
+ To assess whether selected maternal and infant health indicators are improved in HIV-positive mothers and their exposed infants at facilities with MSGs, viz.
+
+ (1) Antenatal attendance; (2) Delivery in facilities; (3) Infant immunisation uptake; (4) Infant feeding methods and nutrition status; (5) Infant nevirapine prophylaxis; (6) Infant co-trimoxazole prophylaxis; (7) Infant HIV testing; and (8) Family planning uptake MOTHER SUPPORT GROUP INTERVENTION MSGs were designed following formative research.
+
+ A non-governmental organisation established MSGs by recruiting HIV+ mothers and volunteer coordinators (MSGCs) prior to commencing enrolment.
+
+ MSGCs were HIV-positive mothers who were trained in MSG establishment and maintenance, retention activities and data collection.
+
+ MSGs meet each two weeks with the MSGC or health worker facilitating an information session using a curriculum of eight PMTCT-related topics.
+
+ MSGCs send standard message reminders to members, contact non-attending members by phone and inform health workers (HWs) to assist retention.
+
+ HWs conduct retention actions of non-attending patients in PMTCT programmes.
+
+ SAMPLE SIZE AND RANDOMISATION We excluded from the study low-volume facilities that recorded booking fewer than 10 HIV-positive antenatal mothers per annum.
+
+ We randomly selected facilities in the two study districts to either of the study arms.
+
+ Based on estimated infant retention rates for control and intervention arms, we calculated the minimum sample size of 10 HIV-positive mothers to be enrolled at each health facility.
+
+ DATA COLLECTION, ANALYSIS AND QUALITY ASSURANCE The study utilizes the existing health information system (e.
+
+g.
+
+ antenatal care (ANC) Register, Exposed Infant Follow-Up Register, Anti-retroviral treatment (ART) Register), supplemented by EPAZ study-related data collection and patient tracking systems.
+
+ Study staff will work with clinic- and district-level staff to improve and collect routine and study-specific data.
+
+ Data will be entered, coded, cleaned and locked before analyses are made.
+
+ Data will be analysed on an intention-to-treat basis.
+
+ A mobile team of well-trained quality assurance and control study staff will be deployed throughout the data collection period to ensure quality of the intervention and of data generated and collected at each study site.
+
+ A pre-specified proportion of patient visit records will be reviewed from each site.
+
+.
+
+ Effects of Facility-based Mother Support Groups on Prevention of mother-to Child Transmission Outcomes in Zimbabwe@highlight
+
+The investigators hypothesize that a strategy of establishing facility-based mother support groups (MSGs) for HIV-positive mothers will result in increased retention rates of HIV-exposed infants in clinic-based PMTCT follow-up systems twelve months post-delivery compared to clinics that lack MSGs.
+
+ The study will be conducted in health facilities in rural Mutare and Makoni health districts in Manicaland province, Zimbabwe.
+
+ A two-arm cluster controlled study design will be used in 30 rural clinics randomly assigned to either arm to compare the effectiveness of MSGs.
+
+ Arm 1 of the study consists of standard of care whilst arm 2 consists of standard of care together with facility-based MSGs.
+

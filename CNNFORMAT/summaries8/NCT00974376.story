@@ -1,0 +1,14 @@
+(firstQuint)Gabapentin Treatment of Cannabis Dependence.
+
+ This is a 12-week, double blind, placebo controlled study to evaluate the efficacy of gabapentin in treating outpatients with cannabis dependence.
+
+ After an initial phone screen, a comprehensive screening visit is scheduled to determine eligibility.
+
+ Upon enrollment, counseling, medication dispensation and research assessments occur 1 time per week for 3 months.
+
+.
+
+ Gabapentin Treatment of Cannabis Dependence@highlight
+
+This is a clinical study to evaluate the efficacy of the medication gabapentin in treating persons with cannabis dependence.
+

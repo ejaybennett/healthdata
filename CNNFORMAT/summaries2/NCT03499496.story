@@ -1,0 +1,24 @@
+(fifthQuint)Screening for Atherotic Plaques by Ultrasound for Assessing Cardiovascular Risk.
+
+ Both common and proximal internal carotid arteries and both common femoral arteries (including bifurcations) were screened by ultrasound in patients who came for a check-up to a primary care practice with no known cardiovascular disease and low risk for stroke and heart attack according to the AGLA/GSLA risk score which is mostly used in Switzerland.
+
+ All patients agreed and gave written informed consent to be included in this study.
+
+ Presence of plaques was defined as a focal carotid intima-media thickness >0.
+
+5 cm on ultrasound.
+
+ Screening was performed by a medical doctor (DP) certified for the procedure using the following ultrasound system: Toshiba Nemio XG, probe 7.
+
+5 MhZ.
+
+.
+
+ Screening for Atherotic Plaques by Ultrasound for Assessing Cardiovascular Risk@highlight
+
+Cardiovascular disease is a common diagnosed and treated condition in private practices of primary health care.
+
+ There is growing evidence that atherosclerotic plaques as predictors for stroke and heart attack are more prevalent than expected based on the clinical score in people with low risk for stroke and heart attack .
+
+ Diagnosing atherosclerotic plaques can help to decide if a lipid lowering therapy should be prescribed even if the clinical risk score is low or on the other hand if they can be observed even in high lipid levels.
+

@@ -1,0 +1,15 @@
+(firstQuint)Non Culprit Functional Evaluation With 3D Angio QFR in STEMI PCI Procedure.
+
+ 3DAngio QFR is an angiographic based tool for coronary stenosis functional assessment: it is validated versus Adenosine FFR(ADOFFR) by several studies (FAVOR, VIRTU-1) ; in particular post contrast QFR (cQFR) showed a very good correlation with ADOFFR.
+
+ Furthermore ADOFFR in non culprit vessel in acute stage of STEMI correlates well with ADOFFR of the same non culprit lesion in staged procedure.
+
+ Aim of the study is to find a valid correlation between cQFR in acute study and ADOFFR in the staged procedure.
+
+ A positive result may lead to a fast, easy and cost effective acute functional non culprit lesions evaluation during acute procedure for STEMI patients, selecting those,if any, to be treated immediately or in a staged procedure.
+
+.
+
+ Non Culprit Functional Evaluation With 3D Angio QFR in STEMI PCI Procedure@highlight
+
+Reliability of 3D angio QFR functional evaluation of all non culprit lesions >50% in STEMI patients during first acute procedure

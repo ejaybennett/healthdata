@@ -1,0 +1,20 @@
+(firstQuint)Safety and Pharmacodynamic Study of CD-NP.
+
+ The study will be conducted in two phases.
+
+ The first phase, "ascending dose phase", will be an open-label study in cohorts of four (4) subjects (entered two subjects at a time) with the primary objective of establishing the safety of CD-NP.
+
+ The second phase, "MTD confirmation phase", will be conducted under randomized, double-blind, placebo-controlled conditions in a larger cohort of subjects (10 subjects).
+
+ The primary objective of this phase will be to confirm the safety and pharmacodynamic findings at the apparent MTD.
+
+ Secondary objectives include evaluation of the effect of CD-NP on: mean arterial pressure (MAP), heart rate (HR), urinary sodium and potassium excretion (UNaV and UKV, respectively), urinary flow rate (UV), and creatinine clearance.
+
+ Plasma concentrations of CD-NP, angiotensin II, and aldosterone, and the urinary excretion rates of cGMP and CD-NP will also be determined.
+
+.
+
+ Safety and Pharmacodynamic Study of CD-NP@highlight
+
+The primary objective of this study is to establish the safety of CD-NP in normal human volunteers.
+

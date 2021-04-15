@@ -1,0 +1,15 @@
+(secondQuint)Omega-3 Fatty Acids in Treating Patients With Advanced Prostate Cancer.
+
+ OBJECTIVES: I.
+
+ To conduct a pilot study of omega-3 polyunsaturated fatty acid (PUFA) (omega-3 fatty acid) supplementation in a group of patients with advanced prostate cancer to assess the dose of omega-3 PUFA necessary to achieve an omega-6 to -3 ratio of 1:1 on an individual basis and to assess the clinical impact of omega-3 supplementation on disease progression OUTLINE: Patients receive long-term omega-3 polyunsaturated fatty acid (PUFA) supplementation orally (PO).
+
+ After completion of study treatment, patients are followed up at 1, 6, and 12 months.
+
+.
+
+ Omega-3 Fatty Acids in Treating Patients With Advanced Prostate Cancer@highlight
+
+This phase I trial is studying the best way to give omega-3 fatty acids in treating patients with advanced prostate cancer.
+
+ Omega-3 fatty acids may slow disease progression and may be an effective treatment for patients with advanced prostate cancer

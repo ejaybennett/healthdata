@@ -1,0 +1,38 @@
+(fifthQuint)A Study on the Anti-incontinent Effectiveness of the mTVM Method in POPQ Stage II-III Patients.
+
+ The prospective randomized double blind study comprised 152 women who presented for the correction of stress urinary incontinence (SUI) in conjunction with anterior compartment pelvic organ prolapse stage II-III (POP-Q II-III) at the Departments of Obstetrics and Gynecology at the University of Szeged, Hungary, between June of 2016 and June 2017.
+
+ After a block randomization method, the patients will divide into two arms, the study group which consist of 76 patients will undergo modified trans vaginal mesh operation (TVM), the rest 76 patients as a control group will undergo a traditional TVM operation.
+
+ Inclusion criteria in the study is coexisting SUI and POP Q St II-III and signature of the informed consent.
+
+ The exclusion criteria are as follows: urge, mixed or neurogenic incontinence, occult SUI, previous mesh operations, anti-depressive medical therapy, cancer of the pelvic organs, urinary infections, any sign of voiding difficulties.
+
+ The transobturator TVM operation (Sergent et al.
+
+) has been modofied by inserting a stabilizing suture, which fixing the anterior edge of the mesh to the para-urethral tissues at the level of the mid-urethra with two non-resolvable anchoring stitches thereby promoting the proper elevation and closure of the urethra.
+
+ The hypothesis is the stabilizing suture treat the coexisting SUI as well.
+
+ In all cases, urodynamic examinations were carried out before the surgery and urodynamic examinations comprising uroflowmetry, cystography and Valsalva leak point pressure tests and pelvic floor ultrasonography will be performed to determine the coexisting SUI.
+
+ The efficacy of the POP repair is taken as a significant (>1 cm) improvement at points Aa, Ba, C and D according to the POP-Q system (International Continence Society) during the follow-up.
+
+ The anti-incontinence efficacy is classified as no further SUI diagnosed by urodynamic examination and pelvic floor sonography.
+
+ All patients will fill two validated Hungarian language questionnaires as "A short form of the Pelvic Organ Prolapse/Urinary Incontinence Sexual Questionnaire" (PISQ-12) and "Pelvic Floor Distress Inventory" PFDI.
+
+ After a one-year application phase all patients will be followed for 36 months.
+
+ During follow- up phase repeated urodynamic studies, pelvic floor sonography urine culturing will be done after 3, 12, 24 and 36 months.
+
+ The evaluation of the POP-Q system and Bonney's cough test and the PISQ-12 and PFDI questionnaires will be performed at every regular check-ups.
+
+ A Study on the Anti-incontinent Effectiveness of the mTVM Method in POPQ Stage II-III Patients@highlight
+
+An increasing number of specific procedures have been described for the surgical repair of pelvic organ prolapse (POP) and concomitant stress urinary incontinence (SUI).
+
+ The investigators introduced an alternative operative method for POP-Q II-III repair and anti-incontinence with the trans vaginal mesh (TVM) anterior edge fixed to the periurethral tissues at the level of mid-urethra.
+
+ The efficacy and short- and long-term complication profile, of this new surgical technique as compared with those of non-modified TVM.
+

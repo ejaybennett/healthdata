@@ -1,0 +1,34 @@
+(thirdQuint)The Effect of Providing Free Samples of Generic Cardiovascular Medications to Physicians.
+
+ Highly-effective generic cardiovascular medications are frequently underused, leading to greater overall drug costs and cost-related non-adherence.
+
+ Interventions are needed to stimulate appropriate generic drug use without creating administrative or financial barriers to branded medications that may impede essential medication use.
+
+ The SAMPLES trial is a clustered, randomized controlled trial of the effect of providing physicians with free generic samples of hydrochlorothiazide for hypertensive patients and simvastatin for patients with hyperlipidemia.
+
+ We will randomize 660 primary care physicians in Pennsylvania, clustered by physician practice, to receive free samples for both conditions or to receive no samples.
+
+ We will use pharmacy claims of their patient population enrolled in a state-sponsored prescription drug assistance program to evaluate outcomes of interest.
+
+ The primary outcomes are physician prescribing behavior (proportion of prescriptions that are generic), and patient adherence to chronic therapy.
+
+ Secondary outcomes will include physician adherence to established guidelines (for anti-hypertensive regimens) and overall prescription drug costs.
+
+ Primary analyses will be based on intention-to-treat principles.
+
+ This trial highlights a new and innovative approach to stimulate cost-effective prescribing.
+
+ Free generic samples can reduce overall drug costs as well as out-of-pocket costs to the patient without sacrificing efficacy, and may result in improved adherence to essential cardiovascular medications.
+
+ This intervention may also improve adherence to practice guidelines and improve the quality of care received.
+
+ If found to be effective, this strategy could be utilized broadly by private insurers or government payers aiming to stimulate more cost-effective and higher-quality care.
+
+.
+
+ The Effect of Providing Free Samples of Generic Cardiovascular Medications to Physicians@highlight
+
+In this randomized controlled trial, we will provide primary care physicians with free samples of highly effective generic cardiovascular medications.
+
+ We will test whether this intervention will stimulate cost-effective prescribing, reducing drug costs and improving adherence to essential cardiovascular medications.
+

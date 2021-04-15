@@ -1,0 +1,28 @@
+(thirdQuint)Gestational Age is Underestimated by Menstrual Dating Compared to Ultrasound Dating in Those Undergoing Abortion up to 20 Weeks.
+
+ Retrospective cohort study by chart review.
+
+ We propose to review the charts of four thousand women obtaining abortion in British Columbia, BC.
+
+ Data will be extracted from the charts of women who obtained abortions between January first 2002 and June 30, 2008 inclusive at two abortion clinics in Vancouver, British Columbia: BC Women's Hospital CARE program, and the Elizabeth Bagshaw Women's Clinic.
+
+ Specifically we will record age, parity, date of LMP, presence of regular cycles, ultrasound estimation of gestational age, ultrasound measurements: crown rump length, bi-parietal diameter, gestational sac diameter if available, date of abortion, estimation of gestational age by examination of the products of conception, and fetal foot length if available.
+
+ Further we will record associated factors such as contraception at time of conception, intravenous drug use, and regularity of menstrual cycle.
+
+ We will calculate the gestational age at time of abortion by the LMP date, by the ultrasound date reported, ultrasound date based on the Hadlock protocol by the reported CRL and similarly BPD as well as calculating the gestational age based on the recorded fetal foot length.
+
+.
+
+ Gestational Age is Underestimated by Menstrual Dating Compared to Ultrasound Dating in Those Undergoing Abortion up to 20 Weeks@highlight
+
+Several large trials report gestational dating by last menstrual period (LMP) overestimates gestational age (GA) vs.
+
+ ultrasound (US) by approximately one week.
+
+ Previous studies examined only term pregnancies.
+
+ The investigators hypothesize an opposite tendency in women seeking abortion.
+
+ This is an observational study undertaken by chart review.
+

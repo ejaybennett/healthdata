@@ -1,0 +1,18 @@
+(secondQuint)EDP-494-001: A Study of EDP-494 in Healthy Subjects and Hepatitis C Patients.
+
+ The first phase explores single ascending doses of EDP-494 (active drug or placebo) in healthy subjects.
+
+ A 'fasted' vs 'fed' two-part cohort will also assess food effect.
+
+ The second phase involves multiple ascending doses (active drug or placebo) for 14 days in healthy subjects.
+
+ The third, proof of concept, phase will assess two different doses for 14 days each in Hepatitis C patients.
+
+ Each cohort within each phase will consist of 8 subjects randomized to either EDP-494 or placebo in a 3 to 1 ratio, with the exception of the food effect cohort, which will consist of 10 subjects randomised in a 4 to 1 ratio.
+
+.
+
+ EDP-494-001: A Study of EDP-494 in Healthy Subjects and Hepatitis C Patients@highlight
+
+This randomized, double-blind study will assess the safety, pharmacokinetics and efficacy of a single and multiple dose(s) of orally QD administered EDP-494 in healthy volunteers (HV) and in treatment-naive subjects with GT1/3 chronic hepatitis C (CHC) infection.
+

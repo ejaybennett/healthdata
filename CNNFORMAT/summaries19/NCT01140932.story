@@ -1,0 +1,20 @@
+(secondQuint)The Electroretinogram in Healthy and Glucose Intolerant Young Men.
+
+ The subjects will be fasting from midnight the day before the experiment.
+
+ Standard procedures (including pupil dilation, dark adaptation, and local anaesthetics) are carried out to allow the ERG to be obtained.
+
+ After electrophysiology, the subject will be clamped at a plasma glucose level of 10 mM (~180 mg/dL) and after a stabilisation period the ERG protocol is repeated.
+
+ Each subject is examined twice on two different days.
+
+ The first day the subjects are normoglycaemic in the morning (first examination) and hyperglycaemic (clamped to 10 mM) throughout the second examination.
+
+ The second day subjects are also normoglycaemic and hyperglycaemic but shows up after 7-12 days of daily intake of prednisolone, high calorie diet, and exercise restraint.
+
+.
+
+ The Electroretinogram in Healthy and Glucose Intolerant Young Men@highlight
+
+The purpose is to investigate the electroretinogram (ERG) in young, healthy men in the normoglycaemic and hyperglycaemic state before and after intervention with corticosteroids treatment, high calorie diet and exercise restraint.
+

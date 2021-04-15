@@ -1,0 +1,28 @@
+(secondQuint)The Feasibility of a Brief Attention Training Technique in Improving Behaviour and Attention in Children With ADHD.
+
+ Attention deficit hyperactivity disorder (ADHD) is a neurobehavioural disorder characterised by core symptoms of hyperactivity, impulsivity and inattention.
+
+ Its prevalence ranges between 3-9% of school-aged children, making it one of the most common presentations in child and adolescent mental health services.
+
+ In the last 10 years, research into the effectiveness of attention training as an intervention for children with ADHD has been increasing.
+
+ This has tended to follow assumptions that children with the disorder either lack skills in focusing and maintaining their attention and/or have neurological deficits in areas responsible for attention functions.
+
+ Results have been encouraging, with study participants demonstrating improvements in symptoms and behaviour following a course of attention training.
+
+ However, the method and length of training has varied across studies.
+
+ This study aims to investigate a treatment called the Attention Training Technique (ATT) that approaches attention difficulties in this disorder from a different perspective.
+
+ Instead of viewing inattention as a result of structural or skills deficits, it posits that children with ADHD have these skills, but are perhaps unaware of the flexibility and control they have over them.
+
+ This treatment aims to increase this awareness and subsequently improve ratings of attention, behaviour and other areas of executive functioning.
+
+.
+
+ The Feasibility of a Brief Attention Training Technique in Improving Behaviour and Attention in Children With ADHD@highlight
+
+This study aims to investigate the application of the Attention Training Technique in children with ADHD aged 7-11 years old.
+
+ The research aims to investigate both the feasibility of this technique in this population as well as whether it can improve symptoms, behaviour and executive functioning.
+

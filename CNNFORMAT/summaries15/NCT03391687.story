@@ -1,0 +1,16 @@
+(firstQuint)Incidence of Pancreatic Fistula After Radical Gastrectomy.
+
+ Pancreatic fistula, which can lead to fatal end, is one of the most serious complications after radical gastrectomy.
+
+ It is usually treated as a key factor to evaluate the quality of gastrectomy.
+
+ The incidence of pancreatic fistula is far different between different areas, knowing the prevalence of pancreatic fistula and risk factors can help us to prevent pancreatic fistula and improve the short time outcome of gastric cancer surgery treatment.
+
+ So, we designed this perspective, multi-center study to investigate the incidence of pancreatic fistula and its outcome in China.
+
+.
+
+ Incidence of Pancreatic Fistula After Radical Gastrectomy@highlight
+
+This study is designed to investigate the incidence of pancreatic fistula after radical gastrectomy in gastric cancer patients.
+

@@ -1,0 +1,12 @@
+(thirdQuint)Noninvasive Estimation of Work of Breathing.
+
+ This study will evaluate the correlation between invasively measured parameters (work of breathing/power of breathing, resistance and elastance), derived using esophageal pressure measurements, and their corresponding non-invasive estimated values (noninvasive work of breathing/power of breathing, resistance and elastance), computed using airway pressure and flow measurements only.
+
+ Vent settings will be adjusted to test accuracy over a range of respiratory support conditions.
+
+.
+
+ Noninvasive Estimation of Work of Breathing@highlight
+
+This study will evaluate the correlation between invasively measured parameters (work of breathing/power of breathing, resistance and elastance), derived using esophageal pressure measurements, and their corresponding non-invasive estimated values (noninvasive work of breathing/power of breathing, resistance and elastance), computed using airway pressure and flow measurements only.
+

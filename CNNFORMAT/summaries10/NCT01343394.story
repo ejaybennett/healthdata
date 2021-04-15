@@ -1,0 +1,28 @@
+(secondQuint)Safety of Autologous Human Umbilical Cord Blood Mononuclear Fraction to Treat Acquired Hearing Loss in Children.
+
+ Acquired sensorineural hearing loss is characterized by a loss of functioning hair cells in the Organ of Corti, with greater hair cell loss correlating with more severe hearing impairment.
+
+ Children with sensorineural hearing loss experience difficulty developing normal language which usually leads to poor academic and social development.
+
+ Currently, there are no reparative therapeutic options available, and treatments are designed to augment the diminished function of the injured Organ of Corti.
+
+ Pre-clinical data suggest progenitor cell infusions may enhance intrinsic repair mechanisms in the Organ of Corti which may restore hair cells.
+
+ This treatment could ultimately lead to hearing improvement.
+
+ Human umbilical cord blood (hUCB) is an available, autologous, stored progenitor cell population available for potential therapeutic use.
+
+ The primary objective of this study is to determine the safety of autologous hUCB infusion in children with acquired hearing loss.
+
+ The secondary objective is to determine if functional, physiologic and anatomic outcomes are improved following hUCB treatment in this patient population.
+
+.
+
+ Safety of Autologous Human Umbilical Cord Blood Mononuclear Fraction to Treat Acquired Hearing Loss in Children@highlight
+
+The objectives of this study are: 1.
+
+ To see if autologous human umbilical cord blood treatment is safe for children with acquired hearing loss, and 2.
+
+ To determine if late functional outcome is improved following autologous human umbilical cord blood treatment for children with acquired hearing loss.
+

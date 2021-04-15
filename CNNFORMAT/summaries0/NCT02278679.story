@@ -1,0 +1,22 @@
+(secondQuint)Digital Rectal Exam Proficiency Tool.
+
+ First, it will be validated on 120 anesthetized patients undergoing prostate surgery, comparing responses on the digital rectal exam clinical tool (DiRECT) from both expert and novice clinicians, with surgical pathology reports.
+
+ The second phase of validation will involve the participation of standardized patients, medical students and MUTA (medical urology teaching associate).
+
+ During a standardized patient exercise focusing on digital rectal exam in the University of Virginia School of Medicine curriculum, 160 second-year medical students will be given the DiRECT to document their examination.
+
+ An attending physician will also attend the standardized patient exercise and document their examination for comparison with the medical students.
+
+ The third phase includes 8 residents and up to10 attendings in the Urology clinic, who will independently complete the DiRECT documenting their DRE in the course of usual care.
+
+ Comparison of faculty and student/trainee responses in all phases will be used for validation of the clinical tool for further use in medical education.
+
+.
+
+ Digital Rectal Exam Proficiency Tool@highlight
+
+A digital rectal exam proficiency tool, titled the 'DiRECT' was developed based on the consensus of 10 experts.
+
+ The purpose of this study is to validate this tool for use in both undergraduate and graduate medical education .
+

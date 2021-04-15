@@ -1,0 +1,14 @@
+(firstQuint)The Effects of Antecedent Hypoglycemia or Exercise on the Response of the Brain to Subsequent Hypoglycemia.
+
+ The studies proposed in this application seek to use non-invasive techniques to examine the impact of repeated hypoglycemia on the brain.
+
+ During the past decade many studies have shown that appropriate magnetic resonance imaging (MRI) methods may be used to assess alterations in brain regional activation in response to external stimuli or tasks.
+
+ Thus, this non-invasive technique will enhance our ability to learn more about brain function, during hypoglycemia and may delineate information about the role of the brain in hypoglycemia associated autonomic dysfunction.
+
+.
+
+ The Effects of Antecedent Hypoglycemia or Exercise on the Response of the Brain to Subsequent Hypoglycemia@highlight
+
+The studies proposed in this application seek to use non-invasive techniques to examine the impact of repeated hypoglycemia on the brain.
+

@@ -1,0 +1,26 @@
+(fifthQuint)Lifestyle Physical Activity for People With COPD.
+
+ People with chronic obstructive pulmonary disease (COPD) experience a gradual decline in physical activity (PA).
+
+ Exercise training in a structured pulmonary rehabilitation program can generate substantial gains in functional capacity, but increases in functional capacity do not necessarily lead to improvements in daily PA.
+
+ The proposed study will examine the effects of a lifestyle physical activity intervention designed to increase PA in people with moderate and severe COPD.
+
+ The intervention includes a combination of (a) structured laboratory-based exercises with a self-efficacy enhancing intervention, (b) structured home-based exercises and (c) lifestyle physical activities performed at home.
+
+ The intervention gradually transitions subjects from the structured laboratory-based exercises that focus on walking and circuit training to fully integrated lifestyle physical activities that integrate structured home-based exercises and lifestyle physical activities into daily life.
+
+ The purpose of this preliminary study is to examine the effects of a program that includes two-months of structured lab-based training and subjects will be followed for a total of 18 weeks.
+
+.
+
+ Lifestyle Physical Activity for People With COPD@highlight
+
+The purpose of this preliminary study is to examine the effects of a program that includes two-months of structured lab-based training.
+
+ The proposed study will examine the effects of a lifestyle physical activity intervention designed to increase PA in people with moderate and severe COPD.
+
+ The intervention includes a combination of (a) structured laboratory-based exercises with a behavioral intervention, (b) structured home-based exercises and (c) lifestyle physical activities performed at home.
+
+ The subjects will be followed for a total of 18 weeks.
+

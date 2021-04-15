@@ -1,0 +1,20 @@
+(firstQuint)Effect of Betaine and Folic Acid on Vascular Function in Healthy Humans.
+
+ A high plasma homocysteine is a potential risk factor for cardiovascular disease and death.
+
+ However, it remains uncertain whether homocysteine per se, low status of folate, or other factors related to methionine metabolism are involved in the pathogenesis of cardiovascular disease.
+
+ Previous studies have shown that a high concentration of homocysteine in blood is related to an impaired vascular function in the arteries, an indicator of cardiovascular disease risk.
+
+ Virtually all intervention trials used folic acid as a homocysteine-lowering agent, which may however affect vascular function through mechanisms not related to homocysteine.
+
+ We investigated whether lowering of fasting homocysteine concentrations via supplementation with betaine or folic acid improves vascular function in healthy volunteers, in order to distinguish between effects of folic acid and of homocysteine-lowering per se.
+
+ Comparison: We compare the effects of supplementation with folic acid to the effects of betaine, and to the effects of a placebo on plasma homocysteine concentrations and vascular function in healthy humans.
+
+.
+
+ Effect of Betaine and Folic Acid on Vascular Function in Healthy Humans@highlight
+
+The purpose of this study is to determine whether lowering of fasting homocysteine concentrations improves vascular function in healthy volunteers, irrespective of the homocysteine-lowering agent.
+

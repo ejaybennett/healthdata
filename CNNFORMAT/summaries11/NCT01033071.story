@@ -1,0 +1,26 @@
+(secondQuint)Efficacy and Safety of Azilsartan Medoxomil and Chlorthalidone Compared to Olmesartan Medoxomil and Hydrochlorothiazide in Participants With Moderate to Severe Hypertension.
+
+.
+
+ According to the World Health Organization, hypertension is the most common attributable cause of preventable death in developed nations, as uncontrolled hypertension greatly increases the risk of cardiovascular disease, cerebrovascular disease, and renal failure.
+
+ As the population ages, the prevalence of hypertension will continue to increase if broad and effective preventive measures are not implemented.
+
+ Despite the availability of antihypertensive agents, hypertension remains inadequately controlled; only about one third of patients continue to maintain control successfully.
+
+ Treatment algorithms for essential hypertension commonly include thiazides or thiazide-like diuretics, either alone or as part of combination treatment.
+
+ Chlorthalidone is a commercially available, orally administered thiazide-type diuretic agent.
+
+ TAK-491 (azilsartan medoxomil) is an angiotensin II receptor blocker developed by Takeda to treat participants with essential hypertension.
+
+ This study will compare the safety and tolerability of azilsartan medoxomil plus chlorthalidone (TAK-491CLD) fixed-dose combination to olmesartan medoxomil plus hydrochlorothiazide fixed-dose combination.
+
+.
+
+ Efficacy and Safety of Azilsartan Medoxomil and Chlorthalidone Compared to Olmesartan Medoxomil and Hydrochlorothiazide in Participants With Moderate to Severe Hypertension.
+
+@highlight
+
+The purpose of this study is to compare the antihypertensive effect of azilsartan medoxomil plus chlorthalidone, once daily (QD), to olmesartan medoxomil plus hydrochlorothiazide in participants with moderate to severe hypertension.
+

@@ -1,0 +1,38 @@
+(fifthQuint)An Open-Label Trial of Donepezil in Fragile X Syndrome.
+
+ Fragile X syndrome is the most common genetically inherited cause of neurodevelopmental disability in humans, affecting approximately 1:2000 to 4000 live births.
+
+ Affected individuals have significant, long-term problems with learning, and often with behavior as well.
+
+ The disorder is caused by the presence of a greatly expanded CGG repeat within the FMR1 gene on the long arm of the X chromosome.
+
+ Abnormal methylation of this repeat, and adjacent areas within the FMR1 gene impedes transcription, ultimately resulting in reduced production of the FMR1 protein (FMRP).
+
+ This protein is expressed in neurons, with particularly high levels of gene transcription occurring in the nucleus basalis (basal forebrain) and hippocampus.
+
+ A recent functional imaging study from our group showed girls with fragile X to have greatly reduced levels of brain activation in the basal forebrain and hippocampal activation during a memory task.
+
+ The nucleus basalis, is a cholinergic nucleus with widespread connections to the neocortex.
+
+ It is critical to visuospatial attention in rodents and primates and is presumed to play a similar role in humans.
+
+ The finding of decreased basal forebrain activation in girls with fragile X, considered in light of histological evidence showing high transcription levels of FMR1 in healthy nucleus basalis, suggests the possibility of a functional cholinergic deficit in fragile X syndrome.
+
+ Donepezil is an acetylcholinesterase inhibitor which slows the degradation of synaptic acetylcholine thereby increasing its availability.
+
+ It is approved for the treatment of mild-moderate Alzheimer's disease.
+
+ It has been studied in several other neurologic disorders--including vascular dementia, Lewy Body dementia, and Down's syndrome (with and without dementia)--where it has shown varying degrees of efficacy but consistently high degrees of safety and tolerability.
+
+ The goal of the proposed study is to determine if enhancing cholinergic activity with donepezil has beneficial effects on behavior or cognition in subjects with fragile X syndrome.
+
+.
+
+ An Open-Label Trial of Donepezil in Fragile X Syndrome@highlight
+
+Fragile X syndrome is the most common known inherited cause of neurodevelopmental disability.
+
+ Functional magnetic resonance imaging (fMRI) studies from our laboratory indicate that specific brain regions using the neurochemical, acetylcholine, show significantly reduced activation during learning.
+
+ Since donepezil is a medication that enhances acetylcholine function in the brain, the purpose of this study is to determine if donepezil has any beneficial effect on behavior or cognition in subjects with fragile X syndrome.
+

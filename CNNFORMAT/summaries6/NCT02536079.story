@@ -1,0 +1,24 @@
+(secondQuint)NeuroAiD Safe Treatment Registry.
+
+ The NeST Registry is designed as a product registry that would provide information on the use and safety of NeuroAiD in clinical practice.
+
+ An online NeST Registry was set up to allow easy entry and retrieval of essential information including demographics, medical conditions, clinical assessments of neurological, functional, and cognitive state, compliance, concomitant medications and side effects if any, among patients on NeuroAiD.
+
+ Participation is voluntary.
+
+ Data collected are similar to information obtained during standard care and are prospectively entered by the participating physicians at baseline (before initialization of NeuroAiD) and during subsequent visits.
+
+ The follow up visits are timed with clinical appointments.
+
+ Anonymized data will be extracted and collectively analyzed.
+
+ Initial target sample size for the registry is 2000.
+
+.
+
+ NeuroAiD Safe Treatment Registry@highlight
+
+The NeST registry is a pro-active industry-academic collaboration to assess the use and safety of NeuroAiD in the real world setting.
+
+ An online entry system was set up to allow easy data entry and retrieval of clinical information.
+

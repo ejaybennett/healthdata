@@ -1,0 +1,26 @@
+(fifthQuint)Efficacy Trial of CDB 2914 for Emergency Contraception.
+
+ Objective: To compare the efficacy, safety and tolerance of a 50 mg dose of a new antiprogestin, CDB-2914 with a 0.
+
+75 mg bid dose of levonorgestrel as emergency contraception Design: Multicenter, randomized, double blind Phase II study to compare a 50 mg dose of CDB-2914 to a 0.
+
+75 mg bid dose of levonorgestrel as emergency contraception Duration: A one-time treatment with either CDB-2914 or levonorgestrel with follow-up visits at 5-7 days after expected onset of menses and another visit at 12-14 days after expected onset of menses (if needed) Treatment: A one-time treatment with one of the following: - Two doses of 0.
+
+75 mg of levonorgestrel to be taken 12 hours apart - One dose of 50 mg CDB-2914 and a second placebo dose to be taken 12 hours later Study Sites: Multicenter study in the United States Subjects: Women of reproductive age (at least 18 years) at risk of pregnancy within 72 hours of unprotected coitus Sample Size: Approximately 811 women will be enrolled in each treatment group to obtain 1540 evaluable subjects Outcome Evaluations Primary: To evaluate the efficacy of CDB-2914 used by subjects as an emergency postcoital contraceptive in comparison to a group of subjects receiving levonorgestrel.
+
+ Secondary: To compare the tolerability (as measured by vomiting and nausea) of CDB-2914 used by subjects as an emergency postcoital contraceptive with that of a group of subjects receiving levonorgestrel.
+
+ Safety/Other: To assess the frequency and intensity of adverse events and the effects on the menstrual cycle of subjects administered CDB-2914 in comparison to subjects given levonorgestrel.
+
+.
+
+ Efficacy Trial of CDB 2914 for Emergency Contraception@highlight
+
+Objective: To compare the efficacy, safety and tolerance of a 50 mg dose of a new antiprogestin, CDB-2914 with a 0.
+
+75 mg bid dose of levonorgestrel as emergency contraception Design: Multicenter, randomized, double blind Phase II study to compare a 50 mg dose of CDB-2914 to a 0.
+
+75 mg bid dose of levonorgestrel as emergency contraception Subjects are randomized to receive a one-time treatment with either one dose of 50 mg CDB-2914 (followed 12 hours later by a placebo) or 2 doses of 0.
+
+75 mg of levonorgestrel with follow-up visits at 5-7 days after expected onset of menses and another visit at 12-14 days after expected onset of menses (if needed) The primary aim is to evaluate the efficacy of CDB-2914 used by subjects as an emergency postcoital contraceptive in comparison to a group of subjects receiving levonorgestrel.
+

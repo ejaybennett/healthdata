@@ -1,0 +1,40 @@
+(fifthQuint)Development and Assessment of a Mobile Phone Based Intervention to Reduce Maternal Depression and Improve Child Health.
+
+ Disturbances in mother-infant relationship in depressed mothers negatively influence the child's development.
+
+ There are a number of efficient treatments for postnatal depression including antidepressant medication, psychotherapy and psychosocial interventions.
+
+ Tele-health and mobile health is a novel and emerging field in psychiatric and psychological care and treatment of mental health difficulties, it involves the use of telecommunications to provide health care, support and intervention from a distance.
+
+ The proposed study will test the efficacy of an innovative, affordable mobile based intervention program that can help mothers with postnatal depression in low resource countries such as Pakistan.
+
+ Participants will be recruited from maternal and child care centres in Karachi, Pakistan and those participants (n = 204) meeting inclusion criteria of the study will be randomized into one of the 2 treatment arms, i.
+
+e.
+
+, intervention or control, after completion of baseline assessment.
+
+ Intervention will be comprised of LTP Plus and will be delivered through text messages.
+
+ Momentary Sampling assessment and Momentary Psychological intervention will be part of this study.
+
+ Participants will be assessed again after completion of intervention (i.
+
+e.
+
+, after 12 weeks) and then 3 months post intervention.
+
+.
+
+ Development and Assessment of a Mobile Phone Based Intervention to Reduce Maternal Depression and Improve Child Health@highlight
+
+The prevalence rate of maternal depression in Pakistani women and its effect on the growth and development of young children and child mortality is very high.
+
+ The main objective of this study is to increase access to evidence based psychological interventions for mothers who have children of age 0 to 30 months, consistent with her values.
+
+ The study will be a 2 (conditions) into 3 (Time) single blind randomized controlled trail.
+
+ Depressed mothers will be randomized either to intervention arm or control arm.
+
+ Intervention will include text messages based on Learning Through Play Plus (LTP plus CBT).
+

@@ -1,0 +1,12 @@
+(firstQuint)Concentrations of Formoterol in Blood and Urine.
+
+ The purpose of the study is to assess the serum and urine concentrations after inhalation of 18 microgram formoterol as one dose.
+
+ Furthermore to investigate the serum and urine concentrations of inhaled formoterol and evaluate the difference between three groups: healthy men, male asthmatic subjects and male elite athletes with asthma.
+
+.
+
+ Concentrations of Formoterol in Blood and Urine@highlight
+
+The purpose of the study is to assess the blood and urine concentrations of inhaled formoterol.
+

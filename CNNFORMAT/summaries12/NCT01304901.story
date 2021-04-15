@@ -1,0 +1,22 @@
+(secondQuint)Effect of Addition of Single Dose of Oral Montelukast to Standard Treatment in Acute Asthma in Preschool Children.
+
+.
+
+ Systemic corticosteroids and short acting beta-2 agonists are the mainstay treatment of acute asthma, however, little data exists regarding use of leukotriene antagonists in acute asthma.
+
+ A few studies in adults have shown that oral montelukast also improved pulmonary function when being added to the standard treatment.
+
+ But in school-age children this clinical benefit could not be demonstrated by adding montelukast to the standard treatment of acute asthma in emergency room.
+
+ Moreover in preschool children there are no studies on this topic.
+
+ The investigators hypothesized that addition of single dose of oral montelukast to standard therapy in acute moderate to severe wheezing may provide additional benefit in the meaning of improvement of pulmonary score and/or proportion of discharge from emergency department in preschool-age children.
+
+.
+
+ Effect of Addition of Single Dose of Oral Montelukast to Standard Treatment in Acute Asthma in Preschool Children.
+
+@highlight
+
+The purpose of this study is to determine if adding single dose of oral montelukast to the standard treatment of systemic glucocorticoids plus short acting beta-2 agonist for treatment of acute wheezing provide additional clinical benefit in the emergency room.
+

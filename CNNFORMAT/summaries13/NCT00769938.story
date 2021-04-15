@@ -1,0 +1,22 @@
+(thirdQuint)WOEST ( What is the Optimal antiplatElet & Anticoagulant Therapy in Patients With Oral Anticoagulation and Coronary StenTing).
+
+ Chronic oral antithrombotic treatment is necessary in patients with mechanical heart valves and in the majority of patients with atrial fibrillation.
+
+ When these patients have to undergo Percutaneous Coronary Intervention (PCI) with stenting, there is also an indication for treatment with aspirin and clopidogrel.
+
+ However, triple therapy is known to augment the risk for bleeding complications.
+
+Unfortunately, no prospective data are available to solve this issue.
+
+ Nevertheless, it all comes down to finding the ideal therapy in patients with both atrial fibrillation and percutaneous intervention to prevent thrombotic complications (e.
+
+g.
+
+ stent thrombosis) without increasing the risk of bleeding.
+
+ This prospective randomised study will assess the hypothesis that in patients on warfarin therapy and indication for elective percutaneous intervention, the combination warfarin & clopidogrel 75 mg/day is superior to triple therapy treatment in reducing the risk of bleeds while equally safe with respect to the prevention of thrombotic complications.
+
+ WOEST ( What is the Optimal antiplatElet & Anticoagulant Therapy in Patients With Oral Anticoagulation and Coronary StenTing)@highlight
+
+The study will assess the hypothesis that the combination warfarin & clopidogrel 75 mg/day is superior to triple therapy (warfarin + clopidogrel 75mg/day + aspirin 80mg/day) with respect to bleeding complications while equally safe with respect to the prevention of thrombotic complications in patients with both indications for warfarin use and dual antiplatelet (clopidogrel 75mg/day + aspirin 80mg/day) treatment.
+

@@ -1,0 +1,24 @@
+(firstQuint)Partner Involvement During Pregnancy and Its Association With Maternal Health Behaviors.
+
+ Paternal support is related to positive pregnancy outcomes.
+
+ We explored the relationship between paternal involvement and maternal smoking and alcohol consumption during pregnancy.
+
+ This was an IRB-approved cross sectional study.
+
+ Pregnant women between the ages of 18 - 44 years old and their partners were surveyed in the outpatient OB/GYN offices of Thomas Jefferson University.
+
+ Women who identified their partner as their main support were included.
+
+ Demographic and health information was collected.
+
+ A composite support score for each woman was generated from a modified version of the Norbeck Social Support Questionnaire (NSSQ) on a scale from 5 - 35.
+
+ Support scores were evaluated with women's current smoking and drinking status using ANOVA and Student's t-test.
+
+.
+
+ Partner Involvement During Pregnancy and Its Association With Maternal Health Behaviors@highlight
+
+This study assessed the relationship between pregnant women, partner support, and cigarette and alcohol use in pregnancy.
+

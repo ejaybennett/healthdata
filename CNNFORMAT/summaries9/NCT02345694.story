@@ -1,0 +1,14 @@
+(secondQuint)Non-automatic Control of Gait and Posture in Obstructive Sleep Apnea Syndrome (CIH-Gait).
+
+ As severe sleep apnea patients exhibit gait abnormalities, this is the first randomised controlled trial to our knowledge to assess the impact of CPAP upon gait and postural control in severe sleep apnea patients.
+
+ Based on a dual-task paradigm, posture and gait analysis will be perform before and after 8 week of intervention.
+
+ Beside gait parameters, the cerebral metabolism will be assessed using a Near Infrared Spectroscopy (fNIRS) device during normal walking and during walking while dual-tasking, using a visual and a verbal task.
+
+.
+
+ Non-automatic Control of Gait and Posture in Obstructive Sleep Apnea Syndrome (CIH-Gait)@highlight
+
+The purpose of this randomised controlled study is to determine the impact of continuous positive airway pressure (CPAP) versus sub-therapeutic CPAP (placebo) on the control of gait upon severe sleep apnea patients, based on stride time variability.
+

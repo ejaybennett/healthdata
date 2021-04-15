@@ -1,0 +1,96 @@
+(fifthQuint)The Pathogenesis and Natural History of Sjogren s Syndrome.
+
+ BACKGROUND Sj(SqrRoot)(Delta)gren s syndrome (SS) is an autoimmune disease characterized by chronic inflammation involving the exocrine glands.
+
+ Salivary and lacrimal glands are predominantly affected leading to dry mouth and dry eyes but other exocrine organs are also frequently involved.
+
+ It is one of the most common rheumatic autoimmune diseases, which effects between 1-4 million Americans, predominantly women with a female to male ratio of 9:1.
+
+ Sj(SqrRoot)(Delta)gren s syndrome may occur alone (primary SS), or may coexist with other systemic connective tissue disorders (secondary SS).
+
+ In many cases systemic manifestations, such as fatigue, arthritis, vasculitis, lung disease, peripheral or central neuropathy and autonomic nervous system dysfunction accompany glandular involvement.
+
+ Patients with systemic manifestations are at higher risk of lymphoma, the incidence of which is increased in SS.
+
+ The treatment of sicca symptoms is mainly symptomatic, whereas management of extraglandular manifestations is similar to other autoimmune diseases.
+
+ The cause and pathogenesis of Sj(SqrRoot)(Delta)gren s syndrome is still largely unknown.
+
+ In a genetically predisposed individual various environmental factors, such as viral infections, may lead to epithelial cell activation and a protracted inflammatory response with features of autoimmunity.
+
+ Autoreactive lymphocytes and autoantibodies are considered important in this process although the pathogenic role of any particular autoantibody is still undefined.
+
+ Although inflammation may contribute to the exocrinopathy of SS, the relationship between inflammation and exocrine dysfunction is poorly understood.
+
+ Moreover, the model does not explain many of the extraglandular manifestations of SS patients, such as fatigue.
+
+ Further studies are needed to better understand the pathogenesis of SS.
+
+ OBJECTIVES The primary objective of this study is to enable the collection of longitudinal clinical and laboratory data and biologic specimens to identify pathogenetic mechanisms of SS by careful clinical phenotyping of SS patients and Sj(SqrRoot)(Delta)gren s-like conditions over time and collection of biologic samples for concurrent and future laboratory studies related to the pathogenesis of Sj(SqrRoot)(Delta)gren s syndrome.
+
+ Another objective of the study is to identify biomarker candidates associated with the diagnosis, severity, prognosis, or organ involvement in SS.
+
+ The protocol will enable the study of the genetic basis and the mechanistic aspects of immunologic and non-immunologic abnormalities of SS and their associations with various clinical phenotypes.
+
+ ELIGIBILITY CRITERIA The study will enroll 300 subjects with Sj(SqrRoot)(Delta)gren s syndrome or Sj(SqrRoot)(Delta)gren s-like conditions.
+
+ Subjects aged 16- years or older fulfilling European American Consensus Criteria for Primary or Secondary Sj(SqrRoot)(Delta)gren s syndrome are eligible for the study.
+
+ Selected subjects with incomplete Sj(SqrRoot)(Delta)gren s syndrome or who are excluded from the European American criteria may also be eligible.
+
+ Screening will be done on the Characterization of Diseases with Salivary Gland Involvement protocol (15-D-0051) prospectively or on the previous screening protocol (84-D-0056).
+
+ DESCRIPTION OF THE STUDY This is a longitudinal observational study.
+
+ All subjects will have at least three core evaluations (approximately biannually) during a 4-5 year period.
+
+ Additional evaluations may be required if there is a significant change in the clinical condition of subjects likely related to SS or sicca syndrome or to provide additional research samples or clinical data for the pathogenesis studies.
+
+ Clinical data will be collected through questionnaires, personal interviews, physical examination, laboratory testing and imaging studies.
+
+ The core evaluation will include a complete medical history and physical examination and a complete oral and dry eye evaluation.
+
+ Research studies include salivary scintigraphy for functional assessment of salivary gland function, testing of the autonomous nervous system and may include an ultrasound guided parotid core needle biopsy.
+
+ Blood, saliva and biopsy samples will be stored and used for laboratory research studies aimed at the pathogenesis of Sj(SqrRoot)(Delta)gren s syndrome.
+
+ Samples labeled with a code without any personal identifiers may be shared with researchers in and outside the NIH.
+
+ DNA will be collected for genetic studies related to Sj(SqrRoot)(Delta)gren s syndrome and related conditions.
+
+.
+
+ The Pathogenesis and Natural History of Sjogren s Syndrome@highlight
+
+Background: -Sjogren s syndrome is a disease that affects about 1-4 million Americans.
+
+ It is more common in women.
+
+ It mainly affects the glands that produce saliva and tears, leading to dry eyes and dry mouth.
+
+ The cause of Sjogren s syndrome is unknown, but inflammation plays an important role.
+
+ The purpose of this study is to learn more about Sjogren s syndrome.
+
+ Objectives: -To better understand how Sjogren s syndrome begins and how it affects patients so that we can develop better ways to treat them.
+
+ Eligibility: - Participants must be 16 years of age or older.
+
+ - They must have a diagnosis of Sjogren s syndrome or have at least two symptoms of Sjogren s syndrome.
+
+ Design: - People taking part in the study will come to the NIH Clinical Center for at least three visits.
+
+ - During these visits, participants will have a medical history and physical exam.
+
+ They will have oral and dental assessments, and saliva collection.
+
+ Lab tests (blood and urine) and dry eye exams will be done.
+
+ Participants will answer questionnaires and have salivary scintigraphy (adults only unless required for diagnosis).
+
+ - Other optional tests may also be done.
+
+ Participants may have to come in for additional visits if they have these optional tests or if their disease changes.
+
+ - The only treatment provided as part of this study is for medical emergencies or complications that occur while you are at NIH for evaluation.
+

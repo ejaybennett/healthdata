@@ -1,0 +1,24 @@
+(thirdQuint)The Effects of Inspiratory Muscle Training in Patients With Heart Failure and Obstructive Sleep Apnea Syndrome.
+
+ Patients with heart failure will be selected through the Outpatient of the Rio Grande do Sul, for convenience.
+
+ Subsequently, patients will be subjected to test respiratory muscle strength (manometer), respiratory muscle endurance, portable polysomnography, sleepiness, sleep quality, cognitive function (mini-mental state examination), motor task (execution of a sequence of digital movements), executive function, quality of life (SF-36), maximum exercise testing, chemoreflex sensitivity (peripheral chemoreflex by transient hypoxia and central chemoreflex by hypercapnic hyperoxia) and vagal modulation of heart rate (spectral analysis) before the start of the training protocol.
+
+ Patients will be randomized to inspiratory muscle training or control group.
+
+ Inspiratory muscle training will be performed for 30 minutes a day, 7 days a week, for 12 weeks with muscle training device (PowerBreathe).
+
+ There will be a weekly monitoring in the Clinical Research Center of the institution where the maximal inspiratory pressure (MIP) and respiratory training techniques will be reassessed and readjusted (30% of MIP).
+
+ The control group will be submitted to respiratory training techniques with muscle training device (PowerBreathe) without load.
+
+ After this period, all initial tests will be reassessed.
+
+ A group study with 15 heart failure patients without obstructive sleep apnea syndrome will be included.
+
+.
+
+ The Effects of Inspiratory Muscle Training in Patients With Heart Failure and Obstructive Sleep Apnea Syndrome@highlight
+
+This research aims to evaluate the effects of inspiratory muscle training (IMT) on apnea hypopnea index, sleepiness, sleep quality, cognitive function, motor task, executive function, quality of life, chemoreflex sensitivity and vagal modulation of heart rate in patients with heart failure and obstructive sleep apnea syndrome.
+

@@ -1,0 +1,38 @@
+(fifthQuint)Pathways for Health Equity Quality Improvement Strategy.
+
+ GOAL To improve the health and health equity of Indigenous peoples by strengthening the effectiveness, sustainability and scalability of a promising community-driven and culturally-relevant quality improvement strategy through meaningful conversations and engagement with our community partners.
+
+ OBJECTIVES 1.
+
+ Engage community partners and key stakeholders to support meaningful participation and leadership 2.
+
+ Review, improve and adapt the diabetes quality improvement strategy with community partners 3.
+
+ Evaluate the effectiveness of the adapted diabetes quality improvement strategy 4.
+
+ Develop community-driven plans for sustainability and scale-up for the adapted diabetes quality improvement strategy WHY IS PATHWAYS IMPORTANT? In Canada, there are significant inequalities between the health status of Indigenous peoples and the general population concerning diabetes.
+
+ Community-driven initiatives using promising diabetes quality improvement strategies can potentially reform local healthcare in Indigenous communities and improve care for those living with diabetes.
+
+ WHAT IS INVOLVED IN PATHWAYS? Community-based champions called Community Facilitators and Community Data Coordinators will be trained to provide leadership and support to community-based teams to make priority improvements to diabetes programs/ services and clinical care.
+
+ The 18-month quality improvement intervention includes: - educational workshops on diabetes and quality improvement - support, communication, and coaching for action planning and quality improvement - readiness consultation tools - diabetes registry & surveillance system An evaluation consisting of interviews and questionnaires may be used to understand the process of adapting the diabetes quality improvement strategy to each community's context and factors that influence the program's success.
+
+ Our strong, multidisciplinary and cross-jurisdictional PATHWAYS Team includes Indigenous community representatives and healthcare providers, nonIndigenous healthcare providers, clinician scientists and academic researchers, as well as policy decision-makers and knowledge-user organizations.
+
+ The timely program will provide community leaders and knowledge-users with policy recommendations and a quality improvement strategy that can be implemented, sustained and spread to Indigenous community settings and regions across Canada and internationally.
+
+ COMMUNITY PARTNERS Four community partners will be engaged and will partner in the Pathways program (two in Ontario and two in Atlantic Canada).
+
+ Formal Community Research Agreements will represent participation and partnership.
+
+.
+
+ Pathways for Health Equity Quality Improvement Strategy@highlight
+
+The PATHWAYS for Health Equity research program builds on the 5-year FORGE AHEAD Indigenous diabetes quality improvement research program (2013 - 2017).
+
+ PATHWAYS for Health Equity, a 3-year research program (2017 - 2019), is a great opportunity to continue our important collaborative diabetes quality improvement research with an increasing number of Indigenous partnering communities and researchers and key stakeholders (collaborators, policymakers and knowledge-users).
+
+ Four partnering First Nations communities will join the Pathways program to develop community-driven quality improvement initiatives championed by a Community Facilitator and supported by a Community Data Coordinator.
+

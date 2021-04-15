@@ -1,0 +1,32 @@
+(fifthQuint)Physical Activity in Patients With Severe Mental Illness.
+
+ The study population of interest was psychiatric in- or outpatients from Aarhus University Hospital , Risskov, some of whom were referred for physiotherapeutic treatment.
+
+ The patients were compared with healthy controls matched on gender and age, recruited from hospital staff including administrative employees.
+
+Patients and controls were included in the study after giving informed consent, according to the Declaration of Helsinki 2008.
+
+ All participants assessed their physical activity level by completing the PAS questionnaire twice within a time period of 5-7 days for evaluation of the test-retest reliability of PAS.
+
+ For patients, PAS was administered as an interview, and for controls as a self-questionnaire.
+
+ Several physiotherapists (PTs) were involved in interviewing the patients.
+
+ In total, 47 hospitalized patients or outpatients and 28 controls were included in the study.
+
+ In comparison with controls, the physical activity level of daily life of the patients was statistically significantly lower, even though the average physical activity level of the healthy controls was just above 'moderate physical activity'.
+
+ There was a satisfactory test-retest reliability of PAS when applied to both mentally ill patients and healthy controls.
+
+ PAS was found to be an applicable method for evaluating physical activity levels in patients with severe mental illness, and also useful in measuring changes in physical activity levels.
+
+.
+
+ Physical Activity in Patients With Severe Mental Illness@highlight
+
+The aim of the study was to evaluate the applicability of the Physical Activity Scale (PAS) in relation to patients with severe mental illness.
+
+ The study hypothesised that physical activity levels among patients with severe mental illness was significantly lower than healthy controls.
+
+ The physical activity level of patients with severe mental illness attending Aarhus University Hospital, Risskov in comparisons with healthy controls matched on gender and age was assessed with PAS.
+

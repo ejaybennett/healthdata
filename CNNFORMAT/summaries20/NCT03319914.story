@@ -1,0 +1,12 @@
+(secondQuint)Observational Follow-up to ST-001 Calciphylaxis Pain Treatment With Intravenous Sodium Thiosulfate.
+
+ This is an 8-week observational follow-up study of patients who participated in the ST-001 CALISTA study.
+
+ In this ST-003 (OF-CALISTA) study, the occurrence of delayed adverse events, standard of care treatments for calciphylaxis (medications [including Sodium Thiosulfate Injection and pain medication], wound debridement, amputation, hyperbaric oxygen therapy, and surgical parathyroidectomy), and calciphylaxis-related complications (new or worsening skin lesions, ulceration, infection, sepsis and hospitalizations) will be recorded during an 8-week observation period following patient participation in the ST-001 CALISTA study (A Phase 3, Intravenous Sodium Thiosulfate for Acute Calciphylaxis Treatment: A Multicenter, Randomized, Double-blind, Placebo-controlled Clinical Trial).
+
+.
+
+ Observational Follow-up to ST-001 Calciphylaxis Pain Treatment With Intravenous Sodium Thiosulfate@highlight
+
+This is an 8-week observational follow-up study of patients who participated in the ST-001 CALISTA study (A Phase 3, Intravenous Sodium Thiosulfate for Acute Calciphylaxis Treatment: A Multicenter, Randomized, Double-blind, Placebo-controlled Clinical Trial).
+

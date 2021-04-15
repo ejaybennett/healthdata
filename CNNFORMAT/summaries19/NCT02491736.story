@@ -1,0 +1,14 @@
+(firstQuint)Ketoprofen Gel vs Placebo in Children With Ankle Sprain.
+
+ Ankle sprains may be associated with soft tissue injuries and fractures.
+
+ Although diagnostic modalities are important, alleviation of pain is also a part of emergency department management.
+
+ The aim of this study is to analyse the effect of ketoprofen gel in children presented with ankle sprain to the emergency department.
+
+.
+
+ Ketoprofen Gel vs Placebo in Children With Ankle Sprain@highlight
+
+The aim of this study is to analyse the effect of ketoprofen gel in children presented with ankle sprain to the emergency department.
+

@@ -1,0 +1,38 @@
+(thirdQuint)BASUN - Risks for Malnutrition, Metabolic Bone Disease and Impaired Oral Health After Obesity Treatment.
+
+ The use of obesity surgery (OS) has increased dramatically due to the lack of effective conventional weight reducing methods.
+
+ OS generally gives a sustained weight reduction and improves metabolic co-morbidities but complications are not uncommon, e.
+
+g.
+
+ weight regain, bowel pain, diarrhea, vitamin/mineral deficiency, osteoporosis and impaired dental health.
+
+ Studies of OS regarding adverse side-effects, risk factors for complications and poor outcomes are few or missing.
+
+ The BASUN study is a prospective 10-year comparison of 1000 surgically and 400 conventionally treated individuals.
+
+ Inclusion started in April 2015 and will be completed in 2017.
+
+ Subjects are consecutively included from the whole western region of Sweden and are followed by detailed checkups at 2, 5 and 10 years.
+
+ Protocol includes nutritional and bone status, oral health, psychiatric health, GI symptoms, socioeconomics and health economy.
+
+ Data are collected by interviews, blood and fecal samples, questionnaires, dual energy x-ray absorptiometry, dentist examinations, patients' record and registries.
+
+ The study is carried out in close cooperation with experts in surgery, medicine, psychiatry, endocrinology, gastroenterology, hematology, molecular biology, osteoporosis, oral medicine, physiology and general medicine.
+
+ The BASUN study will be able to form the basis for more individualized medical guidelines with the objective of improving therapeutic quality and the utilization of health care resources.
+
+.
+
+ BASUN - Risks for Malnutrition, Metabolic Bone Disease and Impaired Oral Health After Obesity Treatment@highlight
+
+Weight-reducing obesity surgery (OS) generally gives good results but complications are common; e.
+
+g.
+
+ impaired weight loss, weight regain, bowel pain, diarrhea, vitamin/mineral deficiency, osteoporosis and impaired dental health.
+
+ The BASUN study is a prospective 10-year comparison of 1000 surgically and 400 conventionally treated individuals regarding adverse side-effects, risk factors for complications and poor outcome.
+

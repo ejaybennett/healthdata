@@ -1,0 +1,32 @@
+(fifthQuint)Supporting Decisions About Health Insurance to Improve Care for the Uninsured.
+
+ First, for Aim 1 part 1, the investigators will recruit 40 key stakeholders (uninsured participants, health providers, community advisors, and health policy experts) to refine the DS tool through a series of individual semi-structured interviews.
+
+ Next, the investigators will use their feedback to program the DS strategies into an online DS tool.
+
+ After its initial production, the tool will be pilot tested with 30 individuals to assess readability, message clarity, format, and function of the tool as well as to test the randomized trial study procedures.
+
+ Then, for Aim 1 part 2, the investigators will test the DS tool in a randomized trial with 362 participants eligible for the Affordable Care Act (ACA) exchanges.
+
+ Half will use the DS tool and the other half will use the federal government site to learn about the exchanges.
+
+ The investigators will use computerized random assignment to assign participants to study condition, after which they will all complete the same short survey.
+
+ For Aim 2, the investigators will collect 40 stakeholders' feedback on likelihood of adoption and implementation of the DS tool to plan for dissemination and implementation.
+
+ Stakeholders will be asked both open-ended and closed-ended questions in order to gather feedback about delivering the DS tool.
+
+ These stakeholders will be different from those who were interviewed in Aim 1 as to ensure broader applicability of the DS tool.
+
+.
+
+ Supporting Decisions About Health Insurance to Improve Care for the Uninsured@highlight
+
+The overall purpose of the study is to better understand how the investigators previously developed decision support (DS) tool can help people make decisions about health insurance plans available through the federal exchanges created by the Affordable Care Act (ACA).
+
+ The investigators will evaluate the DS tool compared to the federal government website.
+
+ The investigators will also evaluate the feasibility of disseminating this tool.
+
+ There are two primary aims to be completed in this project: (1) examine the reach and effectiveness of the health insurance DS tool; and (2) collect stakeholders' feedback to improve the likelihood of implementation of the DS tool.
+

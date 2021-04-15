@@ -1,0 +1,26 @@
+(thirdQuint)Carmustine and O(6)-Benzylguanine in Treating Patients With Newly Diagnosed Supratentorial Glioblastoma Multiforme.
+
+ OBJECTIVES: - Determine the activity of carmustine and O6-benzylguanine in patients with newly diagnosed supratentorial glioblastoma multiforme not requiring immediate radiotherapy.
+
+ - Determine the toxicity of this regimen in these patients.
+
+ OUTLINE: Patients receive O6-benzylguanine IV over 1 hour followed approximately 1 hour later by carmustine IV over 1 hour on day 1.
+
+ Treatment repeats every 6 weeks for a maximum of 3 courses in the absence of disease progression or unacceptable toxicity.
+
+ Patients are then referred for radiotherapy.
+
+ Patients who demonstrate tumor response after completion of the third course of chemotherapy receive 6 additional courses after completion of radiotherapy.
+
+ PROJECTED ACCRUAL: A total of 19-36 patients will be accrued for this study.
+
+.
+
+ Carmustine and O(6)-Benzylguanine in Treating Patients With Newly Diagnosed Supratentorial Glioblastoma Multiforme@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ O(6)-benzylguanine may increase the effectiveness of carmustine by making tumor cells more sensitive to the drug.
+
+ PURPOSE: Phase II trial to study the effectiveness of combining carmustine with O(6)-benzylguanine in treating patients who have newly diagnosed supratentorial glioblastoma multiforme.
+

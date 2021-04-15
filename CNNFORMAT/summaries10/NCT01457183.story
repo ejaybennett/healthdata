@@ -1,0 +1,16 @@
+(firstQuint)Clinical Evaluation of Bedside Pulse Lavage Irrigation Device.
+
+ Pulse lavage irrigation is an effective method of cleaning both acute and chronic wounds.
+
+ The major drawback to pulse irrigation is that it is extremely messy and can easily contaminate the patient's surroundings, putting other patients and the person operating the device at risk.
+
+ In order to obtain the benefits of pulse lavage, we have created a device that will contain the water spray from the lavage and protect both the patient and their surroundings.
+
+ This study evaluates how well the device contains the spray from pulse lavage and how well subjects with intact skin tolerate pulse lavage when awake.
+
+.
+
+ Clinical Evaluation of Bedside Pulse Lavage Irrigation Device@highlight
+
+This study evaluates how subjects with intact skin tolerate a water jet (psi 10-12) and how well the water stream is contained by a new containment device.
+

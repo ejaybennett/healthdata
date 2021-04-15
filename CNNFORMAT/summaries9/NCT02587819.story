@@ -1,0 +1,12 @@
+(firstQuint)Investigation of the Safety and Tolerability of BSCT (Anti-nf-P2X7) 10% Ointment.
+
+ The purpose of the trial was to determine the safety and tolerability of BSCT (anti-nf-P2X7) 10% Ointment topically applied twice daily for 28 consecutive days in male and female patients with BCC; and to determine the steady-state pharmacokinetics (PK) of the active pharmaceutical ingredient (total sheep Immunoglobulin G [IgG]) when BSCT (anti-nf-P2X7) 10% Ointment is applied twice daily to BCC lesions.
+
+ This was an open-label, single-arm, multicenter Phase 1 study that enrolled 21 BCC patients.
+
+.
+
+ Investigation of the Safety and Tolerability of BSCT (Anti-nf-P2X7) 10% Ointment@highlight
+
+This is a Phase 1, open-label, single-arm, multicenter study to assess the safety and tolerability of BSCT (anti-nf-P2X7) 10% Ointment in subjects with BCC.
+

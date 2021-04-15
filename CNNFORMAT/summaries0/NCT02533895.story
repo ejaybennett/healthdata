@@ -1,0 +1,36 @@
+(fifthQuint)Cancer Immune Therapy for the Treatment of Refractory Solid Tumours of Childhood.
+
+ In this phase I trial 21 paediatric patients with solid tumours of childhood (14 sarcoma and 7 non-sarcoma patients) that have exhausted all conventional treatment options are recruited for the treatment with AV0113.
+
+ Peripheral blood mononuclear cells (MNCs) will be obtained from patients by leukocyte apheresis.
+
+ Monocytes enriched by density gradient centrifugation from MNCs will be used to generate immature DCs by cultivation in recombinant human interleukin-4 (IL-4) and granulocyte-macrophage colony-stimulating-factor (GM-CSF).
+
+ These immature DCs will be loaded with autologous tumour cell lysates obtained by needle biopsy or surgery prior to tumour vaccination.
+
+The antigen loaded immature DCs will then receive a final maturation stimulus transmitted by exposure to lipopolysaccharide (LPS) and interferon-gamma (IFN-gamma).
+
+ Maturation enables DCs to present antigen with high efficiency to T-lymphocytes.
+
+ Subsequently, mature loaded DCs will be injected subcutaneously close to tumour free lymph nodes or intra-nodally into tumour free lymph nodes at weekly intervals for at least 6 weeks.
+
+ It is anticipated to establish the feasibility and safety of tumour vaccination in the described clinical setting and to find some clinical and/or experimental evidence for the induction of an anti-tumour immune response.
+
+ For obtaining a clearer picture of AV0113's utility in the treatment of bone and soft tissue sarcoma, a long-term (LT) follow-up investigation of the 14 Sarcoma patients, which will be treated using the AV0113 DC-CIT technology is planned, in order to gather first evidence for a potential LT effect of DC-CIT with AV0113.
+
+ Furthermore, a comparison of the 14 sarcoma patients treated with AV0113 DC-CIT with a cohort of matched historic control patients that were treated using standard of care will be conducted.
+
+ It is planned to analyse 42 historic control sarcoma patients that will be matched for disease, recurrences, relapses etc.
+
+.
+
+ Cancer Immune Therapy for the Treatment of Refractory Solid Tumours of Childhood@highlight
+
+This is an un-blinded Phase 1 study in which 21 patients suffering from solid advanced paediatric malignancies (14 sarcoma and 7 non-sarcoma patients) are treated with AV0113, an anti-tumour immune therapy with autologous Dendritic Cells (DCs) loaded with tumour cell lysates, in order to investigate its safety and feasibility.
+
+ For obtaining a clearer picture of AV0113's utility in the treatment of bone and soft tissue sarcoma, a long-term (LT) follow-up investigation of the 14 sarcoma patients, which will be treated using the AV0113 Dendritic Cell Cancer Immune Therapy (DC-CIT) technology is planned, in order to gather first evidence for a potential LT effect of DC-CIT with AV0113.
+
+ Furthermore, a comparison of the 14 sarcoma patients treated with AV0113 DC-CIT with a cohort of matched historic control patients that were treated using standard of care will be conducted.
+
+ It is planned to analyse 42 historic control sarcoma patients that will be matched for disease, recurrences, relapses etc.
+

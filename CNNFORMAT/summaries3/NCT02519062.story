@@ -1,0 +1,14 @@
+(secondQuint)Role of FDG PET, Immune and Hypoxic Marker in NSCLC.
+
+ This is a retrospective observation that involves the revision of clinical, instrumental and pathologic data of an estimated cohort of 130 patients with NSCLC treated with surgery with radical intent at our center.
+
+ We will review FDG-PET acquired within 30 days prior to surgery and analyze its principal imaging characteristics with respect to hypoxic and immune-related markers at immunohistochemistry (IHC).
+
+ These markers will be studied on tumor tissue obtained at surgery, used for diagnostic purposes and stored in paraffin.
+
+.
+
+ Role of FDG PET, Immune and Hypoxic Marker in NSCLC@highlight
+
+This is a retrospective study that involves the revision of clinical, instrumental and pathologic data of an estimated cohort of maximum 130 patients with NSCLC treated with surgery with radical intent at our center.
+

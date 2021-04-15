@@ -1,0 +1,20 @@
+(firstQuint)Signature Versus Computer Assisted Surgery Study.
+
+ The purpose of this prospective clinical data-collection is to document the performance and clinical outcomes of the Vanguard(R) Knee System using Signature cent Custom Guides and Computer Assisted Surgery.
+
+ FDA has cleared the Vanguard Knee via premarket notification 510(k) K023546, K033489, and K050222.
+
+ FDA has cleared the software for the Signature cent Custom Guides via premarket notification 510(k) K073449.
+
+ The data gathered will be collated and used to provide feedback to design engineers, support marketing efforts, answer potential questions from reimbursement agencies, and will serve as a part of Biomet's Post Market Surveillance System.
+
+ Function will be assessed through the Knee Society Score.
+
+ Survivorship will be documented by asking the surgeon to document revisions and complications.
+
+.
+
+ Signature Versus Computer Assisted Surgery Study@highlight
+
+The purpose of the data collection is to document the performance and clinical outcomes of the Vanguard Knee using Signature Custom Cutting Guides and Computer Assisted Surgery.
+

@@ -1,0 +1,17 @@
+(firstQuint)Efficacy of Laser Versus Cryotherapy in the Treatment of Warts.
+
+ Cutaneous warts were a common skin diseases caused by human papilloma virus (HPV) infection.
+
+ Although warts may spontaneously resolve, many patients seek for treatment for various reasons.
+
+ There are many kinds of treatments for cutaneous warts, including salicylic acid, cryotherapy, laser, etc.
+
+ A recent high quality RCT confirmed that the cure rate of topical salicylic acid and frozen has no difference at six months, but the efficacy of laser versus cryotherapy on the treatment of warts remains unclear.
+
+ Therefore, we designed a randomized controlled trial to test the efficacy of laser versus cryotherapy on the treatment of warts.
+
+.
+
+ Efficacy of Laser Versus Cryotherapy in the Treatment of Warts@highlight
+
+The purpose of this study is to test the efficacy of laser versus cryotherapy on the treatment of warts

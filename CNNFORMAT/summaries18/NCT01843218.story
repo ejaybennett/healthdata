@@ -1,0 +1,16 @@
+(firstQuint)Erectile Rating During the Treatment of Rectal Cancers Localized.
+
+ Erectile dysfunction will be explored by recording R / P and self-administered questionnaire IIEF-5.
+
+ This dual evaluation will be made before the beginning of the therapeutic treatment and 3 months and 12 months after surgery.
+
+ Assessed by IIEF-5 will be made only 6, 18 and 24 months after surgery.
+
+ There will be no changes made to support oncology patients.
+
+.
+
+ Erectile Rating During the Treatment of Rectal Cancers Localized@highlight
+
+Erectile dysfunction will be explored by recording R / P and self-administered questionnaire IIEF-5.
+

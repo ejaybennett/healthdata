@@ -1,0 +1,26 @@
+(fifthQuint)Trial of Collaborative Depression Care Management for HIV Patients.
+
+ Our goal in this project is to conduct a randomized controlled trial of an evidence-based depression treatment intervention known as Measurement-Based Care (MBC), combined with brief Motivational Interviewing (MI) adherence counseling, in depressed people living with HIV/AIDS to assess its impact on ART adherence and clinical outcomes.
+
+ MBC employs Depression Care Managers with expertise in depression management to screen for depression and help non-psychiatric physicians implement guideline-concordant, algorithm-driven antidepressant treatment.
+
+ The Depression Care Manager use standardized metrics (depressive symptoms, side effects) and an algorithm to monitor treatment response and recommend changes.
+
+ Weekly supervision from a psychiatrist ensures quality care.
+
+ Biweekly contact between patients and the Depression Care Manager will include brief MI adherence counseling.
+
+ We will recruit 390 people living with HIV/AIDS on antiretroviral therapy (ART) with confirmed depression, and will conduct a randomized trial of the MBC intervention versus enhanced usual care.
+
+ Our aims are: (1) to test whether MBC improves ART adherence and HIV clinical outcomes, (2) to assess the cost-effectiveness of MBC, and (3) to collect process measures concerning MBC implementation to inform replication at other sites.
+
+ Since the Depression Care Manager role can be effectively filled by a behavioral health provider or nurse given appropriate training and supervision and the intervention has limited time requirements, this model is potentially replicable to a wide range of resource-constrained HIV treatment settings.
+
+.
+
+ Trial of Collaborative Depression Care Management for HIV Patients@highlight
+
+This project will integrate a depression treatment and brief medication adherence counseling intervention into clinical care at three HIV clinics and will use a randomized controlled trial to assess whether, relative to usual care, the intervention leads to improved HIV medication adherence.
+
+ The depression treatment intervention uses a model known as Measurement-Based Care which equips Depression Care Managers with systematic measurement tools, a decision algorithm, and psychiatric backup and trains them to provide decision support to HIV clinicians to implement, monitor, and adjust antidepressant therapy.
+

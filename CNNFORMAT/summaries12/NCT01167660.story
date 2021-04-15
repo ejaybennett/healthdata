@@ -1,0 +1,18 @@
+(firstQuint)Non Invasive Measurement of Coagulation in Term and Preterm Neonates.
+
+ Coagulation abnormalities among neonates aren't common - but can be life threatening.
+
+ Testing the coagulation system in small babies involves drawing significant amounts of blood (especially in premature babies).
+
+ Non-invasive testing can help assess and treat term and preterm neonates at risk.
+
+ Recently, a non-invasive device to assess the blood coagulation status was developed - The Thrombo-Monitor (ThM).
+
+ The objective of this study is to assess the reliability of this new non-invasive device among term and preterm babies by comparing the result of the ThM reading to coagulation analysis from blood.
+
+.
+
+ Non Invasive Measurement of Coagulation in Term and Preterm Neonates@highlight
+
+The purpose of this study is to assess the reliability of a new non-invasive device to assess the blood coagulation status among term and preterm babies.
+

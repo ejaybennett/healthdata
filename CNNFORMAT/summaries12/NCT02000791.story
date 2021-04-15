@@ -1,0 +1,13 @@
+(firstQuint)Does Laryngoscopic Tecnique Facilitate cLMA Insertion?.
+
+ Is there any releation between insertion succes rate and difficult intubation criteria.
+
+ success of the first attempt laryngeal mask insertion, patient response of laryngeal mask placement.
+
+ And also during the implementation of these two techniques; the effects on heart rate and blood pressure and postoperative complications were investigated.
+
+.
+
+ Does Laryngoscopic Tecnique Facilitate cLMA Insertion?@highlight
+
+it is compared that laryngeal mask insertion with standard technique and laryngoscopic technique

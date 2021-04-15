@@ -1,0 +1,41 @@
+(fifthQuint)17-N-Allylamino-17-Demethoxygeldanamycin and Paclitaxel in Treating Patients With Metastatic or Unresectable Solid Tumor.
+
+ OBJECTIVES: I.
+
+ Determine the maximum tolerated dose and recommended phase II dose of 17-N-allylamino-17-demethoxygeldanamycin (17-AAG) when administered with paclitaxel in patients with metastatic or unresectable solid malignancy.
+
+ II.
+
+ Determine the dose-limiting and non-dose-limiting toxic effects of this regimen in these patients.
+
+ III.
+
+ Determine the pharmacokinetics of this regimen in these patients.
+
+ IV.
+
+ Determine tumor response in patients treated with this regimen.
+
+ OUTLINE: This is a multicenter, dose-escalation study of 17-N-allylamino-17-demethoxygeldanamycin (17-AAG).
+
+ Patients receive 17-AAG IV over 1 hour on days 1*, 4, 8, 11, 15 and 18 and paclitaxel IV over 1 hour on days 1, 8, and 15.
+
+ Treatment repeats every 28 days for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ NOTE: *17-AAG is not administered on day 1 of course 1.
+
+ Cohorts of 3-6 patients receive escalating doses of 17-AAG until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+ Once the MTD is determined, 6-12 patients are treated at the recommended phase II dose.
+
+.
+
+ 17-N-Allylamino-17-Demethoxygeldanamycin and Paclitaxel in Treating Patients With Metastatic or Unresectable Solid Tumor@highlight
+
+This phase I trial is studying the side effects and best dose of 17-N-allylamino-17-demethoxygeldanamycin when given together with paclitaxel in treating patients with metastatic or unresectable solid tumor.
+
+ Drugs used in chemotherapy, such as 17-N-allylamino-17-demethoxygeldanamycin and paclitaxel, work in different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining 17-N-allylamino-17-demethoxygeldanamycin with paclitaxel may kill more tumor cells

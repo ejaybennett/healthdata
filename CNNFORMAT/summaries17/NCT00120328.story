@@ -1,0 +1,18 @@
+(firstQuint)To Determine the Effects of Avosentan on Doubling of Serum Creatinine, End Stage Renal Disease and Death in Diabetic Nephropathy.
+
+ Diabetic nephropathy has become the leading cause of end stage renal disease (ESRD) in the western world, accounting for approximately 40% of new cases in the US, and up to 20 to 30% in Europe.
+
+ Current treatments for diabetic nephropathy usually try to deal with the underlying diabetes or they aim to reduce cardiovascular risk factors such as hypertension, hyperglycemia, smoking and dyslipidemia.
+
+ A few recently approved drugs such as irbesartan and losartan (for type 2 diabetic nephropathy) have a renoprotective activity beyond their antihypertensive effect.
+
+ However, morbidity and mortality rates remain high.
+
+ Avosentan may have a positive effect on reducing the amount of protein lost in the urine and if this is the case it will help treat patients with diabetic nephropathy.
+
+.
+
+ To Determine the Effects of Avosentan on Doubling of Serum Creatinine, End Stage Renal Disease and Death in Diabetic Nephropathy@highlight
+
+The purpose of this study is to determine whether avosentan (SPP301) is effective in decreasing morbidity and mortality in patients with diabetic nephropathy.
+

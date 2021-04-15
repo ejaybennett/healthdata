@@ -1,0 +1,24 @@
+(secondQuint)Virtual Reality Helmet to Test for Problems With Memory.
+
+ Since many individuals with mild cognitive impairment (MCI) appear to function normally, MCI may often be recognizable through testing in advance of any changes noticed by family members or caregivers.
+
+ Early and frequent testing can therefore trigger an earlier diagnosis, which may increase the effectiveness of currently available medications used to delay onset of Alzheimer's symptoms.
+
+ Primary care and geriatric physicians currently lack the necessary tools required for quick and accurate MCI screening in the doctor's office environment.
+
+ The current industry-standard is a battery of pen & paper neuropsychological tests that require 1.
+
+5 hours in a quiet room with a neuropsychologist.
+
+ Comparison: virtual reality display device compared to the standard neuropsychological evaluation for detecting mild cognitive impairment (problems with memory, concentration, reaction time, etc.
+
+).
+
+.
+
+ Virtual Reality Helmet to Test for Problems With Memory@highlight
+
+The purpose of this research study is to compare a virtual reality display device with the standard neuropsychological evaluation for detecting mild cognitive impairment (problems with memory, concentration, reaction time, etc.
+
+).
+

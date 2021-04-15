@@ -1,0 +1,20 @@
+(firstQuint)Efficacy Study of Lucentis in the Treatment of Retinoblastoma.
+
+ This study will be a phase II open label interventional case series.
+
+ Patients with retinoblastoma will be randomized to receive chemotherapy with or without intravitreal ranibizumab at a dose of 0.
+
+5mg/0.
+
+05 ml.
+
+ Patients will receive ranibizumab via a pars plana injection on a monthly basis for a total duration of therapy of 6 months.
+
+ Patients will be followed for 24 months .
+
+.
+
+ Efficacy Study of Lucentis in the Treatment of Retinoblastoma@highlight
+
+This study will evaluate the clinical efficacy of intravitreal injections of Ranibizumab (Lucentis) together with chemotherapy in the treatment of Retinoblastoma as compared to chemotherapy alone.
+

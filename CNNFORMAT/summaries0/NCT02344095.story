@@ -1,0 +1,70 @@
+(fifthQuint)A Trial of Weekly Paclitaxel With Oncothermia and Weekly cisPlatin With Oncothermia in Patients With Recurrent or Persistent Ovarian Cancer.
+
+ This trial is a randomized phase 1 trial.
+
+ We planned to perform it for 1 year.
+
+ Subjects of study are patients diagnosed as recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal carcinoma.
+
+ The number of subjects of study is 12 patients (If patients cannot be assessed, they can be replaced with new patients).
+
+ All subjects who were randomly assigned, are treated with weekly paclitaxel or weekly cisplatin.
+
+ In paclitaxel group, patients are treated with weekly paclitaxel 70mg/m2 (IV) on day 1, 8, and 15 at an intervals of 4 weeks.
+
+ In cisplatin group, patients are treated with weekly cisplatin 40mg/m2 (IV) on day 1, 8, and 15 at an intervals of 4 weeks.
+
+ Thermotherapy is performed by applying oncothermia (EHY 2000) probe on the part of body where tumor is located and delivering energy.
+
+ It is performed on day 1, 4, 8, 11, 15, 18, 21, and 24 (8 times in total every cycle).
+
+ Oncothermia can be performed a day earlier than scheduled day or a day later than scheduled day.
+
+ It takes 60 minutes to treat a site for oncothermia.
+
+ Energy is gradually increased from 60W to 140W.
+
+ With tumors at multiple sites, oncothermia is performed several times changing sites that apply probe and type of probes.
+
+ Oncothermia is performed for 60 minutes per each application.
+
+ Patients with recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal carcinoma are randomly assigned to either a paclitaxel or cisplatin group in ratio of 1 to 1.
+
+ Paclitaxel group are treated with weekly paclitaxel and oncothermia.
+
+ Cisplatin group are treated with weekly cisplatin and oncothermia.
+
+ In each group, limiting toxicity is evaluated after treating 3 patients for 4-cycles.
+
+ In group that limiting toxicity occur in the rate equal to or less than 1 patient, limiting toxicity is evaluated after treating 3 additional patients for 4-cycles.
+
+ When limiting toxicity occur in the rate equal to or less than one of six assessable patients, it is considered that the specific therapy is safe enough to be used in phase 2 trial.
+
+ Primary endpoint is occurrence of limiting toxicity.
+
+ Secondary endpoints are response rate, progression-free survival, overall-survival, quality of life, toxicity, pain, fatigue and compliance rate.
+
+ Patients visit twice a week until 4-cycles are completed or progression of disease is confirmed.
+
+.
+
+ A Trial of Weekly Paclitaxel With Oncothermia and Weekly cisPlatin With Oncothermia in Patients With Recurrent or Persistent Ovarian Cancer@highlight
+
+The investigators aimed to evaluate the safety of weekly paclitaxel with oncothermia and weekly cisplatin with oncothermia in patients with recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal carcinoma.
+
+ This trial is a randomized phase 1 trial.
+
+ The investigators planned to perform it for 1 year.
+
+ In this trial, a total of 12 patients with recurrent or persistent epithelial ovarian, fallopian tube or primary peritoneal carcinoma are randomly assigned to either a paclitaxel or cisplatin group in ratio of 1 to 1.
+
+ Paclitaxel group are treated with weekly paclitaxel and oncothermia.
+
+ Cisplatin group are treated with weekly cisplatin and oncothermia.
+
+ In each group, limiting toxicity is evaluated after treating 3 patients for 4-cycles.
+
+ Primary endpoint is occurrence of limiting toxicity.
+
+ Secondary endpoints are response rate, progression-free survival, overall-survival, quality of life, pain, fatigue and compliance rate.
+

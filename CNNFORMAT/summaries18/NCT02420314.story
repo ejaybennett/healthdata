@@ -1,0 +1,26 @@
+(secondQuint)Pharmacological Ascorbate for Lung Cancer.
+
+ Standard treatment for non-small cell lung cancer (NSCLC) involves a combined therapy of paclitaxel and carboplatin.
+
+ These drugs are administered once every 21 days.
+
+ This study adds high dose ascorbic acid (75g per infusion) twice per week for up to 4 cycles of therapy.
+
+ Participants will: - receive high doses of intravenous (IV) ascorbate two times a week during each 3 week chemotherapy.
+
+ - have blood samples drawn to measure blood ascorbate levels once every 21 days - have blood samples drawn to measure iron and ferritin levels before treatment, then on cycles 1 and 3.
+
+ The active therapy portion of this study lasts for 4 months.
+
+ After that is completed, participants will go back to standard therapy for their cancer.
+
+ Participants will continue to have life-long follow-up for this study.
+
+.
+
+ Pharmacological Ascorbate for Lung Cancer@highlight
+
+This clinical trial evaluates adding high-dose ascorbate (vitamin C) to standard of care treatment of non-small cell lung cancer (NSCLC) in adults.
+
+ All subjects will receive high-dose ascorbate in addition to the standard treatment.
+

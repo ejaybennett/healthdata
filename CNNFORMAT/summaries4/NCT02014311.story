@@ -1,0 +1,25 @@
+(fifthQuint)CArdiac cT in the Treatment of Acute CHest Pain 2 - Myocardial CT Perfusion.
+
+ MATERIAL - Consecutive patients referred with chest pain in whom acute coronary syndrome has been excluded, yet with a maintained clinical suspicion of coronary artery disease will be included in the study.
+
+ Only patients deemed clinically suited for subsequent invasive evaluation and treatment will be included.
+
+ METHODS -If the patients accept participation in the trial a computerized 1:1 randomization for CTA alone (control group) or CTA and CTP combined (intervention group) within 2 weeks from discharge will be conducted.
+
+ CT angiography and CT myocardial perfusion imaging will be performed using a 320-slice MSCT Toshiba VISION Edition Aquilion One scanner according to recommendations from the vendor and clinical routine developed at Rigshospitalet.
+
+ Based on CTA and/or CTP findings patients will be referred for invasive evaluation including fractional flow reserve assessment (FFR) and treatment within 30 days.
+
+ Invasive procedures will be performed according to international guidelines and the frequency of revascularization procedures recorded.
+
+ Clinical outcome data according to specified secondary endpoints will be recorded from hospital charts and medical registries.
+
+.
+
+ CArdiac cT in the Treatment of Acute CHest Pain 2 - Myocardial CT Perfusion@highlight
+
+The aim of this study is to assess whether the clinical management of patients with recent acute-onset chest pain without acute coronary syndrome may be optimized by a combined coronary CT angiography (CTA) + CT myocardial perfusion (CTP) guided, rapid diagnostic strategy as compared to CTA alone.
+
+ CT diagnostic evaluation and potential referral for invasive testing will be performed within 2 weeks after hospital discharge.
+
+ The following main hypothesis will be tested: - Combined assessment of coronary anatomy and myocardial perfusion using 320 MDCT results in a safe and optimized, cost-effective invasive treatment strategy

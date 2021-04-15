@@ -1,0 +1,11 @@
+(firstQuint)VNS Therapy Automatic Magnet Mode Outcomes Study in Epilepsy Patients Exhibiting Ictal Tachycardia (E-37).
+
+ Prospective, observational, un-blinded, multi-site study designed to collect data on patients implanted with a Model 106 VNS Therapy System from baseline through an EMU stay of up to 5 days, and 6-month follow-up.
+
+ After the 6-month follow-up, patients will continue follow-up for safety for approximately two years or until final regulatory approval of the product.
+
+.
+
+ VNS Therapy Automatic Magnet Mode Outcomes Study in Epilepsy Patients Exhibiting Ictal Tachycardia (E-37)@highlight
+
+Obtain baseline clinical outcome data (Stage 1) upon which to base a subsequent study (Stage 2) of the Model 106 VNS implantable pulse generator

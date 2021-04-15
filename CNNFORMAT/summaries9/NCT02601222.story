@@ -1,0 +1,12 @@
+(firstQuint)Efficacy and Safety of Runzao Zhiyang Capsule to Treat Chronic Eczema.
+
+ Polygoni multiflori Preparata, dried rehmannia root, mulberry leaf, sophora flavescens, Honghuoma, for skin itching, acne, constipation due to blood vacuity and wind-dryness, also used in clinical treatment of eczema.
+
+ The purpose of this study is to evaluate the efficacy and safety of Runzao zhiyang capsule in treating chronic eczema.
+
+.
+
+ Efficacy and Safety of Runzao Zhiyang Capsule to Treat Chronic Eczema@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of Runzao zhiyang capsule in treating chronic eczema.
+

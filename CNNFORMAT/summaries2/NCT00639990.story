@@ -1,0 +1,20 @@
+(secondQuint)Respiratory Mechanics in Brain Injured Patients.
+
+ We investigate the mechanical properties of the respiratory system, partitioned into its lung and chest wall components, the functional residual capacity, the gas-exchange and alveolar recruitment in brain injured patients.
+
+ The measurements will be performed under sedation at different levels of PEEP.
+
+ The following groups will be included: a) control patients withot lung injury and brain injury; b) brain injured patients without lung injury within the first 72 hours; c) brain injured patients without lung injury after 72 hours; d) brain injured patients with lung injury.
+
+ Brain injury was defined as primary or secondary.
+
+ Respiratory functional data will be related to intra-abdominal pressure.
+
+.
+
+ Respiratory Mechanics in Brain Injured Patients@highlight
+
+The hypothesis is that brain injury patients have alterations of the respiratory system related to intraabdominal pressure.
+
+ Furthermore application of moderate levels of PEEP may improve respiratory function in these patients.
+

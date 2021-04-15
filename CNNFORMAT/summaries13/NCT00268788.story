@@ -1,0 +1,33 @@
+(firstQuint)Subcutaneous Immunoglobulin Treatment for Multifocal Motor Neuropathy.
+
+ Introduction Intravenous immunoglobulin (IVIG) treatment is the only established treatment modality in Multifocal Motor Neuropathy (MMN).
+
+ In order to maintain neuromuscular performance patients require lifelong treatment.
+
+ Hospital-based treatments have high cost and inconveniences to patients, particularly in chronic disorders.
+
+ Immunoglobulin preparations are now available for subcutaneous use as IgG replacement therapy.
+
+ The safety and efficacy of subcutaneous infusion is reported to be comparable to i.
+
+v.
+
+ preparations, and has been applied successfully in other autoimmune disorders.
+
+ However patients with MMN have not previously been treated with subcutaneous immunoglobulin.
+
+ Hypothesis: Subcutaneous immunoglobulin treatment is efficacious and safe with less patient inconvenience.
+
+ Primary endpoint: Isokinetic muscle strength at the end of treatment A vs B (subcutaneous vs i.
+
+v.
+
+) Secondary endpoint: Medical research council score (MRC-score), 9-hole peg test, 10m walking, Nerve conduction parameters, SF-36.
+
+.
+
+ Subcutaneous Immunoglobulin Treatment for Multifocal Motor Neuropathy@highlight
+
+The purpose of this study is to evaluate the effect of subcutaneous administration of immunoglobulin compared to intravenous treatment, for multifocal motor neuropathy NB.
+
+ ONLY RECRUITING FROM DENMARK

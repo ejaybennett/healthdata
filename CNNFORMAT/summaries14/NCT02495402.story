@@ -1,0 +1,18 @@
+(firstQuint)Substance Abuse Treatment to HIV Care (SAT2HIV): The Motivational Interviewing-based Brief Intervention Experiment.
+
+ The Substance Abuse Treatment to HIV care (SAT2HIV) project, a Type 2 Effectiveness-Implementation Hybrid Trial, seeks to address this gap in services by providing new knowledge regarding the effectiveness of brief intervention (BI) for substance use within community-based HIV/AIDS service settings, as well as new knowledge regarding how to address the well-documented underutilization of evidence-based practices in real-world settings.
+
+ The specific aims of this project are: Aim 1: To experimentally test the effectiveness of a motivational interviewing-based BI for substance use within community-based HIV/AIDS service organizations, relative to usual care (UC).
+
+ Aim 2: To experimentally test the effectiveness of adding an organizational-level implementation intervention called Implementation & Sustainment Facilitation (ISF) to enhance the effectiveness of the implementation strategy currently used by SAMHSA-funded Addiction Technology Treatment Centers (ATTCs; i.
+
+e.
+
+, online introductory training, 2-day training workshop, ongoing feedback and coaching).
+
+.
+
+ Substance Abuse Treatment to HIV Care (SAT2HIV): The Motivational Interviewing-based Brief Intervention Experiment@highlight
+
+To test the effectiveness of a single 20-30 minute motivational interviewing-based brief intervention for substance use within HIV/AIDS settings.
+

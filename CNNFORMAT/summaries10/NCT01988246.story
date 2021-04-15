@@ -1,0 +1,16 @@
+(firstQuint)Prevention of Macular Edema In Patients With Diabetic Retinopathy Undergoing Cataract Surgery.
+
+ Diabetic retinopathy patients who are at risk of developing macular edema (defined as 30 % increase from pre-operative baseline in central subfield macular thickness) within 90 days following cataract surgery.
+
+ Diabetic patients are defined as those who have either Type 1 or Type 2 diabetes.
+
+ The patients must have either mild, moderate, or severe non proliferative retinopathy or treated proliferative retinopathy.
+
+ Patients must be 18 years of age and older, of any race and either sex, requiring cataract extraction with planned implantation of a posterior chamber intraocular lens into the lens capsule.
+
+.
+
+ Prevention of Macular Edema In Patients With Diabetic Retinopathy Undergoing Cataract Surgery@highlight
+
+To determine the safety and efficacy of intravitreal Aflibercept (Eylea) injection in patients with diabetic retinopathy in the prevention of macular edema following cataract surgery.
+

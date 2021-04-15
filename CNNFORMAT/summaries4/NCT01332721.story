@@ -1,0 +1,16 @@
+(secondQuint)Study of TRC105 Combined With Standard-Dose Bevacizumab for Advanced Solid Tumors for Which Bevacizumab is Indicated.
+
+ Bevacizumab is a monoclonal antibody to vascular endothelial growth factor (VEGF) that inhibits angiogenesis and extends survival in patients with a wide variety of solid tumor types.
+
+ TRC105, a monoclonal antibody to CD105, is a novel angiogenesis inhibitor that complements bevacizumab in preclinical models.
+
+ Together, these antibodies may result in more effective angiogenesis inhibition and improved clinical efficacy over that seen with bevacizumab alone.
+
+ The purpose of the study is to evaluate safety and tolerability and determine a recommended Phase 2 dose for TRC105 when added to standard dose bevacizumab in patients with advanced solid tumors for which bevacizumab is indicated.
+
+.
+
+ Study of TRC105 Combined With Standard-Dose Bevacizumab for Advanced Solid Tumors for Which Bevacizumab is Indicated@highlight
+
+The purpose of the study is to evaluate safety and tolerability and determine a recommended Phase 2 dose for TRC105 when added to standard dose bevacizumab in patients with advanced solid tumors for which bevacizumab is indicated.
+

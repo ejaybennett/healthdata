@@ -1,0 +1,22 @@
+(thirdQuint)Angiotensin II Receptor Blockers (ARB) and ACE Inhibitors (ACEI) on Silent Brain Infarction and Cognitive Decline.
+
+ Hypertension plays a major role in the development of cardiovascular diseases.
+
+ Treating hypertension has been associated with reduction in the risk of stroke and myocardial infarction.
+
+ Angiotensin converting enzyme inhibitor (ACEI), ramipril, showed a 32 % in relative risk of reduction in the Heart Outcomes Prevention Evaluation (HOPE) trial.
+
+ Angiotensin II receptor blocker (ARB), losartan, also showed a 25 % in relative risk of reduction in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE).
+
+ Elderly people, especially hypertensive patients, with silent brain infarction have an increased risk of stroke and cognitive decline.
+
+ However, no reports are seen on comparison of the effects of ARBs and ACEIs on progression of silent brain infarction and cognitive decline in patients with essential hypertension in the elderly.
+
+ The researchers therefore longitudinally evaluate silent brain infarction using magnetic resonance imaging and cognitive decline by Mini-Mental State Examination twice at an interval of 2 years in patients with essential hypertension in the elderly who are received antihypertensive therapy by ARB or ACEI.
+
+.
+
+ Angiotensin II Receptor Blockers (ARB) and ACE Inhibitors (ACEI) on Silent Brain Infarction and Cognitive Decline@highlight
+
+The purpose of this study is to elucidate whether or not angiotensin II receptor blockers (ARB) are more beneficial or equal to angiotensin converting enzyme inhibitors (ACEI) on development or progression of silent brain infarction and cognitive decline in Japanese patients with essential hypertension in the elderly.
+

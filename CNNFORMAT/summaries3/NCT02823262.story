@@ -1,0 +1,18 @@
+(firstQuint)A Breast Cancer Treatment Decision Aid for Women Aged 70 and Older.
+
+ The investigators aim to use this information to further refine and evaluate a decision aid to help newly-diagnosed women aged 70 and older with breast cancer understand the risks and benefits of different types of breast cancer treatment.
+
+ The Decision Aid (DA) was created for women 70 years or older diagnosed with ER+, HER2-, clinically LN-, 3cm or less breast cancers deciding on breast cancer treatment.
+
+ The DA was designed considering the health literary, cognitive abilities, treatment outcomes, and competing health issues of older women.
+
+ Phase I : - The investigators will obtain and incorporate additional feedback on the DA from women 70 years or older who were diagnosed with breast cancer > 6 months ago, their family members, and clinicians, so that the DA can be refined and evaluated by women who were recently treated for breast cancer but not newly diagnosed with breast cancer.
+
+ Phase II - The investigators plan to test the efficacy of the revised DA in a randomized control trial (RCT) of 230 diverse women 70 years or older newly diagnosed with ER+, LN-, HER2-, 3 cm or less breast cancer.
+
+.
+
+ A Breast Cancer Treatment Decision Aid for Women Aged 70 and Older@highlight
+
+The purpose of this research study is to evaluate a decision aid to help women aged 70 and older decide on treatment for their breast cancer.
+

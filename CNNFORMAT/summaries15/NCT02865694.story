@@ -1,0 +1,38 @@
+(fifthQuint)Developing and Implementing Familial Hypercholesterolemia Registry.
+
+ Familial hypercholesterolemia (FH) is a genetic disorder define as high cholesterol levels, particularly very high levels of low-density lipoprotein (LDL), in the blood and early cardiovascular disease and premature death.
+
+ FH is an autosomal dominant disease with a prevalence 1:500 (new study in Netherlands demonstrated 1:244) in population more frequent than Cystic fibrosis, mellitus diabetes or neonatal hypothyroidism.
+
+ Canadian registry demonstrated FH is more common among people if French Canadian, Christian Lebanese, and Afrikaner descent.
+
+ The Major causes of FH are pathogenic variant in the LDL-receptor (LDLR) gene or the Apo lipoprotein B (APOB) gene.
+
+ The clinical signs of FH are high level of Cholesterol (between 350-550 mg/dL in heterozygous), Yellow deposits of cholesterol-rich fat in various places on the body such as around the eyelids (known as xanthelasma palpebrarum), the outer margin of the iris (known as arcus senilis corneae), and in the tendons of the hands, elbows, knees and feet, particularly the Achilles tendon (known as a tendon xanthoma).
+
+ FH is a hidden syndrome which leads to cardiovascular disease.
+
+ After introducing the statins total mortality have reduced significantly in these patients.
+
+ Thus screening and identification of patients and treatment with the most effective therapies will decrease the risk of premature death.
+
+ Also, most of patients require an appropriate lipid-lowering medications.
+
+ Although the genetic problem is the most important factor to expression of FH other factors like environmental and metabolic factor can be effective in CVD and premature death.
+
+ Therefore, identification and follow-up FH patients is important for CVD Rate cuts and decrease Treatment costs thus this study can gain these outcomes.
+
+.
+
+ Developing and Implementing Familial Hypercholesterolemia Registry@highlight
+
+Familial hypercholesterolemia (FH) is a most prevalent genetic disorder define as high cholesterol level and premature death.
+
+ The prevalence of FH reported in few countries however unknown in Iran.
+
+ Thus determine the FH patient, finding diagnostic strategy and appropriate treatment are important.
+
+ We intent to use cascade method to screening patients, also our expected outputs are to develop and implement a registry program for FH patients and their families and to study their genetic disorder.
+
+ FH patients will be followed from management, treatment and prevention of Cardio vascular disease in order to increase premature death.
+

@@ -1,0 +1,20 @@
+(thirdQuint)Oxazyme in Patients With Hyperoxaluria.
+
+ Oxazyme is an oxalate degrading compound that can potentially degrade food-borne oxalate and hence prevent its absorption from the gastrointestinal tract.
+
+ We propose a 20-patient open-label trial pilot study of one month of Oxazyme twice daily (1gm Oxazyme sachet dissolved in 150 ml water) among adult subjects with a history of calcium oxalate nephrolithiasis.
+
+ Patients will be stratified into those with enteric hyperoxaluria after Roux-en-Y Gastric Bypass (RYGB, n=10) and those with idiopathic hyperoxaluria (n=10).
+
+ The patients will perform two, 24-hour, urine collections immediately before starting Oxazyme and on the last two days of the treatment period.
+
+.
+
+ Oxazyme in Patients With Hyperoxaluria@highlight
+
+Hypothesis: Oral administration of the oxalate metabolizing enzyme Oxazyme (OC4) will degrade food-borne oxalate and hence prevent its absorption from the gastrointestinal tract.
+
+ In addition, by reducing oxalate concentrations in the gastrointestinal fluid, oxalate secretion from blood to the intestinal tract may be increased.
+
+ Both effects would decrease blood levels of oxalate, and hence oxalate excretion in the urine.
+

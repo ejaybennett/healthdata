@@ -1,0 +1,36 @@
+(fifthQuint)A Clinical Trial of a Metal on Poly Component Versus CORAIL Stem: A Bone Mineral Density Study.
+
+ The main goal is to prospectively evaluate bone mineral density adjacent to the femoral component and femoral bone remodeling of two different designs: CORAIL impaction broach titanium stem compared to a modular titanium femoral stem (Tri-lock).
+
+ The investigators expect the CORAIL femoral stem group to show significantly less bone loss on the femoral side as compared to the Tri-lock group.
+
+ The primary outcome is percent change in bone mineral density (BMD) (g/cm2) from baseline (10-14 days post-op) to the one year post-operative interval, as measured radiographically in zones 1 and 7.
+
+ Patients will be randomized to one of the two treatment groups prior to surgery.
+
+ Each patient will be evaluated at their regularly scheduled 10-14 days, 3, 6, 12 and 24 month visits following surgery.
+
+ Bilateral DEXA bone mineral density tests will be performed at 10-14 days following surgery (baseline assessment) and at 6, 12, and 24 months post-operatively.
+
+ Urine and serum samples (measures of bone turnover) will be collected at 3, 6 and 12 months post-operatively after an overnight fast.
+
+ The Harris Hip Score will be completed at each post-operative visit except the immediate (10-14 days), when risk of dislocation precludes a determination of range of motion.
+
+ At the 3, 6, 12 and 24 month post-operative visits, the patient will complete the RAND-36 Item Health Survey, WOMAC and UCLA activity scale.
+
+.
+
+ A Clinical Trial of a Metal on Poly Component Versus CORAIL Stem: A Bone Mineral Density Study@highlight
+
+The main goal is to prospectively evaluate bone mineral density adjacent to the femoral component and femoral bone remodeling of two different designs: CORAIL impaction broach titanium stem compared to a modular titanium femoral stem (Tri-lock).
+
+ Patients will be randomized to one of the two treatment groups prior to surgery.
+
+ Each patient will be evaluated at their regularly scheduled 10-14 days, 3, 6, 12 and 24 month visits following surgery.
+
+ Patients will be asked to have bilateral DEXA bone mineral density tests (10-14 days post-surgery, and 6, 12 and 24 months post-operatively).
+
+ Urine and serum samples (measures of bone turnover) will be collected at 3, 6 and 12 months post-operatively after an overnight fast.
+
+ Patient reported questionnaires will be completed preoperatively and at the 3, 6, 12, and 24 month visits.
+

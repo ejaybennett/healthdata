@@ -1,0 +1,18 @@
+(secondQuint)A Study of Fibrocaps in Liver Surgery in the Netherlands.
+
+ This will be a multi-center, prospective, randomized, single-blind, controlled, comparative efficacy and safety trial in 60 subjects undergoing hepatic resection.
+
+ Subjects will be randomized in a 2:1 ratio to Fibrocaps + Gelfoam or Gelfoam on the day of surgery.
+
+ The Fibrospray device will be used to apply Fibrocaps to the Target Bleeding Site.
+
+ All investigators using the Fibrospray device will be trained on the correct and safe set-up and use of Fibrocaps and the Fibrospray device prior to participating in this clinical trial.
+
+.
+
+ A Study of Fibrocaps in Liver Surgery in the Netherlands@highlight
+
+A multi-center, prospective, randomized, single-blind, controlled, comparative efficacy and safety trial in subjects undergoing open liver resection surgery.
+
+ The study will enroll 42 eligible subjects and be conducted at 4 sites in the Netherlands.
+

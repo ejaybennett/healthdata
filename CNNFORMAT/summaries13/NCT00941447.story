@@ -1,0 +1,34 @@
+(fifthQuint)Development of Self-Regulation in Individuals With Type 2 Diabetes.
+
+ As our nation continues to battle overweight and obesity, the prevalence of diabetes will precipitously increase, placing additional financial burden on our country.
+
+ Therefore, finding ways to manage this chronic disease is essential.
+
+ While self-monitoring of blood glucose (SMBG) has been shown to be effective in improving glycemic control in individuals with type 1 diabetes, the importance of encouraging individuals with type 2 diabetes to engage in SMBG for better blood glucose (BG) is still unclear.
+
+ SMBG is believed to be key in the self-management of diabetes, as it can provide feedback on dietary and activity behaviors that are believed to impact on BG.
+
+ The use of SMBG to adjust other behaviors that impact on BG is a self-regulatory approach to diabetes management.
+
+ Self-regulation of BG is theorized to impact on self-efficacy in the management of diabetes.
+
+ Through greater self-efficacy, greater compliance to diabetes self-management behaviors is achieved.
+
+ Currently, no trial has examined the use of a self-regulation approach using current dietary and physical activity recommendations for individuals with type 2 diabetes who are not on insulin.
+
+ Thus, this investigation will involve a 12-week study to examine the effect of an SR intervention to SM intervention.
+
+ All participants in the investigation will receive a standard 12-week behavioral intervention.
+
+ The intervention will include a reduced caloric prescription (1200-1500 kcal/day), fat gram prescription (30% or less kcals from fat), carbohydrate gram prescription (150-190 grams/day) and a physical activity goal (slowly building up to 150minutes/week of moderate-intense physical activity at the end of study).
+
+ Participants will be assessed at 0 and 13 weeks (pre- and post-intervention) on measures of fasting blood glucose, self-efficacy, and diabetes self-management activities.
+
+ Additionally, dietary intake, physical activity, quality of life and body weight measurements will be taken at 0 and 13 weeks for comparisons between the two treatment groups.
+
+.
+
+ Development of Self-Regulation in Individuals With Type 2 Diabetes@highlight
+
+The purpose of this investigation is to conduct a 12-week study to compare the effects of a self-regulation intervention (SR), in which participants will self-monitor their blood glucose (BG) and adjust dietary intake and physical activity through the use of current dietary and physical activity guidelines to help regulate their BG, to an education and self-monitoring only intervention (SM), on blood glucose, self-efficacy, and diabetes self-management activities.
+

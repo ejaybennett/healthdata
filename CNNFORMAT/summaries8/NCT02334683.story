@@ -1,0 +1,26 @@
+(fifthQuint)Compare Two Guidance Techniques for Botulinum Toxin Injections for the Treatment of Limb Spasticity and Focal Dystonia.
+
+ This is a study to investigate the use of two targeting techniques for botulinum toxin (BoNT) injection for the treatment of focal hand dystonia and upper limb spasticity: Electrophysiologic guidance, using electrical stimulation, and ultrasound.
+
+ Subjects will be selected from the clinical programs of both Icahn School of Medicine at Mount Sinai and the National Institutes of Health who are already receiving onabotulinum toxin A injections clinically.
+
+ The study will consist of four visits.
+
+ Visit one consists of screening subjects who will then be consented and randomized to one of the two treatment techniques for their ona-BoNT injection: 1) Electrophysiologic guidance using electrical stimulation or 2) ultrasound.
+
+ Visit 2 will occur at week 4 where the subjects will return for a follow up visit to have blinded evaluator measurements of efficacy and strength and capture safety data.
+
+ Visit 3 will be at week 12 when subjects will cross over and have the alternate treatment technique during their ona-BoNT injection.
+
+ Visit 4 will occur at week 16 as the final assessment where subjects will have measurements of efficacy and strength and capture safety data by the blinded evaluator.
+
+.
+
+ Compare Two Guidance Techniques for Botulinum Toxin Injections for the Treatment of Limb Spasticity and Focal Dystonia@highlight
+
+This study seeks to compare the use of ultrasound and electrophysiologic techniques to target muscles for the treatment of spasticity and focal dystonia of the limbs.
+
+ The purpose of this study is to investigate the use of two ways of locating the muscle for botulinum toxin (BoNT) injection for the treatment of focal hand dystonia and upper limb spasticity.
+
+ Electrophysiologic guidance, using electrical stimulation, and ultrasound are the standard ways of locating muscles during a treatment of BoNT injection.
+

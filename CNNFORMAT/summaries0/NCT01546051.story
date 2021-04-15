@@ -1,0 +1,14 @@
+(firstQuint)A Study of BCI-838 and Several BCI-632 Prodrugs in Healthy Volunteers.
+
+ The first phase of this study will evaluate the safety and tolerability of BCI-838 following oral administration of single doses of BCI-838 in healthy male subjects.
+
+ The pharmacokinetics of BCI-838 and its metabolite BCI-632 following single ascending doses of BCI-838 will be evaluated, as will the effect of food on the pharmacokinetics of BCI-838 and its metabolite following single oral doses of BCI-838 in healthy male subjects.
+
+ The second phase of this study will evaluate and compare the relative bioavailability and PK of the metabolite BCI-632 following single oral administration of several new pro-drug candidates in healthy male subjects.
+
+.
+
+ A Study of BCI-838 and Several BCI-632 Prodrugs in Healthy Volunteers@highlight
+
+This study will evaluate the safety, tolerability and pharmacokinetics of BCI-838, its metabolite BCI-632 and several new pro-drugs in healthy male subjects.
+

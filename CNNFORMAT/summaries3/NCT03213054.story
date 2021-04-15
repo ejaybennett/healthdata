@@ -1,0 +1,22 @@
+(firstQuint)A Study of OBP-301 With Radiation Therapy in Patients With Esophageal Cancer.
+
+ After screening, patients will undergo a combination therapy of OBP-301 with radiation therapy for 6 weeks.
+
+ At Day 1, Day 18 and Day 32, OBP-301 is directly injected to the location of the lesion.
+
+ From Day 4, patients receive radiation therapy.
+
+ Patients will be automatically entered follow-up period for 12 weeks to be observed tolerance and safety.
+
+ This study is designated as standard 3 + 3 dose escalation study.
+
+ The first 3 patients will be evaluated with low-dose of OBP-301 and then the study move onto the high-dose cohort of OBP-301.
+
+ When the DLT (Dose Limiting Toxicity) is observed, 3 more patients will be enrolled in the dose level.
+
+.
+
+ A Study of OBP-301 With Radiation Therapy in Patients With Esophageal Cancer@highlight
+
+This is a phase 1 study to evaluate safety and tolerability of Telomelysin (OBP-301) in combination with radiation therapy in patient with esophageal cancer who are not applicable to standard therapy.
+

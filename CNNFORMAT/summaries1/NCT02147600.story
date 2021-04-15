@@ -1,0 +1,26 @@
+(fifthQuint)Therapeutic Drug Monitoring of Adalimumab in Psoriasis Patients.
+
+ In a multicenter cross-sectional study, 73 adult patients treated with adalimumab (40 mg) every other week for at least 24 weeks are assessed for psoriasis disease severity through measurement of the Psoriasis Area and Severity Index (PASI) before adalimumab treatment start, and prior to sampling.
+
+ Patients who interrupted their treatment schedule during the 24 weeks prior to blood sampling are excluded.
+
+ Samples of patients who were treated with adalimumab for any other inflammatory disease and later developed psoriasis are also excluded.
+
+ Percentage of PASI improvement compared to baseline (PASI) represents clinical response.
+
+ Patients are classified as nonresponders (PASIPASI 50-75) or good responders (PASI 75-100).
+
+Serum is collected for adalimumab trough level and anti-drug antibody determination (Sanquin, The Netherlands).
+
+ By receiver-operator characteristics (ROC) analysis, a cut-off value of adalimumab trough level can be determined to distinguish insufficient from adequate responders.
+
+.
+
+ Therapeutic Drug Monitoring of Adalimumab in Psoriasis Patients@highlight
+
+The main goal of this study is to determine optimal cut-off values of adalimumab trough levels corresponding to good clinical response.
+
+ Determination of these values is necessary to compose a therapeutic algorithm, in which the dosing schedule can be adjusted according to serum trough levels of adalimumab and AAA (anti-adalimumab antibodies).
+
+ A secondary objective of this study is to further detect and quantify AAA and to correlate them with adalimumab and clinical response in a real life setting cohort of psoriatic patients.
+

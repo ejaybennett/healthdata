@@ -1,0 +1,14 @@
+(firstQuint)Phase II Study of Icotinib With Concurrent Radiotherapy in Elderly Patients With Esophageal Cancer.
+
+ Older patients with esophageal cancer have been correlated with poor prognosis because of having little chance to receive aggressive local therapy, including surgery or concurrent chemoradiotherapy.
+
+ EGFR is overexposed in most of the cases.
+
+ In this phase II trial, the efficacy and toxicity of EGFR tyrosine-kinase inhibitor (Icotinib) with concurrent radiotherapy will be investigated in this setting.
+
+.
+
+ Phase II Study of Icotinib With Concurrent Radiotherapy in Elderly Patients With Esophageal Cancer@highlight
+
+To investigate the efficacy and toxicity of EGFR tyrosine-kinase inhibitor (Icotinib) with concurrent radiotherapy in older patients with esophageal cancer.
+

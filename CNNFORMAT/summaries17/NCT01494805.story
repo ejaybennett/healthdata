@@ -1,0 +1,38 @@
+(secondQuint)Safety and Efficacy Study of rAAV.
+
+sFlt-1 in Patients With Exudative Age-Related Macular Degeneration.
+
+ A new treatment for exudative age-related macular degeneration (wet AMD) is being investigated.
+
+ The purpose of this Phase I/II clinical research study is to examine the baseline safety and efficacy of an experimental study drug to treat a complication of the disease which leads to vision loss.
+
+ The name of the study drug is rAAV.
+
+sFlt-1.
+
+ This experimental study uses a non-pathogenic virus to express a therapeutic protein within the eye.
+
+ The therapeutic diminishes the growth of abnormal blood vessels under the retina.
+
+ The duration of effect is thought to be long-term (years) following a single administration.
+
+ The clinical research study will look at the baseline safety and efficacy of a single injection of rAAV.
+
+sFlt-1 injected directly into the eye.
+
+ Approximately forty (40) subjects will participate in Australia.
+
+ The primary endpoint of the study is at one month, with extended follow up for 3 years.
+
+.
+
+ Safety and Efficacy Study of rAAV.
+
+sFlt-1 in Patients With Exudative Age-Related Macular Degeneration@highlight
+
+The study will involve approximately 40 subjects aged 55 or above who have exudative age-related macular degeneration (wet AMD).
+
+ Patients will be randomized to receive one of two doses of rAAV.
+
+sFlt-1 or assigned to the control group.
+

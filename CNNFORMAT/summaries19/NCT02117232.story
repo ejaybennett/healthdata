@@ -1,0 +1,66 @@
+(fifthQuint)Effectiveness and Safety of the Colonoscopy With "Visualization" Balloon.
+
+ The goal of this study is to evaluate effectiveness and safety of a "Visualization" Balloon for performance of colonoscopy.
+
+ Our hypothesis is that, use of "Visualization" Balloon will decrease colonic distention, patient's discomfort, use of sedatives and analgetics during procedure and will simplify the performance of colonoscopy resulting in shortening of procedure time and increasing the rate of cecal intubation.
+
+ Specific aims of the study: 1.
+
+ To compare procedure time and effectiveness of the "Visualization" Balloon colonoscopy with traditional CO2-insufflation colonoscopy.
+
+ 2.
+
+ To compare safety profiles between traditional CO2-insufflation colonoscopy and colonoscopy using the "Visualization" Balloon.
+
+ 4 STUDY ENDPOINTS 4.
+
+1 Primary Outcome To compare the mean cecal intubation time achieved with "Visualization" Balloon colonoscopy, with the mean cecal intubation time achieved with standard colonoscopy using CO2 insufflation.
+
+ 4.
+
+2 Secondary Outcomes To compare "Visualization" Balloon colonoscopy with standard CO2-insufflation colonoscopy in regards of: 1.
+
+ Total amount of carbon dioxide (CO2) gas for colonic insufflation used during the procedure.
+
+ 2.
+
+ Ease of colonoscope insertion.
+
+ 3.
+
+ The length of the colonoscope when it reaches the cecum.
+
+ 4 Colonoscope withdrawal time and total procedure time.
+
+ 5.
+
+ Cecal intubation rate.
+
+ 6.
+
+ Total dosage of analgesics and sedative during procedure.
+
+ 7.
+
+ Patient satisfaction: perceived pain and discomfort immediately after the procedure and in 24 hours post procedure.
+
+ 8.
+
+ Complications during and after colonoscopy.
+
+ 9.
+
+ Polyp detection rate.
+
+.
+
+ Effectiveness and Safety of the Colonoscopy With "Visualization" Balloon@highlight
+
+Colonoscopy has become the "gold standard" in detection of colonic polyps and colon cancer.
+
+ However, colonoscopy causes significant abdominal discomfort and abdominal pain during and after the procedure, requiring intravenous sedation and use of analgesics.
+
+ The discomfort and pain are mostly caused by air insufflation and intubation difficulties during advancement of the colonoscope in order the reach the cecum.
+
+ Study Hypothesis: Use of the "Visualization" Balloon will facilitate advancement of the colonoscope and will eliminate the need for colonic distention with the air or CO2, which can shortened the length of the procedure, reduce patient's discomfort and can decrease amount of sedatives and analgesics used during colonoscopy.
+

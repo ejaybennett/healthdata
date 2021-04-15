@@ -1,0 +1,18 @@
+(firstQuint)Trial of Poor Performance Status Patients (ToPPS).
+
+ This randomized, Phase II trial will evaluate three treatment regimens in patients with previously untreated stage IIIB/IV Non-Small Cell Lung Cancer (NSCLC) and a performance status (PS) of 2.
+
+ Patients will be randomized to either pemetrexed alone, pemetrexed and bevacizumab, or pemetrexed, carboplatin, and bevacizumab in a 1:1:1 fashion.
+
+ All 3 regimens should be tolerable in poor performance status patients with advanced NSCLC.
+
+ The 3-drug regimen (pemetrexed/carboplatin/bevacizumab) has been modified by lowering the dose of carboplatin, in order to minimize myelosuppression.
+
+ This trial will be conducted at multiple study sites.
+
+.
+
+ Trial of Poor Performance Status Patients (ToPPS)@highlight
+
+The purpose of this trial is to evaluate three treatment regimens in patients with stage IIIB/IV Non-Small Cell Lung Cancer (NSCLC) with a performance status of 2 and who were not previously treated.
+

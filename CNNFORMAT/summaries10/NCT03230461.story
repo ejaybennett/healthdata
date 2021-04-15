@@ -1,0 +1,30 @@
+(secondQuint)Estimation of CPR Chest Compression Depth.
+
+ Chest compression depth and rate during cardiopulmonary resuscitation (CPR) are important predictors of return of spontaneous circulation and survival following cardiac arrest.
+
+ Stiell et al (2014) found optimal survival at a compression depth of 4.
+
+56cm, which is at variance with the current guidelines of 5.
+
+0-6.
+
+0cm.
+
+ A change in guidelines is only likely to improve survival rates if healthcare professionals can accurately implement these subtle depth modifications into the basic life support (BLS) algorithm.
+
+ This study aims to determine if healthcare professionals can accurately judge compression depth without real-time feedback.
+
+.
+
+ Estimation of CPR Chest Compression Depth@highlight
+
+Optimal chest compression depth during CPR is 4.
+
+56cm which is at variance with the current guidelines of 5.
+
+0-6.
+
+0cm.
+
+ A change in guidelines is only worthwhile if healthcare professionals can accurately judge a subtle reduction in chest compression depth during CPR by a relatively small amount.
+

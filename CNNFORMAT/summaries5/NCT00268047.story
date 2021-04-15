@@ -1,0 +1,38 @@
+(fifthQuint)Pulmonary Resistance in Fontan Who Have Undergone Heart Transplantation.
+
+ Children born with certain congenital heart diseases such as tricuspid atresia or single ventricle physiology normally undergo the Fontan procedure during their course of treatment.
+
+ The Fontan procedure however is palliative and some of these children will eventually require heart transplantation.
+
+ It has been shown in pre-clinical animal models that pulmonary vascular resistance actually increases after having the Fontan procedure however this has not been quantitated in the human population.
+
+1 This is a retrospective chart review with the primary objective of examining Fontan patients with pulmonary vascular resistance and who have undergone heart transplantation.
+
+ We will review 50 charts at Children's Healthcare of Atlanta, Egleston Hospital.
+
+ Three other United States' sites are participating.
+
+ All de-identified data will be forwarded to the Great Ormond Street Hospital in London, England for study analysis.
+
+ In order to ascertain this objective, the following data will be collected.
+
+ 1.
+
+ Diagnosis 2.
+
+ Surgical History 3.
+
+ Information from Pre-transplant evaluation 4.
+
+ Post-transplant hemodynamics 5.
+
+ Post-transplant catheterization results.
+
+ Pulmonary Resistance in Fontan Who Have Undergone Heart Transplantation@highlight
+
+Clinical evidence reveals that some patients who undergo cardiac transplantation exhibit problems with pulmonary vascular resistance as well.
+
+ In some studies, an increase in pulmonary vascular resistance has been used as an indicator for increased 3-day and 3-month mortality after heart transplantation2.
+
+ In this study, the investigators would like to look at pulmonary vascular resistance in patients with a surgical history of the Fontan procedure followed by heart transplantation.
+

@@ -1,0 +1,24 @@
+(thirdQuint)The Benefit of 5% IVIG for Patients With Primary Immunodeficiency Disorders Who Experience Adverse Events on 10% IVIG Preparations.
+
+ Patients with PID require life long immunoglobulin (Ig) replacement therapy with IVIG being the most common form.
+
+ As more 10% IVIG products are FDA approved, the older and well characterized 5% IVIG products are becoming less used.
+
+ Currently, the standard of care for patients who experience AEs on IVIG is to move to a subcutaneous (SCIG) delivery and product.
+
+ This study will evaluate the AEs on a 10% product and octagam 5%.
+
+ The study will enroll 15 patients after an AE on any 10% product who will then be infused with octagam 5% for six infusions.
+
+ AEs will be documented and compared to the 10% product along with changes in biomarkers.
+
+ The study data may document another therapeutic option for patients who experience AEs - SCIG and octagam 5%.
+
+.
+
+ The Benefit of 5% IVIG for Patients With Primary Immunodeficiency Disorders Who Experience Adverse Events on 10% IVIG Preparations@highlight
+
+Patients with primary immunodeficiency disorders (PID) on intravenous immunoglobulin (IVIG) treatment may experience adverse events (AEs).
+
+ Patients who experience AEs on any 10% IVIG solution will be changed to octagam 5% for six infusions to evaluate the potential benefit for reduction of AEs on a lower concentration IVIG product.
+

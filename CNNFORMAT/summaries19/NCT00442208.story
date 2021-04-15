@@ -1,0 +1,24 @@
+(secondQuint)An Open-Label, Randomized, Comparative 3-Way Cross-Over Study to Evaluate the Effect of Food on the 24-Hour Intragastric pH at Day 5 After Twice Daily Oral Administration of PN 200 (Omeprazole/Naproxen) in Healthy Volunteers.
+
+ This study is designed to evaluate the effect of different dosing times of PN 200 relative to food on the intragastric pH profile of PN 200.
+
+ PN 200 contains immediate release omeprazole, which may be subject to acid degradation in the stomach.
+
+ Food is known to have a buffering effect on acid and therefore may result in less degradation of immediate release omeprazole.
+
+ Alternatively, food may decrease the absorption of omeprazole in the duodenum.
+
+ The relative magnitude of these effects is unknown.
+
+ The data from this study will aid in choosing the optimal timing of PN dosing relative to food in future studies.
+
+ The study is not blinded because the primary endpoint (intragastric pH) is a physiological variable not believed to be readily influenced by conscious or subconscious subject control.
+
+.
+
+ An Open-Label, Randomized, Comparative 3-Way Cross-Over Study to Evaluate the Effect of Food on the 24-Hour Intragastric pH at Day 5 After Twice Daily Oral Administration of PN 200 (Omeprazole/Naproxen) in Healthy Volunteers@highlight
+
+Primary: To compare the pharmacodynamic efficacy of PN 200 in controlling intragastric pH (percent time pH> 4.
+
+0) following twice daily administration at different dosing times relative to food (30 or 60 minutes prior to food or taken togeterh with food) on Day 5.
+

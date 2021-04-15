@@ -1,0 +1,26 @@
+(thirdQuint)Pharmacokinetics, Bioavailability and Safety of PENNSAID Gel.
+
+ PENNSAID Gel is a new topical gel formulation of diclofenac sodium that is similar in composition to PENNSAID solution.
+
+ No clinical studies have been conducted using PENNSAID Gel.
+
+ The current study will compare the pharmacokinetics, bioavailability, safety and tolerability of diclofenac after the topical application of PENNSAID Gel with the approved formulations of topical PENNSAID Solution and oral Sandoz 75 mg diclofenac sodium delayed release tablets in healthy subjects.
+
+ The efficacy profile of PENNSAID Gel is based on the known efficacy profile of PENNSAID solution.
+
+ Support for the BID dosing regimen includes the higher concentration of diclofenac sodium in PENNSAID Gel (2.
+
+0%) compared to PENNSAID solution (1.
+
+5%).
+
+ In addition, compared to PENNSAID solution, PENNSAID Gel is designed to have better penetration of diclofenac to allow for a reduction in the number of applications per day from four to two while maintaining effectiveness.
+
+.
+
+ Pharmacokinetics, Bioavailability and Safety of PENNSAID Gel@highlight
+
+It is anticipated that PENNSAID Gel will minimize systemic exposure versus oral diclofenac administered twice a day (BID).
+
+ In addition, PENNSAID Gel should result in greater subject convenience and compliance with a comparable bioavailability, safety and tolerability profile to that of the approved PENNSAID solution administered four times a day (QID).
+

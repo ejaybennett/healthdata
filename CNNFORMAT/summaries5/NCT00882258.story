@@ -1,0 +1,18 @@
+(secondQuint)Study of Proellex in Pre-menopausal Women With Symptomatic Uterine Fibroids.
+
+ Two (2) dose levels of Proellex or placebo will be administered once-daily for up to 91 days.
+
+ Following screening and a pre-treatment endometrial biopsy, subjects will be followed monthly for the three month treatment phase.
+
+ At the three-month treatment visit, subjects will be entered into an open-label extension treatment protocol, if deemed eligible.
+
+ At four months after their first treatment visit, subjects not electing to enter the open-label study will be assessed at a final follow-up visit.
+
+.
+
+ Study of Proellex in Pre-menopausal Women With Symptomatic Uterine Fibroids@highlight
+
+Two (2) dose levels of Proellex or placebo will be administered once-daily for up to 91 days.
+
+ Following screening and a pre-treatment endometrial biopsy, subjects will be followed monthly for the three month treatment phase.
+

@@ -1,0 +1,32 @@
+(thirdQuint)Statins and Breast Cancer Biomarkers.
+
+ This project was designed to evaluate the effect of a specific statin (atorvastatin) on several breast cancer biomarkers.
+
+ One hundred women will be treated for one year with either 40 mg of atorvastatin or placebo.
+
+ The primary aim of this project is to determine the effect of atorvastatin on breast density, a known risk factor for breast cancer.
+
+ In addition, the affect of atorvastatin on serum biomarkers (IGF1) and tissue biomarkers (atypia and Ki67) associated with risk is being evaluated.
+
+ Because of their tolerability and safety, statins have a great potential as a breast cancer preventative agent.
+
+ Should this pilot study show a significant decrease in breast density and/or change in serum and tissue biomarkers in statin treated patients these data would then be used to support a large randomized trial.
+
+ This is a multi-center, prospective, randomized placebo controlled clinical trial.
+
+ Target enrollment is 100 women, with 50 receiving atorvastatin and 50 receiving a similar appearing placebo tablet.
+
+ Eligible women must be at least 35 years old with regular menstrual cycles and a Gail Model risk of greater than 1.
+
+66% over 5 years.
+
+.
+
+ Statins and Breast Cancer Biomarkers@highlight
+
+There is laboratory evidence that cholesterol lowering medications (statins) inhibit the growth of breast cancer cells.
+
+ Clinical studies are controversial but some show that women taking statins are less likely to get breast cancer.
+
+ This ongoing randomized trial compares one-year of atorvastatin (Lipitor cent ) or placebo for lowering mammography-defined breast density and other surrogate markers associated with breast cancer risk.
+

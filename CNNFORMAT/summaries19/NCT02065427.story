@@ -1,0 +1,34 @@
+(thirdQuint)Intervention to Improve Social and Family Support for Caregivers of Dependent Patients.
+
+ (ICIAS).
+
+ Objective: To assess whether an intervention designed to improve the social support for caregivers effectively decreases caregivers burden and improves their quality of life.
+
+ Methodology: Design: Controlled, multicentre, community intervention trial, with patients and their caregivers randomized to the intervention or control group according to their assigned Primary Health Care Team (PHCT).
+
+ Study area: Primary Health Care network (9 PHCTs).
+
+ Study participants: Primary informal caregivers of patients receiving home health care from participating PHCTs.
+
+ Sample: Required sample size is 282 caregivers (141 from PHCTs randomized to the intervention group and 141 from PHCTs randomized to the control group.
+
+ Intervention: a) PHCT professionals: standardized training to implement caregivers intervention.
+
+ b) Caregivers: 1 individualized counselling session, 1 family session, and 4 educational group sessions conducted by participating PHCT professionals; in addition to usual home health care visits, periodic telephone follow-up contact and unlimited telephone support.
+
+ Control: Caregivers and dependent patients: usual home health care, consisting of bimonthly scheduled visits, follow-up as needed, and additional attention upon request.
+
+ Data Analysis.
+
+ Dependent variables: Caregiver burden (short-form Zarit test), caregivers social support (Medical Outcomes Study), and caregiver reported quality of life (SF-12) Independent variables: a) Caregiver: sociodemographic data, Goldberg Scale, Apgar family questionnaire, Holmes and Rahe Psychosocial Stress Scale, number of chronic diseases.
+
+ b) Dependent patient: sociodemographic data, level of dependency (Barthel Index), cognitive impairment (Pfeiffer test) Discussion: If the intervention intended to improve social and family support is effective in reducing the burden on primary informal caregivers of dependent patients, this model can be readily applied throughout usual PHCT clinical practice.
+
+.
+
+ Intervention to Improve Social and Family Support for Caregivers of Dependent Patients.
+
+ (ICIAS)@highlight
+
+The purpose of this study is to determine wether a multi-factor intervention involving the primary caregiver of a dependent patient, with the goal of improving his or her social and family support and carried out by the professionals of the patient's regular PHCT, will decrease the burden and increase quality of life for the primary caregiver.
+

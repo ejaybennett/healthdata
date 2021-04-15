@@ -1,0 +1,15 @@
+(firstQuint)Photodynamic Lasertherapy (PDT) in Periodontal Treatment (in Vivo).
+
+ The purpose of the study is to evaluate the effect of the photodynamic therapy in periodontal pockets and to assess the reduction of subgingival bacteria.
+
+ The first step will include the evaluation of the quantity of the light which will activate the photosensitizer in the various niches in the periodontal pocket.
+
+ The second step will evaluate the distribution of the photosensitizer in the periodontal pocket.
+
+ The third step will assess the woundhealing of the the photodynamic therapy compared to conventional periodontal therapy with an ultrasonic device.
+
+.
+
+ Photodynamic Lasertherapy (PDT) in Periodontal Treatment (in Vivo)@highlight
+
+The purpose of the study is to evaluate the effect of the photodynamic therapy in periodontal patients

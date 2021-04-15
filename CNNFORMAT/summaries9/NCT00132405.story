@@ -1,0 +1,36 @@
+(fifthQuint)Study of ALGRX 3268 for Needlestick Pain in Children.
+
+ ALGRX 3268 (previously known as PowderJect(R) Dermal Lidocaine) is a system for needle-free, pain-free epidermal injection of lidocaine powder that provides local anesthesia within 3 minutes to provide painless needle or catheter insertion for blood drawing.
+
+ ALGRX 3268 is a single use disposable system, incorporating a drug cassette and gas cylinder into a single hand held device, with a button to actuate the system.
+
+ This is a single center, randomized, double-blind, placebo (sham) controlled, single dose, parallel group study in pediatric subjects scheduled to undergo venipuncture.
+
+ Three age groups are enrolled: 3-7 years, 8-12 years, and 13-18 years.
+
+ Within each age group, subjects are randomized to receive ALGRX 3268 0.
+
+5 mg/20 bar or pressure matched placebo.
+
+ Two to 3 minutes after administration of study treatment at the back of the hand, venipuncture is performed with either a needle/Vacutainer(R), needle/syringe or "butterfly," at the discretion of the investigator.
+
+ Subjects aged 3-7 are asked to rate the pain of venipuncture using the Wong-Baker FACES Pain Rating Scale, anchored at 0 for "no hurt" and 5 for "hurts worst.
+
+" Subjects in oldest age group complete a 100 mm visual analogue scale (VAS), anchored at 0 for "no pain" and at 100 for "extreme pain.
+
+" Subjects in the middle group used both the Wong-Baker FACES scale and the VAS to rate the pain of venipuncture.
+
+ Safety ratings of skin are completed 15, 30, and 60 minutes after the procedure.
+
+.
+
+ Study of ALGRX 3268 for Needlestick Pain in Children@highlight
+
+Minor needlestick procedures often cause significant pain and distress in children, yet interventions to reduce pain are used infrequently.
+
+ ALGRX 3268 is a novel, single-use, prefilled, needle-free dispenser that immediately delivers powdered lidocaine into the epidermis and provides local analgesia in 2 to 3 minutes.
+
+ The purpose of this prospective, randomized, double-blind, and placebo-controlled trial is to determine the efficacy and tolerability of ALGRX 3268 in children aged 3 to 18 years undergoing venipuncture.
+
+ The trial will enroll a total of 306 children aged 3 to 18 years scheduled to undergo venipuncture of the back of the hand at a single study center.
+

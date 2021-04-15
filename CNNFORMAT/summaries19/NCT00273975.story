@@ -1,0 +1,16 @@
+(secondQuint)Trial to Evaluate Steady State Pharmacokinetic Parameters, Efficacy and Safety of Nevirapine in Antiretroviral Drug nave Pediatric Patients.
+
+ A randomised open label multi-centre trial to evaluate the pharmacokinetic, efficacy and safety parameters of nevirapine 150mg/m2 and nevirapine 4 or 7mg/kg when administered in combination with ZDV and 3TC for 48 weeks in antiretroviral naive pediatric patients.
+
+ Primary objective: To evaluate steady state pharmacokinetic parameters of nevirapine 150mg/m2 in antiretroviral drug naive pediatric patients.
+
+ Secondary objective: To assess efficacy and safety of nevirapine 150 mg/m2 and nevirapine 4/7mg/kg after 24 and 48 weeks of treatment Study Hypothesis: Evaluation of recent pharmacokinetic data has suggested that a dose based on body surface area rather than body weight might be a better therapeutic regimen to achieve steady state plasma concentrations.
+
+ The goal in this study was to determine if a Nevirapine suspension dose of 150 mg/m2 BID, following a two week lead-in of 150 mg/m2 QD, produces plasma nevirapine steady state concentrations of 4 - 6 ?g/mL in all age groups as was observed in adult safety and efficacy trials.
+
+ Comparison(s): ACTG 245.
+
+ Trial to Evaluate Steady State Pharmacokinetic Parameters, Efficacy and Safety of Nevirapine in Antiretroviral Drug nave Pediatric Patients@highlight
+
+Trial to evaluate steady state pharmacokinetic parameters of nevirapine 150mg/m2 and nevirapine 4 or 7 mg/kg after 4 weeks, and efficacy and safety of the dosing when administered for 48 weeks in antiretroviral drug naive paediatric patients.
+

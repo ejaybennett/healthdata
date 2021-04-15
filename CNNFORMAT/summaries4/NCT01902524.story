@@ -1,0 +1,22 @@
+(firstQuint)Efficacy and Safety Study of Fentanyl Transdermal Patch for Treatment of Chronic Pain.
+
+ This trial is a Phase 4, prospective, open-label (meaning that both the research physician and study participants will know which medication is being administered) study of fentanyl transdermal patch-type system (TTS) Durogesic(R) D-Trans in patients with non-cancer pain.
+
+ The patch is designed to systematically release the adsorbed fentanyl percutaneously, in a constant rate for three days (72 hours).
+
+ The study will be conducted for 12 weeks.
+
+ The efficacy and safety will be evaluated at week 1, week 4, week 8 and week 12 visits.
+
+ All participants will use the patch at least once during the study.
+
+ The drug efficacy will be evaluated by the percent change in pain intensity before and after treatment and by improvements in the following activities: daily life, walking, meal intake, mood regulation.
+
+ The overall safety will be assessed based on the adverse events reporting.
+
+.
+
+ Efficacy and Safety Study of Fentanyl Transdermal Patch for Treatment of Chronic Pain@highlight
+
+The purpose of this study is to confirm effectiveness and safety of fentanyl transdermal patch Durogesic(R) D-Trans for treatment of chronic pain in participants with chronic non-cancer pain.
+

@@ -1,0 +1,44 @@
+(fifthQuint)Adolescent Loss: The Impact of Loss on Adolescent Oncology Patients.
+
+ All participants will asked to complete a bereavement questionnaire quantifying the losses they have experienced.
+
+ All participants will be screened for depression/anxiety as well as life outlook using validated tools.
+
+ Patients who identify that they have experienced the loss of someone significant in their life on the bereavement questionnaire will continue with the study and complete a battery of validated psychological inventories.
+
+ They will be asked to identify their most significant loss in regards to completion of the remainder of the questionnaire.
+
+ In addition, those who identify losing a friend to cancer will be invited to participate in a 30-45 minute semi-structured interview (in person or via telephone) during a second session with the study staff.
+
+ This interview will be audiotaped, to allow for transcription and analysis later.
+
+ Parents will complete demographic information, the bereavement questionnaire, and complete inventories of family coping / cohesion regardless of child's responses to bereavement questionnaire.
+
+ In addition, those who identify losing a friend to cancer will be invited to participate in a 30-45 minute semi-structured interview (in person or via telephone) during a second session with the study staff.
+
+ Primary Objectives: - Estimate the prevalence of loss, with particular interest in the extent of peer loss, in adolescent oncology patients who have been on therapy 12 months ( 6 months if progressive or refractory disease) or off therapy for 3 years.
+
+ - Describe the impact of loss on adolescent oncology patients by focusing on coping efficacy, psychological distress, meaning-making, and complicated bereavement.
+
+ Secondary Objective: - Describe parental knowledge of losses experienced by an adolescent child who has recently undergone therapy.
+
+.
+
+ Adolescent Loss: The Impact of Loss on Adolescent Oncology Patients@highlight
+
+Teen loss is not uncommon.
+
+ Depression, emptiness, disbelief, hopelessness, and guilt are typical responses.
+
+ How teens with cancer cope with the loss of a loved one or a close friend has not been well-studied in the bereavement or oncology literature.
+
+ This study will describe the impact of loss on teen patients who are on treatment or have recently completed treatment for malignancy.
+
+ We will look at baseline personality traits and ask teens to identify losses in their life.
+
+ We will ask questions about coping and meaning-making after loss.
+
+ A parent will be invited to participate -to measure parental awareness of teen loss and determine if parental coping affects teen coping.
+
+ The inventories have been validated by other researchers.
+

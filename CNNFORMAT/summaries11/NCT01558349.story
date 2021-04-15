@@ -1,0 +1,14 @@
+(secondQuint)Circulating Tumor Cells and Melanoma: Comparing the EPISPOT and CellSearch Techniques.
+
+ The secondary objectives of this study include: A.
+
+ To compare the following elements between the two patient groups: - the number of CMCs per ml of blood as determined by EPISPOT - the number of CMCs per ml of blood as determined by CellSearch - the percentage of patients with at least 2 CMCs per ml of blood according to the two techniques - the % of CMCs expressing KI67 - the % of CMCs expressions S100 (only the EPISPOT technique) B.
+
+ To compare the EPISPOT and CellSearch techniques is terms of the following: - the number of CMCs detected per ml blood - the number of CMCs expressing antigen KI67 C.
+
+ To re-evaluate the 2-CMC per ml blood threshold.
+
+ Circulating Tumor Cells and Melanoma: Comparing the EPISPOT and CellSearch Techniques@highlight
+
+The main objective of this study is to compare results for the detection of circulating melanoma cells (CMC) using CellSearch versus EPISPOT (EPithelial ImmunoSPOT) techniques between a group of patients with metastatic melanoma and a group of hospitalized control patients.
+

@@ -1,0 +1,10 @@
+(firstQuint)Protocol for the Treatment of Metastatic Ewing Sarcoma.
+
+ Study for the treatment of Ewing metastatic sarcoma with and induction phase with Vincristine (VIN), Adriamycin (ADM), Ciclofosfamide(CYC), Ifosfamide(IFO), Etoposide(ETO) and radiotherapy (RT)followed by a consolidation phase with Busulfan and Melfalan (BUMEL) and Peripheral Blood Stem Cells Transplantation (PBSCT) and a subsequent maintenance phase with Ciclofosfamide and Celecoxib for High Risk (HR) patients.
+
+ Very High Risk (VHR) patients will receive a prior frontline therapy with Temozolomide and Irinotecan (TEMIRI), while patient with lung metastasis only will undergo to total lung irradiation after PBSCT.
+
+ Protocol for the Treatment of Metastatic Ewing Sarcoma@highlight
+
+Study for the treatment of metastatic Ewing sarcoma with high doses chemotherapy, radiotherapy and maintenance therapy.
+

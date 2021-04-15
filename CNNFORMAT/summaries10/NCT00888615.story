@@ -1,0 +1,36 @@
+(fifthQuint)Elesclomol Sodium and Paclitaxel in Treating Patients With Recurrent or Persistent Ovarian Epithelial Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To estimate the antitumor activity of elesclomol (elesclomol sodium) and paclitaxel in patients with persistent or recurrent ovarian, fallopian tube, or primary peritoneal cancer primarily through the frequency of objective tumor responses.
+
+ II.
+
+ To determine the nature and degree of toxicity of elesclomol and paclitaxel in this cohort of patients.
+
+ SECONDARY OBJECTIVES: I.
+
+ To estimate the progression-free survival and overall survival of patients treated with elesclomol and paclitaxel.
+
+ OUTLINE: Patients receive paclitaxel intravenously (IV) over 1 hour and elesclomol sodium IV over 1 hour on days 1, 8, and 15.
+
+ Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ NOTE: Patients who are currently on treatment must not be dosed with elesclomol sodium after 12/31/2015.
+
+ All other study procedures, with the exception of elesclomol sodium administration and paclitaxel administration, should continue in accordance with protocol requirements.
+
+ Any treatment given after 12/31/2015, including continuation of paclitaxel, will be considered off study.
+
+ After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.
+
+.
+
+ Elesclomol Sodium and Paclitaxel in Treating Patients With Recurrent or Persistent Ovarian Epithelial Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer@highlight
+
+This phase II trial studies how well elesclomol sodium and paclitaxel work in treating patients with ovarian epithelial cancer, fallopian tube cancer, or primary peritoneal cancer that has returned after a period of improvement (recurrent) or is persistent.
+
+ Drugs used in chemotherapy, such as elesclomol sodium and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+
+ Elesclomol sodium may also help paclitaxel work better by making tumor cells more sensitive to the drug.
+

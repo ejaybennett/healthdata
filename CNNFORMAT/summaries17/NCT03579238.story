@@ -1,0 +1,22 @@
+(firstQuint)Entrainment Between Clinician and Patient During Palpation.
+
+ Research participants will lie on their backs on a soft table while a licensed physician, with special training in osteopathic palpation and manipulation approaches, touches, and administers a slight inhibition of occipital bone motion for five minutes per stage.
+
+ Both will have a non invasive skin sensor (probe), called a laser Doppler flow meter, attached to their forehead to detect changes in subcutaneous blood flow velocity.
+
+ The signal from the device will be augmented and transmitted for display onto a digital polygraph recorder.
+
+ Then, using Fourier transformation software, the signal will be displayed as a graph for spectral analysis to determine the effect on specific wave forms related to autonomic activity.
+
+ The interaction between the two individuals will be assessed for evidence of entrainment phenomenon, i.
+
+e.
+
+, the influence of one biorhythm upon another.
+
+.
+
+ Entrainment Between Clinician and Patient During Palpation@highlight
+
+This study will assess the physiological interaction between the palpating clinician and a research participant using a laser Doppler flow meter to detect changes in blood flow parameters.
+

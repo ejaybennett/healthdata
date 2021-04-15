@@ -1,0 +1,23 @@
+(secondQuint)Study to Compare the Effect of Ropinirole Prolonged Release Once-daily Versus Twice-daily.
+
+ 1.
+
+ Study subjects : Parkinson disease who are on Ropinirole immediate release or Pramipexole immediate release and are considering to change into Ropinirole prolonged release 2.
+
+ Cross over study design: - Group 1: once daily dose for 2 month then into twice daily in divided dose for 2 months - Group 2: twice daily in divided dose for 2 months then into once daily dose for 2 months 3.
+
+ Dose adjustment may be done in the first 4 weeks.
+
+ 4.
+
+ Compare the benefit,side effects, and patient preference between the once daily vs twice daily dosing.
+
+.
+
+ Study to Compare the Effect of Ropinirole Prolonged Release Once-daily Versus Twice-daily@highlight
+
+1.
+
+ In order to compare the benefit, side effects, and patient preference of Ropinirole prolonged release when used in once-daily or twice-daily dosing 2.
+
+ In order to estimate the conversion rate of dopamine agonists into Ropinirole prolonged release

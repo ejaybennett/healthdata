@@ -1,0 +1,22 @@
+(secondQuint)Gene Expression That Predicts Radiation Exposure in Humans.
+
+ In order validate the performance of DxTerity's Radiation Biodosimetry Test (RBT) system, several clinical centers will provide controlled, de-identified blood samples and associated clinical information to DxTerity Diagnostics (DxTerity).
+
+ Variations in dose and frequency of delivery in TBI protocols are expected between the clinical centers and this has been accounted for in the study design.
+
+ Samples from up to 200 participants will be collected via this protocol.
+
+ Blood samples for this study will be collected from radiation therapy patients receiving TBI as part of a therapeutic regimen from the site.
+
+ Blood samples (up to 4 mL per time point) may be obtained at the time of routine blood collection; participation in this biomarker study will not affect any aspect of patient treatment.
+
+ Study samples will be obtained prior to, during, and post-radiation treatment regimen.
+
+ Associated clinical information will be collected from the subject's medical record, as well.
+
+.
+
+ Gene Expression That Predicts Radiation Exposure in Humans@highlight
+
+To verify and validate a biodosimetry test for determining absorbed ionizing radiation dose by analyzing gene expression signatures of blood samples collected from patients treated with Total Body Irradiation (TBI).
+

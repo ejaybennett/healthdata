@@ -1,0 +1,26 @@
+(thirdQuint)Margin-Based Vs.
+
+ Robust Photon Radiotherapy Planning in IMRT of HN-SQCC.
+
+ This is a prospective randomized pilot clinical trial, stratified by primary tumor site, to evaluate the degree of xerostomia and quality of life (QOL) in subjects with HN-SQCC treated with radiation therapy under margin-based and robust radiotherapy treatment plans.
+
+ Margin-based plans will use both biological (biological optimization) and physical objectives whereas robust planning will use physical objectives for sparing of the parotid glands.
+
+ Intensity-modulated radiation therapy (IMRT) and standard chemotherapy will be used.
+
+ QOL (quality of life) will be measured using the European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-C30 questionnaire and EORTC QLQ-H&N35 (head and neck) module before radiotherapy (baseline) and then 3, 6, 9 and 12 months after radiotherapy.
+
+ Xerostomia will be measured in study subjects using two patient-reported scoring systems completed by each subject before radiotherapy and then 3, 6, 9, and 12 months after radiotherapy: Late Effects Normal Tissue Task Force (LENT)-Subjective, Objective, Management, Analytic (SOMA) LENT/SOMA grading system and the University of Michigan's Xerostomia Questionnaire (XQ).
+
+ The data collected by this randomized pilot clinical trial will be used to inform the design of, and decision-making for, future larger studies that seek to compare different methods of radiotherapy planning in the treatment of HN-SQCC.
+
+.
+
+ Margin-Based Vs.
+
+ Robust Photon Radiotherapy Planning in IMRT of HN-SQCC@highlight
+
+This is a research study to evaluate the quality of life and amount of dry mouth experienced as a result of radiotherapy in subjects who have squamous cell carcinoma of the head and neck (HN-SQCC).
+
+ This study will compare the side effects experienced based on the method to plan radiotherapy, Margin Based or Robust.
+

@@ -1,0 +1,12 @@
+(secondQuint)rAd-p53 Gene Therapy for Advanced Oral and Maxillofacial Malignant Tumors.
+
+ Primary objectives of this study is to determine the efficacy profiles of rAd-p53 intra-tumor injection alone, with concurrent chemotherapy, or combination with surgery for treatment of advanced oral and maxillofacial malignant tumors(stage III or IV) including target lesion complete response rate (LCR) and overall target lesion response rate (OLR), response duration (RD), and progress-free survival (PFS).
+
+ The secondary objectives of this study is to investigate overall response rate (OPCR) and overall complete response rate (OCR), overall survival (OS), ECOG, and safety of rAd-p53 monotherapy and combined with chemotherapy,or surgery.
+
+.
+
+ rAd-p53 Gene Therapy for Advanced Oral and Maxillofacial Malignant Tumors@highlight
+
+This is multicenter, open-label, randomized, active-controled, phase IV study of local direct intra-tumor injection of rAd-p53 monotherapy, with concurrent chemotherapy , or combination with surgery for treatment of advanced oral and maxillofacial malignant tumors.
+

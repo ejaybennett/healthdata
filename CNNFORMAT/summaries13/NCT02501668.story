@@ -1,0 +1,28 @@
+(fifthQuint)The Prevalence of Lung Cancer in Patients With Interstitial Lung Disease.
+
+ The epidemiology of lung cancer related to interstitial lung disease (ILD) with or without with connective tissue disease (CTD) as well as idiopathic pulmonary fibrosis (IPF) has not been well established yet.
+
+ Interstitial lung disease has a potential to develop lung cancer in the name of scar cancer.
+
+ The investigators aimed to explore prevalence of lung cancer in patients with ILD with or without CTD and IPF in comparison with chronic obstructive pulmonary disorder (COPD).
+
+ The investigators will evaluate the prevalence of lung cancer associated with ILD and IPF utilizing the Korean Health Insurance Review and Assessment Service (HIRA) database, spanning the period from January 2011 to December 2011.
+
+ The database (HIRA-NPS-2011-0001) was based on random sampling of outpatients from whole population.
+
+ The sample cases are total 1,375,842.
+
+ Among them 670,258 cases (age > 40) were evaluated.
+
+ Patients with ILDs, IPF, CTD, and COPD will be identified based on the International Classification of Disease-10 (ICD-10) diagnostic codes.
+
+.
+
+ The Prevalence of Lung Cancer in Patients With Interstitial Lung Disease@highlight
+
+The investigators will evaluate the prevalence of lung cancer associated with interstitial lung disease (ILD) and idiopathic pulmonary fibrosis (IPF) utilizing the Korean Health Insurance Review and Assessment Service (HIRA) database, spanning the period from January 2011 to December 2011.
+
+ The database (HIRA-NPS-2011-0001) was based on random sampling of outpatients from whole population.
+
+ Patients with ILDs, IPF, connective tissue disorder (CTD), and COPD were identified based on the International Classification of Disease-10 (ICD-10) diagnostic codes.
+

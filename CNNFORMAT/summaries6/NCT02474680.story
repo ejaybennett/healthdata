@@ -1,0 +1,14 @@
+(firstQuint)Evaluation of Pharmacogenetic Testing In a Mental Health Population and Economic Outcomes.
+
+ This is a non-randomized, single-case design of pharmacogenetic implementation in a mental health patient population of subjects taking antipsychotics and/or antidepressants.
+
+ Retrospective and prospective data will be collected on all subjects before and after pharmacogenetic recommendations have been made.
+
+ Retrospective data will be collected for the previous 12 months before pharmacogenetic recommendations are made and prospective data will be collected for 12 months after pharmacogenomic recommendations have been made.
+
+.
+
+ Evaluation of Pharmacogenetic Testing In a Mental Health Population and Economic Outcomes@highlight
+
+This is a non-randomized, single-case design of pharmacogenetic implementation in a mental health patient population of subjects taking antipsychotics and/or antidepressants.
+

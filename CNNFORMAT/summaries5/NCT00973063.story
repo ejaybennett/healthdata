@@ -1,0 +1,14 @@
+(firstQuint)Effectiveness of Routine Sterile Gloving in Blood Culture.
+
+ Because contamination during sampling for blood culture may interfere in interpreting the results of blood culture, lowering the contamination rates in blood culture is very important.
+
+ According to current guideline, routine sterile gloving is not recommended.
+
+ We hypothesized that routine sterile gloving can lower contamination rates in blood culture.
+
+.
+
+ Effectiveness of Routine Sterile Gloving in Blood Culture@highlight
+
+The purpose of this study is to determine whether routine sterile gloving can lower contamination rates in blood culture.
+

@@ -1,0 +1,12 @@
+(firstQuint)Efficacy and Safety Study for Subjects With Mild-to-Moderate Alzheimer's Disease.
+
+ This is a Phase 2 study designed to evaluate the efficacy and safety of ABT-126 in approximately 260 adults with mild-to-moderate Alzheimer's disease (AD).
+
+ Subjects will be randomized to one of the four treatment groups (ABT-126, donepezil, or placebo) for a 12-week Treatment Period.
+
+ Acronyms are listed in the secondary outcome section, below, you will find a list of the acronyms defined: - MMSE - Mini Mental Status Exam - QoL-AD - Quality of Life - Alzheimer's Disease - CIBIC-plus - Clinician Interview-Based Impression of Change - NPI - Neuropsychiatric Inventory - CSDD - The Cornell Scale for depression in Dementia - ADCS-ADL - Alzheimer's Disease Cooperative Study - Activities of Daily Living.
+
+ Efficacy and Safety Study for Subjects With Mild-to-Moderate Alzheimer's Disease@highlight
+
+This is a efficacy and safety study evaluating new treatment for subjects with mild to moderate Alzheimer's Disease.
+

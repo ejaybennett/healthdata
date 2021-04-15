@@ -1,0 +1,38 @@
+(fifthQuint)Prospective Cohort Study Depending on the Use of Palliative Care for Advanced Stage of Cancer Patients.
+
+ Patients with advanced cancer report physical, emotional, social and economic problems that may be due to the cancer itself or its treatment.
+
+ Previous studies have shown the benefit of early palliative care in oncology.
+
+ However, many Korean patients tend to start palliative care late even in general hospital.
+
+ Because of the late start of palliative care, the burden of medical expenses increases, on the other hand, the quality of life of terminally ill patients decrease.
+
+ In this study, the use of palliative care in advanced cancer patients will be evaluated by a prospective cohort study.
+
+ The goals of this study are as follow: First, the clinical, psycho-social, and cognitive factors affecting quality of life, decision making, and hospital utilization (palliative medical team medical treatment, hospice and medical care) of patients with advanced stage cancer will be investigated.
+
+ Second, this study will explore the effects of age-specific characteristics on quality of life and care.
+
+ Third, an index, which reflects age-specific characteristics and predicts the time and content of terminal care will be developed.
+
+ Improvements on the quality of life and care of patients with advanced stage of cancer or metastatic cancer are expected to establish effective terminal care strategies through this study.
+
+ The patients' symptom and quality of life, choice of medical care, advance care planning and caregiver's burden of care will be evaluated every 3 months after confirming the willingness to use palliative care for cancer patients.
+
+ 3 months after the death, a caregiver evaluation will be conducted and hospice use, medical expenses will be analyzed.
+
+.
+
+ Prospective Cohort Study Depending on the Use of Palliative Care for Advanced Stage of Cancer Patients@highlight
+
+This study evaluates the change of quality of life, treatment decision and utilization of health care depending on the use of palliative care in advanced cancer patients by a prospective cohort study.
+
+ Participants will be separated into different groups by their intentions for using palliative care.
+
+ Every participant will carry out the questionnaire per 3 months.
+
+ This cohort study will be ended a year after each participant enrolls.
+
+ However, if the participant didn't survive during this study, the caregivers will be asked to fill out additional questionnaire after 3 months of the death.
+

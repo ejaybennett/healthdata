@@ -1,0 +1,38 @@
+(secondQuint)PET Imaging of Cannabinoid CB1 Receptors Using [11C]MePPEP.
+
+ MePPEP is a ligand that is highly selective for the cannabinoid type 1 (CB1) receptor.
+
+ This receptor is considered the most common G-coupled protein receptor in the brain (Pacher et al.
+
+, 2006).
+
+ The CB1 receptor is the site of action of Delta-9-tetrahydrocannbinol (THC), the active compound in marijuana, and is found primarily on the presynaptic terminals of dopaminergic, glutamatergic, GABAergic neurons (Howlett et al.
+
+, 2002).
+
+ The function of the CB1 receptor is not entirely clear; however, it has been implicated in several neurological and psychiatric disorders, and a selective inverse agonist, rimonabant, is currently in use in Europe for the treatment of obesity (Van Gaal et al.
+
+, 2005).
+
+ [11C]MePPEP was developed to enhance our understanding of the in vivo characteristics of the CB1 receptor (e.
+
+g.
+
+, receptor density and receptor occupancy with pharmaceuticals).
+
+ The purpose of this protocol is to establish an accurate method to measure CB1 receptor levels in brain by performing test/retest brain imaging studies.
+
+ The results of this overall study are required to apply this PET ligand in various neurological and psychiatric disorders in the future.
+
+.
+
+ PET Imaging of Cannabinoid CB1 Receptors Using [11C]MePPEP@highlight
+
+The purpose of this protocol is to measure brain CB1 receptors in the hope to better understand how they work, so that one day we can understand how the CB1 receptors are involved in psychiatric, neurological, and behavioral disorders.
+
+.
+
+.
+
+.
+

@@ -1,0 +1,16 @@
+(thirdQuint)A Low-residue Diet vs Clear Liquid Diet as a Bowel Colonoscopy Preparation With Polyethylene Glycol (PEG).
+
+ An adequate examination is dependent on the bowel colonoscopy cleansing of stool.
+
+ There are many different colon preparations, however endoscopists traditionally recommend the patient remain on a clear liquid diet for at least 24 h prior to their colonoscopy to reduce continued residue inflow into the colon from the small bowel, in addition the large volume preparation with PEG.
+
+ The most common problems leading to less than adequate colon cleansing include lack of compliance with the clear liquid diet and difficulty taking the large volume preparation.
+
+.
+
+ A Low-residue Diet vs Clear Liquid Diet as a Bowel Colonoscopy Preparation With Polyethylene Glycol (PEG)@highlight
+
+This was a randomized, endoscopists' blinded comparison of bowel colonoscopy cleansing and tolerability of a prespecified low-residue diet compared with a clear liquid diet and Polyethylene Glycol bowel preparation.
+
+ Outcome measures included efficacy of bowel preparation, patient preparation tolerability and side-effects.
+

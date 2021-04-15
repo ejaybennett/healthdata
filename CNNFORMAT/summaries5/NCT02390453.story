@@ -1,0 +1,22 @@
+(secondQuint)Cognitive and Aerobic Resilience for the Brain.
+
+ Exercise and cognitive training hold promise for delaying progression of MCI.
+
+ Exercise improves cognitive ability, brain function, and brain structure in older adults.
+
+ Cognitive training has been shown to durably improve mental abilities and functional status in older adults.
+
+ In addition, persons with MCI respond to some forms of cognitive training just as robustly as healthy older adults.
+
+ This pilot study is a 4 group design with a home-based multi-modal physical exercise intervention, cognitive training, combined cognitive and physical training, and a social contact control enrolling older adults with MCI.
+
+ This pilot study is designed to be consistent with current recommended approaches to establishing trial feasibility.
+
+ If the aims are achieved, it will provide a conceptual and practical rationale to support a large, multi-site, randomized clinical trial to test the efficacy of combined physical and cognitive training in delaying time to a clinical diagnosis of dementia.
+
+.
+
+ Cognitive and Aerobic Resilience for the Brain@highlight
+
+This is a randomized controlled trial (RCT) of the effectiveness of cognitive and exercise training versus control condition on executive cognitive function in older adults with mild cognitive impairment (MCI).
+

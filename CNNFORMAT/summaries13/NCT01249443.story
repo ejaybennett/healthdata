@@ -1,0 +1,66 @@
+(fifthQuint)Paclitaxel and Carboplatin in Treating Patients With Metastatic or Recurrent Solid Tumors and HIV Infection.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the safety and tolerability of vorinostat in combination with paclitaxel and carboplatin in solid tumor patients with HIV infection.
+
+ II.
+
+ To determine the maximal tolerated dose (MTD) of the combination in this patient population.
+
+ *NOTE: An administrative decision was made by Cancer Therapy Evaluation Program (CTEP) to halt further study of vorinostat in this specific patient population as of February 1, 2013, and no patients remain on vorinostat.
+
+ The primary objective going forward will determine the safety and tolerability of the paclitaxel and carboplatin combination in this patient population.
+
+ SECONDARY OBJECTIVES: I.
+
+ To preliminarily assess response rates of the therapeutic combination in lung, head and neck, and esophageal cancers.
+
+ II.
+
+ To evaluate the pathological characteristics of non-acquired immunodeficiency syndrome (AIDS) defining cancers of the upper aerodigestive tract.
+
+ III.
+
+ To determine the presence and oncogenic activity of human papillomavirus (HPV) infection in tumor tissues and to correlate HPV infection with clinical outcomes.
+
+ IV.
+
+ To investigate possible pharmacokinetic interactions between paclitaxel and antiretroviral therapy in persons with HIV infection.
+
+ OUTLINE: This is a multicenter, dose-escalation study of vorinostat followed by an expansion cohort study.
+
+ Patients receive vorinostat orally (PO) once daily on days 1-5 and paclitaxel intravenously (IV) over 3 hours and carboplatin IV over 30 minutes on day 3.
+
+ Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ Some patients undergo blood sample collection at baseline and periodically during course 1 for pharmacokinetic studies and HIV viral load analysis.
+
+ Note: An administrative decision was made by CTEP to halt further study of vorinostat in this specific patient population as of February 1, 2013.
+
+ No patients remain on vorinostat.
+
+ The primary objective going forward will determine the safety and tolerability of the paclitaxel and carboplatin combination in this patient population, without vorinostat.
+
+ The information pertaining to vorinostat is for historical purposes.
+
+ After completion of study therapy, patients are followed up every 6 months for up to 3 years.
+
+.
+
+ Paclitaxel and Carboplatin in Treating Patients With Metastatic or Recurrent Solid Tumors and HIV Infection@highlight
+
+This phase I clinical trial is studying the side effects and the best dose of vorinostat when given together with paclitaxel and carboplatin in treating patients with metastatic or recurrent solid tumors and human immunodeficiency virus (HIV) infection.
+
+ Vorinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Giving vorinostat together with paclitaxel and carboplatin may kill more tumor cells.
+
+ NOTE: An administrative decision was made by NCI to halt further study of vorinostat in this specific patient population as of February 1, 2013.
+
+ No patients remain on vorinostat.
+
+ Going forward this study will determine the safety and tolerability of the paclitaxel and carboplatin combination in this patient population.
+

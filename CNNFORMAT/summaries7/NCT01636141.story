@@ -1,0 +1,20 @@
+(firstQuint)Phase 1 Safety Study of Single and Multi-Dose Topically Applied OLT1177 Gel in Healthy Subjects.
+
+ OLT1177 Gel is being developed for the topical treatment of pain and inflammation emanating from musculoskeletal and certain skin inflammatory conditions.
+
+ This is a Phase 1 study evaluating the safety and tolerability of OLT1177 Gel in healthy subjects when given as single-dose or multi-dose applications.
+
+ The study will be conducted in two parts, Part A and Part B.
+
+ In Part A, approximately 18 healthy subjects in 3 dose escalating cohorts will be randomized to receive a single dose of the investigational drug (5 subjects OLT1177 Gel and 1 subject placebo gel).
+
+ Upon completion of Part A, a new subject population of approximately 18 subjects in 3 dose escalating cohorts will be randomized in Part B of the study.
+
+ Subjects will receive a total of 8 doses over 3 consecutive days given 6 hours apart while awake during the day and will be followed for up to 30 days for safety assessment.
+
+.
+
+ Phase 1 Safety Study of Single and Multi-Dose Topically Applied OLT1177 Gel in Healthy Subjects@highlight
+
+The purpose of this study is to determine if OLT1177 Gel is safe and can be tolerated when given as a single dose and multidose to a defined area of one knee of healthy subjects.
+

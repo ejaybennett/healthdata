@@ -1,0 +1,28 @@
+(thirdQuint)Vitamin D Binding Protein (Gc) Allele Variation Effects Response to Vitamin D Treatment.
+
+ We suspect that the wide range of response is effected by other factors such as variation in Vitamin D binding protein (the major transporter of Vitamin D metabolites).
+
+ Gc, also known as Vitamin D binding protein (DBP), group specific component, or Gc globulin, is a 52-58 kDa multifunctional plasma protein, synthesized in the liver.
+
+ The gene encoding for Gc is located on chromosome 4, and three common co-dominant alleles give rise to three phenotypes (Gc1s, Gc1f, and Gc2).
+
+ Gc binds actin, recruits neutrophil leukocytes and converts into a macrophage- and osteoclast- activating factor.
+
+ It also is the major transporter of Vitamin D and its' metabolites.
+
+ Lauridsen et al.
+
+ showed that Gc phenotype correlates with 25(OH)D levels in a group of postmenopausal women.
+
+ This study proposes that Gc phenotype accounts for some of the variation in response of 25(OH)D levels after treatment with oral Vitamin D.
+
+.
+
+ Vitamin D Binding Protein (Gc) Allele Variation Effects Response to Vitamin D Treatment@highlight
+
+We have just completed a randomized, clinical trial of 100,000 IU Vitamin D3 given as a single dose at the beginning of winter.
+
+ We found a wide range of responses to the dose.
+
+ This study proposes that genetic differences account for some of the variation in response of 25(OH)D levels after treatment with oral Vitamin D.
+

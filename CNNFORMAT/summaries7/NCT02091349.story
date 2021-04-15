@@ -1,0 +1,18 @@
+(secondQuint)Tolerance and Utilization of Polydextrose, Inulin, and Soluble Corn Fiber.
+
+ Soluble fibers have been shown to have many positive effects in humans, including laxation and maintaining gastrointestinal health.
+
+ It is expected that feeding soluble fibers will decrease protein fermentative end=products while increasing carbohydrate fermenative end-products, and lead to a more beneficial microbial profile.
+
+ Determination of the effects of nutriose and polydextrose when included as supplemental fiber in a human diet will give insights to its potential to maintain or improve gut health and highlight its use in the food industry.
+
+ The object of this study are first to determine the tolerance of soluble fibers polydextrose, inulin and nutriose when provided as supplemental fiber to an existing diet.
+
+ The second objective is to determine the utilization of polydextrose and nutriose through analyses of fecal samples of fermentative end-products and shifts in microbial populations.
+
+.
+
+ Tolerance and Utilization of Polydextrose, Inulin, and Soluble Corn Fiber@highlight
+
+The objective of this study is to determine the tolerance and utilization of polydextrose and soluble corn fiber through analyses of fecal samples of fermentative end-products (short-chain fatty acids, ammonia, phenol, and indole) and shifts in microbial populations.
+

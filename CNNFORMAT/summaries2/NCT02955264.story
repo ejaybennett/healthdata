@@ -1,0 +1,26 @@
+(fifthQuint)Using D-Galactose as a Food Supplement in Congenital Disorders of Glycosylation.
+
+ The primary hypothesis in this study is that adding simple milk sugar (galactose) to the diet of Congenital Disorders of Glycosylation patients will normalize the metabolic abnormalities.
+
+ The secondary hypothesis posits that galactose intervention in Congenital Disorders of Glycosylation patients will normalize specific physiological biomarkers of protein glycosylation that can be utilized for future phase II/III trial development.
+
+ The knowledge gained from the investigation of these two aims will help the investigators learn more about the disrupted metabolic mechanism of this disease and should lead to the identification of new disease biomarkers that can be used to evaluate clinical efficacy in future therapeutic trials.
+
+ Over a two-year period, the investigators will enroll patients diagnosed with Congenital Disorders of Glycosylation.
+
+ The investigators propose to administer oral galactose supplementation for a period of 18 weeks in increasing dose to assess its effectiveness at normalizing glycosylation.
+
+ Galactose will be given in a series of doses within the range of normal dietary intake of galactose over fixed time points.
+
+ To assess the effects of oral galactose supplementation for each participant, changes in participant growth, as well as blood sugar levels, coagulation parameters and liver function (the primary clinical features of Congenital Disorders of Glycosylation) will be correlated with biomarkers derived from participant blood and urine samples obtained at key time points and then compared to standard normative ranges of data for each measure.
+
+.
+
+ Using D-Galactose as a Food Supplement in Congenital Disorders of Glycosylation@highlight
+
+The goal of this study is to better characterize the metabolic alterations and sugar structure alterations (glycosylation abnormalities) in patients diagnosed with Congenital Disorders of Glycosylation.
+
+ The investigators aim to assess the safety and tolerability of oral galactose treatment in a small pilot group of Congenital Disorders of Glycosylation patients.
+
+ The investigators will also determine the relationship between simple milk sugar intake (galactose dose) in the diet and the blood and urine markers of protein glycosylation abnormalities.
+

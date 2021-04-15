@@ -1,0 +1,10 @@
+(firstQuint)Bicuspid Aortic Valve (BAV) Registry.
+
+ The purpose of this registry is to gather information on patients with bicuspid aortic valve disease.
+
+ The data collected in the registry will be used to assess patterns of aortic dilation, responses to medical therapy based on serial imaging and to assess for potential genetic markers of this disease.
+
+ Bicuspid Aortic Valve (BAV) Registry@highlight
+
+The purpose of this registry is to gather information on patients with bicuspid aortic valve disease.
+

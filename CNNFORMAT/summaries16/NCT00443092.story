@@ -1,0 +1,22 @@
+(firstQuint)Efficacy of Proprietary Cherry Juice Blend in Osteoarthritis of the Knee.
+
+ The primary objective is to determine if the proprietary tart cherry juice blend improves the pain and function in persons with knee osteoarthritis.
+
+ A secondary objective is to ascertain if the blend lowers serum uric acid.
+
+ This is a prospective double blind, placebo controlled cross-over study.
+
+ The study will be performed in the Philadelphia VA Medical Center 1 South Rheumatology Clinic with patients meeting ACR criteria for Kellgren grade 2-3 knee osteoarthritis and 4-9 pain severity on a VAS.
+
+ Fifty patients will be studied with each having 5 visits.
+
+ Subjects will take either the proprietary cherry blend or placebo for 6 weeks and then switch.
+
+ WOMAC pain and function will be the primary outcome with acetaminophen use, walking time and serum uric acid as secondary outcomes.
+
+.
+
+ Efficacy of Proprietary Cherry Juice Blend in Osteoarthritis of the Knee@highlight
+
+The primary purpose of this research study is to test the ability of a proprietary cherry juice blend to be helpful in the treatment of osteoarthritis (OA) of the knee.
+

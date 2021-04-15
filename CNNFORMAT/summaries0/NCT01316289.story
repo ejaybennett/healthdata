@@ -1,0 +1,16 @@
+(secondQuint)Pilon Fracture Reduction and Functional Outcome.
+
+ A prospective case series to examine the influence of reduction quality on the primary functional outcome (as assessed using the FAAM) of patients with pilon fractures treated with plate fixation.
+
+ Radiological parameters including single/combined alignment and various articular measurements will also be validated according to their reliability.
+
+ The sensitivity of the effects of reduction quality on functional outcome, and an extended evaluation of patient-rated functional and social outcomes as well as their outcome expectations will also be assessed as part of the secondary study aims.
+
+.
+
+ Pilon Fracture Reduction and Functional Outcome@highlight
+
+This prospective case series will essentially examine the influence of reduction quality on the primary functional outcome (as assessed using the FAAM) of patients with pilon fractures treated with plate fixation.
+
+ The plates used in this trial can be chosen according to the preferences of the surgeon.
+

@@ -1,0 +1,32 @@
+(thirdQuint)Epidemiology and Control of Mansonella Perstans Infection in Uganda.
+
+ Overall objective: to investigate diagnostic, epidemiological and treatment aspects of M.
+
+ perstans in Uganda with relevance to control Specific objectives: 1.
+
+ To establish the pattern of diurnal periodicity of M.
+
+ perstans microfilaraemia in humans 2.
+
+ To establish the patterns of M.
+
+ perstans microfilaraemia and possible clinical manifestations related to this infection in two communities with medium to high endemicity 3.
+
+ To determine the efficacy of ivermectin alone and the combination of ivermectin and albendazole on M.
+
+ perstans microfilaraemia.
+
+.
+
+ Epidemiology and Control of Mansonella Perstans Infection in Uganda@highlight
+
+Mansonella perstans (M.
+
+ perstans) infection is widespread in Uganda.
+
+ Knowledge about the epidemiology of this infection, and of the morbidity it induces is poor, and no effective treatment is available.
+
+ The study aims at providing data on diagnostic, epidemiological, morbidity and treatment aspects of M.
+
+ perstans infections in Uganda.
+

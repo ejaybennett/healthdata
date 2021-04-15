@@ -1,0 +1,54 @@
+(fifthQuint)Safety and Tolerability Profile of RAD001 Daily in Chinese Patients With Advanced Pulmonary Neuroendocrine Tumor.
+
+ The purpose of this phase I b study is to characterize the safety, tolerability, and efficacy of 10 mg RAD001 administered orally on a continuous once-daily dosing regimen in the treatment of advanced pulmonary neuroendocrine tumor.
+
+ The neuroendocrine tumors arising from bronchi and lung account for 30% of all carcinoid tumors, and there are a lot of well differentiated adenocarcinoma, squamous cancer and large cell lung cancer with significant neuroendocrine carcinoma characteristics who seems had a similarly prognosis with carcinoid tumor.
+
+ There is no effective treatment available for advanced pulmonary NETs at this time.
+
+ The rationale for this study is based on both preclinical and clinical considerations.
+
+ IGF-1 is a known autocrine regulator of CgA secretion and cell growth in human neuroendocrine tumor cells (von Wichert, et al.
+
+ 2000; Wulbrand, et al.
+
+ 2000; Van Gompel and Chen 2004).
+
+ A role for RAD001 as monotherapy in carcinoid and pancreatic NET is suggested by the regulatory role of mTOR in cell growth, metabolism and protein translation (Fingar and Blenis 2004; Vignot, et al.
+
+ 2005) and the Novartis observation that the PI3K/mTOR pathway is activated by IGF-1 in carcinoid and pancreatic NET cells (von Wichert, et al.
+
+ 2000; Van Gompel and Chen 2004).
+
+ The proposed RAD001 dosage regimen is 10 mg/day in both monotherapy and combination therapy settings.
+
+ This regimen is based both on Novartis Phase I/II studies and on results from an investigator-sponsored study in NET.
+
+ Initial Phase I studies of the RAD001 10 mg/day schedule demonstrated dose limiting toxicities in 2 of 12 patients.
+
+ Tolerability of this schedule was verified in a total of 33 patients in Phase 1 studies as well as in 12 breast cancer patients treated with letrozole 2.
+
+5 mg plus RAD001 10 mg/day.
+
+ Pharmacodynamic modeling indicates that downstream effectors of mTOR are completely suppressed by RAD001 at the 10 mg/day dose.
+
+ No increased toxicity is expected from use of RAD001 in combination with Sandostatin LAR(R) Depot.
+
+ The investigator-sponsored study in NET, toxicity observed with RAD001 5 mg/day in combination with Sandostatin LAR(R) Depot was similar to that observed for RAD001 5 mg/day alone in Phase 1 studies (Yao, et al.
+
+ 2006).
+
+ Therefore a dose of RAD001 10 mg/day will be evaluated in this study.
+
+.
+
+ Safety and Tolerability Profile of RAD001 Daily in Chinese Patients With Advanced Pulmonary Neuroendocrine Tumor@highlight
+
+RAD001 continues to be investigated as an anticancer agent on new indications such as neuroendocrine tumors (incl.
+
+ carcinoid), breast cancer, liver cancer, gastric cancer and lymphoma based on its potential to act: - directly on the tumor cells by inhibiting tumor cell growth and proliferation - indirectly by inhibiting angiogenesis leading to reduced tumor vascularity (via potent inhibition of tumor cell HIF-1 activity and VEGF production and VEGF-induced proliferation of endothelial cells) A role for RAD001 in combination with Sandostatin LAR(R) Depot in the treatment of advanced carcinoid tumor is suggested by data on the regulatory role of mTOR in cell growth and protein translation and the finding that somatostatin-induced growth arrest is mediated in part by inhibition of the PI3K pathway (Charland, et al.
+
+ 2001).
+
+ The present study is designed to collect safety/tolerability data and evidences for efficacy of RAD001 in the medically highly unmet indication of advanced pulmonary neuroendocrine tumor in Chinese patients.
+

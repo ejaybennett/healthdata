@@ -1,0 +1,14 @@
+(firstQuint)Dose Ranging Study of Pazopanib to Treat Neovascular Age-Related Macular Degeneration.
+
+ MD7110852 is a Phase 2b dose-ranging study designed to demonstrate the 1 year efficacy and safety of pazopanib eye drops for the treatment of neovascular age related macular degeneration (AMD) in subjects whose disease is currently managed with anti-VEGF (vascular endothelial growth factor) injection therapy.
+
+ Eye drop regimens are double-masked with placebo eye drops and will have access to open-label ranibizumab intravitreal (IVT) injection if needed.
+
+ The ranibizumab IVT injection every 4 weeks control arm is open-label.
+
+.
+
+ Dose Ranging Study of Pazopanib to Treat Neovascular Age-Related Macular Degeneration@highlight
+
+The purpose of this study is to determine the safety and efficacy of different dosage regimens of pazopanib eye drops for the treatment of neovascular age-related macular degeneration.
+

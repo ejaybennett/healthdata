@@ -1,0 +1,34 @@
+(secondQuint)A Study Comparing Daratumumab, Lenalidomide, and Dexamethasone With Lenalidomide and Dexamethasone in Relapsed or Refractory Multiple Myeloma.
+
+ This is a randomized (participants will be assigned by chance to study treatments), open-label (all participants and study personnel will know the identity of the study treatments), active-controlled (none of the study treatments are placebo), parallel-group (both treatment arms will run at the same time), multicenter study.
+
+ In this study, daratumumab, lenalidomide, and low-dose dexamethasone (DRd) will be compared with lenalidomide and low dose dexamethasone (Rd) in participants with relapsed or refractory multiple myeloma.
+
+ Participants will be randomized in a 1:1 ratio to receive either DRd or Rd.
+
+ The study will include a Screening Phase, a Treatment Phase (involving treatment cycles of approximately 28 days in length), and a Follow-up Phase.
+
+ The Treatment Phase will extend from the administration of the first dose of study medication until disease progression or unacceptable toxicity.
+
+ Participants will also discontinue study treatment if: they become pregnant; have their dose held for more than 28 days (or if 3 consecutive planned doses of daratumumab are missed for reasons other than toxicity); or for safety reasons (for example, adverse event).
+
+ The Follow-up Phase will begin at the end of treatment and will continue until death, loss to follow-up, consent withdrawal for study participation, or study end, whichever occurs first.
+
+ Eligible participants from Rd group who have had sponsor-confirmed disease progression will be offered the option for treatment with daratumumab monotherapy (of 28 days cycle).
+
+ The primary endpoint will be progression-free survival (PFS).
+
+ Analysis of the primary endpoint is anticipated to be performed at approximately 18 months after participant's first dose.
+
+ Study end is anticipated at approximately 6 years after the last participant is randomized.
+
+ Blood and urine samples will be obtained at time points during the study, together with bone marrow aspirates/biopsies and skeletal surveys.
+
+ Participant safety will be assessed throughout the study.
+
+.
+
+ A Study Comparing Daratumumab, Lenalidomide, and Dexamethasone With Lenalidomide and Dexamethasone in Relapsed or Refractory Multiple Myeloma@highlight
+
+The purpose of this study is to compare the effectiveness of daratumumab when combined with lenalidomide and dexamethasone (DRd) to that of lenalidomide and dexamethasone (Rd), in terms of progression-free survival in participants with relapsed or refractory multiple myeloma.
+

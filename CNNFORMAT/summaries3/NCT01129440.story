@@ -1,0 +1,30 @@
+(thirdQuint)Glass Ionomer Sealant and Fluoride Varnish Study to Prevent Early Childhood Caries.
+
+ Community-based, stratified (by location) randomized clinical trial (RCT) to determine the relative efficacy of topically applied fluoride varnish (FV) applications alone vs FV with fluoride-releasing glass ionomer (GI) sealants on occlusal surfaces of primary molars in reducing the caries incidence and increment in 3-6 year old children.
+
+ A parallel groups design RCT stratified by study site (one dental and one non-dental location) will be conducted among 596 initially 2.
+
+5- to 3-year-old children.
+
+ Those eligible will be randomized to one of 2 groups (FV or GIS+FV) and followed for 36 months.
+
+ The RCT will take place at two sites serving primarily underserved, minority and low-income populations in Southern California: 1) the dental facility of the San Ysidro Health Center (SYHC) located near the U.
+
+S.
+
+-Mexican Border serves mainly Latino immigrants, and 2) the Comprehensive Health Center - Ocean View (CHC-OV), in a non-dental setting in close proximity to its dental clinic, which serves Latinos and African Americans.
+
+ Both sites are part of a consortium of community clinics (SYHC Inc) and are located 15 miles apart from each other.
+
+ Annual study dental examinations will be performed by trained, calibrated, study dentists to determine caries (precavitated and cavitated) incidence and increment.
+
+ Children identified as needing dental care will be referred for appropriate treatment.
+
+.
+
+ Glass Ionomer Sealant and Fluoride Varnish Study to Prevent Early Childhood Caries@highlight
+
+The goal of this project is to conduct a community-based randomized clinical trial to compare the caries prevention efficacy of fluoride varnish applied every six months vs.
+
+ fluoride varnish applied every six months and fluoride releasing glass ionomer sealants applied annually to the eligible occlusal surfaces of primary molars in 3-6-year-old children.
+

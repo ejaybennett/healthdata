@@ -1,0 +1,23 @@
+(thirdQuint)Effects of a Finishing Protocol Implementation in Orthodontic Patients.
+
+ The phase of finishing is the most demanding and detailed of all phases of the orthodontic treatment.
+
+ American Board of Orthodontics- Objective Grading system is a detailed and objective method that evaluates the quality of the final outcome of orthodontic treatment.
+
+ In order to evaluate and compare the effects of a protocol implementation on the ABO-OGS scores, standardize cast models and Pan X-Ray from by convenience patients of Orthodontic Postgraduate Program of University of Antioquia who finish orthodontic treatment and receive the protocol are digitized, eight variables are evaluate and ABO-OGS score is calculate.
+
+ A comparison with 40 no-protocol ABO-OGS scores by convenience-selected patients is done.
+
+ The protocol includes an educate residents program about finishing problems , an standardized clinical and X-ray assessment , brackets reposition and frequent clinical evaluation.
+
+ The percentage of the protocol implementation is calculate in every patient and reliability test is make .
+
+ The descriptive analysis and the ABO-OGS score comparison is done by Pearson or Spearman correlation.
+
+.
+
+ Effects of a Finishing Protocol Implementation in Orthodontic Patients@highlight
+
+This study evaluates the effects of a finishing protocol in orthodontic outcomes using ABO-OGS scores.
+
+ Patients who finish orthodontic treatment and fulfill the inclusion and exclusion criteria receive a treatment using a finishing protocol and their scores are compare with 40 patients who don't receive a finishing protocol

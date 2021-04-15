@@ -1,0 +1,16 @@
+(firstQuint)Microendoscopic Lumbar Discectomy: A Study of 100 Cases.
+
+ Evaluate the outcome of micro endoscopic discectomy (MED) by tubular retractors on safety and efficacy of the technique.
+
+Patients who underwent surgery for herniated disc using the tubular retractors.
+
+ The results were evaluated by using VAS (Visual Analog Scale 0-5) for back and leg pain and ODI (Oswestry Disability Index).
+
+ Patients were followed up at intervals of 1 week, 6 weeks, 3 months, 6 months, 12 months and 2 years after surgery.
+
+.
+
+ Microendoscopic Lumbar Discectomy: A Study of 100 Cases@highlight
+
+Evaluate the outcome of micro endoscopic discectomy (MED) by tubular retractors on safety and efficacy of the technique.
+

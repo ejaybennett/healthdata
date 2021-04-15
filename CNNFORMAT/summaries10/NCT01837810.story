@@ -1,0 +1,34 @@
+(fifthQuint)Safety Study of Post Tonsillectomy Ibuprofen Use in Adults.
+
+ Tonsillectomy is common procedure associated with significant post-operative pain typically managed by narcotic pain medication.
+
+ Narcotics, however, can have inherent unwanted side effects such as respiratory depression.
+
+ In fact, a recent U.
+
+S.
+
+ Food and Drug Administration (FDA) warning has reported deaths from respiratory distress that were associated with use of codeine in children after tonsillectomy.
+
+ Finding alternative pain management regimens therefore is essential in post-tonsillectomy care.
+
+ Non-steroidal anti-inflammatory (NSAID) medications may provide an effective alternative to narcotics, but use of NSAIDs routinely after tonsillectomy has been limited due to concern for theoretical increased risk of post-operative bleeding, This is likely true for NSAIDs such as aspirin.
+
+ NSAIDs such as ibuprofen, however, are believed to have no greater risk of bleeding than baseline, but this has not been proven.
+
+ Recent, well-designed, prospective pediatric studies have demonstrated effective analgesia improvement with the addition of non-steroidal anti-inflammatory drugs such as ibuprofen to post-operative pain management regimens, and no increased rate of post-surgery bleeding.
+
+ This has not adequately been studied in adults but could provide many patients significant pain relief in the post-operative period if it is shown to not increase post tonsillectomy hemorrhage rates, as already demonstrated in the pediatric population.
+
+.
+
+ Safety Study of Post Tonsillectomy Ibuprofen Use in Adults@highlight
+
+The purpose of this study is to determine if ibuprofen use after electrocautery tonsillectomy increases the post-tonsillectomy hemorrhage rate.
+
+ Hypothesis: Use of ibuprofen does not increase the post-tonsillectomy hemorrhage rate.
+
+ Primary outcome: Rate of tonsillar hemorrhage following adult tonsillectomy in those receiving narcotic pain medications plus ibuprofen compared to those receiving narcotics alone.
+
+ Secondary outcome: Determine whether ibuprofen, a non-steroidal anti-inflammatory drug (NSAID), decreases post tonsillectomy pain, narcotic pain medication use, or cost of pain management.
+

@@ -1,0 +1,18 @@
+(thirdQuint)A Study of Brentuximab Vedotin, Rituximab, and Dose Attenuated CHP in Elderly Patients With Diffuse Large B-Cell Lymphoma (DLBCL).
+
+ This is a multicenter, single-arm pilot study incorporating brentuximab vedotin and dose attenuated rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CHP) into initial therapy for elderly patients with DLBCL.
+
+ Vincristine will be omitted from the standard R-CHOP regimen given the overlapping toxicities with brentuximab vedotin.
+
+ CD30 positivity will be determined at enrollment and patients will be enrolled into a CD30 positive and negative group in equal numbers.
+
+ Additionally, a Comprehensive Geriatric Assessment (CGA) will be performed on all patients, but this will not be used to guide treatment decisions.
+
+.
+
+ A Study of Brentuximab Vedotin, Rituximab, and Dose Attenuated CHP in Elderly Patients With Diffuse Large B-Cell Lymphoma (DLBCL)@highlight
+
+This is a study incorporating brentuximab vedotin and dose attenuated rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CHP) into initial therapy for elderly patients with DLBCL.
+
+ Vincristine will be omitted from the standard R-CHOP regimen given the overlapping toxicities with brentuximab vedotin.
+

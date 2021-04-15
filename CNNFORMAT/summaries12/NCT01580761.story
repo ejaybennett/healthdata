@@ -1,0 +1,24 @@
+(thirdQuint)Sleep Restriction and Obesity.
+
+ Numerous studies have reported that self-reported short sleep duration is associated with obesity and weight gain.
+
+ Insufficient sleep may be one of the most common, and most preventable, obesity risk factors.
+
+ Given that sleep restriction is largely voluntary and potentially correctable, understanding the mechanisms that link insufficient sleep to positive energy balance and the development of obesity, particularly visceral obesity, is crucial to clinical applications, public health policy, and informing future studies.
+
+ The investigators wish to determine whether 14 nights of modest sleep restriction results in increased energy balance, thus potentially increasing the risk of obesity.
+
+ The investigators will combine energy balance, biomarker, and imaging data with state-of-the art sleep monitoring to provide unambiguous data on the effects of sleep restriction on obesity.
+
+ Together, the investigators findings will help explain whether the reduced sleep duration in the general population may be contributing to the current epidemic of obesity, and suggest strategies to reduce this risk.
+
+.
+
+ Sleep Restriction and Obesity@highlight
+
+Insufficient sleep may be one of the most common, and most preventable, obesity risk factors.
+
+ The investigators wish to determine whether 14 nights of modest sleep restriction results in increased energy balance, thus potentially increasing the risk of obesity.
+
+ The investigators hypothesize that sleep restriction will result in increased energy balance.
+

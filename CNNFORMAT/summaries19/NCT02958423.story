@@ -1,0 +1,19 @@
+(thirdQuint)tDCS Versus tsDCS for Endometriosis-related Chronic Pelvic Pain Treatment.
+
+ - 2 groups of 5 HV will receive tDCS or tsDCS (2mA, anodal, 20min) and the thermonociceptive threshold will be measured before and after the stimulation over the abdomen (hypogastric).
+
+ The HAD scale and SF-36 will also be tested.
+
+ The treatment(s) that produces the greatest increase in pain thresholds will be chosen to treat 10 patients.
+
+ - 10 patients suffering from endometriosis-related chronic pelvic pain will be treated by the most efficient treatment (tDCS or tsDCS) for 4 weeks (5 daily 20-min sessions per week), or, if no treatment modality was superior in HV, 5 patients will be treated by tDCS and 5 by tsDCS.
+
+ Patients will fill in daily a dedicated diary 2 weeks before treatment, during the4-week treatment period and after this period as long as their pain level remains below 80% of their baseline pain intensity (VAS).
+
+ Analgesic intake will also be monitored as well as HAD and SF-36 scores.
+
+.
+
+ tDCS Versus tsDCS for Endometriosis-related Chronic Pelvic Pain Treatment@highlight
+
+The purpose of the study is to compare the analgesic effect of 2 mA anodal direct current stimulation on the right primary motor cortex (M1) (tDCS) with a similar stimulation on the spine (D10) (tsDCS) in healthy volunteers (HV) followed by a pilot study in patients suffering of endometriosis-related chronic pelvic pain (CPP)

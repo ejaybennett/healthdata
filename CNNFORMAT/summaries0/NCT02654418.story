@@ -1,0 +1,14 @@
+(secondQuint)Safety Study of SIC 8000 in Subjects Undergoing Endoscopic Mucosal Resection (EMR) of Colonic Lesions Equal to or Larger Than 2 cm.
+
+ SIC 8000 is indicated for use in gastrointestinal endoscopic procedures for submucosal lift of polyps, adenomas, early-stage cancers or other gastrointestinal mucosal lesions, prior to excision with a snare.
+
+ The current trial will focus on only colonic polyps 20 mm removed by snare EMR technique.
+
+ Patients with lesions not suitable for EMR because of features strongly suggestive of sub-mucosal invasion will not be included.
+
+.
+
+ Safety Study of SIC 8000 in Subjects Undergoing Endoscopic Mucosal Resection (EMR) of Colonic Lesions Equal to or Larger Than 2 cm@highlight
+
+SIC 8000 is indicated for use in gastrointestinal endoscopic procedures for submucosal lift of polyps, adenomas, early-stage cancers or other gastrointestinal mucosal lesions, prior to excision with a snare.
+

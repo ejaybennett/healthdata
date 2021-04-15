@@ -1,0 +1,18 @@
+(firstQuint)Effect of Curcumin on Gut Microbiota in IBS.
+
+ This is a prospective, placebo-controlled, double blinded, randomized control trial.
+
+ This study will evaluate the effect of curcumin food supplement on gut microbiota of children with irritable bowel syndrome.
+
+ Curcumin is a commonly used spice in Asian cooking and has a very good safety profile.
+
+ Developing preparation of this compound for targeted delivery in the GI tract would provide a novel way to treat common FGID.
+
+ This study will provide preliminary data for future studies to evaluate the role of gut microbiota in the pathophysiology of pain predominant FGID and how food supplements can be used to manipulate the microbiota.
+
+.
+
+ Effect of Curcumin on Gut Microbiota in IBS@highlight
+
+To evaluate the effect of curcumin food supplement on gut microbiota of children with irritable bowel syndrome (IBS) and to review any correlation between the changes in the microbiota with symptoms.
+

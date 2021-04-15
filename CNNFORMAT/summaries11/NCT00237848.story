@@ -1,0 +1,12 @@
+(firstQuint)D-Serine for Enhancing Cognitive Retraining for the Treatment of Schizophrenia.
+
+ This study is based on the hypothesis that by increasing NMDA receptor function in the brain and thereby increasing the capacity of the brain to both form new connections and strengthen existing connections, schizophrenic patients may derive both greater and sustained benefit from cognitive retraining.
+
+ Patients with schizophrenia or schizoaffective disorder who are currently receiving antipsychotic medication will be randomly assigned in a double-blind manner to receive either D-serine (30 mg/kg) or placebo in addition to cognitive rehabilitation or a non-interactive placebo for 12 weeks.
+
+.
+
+ D-Serine for Enhancing Cognitive Retraining for the Treatment of Schizophrenia@highlight
+
+This study will examine the effectiveness of D-serine in increasing and sustaining the benefits of cognitive retraining in people with schizophrenia.
+

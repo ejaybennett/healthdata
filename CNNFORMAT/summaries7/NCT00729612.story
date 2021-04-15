@@ -1,0 +1,32 @@
+(fifthQuint)Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Carboplatin in Treating Patients With Stage IIIB, Stage IV, or Recurrent Non-Small Cell Lung Cancer.
+
+ OBJECTIVES: Primary - To determine the response rate, in terms of overall response rate (complete response and partial response), of paclitaxel albumin-stabilized nanoparticle formulation and carboplatin in patients with stage IIIB-IV or recurrent non-small cell lung cancer who are ineligible for treatment with bevacizumab.
+
+ Secondary - To evaluate safety of this regimen in these patients.
+
+ - To describe the overall survival of these patients.
+
+ - To describe progression-free survival of these patients.
+
+ Tertiary Objectives - To explore, in a pilot fashion, the activity of this regimen using predictive biomarkers including serum SPARC levels, methylation of SPARC in primary tumor samples and serum, Ras mutations, ERCC1 and SPARC immunohistochemistry, and serum miRNA expression profiles.
+
+ OUTLINE: Patients receive paclitaxel albumin-stabilized nanoparticle formulation IV over 30 minutes and carboplatin IV over 1-2 hours on day 1.
+
+ Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ Paraffin-embedded tissue blocks or unstained slides and blood samples are collected for correlative studies.
+
+ Samples are analyzed for serum SPARC by ELISA, Ras mutations, ERCC1 AND SPARC by immunohistochemistry, and serum miRNA expression profiling.
+
+ After completion of study treatment, patients are followed periodically.
+
+.
+
+ Paclitaxel Albumin-Stabilized Nanoparticle Formulation and Carboplatin in Treating Patients With Stage IIIB, Stage IV, or Recurrent Non-Small Cell Lung Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as paclitaxel albumin-stabilized nanoparticle formulation and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Giving more than one drug (combination chemotherapy) may kill more tumor cells.
+
+ PURPOSE: This phase II trial is studying how well paclitaxel albumin-stabilized nanoparticle formulation given together with carboplatin works in treating patients with stage IIIB, stage IV, or recurrent non-small cell lung cancer.
+

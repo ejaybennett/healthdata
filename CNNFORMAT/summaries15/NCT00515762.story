@@ -1,0 +1,18 @@
+(secondQuint)Prevention of Persistent Alopecia Following Docetaxel by Means of Scalp Cooling.
+
+ Persistent alopecia following adjuvant docetaxel for breast cancer is a side-effect that has been recently described.
+
+ Docetaxel is toxic to skin and skin annexes and can produce nail toxicity and persistent alopecia.
+
+ Nail toxicity has been successfully prevented by means of hypothermic gloves and slippers (Elasto-gel, Southwest Technologies, Inc, North Kansas City, MO).
+
+ This pilot trial explores the capacity of a cooling cap (Elasto-gel) to prevent persistent alopecia in breast cancer patients treated with adjuvant docetaxel regimens.
+
+.
+
+ Prevention of Persistent Alopecia Following Docetaxel by Means of Scalp Cooling@highlight
+
+Persistent alopecia following adjuvant docetaxel for breast cancer is a side-effect that has been recently described.
+
+ This pilot trial explores the capacity of a cooling cap (Elasto-gel) to prevent persistent alopecia in breast cancer patients treated with adjuvant docetaxel regimens.
+

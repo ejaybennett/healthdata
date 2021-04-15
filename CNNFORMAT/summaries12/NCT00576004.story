@@ -1,0 +1,17 @@
+(firstQuint)Pelvic Organ Prolapse Repair With or Without Concomitant Burch Colposuspension in Patients With Urinary Incontinence.
+
+ Forty-seven women suffering from POP and UI were randomly assigned to abdominal POP repair and concomitant BC ( 24 patients; group A) or POP repair alone without any anti-incontinence procedure ( 23 patients.
+
+; group B).
+
+ They were followed-up at 3, 6, and 9 months after surgery and then annually.
+
+ The primary outcome measures were anatomical outcome and changes in incontinence status as indicated by a bladder diary, the number of daily pads and the stress test.
+
+ Secondary endpoints were changes in subjective symptoms and Quality of Life (QoL) as measured by the Urogenital Distress Inventory (UDI-6) and the Impact Incontinence Quality of Life (IIQ-7) questionnaires.
+
+.
+
+ Pelvic Organ Prolapse Repair With or Without Concomitant Burch Colposuspension in Patients With Urinary Incontinence@highlight
+
+To evaluate the impact of Burch colposuspension (BC), as an anti-incontinence measure, in patients with urinary incontinence (UI) undergoing abdominal surgery for pelvic organ prolapse (POP) repair

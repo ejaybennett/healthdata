@@ -1,0 +1,22 @@
+(thirdQuint)Evaluation of Stendo Pulsating Suit on Microcirculation and Central Blood Pressure in Essential Hypertension Patients.
+
+ The role of the endothelium in micro-vascular system is mediated by synthesis and release of numerous substances that act on the smooth muscle fibres.
+
+ The release of these products is modulated, in turn, by various circulating molecules, by the autonomic nervous system and by local mechanical factors such as shear stress.
+
+ The essential hypertension is associated to increased risks of cardiovascular and stroke morbidity and mortality and constitutes a major cause of severe kidney failure.
+
+ The essential hypertension is a complex and multi-factorial disease; the dysfunction of the endothelium is of a great importance in the physiopathology of this disease, concerning both the consequences of the increase of the blood pressure and the possible cause of the hypertension development.
+
+ The Stendo pulsating suit is expected to increase the cutaneous microcirculation measured by laser Doppler laser flowmetry and potentially to decrease the central blood pressure.
+
+ Each patient will be his own witness and the clinical records will be assessed before, during when relevant, and after a pulsating suit session.
+
+.
+
+ Evaluation of Stendo Pulsating Suit on Microcirculation and Central Blood Pressure in Essential Hypertension Patients@highlight
+
+The action of one Stendo pulsating suit session will be evaluated on 24 patients referred to the hypertension consultations for essential hypertension treated but not stabilized.
+
+ The effect of one Stendo pulsating suit session system will be mainly assessed on the peripheral cutaneous microcirculation and on the central arterial pressure.
+

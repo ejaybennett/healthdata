@@ -1,0 +1,22 @@
+(secondQuint)Study of Allogeneic Bone Marrow and T-Cell Depleted, CD34+ Peripheral Blood Stem Cell Transplantation in Patients With Aplastic Anemia.
+
+ PROTOCOL OUTLINE: Bone marrow and peripheral blood stem cells (PBSC) are harvested from a HLA identical or 1 antigen mismatched related donor.
+
+ PBSC are selected for CD34+ cells and T cells are depleted.
+
+ Patients receive cyclophosphamide IV over 2 hours on days -6 to -3 and anti-thymocyte globulin IV with methylprednisolone IV over 10-12 hours on days -5 to -3.
+
+ T-cell depleted PBSC and bone marrow are infused on day 0.
+
+ Patients receive cyclosporine IV over 12-24 hours on days -1 to 120 followed by a taper and methylprednisolone IV on days 7-64 for graft-versus-host disease prophylaxis.
+
+ Patients are followed every 30 days for 1 year, every 60 days for 2 years, and then as needed for a minimum of 3 years.
+
+.
+
+ Study of Allogeneic Bone Marrow and T-Cell Depleted, CD34+ Peripheral Blood Stem Cell Transplantation in Patients With Aplastic Anemia@highlight
+
+OBJECTIVES: I.
+
+ Determine the effect of supplementation with donor T-cell depleted, CD34+ peripheral blood stem cells on durable engraftment and incidence of graft-versus-host disease in patients with aplastic anemia undergoing allogeneic bone marrow transplantation.
+

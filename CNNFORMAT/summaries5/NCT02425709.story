@@ -1,0 +1,52 @@
+(fifthQuint)Tramadol Versus Diclofenac for Reducing Pain Before Outpatient Hysteroscopy in Post Menopausal Women.
+
+ Hysteroscopic examination is currently the most informative investigation for patients with abnormal uterine bleeding.
+
+ Outpatient hysteroscopy involves the use of miniaturized endoscopic equipment to directly visualise the endometrial cavity, without the need of formal theatre facilities, general or regional anaesthesia.
+
+ Outpatient hysteroscopy is increasingly being used as a cost-effective alternative to in-patient hysteroscopy under general anaesthesia.
+
+ Like other outpatient gynaecological procedures, however, it has the potential to cause pain severe enough for the procedure to be abandoned.
+
+ Opioid analgesics are widely used for the control of moderate to severe pain.
+
+ Tramadol hydrochloride, a synthetic opioid is an orally active, clinically effective centrally acting analgesic having a lower incidence of respiratory depression, cardiac depression, side effects on smooth muscle and abuse potential as compared to typical opioid agents.
+
+ Diclofenac is a non steroidal anti inflammatory drug which inhibits the cyclooxygenase enzyme.
+
+ The study will be conducted in the outpatient hysteroscopy clinic in Cairo university hospitals.
+
+ All postmenopausal patients attending the outpatient hysteroscopy clinic will be invited to participate in the study.
+
+ The invitation will include a clear full explanation of the study and patients will provide written consents.
+
+ Tramadol, diclofenac and placebo will be enclosed in sealed envelopes which will be numbered using computer generated random table.
+
+ Neither the patient nor the physician will be aware of the drug used.
+
+ 210 women will be categorized into 3 groups: Group I will receive Tramadol 50mg (Tramal (R), Memphis,) orally 1 hour before the procedure, group II will receive diclofenac 50mg (voltaren(R), Novartis) 1 hour before the procedure, and group III will receive placebo acting as the control group.
+
+ Full history will be taken followed by general and local examination.
+
+ The procedure will be done in the lithotomy position.
+
+ Hysteroscopy will be done using a 5mm outer diameter continuous flow hysteroscope with a French working channel and a 30 degrees direction of view provided by Techno GmbH and CO.
+
+ The hysteroscope will be introduced using the vaginoscopy technique, in which no speculum will be used.
+
+ The cervix will be detected and the external os will be identified using the hysteroscope.
+
+ The hysteroscope will be introduced in the uterine cavity.
+
+ Saline will be used as the distension medium and the pressure will be set at 100mm Hg.
+
+.
+
+ Tramadol Versus Diclofenac for Reducing Pain Before Outpatient Hysteroscopy in Post Menopausal Women@highlight
+
+The purpose of this study is to compare the effectiveness of Tramadol and diclofenac in reducing pain during outpatient hysteroscopy in postmenopausal women.
+
+ Postmenopausal women undergoing outpatient hysteroscopy in Cairo university will be divided into 3 groups, the first group will receive Tramadol 50 mg 1 hour before the procedure, the second group will receive diclofenac 50mg 1 hour before the procedure and the third will receive a placebo.
+
+ Pain will be assessed by a visual analogue scale.
+

@@ -1,0 +1,56 @@
+(fifthQuint)Cardiac Allograft Remodeling and Effects of Sirolimus.
+
+ Heart transplantation has become a well-established treatment option for patients with end-stage heart disease and currently has a one-year survival rate of 90%, a five-year survival rate of 70%, and 10-year survival rate of 50%.
+
+ The introduction of anti-rejection treatment thirty years ago with drugs known as calcineurin inhibitors have resulted in a significant improvement in the survival of heart transplant recipients.
+
+ However, most of this improvement occurs during the first year after transplantation.
+
+ Beyond the first year, the mortality rate of heart transplant recipients has not changed, which indicates that the causes of late complications have not been affected in the last three decades by improvements in post-transplant care.
+
+ It becomes apparent that in order to improve the late outcomes, the focus in heart transplant research needs to be shifted to the prevention and the treatment of late complications.
+
+ Cardiac allograft remodeling (CAR), or changes in heart's geometric pattern, is one of the common complications after heart transplantation and often inflicts poor quality of life, heart failure, and decreased survival.
+
+ The risk factors and mechanism for the development and progression of CAR are poorly defined, and there is no effective treatment for this condition.
+
+ In the proposed study, we will identify the prevalence, risk factors, and effect of CAR on physical capacity, cardiac vascular disease, and patient survival after a heart transplant.
+
+ For assessment of heart geometry, we will use cardiac magnetic resonance imaging (CMRI), a techniques used to visualize the internal structures of the body in detail.
+
+ CMRI is considered as being a "gold standard" for evaluating the heart's structure and function.
+
+ We will also evaluate the molecular and genetic markers associated with development and progression of CAR after heart transplantation.
+
+ The drug Sirolimus, a new anti-rejection agent, can be used in place of calcineurin inhibitors after heart transplantation.
+
+ Recent experimental and animal studies indicate that Sirolimus can attenuate the changes in the heart's geometry after a transplant (i.
+
+e.
+
+, CAR) and improve heart function.
+
+ We will assess the effect of Sirolimus on CAR in humans and will evaluate molecular and genetic markers associated with this effect.
+
+ It is our goal to provide an important insight into the nature of CAR after heart transplantation and its response to new anti-rejection drug Sirolimus.
+
+ This information will have a significant impact on the treatment of heart transplant recipients and thus improve quality of life and prolong survival after heart transplantation.
+
+.
+
+ Cardiac Allograft Remodeling and Effects of Sirolimus@highlight
+
+Cardiac allograft remodeling causes poor quality of life, allograft failure and increased mortality after heart transplantation.
+
+ Risk factors for cardiac allograft remodeling and its progression are poorly defined and there is a need for effective interventions.
+
+This is a multi-factorial phenomenon, associated with various immunological and non-immunological factors.
+
+ Animal studies suggest M-TOR inhibition attenuates cardiac allograft remodeling secondary to down-regulation of M-TOR downstream targets and increased autophagy.
+
+ There is a paucity of data regarding effect of Sirolimus, a M-TOR inhibitor, on human heart remodeling.
+
+ This aim of the proposal to identify the prevalence of cardiac allograft remodeling on current immunosuppressive strategies and determine risk factors for its development.
+
+ It will also identify molecular pathways associated with cardiac allograft remodeling and determine the impact of Sirolimus on these pathways.
+

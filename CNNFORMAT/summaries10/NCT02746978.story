@@ -1,0 +1,34 @@
+(thirdQuint)A Patient-centered Approach to Successful Community Transition After Catastrophic Injury.
+
+ Research efforts are transforming the educational, peer-support and technology resources offered to patients and their caregivers, and evaluating how these changes help improve outcomes, including building patients' sense of self-efficacy - the belief that they can effectively manage their own care.
+
+ Goals of the three focus areas include: A.
+
+ Patient and Family Education Revamp patient education modules for bladder management, skin management, and medical complications management to follow the chronic disease self management approach that replaces didactic lectures with participant-focused problem solving discussions led by peers (persons with SCI).
+
+ Multiple baseline implementation approaches will be evaluated in interrupted time series analyses.
+
+ B.
+
+ Peer mentoring and peer-led self-management training The peer mentor randomized clinical trial is reported separately on clinicaltrials.
+
+gov and not repeated here.
+
+ C.
+
+ Patient and family web portal Shepherd Center, along with our collaborators at Craig Hospital in Denver, Colorado, are developing an engagement portal to provide a mechanism for patients to manage all aspects of injury following rehabilitation discharge and share information with other providers and caregivers.
+
+The portal will become a standard part of rehabilitation care and discharge planning for all Shepherd Center patients - starting first with patients with spinal cord injuries and later expanding to others.
+
+ Stakeholders will be actively involved in providing feedback about portal usability and content so that the product continues to meet their needs.
+
+.
+
+ A Patient-centered Approach to Successful Community Transition After Catastrophic Injury@highlight
+
+Shepherd Center is bringing a more patient-centered focus to educational, peer-support, and technology resources offered to patients with spinal cord injury and their families and is evaluating these changes.
+
+ Approximately 740 patients have provided information about healthcare utilization following inpatient rehabilitation.
+
+ This information will help Shepherd Center staff follow utilization trends and plan programs targeted at the high-use areas.
+

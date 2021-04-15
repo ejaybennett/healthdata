@@ -1,0 +1,56 @@
+(fifthQuint)A Trial of Extracorporeal Photopheresis, Pentostatin, and Total Body Irradiation in Patients Undergoing Reduced Intensity Allogeneic Stem Cell Transplantation for the Treatment of Malignancies.
+
+ One of the complications of allogeneic stem cell transplant (ASCT) is graft versus host disease (GVHD).
+
+ This is when the donor cells that are infused attack the body organs.
+
+ This can cause serious illness and even death.
+
+ The chance of getting serious life threatening GVHD with conventional transplant conditioning regimens is 25-50% depending on whether the donor bone marrow is from a family member or an unrelated person.
+
+ The reduced intensity conditioning regimen used in this study involves a drug called pentostatin as well as a reduced dose of radiation and a treatment called photopheresis.
+
+ This regimen has been successfully used in 106 patients.
+
+ The incidence of serious GVHD in those patients was much less than expected: 8% for patients getting bone marrow from a family member and 23% for those getting bone marrow from an unrelated person.
+
+ The pentostatin and radiation parts of this reduced intensity conditioning regimen are similar to other types of reduced intensity regimens, which use drugs similar to pentostatin.
+
+ The unique part of this regimen compared to others is the use of extracorporeal photopheresis (ECP).
+
+ While ECP has been used in 106 patients as part of a reduced intensity conditioning regimen, it is unknown whether adding ECP to pentostatin and radiation is what caused the reduced rate of GVHD that was seen in the previous study that was done.
+
+ The use of ECP as part of a conditioning regimen is investigational.
+
+ ECP is approved by the U.
+
+S.
+
+ Food and Drug Administration (FDA) for the treatment of cutaneous T-cell lymphoma, but is not approved by the FDA for use prior to ASCT.
+
+ Because it is not known whether the use of ECP in the reduced intensity conditioning regimen was what caused the low incidence of GVHD, this research study will look at differences in getting GVHD based on whether you receive ECP.
+
+ Half the patients in this research study will receive ECP as part of their reduced intensity-conditioning regimen and the other half will not.
+
+ Patients will be randomized (50% chance you will receive ECP and 50% chance you will not).
+
+ Both groups will receive pentostatin and reduced dose total body irradiation.
+
+ The primary purpose of this research study is to look at the chance of developing serious GVHD within the first 100 days after transplant within each group.
+
+.
+
+ A Trial of Extracorporeal Photopheresis, Pentostatin, and Total Body Irradiation in Patients Undergoing Reduced Intensity Allogeneic Stem Cell Transplantation for the Treatment of Malignancies@highlight
+
+This is a study to explore the use of a reduced intensity transplant conditioning regimen.
+
+ A conditioning regimen is the treatment that is given to prepare a body for the new bone marrow that will be received from a donor.
+
+ Reduced intensity conditioning uses lower doses of chemotherapy than conventional conditioning regimens.
+
+ The use of lower doses of drugs and radiation cause fewer side effects.
+
+ Reduced intensity regimens have been offered to older patients or patients at increased risk for transplant-related side effects and have been shown to be safe and effective.
+
+ Reduced intensity conditioning regimens are now considered for many patients who are undergoing transplant.
+

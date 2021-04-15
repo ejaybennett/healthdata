@@ -1,0 +1,44 @@
+(thirdQuint)Erlotinib and Cisplatin in Treating Patients With Recurrent or Metastatic Head and Neck Cancer.
+
+ OBJECTIVES: - Determine the objective response rate in patients with recurrent or metastatic squamous cell cancer of the head and neck treated with erlotinib and cisplatin.
+
+ - Determine the stable disease rates, duration of response, progression-free survival, median survival, and overall survival of patients treated with this regimen.
+
+ - Determine the safety and tolerability of this regimen in these patients.
+
+ - Determine the relationship between clinical, pharmacokinetic, and pharmacodynamic effects of this regimen in these patients.
+
+ - Correlate baseline and post-treatment levels of epidermal growth factor receptor, its downstream signaling components, and markers of angiogenesis and apoptosis in tumor and skin biopsies with clinical outcome in patients treated with this regimen.
+
+ OUTLINE: This is a dose-escalation, multicenter study.
+
+ Patients receive oral erlotinib once daily on days -6 to 21 for the first course only and cisplatin IV over 60 minutes on day 1.
+
+ For the second and subsequent courses, patients receive oral erlotinib once daily on days 1-21 and cisplatin as in course 1.
+
+ Treatment repeats every 21 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ Patients with stable or responding disease after 6 courses may continue to receive erlotinib alone until disease progression.
+
+ Cohorts of 3-6 patients receive escalating doses of erlotinib and cisplatin until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+ At least 6 patients are treated at the MTD.
+
+ Patients are followed every 3 months.
+
+ PROJECTED ACCRUAL: A maximum of 43 patients will be accrued for this study within 18 months.
+
+.
+
+ Erlotinib and Cisplatin in Treating Patients With Recurrent or Metastatic Head and Neck Cancer@highlight
+
+RATIONALE: Biological therapies such as erlotinib may interfere with the growth of tumor cells and slow the growth of the tumor.
+
+ Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining erlotinib with cisplatin may kill more tumor cells.
+
+ PURPOSE: Phase I/II trial to study the effectiveness of combining erlotinib and cisplatin in treating patients who have recurrent or metastatic head and neck cancer.
+

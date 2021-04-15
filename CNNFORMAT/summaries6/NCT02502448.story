@@ -1,0 +1,32 @@
+(fifthQuint)Acute Normovolemic Hemodilution on ROTEM in Cardiac Surgery.
+
+ Background: Impact of acute normovolemic hemodilution (ANH) using hydroxyethyl starch before initiating cardiopulmonary bypass (CPB) on whole blood viscoelastic profile after CPB has not been well established.
+
+ Method: Patients undergoing cardiac surgery employing moderate hypothermic CPB (n=40) are randomly allocated into one of two groups: in Group-ANH(n=20), ANH is applied by using a balanced hydroxyethyl starch (HES 130/0.
+
+6); and in Group-C ANH is not applied.
+
+ Intergroup differences of INTEM, EXTEM, FIBTEM and APTEM profiles are analyzed.
+
+ after anesthesia induction (control) and after weaning form CPB and protamine neutralization (after-CPB) in both groups.
+
+ In Group-ANH, those are determined after ANH (after-ANH).
+
+ As a primary outcome, inter-group difference between maxiaml clot firmness of EXTEM is determined at 10 min after ANH in Group-ANH and that at control.
+
+ As secondary outcomes, intergroup differences of Hematocrit (Hct), Na+, K+, HCO3-, Ca2+, osmolarity, s-Cr are determined Intergroup difference of data at T2 are performed.
+
+.
+
+ Acute Normovolemic Hemodilution on ROTEM in Cardiac Surgery@highlight
+
+Impact of acute normovolemic hemodilution (ANH) using hydroxyethyl starch before initiating cardiopulmonary bypass (CPB) on whole blood viscoelastic profile after CPB has not been well established.
+
+ Patients undergoing cardiac surgery employing moderate hypothermic CPB (n=40) are randomly allocated into one of two groups: in Group-ANH(n=20), ANH is applied by using a balanced hydroxyethyl starch (HES 130/0.
+
+6); and in Group-C, ANH is not applied.
+
+ After weaning from CPB, intergroup differences of INTEM, EXTEM, FIBTEM and APTEM profiles are analyzed.
+
+ As a primary outcome, inter-group difference between maxiaml clot firmness of EXTEM will be determined at 10 min after ANH in Group-ANH and that at control.
+

@@ -1,0 +1,20 @@
+(thirdQuint)Ticagrelor and Anti-inflammatory Effects.
+
+ Chronic kidney disease (CKD) is a strong risk factor for cardiovascular morbidity and mortality, and confers an increasing risk of stent thrombosis even when dual antiplatelet therapy (clopidogrel and aspirin) is administered.
+
+ Patients with severe CKD or end stage renal disease (ESRD) on hemodialysis (HD) exhibited higher platelet reactivity to clopidogrel than did those with normal renal function.
+
+ The investigators recently reported platelet inhibition by ticagrelor was faster and markedly greater than by clopidogrel with onset dosing regimen in patients with ESRD on HD.
+
+ However, few studies have been conducted whether platelet reactivity during ticagrelor treatment is associated with endothelial function, platelet activation markers and inflammation status in ESRD patients on HD.
+
+ Additionally, the dose dependent effects of ticagrelor have been rarely evaluated.
+
+.
+
+ Ticagrelor and Anti-inflammatory Effects@highlight
+
+Antiplatelet treatment in patients with end stage renal disease (ESRD) on hemodialysis (HD) is still challenging because of bleeding and thrombotic complications.
+
+ The investigators hypothesized ticagrelor once daily dose would achieve tolerable antiplatelet effects compared with ticagrelor twice a day dose in ESRD patients on HD.
+

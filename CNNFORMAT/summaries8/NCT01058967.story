@@ -1,0 +1,18 @@
+(firstQuint)Prospective Evaluation of Aeromedical EMS Ultrasound in Major Trauma Victims.
+
+ This study will be divided into three parts.
+
+ The first portion involves the education/inservices of the aeromedical prehospital providers to document the knowledge and skills necessary to perform and interpret eFAST exams using ultrasound pre hospitalization.
+
+ The second portion involves testing the logistics of utilization of prehospital ultrasound.
+
+ Data will be collected by the participating aeromedical prehospital providers to rate the durability of the equipment, difficulty in preforming the eFAST exam, interference with other actions and ability of retention of images.
+
+ The third portion will involve the aeromedical prehospital providers performing the eFAST exam using the ultrasound prehospital and comparing their findings with the gold standard exam, CT scan, while patient is in the emergency department.
+
+.
+
+ Prospective Evaluation of Aeromedical EMS Ultrasound in Major Trauma Victims@highlight
+
+The purpose of this study is to investigate the use of ultrasound by aeromedical prehospital providers.
+

@@ -1,0 +1,18 @@
+(firstQuint)Validation of a Nutrient Profiling System for Reformulation.
+
+ Background: The Nestle Nutritional Profiling System (NNPS) has been developed to guide food and beverage reformulation.
+
+ It is not known whether products passing the NNPS standards have a higher overall nutritional density, and whether the higher consumption of NNPS Pass products is associated with a higher dietary quality.
+
+ Objective: The objectives were (i) to compare the classifications derived from the NNPS and the validated UK Ofcom nutrient profiling system; and (ii) to assess the NNPS construct validity against healthy and unhealthy diets in French (Individual and National Survey on food Consumption 2006-2007) and the US (National Health and Nutrition Examination Surveys 2011-2012) nationally representative dietary surveys.
+
+ Design: NNPS outcomes (PASS, FAIL, Out-of-scope) of foods were compared to UK Ofcom outcomes.
+
+ Contributions of NNPS outcomes to energy intakes were compared between diets nutritional quality classes defined by two methods: based on a food-based quality indicator (PNNS-GS in France, HEI-2010 in the US), or on a combination of three nutrient-based indicators (MAR, MER, energy density).
+
+.
+
+ Validation of a Nutrient Profiling System for Reformulation@highlight
+
+The objectives of the study are to assess the validity of Nestle reformulation criteria in two national dietary surveys: the US NHANES 2011, and the French INCA2 2006-07.
+

@@ -1,0 +1,20 @@
+(firstQuint)Modulation of Immunity by Hormonal Contraceptives.
+
+ Feminization of the HIV pandemic is impetus for better understanding of the risk factors promoting male to female sexual transmission.
+
+ One putative risk factor is hormonal contraceptive use.
+
+ Our laboratory recently reported that dendritic cell activation, virus-specific T cell expansion, and memory T cell development were impaired among female mice administered depot-medroxyprogesterone acetate (DMPA) prior to viral infection of mucosal tissue, and we now are enrolling women into a clinical investigation exploring the immunomodulatory effects of several common hormonal contraceptive forms.
+
+ Completion of this research will provide important comparative evaluation of the capacity of these drugs to modulate host defenses combating genital tract infection, eventually supplying healthcare providers more informed recommendations regarding appropriate hormonal contraceptive choices among women at risk for acquisition of HIV.
+
+.
+
+ Modulation of Immunity by Hormonal Contraceptives@highlight
+
+Clinical study to determine if hormonal contraceptive use effects cells that fight infection (i.
+
+e.
+
+, immune cells).
+

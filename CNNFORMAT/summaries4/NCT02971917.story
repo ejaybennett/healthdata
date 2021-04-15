@@ -1,0 +1,29 @@
+(secondQuint)A Clinical Study of TRUVIEW ART(Advanced Reconstruction Tech)to Improve Image Quality on Chest Radiograph.
+
+ Background of Study : DRTECH Corp.
+
+ has developed and applied for patenting the unique technology of TRUVIEW ART cent .
+
+ TRUVIEW ART cent is advanced image reconstruction technology that restores image quality from the side effects of scattering signals in indirect type scintillator detectors.
+
+ It is an advanced image pre-processing technology that constructs signal scattering models (PSF) of indirect type detector scintillators.
+
+ Image sharpness (MTF) is improved by predicting scattering models and eliminating the scattering signal.
+
+ Purpose of Research and Assumption : Indirect conversion type detectors using scintillators are universal in today's diagnostic imaging area.
+
+ However, they have a disadvantage of signal scattering compared with direct conversion type detectors.
+
+ TRUVIEW ART cent (Advanced Reconstruction Technology) can restore images from the scattering problems.
+
+ The purpose of this study is to verify how well it improves the usefulness in clinical diagnostic imaging.
+
+ Evaluation will measure the improvements in MTF, which is the quantitative performance index of a detector.
+
+.
+
+ A Clinical Study of TRUVIEW ART(Advanced Reconstruction Tech)to Improve Image Quality on Chest Radiograph@highlight
+
+To validate the following theory: "With TRUVIEW ART cent applied a detector's quantitative performance index, MTF(Modulation Transfer Function), is increased 20% or more".
+
+ This is to examine the effect of the increased MTF index, whether it influences or not the interpreter's preference

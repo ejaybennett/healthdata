@@ -1,0 +1,14 @@
+(secondQuint)PK and PD of Sequential Multiple Ascending, Repeat Doses of Oral CXA-10 in Healthy Obese Male Subjects.
+
+ Complexa has developed an oral formulation of CXA-10.
+
+ The main purpose of this trial is to demonstrate the safety, tolerability and pharmacokinetics (PK) of CXA-10 and its metabolite(s) administered as multiple ascending oral doses over 14 days to healthy obese male volunteers.
+
+ The pharmacodynamic (PD) effects of CXA-10 on serum biomarkers, some of which are elevated in the obese population, will also be investigated.
+
+.
+
+ PK and PD of Sequential Multiple Ascending, Repeat Doses of Oral CXA-10 in Healthy Obese Male Subjects@highlight
+
+The main purpose of this trial is to demonstrate the safety, tolerability and pharmacokinetics (PK) of CXA-10 and its metabolite(s) administered as multiple ascending oral doses over 14 days to healthy obese male volunteers.
+

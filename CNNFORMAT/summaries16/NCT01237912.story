@@ -1,0 +1,14 @@
+(firstQuint)European Exposure Study.
+
+ The purpose of the study was to provide a greater knowledge about human exposure to cigarette smoke constituents by evaluating selected biomarkers of exposure in smokers and non-smokers.
+
+ This was an observational, parallel-group study to be conducted at multiple centres in the UK, Germany, and Switzerland.
+
+ It was planned to enrol sufficient subjects such that at least 1440 subjects complete the study.
+
+.
+
+ European Exposure Study@highlight
+
+The current study was designed to determine the exposure of adult smokers and non-smokers to cigarette smoke constituents through evaluation of selected biomarkers of exposure.
+

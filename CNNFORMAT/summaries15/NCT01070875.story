@@ -1,0 +1,44 @@
+(thirdQuint)Partial Thromboplastin Time During the First 24 Hours of Antithrombotic Prophylaxis Using Unfractionated Heparin (UFH).
+
+ Administration of subcutaneous UFH for antithrombotic prophylaxis is standard therapy in the postoperative setting.
+
+ Often, a dosage of 5000 U twice a day has been used, with a demonstrated antithrombotic efficacy and an acceptable hemorrhagic complication profile.
+
+ However, recent surgery guidelines regarding antithrombotic prophylaxis with UFH 5000 U suggest that a thrice daily regimen should be used following major oncologic surgeries.
+
+ These new guidelines have raised some concerns in anaesthesiology, particularly regarding the safety of epidural catheters combined with thrice daily heparin.
+
+ Optimal analgesia during the early postoperative period following some types of major oncologic surgery involves the placement of epidural catheters.
+
+ Epidural analgesia provides the best relief of the significant pain which may be present after thoracotomy or supraumbilical laparotomy during the early postoperative period, improving ambulation, coughing, pulmonary function, bowel function as well as short and long-term quality of life.
+
+ However, the benefits of epidural catheters must outweigh the risk of complications, the most feared being spinal hematoma.
+
+ Recent guidelines in anaesthesiology support the placement of epidural catheters with the concomitant administration of UFH 5000 U two times a day.
+
+ However, these guidelines do not clearly support the placement of an epidural catheter if a three times a day regimen is used, very little data being available to assess the risk of this practice.
+
+ Older studies (1973) suggest that a significant proportion of patients (15%) will develop abnormal partial thromboplastin times using a three times a day regimen.
+
+ However, it is not known if these results are still consistent with more recent laboratory technologies, or how they compare to twice daily heparin.
+
+ In the absence of even basic data regarding systemic effect on coagulation, it is difficult at this time to begin to determine safe practice regarding the placement of an epidural catheter in presence of a three times a day UFH 5000 U regimen.
+
+ This study is designed to obtain this data.
+
+ Methods: As needed for standard anesthesia , surgical and post-operative care, an arterial line will be placed and kept for the first 24 hours postoperatively.
+
+ Immediately prior the first UFH dose and hourly for the following 24 hours, blood samples for partial thromboplastin times will collected through the arterial line.
+
+ The first dose of UFH will be given in the operating room by the anaesthesiologist.
+
+ A blood sample for partial thromboplastin time will also be collected 3 days following the first dose of UFH.
+
+.
+
+ Partial Thromboplastin Time During the First 24 Hours of Antithrombotic Prophylaxis Using Unfractionated Heparin (UFH)@highlight
+
+This study is designed to assess the incidence of abnormal partial thromboplastin time in patients receiving unfractionated heparin (UFH) 5000 U 2 times a day versus 3 times a day.
+
+ The basic hypothesis of this study is that patients receiving UFH 5000 U subcutaneously 3 times a day will have a higher proportion of elevated partial thromboplastin time than patients receiving UFH 5000 U subcutaneously twice a day.
+

@@ -1,0 +1,14 @@
+(secondQuint)A Study of Below The Knee Arteries' Stenosis or Occlusion Treated With LEGFLOW OTW.
+
+ To evaluate the safety and efficacy of the Paclitaxel Releasing Peripheral Balloon Dilatation Catheter (LEGFLOW) compared to the PTA catheter (AMPHIRION DEEP) in treatment of stenosis or occlusion inbelow the knee artery.
+
+ This is a prospective, multi-center, randomized, control, opening, superiority designed clinical study.
+
+ Plan to enroll 172 eligible subjects in 15 centers in China, all these subjects will be randomized 1:1 to the study group (LEGFLOW OTW group, n=86) and control group (AMPHIRION DEEP group, n=86), and accept the treatment of LEGFLOW OTW and AMPHIRION DEEP respectively.
+
+.
+
+ A Study of Below The Knee Arteries' Stenosis or Occlusion Treated With LEGFLOW OTW@highlight
+
+To evaluate the safety and efficacy of the Paclitaxel Releasing Peripheral Balloon Dilatation Catheter (LEGFLOW) compared to the PTA catheter (AMPHIRION DEEP) in treatment of stenosis or occlusion in below the knee artery.
+

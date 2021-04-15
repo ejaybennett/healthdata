@@ -1,0 +1,16 @@
+(thirdQuint)Pilot Study of Abbreviated Chemotherapy Based on Positron Emission Tomography (PET) Scan in Hodgkin's Lymphoma.
+
+ The proposed study is based on the repeated demonstration that patients with Hodgkin lymphoma who attain a negative PET scan early in therapy (after one or 2 cycles of chemotherapy) have a uniformly excellent outcome, with long term disease free survival of 90-95%.
+
+ We propose to abbreviate chemotherapy in those patients showing a complete metabolic response as measured by FDG-PET after one cycle of ABVD.
+
+ These patients will undergo two more cycles of ABVD chemotherapy, for a total of 3 cycles.
+
+ Those patients failing to achieve a complete metabolic response as demonstrated by residual FDG avidity will go off study and be treated as per their primary treating physician.
+
+.
+
+ Pilot Study of Abbreviated Chemotherapy Based on Positron Emission Tomography (PET) Scan in Hodgkin's Lymphoma@highlight
+
+The primary objective of the study is to determine the progression-free survival [PFS] at 36 months for patients with Hodgkin lymphoma who achieve a complete metabolic response as demonstrated by a negative fluorodeoxyglucose (FDG)-PET scan after one cycle of ABVD (adriamycin, bleomycin, vinblastine, dacarbazine) who undergo abbreviated ABVD chemotherapy (3 cycles).
+

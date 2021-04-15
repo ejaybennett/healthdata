@@ -1,0 +1,46 @@
+(fifthQuint)Posture Detection for Automated Abdominal Binder.
+
+ The Primary Objective of this study is to develop and validate the algorithm needed to detect upright posture with a waist 3-axis accelerometer.
+
+ A Secondary Objective is to determine the performance reliability of posture detection of the thigh and waist accelerometers when exposed to activities of daily living (standing, walking, climbing stairs).
+
+ We will test the primary and secondary objectives in normal subjects using a single study design.
+
+ Studies for both objectives will be conducted simultaneously on each subject on a single study day.
+
+ Normal subjects will wear a device with the waist accelerometer incorporated within the controller box.
+
+ Subjects will be instrumented with the abdominal belt and controller box containing the waist accelerometer sensor.
+
+ The external accelerometer sensor will be fixed with a Velcro around the thigh.
+
+ In addition, subjects will wear two commercially available accelerometer sensors: 1) the ActivPal on the thigh of the other leg, and 2) an external accelerometer attached to the back of the belt at the level of the waist.
+
+ The ActivPal can detect the upright posture but cannot distinguish between supine and sitting.
+
+ The sensor placed on the back will be less affected by belly size in case of obese subjects.
+
+ Both sensors will be used as a reference and for comparison.
+
+ We will record all accelerometer signals during different body positions and activities.
+
+ The activities will include lying down, sitting, getting up and standing still, walking, and climbing up and down steps for about one minute each for a total of 15-20 minutes per group of activities.
+
+ Participants will perform 3 groups of activities.
+
+ The order of activities within each group will be randomized.
+
+ We might also ask you to perform ~3 small jumps to synchronize the sensors at the beginning, middle and the end of each set of activities.
+
+.
+
+ Posture Detection for Automated Abdominal Binder@highlight
+
+The automated inflatable abdominal binder is an investigational device for the treatment of orthostatic hypotension (low blood pressure on standing) in autonomic failure patients.
+
+ The purpose of this study is to evaluate the performance of the binder in detecting body posture during different types of human motion patterns and activities of daily living, and to develop new (and better) ways to detect upright posture.
+
+ In particular, the investigators want to determine if activities of daily living, normally encountered by patients (lying down, sitting, standing, walking, and climbing up and down steps), interfere with the detection of upright posture used to trigger the device.
+
+ Studies will be conducted in healthy subjects because the main purpose of this study is to evaluate posture detection rather than treating orthostatic hypotension.
+

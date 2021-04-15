@@ -1,0 +1,16 @@
+(secondQuint)Oral Astaxanthin and Semen Quality, Fertilization and Embryo Development in Assisted Reproduction Techniques Procedures.
+
+ In the study male patients diagnosed with oligoasthenozoospermia - with an abnormal sperm concentration and motility, irrespective of the morphology of spermatozoa - treated with their female partner with assisted reproduction techniques (ISCI) will be included.
+
+ In the double blind study male patients will be given astaxanthin with vitamin E (study group, 40 patients) or placebo (control group, 40 patients) for three months prior to ART.
+
+ In the study and the control group the quality of sperm (spermiogram), DNA fragmentation and mitochondrial membrane potential of semen before and after the dietary supplementation will be evaluated.
+
+ In the ART procedure (ICSI) the fertilization rate, the quality of embryos, pregnancy rates and miscarriages rates in 1st trimester will be compared between the study and control group.
+
+.
+
+ Oral Astaxanthin and Semen Quality, Fertilization and Embryo Development in Assisted Reproduction Techniques Procedures@highlight
+
+The purpose of the study is to determine whether administration of dietary supplement of astaxanthin with vitamin E improves the quality of sperm, fertilization and embryo development in Assisted Reproduction Techniques (ART) procedures.
+

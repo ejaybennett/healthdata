@@ -1,0 +1,18 @@
+(secondQuint)Trial With HuMax-CD4 in Patients With Rheumatoid Arthritis Failing Treatment With Methotrexate and a TNF-alpha Blocker.
+
+ This is a multi-center, double-blind, placebo-controlled, parallel-group, randomized trial of HuMax-CD4 in the treatment of patients with active rheumatoid arthritis (RA) who have failed treatment with Methotrexate (MTX) and at least one TNF-alpha blocking agent.
+
+ Patients are randomized to receive one of two doses of HuMax-CD4 or placebo.
+
+ The drug will be administered as a subcutaneous infusion (given just under the skin), more often in the beginning and then followed by a maintenance dose.
+
+ There is a 4 week follow up period, and the final evaluation of the clinical endpoints takes place 26 weeks after treatment start.
+
+ The trial lasts about 28 weeks in all.
+
+.
+
+ Trial With HuMax-CD4 in Patients With Rheumatoid Arthritis Failing Treatment With Methotrexate and a TNF-alpha Blocker@highlight
+
+The purpose of this study is to determine whether HuMax-CD4 is effective in the treatment of active rheumatoid arthritis in patients who have failed treatment with Methotrexate and at least one TNF-alpha blocking agent.
+

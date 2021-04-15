@@ -1,0 +1,16 @@
+(secondQuint)Screening for Hesitancy to Optimize Talk.
+
+ The primary goal of this project is to evaluate the effectiveness of an innovative intervention designed to address these barriers-the Screening for Hesitancy to Optimize Talk (SHOT) intervention-in improving provider-parent vaccine discussions and increasing vaccine acceptance.
+
+ The SHOT intervention involves administering a validated parent-report measure to parents and communicating their score and item-specific responses to their child's provider before their child's 2 and 6 month health supervision visits.
+
+ The survey contains 15 questions regarding Health Belief Model concepts that influence parent vaccination behavior and has been shown to predict under-immunization.
+
+ Our specific aims are to (1) evaluate the impact of the SHOT intervention on a child's immunization status using a matched-pair, cluster randomized controlled trial design; (2) assess how parents' ratings of their vaccine discussions with their child's provider change as a function of the SHOT intervention; and (3) compare pre- and post-study perceptions of barriers to quality vaccine discussions with parents between providers in the SHOT and control arm.
+
+.
+
+ Screening for Hesitancy to Optimize Talk@highlight
+
+The overall goal of this project is to determine whether integrating a novel parent-report measure of vaccine hesitancy into pediatric primary care is effective in improving acceptance of childhood vaccines among vaccine-hesitant parents.
+

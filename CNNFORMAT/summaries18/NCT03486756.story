@@ -1,0 +1,18 @@
+(firstQuint)Internet-delivered CBT for Asthma-related Anxiety: Feasibility.
+
+ Asthma is one of the most common chronic diseases around the world, with a high prevalence of anxiety disorders.
+
+ In a prior study (ClinicalTrials.
+
+gov ID: NCT03158194) a protocol for exposure-based CBT was developed for asthma-related anxiety.
+
+ The aim of the current study is to evaluate acceptability and feasibility of our protocol for asthma-related fear when delivered over the Internet (Internet-CBT).
+
+ The plan is to include 30 participants that will all receive the intervention in this uncontrolled feasibility study.
+
+.
+
+ Internet-delivered CBT for Asthma-related Anxiety: Feasibility@highlight
+
+This is a study to investigate acceptability and feasibility of a novel protocol on exposure-based CBT for asthma-related fear delivered over the Internet (Internet-CBT).
+

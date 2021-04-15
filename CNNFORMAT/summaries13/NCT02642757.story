@@ -1,0 +1,34 @@
+(secondQuint)Alcohol Brief Counseling in Primary Care.
+
+ Randomized controlled trial with a pragmatic emphasis undertaken in real world primary care.
+
+ The brief intervention has been designed and piloted by the mental health team at the Chilean ministry of health, as also the written support material.
+
+ This intervention is the same that is being implemented national wide.
+
+ The implementation will include training of the paramedics, and then an accreditation session with a simulated participant in a double sided mirror.
+
+ Randomization will take place on site using a opaque envelope.
+
+ The sequence will be keep on site in a secured box.
+
+ Data will be registered by the same person delivering the intervention and kept safe at the clinical sites.
+
+ Once a month the data will be physically transferred to the operational center at the San Joaquin site of the Catholic University of Chile.
+
+ Bimonthly visits will be performed to the centers by a member of the team to assure that the protocol is being followed and data audit.
+
+ The participants will receive an economical incentive for the follow up visit.
+
+ Participants will be reached throw telephone at least twice to schedule that visit.
+
+ If not possible, a telephonic outcome assessment or a domiciliary visit will be performed to minimize the lost in follow up.
+
+.
+
+ Alcohol Brief Counseling in Primary Care@highlight
+
+This study evaluates the effectiveness of a brief intervention for the reduction of alcohol use among risky alcohol users in primary care delivered by paramedics.
+
+ Half of the participants will receive a brief intervention and half will receive written guidelines on safe alcohol use.
+

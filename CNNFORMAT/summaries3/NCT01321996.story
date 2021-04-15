@@ -1,0 +1,24 @@
+(fifthQuint)68Ga-DOTA-NOC PET/CT in Patients With Idiopathic Pulmonary Fibrosis.
+
+ Idiopathic pulmonary fibrosis prognosis remains severe, in particular for IPF, the most common entity.
+
+ Moreover, current treatment options are largely ineffective and do not change the natural course of the disease.
+
+ Pre-clinical evidence supports somatostatin receptors expression in the lung of patients with IPF.
+
+ Recently new PET tracers (Somatostatin analogues labelled with 68Gallium), specifically binding to somatostatin receptors, have been developed and are used in neuroendocrine tumours clinical trials.
+
+ Aim of the present study is to evaluate the role of 68Ga-DOTA-NOC PET/CT in patients with idiopathic pulmonary fibrosis, in particular in patients with IPF/UIP and in cases with NSIP, that are characterized by a more indolent progression.
+
+ PET/CT data will be compared with HRCT findings for the early detection of fibrotic areas and to non-invasively assess somatostatin receptors expression at lung level in these patients, with potential therapeutic implications.
+
+ Moreover, the SUVmax (maximum standardized uptake value) will be analyzed in comparison with disease site and extension on HRCT.
+
+.
+
+ 68Ga-DOTA-NOC PET/CT in Patients With Idiopathic Pulmonary Fibrosis@highlight
+
+The investigators aim to evaluate the role of 68Ga-DOTA-NOC PET/CT in patients with idiopathic pulmonary fibrosis, in particular in patients with a diagnosis of IPF/UIP (idiopathic pulmonary fibrosis, diagnosed based in the American Thoracic Society and European Respiratory Society criteria) and in forms of NSIP (non-specific interstitial pneumonia).
+
+ PET/CT imaging data will be compared with HRCT (high-resolution computed tomography) findings to assess disease extension, early disease detection and to non-invasively detect somatostatin receptors expression at lung level in these patients, with potential therapeutic implications.
+

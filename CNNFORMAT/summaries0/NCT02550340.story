@@ -1,0 +1,24 @@
+(firstQuint)Munich Study for Beer Related ECG Change Workup.
+
+ Both regular and acute excessive alcohol intake may deteriorate health.
+
+ Possible sequelae include cardiac arrhythmias.
+
+ For acute alcohol intake in particular it is insufficiently understood to what extent cardiac arrhythmias and other ECG changes occur, if the occurence depends on alcohol levels, and if there is a cut off value for occurence.
+
+ Munich BREW aims to help clarifying these questions.
+
+ Participants of Munich BREW are identified and invited as visitors of the Munich Octoberfest and similar events.
+
+ Participants need to be 18 years of age and over and need to declare theri will to participate.
+
+ Following enrollment, participants will answer astudy questionnaire and will subsequently undergo recording of a 30 sec smart phone based ECG.
+
+ Ultimately, the alcohol level is determined using a breath alcohol analyzer.
+
+.
+
+ Munich Study for Beer Related ECG Change Workup@highlight
+
+The study aims to determine if acute recreational alcohol intake is associated with the occurence of ECG changes and arrhythmias.
+

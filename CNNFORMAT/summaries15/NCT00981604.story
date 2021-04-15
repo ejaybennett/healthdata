@@ -1,0 +1,26 @@
+(firstQuint)Single Incision Laparoscopic Surgery (SILS) Versus Laparoscopic Cholecystectomy.
+
+ This will be a prospective, randomized clinical trial involving patients who present to the hospital with an indication for cholecystectomy.
+
+ We will offer enrollment to several institutions provided they receive institutional approval.
+
+ This will be a definitive trial design.
+
+ Based on our operative times with SILS compared with our recent experience in standard laparoscopy, a sample size of 60 patients will give us a power of 0.
+
+8 with an of 0.
+
+05.
+
+ After the procedure, both groups will be managed in the same manner per routine care.
+
+ They will be discharged when tolerating a regular diet and their pain is well-controlled on oral pain medication.
+
+.
+
+ Single Incision Laparoscopic Surgery (SILS) Versus Laparoscopic Cholecystectomy@highlight
+
+Prospective randomized trial of single incision versus standard 4 port laparoscopic cholecystectomy.
+
+ Hypothesis is that the operative time will be longer with single incision.
+

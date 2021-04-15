@@ -1,0 +1,14 @@
+(firstQuint)Adjuvant Radiotherapy for Stage II/III Thymoma After Complete Resection.
+
+ It is confirmed by many studies that patients of thymoma with complete resection have better prognosis than those with either incomplete resection or without surgery.
+
+ However,whether patients with stage II or III thymoma could benefit from adjuvant radiotherapy after complete resection remains controversial.
+
+ The purpose of this study is to investigate whether adjuvant radiotherapy after complete resection can improve survival for stage II or III thymoma.
+
+.
+
+ Adjuvant Radiotherapy for Stage II/III Thymoma After Complete Resection@highlight
+
+This study is designed to investigate whether adjuvant radiotherapy after complete resection has a better survival for stage II or III thymoma.
+

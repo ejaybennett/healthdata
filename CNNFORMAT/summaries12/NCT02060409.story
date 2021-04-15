@@ -1,0 +1,14 @@
+(secondQuint)Prognostic Molecular Markers in Patients With Myelodysplastic Syndrome.
+
+ A number of studies have tried to investigate clinical impact of mutations in spliceosomal machinery genes in MDS but they failed to demonstrate a consistent prognostic relevance.
+
+ Moreover, the clinical impact of these mutations on the outcomes of hypomethylating agent treatment in MDS has never been explored yet.
+
+ The investigators investigated the prognostic impact of mutations in spliceosome machinery genes (SRSF2, U2AF1, and ZRSR2) on the outcomes of 1st line decitabine treatment in MDS.
+
+.
+
+ Prognostic Molecular Markers in Patients With Myelodysplastic Syndrome@highlight
+
+In the era of hypomethylating agent in MDS treatment, the investigators aimed to investigate the prognostic impact of mutations in spliceosome machinery genes (SRSF2, U2AF1, and ZRSR2) on the outcomes of 1st line decitabine treatment in MDS.
+

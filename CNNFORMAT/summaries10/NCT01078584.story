@@ -1,0 +1,32 @@
+(thirdQuint)Canadian Study of Trandolapril on Blood Pressure in Hypertensive Patients.
+
+ There are no interventional implications in this study.
+
+ The study runs under consideration of Canadian Hypertension Education Program guidelines and as per standard practice of care.
+
+ Data collection is recorded on the appropriate case report forms.
+
+ The data collected consist of: patient demographics (gender, race, age, weight), blood pressure readings, heart rate, coexisting comorbidities, concomitant chronic medications (generic name and dosage), indication and dose for trandolapril (Mavik(R)) and patient compliance.
+
+ Laboratory values (microalbuminuria, estimated glomerular filtration rate) are only collected if the data are available for each patient.
+
+ For baseline values (study Day 0), any laboratory value recorded within the past year prior to the baseline visit (Visit 1) is recorded, if the value is available.
+
+ As per Canadian Hypertension Education Program recommendations and as a support and educational measure, patients are provided with (1) educational tools (nutrition guidebooks) and (2) home blood pressure monitoring devices.
+
+ As per research and development guidelines, blood pressure devices were retrieved at the end of the study.
+
+ Approximately 8,000 hypertensive participants were enrolled in the study at up to 700 sites across Canada.
+
+ Sample size estimations were based on the assumption that 67.
+
+2% of non-diabetic hypertensive participants (assumed to make up to 69% of the eligible participant population) would reach a blood pressure target of <140/90mm Hg, while 22% of diabetes participants (31% of the eligible population) would meet a blood pressure target of <130/80 mm Hg with trandolapril (Mavik(R)) therapy.
+
+.
+
+ Canadian Study of Trandolapril on Blood Pressure in Hypertensive Patients@highlight
+
+The in-MAU-tion study is conducted to determine the percentage of hypertensive participants with or without diabetes reaching CHEP (Canadian Hypertension Education Program) defined blood pressure targets.
+
+ Additionally, the study assesses change in renal function (microalbuminuria, estimated glomerular filtration rate) in hypertensive participants treated with trandolapril (Mavik(R)) and examines patient satisfaction with trandolapril (Mavik(R)) therapy.
+

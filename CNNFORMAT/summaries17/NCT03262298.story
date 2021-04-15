@@ -1,0 +1,16 @@
+(firstQuint)Anti-CD22 CAR-T Cell Therapy Targeting B Cell Malignancies.
+
+ Clinical success with chimeric antigen receptor (CAR)- based immunotherapy for leukemia has been accompanied by the associated finding that antigen-escape variants of the disease are responsible for relapse.
+
+ Despite anti-CD19 CAR-T exhibited the ability to re-induce remissions for many patients with relapsed and refractory B cell malignancies, a part of those patients will relapse with CD19-negative malignancies.
+
+ CD22 is a type I transmembrane protein expressed on most mature B lymphocyte in the B cell malignancies,and plays a significant role in signal transduction pathway.
+
+ The investigators design and conduct this trial to test the safety and effectiveness of CD22-targeted CAR-T.
+
+.
+
+ Anti-CD22 CAR-T Cell Therapy Targeting B Cell Malignancies@highlight
+
+The study will evaluate safety and efficacy of the CD22-targeted chimeric antigen receptor modified-T cell(CAR-T) cells in the treatment of B-cell Malignancies.
+

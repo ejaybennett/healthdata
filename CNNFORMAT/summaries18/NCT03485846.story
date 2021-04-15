@@ -1,0 +1,18 @@
+(secondQuint)Efficacy and Safety of All-Oral Combination of Narlaprevir/Ritonavir and Daclatasvir in Treatment-Nave Patients With Chronic Hepatitis C Genotype 1b.
+
+ To evaluate effectiveness and safety of treatment with Narlaprevir, Ritonavir and Daclatasvir combination will be selected 105 treatment-nave patients with chronic HCV genotype 1b without genetic variants coding for the NS5A-Y93 /H/N/S and/or L31 F/M/V/I amino acid substitutions, eligible as per protocol criteria.
+
+ Each patient will participate in the trial approximately up to 38 weeks: - 2 weeks are expected for screening - up to 12 weeks for treatment period - 24 weeks for follow-up period During treatment period all patient will receive equal drug combination.
+
+ Efficacy and safety parameters will be assessed as per primary and secondary endpoints.
+
+ Also Ctrough for Narlaprevir and Daclatasvir on day 14 will be evaluated as pharmacokinetic objective.
+
+ The results of this study will provide new information about treatment of patients with chronic hepatitis C genotype 1 with Narlaprevir/Ritonavir in combination with Daclatasvir during 12 weeks.
+
+.
+
+ Efficacy and Safety of All-Oral Combination of Narlaprevir/Ritonavir and Daclatasvir in Treatment-Nave Patients With Chronic Hepatitis C Genotype 1b@highlight
+
+The purpose of this study is to confirm that combination of Narlaprevir, Ritonavir and Daclatasvir is safe and highly effective regimen in treatment-nave patients with chronic hepatitis C (HCV) genotype 1b infection.
+

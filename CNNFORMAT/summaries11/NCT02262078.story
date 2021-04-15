@@ -1,0 +1,36 @@
+(thirdQuint)Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction.
+
+ Patients referred to the cardiac catheterization laboratory for invasive exercise stress testing will be prospectively recruited.
+
+ Standard right heart catheterization using high fidelity micromanometers (Millar Instruments) will be performed at rest and during supine exercise with simultaneous expired gas analysis (Medgraphics) as is the investigator's current practice.
+
+ The protocol is rest-passive leg elevation--20 Watts exercise x 5 minutes, and then graded workload increases in 10Watt increments (3 minute stages) to exhaustion.
+
+ Hemodynamic, arterial and mixed venous blood gas and expired gas data are acquired at rest, during each exercise stage and at peak exercise.
+
+ Venous blood samples will be obtained at rest and at peak exercise.
+
+ Perceived symptoms of dyspnea and fatigue will be quantified using the Borg dyspnea and effort scores at each stage of exercise.
+
+ After the initial exercise study and hemodynamics have returned to baseline, previously prepared study drug (normal saline placebo or Sodium Nitrite Inhalation Solution (AIR001) 90mg placed into the medication chamber) will be nebulized utilizing the Aerogen Solo-Idehaler over 10-15 minutes.
+
+ After a 15 minute observation period post completion of nebulization, resting hemodynamic and expired gas data will be acquired exactly as in the initial run.
+
+ Subjects will then repeat the leg elevation-20 Watt x 5 minutes exercise phase.
+
+ Blood samples will be again obtained at rest and with exercise.
+
+ Subjects will repeat exercise only at the 20 Watt stage, rather repeating the entire study.
+
+ This is done to increase the feasibility and shorten the time of the case.
+
+ The investigators have previously observed that the vast majority (>85%) of the elevation in cardiac filling pressures and reduction in venous oxygen content in people with HFpEF occurs at the low 20 Watt workload, so repeating exercise hemodynamic assessment at this load should be sufficient to detect any clinically meaningful treatment effect.
+
+.
+
+ Inhaled Sodium Nitrite on Heart Failure With Preserved Ejection Fraction@highlight
+
+Heart failure with preserved ejection fraction (HFpEF) is a major public health problem that has no proven effective treatment.
+
+ This study will assess the effects of nebulized inhaled nitrite administration on resting and exercise hemodynamics in patients with HFpEF referred to the catheterization lab.
+

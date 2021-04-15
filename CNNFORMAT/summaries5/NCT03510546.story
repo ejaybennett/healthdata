@@ -1,0 +1,21 @@
+(firstQuint)Effect of Pyridostigmine (Mestinon) on Muscle Strength in Myasthenia Gravis.
+
+ The study aims to evaluate and quantify the effect of pyridostigmine on symptoms and muscle strength in newly-diagnosed patients and patients on stable medication.
+
+ Pyridostigmine treatment is initiated in the vast majority of MG patients.
+
+ No studies have quantified the effect in a randomized trial, and no studies have examined the potential difference in effect in newly diagnosed patients as compared to patients on stable, antimyasthenic medications.
+
+ The study will investigate the effect in two groups 1.
+
+ Newly diagnosed, treatment-naive patients.
+
+ 2.
+
+ MG patients on stable antimyasthenic medication.
+
+.
+
+ Effect of Pyridostigmine (Mestinon) on Muscle Strength in Myasthenia Gravis@highlight
+
+A randomized, placebo-controlled, double-blinded cross-over study evaluating and quantifying the effect of pyridostigmine on muscle strength and symptoms in Myasthenia Gravis (MG)

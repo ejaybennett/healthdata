@@ -1,0 +1,16 @@
+(thirdQuint)Early Infectious Disease Consultations in Staphylococcus Aureus Bacteremia.
+
+ Bacteremia is a serious manifestation of Staphylococcus aureus infection with an attributable mortality as high as 25% in MRSA bacteremia.
+
+ More than a third of patients end up with complications such as endocarditis, osteomyelitis or pneumonia.
+
+ Overall the outcome of patients with respect to mortality or recurrence is better in patients who have an eradicable focus and have received an appropriate antibiotic dose and duration.
+
+ Also complicated bacteremia is more common in patients with - persistent bacteremia or fever - prosthetic device - new murmur - skin findings of a systemic infection Based on this evidence, an ID consultation could improve the outcomes of patients with SAB by - Advising adequate antibiotic dosage and duration - Sourcing out and counselling eradication of any focus of infection.
+
+ Early Infectious Disease Consultations in Staphylococcus Aureus Bacteremia@highlight
+
+The primary objective is to determine if early infectious disease (ID) consultation (defined as within 48 hours of a positive blood culture) will reduce mortality rates from Staphylococcus aureus bacteremia (SAB).
+
+ This study will also determine if such consultations could reduce the duration of hospitalisation, recurrence and financial costs in patients with this infection.
+

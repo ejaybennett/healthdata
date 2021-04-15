@@ -1,0 +1,22 @@
+(secondQuint)Effects of Intense Exercise on Neural Responses to Food.
+
+.
+
+ It is clear that intense exercise impacts on peripheral appetite regulation, however very little is known about the impact of high-intensity exercise on central appetite regulation.
+
+ This study aimed to investigate the effects of high-intensity exercise on both central and peripheral responses to images of food.
+
+ Functional magnetic resonance techniques were used to assess the brains response to images of high and low calorie foods, following a short bout of high-intensity exercise.
+
+ Appetite hormone concentrations were also measured.
+
+ It was hypothesized that, due to the known effects of high-intensity exercise on appetite regulatory hormones and subjective appetite ratings, the activation of reward-related brain regions to visual food cues would be modulated following intense physical activity.
+
+.
+
+ Effects of Intense Exercise on Neural Responses to Food.
+
+@highlight
+
+The primary aim of this study was to determine the effects of an acute bout of high intensity exercise on the brains response to viewing pictures of food using functional magnetic resonance imaging (fMRI).
+

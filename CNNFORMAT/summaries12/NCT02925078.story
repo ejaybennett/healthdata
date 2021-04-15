@@ -1,0 +1,26 @@
+(thirdQuint)Influence of Mucosa Tissue Thickness on Marginal Bone Loss of Implants With Smooth Collars.
+
+ Twenty eight adult patients who fulfill the inclusion criteria will be divided into 2 groups based upon the mucosa thickness (2 mm).
+
+ A signed written informed consent will be obtained from all subjects.
+
+ Subjects will not be screened or treated until an informed consent has been obtained.
+
+ Patient information will be protected according to the privacy regulations of the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+ The enrolled patients will receive implants with 1 mm polished collar.
+
+ Implants will be restored at 4 (1) months after placement.
+
+ Outcome analyses will be performed until 1 (1 month) year after loading and clinical and radiographic parameters will be evaluated to compare clinical outcomes between groups.
+
+ The primary outcome is implant marginal bone loss and probing depth from clinical and radiographic measurements.
+
+.
+
+ Influence of Mucosa Tissue Thickness on Marginal Bone Loss of Implants With Smooth Collars@highlight
+
+The primary objective of this study is to compare the amount of implant marginal bone loss radiographically and probing depth in between thin and thick mucosa group that will receive a machined collar implant.
+
+ Null hypothesis is mucosa thickness does not affect implant marginal bone loss on implant with smooth collar.
+

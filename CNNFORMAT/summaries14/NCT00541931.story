@@ -1,0 +1,24 @@
+(firstQuint)Pilot Investigation of a Multinutrient Supplement on Skin Aging and Aging Metabolites in Healthy Women.
+
+ Skin antioxidant levels as well as blood metabolites may change as the human body ages1,2.
+
+ Although the chronological aging process is unstoppable, the physical signs of aging, particularly characteristics of the skin, may be delayed through a variety of medical interventions such as topical medications or resurfacing lasers.
+
+ It is not currently known whether skin carotenoid antioxidant levels correlate with skin aging characteristics, although studies with other antioxidants suggest this may be true 3.
+
+ In addition, while selected blood metabolites correlate with changes in age2, we do not know if this correlates with skin changes.
+
+ Our current study focuses on whether differences in skin carotenoid levels and blood metabolite levels correlate with skin aging characteristics in age-matched subjects.
+
+ Furthermore, we will explore whether three months consumption with a commercial multi-nutrient formulation (LifePak Nano) affects metabolic markers of aging, skin aging characteristics including skin elasticity and transepidermal water loss.
+
+ We will also examine whether smokers respond differently from nonsmokers in the above parameters after supplementation.
+
+.
+
+ Pilot Investigation of a Multinutrient Supplement on Skin Aging and Aging Metabolites in Healthy Women@highlight
+
+We are seeking healthy female volunteers to determine if multinutrient supplementation affects visible signs of skin aging as well as blood measurements of aging.
+
+ We are seeking smokers and non-smokers.
+

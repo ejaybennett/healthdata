@@ -1,0 +1,24 @@
+(secondQuint)Advanced Image Guidance Utilized in Liver Surgery.
+
+ Hepatocellular carcinoma (HCC) is diagnosed in over 19,000 Americans annually and responsible for 17,000 deaths.
+
+ Worldwide, (HCC) is the third leading cause of cancer death.
+
+ Hepatocellular carcinoma recurs frequently due to its multi-centric nature, which requires repeated treatments and often results in progressively fewer treatment options because of severe underlying liver dysfunction.
+
+ While surgery offers the best prognosis for such tumors and lesions, only 10-15% of all patients are candidates for removal by surgical means, necessitating the exploration of other treatment options.
+
+ InnerOptic's AIM Guidance System is designed to alleviate the difficulty in using ultrasound to place a needle.
+
+ AIM shows the needle and the ultrasound slice in their locations in 3D on a stereo monitor, making the spatial relationship between them obvious.
+
+ AIM also displays the needle trajectory and where the needle will intersect with the ultrasound image, providing the surgeon with an indication of where the needle will go, if inserted along the needle shaft.
+
+ AIM can also render an ablation volume guide, providing the surgeon with further confirmation that the needle is placed accurately and providing a volumetric guide regarding the power settings of the ablation.
+
+.
+
+ Advanced Image Guidance Utilized in Liver Surgery@highlight
+
+Advanced Image Guidance for this study was used during laparoscopic microwave ablation surgery to help the surgeon accurately place the ablation needle into the tumor of patients diagnosed with liver cancer.
+

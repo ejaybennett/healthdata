@@ -1,0 +1,34 @@
+(fifthQuint)Pentavalent DTaP-Hep B-IPV.
+
+ Routine immunization at birth is standard for hepatitis B in the United States (US) and for hepatitis B, polio and tuberculosis (BCG) in many countries.
+
+ Other vaccines have not been routinely administered at birth largely due to concerns relating to immaturity of the neonatal immune system and the possibility of reduced immune response to vaccine antigens.
+
+ With the recent licensure in the US of a pentavalent combination vaccine (DTaP-Hep B-IPV; Pediarix cent ) researchers propose to evaluate a new immunization schedule that includes a birth dose of this vaccine, in an effort to determine adequacy of neonatal immune response to the study vaccine antigens.
+
+ The primary objectives of this study are: to evaluate the safety of administering the pentavalent combination vaccine (DTaP-HepB-IPV; Pediarix cent ) to infants at birth, two and six months of age compared to the administration of a hepatitis B vaccine (Engerix-B) at birth and the same pentavalent combination vaccine at two, four and six months of age; and to assess age specific antibody response following each vaccine dose.
+
+ Five healthy newborns; 0 to 5 days of age, greater than or equal to 37 weeks gestation, and greater than 2500 gm birth weight were recruited from two Southern California Kaiser Permanente medical centers.
+
+ Infants were randomized to one of 2 study groups: Group A received DTaP-HepB-IPV (Pediarix cent ) vaccine along with other required vaccines at birth, two, six months of age; Group B received the monovalent hepatitis B vaccine (Engerix-B) at birth, the DTaP-HepB-IPV (Pediarix cent ) vaccine with other vaccines at two, four and six months.
+
+ Children will be evaluated for post-vaccination adverse events.
+
+ Blood will be collected and immunogenicity evaluated by standardized humoral immunologic assays.
+
+ The main outcome measures are to assess immune responses to each vaccine antigen over time, antibodies to pertussis (PT, FHA, PRN), diphtheria, tetanus, haemophilus influenzae type b (Hib), polio (Types 1, 2, 3) and hepatitis B (HbsAg).
+
+ The secondary outcome measures are to assess vaccine safety, systemic and local immediate reactions.
+
+.
+
+ Pentavalent DTaP-Hep B-IPV@highlight
+
+The purpose of this study is to evaluate the safety of administering a combination vaccine (DTaP-HepB-IPV; Pediarix cent ) to infants at birth, 2 and 6 months compared to the administration of a HepB vaccine at birth and the same combination vaccine at 2, 4, and 6 months of age.
+
+ Additionally, researchers will assess the body's antibody response (proteins produced by the body's immune system that help fight infections) following each vaccine dose.
+
+ The study will enroll 5 healthy newborns, ages 0-5 days.
+
+ Participants will be involved in study related procedures for up to 288 days, including blood sample collection and 5 study visits.
+

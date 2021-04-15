@@ -1,0 +1,36 @@
+(secondQuint)TLK286 in Treating Patients With Advanced Non-Small Cell Lung Cancer.
+
+ OBJECTIVES: I.
+
+ Determine the 12-month survival of patients with advanced non-small cell lung cancer treated with TLK286.
+
+ II.
+
+ Determine the overall survival of patients treated with this drug.
+
+ III.
+
+ Determine the objective response rate, duration of objective response, time to tumor progression, and disease stabilization in patients treated with this drug.
+
+ IV.
+
+ Determine the safety of this drug in these patients.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive TLK286 IV over 30 minutes on day 1.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients are followed every 6 weeks for 1 year and then every 12 weeks thereafter.
+
+ PROJECTED ACCRUAL: Approximately 55 patients will be accrued for this study within 12 months.
+
+.
+
+ TLK286 in Treating Patients With Advanced Non-Small Cell Lung Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ PURPOSE: Phase II trial to study the effectiveness of TLK286 in treating patients who have advanced non-small cell lung cancer.
+

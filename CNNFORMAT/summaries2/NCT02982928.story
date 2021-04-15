@@ -1,0 +1,18 @@
+(firstQuint)Tylenol Levels in Bariatric Patients.
+
+ This will be a descriptive study carried out by study staff from the anesthesiology department.
+
+ The patient population will include obese patients scheduled for robot-assisted or laparoscopic bariatric surgery.
+
+ There will be no change in our usual anesthetic care for these patients.
+
+ Volume of distribution and elimination half-life of acetaminophen in serum samples are the primary measurements of the study.
+
+ If detected, a significant reduction in opioid requirements may lead to improved patient satisfaction and decreased opiate side effects.
+
+.
+
+ Tylenol Levels in Bariatric Patients@highlight
+
+The current study is designed to measure and evaluate the pharmacokinetic profiling of acetaminophen in the young obese patient population.
+

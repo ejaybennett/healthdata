@@ -1,0 +1,18 @@
+(firstQuint)Phase 1 Placebo-controlled,Dose-escalation Study to Evaluate the Safety and Pharmacokinetics of MEDI8852 in Adults.
+
+ This is a phase 1, single-dose, double-blind, placebo-controlled, dose-escalation study to evaluate the safety and pharmacokinetics of MEDI8852 compared to placebo when administered to healthy adult subjects.
+
+ Approximately 40 subjects will be entered to receive treatment across 4 fixed dose cohorts at 1 site.
+
+ Investigational product will be delivered intravenously (IV).
+
+ A total of 4 different dose levels of investigational product will be evaluated across the cohorts.
+
+ Subjects will be followed for approximately 100 days.
+
+.
+
+ Phase 1 Placebo-controlled,Dose-escalation Study to Evaluate the Safety and Pharmacokinetics of MEDI8852 in Adults@highlight
+
+The purpose of this study is to evaluate the safety and pharmacokinetics of MEDI8852 compared to placebo when administered to healthy adult subjects.
+

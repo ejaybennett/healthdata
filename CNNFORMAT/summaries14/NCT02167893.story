@@ -1,0 +1,28 @@
+(secondQuint)Leuplin SR 11.
+
+25 mg Injection Kit Specified Drug-use Survey "Long-term Use Survey in Prostate Cancer Patients (96 Weeks)".
+
+ This survey was designed to evaluate the efficacy and safety of long-term use (96 weeks) of leuprorelin acetate 3 months depot injection kit (Leuplin SR 11.
+
+25 mg Injection Kit) in prostate cancer participants in daily medical practice.
+
+ For adults, 11.
+
+25 mg of leuprorelin acetate is usually administered subcutaneously once every 12 weeks.
+
+ Prior to injection, the plunger rod of the syringe is pushed upward with the needle pointed upward, allowing the entire suspension fluid contained to be transferred to the powder.
+
+ The powder is then fully suspended in the fluid while ensuring that bubbles are not generated.
+
+.
+
+ Leuplin SR 11.
+
+25 mg Injection Kit Specified Drug-use Survey "Long-term Use Survey in Prostate Cancer Patients (96 Weeks)"@highlight
+
+The purpose of this survey is designed to evaluate the efficacy and safety of long-term use (96 weeks) of leuprorelin acetate SR 11.
+
+25 milligram (mg) injection kit (Leuplin SR 11.
+
+25 mg injection kit) in prostate cancer participants in daily medical practice.
+

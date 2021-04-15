@@ -1,0 +1,14 @@
+(firstQuint)Vascular Inflammation in Psoriasis - Apremilast.
+
+ The primary objectives of this study are to determine the effect of apremilast on aortic vascular inflammation, cardiometabolic biomarkers and body composition in patients with moderate-severe psoriasis.
+
+ FDG-PET/CT will be used to assess vascular inflammation, with multi-volumetric product, tissue-to-background ratio and total atherosclerotic burden, and body composition via volumetric quantification.
+
+ This is a year-long, single arm, open label study.
+
+.
+
+ Vascular Inflammation in Psoriasis - Apremilast@highlight
+
+The purpose of the VIP-A study is to determine the effect of apremilast on aortic vascular inflammation, cardiometabolic biomarkers and body composition in patients with moderate-severe psoriasis.
+

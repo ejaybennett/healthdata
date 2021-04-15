@@ -1,0 +1,36 @@
+(fifthQuint)Premenopausal Endocrine Responsive Chemotherapy Trial.
+
+ OBJECTIVES: - Compare ovarian function suppression and tamoxifen or exemestane with vs without adjuvant chemotherapy in premenopausal women with endocrine-responsive resected breast cancer.
+
+ - Compare the disease-free and overall survival of patients treated with these regimens.
+
+ - Compare sites of first treatment failure in patients treated with these regimens.
+
+ - Compare the incidence of second nonbreast malignancies in patients treated with these regimens.
+
+ - Compare the quality of life, including late side effects of early menopause, of patients treated with these regimens.
+
+ PLANNED OUTLINE: This is a randomized, multicenter study.
+
+ Patients are stratified according to participating center, number of positive axillary and/or internal mammary lymph nodes (0 vs 1 or more), method of ovarian function suppression (triptorelin vs oophorectomy vs ovarian irradiation), chemotherapy if randomized to arm II (not containing vs containing an anthracycline or taxane), and endocrine agent (tamoxifen vs exemestane vs selected by subsequent randomization in the TEXT trial).
+
+ Treatment duration is five years.
+
+ Quality of life is assessed at baseline, every 6 months for 2 years, and then annually for 4 years.
+
+ Patients are followed every 3 months for 1 year, every 6 months for 5 years, and then annually thereafter.
+
+ NOTE: Trial was terminated early due to poor accrual.
+
+.
+
+ Premenopausal Endocrine Responsive Chemotherapy Trial@highlight
+
+The PERCHE trial evaluated the worth of adding adjuvant chemotherapy for premenopausal women with steroid hormone receptor positive early invasive breast cancer who receive ovarian function suppression plus either tamoxifen or exemestane for five years.
+
+ The use of chemotherapy was determined by randomization.
+
+ The method of ovarian function suppression (GnRH analogue for five years, surgical oophorectomy or ovarian irradiation) and the choice of tamoxifen or exemestane were determined by the investigator or by randomization in the IBCSG 25-02 TEXT trial [recommended option].
+
+ The trial was terminated early due to poor accrual.
+

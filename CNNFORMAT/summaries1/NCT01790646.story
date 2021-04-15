@@ -1,0 +1,42 @@
+(firstQuint)Learning and Performance of Glidescope Videolaryngoscope Intubation.
+
+ Glidescope(R) Videolaryngoscope is an angulated rigid optical device introduced in clinical practice in 2004 to facilitate endotracheal intubation.
+
+ Since its introduction potential benefits of this instrument might lie with use in patients with clinical features indicating difficult laryngoscopy or it being used as a rescue method following failed direct laryngoscopy.
+
+ In a few centers was proposed and used routinely.
+
+ The performance of Glidescope(R) was studied in easy and difficult scenarios, in vivo and on manikins and compared with the reference standard McIntosh direct laryngoscopy.
+
+ In patients with predicted or simulated difficult intubation, despite glottis visualization was improved with Glidescope(R), the introduction of the tube in trachea was difficult the same as with McIntosh laryngoscopy.
+
+ Training of operators before to entertain the trials varied from 20 to 50 Glidescope successful intubations.
+
+ In an observational study Aziz et al.
+
+ demonstrated in the two Institutions involved that the GlideScope(R) was used more frequently at the Institution were the failure rate was significantly lower.
+
+ At this , 51 providers performed mean 21.
+
+7 GlideScope(R) intubations while at the other 91 providers performed 9.
+
+9 intubations.
+
+ These data highlight the important issue of how many Glidescope(R) intubations a provider should complete to reach a definitive clinical competence in this practice.
+
+ Until now there is only one study performed on mankin comparing Glidescope(R) with AirTraq(R) and McIntosh laryngoscopes in novices .
+
+ The authors concluded that despite a steep learning curve after 5 intubation difficulties in instrumentation and longer times to intubate persisted with Glidescope(R) in comparison with the other two devices.
+
+ Outcome measures were: duration of intubation attempt, modified Cormack grades, dental trauma and difficulty of use.
+
+ In vivo both timely insertion of laryngoscope blade and introduction of the tube, no need of help or of external laryngeal displacement should be included to ascertain expertise with this new technology in patients with different grades of difficulty predicted.
+
+.
+
+ Learning and Performance of Glidescope Videolaryngoscope Intubation@highlight
+
+Glidescope laryngoscope was introduced as a novel tool for difficult intubation.
+
+ Its learning curve was prooved on manikin but not in adult patients.
+

@@ -1,0 +1,20 @@
+(secondQuint)Comparison Between Pre-operative Prescription Delivered During Anesthesia Consultation or Post-operative Prescription.
+
+ The ambulatory surgery increased over the last twenty years in France.
+
+ The management of home pain after ambulatory surgery is a major challenge because it is the principal complication after day surgery with several consequences: nausea and vomiting, chronic pain, functional impairment with handicap, sleeping troubles, extra-hospital consultation.
+
+ Management of home pain remains currently could be performed in ambulatory surgery.
+
+ The French Society of Anesthesiology recommends to deliver pre-surgical prescription during the preoperative anesthesia clinic but this guideline is not bases on evidence in the literature.
+
+ Also, we have previously shown in a retrospective non-randomized work a decrease of postoperative home pain in patient with general anesthesia.
+
+ The main objective of this controlled and comparative study is to compare the incidence of postoperative home pain after ambulatory surgery with general anesthesia between a group with pre-surgical prescription delivered during anesthesia consultation and a group with postoperative prescription.
+
+.
+
+ Comparison Between Pre-operative Prescription Delivered During Anesthesia Consultation or Post-operative Prescription@highlight
+
+This study evaluates the comparison of the incidence of postoperative home pain after ambulatory surgery with general anesthesia between a group with pre-surgical prescription delivered during anesthesia preoperative clinic and a group with postoperative prescription.
+

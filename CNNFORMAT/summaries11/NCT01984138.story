@@ -1,0 +1,34 @@
+(secondQuint)REVIVE: Replens Versus Intra-Vaginal Estrogen for the Treatment of Vaginal Dryness on Aromatase Inhibitor Therapy.
+
+ To evaluate Estring versus Replens for treatment of atrophic vaginitis in breast cancer survivors on adjuvant aromatase inhibitor therapy.
+
+ PRIMARY OBJECTIVE 1.
+
+ To compare improvement of atrophic vaginitis signs and symptoms between women on the vaginal estrogen ring and those on Replens vaginal cream.
+
+ 1.
+
+1 Administer a questionnaire at baseline, 4 weeks, 12 weeks, and 24 weeks to all patients which will assess vaginal dryness and vaginal itching.
+
+ Over six months, we expect that patients who are receiving vaginal estrogen will have more improvement in atrophic vaginitis symptoms as compared to those women on Replens.
+
+ SECONDARY OBJECTIVES 2.
+
+1 Assess compliance with aromatase inhibitor (AI) therapy in each arm to see whether vaginal estrogen therapy increases AI compliance among women who have atrophic vaginitis.
+
+ Compliance will be checked by counting pills at clinic visits at 4 weeks, 12 weeks, and 24 weeks during the study treatment period, and then every 6 months for a period of 4.
+
+5 additional years, or until completion of aromatase inhibitor therapy.
+
+ We expect that compliance in the vaginal estrogen arm will be superior to that of the Replens arm.
+
+ Women over the age of 18 who have been diagnosed with stage I-III ER+ breast cancer and are currently taking adjuvant AI therapy who also complain of atrophic vaginitis symptoms including vaginal dryness, vaginal itching, frequent urinary tract infections, or dyspareunia are candidates for this study.
+
+ Women also must be post-menopausal as defined by any of the following: age >55 years, history of bilateral oophorectomy, amenorrhea for 1 year with intact uterus and ovaries, or serum estradiol and FSH concentrations in the post-menopausal range along with either amenorrhea for 6 months or previous hysterectomy.
+
+.
+
+ REVIVE: Replens Versus Intra-Vaginal Estrogen for the Treatment of Vaginal Dryness on Aromatase Inhibitor Therapy@highlight
+
+This study is investigating whether breast cancer patients who experience vaginal dryness while on anti-estrogen treatment could benefit from either vaginal estrogen or from a vaginal moisturizer called Replens.
+

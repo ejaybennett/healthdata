@@ -1,0 +1,24 @@
+(thirdQuint)Hydroxychloroquine in Patients With Stage III or Stage IV Melanoma That Can Be Removed by Surgery.
+
+ OBJECTIVES: Primary - To characterize the effects of hydroxychloroquine (HCQ) on the modulation of markers of autophagy, as measured by p62, Beclin1, LC3, and GRp170 expression, in pre- and post-treatment tumor biopsy samples, skin samples, and peripheral blood mononuclear cell samples from patients with stage III or IV melanoma undergoing palliative or curative surgery.
+
+ Secondary - To determine whether the steady-state plasma concentration of HCQ correlates with observed trends in induced markers of autophagy.
+
+ - To determine the potential mechanisms of antitumor effect of HCQ, as measured by a reduction in tumor cell proliferation (Ki-67 and mitotic rate) or an increase in apoptosis (activated caspase-3 and TUNEL assays) in melanoma specimens.
+
+ OUTLINE: Patients receive oral hydroxychloroquine twice daily for 14 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients then undergo surgery.
+
+ Blood, tumor tissue, and skin samples are collected for pharmacokinetic and correlative laboratory studies.
+
+ Expression of p62, Beclin1, LC3, and GRp170 (autophagy markers) is analyzed.
+
+.
+
+ Hydroxychloroquine in Patients With Stage III or Stage IV Melanoma That Can Be Removed by Surgery@highlight
+
+RATIONALE: Studying samples of blood, tumor tissue, and skin in the laboratory from patients with melanoma receiving hydroxychloroquine may help doctors understand the effect of hydroxychloroquine on biomarkers.
+
+ PURPOSE: This early phase I trial is studying hydroxychloroquine in patients with stage III or stage IV melanoma that can be removed by surgery.
+

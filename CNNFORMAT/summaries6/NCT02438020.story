@@ -1,0 +1,40 @@
+(fifthQuint)Study of Efficacy of Metformin in the Treatment of Acanthosis Nigricans in Children With Obesity.
+
+ Acanthosis nigricans (AN) are lesions affecting localized areas of the skin in persons with obesity and/or hyperinsulinemia.
+
+ Roughening of the skin is related with histological papillomatosis and the skin darkening is due to hyperkeratosis.
+
+ Biochemical mechanisms for developing this hyperplastic lesion involve local cutaneous growth factors.
+
+ Nearly 40% of Native American teenagers have acanthosis nigricans, whereas about 13% of African American, 6% of Hispanic, and less than 1% of white, non-Hispanic children aged 10-19 have clinically apparent acanthosis nigricans.
+
+ AN is a clinical surrogate of laboratory-documented hyperinsulinemia.
+
+ The aim of this study is to compare the efficacy of metformin versus placebo on AN lesions of the neck as well as their effects on metabolic (HOMA, triglycerides, cholesterol) and anthropometric variables (BMI, waist) in a sample of obese children.
+
+ This is a 12-week randomized, double-blind randomized trial involving obese children with AN to receive either metformin or placebo.
+
+ Evaluations will be performed every three weeks.
+
+ Clinical, histological and colorimetric assessments of AN lesions will be compared initially and at the conclusion of the study.
+
+ Burkes scale, papillomatosis and hyperkeratosis, and the L* axis of will be used to measure the AN improvement.
+
+.
+
+ Study of Efficacy of Metformin in the Treatment of Acanthosis Nigricans in Children With Obesity@highlight
+
+Obesity is often accompanied by insulin resistance and/or hyperinsulinemia.
+
+ Acanthosis nigricans (AN) is a skin condition commonly present on the neck of obese children.
+
+ Metformin is a useful drug for conditions characterized by insulin resistance.
+
+The aim of this study is to compare the efficacy of metformin versus placebo on AN lesions of the neck as well as their effects on metabolic and anthropometric variables in a sample of obese children.
+
+ This is a 12-week randomized, double-blind randomized trial involving obese children with AN to receive either metformin or placebo.
+
+ Evaluations will be performed every three weeks.
+
+ Clinical, histological and colorimetric assessments of AN lesions will be compared initially and at the conclusion of the study.
+

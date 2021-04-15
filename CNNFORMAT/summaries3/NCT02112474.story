@@ -1,0 +1,44 @@
+(fifthQuint)The Pain Suppressive Effect of Alternative Spinal Cord Stimulation Frequencies.
+
+ Rationale: Electrical stimulation of the dorsal columns of the spinal cord (Spinal Cord Stimulation or SCS) for pain relief has been used in humans for several decades.
+
+ The most common indication for SCS is the treatment of refractory neuropathic leg pain, particularly when these symptoms persist after an anatomically successful operation (Failed Back Surgery Syndrome or FBSS).
+
+ Low frequency - conventional - SCS (LF-SCS) is applied in frequencies ranging from 30 to 60 Hertz (Hz) and the subject feels paraesthesias in the painful area, which is considered the ideal situation.
+
+ Recently, LF-SCS has been challenged by the development of stimulation modes at higher frequencies which provide pain relief at sub-perception threshold, i.
+
+e.
+
+ without paraesthesias.
+
+ A recent case series reported that High Frequency Spinal Cord Stimulation (HF-SCS) appears to show better pain relief for both back and limb pain in comparison to LF-SCS, and also to be effective in some subjects who did not respond to LF-SCS.
+
+ Objective: The primary objective of this trial is to compare pain suppression in two groups of subjects with chronic unilateral limb pain as a result of FBSS .
+
+ Study design: A prospective, double blind (subject, physician, statistician), multi-centre, randomized, crossover trial of SCS in the treatment of subjects with refractory neuropathic leg pain after back surgery.
+
+ Study population: Patients with chronic neuropathic refractory unilateral leg pain Intervention: Patients will undergo neurostimulation with low and high frequency parameters, the order in which they receive treatment will be randomized Main study endpoint: Pain suppression in the short and long-term (24 days and 12 months) Nature and extent of the burden and risks associated with participation, benefit and group relatedness: Both methods of stimulation are standard clinical practice performed routinely in the study centres, both groups will receive this standard care.
+
+ The only difference is change of stimulation frequency and the order in which it is applied.
+
+ Possible benefit to the subject is that both forms of stimulation will be evaluated.
+
+ This may lead to a better quality of life in the HF-SCS Group as result of pain relief without paraesthesias.
+
+ Furthermore, non-responders to LF-SCS may benefit from HF-SCS.
+
+.
+
+ The Pain Suppressive Effect of Alternative Spinal Cord Stimulation Frequencies@highlight
+
+Electrical stimulation of the spinal cord (Spinal Cord Stimulation or SCS) for pain relief has been used for decades.
+
+ It is used most commonly in patients with chronic neuropathic leg pain, after spinal surgery.
+
+ Conventional neurostimulation is applied in frequencies of 30 to 60 Hertz (Hz) and perceptible paraesthesias are felt.
+
+ Stimulation using higher frequencies with sub perception paraesthesias has recently challenged the conventional form of neurostimulation.
+
+The high frequency stimulation appears to show better pain relief for both back and limb pain in comparison to low frequency SCS, and may also to be effective in some subjects who did not respond to low frequency SCS.
+

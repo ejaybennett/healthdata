@@ -1,0 +1,27 @@
+(firstQuint)Statins in Chronic Hepatitis C Patients Receiving Sofosbuvir/Daclatasvir/Ribavirin Combination.
+
+ Aim of the work To determine the benefits of statin use in CHC patients treated with Sofosbuvir/Daclatasvir/Ribavirin through : Primary Outcome: Assessment of therapeutic SVR12 Seconadry Outcome 1.
+
+ assessment of Chronic hepatitis C(CHC) infection risk on development of metabolic syndrome through assessment of lipid profile , fasting glucose test , HgbA1C and C-reactive protein(CRP).
+
+ 2- Evaluation of CHC related complications such as fibrosis and cirrhosis Patients will be followed up for the whole study period and will be subjected to assessment of the following: 1.
+
+ CBC , liver function test , lipid profile and CK every month till the end of therapy.
+
+ 2.
+
+ HgA1C and CRP at the end of therapy.
+
+ 3.
+
+ HCV-PCR test 3 months after the end of therapy.
+
+ 4.
+
+ Fibrosis using (FIB-4) 3 months after the end of therapy.
+
+.
+
+ Statins in Chronic Hepatitis C Patients Receiving Sofosbuvir/Daclatasvir/Ribavirin Combination@highlight
+
+The purpose of the study is to determine if statin can affect the clinical outcome of chronic hepatitis C patients receiving Sofosbuvir/Daclatasvir/Ribavirin combination

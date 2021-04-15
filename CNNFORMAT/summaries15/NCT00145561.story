@@ -1,0 +1,19 @@
+(firstQuint)The Pharmacokinetic Study of Saquinavir New Tablet Formulation in HIV-Infected Pregnant Women.
+
+.
+
+ It is generally accepted that HIV-infected pregnant women should receive treatment to prevent the transmission of HIV from mother-to-child.
+
+The (relative) contra-indications for the NNRTIs during pregnancy make a PI based regimen the most rational choice.
+
+ Based on several experiences and investigations it is expected that saquinavir will play a role as a component of tripe drug regimens for HIV-infected pregnant women.
+
+ Since the bid dose regimen of 1,000mg saquinavir and 100mg ritonavir is approved by the regulatory authorities and with the availability of a new 500mg tablet formulation of saquinavir,there is a need for a well-designed pharmacokinetic trial using the new 500mg saquinavir tablet formulation in the above mentioned dose.
+
+.
+
+ The Pharmacokinetic Study of Saquinavir New Tablet Formulation in HIV-Infected Pregnant Women.
+
+@highlight
+
+Pharmacokinetic study of Saquinavir and Ritonavir in HIV-infected pregnant women

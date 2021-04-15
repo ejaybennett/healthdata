@@ -1,0 +1,65 @@
+(fifthQuint)Efficacy and Safety of R-hLH (Luveris ) Priming Prior to R-HFSH Treatment in Infertile Women Undergoing IVF-ET.
+
+ Normal women undergoing IVF (Total n = 146; GRI n = 43) were recruited in 4 centres in 3 countries, and all were started on treatment with a depo GnRH-agonist to suppress endogenous gonadotropin secretion.
+
+ Block randomisation lead to a distribution 71 untreated cases and 75 cases treated with rec-hLH (Luveris,[Serono]; 300IU/d) for 7 days.
+
+ On the following days recombinant follicle stimulating hormone (rec-hFSH) stimulation of the ovaries was initiated using Gonal-f (150IU/d) for approximately 12 days.
+
+ HCG (3500IU) was given when >2 mature follicles were seen by ovarian ultrasound, and oocytes (eggs) were fertilized in vitro after collection between 36 and 38h after the injection.
+
+ Embryos were scored for quality, and a maximum of 2 embryos were transferred 2 or 3 days later.
+
+ Results During Luveris treatment the LH concentration was increased by approximately 3 IU/L, but there was no change in the hormone profiles of androgens or estrogens in blood samples measured in a central laboratory.
+
+ Both groups of patients showed an increase in the circulating anti-mullerian hormone, although there was no difference between the groups.
+
+ The Luveris treated group showed a significant (p=0.
+
+007) increase in the number of small antral follicles, but to a degree that was not different from the control group.
+
+ During rec-hFSH stimulation, there was no difference in the duration of FSH injections required or the total dose, or the total number of follicles seen, or the hormone profiles observed.
+
+ The Luveris pre-treated group showed a slight (not significant) increase in oocyte yield.
+
+ In this group there was a significant increase in the normally fertilized embryo yield (no treatment mean = 5.
+
+1; Luveris treatment mean = 7.
+
+0: p= 0.
+
+038).
+
+ Discussion The observations of negligible effects of LH upon the hormone profiles may be explained by the fact that the hormone concetrations were at the lower limit of sensitivity of the assay methods, and they do not preclude an effect within the follicles.
+
+ We did observe effects upon follicular development in the ultrasound profiles.
+
+ Effects upon hormone profiles may require both hormones (LH and FSH) to be present at the same time (instead of in sequence).
+
+ The small effect of the pre-treatment upon normal embryo yield may be an important observation.
+
+ Conclusion These results demonstrate that treating follicles with LH prior to FSH, may lead to the development of more viable follicles than with FSH treatment alone.
+
+ This should lead to improved regimes of ovarian stimulation and improve the outcome potential for women undergoing IVF.
+
+ Future Research Exploration of this phenomenon will be required in order to maximise any potential benefit from the process.
+
+ There are numerous sub-groups of patients who may possibly benefit, including poor responding patients, but further data are required.
+
+.
+
+ Efficacy and Safety of R-hLH (Luveris ) Priming Prior to R-HFSH Treatment in Infertile Women Undergoing IVF-ET@highlight
+
+In programmes of IVF, normal women undergo controlled ovarian stimulation using exogenous FSH injections to obtain multiple eggs.
+
+ The process results in eggs of mixed quality with a broad range of developmental and implantation potential.
+
+ The aim of the study was to determine whether, treatment with recombinant human LH prior to the FSH injections can improve outcome for women undergoing IVF.
+
+ High grade embryos implant with a higher frequency and baby delivery rate than poor quality embryos.
+
+ The mature oocyte is the most important determinant of embryo quality.
+
+ Early follicles, containing immature eggs, have LH receptors in the theca cells that surround the follicle, and LH stimulates these cells to produce factors essential for normal follicular development.
+
+ The intent of the study was to use recLH treatment prior to recFSH to treat a cohort of follicles, so that they can all mature together, thus increasing the proportion of high grade oocytes and their subsequent embryos

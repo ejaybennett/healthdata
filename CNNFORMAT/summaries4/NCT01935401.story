@@ -1,0 +1,28 @@
+(fifthQuint)Self-regulatory Control and Eating: A Neuroimaging Study of Bulimia Nervosa.
+
+ Bulimia nervosa (BN), is a serious psychiatric disorder that has high rates of comorbidity and often results in role impairment for the suffer.
+
+ Thus far, although psychosocial and behavioral risk factors and correlates of BN have been extensively researched, relatively few studies have focused on brain-based determinants of BN.
+
+ Identification of neural mechanisms associated with self-regulatory control that may be integral in the development, maintenance, and prevention of this debilitating condition would better inform treatment development and eating disorder prevention efforts.
+
+ Participation in this study consists of a 3-3.
+
+5 hours study visit as well a a one year follow up visit.
+
+ The first portion of initial study visit is part of the screening process, in which individuals will complete several questionnaires and be interviewed by the study researcher in order to confirm eligibility.
+
+ If a participant is eligible after the screening portion, they move onto the rest of the initial visit.
+
+ During the initial visit, participants will complete a button pressing go/no-go task as well as a sipping go/no-go task, all while wearing a functional near-infrared spectroscopy (fNIR) device.
+
+ At a one year follow up appointment, individuals will again complete a variety of self-report questionnaires and be interviewed by the study researcher, thus completing the same measures used as screening tools in the initial visit.
+
+.
+
+ Self-regulatory Control and Eating: A Neuroimaging Study of Bulimia Nervosa@highlight
+
+The purpose of this study will be to replicate previous findings of deficits in prefrontal activation during response inhibition tasks in bulimia nervosa and extend these findings by demonstrating similar deficiencies in activity during a functional behavioral task that requires the inhibition of eating.
+
+ Findings from this study will potentially help to elucidate the underlying neural mechanisms of bulimia nervosa, and thus inform treatment and prevention efforts.
+

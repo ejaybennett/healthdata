@@ -1,0 +1,11 @@
+(firstQuint)Symptoms and Physical Activity in COPD Patients in Europe.
+
+ The study is a multi-centre, multi country, observational prospective cross sectional study to determine the prevalence and severity of early morning, day and night-time symptoms and physical activity patterns and to evaluate their correlation between each other and with disease severity, adherence to respiratory medications, direct costs and PROs in patients with stable COPD in Europe.
+
+ Approximately 2000 patients will be enrolled in convenient sites in several (9-12) selected countries.
+
+.
+
+ Symptoms and Physical Activity in COPD Patients in Europe@highlight
+
+An observational, multinational, cross sectional study to describe 24-hs symptoms, physical activity and their relationship in stable COPD patients in Europe

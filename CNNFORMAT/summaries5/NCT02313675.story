@@ -1,0 +1,28 @@
+(secondQuint)Pain Outcomes of Intra-operative IV Tylenol and/or IV Toradol for Carpal Tunnel and Distal Radius Fracture Surgeries.
+
+ The study population will include patients presenting for surgery with carpal tunnel syndrome as well as surgical treatment of distal radius fracture.
+
+ Patients will be treated intra-operatively with either IV tylenol, IV toradol, both, or neither.
+
+ All patients will receive the standard post-operative prescriptions for pain management.
+
+ Daily pain surveys scoring pain from 0-10 will be distributed to the subjects to be filled out over the course of 10 days prior to first post-operative visit, usually 10-14 days later.
+
+ Number of pain pills used before the first post-operative visit will also be measured.
+
+ We hypothesize that the effects of intra-operative administration of IV tylenol and/or IV toradol will have a significant effect on decreasing post-operative pain in the first 10 days following distal radius fracture surgeries, with a significant difference in pain described as at least a 2 points on a 0-10 pain scale.
+
+ We also hypothesize that intra-operative administration of IV tylenol and/or IV toradol will not have such significant effect on decreasing post-operative pain for carpal tunnel release surgery.
+
+ A secondary aim is to evaluate the post-operative opioid consumption of patients within these treatment groups.
+
+ We hypothesize that opioid consumption will be decreased in the groups receiving IV tylenol and/or toradol for distal radius fracture surgery compared to the placebo group.
+
+ We do not expect such a difference for the carpal tunnel release surgery group.
+
+.
+
+ Pain Outcomes of Intra-operative IV Tylenol and/or IV Toradol for Carpal Tunnel and Distal Radius Fracture Surgeries@highlight
+
+The purpose of this study is to determine the efficacy of intra-operative administration of IV tylenol and/or IV toradol in minimizing post-operative pain for carpal tunnel patients and distal radius fracture patients.
+

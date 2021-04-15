@@ -1,0 +1,31 @@
+(secondQuint)Remote Ischaemic PreConditioning (RIPC) in Partial Nephrectomy for the Prevention of Ischemia/Reperfusion Injury.
+
+ Partial nephrectomy represents the gold standard in organ sparing kidney surgery.
+
+ Cold ischaemia prevents major bleeding but can yet be associated with impaired kidney function due to reperfusion injury to the tubuli.
+
+ Patients undergoing partial nephrectomy (any surgical technique, open, retroperitoneoscopic, transperitoneal, Da Vinci assisted) will be treated with "Remote Ischaemic PreConditioning" (RIPC).
+
+ RIPC is delivered with a standard blood pressure cuff placed on the upper arm and another standard blood pressure cuff placed on the upper thigh.
+
+ The cuffs are then simultaneously inflated to 200 mm HG and left inflated for 5 minutes, then deflated to 0 mmHG and left uninflated for 5 minutes.
+
+ This cycle is repeated twice, so that the RIPC protocol takes 20 minutes in total.
+
+ If the systolic blood pressure is > 185mm HG the cuffs are inflated to 15 mmHG above that level.
+
+ Several studies already demonstrated the reno- and cardioprotective potential of "Remote Ischaemic PreConditioning" (RIPC).
+
+ It was shown that urinary calprotectin can be used to monitor tubular damage after nephron sparing surgery.
+
+ Postoperative calprotectin dynamics will be monitored in order to demonstrate the potential renoprotective effect of RIPC.
+
+ Additionally a BOLD MRI will be performed to to visualize ischemia/reperfusion injury.
+
+.
+
+ Remote Ischaemic PreConditioning (RIPC) in Partial Nephrectomy for the Prevention of Ischemia/Reperfusion Injury@highlight
+
+"Remote Ischaemic PreConditioning" (RIPC) is performed prior to partial nephrectomy.
+
+ Postoperative calprotectin dynamics and Blood Oxygen-Level-Dependent (BOLD) MRI are used to to demonstrate the potential renoprotective effect of RIPC

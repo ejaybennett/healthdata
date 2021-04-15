@@ -1,0 +1,20 @@
+(secondQuint)A Clinical Trial of Proton Pump Inhibitors to Treat Children With Chronic Otitis Media With Effusion.
+
+ This study is being done to see if reflux of stomach fluid might be a cause of fluid in the ears.
+
+ Earlier studies have found pepsin or pepsinogen, a component of stomach fluid, in the middle ear fluid of many children with chronic middle ear fluid.
+
+ Anti-reflux medicines called proton pump inhibitors (PPI) reduce the acidity of the contents of the stomach and the activity of pepsin or pepsinogen.
+
+ We are studying the effectiveness of a PPI called lansoprazole (Prevacid cent ) in reducing fluid in the ears.
+
+ If lansoprazole is able to reduce the fluid in the middle ear, this tells us that the reflux of gastric acid into the esophagus and into the ear canal may be causing middle ear fluid.
+
+.
+
+ A Clinical Trial of Proton Pump Inhibitors to Treat Children With Chronic Otitis Media With Effusion@highlight
+
+This study is being done to see if reflux of stomach fluid might be a cause of chronic fluid in the ears.
+
+ Our hypothesis is that treatment with an anti-reflux medication (lansoprazole) will increase the rate of resolution of chronic middle ear fluid in children.
+

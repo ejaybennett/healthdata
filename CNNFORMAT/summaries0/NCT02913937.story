@@ -1,0 +1,18 @@
+(secondQuint)Effect of Passive Ultrasonic Irrigation Versus Needle Irrigation on Postoperative Pain and Periapical Healing.
+
+ Full medical and dental history using a dental chart for all patients treated in this study.
+
+ Clinical and radiographic examination will be done for all patients to verify the diagnosis of apical periodontitis with periapical radiolucency at least 2mm in diameter.
+
+ The treatment protocol and its associated risks and benefits will be explained to the eligible patients before obtaining informed consent.
+
+ Endodontic procedures will be done in a single visit as follows: access cavity preparation using sterile round bur and Endo-Z bur, isolation using a rubber dam, canal preparation using a nickel-titanium rotary system then obturation.
+
+ During mechanical preparation, irrigation will be done using passive ultrasonic irrigation (Experimental group) where ultrasonic activation will be done for irrigant-filled canals using the U- file tip (Varios NSK) in an ultrasonic device (P5 Newtron; Satelec Acteon) 1mm from the working length after each file change for 10 sec, or needle irrigation (Control group) where only the endodontic irrigation needle will be used; the irrigation protocol for each patient will be determined following a random-number sequence.
+
+.
+
+ Effect of Passive Ultrasonic Irrigation Versus Needle Irrigation on Postoperative Pain and Periapical Healing@highlight
+
+The aim of this study is to compare the effect of passive ultrasonic irrigation versus needle irrigation on post-operative pain and healing in patients with permanent posterior teeth with apical periodontitis treated in a single visit.
+

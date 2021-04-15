@@ -1,0 +1,25 @@
+(thirdQuint)Radiation Therapy After Lumpectomy in Treating Women With Ductal Carcinoma in Situ or Invasive Breast Cancer.
+
+ OBJECTIVES: - Determine the effect of intraoperative radiotherapy boost to the tumor bed on acute complications after lumpectomy (before whole breast irradiation) in women with ductal carcinoma in situ or invasive adenocarcinoma of the breast.
+
+ - Determine the local recurrence rates in patients treated with this regimen.
+
+ - Determine the cosmetic outcome in patients treated with this regimen.
+
+ OUTLINE: Patients undergo excisional biopsy or surgery followed by an intraoperative dose of radiation to the tumor cavity.
+
+ Postoperatively, patients undergo external beam radiotherapy to the entire breast 5 days a week for 5-6 weeks.
+
+ Patients are followed at 1 month and then every 3 months for 2 years.
+
+ PROJECTED ACCRUAL: A total of 25 patients will be accrued for this study within 2 years.
+
+.
+
+ Radiation Therapy After Lumpectomy in Treating Women With Ductal Carcinoma in Situ or Invasive Breast Cancer@highlight
+
+RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells.
+
+ Giving radiation during surgery followed by external-beam radiation to the entire breast may kill more tumor cells.
+
+ PURPOSE: Phase II trial to study the effectiveness of radiation therapy during surgery followed by whole-breast radiation therapy in treating women who have undergone lumpectomy for ductal carcinoma in situ or invasive breast cancer

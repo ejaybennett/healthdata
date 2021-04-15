@@ -1,0 +1,24 @@
+(firstQuint)A Web App for Patients With Alcohol and Drug Use Problems in Primary Care.
+
+ The overall objective of this project is to develop, evaluate, and disseminate a web application called Check-up and Choices (CC).
+
+ CC will be developed for use in primary care.
+
+ It would tightly integrate screening for heavy drinking and drug use, a brief motivational intervention for hazardous or heavy drinkers, a moderation training protocol for less dependent problem drinkers, and an abstinence-oriented protocol for more dependent drinkers and drug abusers.
+
+ The brief motivational intervention will be tailored to the patient's age.
+
+ Its purpose will be to motivate problem drinkers to change their drinking.
+
+ The action-oriented moderation and abstinence protocols are cognitive-behavioral interventions (CBIs) that provide patients with the skills to maximize their chances of success with changing their drinking and/or drug use.
+
+ The investigators have already developed these elements but they are not integrated into a single program with appropriate branching between them.
+
+ Nor has the content been tailored for use in primary care.
+
+.
+
+ A Web App for Patients With Alcohol and Drug Use Problems in Primary Care@highlight
+
+The objective of this pilot study is to evaluate the feasibility and technical merit of a web application for patients in primary care called Check-up and Choices (CC).
+

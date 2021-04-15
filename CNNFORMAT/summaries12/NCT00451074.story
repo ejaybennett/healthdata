@@ -1,0 +1,14 @@
+(firstQuint)Six Month Study of Gentamicin in Duchenne Muscular Dystrophy With Stop Codons.
+
+ The primary purpose of this second cohort is to see if the IV Medication, gentamicin, is safe to give twice a week for six months to boys with Duchenne muscular dystrophy (DMD).
+
+ Secondarily, we want to know if gentamicin can help strengthen the muscles of boys with DMD who have a particular type of genetic mutation known as a stop codon.
+
+ The gentamicin is thought to allow for "read-through" of this type of mutation which would allow for the production of dystrophin, a protein which is lacking in boys with DMD.
+
+.
+
+ Six Month Study of Gentamicin in Duchenne Muscular Dystrophy With Stop Codons@highlight
+
+The purpose of this study is to determine the safety of giving intravenous (IV) gentamicin to boys with Duchenne muscular dystrophy who have stop codon mutations.
+

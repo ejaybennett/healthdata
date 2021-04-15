@@ -1,0 +1,24 @@
+(thirdQuint)Weaning And Variability Evaluation (WAVE).
+
+ In this prospective observational pilot study, mechanically ventilated patients weaning or near extubation (i.
+
+e.
+
+ within 1-5 days) were selected to undergo continuous heart rate (EKG waveform at 500 Hz) and respiratory rate (expired CO2 waveform at 100 Hz) recording.
+
+ The data was collected as per standard practice by the bedside monitor (Phillips Intelivue MP70).
+
+ A portable CPU with TrendfaceTM software was used to download the data for variability analysis.
+
+ All decisions on timing of SBTs and extubation were left to the discretion of the treating team who were unaware of the variability results.
+
+ SBT's were repeated daily from trial onset until extubation patient permitting.
+
+.
+
+ Weaning And Variability Evaluation (WAVE)@highlight
+
+The purpose of this study is to determine if variability in heart and breathing rates can be used to predict successful weaning.
+
+ We are collecting data to determine whether or not subtle differences in heart rate and respiratory function will help physicians to decide if a patient is ready to be weaned.
+

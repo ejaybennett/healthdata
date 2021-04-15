@@ -1,0 +1,12 @@
+(firstQuint)Ultrasound Guided Percutaneous Tracheostomy Compared to Bronchoscopy Guided Percutaneous Tracheostomy.
+
+ TRACHUS trial is a randomized non-inferiority trial designed to evaluate the safety and efficacy of ultrasound guided percutaneous tracheostomy compared to bronchoscopy guided percutaneous tracheostomy.
+
+ Patients will be randomly assigned to be submitted to ultrasound or bronchoscopy guided percutaneous tracheostomy and then the procedure related complications and clinical outcomes will be evaluated and compared between groups.
+
+.
+
+ Ultrasound Guided Percutaneous Tracheostomy Compared to Bronchoscopy Guided Percutaneous Tracheostomy@highlight
+
+TRACHUS trial is a randomized non-inferiority trial designed to evaluate the safety and efficacy of ultrasound guided percutaneous tracheostomy compared to bronchoscopy guided percutaneous tracheostomy.
+

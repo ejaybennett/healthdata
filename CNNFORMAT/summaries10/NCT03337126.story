@@ -1,0 +1,32 @@
+(thirdQuint)Bioavailability of ATI-1501 With Taste Test Sub Study.
+
+ This is a Phase 1, single-center, randomized, open-label, single dose, 2 sequence, 2 treatment, crossover, relative bioavailability study of ATI-1501 under fasting and fed conditions in healthy adult subjects.
+
+ The purpose of this study is to determine the relative bioavailability of ATI-1501 oral suspension to the comparator drug, Flagyl(R).
+
+ The study also aims to evaluate the safety and characterize the PK profile of ATI-1501 oral suspension in healthy adults.
+
+ The PK of ATI-1501 oral suspension in a population of subjects with no concomitant illnesses will be recorded and analyzed.
+
+ Blood samples will be collected through individual venipuncture or an indwelling catheter at pre-described time intervals throughout the study to determine the bioavailability of ATI-1501 oral suspension and characterize its overall PK profile.
+
+ In addition, blood samples will also be collected using a microsampling device to validate the use of blood microsampling for future studies.
+
+ Subjects will be randomized to 1 of 2 treatment sequences and each group of subjects will undergo 4 periods of treatment.
+
+ Each subject will receive each treatment regimen in this crossover study design, allowing for a 7-day washout period.
+
+ The study drugs will be administered under fasting and fed conditions to evaluate the effects of food on the absorption of metronidazole, administered in the ATI-1501 oral suspension.
+
+ The palatability of ATI-1501 will be assessed using the 9-point scale to assess the taste, texture, and smell of the 2 study drugs.
+
+ A 3-point scale will be used to evaluate the degree of bitterness of the 2 study drugs.
+
+ Bioavailability of ATI-1501 With Taste Test Sub Study@highlight
+
+Appili Therapeutics Inc.
+
+ is developing an oral suspension formulation of metronidazole (ATI-1501), a taste-masked reformulation of metronidazole.
+
+ The purpose of this study is to compare the relative bioavailability of ATI-1501 with the Reference Listed Drug (RLD) in healthy, adult volunteers to determine that it is Bioequivalent.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Studying Biomarkers in Tumor Tissue and Blood Samples From Patients Undergoing Chemotherapy and Radiation Therapy for Stage II or Stage III Rectal Cancer That Can Be Removed By Surgery.
+
+ OBJECTIVES: Primary - To obtain the distribution of stem cell markers (CD166, CD44, and ESA) in tumor tissue samples before and after neoadjuvant chemoradiotherapy (NCRT) in patients with stage II or III rectal cancer.
+
+ Secondary - To correlate disease-free survival after NCRT with baseline expression and change in expression of stem cell markers (CD166, CD44, and ESA) after NCRT.
+
+ - To correlate baseline and post-NCRT expression of all three stem cell markers (CD166, CD44, and ESA) with circulating tumor cell (CTC) count and stem cell marker expression on CTC at baseline and after NCRT.
+
+ OUTLINE: Patients receive chemotherapy according to the treating physician's choice and undergo concurrent radiotherapy over approximately 6 weeks.
+
+ Between 6-8 weeks after completion of neoadjuvant chemoradiotherapy (NCRT), patients undergo low anterior or abdominoperineal surgical resection.
+
+ Some patients may then receive additional chemotherapy.
+
+ Tumor tissue samples are obtained via sigmoidoscopy-guided biopsies at baseline and at the time of surgery.
+
+ Blood samples are also collected at baseline and after completion of NCRT.
+
+ Samples are isolated for RNA analysis of CD44, CD166, and ESA expression by quantitative reverse transcriptase-PCR and IHC.
+
+ After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.
+
+.
+
+ Studying Biomarkers in Tumor Tissue and Blood Samples From Patients Undergoing Chemotherapy and Radiation Therapy for Stage II or Stage III Rectal Cancer That Can Be Removed By Surgery@highlight
+
+RATIONALE: Studying samples of tumor tissue and blood from patients with cancer in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer.
+
+ It may also help doctors predict how patients respond to treatment.
+
+ PURPOSE: This phase I trial is studying biomarkers in tumor tissue and blood samples from patients undergoing chemotherapy and radiation therapy for stage II or stage III rectal cancer that can be removed by surgery.
+

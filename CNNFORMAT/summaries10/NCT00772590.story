@@ -1,0 +1,20 @@
+(firstQuint)Antiretroviral Therapy Intensification With Raltegravir or Addition of Hyper-immune Bovine Colostrum in HIV-1 Infected Patients With Suboptimal CD4+ T Cell Response.
+
+ The primary objective of this study is to measure the effect on CD4+ T cell outcome as measured by the mean time weighted CD4+ T cell count change over 24 weeks of two interventions: (I) cART intensification with raltegravir and (II) cART combined with hyper-immune bovine colostrum in HIV-1 infected individuals who have failed to achieve a CD4+ T cell count greater than 350 cells/ mu L despite persistent HIV plasma viraemia below 50 copies/mL on cART.
+
+ Eligible patients will be randomised to one of four arms.
+
+ I.
+
+ Raltegravir + hyper-immune bovine colostrum placebo II.
+
+ Raltegravir placebo + hyper-immune bovine colostrum III.
+
+ Raltegravir + hyper-immune bovine colostrum IV.
+
+ Raltegravir placebo + hyper-immune bovine colostrum placebo.
+
+ Antiretroviral Therapy Intensification With Raltegravir or Addition of Hyper-immune Bovine Colostrum in HIV-1 Infected Patients With Suboptimal CD4+ T Cell Response@highlight
+
+A research study to measure the effect on CD4 counts of adding to current anti-retroviral regimen raltegravir with or without hyper-immune bovine colostrum.
+

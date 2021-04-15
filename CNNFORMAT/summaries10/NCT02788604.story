@@ -1,0 +1,48 @@
+(fifthQuint)Improving Quality of Life of Children With Cancer Through Psychosocial Screening.
+
+ In Canada approximately 1450 children are diagnosed with cancer annually.
+
+ Childhood cancer diagnosis and treatment can have devastating psychosocial effects on the family.
+
+ Tools to screen for psychosocial risks (PSR) in pediatric oncology are rare.
+
+ Our preliminary work adapted the Psychosocial Assessment Tool (PAT) for the Canadian population, PATrevised (PATrev), and developed the Psychosocial Care Checklist (PCCL).
+
+ The PATrev is completed by parents of children with cancer, and yields a summary of the psychosocial needs of the patient, parents, and siblings.
+
+ The PCCL assesses HCPs knowledge of family's psychosocial needs and services.
+
+ Importantly, psychosocial screening is associated with reduced parental anxiety and improved child's quality of life (QOL).
+
+ Demonstration of the tool's ability to maximize patient and family psychosocial outcomes is needed.
+
+ Participants will be parents of children newly diagnosed with cancer, (patients and siblings (> 8 years), if available).
+
+ Design: RCT with concealed allocation to experimental group (EG) and control group (CG), with repeated measures (after diagnosis= T1, 6 months later=T2).
+
+ The EG treating team will receive a summary of PATrev risk information based on parent report.
+
+ No risk information will be provided in the CG.
+
+ Parents in both groups will complete the PATrev, family environment questionnaire, self--report and proxy reported QoL, distress and mood measures for the patient and one sibling.
+
+ Patients and siblings will self-report on QOL, distress and mood.
+
+ Patient charts will be reviewed (T2) to determine treatment intensity and documented psychosocial services for each family.
+
+.
+
+ Improving Quality of Life of Children With Cancer Through Psychosocial Screening@highlight
+
+In Canada, approximately 1450 children are diagnosed with cancer annually.
+
+ Diagnosis of childhood cancer and its aggressive treatment can have devastating psychosocial effects on the whole family (e.
+
+g.
+
+ unpleasant feelings or emotions that impact your daily activities).
+
+ It is not known whether health care providers who treat these children use and value psychosocial tools or how beneficial the use of these tools is for these families.
+
+ This research team will test the benefits of using psychosocial screening on the quality of life of treated children, parents and siblings.
+

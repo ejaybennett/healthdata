@@ -1,0 +1,20 @@
+(secondQuint)Allo-HSCT With Alternative Donor in Treatment of Hematologic Malignancy.
+
+ Currently, allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains the only curative therapy for a majority of malignant hematologic diseases, especially acute leukemia.
+
+ HSCT from MSD offers the best results for these diseases, but lack of this donor resource has restricted its wide application.
+
+ HSCT from MUD provides another option, but MUDs still cannot satisfy all patients due to unsuccessful donor searches.
+
+ Almost all patients have an available related donor with whom they share a single HLA haplotype (ie, haploidentical related donor), and it owns the advantage of immediate availability, especially for those who urgently need transplantation.
+
+The results of transplantation from HRD have improved significantly over the past few years.
+
+ However, the results from such haploidentical transplantation have not formally been compared with those of transplantation in patients contemporaneously using MSDs and MUDs for hematologic malignancy.
+
+.
+
+ Allo-HSCT With Alternative Donor in Treatment of Hematologic Malignancy@highlight
+
+The purpose of this study is to compare the efficacy of allogeneic hematopoietic stem cell transplantation (allo-HSCT) from matched sibling donor (MSD),matched unrelated donor (MUD) and haploidentical related donors(HRD) in the treatment of hematologic malignancy.
+

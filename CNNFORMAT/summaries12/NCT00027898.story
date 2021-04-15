@@ -1,0 +1,33 @@
+(thirdQuint)Bortezomib and Combination Chemotherapy in Treating Patients With Advanced Solid Tumors.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine the maximum tolerated dose (MTD) of bortezomib, carboplatin, and etoposide in patients with advanced solid tumors refractory to standard therapy.
+
+ II.
+
+ Evaluate biologic effects of bortezomib on relevant targets in the tumor tissues of patients treated with this regimen.
+
+ OUTLINE: This is a dose-escalation study of bortezomib, etoposide, and carboplatin.
+
+ Patients receive bortezomib IV on days 1 and 8, carboplatin IV over 30 minutes on day 1, and etoposide IV over 60 minutes on days 1-3.
+
+ Treatment repeats every 21 days for at least 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ Cohorts of 3-6 patients receive escalating doses of bortezomib until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 or more of 6 patients experience dose-limiting toxicity.
+
+ Once the MTD is determined, 6 additional patients with newly diagnosed, chemotherapy-naive extensive stage small cell lung cancer, and 6 patients with other tumor types, are treated at that dose.
+
+ PROJECTED ACCRUAL: A total of 12-27 patients will be accrued for this study within 6-14 months.
+
+.
+
+ Bortezomib and Combination Chemotherapy in Treating Patients With Advanced Solid Tumors@highlight
+
+Bortezomib may stop the growth of tumor cells by blocking the enzymes necessary for their growth.
+
+ Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Phase I trial to study the effectiveness of combining bortezomib with carboplatin and etoposide in treating patients who have advanced solid tumors that have not responded to previous treatment

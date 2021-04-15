@@ -1,0 +1,14 @@
+(firstQuint)Tolcapone Treatment of Pathological Gambling.
+
+ The proposed study will consist of 8 weeks of treatment with tolcapone in 10 subjects with pathological gambling.
+
+ The hypothesis to be tested is that tolcapone will be effective in reducing the urges to gamble in patients with pathological gambling.
+
+ The proposed study will provide needed data on the treatment of a disabling disorder that currently lacks a clearly effective treatment.
+
+.
+
+ Tolcapone Treatment of Pathological Gambling@highlight
+
+The goal of the proposed study is to evaluate the efficacy and safety of tolcapone in pathological gambling.
+

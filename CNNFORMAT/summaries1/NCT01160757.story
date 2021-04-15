@@ -1,0 +1,28 @@
+(firstQuint)A Study to Determine the Safety and Efficacy of an Ultrasound Device in the Management of Acute Acne Lesions.
+
+ Acne vulgaris is a disease that occurs when oil and dead skin cells clog the pores of the skin.
+
+ When the skin's pores are clogged, red spots and bumps known as pimples are formed, usually on the face, neck, chest, and back.
+
+ In adolescents and adults, acne vulgaris is commonly called "acne.
+
+" Many factors have been associated with acne.
+
+ One of the factors is the increased production of fatty substances from an enlarged sebaceous gland ("oil gland").
+
+ The experimental ultrasonic device uses sound waves (called ultrasonic waves) to heat the acute acne lesion and the surrounding sebaceous ("oil") glands deep in the skin without affecting the surface of the skin.
+
+ We hope that heating the sebaceous glands will reduce their size and reduce the symptoms of inflamed acne.
+
+ Using ultrasonic waves to treat acne is investigational.
+
+ This is a pilot study.
+
+ A pilot study is done on a small group of subjects to learn if the device will be effective and safe, before the device is used on a larger group of subjects.
+
+.
+
+ A Study to Determine the Safety and Efficacy of an Ultrasound Device in the Management of Acute Acne Lesions@highlight
+
+The purpose of this study is to find out how effective and safe an experimental ultrasound device is for treating Acute Acne lesions.
+

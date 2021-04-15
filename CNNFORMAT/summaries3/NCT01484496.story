@@ -1,0 +1,14 @@
+(firstQuint)A Study of Belimumab Administered Subcutaneously in Subjects With Systemic Lupus Erythematosus (SLE).
+
+ This is a Phase 3, multi-center, international, randomized, double-blind, placebo-controlled, 52-week study to evaluate the efficacy, safety and tolerability of belimumab administered subcutaneously (SC) (200 mg weekly) in adult subjects with active Systemic Lupus Erythematosus (SLE).
+
+ Approximately 816 SLE subjects will be randomized, with a target of about 544 subjects receiving belimumab and 272 subjects receiving placebo.
+
+ Subjects completing the 52-week double-blind period can enter a 6-month open-label extension in which all subjects receive belimumab 200 mg SC weekly.
+
+.
+
+ A Study of Belimumab Administered Subcutaneously in Subjects With Systemic Lupus Erythematosus (SLE)@highlight
+
+The purpose of this study is to evaluate the efficacy, safety and tolerability of belimumab administered subcutaneously (SC) to adult subjects with Systemic Lupus Erythematosus (SLE).
+

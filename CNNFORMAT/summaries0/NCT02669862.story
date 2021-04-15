@@ -1,0 +1,18 @@
+(firstQuint)A Study of A-101 Solution in Subjects With Common Warts.
+
+.
+
+ This is a randomized, double-blind, vehicle-controlled, parallel-group study with 3 treatment groups.
+
+ During Visit 1, the Investigator will identify 1 eligible common wart on the trunk or extremities on each subject.
+
+ The wart will be treated up to a maximum of 8 times at 1 week intervals during the study.
+
+.
+
+ A Study of A-101 Solution in Subjects With Common Warts.
+
+@highlight
+
+This is a randomized, double-blind, vehicle-controlled, parallel-group study with 3 treatment groups.
+

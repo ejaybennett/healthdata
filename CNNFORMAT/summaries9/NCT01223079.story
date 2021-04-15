@@ -1,0 +1,26 @@
+(firstQuint)Use of r-hLH (Luveris) in Donors Previously Treated With r-hFSH (Gonal F).
+
+ While the role of FSH is considered the fundamental driver of folliculogenesis, the role of LH in this process is more controversial.
+
+ FSH is associated with stimulating growth and recruitment of follicles while LH is associated with the selection of dominant follicles destined for ovulation.
+
+ We will use an open, prospective, cross-over study to compare the safety and efficacy of two different treatment protocols for controlled ovarian stimulation in egg donors.
+
+ 20 participants will undergo two cycles of stimulation.
+
+ The first one will be with r-hFSH though the cycle and the second with r-hFSH then r-hLH.
+
+ The participants will have 1 month rest cycle between the treatment cycles.
+
+ r-hFSH doses will be adjusted according to patient response.
+
+ r-hLH dosing will begin when there are 2 follicles greater than or equal to 14mm in diameter.
+
+ The does will be 300IU/day and continue until the day of r-hCG administration.
+
+.
+
+ Use of r-hLH (Luveris) in Donors Previously Treated With r-hFSH (Gonal F)@highlight
+
+The purpose of the study is to compare the safety and efficacy of r-hLH to r-hFSH in the late follicular phase of young women undergoing controlled ovarian stimulation for oocyte donation.
+

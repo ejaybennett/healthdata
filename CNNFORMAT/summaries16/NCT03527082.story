@@ -1,0 +1,72 @@
+(fifthQuint)Women's Knowledge and Attitudes to Use of Mesh in Gynaecological Surgery.
+
+ Pelvic organ prolapse (POP) and stress urinary incontinence (SUI) are common conditions experienced by women.
+
+ It is estimated that 20% of women undergo surgery for the treatment of prolapse.
+
+ Transvaginal placement of surgical mesh for repair of POP and SUI are associated with complications such as erosion, infection, dyspareunia, bowel and bladder perforation as well as failure of the operation.
+
+ Such complications have resulted in the FDA reclassifying transvaginal meshes to high risk medical devices.
+
+ Most recently, National Institute for Clinical Excellence (NICE) in the United Kingdom has limited the use of transvaginal meshes for anterior and posterior compartment prolapse to a research context only.
+
+ Since the FDA and NICE publications, there has been much controversy and increasing litigation arising from complications of transvaginal mesh use.
+
+ Recent negative media attention has likely affected patients' perception regarding mesh use in gynaecology.
+
+ There are no studies assessing the knowledge and perception of mesh use in gynaecological surgery within the United Kingdom.
+
+ Previous studies have found patients have limited knowledge and often are misinformed.
+
+ However, these have been limited to transvaginal meshes.
+
+ Laparoscopic procedures using mesh for POP such as sacrohysteropexy and sacrocolpopexy are become increasingly popular with comparable outcomes to vaginal surgery.
+
+ The risk of mesh erosion with laparoscopic surgery is less than vaginal placement.
+
+ The use of mesh of gynaecology remains a topical issues and given the amount of information available to patients, this concept merits study, as it may influence patients' decision making and therefore a prominent part of the consent process.
+
+ The use of mesh in gynaecological surgery remains a highly effective method of treating POP and SUI in appropriately selected patients and routes.
+
+ It is therefore important to understand patients' understanding and perception regarding mesh use and sources of information in the wake of media coverage and attention.
+
+ The investigators seek to evaluate patients' knowledge and attitudes towards use of mesh in gynaecological surgery presenting to gynaecology clinics.
+
+ The investigators aim to survey 150 women attending gynaecology clinics using a questionnaire.
+
+ A power calculation has not been performed however, similar studies have included 164 and 77 women respectively.
+
+ The questionnaire consists of 20 questions that should take 10 minutes to complete.
+
+ Consent: A valid consent with detailed written information sheet will be sought before including them in this trial.
+
+ Inclusion and exclusion criteria: All women attending the clinic will be eligible to participate if they are over the age of 18, with an understanding of English or translator available and able to provide informed consent.
+
+ Risks and benefits: All women will receive the same standard of care regardless if they agree to disagree to participate in the trial.
+
+ There are no disadvantages associated with participation in taking part in the study.
+
+ Data storage: All the information obtained from this study will be stored in a confidential manner and will only be available to the researchers for future analysis.
+
+Participants can withdraw their consent at any point and this will not affect the standard of care given to them in future.
+
+All the information pertaining to the trial will be destroyed securely.
+
+ This research does not involve any use, storage of any tissue.
+
+ Women's Knowledge and Attitudes to Use of Mesh in Gynaecological Surgery@highlight
+
+This is a questionnaire study that is being performed to ascertain the knowledge and attitudes of women towards use of mesh in gynaecological surgery.
+
+ Women over the age of 18, able to read and comprehend the information leaflet, sign and give informed consent will be eligible to participate.
+
+ Women who are not fluent in English will be able to participate if a translator can convey the information.
+
+ The trial will be conducted at Epsom and St Helier Hospitals, in the United Kingdom.
+
+ The investigators aim to recruit 150 women to this study.
+
+ No power calculation has been performed as this is an exploratory study.
+
+ However, previous studies have included 64 and 77 women respectively.
+

@@ -1,0 +1,14 @@
+(secondQuint)Rehabilitation After Rotator Cuff Repair.
+
+ A new postoperative regimen , with a new bandage technique with shorter immobilization time and without shoulder lock, is supposed to results in a better shoulder function 6 and 12 months after surgery.
+
+ Function is measured by Constant score, pain with VAS and quality of life with EQ5D, 3 and 12 months after surgery.
+
+ The two treatment groups are compared.
+
+.
+
+ Rehabilitation After Rotator Cuff Repair@highlight
+
+A new postoperative regimen with a new bandage technique after surgery results in a better shoulder function and quality of life after surgery - than traditional postoperative regimen with shoulder lock and abductor cushion.
+

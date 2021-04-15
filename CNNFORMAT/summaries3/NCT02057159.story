@@ -1,0 +1,25 @@
+(secondQuint)A Study of NeuroVax, a Therapeutic TCR Peptide Vaccine for SPMS of Multiple Sclerosis.
+
+ Objectives:The primary objective is to compare between treatment groups the cumulative number of new gadolinium enhancing (Gd+) lesions on brain MRI at weeks 24, 32, 40 and 48 i n subjects with secondary progressive MS.
+
+ Secondary objectives include additional MRI measurements, analyses of clinical relapses, measures of neurologic disability, immunologic evaluations, and safety.
+
+ Study Design: Multi-center, randomized , double-blind, placebo-controlled , two arm parallel design study of NeuroVax cent vs.
+
+ Incomplete Freund's Adjuvant ( I F A) placebo.
+
+ Subject Population: 200 subjects with Secondary Progressive SPMS MS, with an EDSS score >= 3.
+
+5 , and meeting all inclusion/exclusion criteria, will be enroll in this study.
+
+ Subjects will be randomized equally to NeuroVax cent or I F A ,1 0 0 per arm .
+
+.
+
+ A Study of NeuroVax, a Therapeutic TCR Peptide Vaccine for SPMS of Multiple Sclerosis@highlight
+
+Multi-center, randomized , double-blind, placebo-controlled , two arm parallel design study of NeuroVax cent vs.
+
+ Incomplete Freund's Adjuvant ( I F A) placebo.
+
+ 200 subjects with Secondary Progressive SPMS

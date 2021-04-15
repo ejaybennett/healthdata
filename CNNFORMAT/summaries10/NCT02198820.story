@@ -1,0 +1,16 @@
+(secondQuint)Practice Survey on Femoral Neck Fractures and the Incidence of Type of Anesthesia on Patient Outcome.
+
+ Inclusion of all patients with femoral neck fracture presenting in Saint-Luc Bouge Hospital between October 1th 2014 and September 30th 2015.
+
+ Comparison of severity scores of these patients and the scale of Nottingham on immediate (day 1 and day 2) and late (1 month) outcome.
+
+ This comparison includes preoperative parameters (hemoglobin, creatinine, mini-mental test) and intraoperative parameters (such as type of anesthesia).
+
+.
+
+ Practice Survey on Femoral Neck Fractures and the Incidence of Type of Anesthesia on Patient Outcome@highlight
+
+Inclusion of all patients with femoral neck fracture presenting in Saint-Luc Bouge Hospital between October 1th 2014 and September 30th 2015.
+
+ Comparison of severity scores of these patients and the scale of Nottingham on immediate (day 1 and day 2) and late (1 month) outcome.
+

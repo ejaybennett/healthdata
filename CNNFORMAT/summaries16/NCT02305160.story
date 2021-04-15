@@ -1,0 +1,20 @@
+(secondQuint)A Multicenter, Randomized, Open Label Trial of a New Animal Extracted Surfactant to Treat RDS in Preterm Infants.
+
+ Exogenous surfactant replacement therapy has been one of the major advances in the treatment of premature infants with respiratory distress syndrome (RDS).
+
+ It has decreased the mortality among premature infants with RDS, determining changes in the children mortality rates among the developed countries.
+
+ High cost, however, has been a major handicap for its wide use in developing and underdeveloped countries.
+
+ Based on that, Butantan Institute (Sao Paulo, Brazil) has developed a new porcine pulmonary surfactant preparation at lower production cost.
+
+ Initial animal studies showed similar improvement in lung mechanics and histopathologic findings to those observed with commercially available preparations.
+
+ Comparison(s): The new surfactant developed and produced by Butantan Institute will be compared to the commercially available pulmonary surfactants in Brazil, regarding to the efficiency to maintain a good arterial oxygenation, low airway pressures after treatment, similar mortality rates, and similar rates of complications like bronchopulmonary dysplasia and pulmonary hemorrhage.
+
+.
+
+ A Multicenter, Randomized, Open Label Trial of a New Animal Extracted Surfactant to Treat RDS in Preterm Infants@highlight
+
+The purpose of this study is to determine the efficacy and safety of the new pulmonary surfactant produced by Butantan Institute among premature infants with gestational age below 34 weeks with RDS, comparing to the pulmonary surfactants commercially available in Brazil.
+

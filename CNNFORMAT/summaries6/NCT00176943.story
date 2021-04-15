@@ -1,0 +1,18 @@
+(thirdQuint)Characteristics of T Cells From Alopecia Areata Scalp Skin Before and After Treatment With Aldara 5%.
+
+ We will examine how the application of Aldara Cream 5% daily for 6 months will affect the hair follicle and the inflammation present in the skin of patients with alopecia areata.
+
+ In the study we will obtain additional scalp biopsies to examine how the drug affects the quality and state of activity of the immune cells in the biopsy specimens.
+
+ This type of information will provide data about the behavior of these inflammatory cells in mediating the hair loss associated with alopecia areata and how this behavior may be effected by Aldara Cream 5% treatment.
+
+ Such information may be valuable to the successful management of alopecia areata.
+
+.
+
+ Characteristics of T Cells From Alopecia Areata Scalp Skin Before and After Treatment With Aldara 5%@highlight
+
+It is thought that alopecia areata occurs as the result of an inappropriate response of the body's own immune system to certain substances in or around the hair follicle.
+
+ We will be examining the efficacy of Aldara Cream 5% in treating extensive alopecia areata and observe its affect on the hair follicle.
+

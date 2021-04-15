@@ -1,0 +1,20 @@
+(firstQuint)Guanfacine Treatment for Prefrontal Cognitive Dysfunction in Elderly Subjects.
+
+ Primary: - To determine whether low does of the 2A-adrenoceptor agonist guanfacine can improve deficits in prefrontally-mediated working memory and executive control functions, in healthy elderly subjects.
+
+ Subjects will be randomly assigned to receive placebo or guanfacine at one of two dose levels: 0.
+
+1 mg, or 0.
+
+5 mg daily at bedtime in double-blind fashion for twelve weeks.
+
+ Secondary: - To determine whether guanfacine can favorably influence global status and quality of life (QOL) in healthy elderly subjects.
+
+ - To determine whether low-dose guanfacine is safe and well-tolerated in healthy elderly subjects.
+
+.
+
+ Guanfacine Treatment for Prefrontal Cognitive Dysfunction in Elderly Subjects@highlight
+
+This proposal aims to determine whether low does of the alpha-2A-adrenoceptor agonist guanfacine can improve deficits in prefrontally-mediated cognitive functions in healthy elderly subjects.
+

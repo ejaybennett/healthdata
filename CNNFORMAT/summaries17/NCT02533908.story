@@ -1,0 +1,18 @@
+(secondQuint)Combination of Nitrous Oxide 70% With Fentanyl Intranasal for Procedural Analgosedation in Children.
+
+ Nitrous oxide 70% (N20 70%) combined with 30% oxygen meets many criteria of an ideal pain medication for procedural analgosedation in children.
+
+ At the emergency department of the Children's Hospital of Zurich, Switzerland, N20 70% is regularly used for short and painful orthopaedic procedures, mostly for reduction of dislocated forearm or finger fractures.
+
+ The analgesic efficacy of N20 70% still remains controversial.
+
+ Therefore, all children who are eligible for N20 70% receive additionally either fentanyl or placebo intranasal and then their behavior, level of sedation and adverse events are measured during the painful procedure.
+
+ The hypothesis is that a combination of N20 70% and fentanyl intranasal is not significant better than N20 70% combined with basic analgetics.
+
+.
+
+ Combination of Nitrous Oxide 70% With Fentanyl Intranasal for Procedural Analgosedation in Children@highlight
+
+This study analyzes the analgesic efficacy and adverse events of nitrous oxide 70% combined with basic analgetics compared to nitrous oxide 70% with fentanyl intranasal for analgosedation for short and painful procedures in children.
+

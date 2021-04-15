@@ -1,0 +1,16 @@
+(firstQuint)Comparison of Uterine Repair Methods for Cesarean Delivery.
+
+ Two well-known uterine repair techniques are described; the uterus can be repaired in situ within the peritoneal cavity (intraabdominal) or exteriorized temporarily from the abdomen for the closure of the hysterotomy incision (extraabdominal).
+
+ 3 meta-analysis on the topic were unable to demonstrate the superiority of one technique regarding maternal morbidities.
+
+ However, there is a paucity of studies with a standardized anesthetic protocol evaluating these outcomes.
+
+ This study will evaluate the impact of the uterine repair technique on different maternal morbidities; focusing on intra-operative nausea and vomiting under a standardized anesthetic protocol.
+
+.
+
+ Comparison of Uterine Repair Methods for Cesarean Delivery@highlight
+
+This study is designed to compare the exteriorization of the uterus versus the in situ repair for closure of the hysterotomy incision with a completely standardized anesthetic protocol.
+

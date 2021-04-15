@@ -1,0 +1,22 @@
+(thirdQuint)Modification of Rhythmic Risk Assessment by Ventricular Tachycardia Ablation.
+
+ Sudden cardiac death is a frequent cause of cardiovascular mortality.
+
+ Numerous rhythmic risk assessment criterion have been described targeting the substratum, the cardiac nervous tone or the trigger of arrhythmias.
+
+ Development of ventricular tachycardia ablation in the past few years show interesting results preventing the recurrence of ventricular arrhythmias.
+
+ Rhythmic risk assessment criterions have never been studied in relation with ventricular tachycardia ablation.
+
+ The purpose of this study is to explore the modifications of these criterions after ventricular tachycardia ablation.
+
+.
+
+ Modification of Rhythmic Risk Assessment by Ventricular Tachycardia Ablation@highlight
+
+Sudden cardiac death is a frequent cause of cardiovascular mortality.
+
+ Numerous rhythmic risk assessment criterion have been described targeting the substratum, the cardiac nervous tone or the trigger of arrhythmias.
+
+ Development of ventricular tachycardia ablation in the past few years show interesting results preventing the recurrence of ventricular arrhythmias.
+

@@ -1,0 +1,20 @@
+(secondQuint)Hyperglycemia in Surgical Infections.
+
+ This is a multi-center explanatory trial of strict glycemic control for surgical patients with necrotizing soft tissue infection (NSTI).
+
+ The primary objective of this study is to verify feasibility of the intervention, provide unbiased and evidence-based estimates of treatment effects, and obtain data needed to design and direct a larger multi-center trial if necessary.
+
+ The multi-center trial (n >100) will have adequate power to identify a 30% difference in favorable outcome defined as discharge alive from the hospital without an amputation in less than the median number of hospital days.
+
+ Secondary objectives include evaluation of specific hypotheses relating the intervention to cytokine and neutrophil responses.
+
+ These preliminary data will provide the basis for future research and grant applications, lend insight into the mechanisms by which hyperglycemia results in adverse effects, and improve outcome through the development of evidence-based therapeutic strategies for patient care.
+
+.
+
+ Hyperglycemia in Surgical Infections@highlight
+
+The primary purpose of this study is to evaluate two glycemic control regimens on clinical outcome in patients with necrotizing soft tissue infections.
+
+ Secondary aim is to evaluate the inflammatory and immune responses to the glycemic control regimens.
+

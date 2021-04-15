@@ -1,0 +1,17 @@
+(thirdQuint)Gastric Bypass and Peripheral Activity of the Endocannabinoid System.
+
+ Dysregulation of the endocannabinoid system has been associated with the development of obesity, metabolic and cardiovascular disorders in both animals and humans.
+
+ Obese patients, especially those with abdominal obesity, have significantly higher levels of endocannabinoids.
+
+ No influence of moderate (5%) body weight loss (induced either by diet intervention or sibutramine) on the peripheral activity of the endocannabinoid system gastric bypass (GB) surgery is the most efficient treatment of obesity Hormonal pathways may participate to the weight reducing effect of the procedure.
+
+The endocannabinoid system is present in the gastrointestinal tract.
+
+ In animals, sustained weight loss after GB is characterized by reduction of endocannabinoids levels.
+
+ The endocannabinoid levels will be studied (baseline and after stimulation) in: - Normal-weight subjects - Obese subjects before and after gastric bypass surgery - Obese subjects before and after a lifestyle intervention.
+
+ Gastric Bypass and Peripheral Activity of the Endocannabinoid System@highlight
+
+The aim of the study is to precise the effect of a large amount of weight loss induced by gastric bypass on the endocannabinoid system (plasma and adipose tissue) of morbidly obese patients and to determine the influence of a gastric bypass surgery compared to a lifestyle intervention with equivalent weight loss on the endocannabinoid system

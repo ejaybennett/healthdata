@@ -1,0 +1,16 @@
+(firstQuint)Study Adding Multikinase Inhibitor Sorafenib to Existing Endocrine Therapy in Patients With Advanced Breast Cancer.
+
+ A pilot Phase II study adding sorafenib to endocrine therapy in 11 patients with metastatic estrogen receptor-positive breast cancer was conducted.
+
+ Primary end point was response by Response Evaluation Criteria in Solid Tumors (RECIST) after 3 months of sorafenib.
+
+ Secondary end points included safety, time to progression and biomarker modulation.
+
+ The study closed early owing to slow accrual.
+
+.
+
+ Study Adding Multikinase Inhibitor Sorafenib to Existing Endocrine Therapy in Patients With Advanced Breast Cancer@highlight
+
+The purpose of this study is to determine the clinical response rate to sorafenib when added to existing endocrine therapy in patients with advanced breast cancer.
+

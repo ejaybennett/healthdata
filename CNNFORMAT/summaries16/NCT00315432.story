@@ -1,0 +1,30 @@
+(secondQuint)NATURAL HISTORY-Hepatitis C Virus/ Human Immunodeficiency Virus Coinfection.
+
+ Patients receiving combination therapy for chronic hepatitis C virus (HCV) infection (standard or pegylated interferon alfa [PEG-IFN] in combination with ribavirin [RBV]) frequently develop moderate to severe anemia.
+
+ In large, prospective, clinical trials of PEG-IFN alfa-2b and PEG-IFN alfa-2a, the reported mean decreases in hemoglobin (Hb) were 2.
+
+5 g/dL, and 3.
+
+7 g/dL, respectively.
+
+ Furthermore, in a retrospective study, 54% of standard interferon/RBV-treated patients had hemoglobin decreases of at least 3 g/dL.
+
+ It is important to understand the causes, natural history, and risk factors associated with HCV therapy-induced anemia, because such decreases in hemoglobin can result in RBV dose reduction or discontinuation, which may decrease the likelihood of a virologic response by patient.
+
+ Erythropoietin is an endogenous hormone that acts in the bone marrow to increase the number of erythroid progenitor cells (red blood cells).
+
+ Normally, a decrease in the hemoglobin level is accompanied by an increase in the serum erythropoietin (sEPO) level, which will ultimately normalize the Hemoglobin level.
+
+ The relationship between hemoglobin and serum erythropoietin is less apparent in patients with chronic diseases such as cancer and human immunodeficiency virus (HIV) infection.
+
+ It is not known whether HCV/HIV co-infected patients receiving combination PEG-IFN/RBV therapy have a similarly diminished erythropoietic response to anemia.
+
+ The objective of this study is to document the pattern of hemoglobin changes and erythropoietic response (from baseline to final assessment) in HCV/HIV co-infected patients receiving combination therapy with IFN / RBV.
+
+ N/A.
+
+ NATURAL HISTORY-Hepatitis C Virus/ Human Immunodeficiency Virus Coinfection@highlight
+
+The purpose of this study was to describe the time course and extent of hemoglobin (Hb) changes and the erythropoietic response to PEG-IFN/RBV (Pegylated Interferon and Ribavirin)-induced anemia In HCV(hepatitis C virus)/HIV (human immunodeficiency virus) co-Infected subjects.
+

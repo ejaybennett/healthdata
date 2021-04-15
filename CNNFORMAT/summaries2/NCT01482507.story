@@ -1,0 +1,14 @@
+(firstQuint)Examination of the Effectiveness of Diffusion Weighted Magnetic Resonance Imaging for Identifying Poor Prognosis in Patients With Rheumatoid Arthritis.
+
+ Assess DWI MRI in patients with early Rheumatoid Arthritis to determine whether the MRI method will assist in differentiating poor prognosis bone oedema more effectively than traditional T2 weighted MRI.
+
+ Aim 1: To compare DWI MRI with T2 weighted MRI for the discrimination of different types of bone oedema lesions in patients with early RA.
+
+ Aim 2: To examine the association between the presence of different types of bone oedema lesions detected on DWI MRI and T2 weighted MRI and the development of subsequent joint bone erosion as detected on i) MRI and ii) standard plain radiographs.
+
+.
+
+ Examination of the Effectiveness of Diffusion Weighted Magnetic Resonance Imaging for Identifying Poor Prognosis in Patients With Rheumatoid Arthritis@highlight
+
+Diffusion Weighted Imaging (DWI) MRI will assist in differentiating poor prognosis bone oedema more effectively than traditional T2 weighted MRI in patients with early Rheumatoid Arthritis (RA).
+

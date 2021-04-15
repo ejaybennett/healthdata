@@ -1,0 +1,22 @@
+(thirdQuint)DTI & Tractography in Pediatric Tumor Surgery.
+
+ Brain tumours are the most common form of solid tumours in children which often arise from the cerebellum.
+
+ Treatment involves a complete resection of the tumour.
+
+ Although surgical resection may eliminate most of the malignancy, signs of post-neurologic deficit may present as a consequence to the treatment.
+
+ One such example is cerebellar mutism syndrome (CMS), a postoperative syndrome typically arising 1 to 2 days after resection of a midline posterior fossa tumor; it consists of diminished speech progressing to mutism, emotional lability, hypotonia, and ataxia.
+
+ While some of the symptoms recover after a few months, neuropsychological testing shows long term deficits in language (agramatism), executive function and verbal memory.
+
+ This study aims to investigate whether the use of Synaptive Medical's BrightMatter cent technology can help neurosurgeons better visualize and plan surgeries by avoiding eloquent fiber tracts in the brain and cerebellum; thus minimizing damage pertaining to neurologic and motor functionality.
+
+ The use of these products will also be assessed for improved clinical outcomes in pediatric tumor surgery.
+
+.
+
+ DTI & Tractography in Pediatric Tumor Surgery@highlight
+
+The goal of this project will be to demonstrate that Synaptive Medical's Diffusion Tensor Imaging(DTI) product functionality used in pre-operative planning and intraoperative surgical navigation, improves clinical outcomes corresponding to a reduction in neurological and neuropsychological deficits in pediatric brain tumor surgery.
+

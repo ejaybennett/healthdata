@@ -1,0 +1,32 @@
+(thirdQuint)Premature Infants Receiving Milking or Delayed Cord Clamping: PREMOD2.
+
+ Aim 1.
+
+ Compare the incidence of severe intraventricular hemorrhage (IVH) and/or death in premature newborns <32 weeks gestational age (GA) delivered by C/S receiving UCM to those receiving DCC.
+
+ Hypothesis1: First demonstrate infants in the UCM group are not inferior to the DCC group (reject H10).
+
+ Hypothesis2: If H1 is true, demonstrate lower incidence of severe IVH and/or death in UCM infants compared to DCC.
+
+ Aim 2.
+
+ Compare the safety and efficacy profiles of premature newborns <32 weeks GA delivered by C/S receiving UCM vs.
+
+ DCC during their hospitalization.
+
+ Hypothesis3: UCM group will have a decreased need for resuscitation interventions with no differences in bilirubin or polycythemia compared to DCC.
+
+ Hypothesis4: UCM group will have improved blood pressures in the first 24 hours of life compared to DCC.
+
+ Aim 3 (exploratory).
+
+ To compare the outcomes of premature newborns <32 weeks GA delivered by C/S (Cesarean section) (from Aims 1 and 2) with those born by V/D (vaginal delivery) receiving UCM or DCC.
+
+.
+
+ Premature Infants Receiving Milking or Delayed Cord Clamping: PREMOD2@highlight
+
+This study is being done to find out whether umbilical cord milking (UCM) is at least as good as or better than delayed cord clamping (DCC) to reduce bleeding in the brain or prevent death in premature newborns.
+
+ The investigators will study short and long term outcomes of infants delivered before 32 weeks gestation that receive either UCM or DCC.
+

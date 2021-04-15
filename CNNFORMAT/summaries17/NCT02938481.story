@@ -1,0 +1,16 @@
+(secondQuint)International Prospective Observational Cohort Study for Optimal Bowel Resection Extent and Central Radicality for Colon Cancer.
+
+ In colon canser, the incidence of metastasis in the pericolic lymph nodes (LNs) located along the bowel and marginal artery is high.
+
+ The optimal extent of bowel resection is closely associated with how we define 'regional' pericolic LNs, which should be resected because of the risk of metastasis.
+
+ However, there are no standardised criteria for 'regional' LNs in the pericolic area.
+
+ To establish a consensus for the extent of bowel resection and appropriate central LN dissection, international prospective stdies focusing on the distribution of metastatic LNs along the bowel and the primary feeding artery are conducted.
+
+.
+
+ International Prospective Observational Cohort Study for Optimal Bowel Resection Extent and Central Radicality for Colon Cancer@highlight
+
+The T-REX study aims to clarify the actual status of metastatic lymph node (LN) distribution in colon cancer and provide reliable evidence regarding the optimal length of bowel resection and the extent of central lymph node dissection in colon cancer surgery.
+

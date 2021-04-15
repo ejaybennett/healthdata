@@ -1,0 +1,20 @@
+(thirdQuint)Application of Digital Techniques in Intraoral Condylectomy Via Coronoid Process Resection.
+
+ In this study we will use the digital techniques such as pre-surgical visual treatment planning, real time surgical navigation system, endoscope techniques, to do the intraoral condylectomy via coronoid process resection.
+
+ After the condyle lesion resection, the coronoid process will be reimplanted and fixed by stainless steel wire.
+
+ By using these techniques we can safely and precisely cut proper size and position of the condyle lesion as we pre-surgically designed, and at the same time greatly maintain the temporomandibular joint anatomy structure.
+
+ Since we don't need to do the mandible vertical ramus osteotomy, and no conventional extraoral incision will be needed, the surgical injury will be minimized and the TMJ function will recover soon postoperatively.
+
+ Additionally, the intraoral approach can avoid the risk of facial nerve injury, salivary fistula and skin scar, so it has better aesthetic results than the preauricular approach and the submandibular approach.
+
+.
+
+ Application of Digital Techniques in Intraoral Condylectomy Via Coronoid Process Resection@highlight
+
+This study will apply the digital techniques to do the condylectomy through an intraoral approach without needing to do the intraoral vertical ramus osteotomy (IVRO).
+
+ This new surgical technique will greatly maintain the TMJ anatomy structure, reduce the risk and increase the precision of the operation procedure.
+

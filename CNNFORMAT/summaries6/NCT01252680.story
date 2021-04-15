@@ -1,0 +1,20 @@
+(secondQuint)Immunogenicity and Interchangeability of Two Inactivated Hepatitis A Vaccines.
+
+ This was a monocenter, comparative trial in which healthy children were randomized to receive two doses of hepatitis A vaccine 6 months apart.
+
+ The trial was conducted in accordance with the Edinburgh version of the Declaration of Helsinki.
+
+ The study was approved by the Ethics Committee.
+
+ Parents or legal guardians of all participants gave written informed consent prior to study entry.
+
+ Eligible subjects were between 18m and 6 years of age, When enrolled, children were randomized to four equal groups with different intervention.
+
+ Immunogenicity and interchangeability of two inactivated hepatitis A vaccines were evaluated.
+
+.
+
+ Immunogenicity and Interchangeability of Two Inactivated Hepatitis A Vaccines@highlight
+
+This is a randomized, double-blind clinical trial of two inactivated hepatitis A vaccines in healthy children, immunogenicity and interchangeability of the two inactivated hepatitis A vaccines were evaluated.
+

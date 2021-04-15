@@ -1,0 +1,48 @@
+(fifthQuint)To Evaluate Stereotactic Body Radiotherapy for Treatment of Primary Renal Cell Carcinoma Tumors.
+
+ There is a need for a non-invasive treatment modality in renal cell carcinoma (RCC) patients who are medically or technically inoperable or refuse surgery.
+
+ The primary tumor in patients with RCC is generally managed surgically or with a non-surgical ablative modality, but there is significant toxicity and invasiveness associated with current surgical and percutaneous treatment modalities.
+
+ Stereotactic radiotherapy was first developed to treat brain metastases and other intracranial tumors by giving a single high-dose treatment delivered with a precision of less than 1 mm.
+
+ This treatment requires immobilization of the tumor and precise imaging to guide the treatment.
+
+ The brain is particularly amenable to this approach since there is no internal brain motion, the skull is easily fixed in position, and excellent imaging is available.
+
+ Recent developments in immobilization and image guidance now permit precise tumor targeting of extracranial sites, such as the liver and lung.
+
+ Stereotactic radiotherapy used at extracranial sites is called stereotactic body radiotherapy (SBRT).
+
+ Because of the great precision of SBRT, a high dose per treatment is possible.
+
+ Early work evaluating SBRT in primary and metastatic liver and lung tumors has shown excellent results in tumor control and toxicity.
+
+ Based on this, we propose expanding the use of this technique to RCC.
+
+ In this study, the investigators seek to evaluate the safety and efficacy of SBRT for the treatment of the primary tumor in renal cell carcinoma (RCC).
+
+ One goal of this study is to establish the maximum tolerated dose (MTD) of renal SBRT by determining the dose-volume relationship and toxicity for the kidney when high dose per fraction SBRT is used.
+
+ In order to ensure proper immobilization and tumor localization, the investigators will use abdominal compression, 4D CT scanning at the time of simulation, and cone beam CT scanning at the time of treatment.
+
+ The investigators propose to perform Tc-99m glucoheptonate renal scans before and after SBRT to assess renal tissue at the periphery of the lesion, as well as baseline and follow-up serum chemistry evaluation, creatinine, complete blood count, urinalysis, and creatinine clearance.
+
+.
+
+ To Evaluate Stereotactic Body Radiotherapy for Treatment of Primary Renal Cell Carcinoma Tumors@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of the use of stereotactic body radiotherapy (SBRT) for the treatment of the primary tumor in renal cell carcinoma (RCC) in medically inoperable patients and/or patients who refuse surgery.
+
+ Standard treatment of RCC is surgery.
+
+ A number of non-surgical treatments of RCC are also available, but are highly invasive and are associated with significant side effects.
+
+ SBRT is a non-invasive, non-surgical treatment that requires tumor immobilization and image guidance in order to deliver a very precise, high-dose treatment.
+
+ This trial will assess the use of SBRT to treat primary renal tumors by determining the maximum tolerated dose and toxicity.
+
+ Subjects enrolled in this study will then be followed and evaluated for toxicity, serum chemistry, complete blood count, and urinalysis.
+
+ In addition, they will undergo renal scans to assess the functionality of their renal tissue.
+

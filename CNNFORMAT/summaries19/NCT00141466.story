@@ -1,0 +1,22 @@
+(secondQuint)Implementation of a New Strategy to Identify HNPCC Patients.
+
+ The Radboud University Nijmegen Medical Centre developed a new method to identify patients with HNPCC.
+
+ This method appeared cost-effective and feasible.
+
+ Using this new method 70% of the HNPCC patients will be identified as compared to less than 30% when the current method is used.
+
+ However, this new method does not implement itself; large gaps exists between best evidence and daily practice.
+
+ This study will compare an intensive strategy, consisting of distribution of educational materials, education, feedback and reminders, with a minimal strategy, only consisting of distribution of a critical care pathway.
+
+ The aim is to find the most cost-effective strategy to implement the new method to identify patients with HNPCC in the Netherlands.
+
+.
+
+ Implementation of a New Strategy to Identify HNPCC Patients@highlight
+
+The purpose of this study is to compare two different strategies to implement a new method to identify patients with HNPCC, which appeared cost-effective and feasible.
+
+ The effectiveness, costs and feasibility of both of the implementation strategies will be assessed.
+

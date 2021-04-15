@@ -1,0 +1,24 @@
+(firstQuint)Survey of Patients With Idiopathic Orbital Inflammation Syndrome.
+
+ Idiopathic orbital inflammatory syndrome (IOIS) is a heterogeneous group of disorders characterised by orbital inflammation without any identifiable local or systemic causes.
+
+ It is a rare clinical entity and a diagnosis of exclusion.
+
+ Lymphomas, thyroid eye diseases or systemic diseases can have similar presentation and so, a histopathological diagnosis is considered important.
+
+ IOIS is a difficult condition to treat.
+
+ Compilation of reported small series of patients with IOIS suggested that they require multiple systemic immunosuppressant drugs and radiotherapy.
+
+ Recently, a large monocentric study including patients with biopsy proven IOIS showed that up to 40% of them can relapse.
+
+ Their clinical and pathological features did not correlate with treatments outcomes.
+
+ The investigators decide therefore to conduct a multicentric retro/ prospective study to determine clinical features, histopathology and treatment outcomes of French patients with IOIS.
+
+.
+
+ Survey of Patients With Idiopathic Orbital Inflammation Syndrome@highlight
+
+The purpose of this study is to characterise the clinical features, histopathology and the treatment outcomes of patients with idiopathic orbital inflammation syndrome.
+

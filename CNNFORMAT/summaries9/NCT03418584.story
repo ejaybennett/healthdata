@@ -1,0 +1,14 @@
+(firstQuint)Application of hybridAPC in the Treatment of Barrett.
+
+ After thermal ablation of Barrett's esophagus, stricture formation is reported in 5 to over 10% of patients.
+
+ Submucosal fluid injection prior to ablation may lower the risk of stricture formation.
+
+ The new technique of HybridAPC which combines submucosal injection with APC is considered to reduce the complication.
+
+.
+
+ Application of hybridAPC in the Treatment of Barrett@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of the new technique of HybridAPC in the treatment of Barrett.
+

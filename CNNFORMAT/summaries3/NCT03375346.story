@@ -1,0 +1,20 @@
+(firstQuint)Effects of Whole-body Vibration Exercise on Stroke Patients.
+
+ Whole body vibration exercise can provide proper somatosensory stimulation and improve muscle strength and postural control in stroke patients.
+
+ However, there has not yet been a report on the cortical activity changes induced by whole body vibration exercise.
+
+ Patients will be randomly assigned to one of the two groups.
+
+ One group will go through whole body vibration with exercise and the other will only perform exercise.
+
+ The primary outcome measurement of this study was cerebral cortex activity based on changes in oxygenated hemoglobin concentration using functional near-infrared spectroscopy.
+
+ Behavioral assessments were performed before and after the intervention session using the 10-meter walk test, timed up and go test, Fugl-Meyer Assessment, and Tinetti Performance Oriented Mobility Assessment.
+
+.
+
+ Effects of Whole-body Vibration Exercise on Stroke Patients@highlight
+
+The purpose of this study is to investigate the effect of the whole body vibration exercise on cortical activity and gait function in patients with chronic stroke.
+

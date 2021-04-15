@@ -1,0 +1,24 @@
+(thirdQuint)The Copper T380A IUD vs.
+
+ Oral Levonorgestrel for Emergency Contraception.
+
+ All women presenting to 2 Planned Parenthood Association of Utah clinics in Salt Lake City will be offered participation in this study.
+
+ Women will select either the copper IUD or oral levonorgestrel for EC.
+
+ The primary outcome is unplanned pregnancy in the year following presentation for EC.
+
+ Secondary outcomes include use of an effective method of contraception over the next year, abortions, repeat use of EC, number of days to first bleeding episode and duration of that bleeding episode, use of a barrier method to prevent sexually transmitted infections, patient satisfaction with the chosen method of EC and contraception.
+
+ Participants selecting the IUD will be assessed for IUD expulsion, perforation, and removal.
+
+.
+
+ The Copper T380A IUD vs.
+
+ Oral Levonorgestrel for Emergency Contraception@highlight
+
+The purpose of this study is to see if women presenting for emergency contraception (EC) and choose the copper intrauterine device (IUD) will have fewer unplanned pregnancies in the next year compared to women who choose oral levonorgestrel for EC.
+
+ The study will also compare use of an effective method of contraception in the year after they received EC.
+

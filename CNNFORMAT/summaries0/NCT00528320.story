@@ -1,0 +1,18 @@
+(thirdQuint)Clinical Evaluation of Cardiac Resynchronization Therapy (CRT) Using the Ovatio CRT Implantable Cardioverter-defibrillator (ICD) System.
+
+ ICDs have been shown to increase life expectancy substantially over various drug regimens in patients with life threatening ventricular arrhythmias.
+
+ Furthermore, large scale studies of cardiac resynchronization therapy in ICD-indicated heart failure patients have demonstrated improvements in functional capacity and quality of life, without unacceptable increases in morbidity or mortality.
+
+ This study provides a continued access registry for cardiac resynchronization therapy with defibrillation (CRT-D), which helps to resynchronize (coordinate) the rhythm of the heart by helping the left ventricle contract (pump blood) more uniformly, in patients with severe heart failure (NYHA Class III or IV).
+
+ Quality of life, adverse events and device success will be analyzed and reported.
+
+.
+
+ Clinical Evaluation of Cardiac Resynchronization Therapy (CRT) Using the Ovatio CRT Implantable Cardioverter-defibrillator (ICD) System@highlight
+
+This study provides a continued access registry for cardiac resynchronization therapy with defibrillation (CRT-D), which helps to resynchronize (coordinate) the rhythm of the heart by helping the left ventricle contract (pump blood) more uniformly, in patients with severe heart failure (New York Heart Association [NYHA] Class III or IV).
+
+ Quality of life, adverse events and device success will be analyzed and reported.
+

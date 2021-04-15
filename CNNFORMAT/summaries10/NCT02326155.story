@@ -1,0 +1,11 @@
+(firstQuint)To Evaluate the Safety and Efficacy of Remsima in Patients With Crohn's Disease (CD) or Ulcerative Colitis (UC).
+
+ The primary objective of this study is to assess the safety of Remsima cent by evaluation of Events of Special Interest (ESI) in IBD patients, who have active Crohn's disease (CD), fistulizing Crohn's disease (CD), or Ulcerative Colitis (UC) for up to 5 years for each patient.
+
+ The secondary objectives of this study are to evaluate additional safety and efficacy of Remsima cent in IBD patients, who have active CD, fistulizing CD or UC.
+
+ Health-economic parameters will also be assessed.
+
+ To Evaluate the Safety and Efficacy of Remsima in Patients With Crohn's Disease (CD) or Ulcerative Colitis (UC)@highlight
+
+An observational, prospective cohort study to evaluate the safety and efficacy of Remsima cent in patients with Crohn's disease (CD) or Ulcerative Colitis (UC)

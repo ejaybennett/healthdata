@@ -1,0 +1,26 @@
+(thirdQuint)Combination Chemotherapy Plus Rituximab in Treating Patients With Recurrent or Refractory Non-Hodgkin's Lymphoma.
+
+ OBJECTIVES: - Determine the chemosensitivity rate in patients with recurrent or refractory non-Hodgkin's lymphoma treated with ifosfamide, carboplatin, and etoposide (ICE) in combination with rituximab.
+
+ - Determine whether the addition of rituximab changes the toxicity profile of the ICE chemotherapy regimen in these patients.
+
+ OUTLINE: Patients receive rituximab IV on days 1, 8, and 15 and ifosfamide IV over 1 hour, etoposide IV over 2 hours, and carboplatin IV on days 2-4.
+
+ Treatment continues every 21 days for 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ Patients who are not candidates for autologous stem cell transplantation may receive 1-4 more courses of chemotherapy without rituximab.
+
+ Patients are followed at 1 month.
+
+ PROJECTED ACCRUAL: A total of 19-39 patients will be accrued for this study within 2 years.
+
+.
+
+ Combination Chemotherapy Plus Rituximab in Treating Patients With Recurrent or Refractory Non-Hodgkin's Lymphoma@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.
+
+ Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells.
+
+ PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy combined with rituximab in treating patients who have recurrent or refractory non-Hodgkin's lymphoma.
+

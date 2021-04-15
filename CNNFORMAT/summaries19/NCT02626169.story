@@ -1,0 +1,34 @@
+(fifthQuint)The Effect of Ticagrelor on 15-Epi-Lipoxin A4 and Inflammation.
+
+ Clopidogrel, ticagrelor and prasugrel are routinely used for platelet inhibition in addition to aspirin in patients after acute coronary syndromes.
+
+ The platelet inhibition and patient outcomes (PLATO) trial showed that in patients with acute coronary syndromes, ticagrelor significantly reduced the primary endpoint (cardiovascular death, myocardial infarction or stroke), all-cause mortality and cardiovascular mortality compared to clopidogrel.
+
+ On the other hand, when compared with clopidogrel in patients with acute coronary syndromes with scheduled percutaneous coronary intervention, prasugrel therapy did not affect overall mortality despite the fact that it was associated with significantly reduced rates of ischemic events, including stent thrombosis, but with an increased risk of major bleeding, including fatal bleeding.
+
+ This may suggest that ticagrelor possesses additional (pleiotropic) effects besides platelet inhibition.
+
+ The investigators have recently shown that pioglitazone increases 15-epi-lipoxin A4 blood levels in patients.
+
+ The investigators have recently found that in the rat, ticagrelor increases tissue levels of 15-epi-lipoxin A4 in the heart, aorta and kidney.
+
+ It is plausible that some of the favorable effects of ticagrelor seen in the clinical studies are mediated via the anti-inflammatory effects of 15-epi-lipoxin A4.
+
+ 15-epi-lipoxin A4 is a potent anti-inflammatory and inflammation-resolving mediator derived from arachidonic acid.
+
+ Several studies have suggested that ticagrelor has anti-inflammatory properties in various animal models.
+
+ In the present study the investigators will assess if ticagrelor increases blood 15-epi-lipoxin A4 levels at doses used in patients.
+
+.
+
+ The Effect of Ticagrelor on 15-Epi-Lipoxin A4 and Inflammation@highlight
+
+Ticagrelor and clopidogrel are FDA-approved drugs for inhibition of platelet hyper-reactivity in certain clinical situations.
+
+ The platelet inhibition and patient outcomes (PLATO) trial showed that in patients with acute coronary syndromes, ticagrelor significantly reduced the primary endpoint (cardiovascular death, myocardial infarction or stroke), all-cause mortality and cardiovascular mortality compared to clopidogrel.
+
+ It has been suggested that in addition to its anti-platelet effects, ticagrelor has additional unique effects, including anti-inflammatory effects that are not shared by clopidogrel.
+
+ In the present study the investigators will assess whether ticagrelor, as compared to clopidogrel, increases serum levels of 15-epi-lipoxin A4, a potent endogenous anti-inflammatory mediator.
+

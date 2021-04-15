@@ -1,0 +1,18 @@
+(secondQuint)Study the Safety and Efficacy of Bone Marrow Derived Autologous Cells for the Treatment of Optic Nerve Disease.
+
+ Optic Nerve Diseases: Conditions which produce injury or dysfunction of the second cranial or optic nerve, which is generally considered a component of the central nervous system.
+
+ Damage to optic nerve fibres may occur at or near their origin in the retina, at the optic disk, or in the nerve, optic chiasm, optic tract, or lateral geniculate nuclei.
+
+ Clinical manifestations may include decreased visual acuity and contrast sensitivity, impaired color vision, and an afferent papillary defect.
+
+ primary out put of clinical study is to measures Improvement in visual loss and improvement in idiopathic intra cranial.
+
+This is a Single arm, Single centre trial to check the safety and efficacy of bone marrow derived autologous mono nuclear cell(100 millions per dose )clinical trial to be conducted for 36 months .
+
+.
+
+ Study the Safety and Efficacy of Bone Marrow Derived Autologous Cells for the Treatment of Optic Nerve Disease@highlight
+
+This is a Single arm, Single centre trial to check the safety and efficacy of bone marrow derived autologous mono nuclear cell(100 millions per dose )clinical trial to be conducted for 36 months in patients with optic nerve diseases.
+

@@ -1,0 +1,24 @@
+(secondQuint)An Open-Label, 2 Treatment Period,Study To Study The Drug Interaction Between Repeated Doses Of Itraconazole And Single Dose Pharmacokinetics (PK) Of PF-06648671 In Healthy Adults.
+
+.
+
+ Based on in vitro data, PF-06648671 was predominantly metabolized by CYP3A and therefore there is a potential risk that PF-06648671 PK will be affected by co-administered drugs that can inhibit CYP3A activity.
+
+ This is a clinical drug interaction study to evaluate this potential drug interaction in human.
+
+ In this study, healthy volunteers will take a single dose of 25 mg PF-06648671 in period 1 followed by at least 7 day washout.
+
+ In period 2, same subjects will take 200 mg itraconazole oral solution once a day for 3 days, followed by co-administration of 200 mg oral solution and a single dose of 25 mg PF-06648671 on day 4 which are dosed approximately one hour apart with itraconazole is given first.
+
+ The PF-06648671 PK will be collected 0-48 hours after dose in period 1 and 0-240 hrs in period 2.
+
+ Safety will also be monitored throughout both periods.
+
+.
+
+ An Open-Label, 2 Treatment Period,Study To Study The Drug Interaction Between Repeated Doses Of Itraconazole And Single Dose Pharmacokinetics (PK) Of PF-06648671 In Healthy Adults.
+
+@highlight
+
+This study is to evaluate the effect of multiple doses of itraconazole, the potent cytochrome P450 enzymes (CYP3A) inhibitor, on the pharmacokinetics of PF-06648671 following a single dose administration in healthy subject.
+

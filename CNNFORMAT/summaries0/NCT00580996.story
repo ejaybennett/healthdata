@@ -1,0 +1,20 @@
+(secondQuint)Water and the Gastropressor Response - Tachyphylaxis.
+
+ We are studying the effects of oral water ingestion in patients with orthostatic hypotension.
+
+ This has been termed the Gastropressor Response.
+
+ In this study, we are testing the null hypothesis that the blood pressure increase with oral water ingestion will not be diminished if a full prior water dose is given a few hours earlier.
+
+ In this 2 day study, subjects will be asked to drink with 1 oz or 16 oz of water in the morning followed a few hours later by 16 oz water while the blood pressure is monitored.
+
+ On the 2nd day, the other dose of water will be given to start, with 16 oz again as the second dose.
+
+.
+
+ Water and the Gastropressor Response - Tachyphylaxis@highlight
+
+We are studying the effects of oral water ingestion in patients with orthostatic hypotension.
+
+ In this study, we are testing the null hypothesis that the blood pressure increase with oral water ingestion will not be diminished if a full prior water dose is given a few hours earlier.
+

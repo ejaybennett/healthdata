@@ -1,0 +1,19 @@
+(firstQuint)Evaluation of Mirtazapine and Folic Acid for Schizophrenia:.
+
+ The combination of mirtazapine plus antipsychotic potentially offers considerable benefit for patients with schizophrenia.
+
+ Folic acid is a promising adjunctive therapy for schizophrenia that may also provide benefits for patients with other mental disorders.
+
+ Furthermore the effects of folic acid may be affected by genotype.
+
+ The trial will investigate the effects of adding mirtazapine and the effects of adding folic acid to treatments for schizophrenia.
+
+ At randomisation, patients will be separately randomised to mirtazapine or placebo and to folic acid or placebo.
+
+ Randomised, double-blind, placebo-controlled 2x2 factorial trial with 12-week follow-up.
+
+.
+
+ Evaluation of Mirtazapine and Folic Acid for Schizophrenia:@highlight
+
+Multicentre randomised double-blind, placebo-controlled 2x2 factorial trial investigating the effects of adding mirtazapine and folic acid to existing therapy for patients with schizophrenia

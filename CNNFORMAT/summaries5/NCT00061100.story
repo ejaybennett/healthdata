@@ -1,0 +1,12 @@
+(firstQuint)HIV Counseling Intervention for Methadone-Maintained Patients - 2.
+
+ The purpose of this proposal is to evaluate, in methadone-maintained patients the association between an ADHD diagnosis and high-risk HIV/Hepatitis behavior.
+
+ In addition, the investigators would like to determine whether a new manually-guided HIV intervention; RISE: Reduce high risk Intravenous drug use and unsafe Sexual Encounters is superior to standard HIV/Hepatitis psycho-education.
+
+.
+
+ HIV Counseling Intervention for Methadone-Maintained Patients - 2@highlight
+
+The purpose of this study is to evaluate HIV counseling intervention for Methadone-Maintained Patients.
+

@@ -1,0 +1,20 @@
+(secondQuint)Bioequivalence Study of Divalproex Sodium Capsules(Sprinkle),125 mg of Dr.
+
+ Reddy's Under Fasting Condition (Apple Sauce).
+
+ An open label, balanced, randomized, two-treatment, two-period, two-sequence, single dose, crossover, bioequivalence study of Divalproex Sodium Capsules (Sprinkle), 125 mg of Dr.
+
+Reddy's Laboratories Limited,comparing with that of Depakote(R) Sprinkle 125 mg capsules of Abbott Laboratories, USA in healthy, adult, human subjects under fasting conditions with an adequate washout period of 10 days.
+
+ The subjects were given a single oral dose of medication (test study or reference medication) .
+
+ The capsule was opened and all the contents were sprinkled over a spoonful of applesauce without a spillage and administered to the subjects.
+
+.
+
+ Bioequivalence Study of Divalproex Sodium Capsules(Sprinkle),125 mg of Dr.
+
+ Reddy's Under Fasting Condition (Apple Sauce)@highlight
+
+An open label, balanced, randomized, two-treatment, two-period, two-sequence, single dose, crossover, bioequivalence study of Divalproex Sodium coated particles in capsules 125 mg with Depakote(R) Sprinkle125 mg capsules in healthy, adult, human subjects under fasting conditions.
+

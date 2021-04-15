@@ -1,0 +1,20 @@
+(firstQuint)Safety Study of Farletuzumab, Carboplatin and Pegylated Liposomal Doxorubicin (PLD) to Treat Platinum-sensitive Ovarian Cancer.
+
+ Farletuzumab (MORAb-003) is a monoclonal antibody that has the potential to be an effective agent against epithelial ovarian cancer (including primary fallopian tube and peritoneal adenocarcinoma) in combination with other drugs.
+
+ Farletuzumab works by a different mechanism from other cancer therapeutics and has been shown to be well tolerated.
+
+ This study allows the opportunity to determine if the combination therapy of farletuzumab, carboplatin, and PLD 1.
+
+ is safe, or 2.
+
+ to assess the potential drug-drug interaction, and 3.
+
+ to prolong response to chemotherapy.
+
+.
+
+ Safety Study of Farletuzumab, Carboplatin and Pegylated Liposomal Doxorubicin (PLD) to Treat Platinum-sensitive Ovarian Cancer@highlight
+
+The purpose of this study is to evaluate whether combination therapy with farletuzumab (MORAb-003), carboplatin, and pegylated liposomal doxorubicin (PLD) is safe.
+

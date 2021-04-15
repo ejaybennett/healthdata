@@ -1,0 +1,12 @@
+(secondQuint)Early Goal Directed Sedation on Microcirculation in Septic Shock.
+
+ Recent studies suggest that early goal directed sedation might improve the outcome of critically ill patients.
+
+ The investigators will conduct a prospective, single-center, randomized, double-blinded, controlled study to investigate the effect of early goal directed sedation on microcirculation in early septic shock patients with relative stable hemodynamics.
+
+.
+
+ Early Goal Directed Sedation on Microcirculation in Septic Shock@highlight
+
+The investigators will conduct a prospective, single-center, randomized, double-blinded, controlled study to investigate the effect of early goal directed sedation on microcirculation in early septic shock patients.
+

@@ -1,0 +1,16 @@
+(firstQuint)Ethyl Eicosapentanoic Acid (Ethyl-EPA) for Treating Major Depression.
+
+ Evidence suggests that omega-3 fatty acids may help reduce symptoms of depression.
+
+ This study will determine whether ethyl-EPA, an omega-3 fatty acid, can be used safely and effectively to treat major depression.
+
+ Participants will be randomly assigned to receive either ethyl EPA-containing pills or placebo daily for 8 weeks.
+
+ Each week, participants will be asked to complete questionnaires which will be used to assess the severity of their depression.
+
+.
+
+ Ethyl Eicosapentanoic Acid (Ethyl-EPA) for Treating Major Depression@highlight
+
+The purpose of this study is to examine the effectiveness of ethyl-eicosapentanoic acid (ethyl-EPA), an omega-3 fatty acid, in treating depression.
+

@@ -1,0 +1,14 @@
+(firstQuint)Effect of Music Therapy on Infants With Neonatal Abstinence Syndrome.
+
+ The purpose of this exploratory pilot study is to learn what, if any, effects live music therapy interventions have on the pacification, stabilization, and development of infants diagnosed with Neonatal Abstinence Syndrome (NAS).
+
+ Neonatal Abstinence Syndrome is a group of problems that occur in a newborn who has been exposed to illegal or prescription opiates while in the mother's womb.
+
+ Participants will receive 6 music therapy sessions over a 14-day period based on a randomized treatment schedule of 6 different interventions.
+
+.
+
+ Effect of Music Therapy on Infants With Neonatal Abstinence Syndrome@highlight
+
+This study examines the effects of 6 different music therapy interventions on outcomes for neonates diagnosed with Neonatal Abstinence Syndrome.
+

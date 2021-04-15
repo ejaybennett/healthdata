@@ -1,0 +1,16 @@
+(firstQuint)Endoscopic Lung Volume Reduction in Patients With Advanced Emphysema Due to alpha1 Antitrypsin Deficiency.
+
+ Patient enrollment and data acquisition is to be carried out on a prospective basis.
+
+ It is planned to enroll a total of 25 patients with advanced heterogeneous emphysema due to alpha1 antitrypsin deficiency.
+
+ All patients will undergo treatment at one study centre in Heidelberg.
+
+ Therapy of all patients consists of implantation of intrabronchial valves (IBV, Spiration, Olympus) in the most emphysematous destroyed lobe.
+
+.
+
+ Endoscopic Lung Volume Reduction in Patients With Advanced Emphysema Due to alpha1 Antitrypsin Deficiency@highlight
+
+Patients with advanced heterogeneous emphysema due to alpha1 antitrypsin deficiency might benefit from endoscopic implantation of intrabronchial valves.
+

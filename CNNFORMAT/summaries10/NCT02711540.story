@@ -1,0 +1,26 @@
+(thirdQuint)Retrospective Analysis of Procedural Aspects of Transcatheter Aortic Valve Implantation (TAVI) on Peri-procedural Stroke.
+
+ Retrospective analysis of all patients receiving TAVI in the UK.
+
+ Stroke rates following TAVI are roughly 3%.
+
+ There are several device and procedure related characteristics which may increase the risk of stroke.
+
+ We will examine if there is a signal in the UK registry.
+
+ This will be important is TAVI is to be extended down to lower risk patient cohorts.
+
+ Factors to be examined include (but not limited to): need for Pre-procedure Balloon aortic Valvuloplasty (BAV) Need for two valves need for post-dilatation need for rapid ventricular burst pacing.
+
+ Retrospective Analysis of Procedural Aspects of Transcatheter Aortic Valve Implantation (TAVI) on Peri-procedural Stroke@highlight
+
+Retrospective analysis of all patients receiving TAVI in the United Kingdom (UK).
+
+ Stroke rates following TAVI are roughly 3%.
+
+ There are several device and procedure related characteristics which may increase the risk of stroke.
+
+ We will examine if there is a signal in the UK registry.
+
+ This will be important is TAVI is to be extended down to lower risk patient cohorts.
+

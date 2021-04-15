@@ -1,0 +1,22 @@
+(secondQuint)Whole-Body MRA at 3T - A Comparison Between Two Different Scan Protocols.
+
+ Patients suffering peripheral arterial disease must undergo imaging procedures before endovascular or surgical procedures.
+
+ WB-MRA is an imaging procedure that can visualise the arterial system.
+
+ WB-MRA can be performed in different manners.
+
+ On option is to start the scan in the head region and continue down the body to the feet (standard protocol).
+
+ Another option is to use a hybrid protocol that first examines the head and lower leg followed by examination of the pelvic and upper leg region.
+
+ A comparison between the standard and hybrid protocols has not been performed in a 3T high magnetic field system, therefore we will perform such a study.
+
+.
+
+ Whole-Body MRA at 3T - A Comparison Between Two Different Scan Protocols@highlight
+
+To compare to different approaches in whole-body magnetic resonance angiography of patients suffering peripheral arterial disease.
+
+ Our hypothesis is that use of a new protocol improves the diagnostic quality of the WB-MRA procedure.
+

@@ -1,0 +1,28 @@
+(fifthQuint)The Influence of Antiphospholipid Antibodies on the Relationship Between Hyperurecemia, Gout and Metabolic Syndrome.
+
+ Patients with hyperuricemia were confirmed to have higher risks of cardiovascular disease, but the exact mechanism remained to be elucidated.
+
+ Many connective tissue diseases such as rheumatoid arthritis are often associated with antiphospholipid antibodies-associated endothelial impairment.
+
+ In the present study, we'll analyze the presence of antiphospholipid antibodies in the serum of the patients with gout/ asymptomatic hyperuricemia, with a comparison to the patients of osteoarthritis but without hyperuricemia and gout.
+
+ We expect to find a correlation between these pathogenic antibody and those cardiovascular co-morbidities.
+
+ Patient eligibility: 1.
+
+ Patients with gout 2.
+
+ Patients with asymptomatic hyperuricemia 3.
+
+ Patients of osteoarthritis but without hyperuricemia and gout Exclusion Criteria: Patients younger than 20 years old.
+
+ The Influence of Antiphospholipid Antibodies on the Relationship Between Hyperurecemia, Gout and Metabolic Syndrome@highlight
+
+Patients with hyperuricemia were confirmed to have higher risks of cardiovascular disease, but the exact mechanism remained to be elucidated.
+
+ Many connective tissue diseases such as rheumatoid arthritis are often associated with antiphospholipid antibodies-associated endothelial impairment.
+
+ In the present study, the investigators will analyze the presence of antiphospholipid antibodies in the serum of the patients with gout/asymptomatic hyperuricemia, with a comparison to the patients of osteoarthritis but without hyperuricemia and gout.
+
+ The investigators expect to find a correlation between these pathogenic antibody and those cardiovascular co-morbidities.
+

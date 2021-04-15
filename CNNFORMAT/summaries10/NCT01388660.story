@@ -1,0 +1,28 @@
+(thirdQuint)Pharmacokinetic Assessment of Simultaneous Administration of Clopidogrel and Aspirin.
+
+ Eligibility for participation of this study will be determined from demographic information, medical history, physical examination, electrocardiogram (ECG) and clinical laboratory tests within 4 weeks before study drug administration.
+
+ Subjects suitable for this study will be admitted to the Clinical Trial Center of Ajou Medical Center on the day before dosing, and they will overnight-fasted from 10 p.
+
+m.
+
+ of Day -1.
+
+ Subjects will be dosed study drug (a tablet containing 75 mg of Clopidogrel and 100 mg of Aspirin, or the simultaneous administration of the separate formulations of the two drugs) orally with 240 mL of water around 8 a.
+
+m.
+
+ of Day 1.
+
+ Subjects will be performed scheduled pharmacokinetic sampling upto 24 hours.
+
+ After 2 weeks of washout period, Subjects will be dosed study drug by crossover manner, and will be performed scheduled pharmacokinetic sampling upto 24 hours.
+
+ Study participation will be ended on post-study visit (Day 25).
+
+.
+
+ Pharmacokinetic Assessment of Simultaneous Administration of Clopidogrel and Aspirin@highlight
+
+This is a randomized, open-label, single-dose, two-sequence, two-period crossover study to investigate the pharmacokinetics between a tablet containing 75 mg of Clopidogrel and 100 mg of Aspirin and the simultaneous administration of the separate formulations of the two drugs in healthy male volunteers.
+

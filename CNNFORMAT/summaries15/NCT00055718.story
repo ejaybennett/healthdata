@@ -1,0 +1,30 @@
+(thirdQuint)Silymarin (Milk Thistle Extract) in Treating Patients With Acute Lymphoblastic Leukemia Who Are Receiving Chemotherapy.
+
+ OBJECTIVES: - Determine the effect of silymarin, in terms of liver function tests, in patients with acute lymphoblastic leukemia receiving hepatotoxic chemotherapy.
+
+ - Determine the effect of this drug on free and conjugated serum silibinin values in these patients.
+
+ - Determine the serum antioxidant capacity by Oxygen Radical Absorbance Capacity in patients treated with this drug.
+
+ - Determine the oxidative damage, as determined by 8-oxodeoxyguanosine adducts, in patients treated with this drug.
+
+ OUTLINE: This is a randomized, double-blind, placebo-controlled study.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients receive oral silymarin daily for 28 days.
+
+ - Arm II: Patients receive oral placebo as in arm I.
+
+ Patients are followed at day 56.
+
+ PROJECTED ACCRUAL: A total of 50 patients (25 per treatment arm) will be accrued for this study.
+
+.
+
+ Silymarin (Milk Thistle Extract) in Treating Patients With Acute Lymphoblastic Leukemia Who Are Receiving Chemotherapy@highlight
+
+RATIONALE: Silymarin (milk thistle extract) is an herb that may be effective in treating liver disorders caused by cancer therapy.
+
+ PURPOSE: Randomized phase II trial to study the effectiveness of silymarin in treating patients who have acute lymphoblastic leukemia with chemotherapy-related side effects to the liver.
+

@@ -1,0 +1,20 @@
+(thirdQuint)The Effect of Allogeneic Human Adipose Derived Stem Cell Component Extract on Androgenic Alopecia.
+
+ This randomized, placebo-controlled, double-blind study evaluates the efficacy and tolerability of the allogeneic human adipose derived stem cell component extract on androgenic alopecia in relatively healthy adults.
+
+ A total of 38 subjects received 1.
+
+2 g of allogeneic human adipose derived stem cell component extract per month or a placebo for 16 weeks.
+
+ Hair count and thickness will be primary outcomes.
+
+.
+
+ The Effect of Allogeneic Human Adipose Derived Stem Cell Component Extract on Androgenic Alopecia@highlight
+
+This randomized, placebo-controlled, double-blind study evaluates the efficacy and tolerability of the allogeneic human adipose derived stem cell component extract on androgenic alopecia in relatively healthy adults.
+
+ A total of 38 subjects received 1.
+
+2 g of allogeneic human adipose derived stem cell component extract per month or a placebo for 16 weeks.
+

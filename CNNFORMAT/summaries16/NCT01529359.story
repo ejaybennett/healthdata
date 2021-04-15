@@ -1,0 +1,10 @@
+(firstQuint)Irritable Bowel Syndrome and Lactibiane Tolerance.
+
+ The primary purpose of this study is to evaluate the effects of a probiotic combination (Lactibiane Tolerance) on the severity of symptoms in patients with irritable bowel syndrome (IBS).
+
+ The secondary purposes are to evaluate the effects of the intervention on: - quality of life - severity of fatigue, anxiety and depression - levels of inflammatory markers in blood and tools.
+
+ Irritable Bowel Syndrome and Lactibiane Tolerance@highlight
+
+The purpose of this study is to evaluate the effects of a probiotic combination (Lactibiane Tolerance) on the severity of symptoms in patients with irritable bowel syndrome (IBS).
+

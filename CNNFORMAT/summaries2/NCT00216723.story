@@ -1,0 +1,18 @@
+(firstQuint)Efficacy and Safety of Aripiprazole in Patients With Schizophrenia or Bipolar Disorder.
+
+ This is a multicenter,open-label,prospective study of Aripiprazole use in patients with schizophrenia and bipolar disorder.
+
+ Qualified schizophrenia patients will be enrolled to an 12-week treatment phase of Aripiprazole by physician's assessment.
+
+ Qualified bipolar disorder patients will be enrolled to an 8-week treatment phase of Aripiprazole by physician's assessment.
+
+ This study will be continued for 6 years.
+
+ The final report of Aripiprazole PMS will be submitted to KFDA on December 28, 2009.
+
+.
+
+ Efficacy and Safety of Aripiprazole in Patients With Schizophrenia or Bipolar Disorder@highlight
+
+This is a multicenter,open-label,prospective study of Aripiprazole use in patients with schizophrenia and bipolar disorder.
+

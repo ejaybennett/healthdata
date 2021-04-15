@@ -1,0 +1,22 @@
+(secondQuint)MOTIVOB-(Acceptance and Commitment Therapy Group Intervention for Obesity)Section.
+
+ Effective weight-management programs often include a combination of physical activity, diet, and psychological intervention, in particular Cognitive Behavioral Therapy (CBT).
+
+ The effects of these programs are frequently not stable, and usually the maintenance of achieved weight-loss lasts only for a short period of time.
+
+ Acceptance and Commitment Therapy, ACT, keeps on gaining recognition in obesity treatment.
+
+ The purpose of the study is to compare weight loss and indicator of psychological functioning in a population of obese subjects belonging to three different diagnostic categories: without ED, with ED NAS and with BED.
+
+ Participants were exposed respectively to a CBT or an ACT treatment and were assessed three times: pre intervention, post intervention and follow-up.
+
+ The investigators hypothesize that CBT and ACT are both effective in the post-intervention.
+
+ ACT intervention should be more effective in the follow-up both for weight and psychological functioning, due to its focus on the flexible managing of the global context instead of the focus on the pathology itself, more typical in standard CBT treatment.
+
+.
+
+ MOTIVOB-(Acceptance and Commitment Therapy Group Intervention for Obesity)Section@highlight
+
+The purpose of the present study is to compare an Acceptance and Commitment Therapy (ACT) group intervention and a Cognitive Behavioral Therapy (CBT) group in a sample of obese individuals with respect to mid-term outcome.
+

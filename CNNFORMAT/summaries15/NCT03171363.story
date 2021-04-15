@@ -1,0 +1,18 @@
+(firstQuint)Gaze Contingent Feedback for Anxiety Disorders in Children.
+
+ Attention biases in threat processing have been assigned a prominent role in the etiology and maintenance of anxiety disorders.
+
+ The purpose of this study is to determine whether giving gaze-contingent feedback is an effective treatment for anxiety disorders in clinically anxious 6-10 year-olds children.
+
+ Participants will be assessed using clinical interviews and parent- and self-rated questionnaires before and after eight training sessions.
+
+ Outcome measures will be anxiety symptoms and depression as measured by gold standard questionnaires as well as structured clinical interviews with children and their parents.
+
+ Attentional threat bias and Attentional control will also be measured to explore potential mediators of ABMT's effect on anxiety.
+
+.
+
+ Gaze Contingent Feedback for Anxiety Disorders in Children@highlight
+
+The purpose of this study is to determine whether giving gaze-contingent feedback is an effective attention modification procedure, helping in the treatment of anxiety disorders in children.
+

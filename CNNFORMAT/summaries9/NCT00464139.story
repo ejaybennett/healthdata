@@ -1,0 +1,12 @@
+(fifthQuint)Prevalence of Endometriosis in a Well Defined Group of Infertile Women.
+
+ In this study, the electronic files of all patients who consulted the LUFC since 2003 were searched to select women with at least 1 year of infertility, a regular cycle (variation 21 - 35 days), whose partner had normal sperm according to World Health Organization (WHO) criteria (n = 304).
+
+ After exclusion of 83 (27,3%) patients with a previous laparoscopic diagnosis of endometriosis before referral to our centre, 221 (72,7%) infertile women were included in our study.
+
+.
+
+ Prevalence of Endometriosis in a Well Defined Group of Infertile Women@highlight
+
+At the Leuven University Fertility Centre (LUFC) of the Department of Obstetrics and Gynecology of the University Hospitals Leuven, Belgium, a retrospective epidemiological prevalence study based on an electronic search of patient files was performed to determine the prevalence of histologically proven endometriosis in a subset of infertile women with a regular cycle (variation 21 - 35 days), a partner with normal sperm and no previous surgical diagnosis of endometriosis.
+

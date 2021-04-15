@@ -1,0 +1,30 @@
+(thirdQuint)Individualized Exercise Programs for Patients Receiving Chemotherapy for Newly Diagnosed Acute or Relapsed Myeloid Leukemia or Lymphoblastic Leukemia.
+
+ OBJECTIVES: Primary - Determine the effects, in terms of fitness and blood parameters, fatigue levels, and quality of life, of an individualized prescriptive exercise intervention in patients with newly diagnosed acute or relapsed myeloid or lymphoblastic leukemia undergoing chemotherapy.
+
+ Secondary - Determine the feasibility of developing an exercise program for these patients.
+
+ - Assess the changes in cardiovascular endurance, muscular strength, selected blood parameters, and response of inflammatory proteins to exercise in these patients.
+
+ - Evaluate fatigue, depression, and quality of life of these patients.
+
+ OUTLINE: This is a pilot study.
+
+ Patients participate in an individualized prescriptive exercise intervention 3 to 4 times per week for 6 weeks (4 weeks in hospital, 2 weeks at home).
+
+ Exercise begins concurrently with the first course (induction therapy) of chemotherapy.
+
+ Each exercise session consist of 3-5 minutes of light stretching (stretching component), 5-10 minutes of cycling on the recumbent bicycle (cardiorespiratory component), 5-15 minutes of resistance training including hand dumbbells, exercise tubing, rubber bands, and fit balls (resistance training component), and 5-10 minutes of abdominal exercises (core muscles component).
+
+ Quality of life, fatigue, and depression are assessed at baseline and weekly during study intervention.
+
+ Blood samples are collected at baseline and at weeks 3 and 6 for cytokine analysis.
+
+.
+
+ Individualized Exercise Programs for Patients Receiving Chemotherapy for Newly Diagnosed Acute or Relapsed Myeloid Leukemia or Lymphoblastic Leukemia@highlight
+
+RATIONALE: An individualized exercise program may be effective in lessening fatigue and depression and improving quality of life in patients undergoing chemotherapy for leukemia.
+
+ PURPOSE: This clinical trial is studying how well individualized exercise programs work in patients receiving chemotherapy for newly diagnosed acute or relapsed myeloid leukemia or lymphoblastic leukemia.
+

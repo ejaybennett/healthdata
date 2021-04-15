@@ -1,0 +1,12 @@
+(firstQuint)Refractive Error and Biometry in Retinopathy of Prematurity.
+
+ Purpose: To compare refractive and biometric outcomes in patients with type 1 retinopathy of prematurity (ROP) treated with intravitreal injection of Ranibizumab (IVR), versus bevacizumab (IVB), at a corrected age of 3 years.
+
+ Methods: A retrospective case series compared cycloplegic refractive statuses and biometric statuses in patients who received either IVR or IVB for Type 1 ROP, from April 2011 to April 2014.
+
+ Comparison of refractive errors and biometric findings between the two groups was performmed and multivariate analysis of possible factors contributive to visual acuity was also performmed.
+
+ Refractive Error and Biometry in Retinopathy of Prematurity@highlight
+
+The investigators compared long-term refractive and biometric outcomes in children with retinopathy of prematurity who received two different anti-vascular endothelial growth factor agents.
+

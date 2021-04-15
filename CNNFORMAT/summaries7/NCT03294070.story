@@ -1,0 +1,21 @@
+(secondQuint)Fimasartan Plus Amlodipine on Hemodynamic Parameters and Arterial Stiffness in Patients With Hypertension.
+
+ A prospective, open clinical trial of a cohort of adult patients of both sexes with recent 2-3 years high blood pressure.
+
+ Intervention: Fimasartan 60 mg + amlodipine besylate 5 mg once daily Purpose and justification of the study: Systemic arterial hypertension (SAH) is a pathology that diminishes the hope and quality of life and is directly associated with the production or aggravation of other pathologies such as atherosclerosis, heart failure, ischemic heart disease and / or chronic kidney disease.
+
+ Several studies have shown that central pulse pressure (cPP) and central aortic pressure (CAP) are better predictors of cardiovascular disease, target organ damage and mortality, than the brachial or peripheral pulse pressure (pPP).
+
+ More attention should be paid to central hemodynamics, since its values are those that directly impact the organs that are commonly damaged as a result of hypertension, brain, kidney and heart.
+
+ (2) Current therapeutic strategies for SH, although partially effective, have not adequate control of tension figures in hypertensive patients, either due to lack of power, by their adverse effects or by requiring multiple shots that seriously compromise attachment to the treatment.
+
+ Fimasartan is a medicine that belongs to the therapeutic class of the selective blockers of angiotensin II (AT 1) receptors, family of drugs with less adverse effects than other renin-angiotensin-aldosterone axis inhibitors, with potency adequate antihypertensive and additional beneficial effects on renal function, hypertrophy ventricular, atheromatosis and insulin sensitivity.
+
+ Based on the physico-chemical characteristics of the Fimasartan and the results obtained in phase I-II and III studies in different populations, including the Mexican,favoring the adherence and control of blood pressure, it can be an effective and safe therapeutic option.
+
+.
+
+ Fimasartan Plus Amlodipine on Hemodynamic Parameters and Arterial Stiffness in Patients With Hypertension@highlight
+
+24-week open clinical trial to assess tolerability and effect on pressure, hemodynamic parameters and arterial rigidity of the combined treatment based on Fimasartan 60 mg and amlodipine besylate 5 mg given once daily in patients with arterial hypertension in stages 2-3

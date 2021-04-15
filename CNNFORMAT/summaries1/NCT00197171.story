@@ -1,0 +1,14 @@
+(firstQuint)Long Term F/U Studies at Y5&6 to Demonstrate the Equivalence of 2 Vaccination Schedules of Combined Hepatitis A & B Vaccine.
+
+ Open, randomised, long-term antibody persistence studies, conducted in 2 centers.
+
+ Immune persistence was compared between subjects who received two doses of GSK Biologicals combined hepatitis A and hepatitis B vaccine at either 0, 6 month schedule or 0, 12 month schedule.
+
+ These long-term follow-up studies involved taking blood samples at approximately 5 and 6 years after the primary vaccination of combined hepatitis A and B vaccine, to assess antibody persistence and a retrospective safety follow-up.
+
+.
+
+ Long Term F/U Studies at Y5&6 to Demonstrate the Equivalence of 2 Vaccination Schedules of Combined Hepatitis A & B Vaccine@highlight
+
+To evaluate the persistence of immune response 5 years and 6 years after the first vaccine dose.
+

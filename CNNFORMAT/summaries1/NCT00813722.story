@@ -1,0 +1,70 @@
+(fifthQuint)Effect of Active Telephone Calls in the Compliance of Hypertensive Patients With Treatment.
+
+ To evaluate the importance of providing guidelines to patients via active telephone calls for blood pressure management and the discontinuation of treatment in hypertensive patients, using two treatment regimens with low-dose medications, which were offered for free to avoid the influence of the financial factor.
+
+ We opted for a regimen called "traditional" based on diuretics and beta-blockers, and another one called "current" treatment based on the angiotensin II antagonist and calcium channel blocker.
+
+ Patients and Methods The patients studied were those with essential hypertension who could receive telephone calls to be reminded of the dates of their medical appointments and to receive guidance about hypertension; patients were of both genders, from any ethnic background, over 18 years old and with body mass index below 40 kg/m2, and were enrolled in the study after signing a free and informed consent term.
+
+ The study was approved by the Ethics Committee of the Board of Directors in the General Hospital at the Sao Paulo University School of Medicine.
+
+ Exclusion criteria were patients with blood pressure 140 mm Hg and/or diastolic pressure 90 mm Hg at the doctor's office and awake mean systolic pressure 140 mm Hg and/or diastolic pressure 90 mm Hg with or without medication in the initial visit (Visit 0).
+
+ Patients who were receiving antihypertensive medication at the initial visit and had systolic pressure 140 mm Hg and/or diastolic pressure 90 mm Hg.
+
+ All the patients underwent Ambulatory Blood Pressure Monitoring (ABPM) performed with a validated oscillometric device (SpaceLabs 90207, SpaceLabs Inc, Richmond, WA, USA) , 5 weeks after start of the placebo to eliminate the cases of patients with white-coat hypertension and in patients who did not receive placebo to identify the white coat effect.
+
+ Patients were assigned to two groups: a) "uncomplicated" - composed of hypertensive patients without complications and without other concurrent diseases; and b) "complicated", including patients with severe hypertension (mean diastolic pressure > 110 mm Hg with or without medication) or comorbidities such as diabetes mellitus 7, renal failure (serum creatinine > 1.
+
+4mg/dL), coronary insufficiency, congestive heart failure or prior history of cerebrovascular accident.
+
+ All patients, from both the complicated and the uncomplicated group, were open block randomized to receive active telephone calls ("phone calls" group) or not to receive telephone calls ("no phone calls" group) and to follow two treatment regimens: "traditional" and "current".
+
+ Thus, after the first visit and randomization, patients from the "phone calls" group were invited to enroll by telephone in the program called "Biosintetica Assistance" supported by Biosintetica Laboratory.
+
+ The patients who subscribed started receiving active telephone calls from appropriately trained operators as well as magazines with health-related information, which were sent periodically by mail.
+
+ There were 6 contacts by telephone during the study.
+
+ The patient was reminded to attend the next visit; he/she received instructions about hypertension as well as any necessary clarifications.
+
+ All the patients randomized to the "phone calls" group were invited to attend occasional informative lectures with the participation of a multidisciplinary team.
+
+ At the initial stage of treatment, the "uncomplicated" group received, after 8 weeks of treatment with placebo, one of the following treatment regimens: a) "traditional" treatment with hydrochlorothiazide 6.
+
+25 mg 2x/day and atenolol 25 mg 2x/day; and b) "current" treatment with losartan 25 mg 2x/day and amlodipine 2.
+
+5 mg 2x/day.
+
+ If blood pressure could not be controlled during the visits, the medications had their doses doubled or another antihypertensive was added.
+
+ The "complicated" group did not undergo the treatment period with placebo and was randomized to receive "traditional" or "current" drug regimens similar to the ones administered to the "uncomplicated" group, considering the specificity of each condition.
+
+ The addition of other antihypertensive agents in the "uncomplicated" group, as well as the specificities of regimens of patients in the "complicated" group, were performed according to the guidelines from the V Brazilian Guidelines on Arterial Hypertension.
+
+ 5 All the patients were instructed to take the medication every day at 7:00 am and 7:00 pm, with a variation of up to one hour.
+
+ All the medication necessary for 12 months of treatment was supplied to the patients by the physician at the end of the visit in sufficient amount at no cost until the next visit, in order to eliminate the financial factor in this analysis.
+
+ Patients were instructed to bring the remaining pills during their subsequent visit to be counted by the nursing staff, without the patients' knowledge of this procedure.
+
+ Doctors' visits, preceded by the nursing staff visit, took place every 8 weeks for 56 weeks with measurements of blood pressure, heart rate and weight.
+
+ The weight was checked with the patient wearing light clothes and barefoot on a scale (model 2096PP, Toledo do Brasil, Sao Paulo, SP, Brazil).
+
+ Study withdrawal was characterized by non-attendance to the medical visit up to 3 months after the scheduled date.
+
+ The patients who returned within 3 months after the scheduled date would continue in the study and be evaluated in an unscheduled visit.
+
+ The tests performed during the treatment with placebo and after 40 weeks of active treatment included: fasting glucose, urea, creatinine, total cholesterol, fractions of cholesterol, triglycerides, uric acid, total bilirubin, CPK, Na+, K+, hemoglobin, TSH, alkaline phosphatase, AST, ALT and urinary excretion of sodium in 24 h.
+
+.
+
+ Effect of Active Telephone Calls in the Compliance of Hypertensive Patients With Treatment@highlight
+
+The purpose of this study is to evaluate the importance of providing guidelines to patients via active telephone calls in blood pressure control and in the discontinuation of treatment among hypertensive patients.
+
+ Hypertensives (N = 354) who could receive telephone calls to be reminded of the dates of their medical appointments and to be instructed about hypertension were distributed into two groups: a) "uncomplicated" - hypertensives with no other concurrent diseases; and b) "complicated" - severe hypertensives (mean diastolic 110 mm Hg with or without medication) or comorbidities.
+
+ All patients, except those excluded (n=44), were open block randomized to follow two treatment regimens: "traditional" or "current" and to receive active telephone calls ("phone calls" group) or not to receive telephone calls ("no phone calls" group).
+

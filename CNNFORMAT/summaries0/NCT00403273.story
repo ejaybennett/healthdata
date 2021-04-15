@@ -1,0 +1,80 @@
+(fifthQuint)Safety and Efficacy of Botulinum Toxin A Injection in Patients With Painful Artificial Knee Arthroplasty (TKA).
+
+ "This 6-month randomized, placebo-controlled, double blind trial will compare a single intra-articular (IA) injection of 100 units of Botulinum Toxin A (BoNT/A) to placebo for improvement in pain, function and quality of life (QOL), and safety in patients with painful total knee arthroplasty (TKA).
+
+ Patients will be recruited at the Minneapolis VA Medical Center.
+
+ Patients will be eligible if they are over age 18, have TKA, have pain 6/10 on 0-10 numeric rating scale (NRS) and are not candidates for revision surgery.
+
+ The primary outcome is: (1) proportion with clinically meaningful change in pain severity (on 0-10 scale) 2 months after IA injection.
+
+ The choice of 2-month for primary end-point is based on previous observations from open-label case series in painful TKA.
+
+ Secondary outcomes will be assessed at each efficacy follow-up (FU) visit.
+
+ The duration of the trial is 6-months to capture the duration of pain relief.
+
+ Based on other trials of Botulinum toxin, we expect the peak effect between 2-8 weeks and expect the effect to wear off between 2-4 months.
+
+ Therefore, for all analyses except duration of pain relief, the efficacy time-points (2 wk, 4 wk, 2 month) and possibly 3- or 4-month (depending on duration of pain relief) will be used.
+
+ Secondary outcomes include: (1) clinically meaningful pain relief (2-point or 30% decrease) in pain severity (0-10 scale); (2) change in pain severity at 2 months and at all efficacy time-points; (3) percent with Minimal Clinically Important Improvement on Western Ontario MacMaster Arthritis Index (WOMAC) pain and function sub-scales at 2 months and at all efficacy time-points; (4) amount and duration of pain relief; (5) patient and physician global assessment of response at 2 months and at all efficacy time-points; (6) QOL assessed by WOMAC and Short-form 36 (SF-36) scores at 2 months and at all efficacy time-points; (7) change in function by Timed Stands Test (TST) and Timed-up-and-go (TUG) tests at 2 months and at all efficacy time-points; (8) change in dose of analgesics during the study.
+
+ We will determine time to onset of and duration of pain relief and time to improvement in function.
+
+ Safety will be assessed by structured interview form for adverse effects, sensory and manual muscle strength testing, and index joint examination for swelling, erythema and tenderness.
+
+ At visit #1, after informed consent and screening for inclusion/exclusion criteria, patients will undergo: index joint X-ray, laboratory tests; history, physical examination, index joint pain history, comorbidity and medication history; patient pain assessments, WOMAC and SF-36; and blinded index joint, neurological examination, TST and TUG tests.
+
+ 50 patients will be randomized to receive either IA BoNT/A 100 units or sterile saline in the index joint.
+
+ FU phone interviews at 2 and 4-weeks will include pain assessments, WOMAC, patients' global assessment and adverse effects.
+
+ Interim visits at 2, 3 and 4-months will be identical to visit #1, but will also include patients' and physicians' global assessment and there will be no joint injection.
+
+ End of study visit at 6 months will be identical to interim visits with the addition of index joint X-ray and laboratory tests.
+
+ Main analyses will include patients with unilateral TKAs.
+
+ Sensitivity analyses will be done by including patients with bilateral knees, accounting for correlatedness of observations.
+
+ Multiple analysis of variance, mixed model regression analyses and/or generalized estimating equations will be used for analysis of continuous and categorical outcomes respectively.
+
+ Chi-square tests will be used to compare frequency of adverse events.
+
+ Analysis will be intention-to-treat.
+
+.
+
+ Safety and Efficacy of Botulinum Toxin A Injection in Patients With Painful Artificial Knee Arthroplasty (TKA)@highlight
+
+Primary Total Knee joint replacement surgery is highly successful surgery for relieving pain and improving function in patients with disabling arthritis.
+
+ Unfortunately, like all biomedical devices, prosthesis failure is a complication of knee replacement surgery that leads to disabling pain, stiffness and loss of function.
+
+ Approximately 1% of the knee replacements fail every year leading to a 20% failure rate over 20 years.
+
+ The common causes of failure of prosthetic joint are infection, loosening, trauma or wear of the prosthesis.
+
+ Currently, a revision surgery is the best option for long term pain relief (analgesics or other pain medications are options but are of limited benefit).
+
+ Surgery may not be feasible in patients due to advancing age, other medical conditions and surgical/technical difficulties or patient's choice.
+
+ In addition, the results from revision surgery are not as good as the initial knee joint surgery.
+
+ Therefore, there is a great need for a novel, targeted therapy that provides an option to patients who are unfit, unable, or unwilling to undergo surgery.
+
+ In the investigators' recent pilot study, a single injection of Botulinum toxin A (Botox) in painful natural knee, ankle and shoulder joints of patients with various types of arthritis led to significant and durable improvement in pain and function and was safe to use.
+
+ The investigators propose this 6-month study to compare pain relief, improvement of function and safety of an injection of Botulinum toxin compared to placebo in patients with a painful prosthetic knee joint.
+
+ Both patients and investigators will be blinded to the treatment assignment to a patient until the study is completed.
+
+ The investigators will assess the amount and duration of pain relief, improvement in function and short term safety of Botulinum toxin using standard validated measures.
+
+ Patients will be evaluated at baseline, 2 weeks, 1-, 2-, 3-, 4- and 6-months after a single injection of either placebo or BoNT/A in the hip or knee prosthesis.
+
+ The six-month follow-up is to assess the duration of meaningful pain relief.
+
+ If successful, this will offer a new treatment option for patients with a chronically painful knee prosthetic joint, provide more insight into the origin and cause of pain in prosthetic joints and direct future investigations in new directions.
+

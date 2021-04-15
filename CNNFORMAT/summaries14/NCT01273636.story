@@ -1,0 +1,44 @@
+(thirdQuint)Risk Factors for Concurrent Endometrial Carcinoma in Patients With a Curettage Diagnosis of Endometrial Hyperplasia.
+
+ We retrospectively reviewed the cases of seventy-seven patients who had hysterectomies for endometrial hyperplasia between January 1996 and September 2006 at the Department of Obstetrics and Gynecology, National Taiwan University Hospital.
+
+ A preoperative pathologic diagnosis of endometrial hyperplasia was obtained by D&C (dilation and curettage) in all patients.
+
+ Twenty of them were diagnosed as having endometrial carcinoma in their hysterectomy specimens.
+
+ All of the specimens were reviewed by a gynecologic pathologist.
+
+ Depending on the final pathologic reports of hysterectomy, we divided the seventy-seven patients into two groups - the non-endometrial carcinoma group and the endometrial carcinoma group.
+
+ Fifty-seven of the studied patients were in the non-endometrial carcinoma group and twenty were in the endometrial carcinoma group.
+
+ As already mentioned above, we investigated them by clinical parameters including age, menopausal status, obstetrical history, medical history of diabetes and hypertension, BMI (body mass index) and preoperative pathology of D&C.
+
+ The clinical and pathologic characteristics of the twenty patients diagnosed as having endometrial carcinoma postoperatively were also reviewed.
+
+ Initial manifestation, histological grading of the carcinoma, the depth of myometrial invasion, with or without adjuvant radiotherapy and recurrence were included.
+
+ The histological grading of endometrial carcinoma was based on FIGO ( International Federation of Gynecology and Obstetrics ) definitions.
+
+ The BMIs of the patients with endometrial carcinoma were also analyzed by the receiver operating characteristic curve.
+
+ The Research and Ethics Committee of National Taiwan University Hospital approved this study.
+
+ Statistical analyses were performed with the Independent-Samples T test and the Mann-Whitney test.
+
+ Subsequently, multivariate analysis of risk factors was also employed with Binary logistic regression model to obtain the adjusted odds ratio (OR) and 95% confidence interval (CI) for selective variables.
+
+ P<0.
+
+05 was defined as significant.
+
+.
+
+ Risk Factors for Concurrent Endometrial Carcinoma in Patients With a Curettage Diagnosis of Endometrial Hyperplasia@highlight
+
+Objective: To examine the risk factors for coexisting endometrial carcinoma in patients with endometrial hyperplasia.
+
+ Method: Seventy-seven patients who received hysterectomy for endometrial hyperplasia were enrolled and divided into the non-endometrial carcinoma group (57) and the endometrial carcinoma group (20) depending on the final pathology.
+
+ Clinical variables were analyzed.
+

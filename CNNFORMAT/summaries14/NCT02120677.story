@@ -1,0 +1,22 @@
+(firstQuint)Topical Itraconazole in the Treatment of Basal Cell Carcinoma.
+
+ Basal cell carcinoma is the most common type of skin cancer in Caucasians worldwide.
+
+ Although rarely metastatic, it can be locally destructive causing disfigurement and pain.
+
+ Current therapies include surgical removal, local destruction, radiotherapy and others.
+
+ Advances in understanding the molecular basis behind BCCs indicate that mutations in the hedgehog signaling pathway can lead to the development of many sporadically occurring basal cell carcinomas (BCCs).
+
+ An oral drug that targets the hedgehog signaling pathway has been shown to be effective in treating patients with metastatic and inoperable BCCs.
+
+ There is evidence that itraconazole, a commonly prescribed antifungal medication may also affect this pathway.
+
+ It is not known whether itraconazole ointment applied topically can affect the growth of BCCs.
+
+.
+
+ Topical Itraconazole in the Treatment of Basal Cell Carcinoma@highlight
+
+This research is being done to study the molecular effects of topically applied itraconazole ointment on the growth of basal cell carcinomas.
+

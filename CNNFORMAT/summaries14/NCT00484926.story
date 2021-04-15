@@ -1,0 +1,26 @@
+(thirdQuint)Association of Clopidogrel Therapy and Stent Thrombosis.
+
+ An observational analysis from BASKET-LATE (Basel Stent Kosten-Effekivitats Trial-Late Thrombotic Events) examined the incidence of clinical events after cessation of clopidogrel therapy.
+
+ This study identified 746 patients who were without major adverse events 6 months after drug-eluting or bare-metal stent placement.
+
+ All patients had stopped taking clopidogrel and were followed up for an additional 12 months.
+
+ At 18-month follow-up, there was no difference between patients with a drug-eluting or bare-metal stent in cumulative rates of death or myocardial infarction (MI).
+
+ However, after clopidogrel discontinuation patients receiving drug-eluting vs bare-metal stents experienced higher rates of death and MI (4.
+
+9% vs 1.
+
+3%, respectively).
+
+ These results have created uncertainty regarding the minimal necessary duration of antiplatelet therapy after drug-eluting stent implantation.
+
+ Also, there remains widespread uncertainty regarding the risk of clinical events after the discontinuation of clopidogrel, particularly after DES implantation.
+
+.
+
+ Association of Clopidogrel Therapy and Stent Thrombosis@highlight
+
+The purpose of REAL-LATE (Correlation of Clopidogrel Therapy Discontinuation in REAL-world Patients Treated with Drug-Eluting Stent Implantation and Late Coronary Arterial Thrombotic Events) trial is to assess the relationship between clopidogrel use and long-term rates of cardiac death or MI after DES implantation in real-world practice and to estimate the duration of dual antiplatelet therapy for preventing the late thrombotic events.
+

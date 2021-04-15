@@ -1,0 +1,17 @@
+(firstQuint)A Trial to Test the Response to Different Vaccination Regimens With an H5N1 Vaccine With AS03 in Adults Aged 18-64.
+
+ A Phase 2, open-label, randomized, parallel group, multi-centered study designed to evaluate the immunogenicity and safety of a 2-dose series of avian influenza vaccine plus AS03 adjuvant according to different regimens, in adults aged 18-64 years.
+
+ All subjects will receive active study vaccine; no subjects are to receive placebo.
+
+ A total of 312 subjects will be enrolled in this study at approximately 3 study centers in Canada.
+
+ All subjects will attend formal study center visits for safety and immunogenicity assessments on Days 0, 21, 42, and 182.
+
+ Additional formal study center visits will be scheduled at additional timepoints for subjects in particular dose groups.
+
+ In addition, a telephone call will be conducted for all subjects on Day 51.
+
+ A Trial to Test the Response to Different Vaccination Regimens With an H5N1 Vaccine With AS03 in Adults Aged 18-64@highlight
+
+The purpose of the study is to characterize the immunogenicity & safety of 2 doses of GSK's avian flu vaccine GSK 1557484A given according to different regimens to adults aged 18 to 64 years

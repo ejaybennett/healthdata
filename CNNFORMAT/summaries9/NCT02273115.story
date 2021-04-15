@@ -1,0 +1,24 @@
+(firstQuint)Foley With Oxytocin Versus Foley no Oxytocin for Induction of Labor.
+
+ This is a multi-center, open-label, randomized study.
+
+ Women with a singleton, vertex gestation between 24-42 weeks gestations presenting for labor induction will be offered participation in this study.
+
+ Patients who receive prenatal care at Christiana Care may be approached if an induction of labor is scheduled and consented at their prenatal visit.
+
+ All indications for induction will be included except those specifically mentioned as exclusion criteria.
+
+ Any contraindication for vaginal delivery would exclude the subject.
+
+ After informed consent is obtained, the Foley catheter will be placed and the subject will be randomized to receive oxytocin (study group) or not (control group).
+
+ After Foley catheter removal or expulsion, the remainder of the induction course was left to the discretion of the primary provider.
+
+ Prior to randomization, the subject will be placed into the nulliparous or multiparous group.
+
+.
+
+ Foley With Oxytocin Versus Foley no Oxytocin for Induction of Labor@highlight
+
+The overall purpose of this study is to determine if adding oxytocin to a Foley catheter for induction of labor will increase the rate of delivery within 24 hours stratified by parity.
+

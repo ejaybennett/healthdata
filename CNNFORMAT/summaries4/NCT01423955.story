@@ -1,0 +1,18 @@
+(firstQuint)Erythropoietin (EPO) to Protect Renal Function After Cardiac Surgery.
+
+ Acute kidney injury is a common complication after cardiac surgery and is associated with decreased long-term survival.
+
+ Several experimental and animal studies have showed cytoprotective, preconditioning and anti-apoptotic effects of high dose erythropoietin.
+
+ Clinical studies in human have also suggested that high dose erythropoietin has preconditioning effects against injury after ischemia and reperfusion on different organs in human, such as brain, heart, liver, and kidneys.
+
+ Administration of Epo in high doses in conjunction with cardiac surgery has shown to be safe with no direct side-effects.
+
+ The investigators therefore hypothesize that a preconditioning effect of erythropoietin before cardiac surgery can reduce the level of renal dysfunction after surgery in a group with preoperative renal impairment.
+
+.
+
+ Erythropoietin (EPO) to Protect Renal Function After Cardiac Surgery@highlight
+
+The purpose of this study is to evaluate the potential of erythropoietin in reducing risk and degree of acute kidney injury after cardiac surgery.
+

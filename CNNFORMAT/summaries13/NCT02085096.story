@@ -1,0 +1,28 @@
+(thirdQuint)Problem Solving Therapy for Prostate Cancer Spousal Caregivers.
+
+ Problem-solving therapy programs have been shown to be effective among parents of children diagnosed with cancer.
+
+ Efforts have been made to apply this same strategy to spouses/significant others of men diagnosed with prostate cancer.
+
+ The purpose of this study is to test the efficacy of problem-solving therapy on the spouses of prostate cancer patients.
+
+ Participants were randomly assigned to an experimental group which received problem-solving therapy, or to a control group which relied on their standard methods of coping (e.
+
+g.
+
+ their normal therapist, family and friends).
+
+ Participants completed baseline surveys regarding their distress and coping prior to randomization.
+
+ They then completed these surveys again 2 months and 6 months after participation to determine lasting effects of the intervention.
+
+.
+
+ Problem Solving Therapy for Prostate Cancer Spousal Caregivers@highlight
+
+Problem-solving therapy programs have been shown to be effective among parents of children diagnosed with cancer.
+
+ Efforts have been made to apply this same strategy to spouses/significant others of men diagnosed with prostate cancer.
+
+ The purpose of this study is to test the efficacy of problem-solving therapy on the spouses of prostate cancer patients.
+

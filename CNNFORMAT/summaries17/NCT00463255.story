@@ -1,0 +1,14 @@
+(firstQuint)Diet and the Aging Brain.
+
+ The age-related degradation of cognitive functions even to the point of neurodegenerative disorders such as alzheimer`s disease are a growing public-health concern with potentially devastating effects.
+
+ Refering to animal data and empirical studies, a healthy diet rich in unsaturated fatty acids and low in calories should improve cognitive functions such as learning and memory.
+
+ To test this hypothesis, we study general brain functions in healthy elderly subjects (50-80 years old) during a short term diet.
+
+.
+
+ Diet and the Aging Brain@highlight
+
+We investigate whether a change in diet could provide positive effects on general brain functions in healthy elderly people.
+

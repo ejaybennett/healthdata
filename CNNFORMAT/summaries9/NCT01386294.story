@@ -1,0 +1,24 @@
+(secondQuint)Safety and Effectiveness of Tenofovir Gel in the Prevention of Human Immunodeficiency Virus (HIV-1) Infection in Women and the Effects of Tenofovir Gel on the Incidence of Herpes Simplex Virus (HSV-2) Infection.
+
+ This is a phase III, multicenter trial to assess the safety and effectiveness of 1% tenofovir gel, administered vaginally by approximately 2900 sexually active women at high risk for sexually transmitted HIV.
+
+ Approximately 2600 women aged 18-30 years old will be enrolled to achieve the required number of endpoints to show an effect on HIV-1 infection, while up to 300 additional women aged 31-40 years old will be enrolled to collect more safety information in this age group.
+
+ This is an event driven study that plans to randomize seronegative women.
+
+ Participants will be randomized to a 1:1 ratio to receive 1% tenofovir gel or placebo gel.
+
+ Each will be asked to insert a dose of the assigned study product within 12 hours prior to a coital event and another dose as soon as possible within 12 hours after a coital event.
+
+ Participants will be advised to use only two doses of gel in a 24 hour period.
+
+ All women will be evaluated for the rates of adverse events and the rate of HIV seroconversion.
+
+ In addition, the study will evaluate several secondary endpoints that bear directly on potential risks and benefits of vaginal tenofovir gel use.
+
+.
+
+ Safety and Effectiveness of Tenofovir Gel in the Prevention of Human Immunodeficiency Virus (HIV-1) Infection in Women and the Effects of Tenofovir Gel on the Incidence of Herpes Simplex Virus (HSV-2) Infection@highlight
+
+The purpose of the study is to assess the safety and effectiveness of intravaginal 1% tenofovir gel in preventing Human Immunodeficiency Virus (HIV-1) infection and Herpes Simplex Virus (HSV-2) infection in sexually active women.
+

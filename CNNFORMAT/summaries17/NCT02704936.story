@@ -1,0 +1,17 @@
+(firstQuint)Analysis of Lipid Profiles in Samples Sperm and Seminal Plasma Under Artificial Insemination.
+
+ Analyze lipid profiles in samples of sperm and seminal plasma of three populations: 1.
+
+ male sperm donors 2.
+
+ men assigned to a program of assisted reproduction with normal sperm / slightly abnormal successfully in the IUI; 3.
+
+ attached to a program of assisted reproduction with male semen Normal / slightly abnormal unsuccessfully in IUI Establish partnerships between the composition of fatty acids, especially fatty acids polyunsaturated (PUFA) of the omega-3 (w3) series of samples analyzed parameterssemen and results of the IA to identify biochemical markers of fertility.
+
+ Assess markers found by checking the increase in the rate of success in the IA.
+
+.
+
+ Analysis of Lipid Profiles in Samples Sperm and Seminal Plasma Under Artificial Insemination@highlight
+
+Identify, by Lipidomics approaches, biochemical markers of fertility / infertility in sperm and seminal plasma linking the success or failure of the artificial insemination (IUI)

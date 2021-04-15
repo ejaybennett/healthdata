@@ -1,0 +1,42 @@
+(fifthQuint)Universal Endometrial Cancer DNA Sequencing for Detection of Lynch Syndrome and Personalized Care.
+
+ PRIMARY OBJECTIVES: I.
+
+ Molecular classification of tumor abnormalities through innovative upfront next-generation DNA sequencing.
+
+ II.
+
+ Identify endometrial cancer (EC) patients with inherited EC, specifically Lynch syndrome (LS), using both tumor and normal (blood) DNA testing.
+
+ III.
+
+ Develop a comprehensive approach to genetic risk assessment and management including improved cascade testing in at-risk relatives.
+
+ IV.
+
+ Provide local access to genetic counseling for patients with harmful germline mutations.
+
+ V.
+
+ Identify molecular signatures that may be associated with favorable response to specific treatments (including chemotherapeutic agents, non-surgical options, and novel clinical trials [in particular, patients with mismatch repair (MMR)-deficient or POLE-mutant tumors]).
+
+ VI.
+
+ Determine if recurrence likelihood can be predicted from molecular signature.
+
+ VII.
+
+ Identify EC patients with select molecular signatures for recruitment to long-term follow-up, cancer prevention, and treatment studies.
+
+ OUTLINE: Patients with endometrial cancer undergo clinical testing for inherited cancer mutations using blood DNA and via next-generation sequencing of tumor samples.
+
+ Patients testing positive for Lynch syndrome or other cancer susceptibilities will undergo genetic counseling and testing and counseling will be offered to their family members.
+
+.
+
+ Universal Endometrial Cancer DNA Sequencing for Detection of Lynch Syndrome and Personalized Care@highlight
+
+This clinical trial studies universal screening for deoxyribonucleic acid (DNA) mismatch repair deficiency in patients with endometrial cancer, mutations in the genes responsible for Lynch syndrome (inherited forms of endometrial cancers) and other DNA changes that could help guide treatment strategies.
+
+ Universal tumor DNA sequencing may help doctors better understand how to personalize care, increase length of life, and increase quality of life in patients with endometrial cancer and their relatives.
+

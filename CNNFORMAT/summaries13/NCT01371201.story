@@ -1,0 +1,24 @@
+(thirdQuint)First International Randomized Study in Malignant Progressive Pheochromocytoma and Paraganglioma.
+
+ PRIMARY OBJECTIVE: To determine the efficacy of Sunitinib on the progression-free survival at 12 months in subjects with progressive malignant pheochromocytoma and paraganglioma treated with sunitinib at a starting dose of 37.
+
+5 mg daily (continuous dosing).
+
+ SECONDARY OBJECTIVES: - To determine overall survival and progression free survival.
+
+ - To determine time to progression.
+
+ - To determine objective response rate at one year.
+
+ - To determine time to and duration of tumor response.
+
+ - To assess safety profile including a dedicated cardiovascular management (home-blood pressure monitoring, ECG and echocardiography).
+
+ EXPLORATORY OBJECTIVES: -Identification of predictors of response as well as surrogate markers of overall survival is anticipated.
+
+ First International Randomized Study in Malignant Progressive Pheochromocytoma and Paraganglioma@highlight
+
+The FIRSTMAPPP study is a randomized, double-blind, phase II, international, multicenter study which aims to determine the efficacy of Sunitinib on the progression-free survival at 12 months in subjects with progressive malignant pheochromocytoma and paraganglioma treated with sunitinib at a starting dose of 37.
+
+5 mg daily (continuous dosing).
+

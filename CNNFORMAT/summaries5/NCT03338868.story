@@ -1,0 +1,18 @@
+(secondQuint)Serum Concentrations, Physical and Psychological Well-being in Metabolic Syndrome.
+
+ Metabolic syndrome (MetS) is a combination of metabolic risk factors such as impaired glucose level, dyslipidemia, hypertension, and central obesity.
+
+ MetS has become a large public health issue with common interrelation to different accompanying disorders.
+
+ Moreover, the link between MetS and musculoskeletal disorders has previously been demonstrated.
+
+ Presence and prevalence of MetS in patients having musculoskeletal pain seems common and interrelated.
+
+However, to our knowledge, manifestations with clinical symptoms of MetS, some inflammatory markers via serum concentrations and physical and psychological health profiles of patients with seeking treatment from outpatient physical therapy for musculoskeletal pain conditions have not been researched up to now.
+
+.
+
+ Serum Concentrations, Physical and Psychological Well-being in Metabolic Syndrome@highlight
+
+The purpose of this study was to investigate the serum concentrations, physical and psychological well-being characteristics in patients having chronic musculoskeletal pain with metabolic syndrome, and to compare patients without metabolic syndrome.
+

@@ -1,0 +1,20 @@
+(secondQuint)Effectiveness of Silver Diamine Fluoride in Arresting Dental Caries.
+
+ The present controlled clinical randomized study aiming at evaluating the effectiveness of silver diamine fluoride (SDF) in arresting dentin caries lesions on the occlusal surface of primary molars when compared to atraumatic restorative treatment (ART).
+
+ For this, 118 healthy children aged 2-5 years with at least one active dentin carious lesion, with no signs of pain or pulp involvement.
+
+ The participants will be allocated randomly to one of two treatment groups: (1) Test Group - SDF and (2) Control Group - ART.
+
+ The International Caries Detection and Assessment System (ICDAS) will be used to determine caries diagnosis and activity.
+
+ In both groups, the guardians and children will receive oral hygiene instructions and will be advised about eating habits and fluoride dentifrice use.
+
+The clinical success will be verified through examinations performed by a blinded operator, after 3, 6 and 12 months, with clinical evaluations to detect caries arresting, representing the primary outcome of the study.
+
+.
+
+ Effectiveness of Silver Diamine Fluoride in Arresting Dental Caries@highlight
+
+The present study aims to evaluate, through a controlled clinical randomized study,the effectiveness of silver diamine fluoride in arresting dentin caries lesions in primary molars when compared to atraumatic restorative treatment.
+

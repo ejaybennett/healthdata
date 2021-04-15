@@ -1,0 +1,34 @@
+(thirdQuint)Ultrasonography Guided Weaning Protocol Development to Predict Successful Weaning.
+
+ Prolonged mechanical ventilation is associated with higher ventilator-associated pneumonia and ventilator-associated lung injury, longer intensive care unit and hospital days, increased mortality, and higher medical costs.
+
+ However, some patients are difficult to wean from invasive mechanical ventilation.
+
+ Typically, the difficulty in transitioning patients to spontaneous breathing may be categorized as simple transition, difficult transition, and prolonged transition.
+
+ There are a lot of predictors for weaning failure such as cardiac dysfunction, increased respiratory rate, diaphragm dysfunction, rapid shallow breathing index and so on.
+
+ However, weaning failure involves complicated mechanisms that are not solved by one cause.
+
+ Recently, P.
+
+ Mayo published a review paper on ultrasonography evaluation during the weaning process.
+
+ The investigators need to pay attention to this paper.
+
+ While lots of previous predictors cannot explain the reason, ultrasound evaluation is a process of finding the cause as well as prediction for weaning failure.
+
+ However, The investigators need a more practical and standardized ultrasound protocols for how to wean invasive mechanical ventilation.
+
+ "Ultrasonographic mechanical weaning protocol" should not comprise just one indicator, but include various indicators such as upper airway stenosis, heart function, the status of the lung and pleura, diaphragmatic function, Etc.
+
+ This integrated ultrasound protocol will help in successful weaning of invasive mechanical ventilation.
+
+.
+
+ Ultrasonography Guided Weaning Protocol Development to Predict Successful Weaning@highlight
+
+The investigators aimed to develop integrated ultrasound guided mechanical weaning protocol in critically ill patients.
+
+ The analysis will be taken (1) just before the spontaneous breathing trial in enrolled patients with mechanical ventilation and (2) in patients with tracheostomy who fail ventilator off.
+

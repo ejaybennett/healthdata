@@ -1,0 +1,24 @@
+(firstQuint)Acarbose and Secondary Prevention After Coronary Stenting.
+
+ Recent studies have demonstrated that newly diagnosed abnormal glucose tolerance (AGT; diabetes mellitus and impaired glucose tolerance) are common among the patients with ischemic heart disease.
+
+ Several large cohort studies indicate that people with prediabetic conditions, such as impaired glucose tolerance, have a raised risk of future cardiovascular disease.
+
+ Intervention with acarbose can prevent myocardial infarction and cardiovascular disease in type 2 diabetic and IGT patients.
+
+ However, the effect of acarbose to secondary prevention of myocardial infarction or cardiovascular events in patients with newly diagnosed AGT after coronary stenting remains unclear.
+
+ The purpose of the present study is to determine whether the intervention to such abnormalities after coronary stenting will improve the long-term clinical outcome.
+
+ This is a opened, randomized study to compare acarbose versus a standard lifestyle modification.
+
+ Patients will have a 1:1 chance of receiving acarbose versus the standard lifestyle modification.
+
+ There is some research evidence that suggests acarbose may improve clinical outcome in patients with type 2 diabetes and in IGT patients.
+
+.
+
+ Acarbose and Secondary Prevention After Coronary Stenting@highlight
+
+The purpose of this study is to determine whether the intervention for newly diagnosed abnormal glucose tolerance after coronary stenting will improve the long-term clinical outcome.
+

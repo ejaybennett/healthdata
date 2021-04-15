@@ -1,0 +1,64 @@
+(fifthQuint)[18F]Fluciclovine and [18F]FLT PET/CT Assessment of Primary High-Grade Brain Tumors.
+
+ The standard treatment approach for patients with high-grade primary brain tumors includes maximum feasible surgical resection, followed by 6 weeks of concurrent cranial irradiation, and daily low-dose temozolomide chemotherapy; followed by 12 cycles of high-dose temozolomide administered for 5 consecutive days every 4 weeks (Stupp et al.
+
+, 2005).
+
+ Contrast-enhanced MRI is the current standard for evaluating the success of therapy and monitoring for tumor recurrence.
+
+ MRI is typically obtained prior to initial surgery, within 24 hours after surgery, at the conclusions of cranial irradiation, and then every 8 weeks during temozolomide chemotherapy until evidence of recurrence.
+
+ Despite this careful clinical and radiographic surveillance, and despite decades of research into the histologic and molecular classification of primary brain tumors, our ability to predict tumor behavior remains very limited.
+
+ Some gliomas will result in overall survival times of only months, whereas other histologically-identical gliomas may yield survivals of years to decades (Curran et al.
+
+, 1993, Carson et al.
+
+, 2007).
+
+ Current assessment of tumor response to therapy is also poor.
+
+ Patients with complete radiographic response after cranial irradiation often progress rapidly post-irradiation.
+
+ In contrast, some patients with enhancing masses at the end of chemoradiotherapy may respond dramatically to further chemotherapy alone; or the masses may even disappear in the absence of further therapy, so called "tumor pseudoprogression" (Chamberlain et al.
+
+, 2007).
+
+ This confounding situation demonstrates a need for better assessment of tumor response.
+
+ Improvements in the ability to predict tumor behavior prior to the start of therapy would allow more efficient and effective tumor surveillance; better prognostication; and more appropriate assignment of patients to conventional, aggressive, or investigational therapies early in their clinical courses.
+
+ This would provide huge economic and social benefits, and could afford decisive insights into brain tumor physiology and biology.
+
+ Similarly, the ability to identify, earlier and more accurately, whether individual patients were responding to therapy would allow prompt discontinuation of ineffectual treatments and institution of potentially more effective therapies.
+
+ Previous efforts using imaging for such tasks have generally been limited to a single modality (e.
+
+g.
+
+ MRI) and/or single-tracer (e.
+
+g.
+
+ FDG-PET).
+
+ However, there is a significant and growing body of evidence that complementary imaging of multiple aspects of tumor physiology (i.
+
+e.
+
+ using multiple PET tracers) can provide greatly enhanced information over imaging with a single modality or tracer alone.
+
+ In solid tumors, complex interactions exist between blood flow, metabolic activity, and oxygen status which affect metastatic and proliferative activity.
+
+ Heterogeneous tumors may contain both slow-growing and fast-growing regions that present different profiles of proliferation rates and amino acid uptake.
+
+.
+
+ [18F]Fluciclovine and [18F]FLT PET/CT Assessment of Primary High-Grade Brain Tumors@highlight
+
+The hypothesis of this exploratory clinical trial in patients with high-grade a primary brain tumor who receive chemoradiation is that the PET imaging agents [18F]Fluciclovine and/or [18F]FLT will be a better predictor of tumor response than standard MRI based brain tumor response criteria.
+
+ When used in conjunction, the two PET agents may be better able to predict tumor aggressiveness and thus overall survival than the use of individual-tracer PET biomarkers.
+
+ This may eventually lead to improved assessment of response (including time to progression and overall survival) and differentiation of tumor recurrence/progression from treatment effect (pseudoprogression).
+

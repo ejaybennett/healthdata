@@ -1,0 +1,24 @@
+(thirdQuint)Reverse Shoulder Replacement: Formal vs.
+
+ Home Physiotherapy.
+
+ All patients who are evaluated by one of three Shoulder/Elbow Fellowship-trained surgeons at Washington University Department of Orthopedic Surgery and who meet the inclusion criteria will be offered enrollment in the study.
+
+ Following consent the participant will be asked to undergo an exam of the shoulder and complete questionnaires related to shoulder pain and function.
+
+ Demographic information, health history related to the affected shoulder, and co-morbidity data will also be collected preoperatively.
+
+ Patients will be randomized to either a simple, standardized home exercise program or a supervised physiotherapy program administered by a physical therapist after undergoing a standardized operative protocol for reverse total shoulder arthroplasty.
+
+ Post-operative range of motion will be measured in a blinded fashion at 6 weeks, 3 months, 6 months, and 12 months.
+
+ A blinded observer will simultaneously measure validated functional outcomes scores including the Western Ontario Osteoarthritis Score, American Shoulder and Elbow Surgeons Score and Visual Analogue Score for pain pre-operatively and at 6 weeks, 3 months, 6 months, and 12 months post-operatively.
+
+.
+
+ Reverse Shoulder Replacement: Formal vs.
+
+ Home Physiotherapy@highlight
+
+The purpose of this study is to compare range of motion between a structured home exercise program to supervised physiotherapy post-operatively after Reverse Total Shoulder Replacement is performed for rotator cuff tear arthropathy/massive cuff tear through a single-center, assessor-blinded, randomized clinical trial.
+

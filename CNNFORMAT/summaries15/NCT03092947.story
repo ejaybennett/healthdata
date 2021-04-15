@@ -1,0 +1,26 @@
+(thirdQuint)Preoperative Prediction of Acute Kidney Injury After Cardiac Surgery.
+
+ Acute kidney injury (AKI) is a frequent complication in patients undergoing cardiac surgery with an estimated prevalence of 36%.
+
+ However, clinicians have limited tools to preoperatively identify patients at risk for AKI and/or progression to chronic kidney disease, particularly in patients with normal resting glomerular filtration rate (rGFR).
+
+ Renal functional reserve (RFR) describes the capacity of the intact nephron mass to increase GFR from baseline in response to stimuli (e.
+
+g.
+
+, protein load).
+
+ We hypothesized that the presence or absence of RFR could separate patients at risk for developing AKI from patients with better-preserved renal function and a more favorable short- and long-term prognosis despite identical rGFR.
+
+ The aim of this study is to examine whether preoperative assessment of RFR is able to predict risk for AKI after cardiac surgery.
+
+.
+
+ Preoperative Prediction of Acute Kidney Injury After Cardiac Surgery@highlight
+
+Although acute kidney injury (AKI) frequently complicates cardiac surgery, methods to determine AKI risk are lacking.
+
+ Renal functional reserve (RFR), the capacity of the intact nephron mass to increase glomerular filtration rate (GFR), represents maximal filtration capacity.
+
+ We hypothesized that preoperative RFR would predict postoperative AKI.
+

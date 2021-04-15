@@ -1,0 +1,20 @@
+(firstQuint)Single Arm Study of RAD001 as Monotherapy in Treatment in Advanced Cholangiocarcinoma.
+
+ Cholangiocarcinoma is one of the most common cause of cancer death in Thailand.
+
+ Patients with cholangiocarcinoma are often diagnosed at advanced stage.
+
+ Palliative therapeutic approaches consisting of percutaneous and endoscopic biliary drainage have usually been used for these patients, since there is no effective chemotherapeutic treatment for this type of cancer.
+
+ Activation of the phosphoinositide-3-kinase (PI3K)/Akt/mTOR signaling pathway is frequently found in cholangiocarcinoma cells.
+
+ It has been suggested to be a key step leading to the progression of cholangiocarcinoma.
+
+ In this study, the investigators hypothesize that inhibition of mTOR may be useful in treating cholangiocarcinoma.
+
+.
+
+ Single Arm Study of RAD001 as Monotherapy in Treatment in Advanced Cholangiocarcinoma@highlight
+
+The purpose of this study is to determine whether everolimus is effective in the treatment of patients with advance cholangiocarcinoma.
+

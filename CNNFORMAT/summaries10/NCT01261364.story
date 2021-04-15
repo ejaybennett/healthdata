@@ -1,0 +1,10 @@
+(firstQuint)Pharmacogenetic-Directed Treatment for Major Depression.
+
+ This study is designed to evaluate the clinical impact of pharmacogenetic (PGx)-directed treatment, as guided by interpretive, algorithmic report in the Pine Rest outpatient behavioral health clinics.
+
+ The PGx algorithm utilized in this study is the foundation of a novel method of interpreting genetic testing results and reports them in a rapidly delivered format that provides enhanced guidance to psychiatrists in their selection of antidepressant medications.
+
+ Pharmacogenetic-Directed Treatment for Major Depression@highlight
+
+Determine if antidepressant treatment guided by pharmacogenetic algorithm and interpretive report improves outcomes when compared with standard treatment without the availability of genetic information.
+

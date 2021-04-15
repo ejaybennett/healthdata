@@ -1,0 +1,32 @@
+(fifthQuint)Thirty Million Words Project: A Feasibility Trial.
+
+ The investigators propose to administer the TMW intervention to a small group of parents from low SES backgrounds in the Chicago area, assessing outcomes for caregivers at specific time intervals after administration.
+
+ An audio environment recording device, the Language ENvironment Analysis recorder (LENA), will be used to gather information about the child's home language environment.
+
+ The treatment group will receive feedback from some of these home audio recordings to motivate behavior change.
+
+ A comparison between measurements from baseline recordings (without linguistic feedback given) and recordings during the intervention program (with linguistic feedback given) will be used to evaluate changes in caregiver linguistic behavior.
+
+ In addition to the report information, parents will also be provided with strategies for enriching the child's language environment, including advice on book reading and narration.
+
+ A control arm will receive a brief nutrition intervention and complete the same number of recordings as the treatment group.
+
+ The control group will complete the same assessment schedule as the treatment group.
+
+ Assessment data will aid in evaluating the effects of the TMW intervention.
+
+ This pilot work is a critical step in understanding the language environment provided by parents of low-SES, the effectiveness of objective feedback, and the potential for change and improvement in parental behavior.
+
+ After establishing a baseline of parent-child communication levels, LENA recordings will be performed at regular intervals to provide essential feedback and motivation for parents to continually optimize the language environment they provide for their children.
+
+.
+
+ Thirty Million Words Project: A Feasibility Trial@highlight
+
+The purpose of the proposed research is to evaluate the Thirty Million Words (TMW) Intervention through a randomized, controlled pilot study.
+
+ The primary goal of the intervention is to enrich the early language learning environment of children from low-socioeconomic status (SES) backgrounds by targeting parent skills that relate to adult word input and conversational turn taking.
+
+ The investigators hypothesize that receiving the TMW intervention will result in changes in parent behaviors.
+

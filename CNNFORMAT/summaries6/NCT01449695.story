@@ -1,0 +1,18 @@
+(thirdQuint)Intervention to Improve Medication Adherence in Cardiovascular Patients.
+
+ Poor adherence to medication is one of the limitations in the treatment of cardiovascular disease.
+
+ As a consequence the risk of premature death, hospital admissions and related costs is increasing.
+
+ Therefore, detection of apparent poor adherence and interventions to improve adherence, are of great importance to enhance cardiovascular risk management over time.
+
+ This study is a prospective randomized trial, which compares 1) usual care with 2) the effect of a personalized visualization of cardiovascular risk levels (website) to support self management and 3) the additional effect of a communication intervention by a nurse on adherence on top of 2).
+
+ Adherence is determined and continuously monitored with a dedicated calculation of refill data obtained from patient's pharmacy.
+
+.
+
+ Intervention to Improve Medication Adherence in Cardiovascular Patients@highlight
+
+The purpose of this study is to investigate whether a nurse-based intervention, consisting of structural informative consulting and motivational counseling, on top of usual care with or without personalized web-based visualization of cardiovascular risk levels, improves the medication adherence in high risk cardiovascular patients.
+

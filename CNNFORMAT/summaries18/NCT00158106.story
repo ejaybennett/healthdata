@@ -1,0 +1,26 @@
+(firstQuint)Assessing the Effectiveness of Communication Therapy in the North West (The ACT NoW Pilot Study).
+
+ Research Question: This is the pilot phase of a two-phase study.
+
+ Phase 1 - What is the feasibility of conducting a randomised controlled trial of therapy for adults with post-stroke communication impairment? to be followed in 2006 by Phase 2 - What are the effectiveness, costs and service user preferences, for the provision of speech and language therapy for communication difficulties experienced by people in hospital with a stroke? Methodology: Phase 1 - Qualitative (focus groups & individual interviews) and quantitative (pilot RCT).
+
+ Phase 2 - Qualitative (focus groups & individual interviews) and quantitative (a pragmatic, multicentred, randomised controlled trial, stratified by diagnosis and therapist/centre, using an 'intention to treat' approach).
+
+ Discrete choice experiments will be used to determine cost effectiveness.
+
+ Outcome Measures: The primary outcome will be functional communicative ability.
+
+ The economic analysis will estimate the incremental cost effectiveness and net benefit of the intervention group compared to the control group from a societal perspective.
+
+ The qualitative study will examine service users' and carers' perspectives on the process and effects of Speech and Language Therapy or the control treatment.
+
+ Sample Group: Adults with dysarthria or aphasia, seen early after admission to hospital with a stroke.
+
+ Exclusions: subarachnoid haemorrhage, progressive dementia, expected recovery without therapy.
+
+.
+
+ Assessing the Effectiveness of Communication Therapy in the North West (The ACT NoW Pilot Study)@highlight
+
+This study investigates the effectiveness and cost-effectiveness of speech and language therapy for adults who suffer communication difficulties following a stroke.
+

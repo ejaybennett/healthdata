@@ -1,0 +1,50 @@
+(fifthQuint)S-Caine Peel (Skin Numbing Cream) to Treat Pain During Vascular Access Procedures in Children.
+
+ This was a randomized, double-blind, placebo-controlled, parallel study that evaluated the effectiveness of S-Caine Peel in providing local dermal anesthesia for vascular access procedures in children who were 5 through 17 years of age.
+
+ Patients were randomized 1:1 to receive either one application of S-Caine Peel or one application of placebo for 30 minutes prior to a vascular access procedure.
+
+ During the screening visit, the study was fully explained to each patient's legal guardian and written informed consent was obtained.
+
+ Whenever possible, patients provided assent.
+
+ The screening visit also included: evaluating eligibility criteria; obtaining a medical history (including skin type, demographic data, and concomitant medications); obtaining a brief physical examination and urine pregnancy test (for females of childbearing potential), which had to be negative for the patient to enroll in the study; and providing patient education on how to assess pain using the Colored Analog Scale (CAS).
+
+ The screening visit could occur on the same day as the procedure visit.
+
+ Upon meeting the eligibility criteria and completing the screening visit, patients were assigned the next available sequential patient number in their age group (5-11 years or 12-17 years).
+
+ Based upon a randomized code, patients were randomized to receive either S Caine Peel or placebo for 30 minutes before the scheduled vascular access procedure.
+
+ The study drug application site could be on either the patient's left or right antecubital surface and covered an area of 10 cm2.
+
+ A thin layer (approximately 1 mm or the thickness of a dime) of the study drug was applied evenly across the area to be treated for 30 minutes.
+
+ Immediately following removal of the study drug, the study drug application site was evaluated for erythema, edema, blanching or other skin reactions.
+
+ The vascular access procedure was then performed.
+
+ Upon completion of the vascular access procedure, the investigator's evaluation of procedural pain intensity and assessment of the adequacy of the anesthesia provided by the study drug were completed.
+
+ Following these assessments, patients assessed their procedural pain intensity using the CAS.
+
+ All pain evaluations were completed after the first attempt to gain vascular access.
+
+ If the first attempt was unsuccessful and further attempts were required, the procedure was stopped and all pain assessments were performed before further attempts at vascular access were made.
+
+.
+
+ S-Caine Peel (Skin Numbing Cream) to Treat Pain During Vascular Access Procedures in Children@highlight
+
+The pain associated with medical procedures is often under-treated in children.
+
+ Children often undergo painful procedures with little or no anesthetic, even when effective therapy is available.
+
+ Reasons for not providing available therapy in children include concerns over adverse side effects as well as the length of time necessary to provide adequate anesthesia.
+
+ Recent guidelines strongly advocate for the proactive treatment of pain in children, including the pain associated with medical procedures.
+
+ S-Caine cent Peel (lidocaine 7% and tetracaine 7% cream) is a eutectic formulation of lidocaine and tetracaine.
+
+ The purpose of this study is to evaluate whether S-Caine Peel is effective in providing topical local dermal anesthesia prior to a vascular access procedure in children 5 through 17 years of age.
+

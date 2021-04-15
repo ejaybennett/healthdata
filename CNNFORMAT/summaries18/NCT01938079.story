@@ -1,0 +1,54 @@
+(fifthQuint)Pharmacokinetic Alterations During ECMO.
+
+ The administration of analgesia and sedation is common practice for patients receiving mechanical ventilation with extracorporeal membrane oxygenation (ECMO).
+
+ Maintaining patient comfort and safety, while not oversedating and thereby risking prolonged mechanical ventilation and delirium, is an ongoing balancing act which presents a daily challenge for Intensive Care Unit (ICU) clinicians.
+
+ Medication selection should be based on the patient's needs with titration to a predetermined goal in accordance with published guidelines.
+
+ However, there are major pharmacokinetic changes that occur with the use of ECMO, including sequestration of medications within the circuit, increased volume of distribution, and in some cases decreased clearance.
+
+ As a result patient's receiving ECMO often require very high doses of both analgesics and sedatives in order to provide comfort and ventilator synchrony.
+
+ In patients not receiving ECMO, excess sedative exposure, especially with benzodiazepines, leads to increased mechanical ventilation time, prolonged ICU stay, short and long term neurocognitive impairments, and increased mortality.
+
+ No studies address these outcomes in patients receiving ECMO.
+
+ Ketamine, a non-barbiturate phencyclidine derivative, provides analgesia with relative hemodynamic stability and maintained airway reflexes.
+
+ However, its popularity waned because of an undesirable side effect profile: Hallucinations, delirium, lacrimation, tachycardia, and potential for an increase in intracranial pressure (ICP) and coronary ischemia.
+
+ Recent research, however, suggests that low doses of ketamine infusions in combination with opiates may not be associated with adverse sequelae and may improve outcomes in the critically ill population.
+
+ To date, there are no studies that have compared clinical outcomes in ICU patients sedated with ketamine as compared with other sedative agents.
+
+ Supplemental sedation with intravenous ketamine infusion may decrease opioid and sedative requirements for patients receiving mechanical ventilation and ECMO.
+
+ The benefits of decreased opioid and sedative requirements may translate to fewer gastrointestinal side effects, decreased withdrawal syndromes, and a reduced rate of delirium.
+
+ Deep levels of sedation are often required at the commencement of ECMO for acute respiratory failure, which correlates to a Richmond Agitation Sedation Score (RASS) of -5.
+
+ Supplemental low doses of ketamine infusions may help the prescriber achieve this goal without having to use very high doses of fentanyl or hydromorphone and midazolam.
+
+.
+
+ Pharmacokinetic Alterations During ECMO@highlight
+
+In a healthy patient, the lungs provide oxygen to the blood and remove carbon dioxide.
+
+ However, in patients with severe lung failure, blood may not adequately be delivered to the lungs, or the lungs may not adequately supply blood with oxygen.
+
+ In this case, patients may require assistance from a machine to help provide this oxygen.
+
+ Extracorporeal membrane oxygenation (ECMO) is a device that acts as an artificial lung, allowing the patient to recover from their illness.
+
+ Patients receiving support from ECMO are often put in a medically induced coma while their lungs heal.
+
+ Certain drugs may stick to the internal surfaces of the machine; therefore leading to decreased concentrations.
+
+ Patients receiving ECMO often require high doses of both pain medications and sedatives in order to provide comfort.
+
+ Low doses of a drug, ketamine, may help to provide additive effects to pain relief and allow lower doses of other pain medications.
+
+ The hypothesis is that patients treated with continuous intravenous ketamine, will have lower requirements of other pain medications while receiving ECMO for acute respiratory failure while achieving the desired level of sedation.
+

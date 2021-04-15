@@ -1,0 +1,48 @@
+(fifthQuint)Importance of Surgical Approach for Gynecological Surgery on Metabolic Effects and Subsequent Recovery.
+
+ This is a prospective randomized controlled single center study.
+
+ Primary screening will take place in the gynecological ward of Orebro University hospital according to the inclusion and exclusion criteria.
+
+ 20 patients will be enrolled.
+
+ All participants are randomized between robotic assisted total laparoscopic hysterectomy and total abdominal hysterectomy.
+
+ The main purpose of this study are to determine if robotic assisted laparoscopic hysterectomy induces less insulin resistance compare to abdominal hysterectomy.
+
+ Both patients with benign and malignant disease are included.
+
+ In addition inflammatory factors such as IL-6 and CRP are measured and clinical recovery is measured.
+
+ Each patient will be studied twice using the hyperinsulinemic normoglycemic clamp, a method that now is the gold standard for determining insulin sensitivity.
+
+ During the clamp insulin is infused intravenously to attain an elevation at levels seen after an abnormal meal.
+
+ At the same time glucose is infused to balance the effect of insulin and to maintain normal blood glucose level.
+
+ The amount of the glucose infusion needed is the level of insulin sensitivity.
+
+ The clamp procedure is performed before surgery as a control measure and the morning after surgery to yield the relative change in insulin sensitivity caused by the operation (postoperative insulin resistance).
+
+ Before the onset of the infusion, and after 60 minutes of steady state during insulin stimulation, blood is collected for the analysis of immune function.
+
+ This is also collected 3 hours after surgery.
+
+ A 6 minutes walk test is performed before surgery and the day after surgery, in order to determine a more clinical measure on recovery.
+
+ In addition demographic and clinical data are systematically collected during the hospital stay and 30 days after.
+
+.
+
+ Importance of Surgical Approach for Gynecological Surgery on Metabolic Effects and Subsequent Recovery@highlight
+
+Insulin resistance is a key reaction to surgery and trauma and reflects the degree of metabolic stress.
+
+ With greater degree of insulin resistance the development of complications increase, in particular infectious complications.
+
+ The aim of this study is to determine if robotic assisted total laparoscopic hysterectomy induces less insulin resistance compared to abdominal hysterectomy.
+
+ Insulin resistance is measured by the hyperinsulinemic normoglycemic clamp method.
+
+ In addition inflammatory factors and clinical recovery will be measured.
+

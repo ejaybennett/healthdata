@@ -1,0 +1,12 @@
+(firstQuint)User Evaluation in Healthy Volunteers to Verify no Pelvic Floor Contraction is Stimulated When the Modified Neurotech Vital Device is Used Compared to the Neurotech Vital Device.
+
+ This user evaluation study is to verify that the Modified Neurotech Vital Device does not stimulate the pelvic floor muscles compared with the Neurotech Vital Device.
+
+ Stimulation of the pelvic floor muscles will be assessed by using sonographic/real time ultrasound imaging/recording with displacement measurement using onscreen callipers on the sonogram unit to assess contractions.
+
+.
+
+ User Evaluation in Healthy Volunteers to Verify no Pelvic Floor Contraction is Stimulated When the Modified Neurotech Vital Device is Used Compared to the Neurotech Vital Device@highlight
+
+This user evaluation study is to verify that the Modified Neurotech Vital Device does not stimulate the pelvic floor muscles compared with the Neurotech Vital Device.
+

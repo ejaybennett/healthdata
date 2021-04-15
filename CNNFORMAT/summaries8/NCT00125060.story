@@ -1,0 +1,38 @@
+(fifthQuint)Transesophageal Magnetic Resonance Imaging (MRI) in Conjunction With Lipid Lowering Measures.
+
+ Using a new MRI coil developed by Hopkins researchers, the investigators are now able to image aortic atherosclerotic plaques in exquisite detail.
+
+ This coil is placed into the esophagus via a small nasogastric tube and positioned next to the descending thoracic aorta.
+
+ Using this method of transesophageal MRI (TEMRI), the investigators are able not only to measure the extent of aortic atherosclerosis and the size of individual plaques, but they can now image in such detail as to obtain information about plaque composition.
+
+ The extent of aortic atherosclerosis has been correlated with cardiovascular events including heart attack and stroke.
+
+ The investigators now propose to use this new imaging technique to study the effect of aggressive lipid lowering measures on patients with aortic atherosclerosis.
+
+ They plan to randomize patients with documented vascular disease to high dose (simvastatin 80mg) versus low dose (simvastatin 20mg) cholesterol lowering medications.
+
+ The investigators expect to show a decrease in the extent of atherosclerosis, a change in plaque morphology and composition, and perhaps a decrease in cardiovascular events in the aggressive care group of patients.
+
+ They also plan to measure serum markers of inflammation in these patients at baseline and after therapy.
+
+ C-reactive protein is the most studied of the markers that are independently correlated with cardiovascular events.
+
+ The investigators hope to show that TEMRI correlates higher levels of C-reactive protein with more baseline atherosclerosis, and that treatment with high dose statin therapy reduces levels of inflammatory markers.
+
+ Finally they plan to store plasma collected on these patients to save for future studies of cardiac markers, which could then be correlated with the effect of statin therapy and the reduction in aortic atherosclerosis as documented by TEMRI.
+
+.
+
+ Transesophageal Magnetic Resonance Imaging (MRI) in Conjunction With Lipid Lowering Measures@highlight
+
+This research is being done to investigate the ability of an experimental imaging method - transesophageal magnetic resonance imaging (TEMRI), to detect the change in aortic atherosclerotic plaque burden and morphology between patients on high dose cholesterol lowering medications and patients on standard dose cholesterol lowering medications.
+
+ This study will use TEMRI to see how atherosclerosis (cholesterol build up) changes with cholesterol lowering medications.
+
+ This study will also investigate whether these cholesterol-lowering medications will change levels of blood tests, called inflammatory markers, in patients' blood.
+
+ People with atherosclerosis may join this study.
+
+ This study will also store blood samples for future studies of cardiac diseases; no gene testing will be done.
+

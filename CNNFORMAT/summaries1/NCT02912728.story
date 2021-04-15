@@ -1,0 +1,14 @@
+(secondQuint)Strategies to Enhance New CGM Use in Early Childhood (SENCE).
+
+ Although prior studies have not demonstrated that continuous glucose monitoring (CGM) use results in improved glycemic control in children <8 years of age, many of the barriers to CGM efficacy in this age group may have been due to problems in the wearability and accuracy of prior generation devices, as well as to the setting of glycemic targets aimed primarily at preventing hypoglycemia at all costs.
+
+ There may also be behavioral barriers to consistent and effective CGM use in this age range.
+
+ The goal of this study is to assess the impact of CGM alone and CGM combined with a family behavioral intervention focused on supporting CGM use on glycemic control in very young children with T1D compared with usual care without CGM.
+
+.
+
+ Strategies to Enhance New CGM Use in Early Childhood (SENCE)@highlight
+
+The primary objective of this study is to compare the efficacy and safety of CGM alone and CGM combined with a family behavioral intervention with a control group using home blood glucose monitoring (BGM) alone.
+

@@ -1,0 +1,22 @@
+(secondQuint)Efficacy Study of Olmesartan Medoxomil on Coronary Atherosclerosis and Epicardial Adipose Tissue(EAT).
+
+ Epicardial adipose tissue(EAT) is directly deposited around the pericardium and coronary artery.
+
+ By means of paracrine action, it can generate various kinds of cytokines, inflammatory factor and free fatty acids, that can affect the state of coronary endothelial function, inflammation and oxidative stress, which finally aggravate the progression of coronary atherosclerosis.
+
+ In recent years, clinical studies have shown that EAT is a newly discovered independent risk factor of coronary atherosclerosis.
+
+Studies confirm that olmesartan medoxomil can improve endothelial function, resisting thrombosis, improve tissue reconstruction, resisting oxidative stress so as to achieve atherosclerosis resistant.
+
+ Latest researches show that olmesartan medoxomil can better inhibit rat epididymal adipose cell hypertrophy and inflammatory reaction.
+
+ Coronary CT angiography(CCTA) has emerged as a noninvasive imaging method for analysis coronary atherosclerosis.
+
+ The purpose of this study is to determine whether olmesartan medoxomil is effective in the treatment of coronary atherosclerosis progression and EAT volume reduction in patients with coronary atherosclerosis detected by CCTA.
+
+.
+
+ Efficacy Study of Olmesartan Medoxomil on Coronary Atherosclerosis and Epicardial Adipose Tissue(EAT)@highlight
+
+The purpose of this study is to determine whether olmesartan medoxomil is effective in the treatment of coronary atherosclerosis progression and epicardial adipose tissue(EAT) volume reduction in patients with coronary atherosclerosis detected by coronary CT angiography(CCTA).
+

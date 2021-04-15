@@ -1,0 +1,25 @@
+(fifthQuint)Text Messaging Plus Motivational Interviewing in Promotion of Breastfeeding Among HIV-infected Women.
+
+ Breastfeeding reduces the risks of dying from infections and is currently recommended as the most beneficial feeding option for infants born to HIV-infected women in low-resourced settings.
+
+ This recommendation contradicts previous recommendations to avoid breastfeeding to prevent mother-to-child transmission of HIV.
+
+ South Africa, a high HIV prevalent country, recently phased out access to free formula milk in the public sector in support of breastfeeding for HIV-infected women.
+
+ The investigators previously found that few HIV-infected South African women choose breastfeeding and among those who did, many stop breastfeeding early.
+
+ This study involves text messaging breastfeeding advice encouraging women to exclusively breastfeed, and inquire if they have any breastfeeding related problems, and motivational interviews exploring and supporting woman's commitment to continue breastfeeding.
+
+Participants meeting inclusion criteria who consent participation will be enrolled by a research nurse and immediately randomly assigned to text messaging plus motivational interviewing group or usual standard of care group.
+
+ The investigators propose a randomized, parallel group, standard of care-controlled pilot trial which will be conducted among HIV-infected women of low socio-economic background, giving birth at a primary healthcare clinic in Cape Town, South Africa.
+
+ The pilot trial will assess the feasibility of conducting a larger trial on communication and support approaches that may improve HIV-infected woman's adherence to exclusive and continued breastfeeding.
+
+.
+
+ Text Messaging Plus Motivational Interviewing in Promotion of Breastfeeding Among HIV-infected Women@highlight
+
+The primary aim of this study is to find out whether it is feasible to conduct a larger study looking at the effect of mobile phone text messaging added to motivational interviewing on number of women living with HIV infection reporting exclusive or any breastfeeding six months post-delivery.
+
+ Secondary aim: In HIV-infected women initiating breastfeeding after giving birth, does interactive weekly mobile phone text messaging plus motivational interviewing versus usual care, improve self-reported adherence to exclusive or any breastfeeding 6 months post-delivery

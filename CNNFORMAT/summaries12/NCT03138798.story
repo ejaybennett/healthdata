@@ -1,0 +1,24 @@
+(thirdQuint)Dental Support Device in the Second Stage of Labor.
+
+ In an effort to reduce the rate of cesarean section, obstetric practices now allow for prolonged second stage of labor to accomplish vaginal delivery.
+
+ However, this practice is not without risks and may lead to either operative delivery (vacuum or forceps assisted delivery) or cesarean section with significant maternal/neonatal morbidity.
+
+ Limited evidence suggests that dental support devices (DSD) may improve maternal valsalva and lead to a shortened second stage of labor by allowing them to push more effectively.
+
+ Previous studies have been underpowered to find statistically significant results.
+
+ The Icahn School of Medicine at Mount Sinai has a unique and heterogeneous inner-city population of laboring mothers with marked rates of maternal obesity.
+
+ The objective is to conduct a randomized controlled trial in which nulliparous patients are asked to use the LaboraideTM, a DSD designed for laboring women, while pushing with contractions in the second stage of labor.
+
+.
+
+ Dental Support Device in the Second Stage of Labor@highlight
+
+Obstetric practices now allow for prolonged second stage of labor to accomplish vaginal delivery.
+
+ However, this practice may lead to either operative delivery (vacuum or forceps assisted delivery) or cesarean section with significant maternal/neonatal morbidity.
+
+ Limited evidence suggests that dental support devices (DSD) may improve lead to shortened labor by allowing patients to push more effectively.
+

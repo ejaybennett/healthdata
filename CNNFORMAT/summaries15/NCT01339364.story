@@ -1,0 +1,36 @@
+(fifthQuint)Impact of Three Continuing Education Meetings for Community Pharmacists on Weight Management.
+
+ The study is designed as an Instructor blinded-Randomized Controlled Trial.
+
+ An educational need assessment is undergone prior to educational content preparation by interviewing 5 community pharmacists.
+
+ After educational content preparation by instructors, the outcome assessment tool (knowledge, attitude questionnaire) would be designed by a distinct investigator.
+
+ Closed and Open-ended questions are included to investigate different levels of Bloom's taxonomy.
+
+ The questionnaire would be validated by specialists other than the instructors and it will piloted to investigate the reliability( Cronbach's Alfa > 0.
+
+7).
+
+ Community pharmacists of Tehran,Capital city of Iran, would be invited to participate in the study.
+
+ The participants would be randomly assigned to 3 groups by random number table.
+
+ Each group receives the same education content with a different method: 1.
+
+ Didactic lecture 2.
+
+ Didactic lecture plus case discussion in a large group 3.
+
+ Didactic lecture plus small group education with simulated patient(SP).
+
+ Interviewing with SP is conducted by small group facilitators with Brain Storming Technic.
+
+ Each participant receives a compact disk which includes the educational material and he/she would be able to contact the instructors by phone or e-mail during the follow-up period.
+
+ (Reinforcement Phase).
+
+ Impact of Three Continuing Education Meetings for Community Pharmacists on Weight Management@highlight
+
+This study is a three-arm randomized controlled trial to evaluate the effects of 1-day continuing educational meetings for community pharmacists with three distinct educational methods: 1) Didactic lecture 2) Didactic lecture plus case discussion in a large group 3) Didactic lecture plus small group education with simulated patient Knowledge and attitude of the participants would be measured as the study outcome in three periods: pre-education, post-education and 1 month after the meetings.
+

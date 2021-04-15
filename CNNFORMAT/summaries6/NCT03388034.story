@@ -1,0 +1,98 @@
+(fifthQuint)Pertussis Immunization Programs in Low Income Countries - Ivory Coast.
+
+ Background: Vaccination of infants and young children with a whole-cell pertussis (wP) vaccine dramatically decreased the mortality and morbidity due to B.
+
+ pertussis.
+
+ However, twenty-five years of "honeymoon" period, after the introduction of high vaccination coverage, reappearance of whooping cough cases in industrialized countries was observed in infants contaminated by adolescents and adults.
+
+ This modification in transmission of the disease after the introduction of the wP vaccine indicated that the immunity provided by the vaccine is not lifelong, just like that provided by natural infection, and that it decreases7-9 years after the first vaccination and the first booster.
+
+ Due to secondary effects, wP vaccines cannot be used for boosters.
+
+ Moreover, the wP vaccines have been shown to be different in terms of efficacy (varying from 30 to 95%).
+
+ Acellular pertussis (aP) vaccines consisting of purified and inactivated bacterial proteins, have therefore been developed and commercialized.
+
+ These vaccines induce much fewer side effects and may therefore be used for primary-vaccination as well as for vaccine boosters.
+
+ They are expensive but have more reproducible manufacturing.
+
+ The humoral and long-term cell-mediated immunities granted by the aP vaccines have been shown to be comparable to the immunity granted by the wP vaccines, effective for 6-7 years after the booster vaccine in the second year of life, also inducing different cell immunity.
+
+ Since 2007, the proportion of B.
+
+ pertussis and B.
+
+ parapertussis isolates no longer producing vaccine antigen(s) has increased in the industrialized countries that use aP vaccines.
+
+ These isolates may decrease the efficacy of the aP vaccines.
+
+ Does this type of isolates circulate in the Low income countries still using wP vaccines ? Does it reduce the efficacy of the wP vaccines? Moreover, the wP vaccines used in the Southern countries have not been assessed like the ones used in the Northern countries.
+
+ In particular, the duration of protection after the primary-vaccination and a vaccine booster is not known.
+
+ Rational: For various reasons, a large difference exits between the monitoring systems across the world: awareness of the disease is variable depending on the population; differences in the immunization coverage and strategies; diverse compositions of the vaccines used; but overall the large differences between the vaccines in terms of immunity against the disease, protection against infection and/or decrease in the transmission of the pathogen.
+
+ The underestimation of pertussis is recognized by the World Health Organisation (WHO) and the Global Pertussis Initiative (GPI) who highlight the problem of the reliability of the declared data.
+
+ This situation is the result of i) limited use of biological diagnostics (problems in isolating the bacteria in the laboratories); ii) diagnostic errors due to the fact that diagnosis is mainly clinical ; iii) inadequate monitoring of the illness ; iv) a lack of awareness among physicians.
+
+ Pertussis is not considered when it is comes to identifying the respiratory pathogen: most clinicians continue to consider it as only a child illness and ignore adult infections.
+
+ The absence of an available tool allowing a reliable diagnostic to be made makes difficult to assess the real impact of this pathogen in child respiratory syndromes.
+
+ Several studies have been performed on the duration of protection induced by the wP and aP vaccines in Australia, the USA and in Europe.
+
+ However, few studies have been performed on the wP vaccines used in middle and low income countries and none in Ivory Coast.
+
+ This study is part of a program entitled PERILIC which is currently conducted in Cambodia, Madagascar and Togo (NCT02983487).
+
+ This research program will allow the vaccination strategy of each region concerned to be adapted when needed, as recommended by the WHO.
+
+ Expected Outcomes: Impact on vaccination strategy:This study, as well as the analysis of data from other national programs for the surveillance of Pertussis, may raise public health authorities' awareness and help them adapting their assessment method for national vaccination programs by including the duration of protection induced by their national wP vaccine and their data on vaccine coverage, on the basis of the information in vaccination booklets, as recommended by WHO.
+
+ Impact on the improvement the children's health: The results of our study should raise the public health authorities' awareness on vaccine-preventable diseases, especially whooping cough.
+
+ This raising of awareness will focus on the surveillance/monitoring and diagnosis of this disease.
+
+ Moreover, the development of reliable biological diagnostic tools for pertussis will help the clinicians to confirm pertussis diagnosis and to adapt the therapeutic approach accordingly, thus improving the care of the infected person and to stop transmission of the disease which is very contagious.
+
+ Impact on the surveillance of the disease by developing an hospital-based surveillance Training, technology transfer and strengthening of the surveillance network: For the first time, the detection and identification techniques for the other species of Bordetella genus (i.
+
+e.
+
+ B.
+
+ parapertussis and B.
+
+ holmesii) will be transferred to laboratories in Ivory Coast.
+
+ The diagnosis of the different Bordetella species by real time PCR and the serological tests will be set up in the laboratories participating in this study.
+
+ These laboratories could further be used by the national surveillance network and thus improve the quality of the data available for the local health authorities and for WHO.
+
+ Thus, this study will allow the establishment of an effective monitoring of pertussis in Ivory Coast through the raising of the population's awareness, the training of local doctors on the clinical screening of this disease, and finally via the transfer of diagnostic techniques within the laboratories.
+
+.
+
+ Pertussis Immunization Programs in Low Income Countries - Ivory Coast@highlight
+
+Due to waning of infectious as well as vaccine immunity and lack of vaccination boosters, a large number of adolescents and adults are no longer immunized against Bordetella pertussis, the agent of whooping cough and consequently may contract whooping cough.
+
+ Furthermore, these populations represent a reservoir of the infectious agent from which the dissemination to non-immune infants is possible, causing severe illness, or even death, in this age group.
+
+ Few studies have been carried out on whooping cough in developing countries (incidence, contaminator's age, etc.
+
+) and, specifically, none have assessed the duration of protection induced by the whole cell pertussis (wP) vaccine mainly presently used in these countries.
+
+ However, data on the duration of vaccine induced protection are essential to determine i) the usefulness of vaccine boosters and ii) the target age group for these boosters.
+
+ The aims of the present study are: - To evaluate the proportion of confirmed pertussis cases in infants presenting whooping cough syndrome (WP1a) - To evaluate the proportion of confirmed pertussis cases or healthy carriers among contact cases - To determine origin of the infant's contamination (WP1b) - To determine the duration of protection induced by the wP vaccines used in contact cases and the child population aged 3 to 15 yo (WP1b and WP2) - To bring new scientific evidences documenting the potential need for initiating boosters (WP1b and WP2) - To allow a comparison of the results with those obtained using the same methodology for the acellular pertussis vaccine and/or in other contexts.
+
+ Potential implications for the use of pertussis vaccines in low and moderate income countries.
+
+ - To increase local capabilities by the transfer of materials and expertise that will make the diagnosis of pertussis possible in the centres of reference and strengthen a pertussis monitoring network in the implicated countries.
+
+ - To improve children's health through a better match of the vaccination schedule according to the reality of the situation.
+

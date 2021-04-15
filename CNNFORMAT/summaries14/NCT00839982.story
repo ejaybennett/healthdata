@@ -1,0 +1,24 @@
+(secondQuint)Clofarabine and Cytarabine in Treating Older Patients With AML or High-Risk MDS.
+
+ PRIMARY OBJECTIVES: I.
+
+ To estimate the maximum tolerated dose (MTD) of oral clofarabine when given with LDAC (cytarabine) in patients age >= 60 with previously treated AML or high risk MDS.
+
+ SECONDARY OBJECTIVES: I.
+
+ To determine the response rate, disease-free survival (DFS), and overall survival (OS) after therapy with oral clofarabine and LDAC for previously treated AML or high-risk MDS.
+
+ OUTLINE: This is a phase I, dose-escalation study of clofarabine followed by a phase II study.
+
+ Patients receive clofarabine orally (PO) once daily (QD) on days 1-5 and low-dose cytarabine subcutaneously (SC) twice daily (BID) on days 1-10 or SC QD on days 1-14.
+
+ Treatment repeats every 21-28 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up every 3 months for 2 years and then annually for 3 years.
+
+.
+
+ Clofarabine and Cytarabine in Treating Older Patients With AML or High-Risk MDS@highlight
+
+This phase I/II trial studied the side effects and best dose of clofarabine when given together with cytarabine and to see how well they work in treating older patients with acute myeloid leukemia (AML) or high-risk myelodysplastic syndromes (MDS) that have relapsed or not responded to treatment.
+

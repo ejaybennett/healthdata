@@ -1,0 +1,26 @@
+(thirdQuint)Acute Graft-versus-Host Disease Treatment (BMT CTN 0802).
+
+ Corticosteroids have been used as primary therapy for acute GVHD for many years.
+
+ Historical published and unpublished data from Johns Hopkins, M.
+
+ D.
+
+ Anderson, University of Michigan and others defined an expected 35%-53% complete response (CR) at Day +28 of corticosteroid therapy for previously untreated patients with acute GVHD.
+
+ BMT CTN study 0302 (NCT00224874)was a randomized Phase II study evaluating etanercept, mycophenolate mofetil, denileukin diftitox or pentostatin in addition to corticosteroids.
+
+ The results of that study suggested that mycophenolate mofetil produced the highest rates of CR at Day 28 and overall survival, supporting its evaluation in a Phase III study.
+
+ Day 56 GVHD-free survival for the four treatment arms (all combining corticosteroids with one of the four study drugs) ranged from 39-71% across the four study arms.
+
+.
+
+ Acute Graft-versus-Host Disease Treatment (BMT CTN 0802)@highlight
+
+The study is a Phase III, randomized double blind, placebo controlled, and trial evaluating the addition of Mycophenolate mofetil (MMF) vs.
+
+ placebo to systemic corticosteroids as initial therapy for acute Graft Vs Host Disease (GVHD).
+
+ The primary endpoint will be GVHD free survival at Day 56 post randomization.
+

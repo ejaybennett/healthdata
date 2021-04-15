@@ -1,0 +1,14 @@
+(firstQuint)A Study to Evaluate the Effect of Belimumab on Vaccine Responses in Subjects With Systemic Lupus Erythematosus (SLE).
+
+ All patients in this study will receive belimumab plus standard therapy for SLE and vaccination against pneumococcus.
+
+ Patients will be randomized to receive pneumococcal vaccination either 4 weeks prior (early vaccination group) or 24 weeks after (late vaccination group) their first belimumab dose.
+
+ Vaccine response will be assessed 4 weeks after vaccine administration.
+
+.
+
+ A Study to Evaluate the Effect of Belimumab on Vaccine Responses in Subjects With Systemic Lupus Erythematosus (SLE)@highlight
+
+The purpose of this study is to assess the impact of belimumab on immune response to pneumococcal vaccine in subjects with Systemic Lupus Erythematosus (SLE).
+

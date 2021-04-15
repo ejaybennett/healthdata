@@ -1,0 +1,16 @@
+(firstQuint)The Effect of Glucose-Insulin-Potassium Infusion in Patients Undergoing Cardiac Surgery.
+
+ Cardiac surgery with cardiopulmonary bypass and ischemic cardiac arrest is associated with a wide spectrum of perioperative myocardial ischemic-reperfusion injuries resulting in significant cardiac morbidity, namely contractile dysfunction, myocardial infarction, and low cardiac output syndrome requiring prolonged intensive care and hospital stay.
+
+ The infusion of glucose-insulin-potassium (GIK) is one of the oldest cardioprotective interventions during cardiac surgery.
+
+ Although experimental evidence is strong, clinical data remain conflicting.
+
+ We will investigate the impact of short term GIK on the extent of myocardial injuries as well as on the left-ventricular systolic and diastolic function in 2 high-risk groups of cardiac surgical patients: Patients with cardiac dysfunction undergoing aortocoronary bypass surgery and patients with severe aortic stenosis.
+
+.
+
+ The Effect of Glucose-Insulin-Potassium Infusion in Patients Undergoing Cardiac Surgery@highlight
+
+The purpose of this study is to evaluate the cardioprotective effects of a short term infusion of glucose-insulin-potassium (GIK) during heart surgery.
+

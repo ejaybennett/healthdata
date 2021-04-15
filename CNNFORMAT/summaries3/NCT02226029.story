@@ -1,0 +1,60 @@
+(fifthQuint)Quantitative MR Methods for Lipid Emulsions.
+
+ Participants will be given two lipid emulsions with different physicochemical composition in randomized order at two separate visits.
+
+ A nasogastric tube will be applied for intragastric lipid emulsion infusion to control for the effect of inter-individual tolerance to texture and taste of the lipid emulsions.
+
+ Standard MR measurements will be performed to regularly assess intragastric fat content and related fat content emptying over a period of 3 hours.
+
+ At different pre-defined time points during gastric processing and emptying of the emulsions, five samples of gastric content (5x2 ml) will be aspirated via the nasogastric tube to determine local intragastric fat content with a density measurement.
+
+ The measured fat fraction of the aspirated samples will validate the non-invasive quantitative MR measurements.
+
+ Each participant will also undergo either a 13C-sodium acetate or a 13C-sodium octanoate breath test at each of the two visits.
+
+ Breath tests will be carried out throughout the MR imagining period and for 2 hour post imaging.
+
+ A subset of participants will undergo the same breath test procedures but without the use of MR and gastric content samples.
+
+ 2 isovolumetric (200 ml) and isocaloric (200 kcal) lipid emulsions with different acid and shear stability.
+
+ 13C-markers will be mixed with emulsions.
+
+ - Lipid emulsion 1: acid stable, particle size 0.
+
+6 mu m - Lipid emulsion 2: acid unstable, redispersible by mechanical processes during antral contractions and passage through the pylorus, particle size 0.
+
+6 mu m Power calculation is based on an in-vitro pilot experiment, in which we determined a variation in the detection of fat fraction in the lipid emulsions of 1.
+
+5%.
+
+ With 12 enrolled subjects, the detectable difference in fat fraction at a significance level of 0.
+
+05 and a defined power of 0.
+
+9 is about 2%.
+
+ In 18 enrolled subjects (12+6) that are separated into two groups of 9, the detectable difference in 13CO2 recovery at a significance level of 0.
+
+05 and a defined power of 0.
+
+9 is 0.
+
+15 Percent Dose Recovered per hr (PDR/hr).
+
+ This study will be conducted in compliance with the protocol, the current version of the Declaration of Helsinki, the ICH-GCP or ISO EN 14155 (as far as applicable) as well as all national legal and regulatory requirements.
+
+.
+
+ Quantitative MR Methods for Lipid Emulsions@highlight
+
+Quantitative MR methods will be validated for the non-invasive imaging of GI processing of lipid emulsions in 18 (12+6) healthy subjects.
+
+ Validation is performed by a randomized single blind two-armed crossover trial with two isovolumetric and isocaloric lipid emulsions of different microstructural properties.
+
+ Hypotheses of this sudy are that 1.
+
+ the fat fraction of lipid emulsions in the GI tract can be monitored by quantitative MR methods and that 13C-sodium octanoate and 2.
+
+ 13C-sodium acetate in lipid emulsions will exhibit different excretion profiles due to their opposing binding affinity to water and fat.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Non-invasive Quantification of Liver Iron With MRI.
+
+ Excessive accumulation of iron in the body can result from abnormal intestinal absorption in hereditary hemochromatosis or repeated intravenous blood transfusions (ie: transfusional hemosiderosis).
+
+ Excess body iron is highly toxic, and requires treatment aimed at reducing body iron stores.
+
+ Measurement of body iron stores is critical for detection of iron overload, staging its severity and monitoring of iron-reducing therapies that are often extremely expensive (>$40,000/year) and carry their own toxicities.
+
+ MRI has been shown to be very sensitive to the presence of iron.
+
+ The investigators have developed an MRI-based method for rapid iron quantification (for instance, whole liver in a single breath-hold).
+
+ The purpose of this work is to validate this new method using the FDA-approved Ferriscan technique (Resonance Health, Claremont, Australia) as a reference standard.
+
+.
+
+ Non-invasive Quantification of Liver Iron With MRI@highlight
+
+The purpose of this study is to validate magnetic resonance imaging as a biomarker of hepatic iron concentration (HIC).
+
+ Excessive accumulation of iron in the body is highly toxic, specifically in the liver.
+
+ Accurate, non-invasive assessment of HIC is needed for diagnosis, quantitative staging and treatment monitoring or hepatic iron overload.
+

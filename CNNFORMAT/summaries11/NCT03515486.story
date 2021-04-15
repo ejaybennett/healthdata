@@ -1,0 +1,34 @@
+(fifthQuint)Cerebellar Stroke and Mood Disorders.
+
+ Stroke is the leading cause of acquired disability in adults.
+
+ Beyond these physical consequences, stroke is a major cause of mood disorders (depression, anxiety, apathy), affecting more than 30% of patients at 3 months after the initial accident.
+
+ These mood disorders impair patient's quality of life and their post-stroke functional recovery.
+
+ Their detection is usually based on an interview conducted during a follow-up visit and intensity is measured through dedicated scales.
+
+ However the sensitivity of these assessments could be improved by multiple daily ecological assessments carried out in the patient environment through mobile technologies such as smartphones (Experience Sampling Method) and actimeters.
+
+ Moreover, a better understanding of the pathophysiological mechanisms underlying the presence of post-stroke mood disorders could improve their management.
+
+ Clinical factors such as the severity of the disability or the female gender are associated with the occurrence of mood disorders but the independent role of the anatomical location of brain injury remains uncertain.
+
+ During the last decade many studies have suggested the role of the cerebellum in the regulation of cognition and, to a lesser extent, mood.
+
+ An anatomical or functional impairment of the cortico-cerebellar-cortical loops might contribute to the occurrence of the mood disorders observed in some patients with cerebellar lesion.
+
+ The aim of this project is to explore in the context of a cerebellar infarct the association between the presence of post-stroke mood disorders, detected both by standard evaluations and assessments conducted in the ecological environment, and the functional and structural alteration of cortico-cerebellar-cortical loops evaluated by MRI.
+
+.
+
+ Cerebellar Stroke and Mood Disorders@highlight
+
+Post-stroke mood disorders (PSMD), including depression, anxiety and apathy, are observed in about 30 % of stroke patients at follow-up 3 or 4 months after stroke occurrence.
+
+ They impair the functional outcome of the patients and their quality of life.
+
+ Among the different brain structures involved in PSMD the role of the cerebellum has been under-evaluated while it is now well-known to be involved in mood regulation.
+
+ The aim of this study will be to describe the characteristics of mood disorders following a first acute ischemic cerebellar stroke using face to face interviews and mobile technologies and investigate their pathophysiological mechanisms through advanced brain Magnetic resonance imaging (MRI) evaluation of cortico-cerebello-cortical morphological and functional connectivity.
+

@@ -1,0 +1,22 @@
+(thirdQuint)Bone Augmentation Using Particulated Biomaterial and Autogenous Bone, Stabilized by Collagen Membrane and Pins (PaMP).
+
+ Twenty four patients will be selected analysing the resorption on the front maxilla and will be divided into two groups.
+
+ Experimental group will receive a particulated mixture of autogenous and lyophilized bovine bone, stabilized with a collagen membrane and pins over the vertical and/or horizontal defect, while Control group will receive a bone block graft, stabilized with fixation screws , covered with lyophilized bone and a collagen membrane.
+
+ After a period of nine months, the volume increase will be measured trough the difference found between the initial computerized tomography and the final computerized tomography.
+
+ Dental implants will be placed according to the prosthetic need and bone cylinders will be removed from the respective location.
+
+ The cylinders will be histologically analysed in order to verify the quality of the graft osteointegration.
+
+ After the prosthesis installation, the implant survival and the soft and hard tissues will be followed up for a minimum period of 24 months.
+
+.
+
+ Bone Augmentation Using Particulated Biomaterial and Autogenous Bone, Stabilized by Collagen Membrane and Pins (PaMP)@highlight
+
+Twenty four patients with bone resorption on the anterior maxilla will be divided into two groups with different kinds of grafting: bone block associated with particulated biomaterial and particulated mixture of autogenous bone and biomaterial stabilized by collagen membrane and pins.
+
+ The techniques will be compared according to volume gain, quality of graft osseointegration, implant survival and maintenance of the level of soft tissues.
+

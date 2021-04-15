@@ -1,0 +1,14 @@
+(thirdQuint)Relative Bioavailability of Gantenerumab Produced by G4 Process Versus G3 Process Following Subcutaneous (SC) Injection in Healthy Participants.
+
+ This multi-center, randomized, open-label, single dose, parallel-group study will assess the relative bioavailability and the safety and tolerability of gantenerumab produced with the G4 process in comparison to gantenerumab produced with the G3 process.
+
+ All participants will receive single SC dose of gantenerumab (manufactured by either the G3 or G4 process) on Day 1.
+
+ The total duration of the study for each participant will be up to 21 weeks: Screening (up to 8 weeks); In-clinic period (Days -1 to 3); Out-patient period (Days 4 up to 68); and Safety Follow-up (up to 90 days after dosing).
+
+.
+
+ Relative Bioavailability of Gantenerumab Produced by G4 Process Versus G3 Process Following Subcutaneous (SC) Injection in Healthy Participants@highlight
+
+The purpose of this study is to assess the relative bioavailability of the high concentration liquid formulation (HCLF) of gantenerumab produced with the G4 process in comparison to the same HCLF of gantenerumab produced with the G3 process in healthy participants following single SC dose administration.
+

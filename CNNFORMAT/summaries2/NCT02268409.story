@@ -1,0 +1,20 @@
+(secondQuint)ACE-536 Extension Study - Beta Thalassemia.
+
+ Study A536-06 is an open-label extension study for patients previously enrolled in study A536-04 (ClinicalTrials.
+
+gov Identifier NCT01749540), to evaluate the safety,tolerability and pharmacodynamic effects of up to 24 months of ACE-536 treatment in adult patients with beta-thalassemia previously treated with ACE-536 for up to 3 months in study A536-04.
+
+ The starting dose level in A536-06 will be 0.
+
+8 mg/kg by subcutaneous (SC) injection once every 3 weeks.
+
+ Dose titration/modification rules will be followed for individual patients and will be based upon safety and efficacy data collected during the course of treatment.
+
+.
+
+ ACE-536 Extension Study - Beta Thalassemia@highlight
+
+Study A536-06 is an open-label extension study for patients previously enrolled in study A536-04 (ClinicalTrials.
+
+gov Identifier NCT01749540), to evaluate the long-term safety and tolerability of ACE-536 in adult patients with beta-thalassemia.
+

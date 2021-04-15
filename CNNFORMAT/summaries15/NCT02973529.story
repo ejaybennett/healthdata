@@ -1,0 +1,48 @@
+(fifthQuint)The Bioresorbable Implants for Scaffolding Obstructions in Randomized Bifurcations (BIFSORB) Study.
+
+ BIFSORB is a prospective, randomized multicenter trial comparing 6-month healing outcome after treatment of simple coronary bifurcation lesions by Absorb or Desolve BRS.
+
+ for treatment of coronary bifurcation lesions.
+
+ BRS are promising in treatment of coronary artery disease.
+
+ The concept of bifurcation treatment using BRS is particular appealing as struts covering the side branch ostium may resorb over time.
+
+ The aim of this study is to compare the 6 months safety and vessel healing after treatment of coronary bifurcation lesions by the Desolve or Absorb BRS.
+
+ Hypothesis: Treatment of coronary bifurcation lesions using Absorb and Desolve bioresorbable stents is safe.
+
+ Treatment of coronary bifurcation lesions by Desolve BRS is associated with a lower index of adverse vessel wall features (main vessel area stenosis, acquired malapposition, evaginations, late recoil, single end attached protruding struts, side branch ostial area stenosis) at 6 months compared to treatment with Absorb BRS.
+
+ Methods: Prospective, open label, single blind, randomized, feasibility and safety pilot study with inclusion of 120 patients.
+
+ Randomization 1:1 to Absorb or Desolve.
+
+ Planned 6- and 24-month follow-up by OCT and follow-up for clinical endpoints until 10 years.
+
+ Eligible patients with a bifurcation lesion are treated by the provisional technique with mandatory jailing of the side branch and provisional opening of side branch ostium by the mini-kiss technique in case of severe pinching or TIMI-flow less than III.
+
+ Proximal post-dilatation is mandatory.
+
+ No dilatation beyond the expansion limits of the BRS.
+
+ The patients are assessed by optical coherence tomography (OCT) before, during and after implantation of the Absorb or Desolve BRS at baseline procedure and again at 6- and 24-month follow-up, or before if they are readmitted with a possible target lesion failure.
+
+ The operator is not blinded to pre-PCI OCT images that may be used for sizing and positioning of the scaffolds.
+
+ Procedural OCT may be used to optimize scaffold implantation before performing final OCT.
+
+ Results are reported as clinical safety at 6 months (myocardial infarction, revascularization, death) and stent healing index by OCT including malapposition, stent coverage, side branch ostial area late loss, fracture and evaginations.
+
+.
+
+ The Bioresorbable Implants for Scaffolding Obstructions in Randomized Bifurcations (BIFSORB) Study@highlight
+
+Coronary artery disease is often treated by implantation of permanent metallic stents.
+
+Coronary stents are required in the early healing phase after balloon dilatation but constitute a lifelong foreign body.
+
+ New bioresorbable stents have been developed and are believed to improve long-term safety.
+
+ The purpose of this study is to compare the safety and vessel healing after treatment of simple bifurcation lesions with the CE-marked bioresorbable stents Absorb and Desolve.
+

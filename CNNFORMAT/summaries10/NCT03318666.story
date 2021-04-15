@@ -1,0 +1,26 @@
+(thirdQuint)Supporting Our Valued Adolescents Pilot Randomized Controlled Trial.
+
+ Although recent evidence shows integrated care models increase service use, implementing these models is resource intense.
+
+ Even in primary care settings with access to services and routine screening for depression and anxiety, patient engagement is low.
+
+ This can be explained by a low perceived need for services present in both adolescents and parents.
+
+ Key target mechanisms which may increase service use include: (1) parents' and adolescents' health beliefs and knowledge, (2) emotional/informational support, and (3) communication about mental health with each other.
+
+ The "SOVA" or "Supporting Our Valued Adolescents" intervention aims to address these key mechanisms through two moderated social media websites (one for parents, one for adolescents) which include daily blog posts, online peer to peer interactions, and discussion guides.
+
+ SOVA had undergone an iterative process of design - using stakeholder-engagement and human computer interaction techniques (PCOR K12 HS 22989-1).
+
+ The goal of this process was to build a usable intervention which is stakeholder-informed.
+
+ Preliminary work has found that 100 adolescents/young adults with a history of depression or anxiety symptoms and parents find the SOVA websites to have good usability.
+
+ The investigators will use a pilot randomized controlled trial of SOVA to refine recruitment and retention strategies, measure implementation outcomes and investigate potential mechanisms of action in depressed and/or anxious adolescents not currently engaged in treatment and their parents; and examine parent-adolescent communication factors about mental health and relationship quality in the context of a web-based intervention.
+
+.
+
+ Supporting Our Valued Adolescents Pilot Randomized Controlled Trial@highlight
+
+The purpose of this pilot study is to provide preliminary findings testing the Supporting Our Valued Adolescents (SOVA) intervention, two social media sites (one for adolescents, one for parents) aiming to address negative health beliefs, knowledge about depression or anxiety, parent-adolescent communication, in a moderated online peer community, with the goal of increasing adolescent use of mental health services.
+

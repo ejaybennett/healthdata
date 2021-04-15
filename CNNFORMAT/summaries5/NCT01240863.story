@@ -1,0 +1,22 @@
+(secondQuint)Study to Evaluate the Efficacy and Safety of Hydrocodone Bitartrate Extended-Release Tablets (CEP-33237) for Relief of Moderate to Severe Pain in Patients With Osteoarthritis or Low Back Pain Who Require Opioid Treatment for an Extended Period of Time.
+
+ The study consisted of a screening period of approximately 7 to 14 days, an open label titration period of up to 6 weeks, and a double blind treatment period of 12 weeks.
+
+ Participants entered the open label titration period and received hydrocodone ER tablets beginning with 15 mg every 12 hours for 3 to 7 days.
+
+ The objective of the open label titration period was to find the successful dose of hydrocodone ER tablets that produced stable pain relief (defined as an Average Pain Intensity (API) score of 4 or less on the 11-point numerical rating scale for either 3 consecutive days or 3 out of 5 consecutive days while the patient was maintained on the same dose of study drug for up to 7 days).
+
+ Patients returned to the study center prior to each dose adjustment.
+
+ Participants who met the criterion of a stabilized dose were randomly assigned into the 12 week, double blind, placebo controlled treatment period on the final day of the open label titration period (baseline visit).
+
+ Patients began treatment with double blind study drug at the effective dose of hydrocodone ER tablets achieved during the titration period or matching placebo.
+
+ Rescue medication was permitted in addition to the study drug during the double blind treatment period.
+
+.
+
+ Study to Evaluate the Efficacy and Safety of Hydrocodone Bitartrate Extended-Release Tablets (CEP-33237) for Relief of Moderate to Severe Pain in Patients With Osteoarthritis or Low Back Pain Who Require Opioid Treatment for an Extended Period of Time@highlight
+
+The primary objective of this study is to evaluate efficacy of hydrocodone extended-release (ER) tablets compared with placebo in alleviating moderate to severe pain in patients with osteoarthritis or low back pain as assessed by the weekly Average Pain Intensity (API) at week 12.
+

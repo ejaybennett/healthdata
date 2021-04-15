@@ -1,0 +1,34 @@
+(fifthQuint)Efficacy and Safety of rhTPO for the Treatment of Thrombocytopenia After Chemotherapy in AML Patients.
+
+ In this single-center, randomized, open-label, crossover, prospective clinical trial, a total of 120 AML patients who achieved remission following induction chemotherapy will be recruited and randomized into two groups, of 60 cases in each group.
+
+ For one group, the treatment cycle is in the first chemotherapy cycle and the control cycle is in the second one.
+
+ For another group, the treatment cycle is in the second chemotherapy cycle and the control cycle is in the first one.
+
+ Each subject is required to undergo two cycles of chemotherapy.
+
+ At the treatment cycle, patients received subcutaneous injection of rhTPO at a dose of 300 U/kg body weight once daily at a platelet count of 20*109/L if platelet is not transfused.
+
+ At the control cycle, rhTPO therapy is not given.
+
+ Each subject is required to be followed up for successive two chemotherapy cycles following inclusion in this study.
+
+ During the follow-up period, routine blood test is performed once every other day, and platelet transfusion is recorded.
+
+ The safety of rhTPO is evaluated by the monitoring of liver and renal functions, blood coagulation, and TPO-neutralizing antibody, and adverse events associated with rhTPO treatment are recorded during the study period.
+
+.
+
+ Efficacy and Safety of rhTPO for the Treatment of Thrombocytopenia After Chemotherapy in AML Patients@highlight
+
+In this single-center, randomized, open-label, crossover, prospective clinical trial, a total of 120 AML patients who achieved remission will be randomized into two groups, of 60 cases in each group.
+
+ Each subject is required to undergo two cycles of chemotherapy.
+
+ At the treatment cycle, patients received subcutaneous injection of rhTPO.
+
+ At the control cycle, rhTPO therapy is not given.
+
+The safety of rhTPO is evaluated by the monitoring of liver and renal functions, blood coagulation, and TPO-neutralizing antibody, and adverse events associated with rhTPO treatment are recorded during the study period.
+

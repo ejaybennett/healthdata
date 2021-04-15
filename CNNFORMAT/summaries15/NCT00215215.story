@@ -1,0 +1,14 @@
+(secondQuint)Effectiveness Study Comparing Treatment With Drug(s) or Adjunctive VNS Therapy for Pharmacoresistant Partial Seizures.
+
+ Published data suggest that patients who continue to experience seizures after trials of two or three AEDs are unlikely to become seizure-free with further attempts at pharmacotherapy.
+
+ Such patients may experience poor quality of life and functional outcomes from continuing seizures and the adverse effects associated with further attempts at pharmacotherapy.
+
+ VNS is a non-pharmacologic treatment for epilepsy with well-established effectiveness as an adjunctive treatment (to AEDs) for partial seizures refractory to AEDs, but there are no randomized clinical trials comparing the effectiveness of adjunctive VNS therapy with further pharmacotherapy alone in such patients.
+
+.
+
+ Effectiveness Study Comparing Treatment With Drug(s) or Adjunctive VNS Therapy for Pharmacoresistant Partial Seizures@highlight
+
+To compare outcomes over 12 months of treatment with antiepileptic drugs (AEDs) alone or vagus nerve stimulation (VNS) therapy plus AEDs in patients who have partial seizures refractory to at least two, but not more than five, AEDs.
+

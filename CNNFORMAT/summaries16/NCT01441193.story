@@ -1,0 +1,22 @@
+(secondQuint)A Phase I Safety and Immunogenicity Preventive Vaccine Trial Based on the HIV-1 Tat and V2-deleted Env Proteins (ISS P-002).
+
+ Since the inexorable spreading of HIV pandemic is unabated, the urgency of designing an effective, safe, inexpensive and easily administrable vaccine to protect people from HIV and/or AIDS is an absolute priority.
+
+ Considering the array of functions sequentially exerted by the regulatory and the structural gene products in supporting the setting of a primary HIV infection, it is expected that vaccines combining early and late viral products (combined vaccines) should be superior to the single antigens approaches since they target multiple viral proteins which are necessary at different key steps of the virus life cycle, including cell-to-cell virus transmission and systemic virus propagation.
+
+ A combined vaccine strategy based on the early regulatory protein Tat in association with the late structural protein Env modified to increase its immunogenicity (delta-V2Env) has been evaluated in pre-clinical studies in both small animals and monkeys.
+
+ The results of these studies indicated that the combination of Tat with delta-V2Env is superior in inducing specific immune responses against both Tat and delta-V2Env antigens and in protecting or containing virus replication more efficiently than vaccination with the single antigens alone, confirming that these proteins represent optimal co-antigens for a combined vaccine strategy.
+
+ This study was a multicentric, open label, randomized phase I trial, directed to qualify the safety and the immunogenicity of the vaccine based on the association of HIV-1 biologically active Tat and oligomeric V2 Env proteins in healthy, immunologically competent adult volunteers, compared to the single compounds.
+
+ Tat and delta-V2 Env proteins either in association or as single compounds were administered by a prime-boost regimen, consisting of 3 intradermal priming doses followed by 2 intramuscular boosting injections.
+
+ Of note, phase I trials have already been successfully conducted with the 2 single components, at the doses proposed in this trial, in healthy individuals.
+
+.
+
+ A Phase I Safety and Immunogenicity Preventive Vaccine Trial Based on the HIV-1 Tat and V2-deleted Env Proteins (ISS P-002)@highlight
+
+This Phase I study was directed at evaluating the safety profile and the immunogenicity of the vaccination with recombinant HIV-1 Tat and V2-deleted Env (delta-V2 Env) proteins administered in association in healthy, immunologically competent adults, compared to delta-V2 Env or Tat alone.
+

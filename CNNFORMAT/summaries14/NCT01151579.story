@@ -1,0 +1,30 @@
+(secondQuint)Effect of Nebulized Bronchodilators on Heart Rate.
+
+ A randomized, single-blind, cross-over, prospective study was conducted in seventy critically ill adult patients with acute air flow obstruction.
+
+ Patients were randomized to nebulized albuterol alternating with levalbuterol every 4 to 6 hours.
+
+ Group A received albuterol 2.
+
+5 mg alternating with levalbuterol 0.
+
+63 mg.
+
+ Group B received albuterol 2.
+
+5 mg alternating with levalbuterol 1.
+
+25 mg.
+
+ All patients received nebulized ipratropium bromide 500 micrograms with each treatment.
+
+ Heart rate and cardiac rhythm were continuously recorded before and 15 minutes after finishing each treatment.
+
+ Any new rhythm abnormalities between treatments were also recorded.
+
+.
+
+ Effect of Nebulized Bronchodilators on Heart Rate@highlight
+
+The purpose of the study is to determine adverse events rates of nebulized albuterol versus levalbuterol among adult critically ill patients and determine if a differential exists in adverse events between the two drugs.
+

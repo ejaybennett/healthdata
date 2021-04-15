@@ -1,0 +1,12 @@
+(secondQuint)A Clinical Study of the Dynesys(R) Spinal System.
+
+ The purpose of this clinical study is to demonstrate the safety and effectiveness of the Dynesys Spinal System for patients requiring one or contiguous two-level posterior spinal stabilization of the lumbar, and/or sacral spine following decompression.
+
+ The ability for this implant to maintain spinal alignment and non-fusion of spinal segments, while positively affecting clinical outcomes, will be assessed and compared to a posterior lateral spinal fusion (PLF) procedure using autogenous bone with a semi-rigid, polyaxial posterior spinal fixation system.
+
+.
+
+ A Clinical Study of the Dynesys(R) Spinal System@highlight
+
+This non-inferiority study will compare the clinical outcomes of subjects implanted with the Dynesys Spinal System versus the clinical outcomes of subjects implanted with an instrumented posterior lateral spinal fusion.
+

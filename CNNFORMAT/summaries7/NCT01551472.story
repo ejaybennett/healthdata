@@ -1,0 +1,16 @@
+(firstQuint)Post Market Study of the 3DKnee With E-plus Insert.
+
+ Total knee replacement surgery is widely accepted as effective treatment for degenerative joint disease (DJD), osteoarthritis and rheumatoid arthritis.
+
+ Relief of patient pain and return of mobility are the primary goals that can be accomplished by this surgery.
+
+ Currently available prosthetic designs accomplish these goals and the surgery has been defined as one of the most successful operations available to improve the quality of life for patients with DJD.
+
+ This study will evaluate subjects who are candidates for a total knee replacement and meet the indications for use criteria for the 3DKnee cent System with vitamin E UHMWPE tibial inserts (VE).
+
+.
+
+ Post Market Study of the 3DKnee With E-plus Insert@highlight
+
+The purpose of this study is to evaluate the use and efficacy of the 3DKnee cent System using Vitamin E UHMWPE tibial inserts for total knee replacement surgery.
+

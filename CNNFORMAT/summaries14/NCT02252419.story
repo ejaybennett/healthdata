@@ -1,0 +1,16 @@
+(firstQuint)Combined Effect of Dexamethasone and Paracetamol for Postoperative Sore Throat.
+
+ The postoperative sore throat is a common complication after the general anesthesia which decreases the quality of life.
+
+ Dexamethasone is known to effective for the prevention of postoperative sore throat.
+
+ The combined effect of the dexamethasone and paracetamol for postoperative sore throat, however, is not investigated.
+
+ The investigators want to evaluate the efficacy of the dexamethasone and paracetamol for the prevention of postoperative sore throat.
+
+.
+
+ Combined Effect of Dexamethasone and Paracetamol for Postoperative Sore Throat@highlight
+
+The investigators want to evaluate the efficacy of the dexamethasone and paracetamol for the prevention of postoperative sore throat.
+

@@ -1,0 +1,26 @@
+(thirdQuint)Pilot Study: Cardiovascular Events in High Risk Orthopedic Surgical Patients.
+
+ This study is primarily an observational pilot study.
+
+ After identifying patients as high-risk according to the following criteria: CAD and/or CVD and/or PAD and/or >=60 years old and at least 2 of the following - renal insufficiency, diabetes, COPD, hypertension, active smoker (or active within 6 months of consent), cancer, congestive heart failure, or any blood clot - they will be asked to sign a consent form.
+
+ Patients surgical and hospital course will continue as per standard of care.
+
+ Prior to surgery, 8ml of blood will be collected for to assess cardiovascular biomarkers including inflammatory, metabolic, hypercoagulable and platelet biomarkers to be tested independently in Dr.
+
+ Berger's lab in Smilow.
+
+ Study staff will perform electrocardiograms on POD 2.
+
+ Results of these ECGs will not be placed in the patients' charts.
+
+ No other procedures will be done for research purposes only.
+
+.
+
+ Pilot Study: Cardiovascular Events in High Risk Orthopedic Surgical Patients@highlight
+
+This is a non-randomized, non-interventional pilot observational study designed to follow high-risk patients through their surgical and hospital stay.
+
+ The investigators will collect 2 4ml vial's of blood (total of 8ml) prior to surgery to assess CV biomarkers - inflammatory, metabolic, hypercoagulable and platelet.
+

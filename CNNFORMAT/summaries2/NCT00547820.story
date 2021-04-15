@@ -1,0 +1,17 @@
+(firstQuint)Urinary Sensor for Cystourethrography.
+
+ It is of immense importance to perform fluoroscopy during voiding phase of VCUG (Voiding Cystourethrogram) procedures in order to rule out vesicourethral reflux.
+
+ It is difficult to know exactly when a child will start voiding, so the child is intermittently imaged by fluoroscopy.
+
+ Fluoroscopy involves radiation, and this we try to diminish as much as possible.
+
+ We suggest application of small urinary sensor in the perineum of the patient, that will signal the beginning of urination, and only then fluoroscopy will begin.
+
+ This urinary sensor should cut down substantially radiation dose to the patient.
+
+.
+
+ Urinary Sensor for Cystourethrography@highlight
+
+Evaluation of urinary sensor that will be activated by the urine during voiding cystourethrography in pediatric patients

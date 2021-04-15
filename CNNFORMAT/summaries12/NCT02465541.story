@@ -1,0 +1,22 @@
+(thirdQuint)Gentle Yoga and Dietary Counseling in Improving Physical Function and Quality of Life in Stage I-II Endometrial Cancer Survivors.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the feasibility and efficacy of a combined lifestyle intervention (yoga + diet) to positively impact physical function and quality of life for endometrial cancer survivors.
+
+ OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ ARM I: Participants undergo onsite gentle yoga once weekly over 45-60 minutes for 8 weeks and home-based gentle yoga for 6 weeks.
+
+ Participants also undergo dietary counseling over 8 weeks.
+
+ ARM II: Participants undergo enhanced usual care designed to educate on best practices for exercise, diet and lifestyle change once weekly for 14 weeks.
+
+.
+
+ Gentle Yoga and Dietary Counseling in Improving Physical Function and Quality of Life in Stage I-II Endometrial Cancer Survivors@highlight
+
+This randomized clinical trial studies how well gentle yoga and dietary counseling lifestyle change effects physical function and quality of life of endometrial cancer survivors.
+
+ Gentle yoga and dietary counseling may help improve physical function and quality of life for stage I-II endometrial cancer survivors.
+

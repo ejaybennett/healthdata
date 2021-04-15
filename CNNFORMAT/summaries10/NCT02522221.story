@@ -1,0 +1,20 @@
+(secondQuint)Tecarfarin Anti-Coagulation Trial (TACT).
+
+ This will be a randomized, parallel-arm, open-label study comparing the safety and efficacy of tecarfarin and warfarin in approximately 1000 subjects who have an indication for chronic oral anticoagulation.
+
+ The study will be fully enriched with subjects who are taking at least one CYP2C9-interacting medication and have either chronic kidney disease stage 3 or 4 and/or a genetic variant allele for CYP2C9.
+
+ The study will be conducted at approximately 140 sites with experience in the management of anticoagulation subjects.
+
+ Eligible subjects will be randomized to receive either tecarfarin or warfarin for a period ranging from 6 months to a maximum of approximately 24 months.
+
+.
+
+ Tecarfarin Anti-Coagulation Trial (TACT)@highlight
+
+TACT is a "real world" randomized controlled trial of tecarfarin, a novel vitamin K antagonist, vs.
+
+ warfarin.
+
+ The quality of anticoagulation control will be compared for the two groups of subjects who require chronic oral anticoagulation for a broad panel of indications.
+

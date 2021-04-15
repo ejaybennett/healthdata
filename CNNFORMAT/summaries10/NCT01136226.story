@@ -1,0 +1,16 @@
+(firstQuint)Evaluate Recovery of Testosterone for Patients Using Eligard.
+
+ This is a Multi-center, open-label study to evaluate testosterone recovery after six months of neo-adjuvant treatment with ELIGARD (TM) 22.
+
+5mg used with Radiation Therapy in patients with TNM T1, T2 or T3A adenocarcinoma of the prostate.
+
+ The 60 patients will receive two subcutaneous administration of ELIGARD (TM) 22.
+
+5mg (Baseline and Month 3) and receive Radiation Therapy (Month 2-4).
+
+.
+
+ Evaluate Recovery of Testosterone for Patients Using Eligard@highlight
+
+The purpose of this study is to determine if testosterone will recover to 90% by year 1 after using Eligard.
+

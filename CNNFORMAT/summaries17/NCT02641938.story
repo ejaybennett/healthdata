@@ -1,0 +1,15 @@
+(firstQuint)Effect of Intraoperative Dexmedetomidine on Development of Acute Kidney Injury.
+
+ A cytoreductive surgery and hyperthermic intraperitoneal chemotherapy may lead to the renal hypoperfusion, systemic inflammatory response, and oxidative stress.
+
+ Dexmedetomidine has been known to protect the kidney against inflammation and oxidative stress in diverse clinical settings.
+
+ It may also enhance a renal perfusion by inhibition of renal sympathoexcitation.
+
+ We hypothesized administration of dexmedetomidine might protect the kidney in patients undergoing cytoreduction and hyperthermic intraperitoneal chemotherapy.
+
+.
+
+ Effect of Intraoperative Dexmedetomidine on Development of Acute Kidney Injury@highlight
+
+To investigate the renal protective effect of dexmedetomidine in patients undergoing cytoreduction and hyperthermic intraperitoneal chemotherapy

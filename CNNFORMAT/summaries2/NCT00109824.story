@@ -1,0 +1,54 @@
+(fifthQuint)Decitabine With or Without Valproic Acid in Treating Patients With Relapsed or Refractory Non-Hodgkin's Lymphoma.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine the minimally effective pharmacological dose (MEPD) of single-agent decitabine in patients with relapsed or refractory aggressive B-cell non-Hodgkin's lymphoma.
+
+ II.
+
+ Determine the maximum tolerated dose of valproic acid when administered with the MEPD of decitabine in these patients.
+
+ III.
+
+ Determine the MEPD of valproic acid when administered with decitabine in these patients.
+
+ IV.
+
+ Determine the toxic effects of decitabine alone and in combination with valproic acid in these patients.
+
+ SECONDARY OBJECTIVES: I.
+
+ Determine the response rate in patients treated with these drugs.
+
+ II.
+
+ Determine the pharmacokinetics of these drugs in these patients.
+
+ OUTLINE: This is a dose-escalation study.
+
+ Patients are assigned to 1 of 2 treatment stages.
+
+ STAGE 1: Patients receive decitabine IV over 1 hour on days 1-5 or 1-10.
+
+ Treatment repeats every 28 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.
+
+ STAGE 2: Patients receive decitabine as in stage 1 and valproic acid orally (PO) thrice daily (TID) on days 5-21.
+
+ Treatment repeats every 28 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.
+
+ For both stages, patients who achieve an objective response (complete response [CR], unconfirmed CR, or partial response) may discontinue study treatment and undergo stem cell transplantation, if eligible.
+
+ PROJECTED ACCRUAL: Approximately 18-42 patients (18 for stage 1 and 24 for stage 2) will be accrued for this study.
+
+.
+
+ Decitabine With or Without Valproic Acid in Treating Patients With Relapsed or Refractory Non-Hodgkin's Lymphoma@highlight
+
+Drugs used in chemotherapy, such as decitabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing.
+
+ Valproic acid may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.
+
+ Giving decitabine together with valproic acid may be an effective treatment for non-Hodgkin's lymphoma.
+
+ This phase I trial is studying the side effects and best dose of decitabine and valproic acid in treating patients with relapsed or refractory aggressive B-cell non-Hodgkin's lymphoma.
+

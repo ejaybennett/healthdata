@@ -1,0 +1,17 @@
+(firstQuint)Phase II Anti-PD1 Epigenetic Therapy Study in NSCLC.
+
+.
+
+ Objective response rate to Nivolumab preceded by epigenetic priming.
+
+ Response will be assessed by RECIST 1.
+
+1 criteria, baseline scans for this assessment will be the baseline scans done within 4 weeks of enrollment.
+
+.
+
+ Phase II Anti-PD1 Epigenetic Therapy Study in NSCLC.
+
+@highlight
+
+Response Rate

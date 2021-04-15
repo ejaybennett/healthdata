@@ -1,0 +1,30 @@
+(fifthQuint)Association of Plasma Melatonin Levels With Delirium.
+
+ Delirium is common complications in postoperative critically ill patients.
+
+ Although the mechanism of postoperative delirium is not well understood, there are several studies to report alternation of plasma melatonin levels after general anesthesia and suggest the link between delirium and abnormal tryptophan-serotonin-melatonin metabolism.
+
+ However, there are few studies to assess the association of perioperative plasma melatonin levels with postoperative delirium and/or general anesthetics.
+
+ The investigators designed a prospective observational study to investigate the association of perioperative plasma melatonin levels with postoperative delirium and general anesthesia.
+
+ The investigators included 33 patients required intensive care more than 48 hours after sevoflurane anesthesia in an academic tertiary care hospital.
+
+ The investigators measured plasma melatonin levels and assessed postoperative delirium using Confusion Assessment Method for the intensive care unit (CAM-ICU).
+
+ The investigators compared perioperative plasma melatonin levels between patients with and without delirium, and assessed associations of patients' demographics and anesthesia with plasma melatonin levels.
+
+.
+
+ Association of Plasma Melatonin Levels With Delirium@highlight
+
+Delirium is common complications in postoperative critically ill patients.
+
+ However the mechanism of postoperative delirium is not well understood.
+
+The investigators designed a prospective observational study to investigate the association of perioperative plasma melatonin levels with postoperative delirium and general anesthesia.
+
+ The investigators included 33 patients required intensive care more than 48 hours after sevoflurane anesthesia in an academic tertiary care hospital.
+
+ The investigators measured plasma melatonin levels 4 times and assessed postoperative delirium using Confusion Assessment Method for the intensive care unit (CAM-ICU).
+

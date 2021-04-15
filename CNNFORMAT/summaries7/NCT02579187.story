@@ -1,0 +1,32 @@
+(thirdQuint)MicroRNA and MicroRNA Inhibitors Socket Study, Pilot Clinical Trial.
+
+ The purpose of this study is to evaluate the efficacy of locally delivering plasmid DNAs encoding microRNAS and/or microRNA inhibitors, a naturally occurring microRNA molecule, in the promotion of bone formation and attenuation of local inflammation in a tooth socket model in humans.
+
+ Patients requiring tooth extractions and future tooth replacement therapy with a dental implant will be eligible for the study.
+
+ Recruited subjects will be randomly assigned to either a control (tooth extraction and 10 mu g empty vector in bovine collagen sponge) or one of 3 experimental groups: - Experimental group 1: Tooth extraction and bovine collagen sponge containing 10 mu g of pSil-miR200c - Experimental Group 2: Tooth extraction and bovine Collagen sponge containing 10 mu g of PMIS miR200a - Experimental Group 3: Tooth extraction and bovine Collagen sponge containing 5 mu g of pSil-miR200c and 5 mu g of PMIS miR200a Subjects will be clinically re-evaluated at 1, 2, 3 and 4 weeks.
+
+ In each one of these visits, a fluid sample will be obtained from the healing site in a minimally invasive manner to assess local biomolecular profiles.
+
+ Blood samples will be drawn at 1, 2, 3, 4 and 14 week visits to assess for miR-200c and PMIS-miR 200a expression and liver function.
+
+ Photos and/or videos will also be obtained.
+
+ A CBCT scan and a saliva sample (approx.
+
+ 2 ml) will also be obtained at baseline and at 14 weeks to assess bone volume and intraoral biomolecular profiles, respectively.
+
+ Implant placement surgery will be performed at 16 weeks from the time of tooth extraction.
+
+ A bone core biopsy will be harvested at this time for histologic analysis.
+
+ A periapical radiograph (small dental x-ray image) will be obtained at baseline (before tooth extraction) and at 14 weeks (prior to implant placement) to assess bone height changes.
+
+ Follow-up visits will occur at 6 months and 12 months post implant at which time measurements and photos will be taken.
+
+.
+
+ MicroRNA and MicroRNA Inhibitors Socket Study, Pilot Clinical Trial@highlight
+
+To evaluate the efficacy of locally delivering plasmid DNAs encoding microRNAs, and/or microRNA inhibitors, in the promotion of osteogenesis and modulation of the inflammatory response on the basis of different clinical, radiographic, histologic and biomolecular outcomes in post-extraction socket defects in humans.
+

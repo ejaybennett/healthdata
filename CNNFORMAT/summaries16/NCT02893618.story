@@ -1,0 +1,12 @@
+(firstQuint)A 5 Treatment Period Pharmacokinetic Study Evaluating Dose Proportionality and Food Effects of Diazoxide Choline Controlled-Release Tablet (DCCR).
+
+ Open label, parallel-group, single site, 5 treatment-period study with 4 dose levels of DCCR, 1 of which is administered both with and without food, with a 10 Day washout period between treatments.
+
+ There will be 8 treatment sequences with 4 subjects randomized to each.
+
+.
+
+ A 5 Treatment Period Pharmacokinetic Study Evaluating Dose Proportionality and Food Effects of Diazoxide Choline Controlled-Release Tablet (DCCR)@highlight
+
+Open label, parallel-group, single site, 5 treatment-period study with 4 dose levels of DCCR, 1 of which is administered both with and without food.
+

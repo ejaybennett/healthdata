@@ -1,0 +1,80 @@
+(fifthQuint)Glottic Visualization & Ease of Intubation With Different Laryngoscope Blades.
+
+ This prospective observational study was conducted after obtaining approval from the Institutional Review board of our institute.
+
+ One hundred and twenty adult patients were included who had given written informed consent.
+
+ These patients were ASA I or II, between 18-70 yrs of age, were undergoing elective oncosurgery procedure under general anaesthesia requiring endotracheal intubation.
+
+ Patinets were excluded if they refused consent, were pregnant, had potential difficult mask ventilation and /or anticipated difficult intubation or had pathology in neck, upper respiratory tract and upper alimentary tract.
+
+ A detailed routine pre-anaesthetic check-up was performed and routine laboratory investigations were done.
+
+ The patients were randomly divided in four groups of 30 each per laryngoscope blade.
+
+ Group 1: Macintosh Group Group 2: McCoy's Group Group 3 Miller Group and Group 4: TrueView Group.
+
+ : included 30 patients.
+
+ In the operating room, patients' medical history was again confirmed in brief before subjecting the patient to anaesthesia.
+
+ Demographic data such as age, sex and weight of the patient was noted.
+
+ Pulse oximeter, electrocardiograph, capnography and automated non-invasive blood pressure were used for monitoring.
+
+ Airway assessment was done clinically using Samsung and Young's modification of the Mallampati classification for oropharyngeal view.
+
+ The patient was asked to assume sitting position, open the mouth maximally, and protrude the tongue but not to phonate.
+
+ Visibility of the oral and pharyngeal structures was then classified by an observer sitting at the same level as the patient.
+
+ Class I: Soft palate,fauces,uvula,pillars visible Class II: Soft palate,fauces,portion of uvula visible Class III: Soft palate,base of uvula visible Class IV : Only hard palate visible A Doughnut-shaped pillow and hard sponge square pillow, totalling about 7 cm in height, was placed under the head of the patient.
+
+ The patient was preoxygenated with 100% oxygen for three minutes.
+
+ Anaesthesia was then induced with 1-3 mg/kg of Propofol or thiopentone sodium 5 mg/kg, fentanyl 2 mu g/kg.
+
+ Feasibility of ventilation with a face mask was checked prior to injection of non-depolarising muscle relaxant.
+
+ After ventilation was confirmed a vecuronium was administered and the patient was ventilated with isoflurane 0.
+
+5-1% in a 50:50 mixture of O2 and N2O for 3 minutes then ventilated for 1 minute with 100% O2.
+
+ Then laryngoscopy and tracheal intubation accomplished with the selected laryngoscope blade.
+
+ The laryngoscopy and intubation were carried out by a single anaesthesiologist who had trained with all laryngoscope blades till he had obtained sufficient familiarity all four laryngoscope blades.
+
+ We studied following aspects during tracheal intubation.
+
+ Visualization of laryngeal inlet: This was graded using Cormack Lehane Grades: Grade 1: complete glottis visible Grade 2: anterior glottis not seen Grade 3: epiglottis seen but not glottis Grade 4: epiglottis not seen Ease of intubation: This was graded as follows: Grade 1: Intubation easy Grade 2: Intubation requiring an increased anterior lifting force and assistance to pull the right corner of the mouth upwards to increase space Grade 3: Intubation requiring multiple attempts and a curved stylet Grade 4: Failure to intubate with the assigned laryngoscope Number of attempts: We noted the number of attempts needed for intubation with that particular blade in each patient.
+
+ Requirement of external laryngeal manipulation: Classified as Grade 1: No requirement of external laryngeal manipulations and Grade 2: Requirement of external laryngeal manipulation.
+
+ Statistical analysis: Demographic data, Mallampatti Classification and other variables were compared using the Chi Square test.
+
+ A p value of > 0.
+
+05 was taken to assume statistical significance.
+
+.
+
+ Glottic Visualization & Ease of Intubation With Different Laryngoscope Blades@highlight
+
+Orotracheal intubation the commonest method used to secure and maintain airway during anaesthesia.
+
+ A variety of methods are available for orotracheal intubation such as digital or tactile method, use of lighted orotracheal intubating stylet, use of intubating LMA (which is becoming increasing popular, particularly in cased of anticipated difficult intubation), fibreoptic endoscopic orotracheal intubation (also used when a difficulty is predicted), and conventional and most common method, direct laryngoscopy.
+
+ Orotracheal intubation is most commonly achieved after visualization of laryngeal inlet with direct laryngoscopy following induction of general anaesthesia and muscle relaxation achieved by administration of a muscle relaxant.
+
+ Due to the hazards seen with failed intubation, anaesthetists are also on the lookout for techniques which will improve visualization of the laryngeal inlet, i.
+
+e.
+
+ glottis.
+
+ View obtained during laryngoscopy can be classified in a variety of ways such as Cormack Lehane grading, the percentage of glottic opening (POGO Score)Literature suggests that straight blade gives better glottic visualization while tracheal intubation is easier with the curved blade.
+
+ We therefore wanted to compare the Macintosh and Miller laryngoscope blades in terms of visualization of Laryngeal inlet and ease of intubation in patients with normal predicted intubation.
+
+ We also compared the McCoy blade, a modified curved blade, and the Trueview Laryngoscope, which incorporates a prism in a straight blade, for glottic view and ease of intubation.
+

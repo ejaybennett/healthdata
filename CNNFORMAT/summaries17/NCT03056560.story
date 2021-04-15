@@ -1,0 +1,26 @@
+(secondQuint)Evaluating a Video Bystander Program for First-Year College Students.
+
+ Sexual violence, which includes both sexual coercion and assault, is a significant problem on college campuses due to its high prevalence and adverse consequences.
+
+ This research will evaluate an innovative video bystander program, which has the potential to be implemented broadly and cost-effectively across college campuses.
+
+ We will recruit first-year college students from each of 4 college campuses (Southern Methodist University, Marquette University, William Paterson University, and Stony Brook University).
+
+ The video bystander program (TakeCARE) starts with a narrator acknowledging the various demands placed on students in attempting to balance adult responsibilities with the social opportunities of college, as well as the importance of keeping safe while engaging in these social activities.
+
+ The program describes how likely it is that people they know may become a victim of sexual violence and how they can help "take care of their friends" to help prevent victimization.
+
+ TakeCARE includes 3 video vignettes that demonstrate ways that students can intervene when they see sexual coercion, relationship violence, or other situations that might result in harm.
+
+ After a baseline assessment, students will be randomly assigned to view one of two video programs: TakeCARE (the video bystander program) or a control video program.
+
+ A post-treatment assessment will be completed within a week of viewing the video program, and follow-up assessments will be completed 2 months and 6 months after baseline.
+
+.
+
+ Evaluating a Video Bystander Program for First-Year College Students@highlight
+
+This study will evaluate an innovative video bystander program, which has the potential to be implemented broadly and cost-effectively across college campuses.
+
+ Half of the participants will receive the video bystander program, and the other half will not.
+

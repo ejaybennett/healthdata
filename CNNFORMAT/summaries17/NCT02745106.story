@@ -1,0 +1,14 @@
+(firstQuint)Interventional Treatment of Residual Pulmonary Hypertension in Patients After Pulmonary Thromboendarterectomy.
+
+ The best strategy of treatment patients with chronic thromboembolic pulmonary hypertension is pulmonary thromboendarterectomy.
+
+ In 5-30% of cases after pulmonary thromboendarterectomy residual pulmonary hypertension is persisted.
+
+ The technique of radiofrequency pulmonary artery denervation in patients with idiopathic pulmonary arterial hypertension (type I) is known and was assessed during clinical investigation.
+
+ In this study radiofrequency pulmonary artery denervation technique may be applied in patients with residual pulmonary hypertension after pulmonary thromboendarterectomy (type IV).
+
+ Interventional Treatment of Residual Pulmonary Hypertension in Patients After Pulmonary Thromboendarterectomy@highlight
+
+The study evaluates the technique of non-drug treatment of residual pulmonary hypertension in patients with chronic thromboembolic pulmonary hypertension after pulmonary thromboendarterectomy.
+

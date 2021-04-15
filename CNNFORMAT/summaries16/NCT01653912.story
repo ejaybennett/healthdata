@@ -1,0 +1,13 @@
+(firstQuint)Dose-finding Study in Platinum-Resistant Ovarian Cancer.
+
+ PKB116611 is an open-label Phase I/II study of the investigational drug GSK2110183 given in combination with carboplatin and paclitaxel to subjects with recurrent ovarian cancer.
+
+ Phase I is a dose escalation evaluation of daily oral doses of GSK2110183 administered in combination with every 3 week carboplatin and paclitaxel to any subject with recurrent ovarian cancer.
+
+ Phase II is a single arm evaluation of the clinical efficacy of the combination identified in Phase I to subjects with platinum-resistant ovarian cancer.
+
+.
+
+ Dose-finding Study in Platinum-Resistant Ovarian Cancer@highlight
+
+#NAME?

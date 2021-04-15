@@ -1,0 +1,38 @@
+(fifthQuint)Supporting Effect of Dronabinol on Behavioral Therapy in Fibromyalgia and Chronic Back Pain.
+
+ This study investigates the combination of operant behavioral treatment and Cannabinoid medication in patients with fibromyalgia and patients with back pain.
+
+ It is well known that cannabinoids (THC) accelerate learning processes.
+
+ It is assumed that the combination of both treatments may exert an synergetic effect.
+
+ A low dose of THC is used, which ist not expected to have direct analgetic effects.
+
+ The study also investigates genetic determinants of both disorders and the response to treatment, respectively.
+
+ The patients will be randomly assigned to one of four groups: Behavioral therapy and Dronabinol, behavioral therapy and placebo, behavioral therapy only, standard medical therapy.
+
+ Patients will attend 12 weekly group-sessions (6-8 patients) of behavioral therapy.
+
+ Behavioral therapy sessions will include training in reducing pain behaviour and establishing active and "healthy" behaviour instead.
+
+ There will be weekly medical safety visits, in which the patients receive medication and undergo a physical examination (blood and urine samples).
+
+ Patients will be evaluated before and after behavioral therapy and will be followed for an additional 6- and 12-months phase.
+
+ The outcome variables will be recorded by the use of interviews and questionnaires.
+
+.
+
+ Supporting Effect of Dronabinol on Behavioral Therapy in Fibromyalgia and Chronic Back Pain@highlight
+
+It is known, that a so called "pain memory" usually evolves in chronic pain syndromes which both aggravates the disorder and modifies the patients pain perception.
+
+ Thus, the principal object of pain therapy is to "delete" this dysfunctional pain memory.
+
+ The combination of medication, physiotherapy and psychological therapy seems to be the most effective treatment.
+
+ This study investigates the effect of a concomitant Dronabinol medication (Cannabinoid) on the effectiveness of behavioral therapy.
+
+ It is hypothesized that the combination of behavioral therapy and Dronabinol will be most effective in deleting the pain memory.
+

@@ -1,0 +1,26 @@
+(secondQuint)Crossover Study to Evaluate the Abuse Potential of Intranasal Esketamine Compared to Racemic Intravenous Ketamine in Nondependent, Recreational Drug Users.
+
+ This is a single-center, single-dose, double-blind, double-dummy, placebo-controlled (participants are randomly assigned to a test treatment or to an identical-appearing treatment that does not contain the test drug), randomized (study medication assigned to participants by chance), crossover study in up to 120 men and women self-identifying as current, recreational, nondependent polydrug users.
+
+ The study has a Screening Phase (consisting of a Screening Visit and a Qualification Session) and a Treatment Phase.
+
+ In the Qualification Session participants will be randomized to receive Sequence 1: intravenous placebo and intranasal placebo concurrently (Treatment A) on Day 1 and an intravenous dose (0.
+
+5 mg/kg) of racemic ketamine and intranasal placebo concurrently (Treatment B) on Day 2, or the participants will receive Sequence 2: Treatment B on Day 1 and Treatment A on Day 2.
+
+ In the Treatment Phase eligible participants will be administered 4 treatments: A, B, C (intravenous placebo and intranasal 84 mg esketamine as 3 devices, each with 28 mg esketamine followed by 1 device with placebo) and D (intravenous placebo and intranasal 112 mg of esketamine as 4 devices, each with 28 mg esketamine) in a cross-over manner (1 treatment per period) in Sequence 3, 4, 5, or 6.
+
+ Periods 1, 2, 3, and 4 will be separated by 7 to 14 days.
+
+ Primarily the drug abuse potential will be evaluated.
+
+ Safety of the participants will be monitored throughout the study.
+
+.
+
+ Crossover Study to Evaluate the Abuse Potential of Intranasal Esketamine Compared to Racemic Intravenous Ketamine in Nondependent, Recreational Drug Users@highlight
+
+The primary objective of this study is to evaluate the abuse potential of intranasal esketamine (112 milligram and 84 mg) compared to racemic intravenous ketamine (0.
+
+5 mg/kg) in nondependent, recreational polydrug users of perception-altering drugs.
+

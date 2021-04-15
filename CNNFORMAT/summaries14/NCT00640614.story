@@ -1,0 +1,76 @@
+(fifthQuint)Clinical Evaluation of T.
+
+R.
+
+U.
+
+E.
+
+ TEST : Safety and Efficacy.
+
+ Primary endpoint: The performance (efficacy) of each allergen will be evaluated in adult patients with suspected contact dermatitis, and in adult patients with a known or suspected sensitization to at least one of the seven allergens.
+
+ Performance will be based on: - Calculated concordance/discordance between T.
+
+R.
+
+U.
+
+E.
+
+ Test Panel 3.
+
+2 allergens and their corresponding petrolatum or aqueous-based allergens.
+
+ - Calculated sensitivity and specificity for T.
+
+R.
+
+U.
+
+E.
+
+ Test Panel 3.
+
+2 allergens.
+
+ Secondary endpoint: To evaluate the safety of seven T.
+
+R.
+
+U.
+
+E.
+
+ Test Panels 3.
+
+2 allergens (Gold sodium thiosulfate, Hydrocortisone-17-butyrate, Methyldibromoglutaronitrile, Bacitracin, Parthenolide, Disperse blue 106 and Bronopol) in adult subjects with suspected contact dermatitis ("consecutives"), and/or in adult subjects with a clinical history of contact dermatitis and a current or previous positive patch test to one (or more) of these 7 allergens ("sensitives").
+
+ Evaluations will be based on: - The frequency and characterization of late and/or persistent reactions, tape-induced irritation at the test site, incomplete panel adhesion, and subject-reported sensations of itching or burning during the test period.
+
+ - The frequency of adverse events and serious adverse events.
+
+.
+
+ Clinical Evaluation of T.
+
+R.
+
+U.
+
+E.
+
+ TEST : Safety and Efficacy@highlight
+
+We propose an open, prospective, multi-center Phase III study to evaluate the diagnostic performance and safety of seven new T.
+
+R.
+
+U.
+
+E.
+
+ Test allergens: Gold sodium thiosulfate, Hydrocortisone-17-butyrate, Bacitracin, Parthenolide, Methyldibromoglutaronitrile, Disperse blue 106, and Bronopol.
+
+Allergen performance and safety will be evaluated in adult patients with suspected contact dermatitis, and in adult patients with a known or suspected sensitization to at least one of the seven allergens.
+

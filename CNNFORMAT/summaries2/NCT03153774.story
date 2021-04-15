@@ -1,0 +1,26 @@
+(thirdQuint)Assessments of Sarcopenia Prevalence in Chronic Heart Failure Patients and in Subjects Before TAVI.
+
+ Age-related muscle loss, termed sarcopenia, affects 10% of elderly subjects aged 60-70 years and more than 30% above the age of 80.
+
+ The concept of sarcopenia has been supported by the recent findings of muscular atrophy which was related to the decrease of protein synthesis because of the "anabolic resistance", affecting the muscular fibers type II.
+
+ In fact, sarcopenia could be a consequence of chronic disease and not only an issue in the elderly people.
+
+ The diagnosis is assessed by the weak muscle mass and the muscle strength and function.
+
+ A description of these muscle parameters has been described in a study of 200 patients with NYHA class II-III and showed that 19,5 % have a decrease in muscle mass.
+
+ They also showed that these patients have a lower functional ability.
+
+ These findings prompted us to investigate the prevalence of sarcopenia in chronic heart failure subjects for a better management of these patients.
+
+.
+
+ Assessments of Sarcopenia Prevalence in Chronic Heart Failure Patients and in Subjects Before TAVI@highlight
+
+The main objective was to assess the prevalence of sarcopenia in chronic heart failure patients and in patients before the trans aortic valvular implantation.
+
+ The loss of muscle mass in chronic heart failure patients is a prognostic factor for sarcopenia.
+
+ The purpose was to identify in these patients signs of sarcopenia for a better management.
+

@@ -1,0 +1,28 @@
+(secondQuint)Open Label of Clinical Trial of Sulforaphane in Children With Autism.
+
+ Sulforaphane (SF) is an isothiocyanate found in high levels in crucifers belonging to the family Brassicaceae (including broccoli, cabbage, cauliflower, brussels sprouts, Chinese cabbage and turnips).
+
+ Many previous studies have documented that consumption of these vegetables is associated with a reduced risk of cancer (lung, breast, colon, rectum, and prostate).
+
+(Juge et al.
+
+ 2007) The mechanism of action of these beneficial effects is believed to be due to the ability of SF to up-regulate genes that improve cellular response to oxidative stress, inflammation, DNA-damaging electrophiles, and radiation.
+
+(Singh et al.
+
+ 2014) In a recent small, randomized controlled trial in children with autism, SF was shown to have beneficial effects on aberrant and social behavior.
+
+(Singh et al.
+
+ 2014) The mechanism of action of this beneficial effect has not been established in children with ASD.
+
+ Our primary goal is to examine changes in urinary metabolites in children with autism who receive SF to determine if changes in behavior are associated with changes in urinary metabolites.
+
+.
+
+ Open Label of Clinical Trial of Sulforaphane in Children With Autism@highlight
+
+This is an open-label, 4-month study examining the effects of Sulforaphane (SF) on behavior in children with ASD and the correlation between behavior change and urinary metabolites.
+
+ The goal is to determine a potential mechanism of action of SF in this population.
+

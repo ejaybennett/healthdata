@@ -1,0 +1,12 @@
+(firstQuint)Spinal Manipulation and Spinal Mobilization Effects in Participants With and Without Back Pain.
+
+ Although evidences suggest a similar effectiveness of spinal manipulation and spinal mobilization, there is no study that compares the neuromechanical effects of these manual therapies in a experimental context and with the standardization of both interventions.
+
+ Therefore, the objective of the present study is to compare the neuromechanical responses to spinal manipulation (low-amplitude and high-velocity dynamic thrust) and spinal mobilization (repetitions of a low-amplitude and low-velocity nonthrust movement) in participants with and without chronic nonspecific back pain.
+
+.
+
+ Spinal Manipulation and Spinal Mobilization Effects in Participants With and Without Back Pain@highlight
+
+The objective of the present study is to compare the neuromechanical responses to spinal manipulation and spinal mobilization in participants with and without chronic nonspecific back pain.
+

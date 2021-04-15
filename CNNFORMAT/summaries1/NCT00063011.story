@@ -1,0 +1,32 @@
+(secondQuint)Bone Development in Adolescent Girls: Effects of Calcium and Exercise.
+
+ There are currently few safe and effective methods for restoring lost bone to the osteoporotic skeleton.
+
+ Therefore, prevention of osteoporosis is crucial.
+
+ If skeletal development can be maximized during growth, young people will begin adulthood with optimal bone mass and will be less likely to develop osteoporosis in later years.
+
+ This study will determine the effects of weight-bearing physical activity and a high-calcium diet on bone mass in adolescent girls.
+
+ Participants in this study will be randomized to one of three study arms.
+
+ Girls in Arm 1 will consume their usual diets and will participate in a weight-bearing exercise program that meets 3 times per week.
+
+ Girls in Arm 2 will also participate in a weight-bearing exercise program that meets 3 times per week and will be given high calcium foods to supply 1500 mg of calcium per day.
+
+ Girls in Arm 3 will consume their usual diet and maintain their customary activity level.
+
+ Study visits occur every 6 months; participants will be followed for 4 1/2 years.
+
+ Assessments will include a medical and social history and measurements of spine, hip, radius, and total body bone mineral content (BMC); calcaneal speed of sound (SOS); height; weight; and Tanner stage.
+
+.
+
+ Bone Development in Adolescent Girls: Effects of Calcium and Exercise@highlight
+
+Osteoporosis is a major public health problem.
+
+ Prevention of osteoporosis depends in part on good bone development in childhood and adolescence.
+
+ This study will evaluate a weight-bearing exercise program and high-calcium diet on bone development in adolescent girls.
+

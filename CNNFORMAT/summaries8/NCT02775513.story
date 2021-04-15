@@ -1,0 +1,16 @@
+(secondQuint)Metabolism of Patients With Genetically Caused Cardiac Arrhythmia.
+
+ Loss-of-function mutations in voltage-gated potassium channels cause long QT syndrome (LQTS) due to a prolonged cardiac repolarisation phase.
+
+ Voltage-gated potassium (Kv-) channels are known for their relation to malignant cardiac arrhythmias, but also play a role in pancreatic alpha- and beta cell hormone secretion, and possibly in incretin hormone secretion.
+
+ We hypothesised that patients with loss-of-function mutations also exhibit altered hormone release upon glucose ingestion.
+
+.
+
+ Metabolism of Patients With Genetically Caused Cardiac Arrhythmia@highlight
+
+Loss-of-function mutations in voltage-gated potassium channels cause long QT syndrome (LQTS) due to a prolonged cardiac repolarisation phase.
+
+ Hypoteses: patients with loss-of-function mutations also exhibit altered hormone release upon glucose ingestion.
+

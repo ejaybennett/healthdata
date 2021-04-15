@@ -1,0 +1,16 @@
+(secondQuint)Microcirculation of Patients With Kidney Transplant.
+
+ This study measures the sublingual microcirculation of patients with kidney transplant using MicroScan.
+
+ The data will be compared with data of health volunteers and end stage renal disease patients on hemodialysis.
+
+ The microcirculation date includes total small vessel density, perfused small vessel density, proportion of perfused vessels, microvascular flow index, and heterogeneity index.
+
+.
+
+ Microcirculation of Patients With Kidney Transplant@highlight
+
+This study measures the sublingual microcirculation of patients with kidney transplant using MicroScan.
+
+ The data will be compared with data of health volunteers and end stage renal disease patients on hemodialysis.
+

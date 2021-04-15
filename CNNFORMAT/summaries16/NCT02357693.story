@@ -1,0 +1,16 @@
+(firstQuint)Neurokinin Receptor Antagonist Associated to Ondansetron in PONV.
+
+ High risk surgical patients for PONV, scheduled for laparoscopic surgery will be distributed in two groups: Group I will receive aprepitant 80 mg per os and Group II will receive placebo per os, one hour before surgery.
+
+ In the operating room, patients will be submitted to combined intravenous general anesthesia plus spinal anesthesia.
+
+ All patients will receive dexamethasone 4 mg and ondansetron 4 mg intravenously during the surgical procedure.
+
+ After surgery, patients will be monitored for pain, nausea and vomiting during 24 hours.
+
+.
+
+ Neurokinin Receptor Antagonist Associated to Ondansetron in PONV@highlight
+
+The purpose of this study is to determine whether patients at high risk for postoperative nausea and vomiting can benefit from aprepitant, ondansetron and dexamethasone in the perioperative period.
+

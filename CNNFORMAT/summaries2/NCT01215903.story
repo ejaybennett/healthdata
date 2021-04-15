@@ -1,0 +1,18 @@
+(fifthQuint)Fish Gelatin Supplement and Omega-3 Supplement in Obese or Overweight Subjects With Insulin Resistance.
+
+ An important number of recent epidemiological studies have demonstrated the beneficial effects of marine omega-3 polyunsaturated fatty acids (n-3 PUFA) on cardiovascular disease risk factors such as reduced triglycerides, decreased platelet aggregation, plaque stabilization, antiarrhythmic effects, and reduced blood pressure.
+
+ Dietary fish protein has also been shown to improve insulin sensitivity by 30% in insulin-resistant obese or overweight human subjects.
+
+ In addition, an increasing number of studies describe and demonstrate the physiological and metabolic variations between men and women in regard to CVD and their risk factors, including type 2 diabetes, but the data are still limited.
+
+ In agreement with the recent findings, this study was conducted to evaluate the combined and synergistic effects of omega-3 and fish protein supplements on insulin sensitivity, blood pressure, lipid metabolism and inflammation in obese or overweight insulin-resistant men and women having some or all the metabolic syndrome criteria including a deteriorated lipid profile, high blood pressure and high waist circumference in a free living situation.
+
+.
+
+ Fish Gelatin Supplement and Omega-3 Supplement in Obese or Overweight Subjects With Insulin Resistance@highlight
+
+The present study was conducted to test whether a fish gelatin supplement combined with an omega-3 polyunsaturated fatty acid supplement can exert beneficial and sex-specific effects on insulin sensitivity, glucose tolerance, indicators of insulin secretion, blood pressure, lipid metabolism, inflammation and energy intake in obese or overweight insulin-resistant men and women.
+
+ The investigators hypothesis is that fish gelatin improves insulin sensitivity, glucose tolerance, lipid profile and reduces inflammation in obese or overweight insulin-resistant men and women.
+

@@ -1,0 +1,12 @@
+(secondQuint)Adding Cytokine to In Vitro Human Culture Media to Improve Embryogenesis and Implantation.
+
+ The IVF culture media design and upgrade underwent many ideas during the last 3 decades, we suppose that adding the Cytokines (LIF 5ng/ml, HB-EGF 5ng/ml and GM-CSF 2ng/ml) as a growth factor that have multi-ways to might improve embryo development in vitro so we decide to design a trial to compare the embryogenesis by sibling Oocytes of the same patient between two arm of the same culture media and the same culture condition.
+
+ One arm with Cytokines and the other is traditional one and closely monitor the outcome within the 2 arms and record the results.
+
+.
+
+ Adding Cytokine to In Vitro Human Culture Media to Improve Embryogenesis and Implantation@highlight
+
+Assessment of the embryological benefit of in vitro adding of Cytokines (LIF 5ng/ml, HB-EGF 5ng/ml and GM-CSF 2n/ml) to the culture media and closely monitor its effect on embryogenesis and implantation outcomes.
+

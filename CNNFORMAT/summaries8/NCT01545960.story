@@ -1,0 +1,18 @@
+(firstQuint)Evaluating Acupuncture Points With Scanning Kelvin Probe.
+
+ Acupuncture points are anatomical structures described by traditional Chinese medicine.
+
+ To this day, however, their scientific and Western anatomical characterizations remain unclear.
+
+ Past studies have suggested that acupuncture points are distinct electrically (increased electrical conductivity).
+
+ To evaluate this claim, this study uses a Scanning Kelvin Probe to study the electrical potential of three acupuncture points and their respective adjacent controls in 24 healthy individuals.
+
+ The Scanning Kelvin Probe is a novel device that measures the electrical potential of skin without actually touching the skin surface.
+
+.
+
+ Evaluating Acupuncture Points With Scanning Kelvin Probe@highlight
+
+The purpose of this study is to characterize the surface electrical potential of acupuncture points with a Scanning Kelvin Probe.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Phase 1b Study Investigating Safety & Immunogenicity of TDV Given Intradermally by Needle or Needle-Free PharmaJet Injector.
+
+ This is an exploratory trial to assess the safety, tolerability and immunogenicity of vaccination with a tetravalent dengue vaccine (TDV) in healthy adults delivered intradermally using the conventional needle/syringe or a needle-free PharmaJet(R) injector.
+
+ Two (2) intradermal injections of either vaccine or placebo will be administered to qualified participants (one in each arm) on Day 0 of the study.
+
+ A subsequent injection will also be given on Day 90 with either vaccine or placebo (in one arm only).
+
+ Participants will be evaluated for safety and dengue neutralizing antibody to all four serotypes.
+
+ All participants will also be evaluated for injection site reactions and have blood drawn for viremia, neutralizing antibodies, cell mediated immunity and innate immunity.
+
+ Participants will be required to participate for approximately 10 months from recruitment and collection of data for primary outcomes (through Day 120) including collection of additional samples for measurement of longer term antibody titers (through Day 270).
+
+ This project has been funded in whole or in part with Federal funds from the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services, under Contract No.
+
+ HHSN272201000034C.
+
+.
+
+ Phase 1b Study Investigating Safety & Immunogenicity of TDV Given Intradermally by Needle or Needle-Free PharmaJet Injector@highlight
+
+The purpose of this study is to compare the safety, tolerability and immunogenicity of Takeda's Tetravalent Dengue Vaccine Candidate (TDV) [previously DENVax] when administered intradermally in varied dosing schedules and via different methods of administration (conventional needle/syringe versus needle-free PharmaJet(R) injector).
+

@@ -1,0 +1,106 @@
+(fifthQuint)NHS AAA Screening Programme Data Linkage With HES and ONS Datasets.
+
+ An abdominal aortic aneurysm (AAA) is present in 5-10% of men aged between 65 and 79 years and may be defined as an abdominal aortic diameter 3cm or above.
+
+ In 2013 the NHS AAA screening programme (NAAASP) was fully rolled out across England with the aim of reducing AAA mortality in men aged 65 and over, based on evidence that screening reduces AAA-related mortality, and is highly cost effective.
+
+ Within NAAASP, men with a large AAA (5.
+
+5cm) are referred for consideration of surgery whilst men with small AAA (5.
+
+4cm) are referred into surveillance (3.
+
+0-4.
+
+4cm: 1 year surveillance, 4.
+
+5-5.
+
+4cm: 3 months surveillance) as per standard operating procedures.
+
+ In England 284,583 men were offered ultrasound screening (2015-2016), however, the number of men identified with AAA was 2,549 at a cost of approximately 7,755,000.
+
+ This highlights one of the main problems with AAA screening in that the majority of men screened do not have disease.
+
+ This also brought the number of men within AAA surveillance to 13,104 whom do not require early surgery.
+
+ The incidence of AAA is falling in western populations likely secondary to a reduction in the number of individuals smoking cigarettes in addition to other pharmacological (increase in the use of anti-platelets and statins) and lifestyle (exercise) modifications.
+
+ This reduction in the number of men with AAA raises the question of whether in the long term community AAA screening will remain cost effective, however, to examine cost effectiveness it is important to establish what happens to all men invited to AAA screening over time.
+
+ One aspect of this is examining the long term outcomes of men who have an aortic diameter above 3.
+
+0cm whilst another highly debated topic is the outcome of men with an aortic diameter between 2.
+
+5-2.
+
+9cm which may be defined as sub-aneurysmal.
+
+ This group of men have been demonstrated to be at risk of developing AAA in later life (over 10 years) and there is a risk that these discharged men later go on to be at risk of aneurysm rupture.
+
+ the study would also like to examine the impact of deprivation on uptake of the screening programme is England.
+
+ Uptake of the screening programme in 2015-2016 was 85.
+
+4%, however this varies from 76.
+
+6% in Merseyside to 92.
+
+0% in less deprived parts of England.
+
+ Previous studies have highlighted the association between social deprivation and poor uptake and pilot data from our study suggests that this deprived group are also more likely to have an abdominal aneurysm.
+
+ This puts this group at great risk without the benefit of screening to prevent rupture.
+
+ Within this study outcomes in this group (AAA related death, admission and all-cause mortality/morbidity) will be assessed in order to accurately assess the cost benefit of new patient pathways to improve AAA screening uptake in the most deprived group.
+
+ Lastly, over time NAAASP will detect a large number of patients with small aneurysms that will require regular surveillance.
+
+ Patients with AAA are widely recognized to be at a higher cardiovascular risk then the general population for example one recent systematic review identified a strong link between cardiovascular death and time from diagnosis of small AAA with a 3% increased risk of cardiovascular mortality per year compared with the general population.
+
+ Duncan and Colleagues also described long term outcomes of men screened for AAA in Scotland finding that the most common cause of death in those with AAA was cardiovascular disease and that this risk increases with aortic diameter.
+
+ Increasing aortic diameter and poor cardiovascular outcomes have also been noted in several other large cohort studies.
+
+ Aortic Diameter may be an independent marker of cardiovascular risk that could improve the sensitivity of current cardiovascular risk prediction models used commonly in England.
+
+ Screening may also be an opportunity to identify men at higher cardiovascular risk (both with an aneurysm and without) creating added benefit to the screening programme.
+
+ None the less contemporary data suggests that cardiovascular risk is inadequately addressed in this high risk cohort and requires further study.
+
+.
+
+ NHS AAA Screening Programme Data Linkage With HES and ONS Datasets@highlight
+
+An abdominal aortic aneurysm (AAA) is a dilation of the aorta, defined as an aortic diameter of 3cm.
+
+ It is a significant cause of death internationally and in England each year causes c.
+
+4,000 deaths with 8,000 patients undergoing preventative surgery.
+
+ AAA are often asymptomatic and there is a latent period between development and rupture.
+
+ This represents an opportunity to screen by ultrasound which has been shown in trials to reduce AAA related mortality by half.
+
+ In England this evidence is based on a randomised trial data from the late nineties, however, since these data were published the number of men identified with AAA has fallen to a current prevalence of just over 1%.
+
+ Furthermore, similarly designed randomised trials in Western Australia demonstrated no meaningful differences in AAA or cardiovascular deaths.
+
+ The first aim of our research is to follow men who have been screened for AAA in England in order to establish the medium (5 years) and long term (10+ years) impact of AAA screening on the risk of a AAA, cardiovascular and all-cause morbidity/mortality in a non-trial setting.
+
+ Men with sub-aneurysms will be examined (Aorta=2.
+
+5-2.
+
+9cm) as several studies suggest this group is at risk of late rupture.
+
+ The role of patient pathways to improve uptake of the screening programme will be examined.
+
+ Current data suggests that the most 'deprived' men in England are the least likely to turn up for screening but the most likely to have an abdominal aneurysm.
+
+ Outcomes in this group will be analysed including the benefit of a new patient pathway to improve uptake nationally.
+
+ Lastly, several large studies have demonstrated that a larger aortic diameter may be associated with cardiovascular risk.
+
+ The addition of aortic diameter to current risk prediction models could improve the accuracy of these models and will be examined.
+

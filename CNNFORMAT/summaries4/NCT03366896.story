@@ -1,0 +1,42 @@
+(secondQuint)Validation Study of the Malay Version of 3D-CAM.
+
+ 1.
+
+ Translation and Cultural Adaptation The research panel, who consisted of experts in the clinical field of anesthesia, did the meticulous process of translation and cultural adaptation of 3D-CAM.
+
+ This process included independent translation by the research panel, reconciliation of two independent translated 3D-CAM, ethics approval prior to pilot study on 20 relevant subjects, back translation into English and finalizing the Malay version of 3D-CAM for the next phase of testing.
+
+ 2.
+
+ Testing for Validity and Reliability of the translated 3D-CAM tool Patients were recruited pre-operatively after reading the patient's information sheet and signing the informed consent.
+
+ Post-operatively, two trained assessors separately administered the Malay 3D-CAM on the recruited patients.
+
+ One of the trained assessors administered the original 3D-CAM on the same patients at a different time.
+
+ Standard reference of diagnosing delirium was made by a psychiatrist using the DSM V criteria, after interviewing the patients.
+
+ 1.
+
+ For validity, the diagnosis of delirium made using the Malay 3D-CAM tool was tested against the standard reference for diagnosing delirium according to the DSM V criteria made by a psychiatrist 2.
+
+ For inter-rater reliability, the diagnosis of delirium made by two trained assessors using the Malay 3D-CAM tool were statistically compared.
+
+ 3.
+
+ For parallel reliability, the diagnosis of delirium made using the Malay 3D-CAM was compared to the original English version of 3D-CAM.
+
+.
+
+ Validation Study of the Malay Version of 3D-CAM@highlight
+
+Validation of the Malay version of 3D-CAM, involving two-staged process.
+
+ 1.
+
+ Translation and cultural adaptation of 3D-CAM into the Malay language.
+
+ 2.
+
+ Testing for Validity and Reliability of the translated 3D-CAM tool to detect postoperative delirium.
+

@@ -1,0 +1,64 @@
+(fifthQuint)Effect of Adenotonsillectomy on Quality of Life in Children With Mild Obstructive Sleep Apnea.
+
+ Obstructive sleep apnea (OSA) is a sleep-related breathing disorder that is characterized by intermittent episodes of upper airway collapse and cessation of airflow during sleep.
+
+ It comprises the severest extent of a spectrum of sleep disordered breathing (SDB) which includes primary snoring and upper airway resistance syndrome.
+
+ OSA is a cause cardiovascular morbidity in adults and children and a public health concern, affecting 2-4% of the middle aged population (Giles 2009) and 2-3% of children in the United States (Katz 2010).
+
+ It is further associated with an increased mortality risk in adults (Giles 2009) and well-described metabolic, cardiovascular, and neuropsychological deficits in children (Katz 2010).
+
+ The latter symptoms include changes in behavior, memory and cognition, and poor school performance.
+
+ In children, adenotonsillar hyperplasia is uniformly the most common cause of upper airway obstruction, and the first-line therapy for these children is adenotonsillectomy (Darrow 2007).
+
+ While its effectiveness is complicated by children with obesity and other comorbidities, the most recent analyses of outcomes using postsurgical apnea-hypopnea index reveal that adenotonsillectomy alone is able to cure approximately 60% of child OSA (Friedman 2010).
+
+ Improvements have also been shown with neuropsychological outcomes such as behavior, school performance, attention, and others.
+
+ (Katz 2010).
+
+ "Mild OSA" is an evolving definition; it is characterized by the polysomnographic finding of AHI range greater than 1 and less than 5, defined by Katz and Marcus.
+
+(Wagner 2007) This range corresponds to the difference in the defined pathological minimum AHI for children (normal AHI < 1) and adults (normal AHI < 5).
+
+ In practice, "mild OSA" remains a common reason for delaying adenotonsillectomy in an otherwise asymptomatic child, since children with mild OSA have been shown to exhibit neurocognitive functioning equivalent to controls.
+
+(Calhoun 2009) However, psychosocially these children often have problems, and adenotonsillectomy has been shown to improve these children's behavior as measured by atypicality, depression, hyperactivity, and somatization.
+
+(Mitchell 2007) Furthermore, among one-third of children with mild OSA, the natural history is progression of disease.
+
+(Li 2010) Psychosocial problems also become manifest using health-related quality-of-life (QOL) symptom scores.
+
+ The study of QOL in children with OSA has become an area of scholarly interest in the last 15 years.
+
+ It was only in 2000 that an OSA-specific QOL questionnaire was first developed and validated for use in children (2000 Franco).
+
+ A recent meta-analysis of QOL following adenotonsillectomy revealed significant improvements in QOL scores in patients undergoing surgery for all severity levels of OSA.
+
+(2008 Baldassari) This meta-analysis included studies using validated QOL instruments, namely the Child Health Questionnaire (CHQ) and OSA-18.
+
+ Only one study of QOL in children with mild OSA found no clinically significant differences between patients who underwent adenotonsillectomy and controls; however, disease-specific QOL instrument (such as the OSA-18) was not used.
+
+(van Staaij 2004) The investigators hypothesize that children with mild OSA will demonstrate changes on QOL assessment following adenotonsillectomy, particularly in OSA-specific domains.
+
+ If true, a threshold for preoperative QOL scores may serve as a relative indication for adenotonsillectomy in the setting of mild OSA, independent of behavioral issues.
+
+.
+
+ Effect of Adenotonsillectomy on Quality of Life in Children With Mild Obstructive Sleep Apnea@highlight
+
+In children, enlarged adenoids and/or tonsils are the most common cause of obstructive sleep apnea (OSA), which is temporary blockage of breathing during sleep.
+
+ Surgery to remove the tonsils and adenoids is the first-line treatment for disorder, and has been shown to cure the majority of children.
+
+ However, for children with only a mild degree of OSA and few symptoms, surgery is less clear-cut, since two-thirds of these children do not develop worsening disease.
+
+ Research shows that some children with mild OSA and behavior problems are helped by removing the tonsils and adenoids.
+
+ In children with all degrees of OSA, surgery has improved scores on tests that measure quality of life (QOL).
+
+ The investigators hypothesize that children with mild OSA will demonstrate changes on QOL assessment following adenotonsillectomy.
+
+ These findings may help to guide the surgeon in selecting the children with mild OSA who are more likely to benefit from surgery.
+

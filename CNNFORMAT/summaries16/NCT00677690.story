@@ -1,0 +1,18 @@
+(secondQuint)Neuromuscular Electrical Stimulation in Chronic Obstructive Pulmonary Disease (COPD).
+
+ Neuromuscular electrical stimulation (NMES) has been extensively used as technique to improve muscle function in different areas of rehabilitation, however it seems to be more appropriate in critical care situation, while its use in more able patients is of uncertain benefit.
+
+ In other words, NMES seems to be particularly effective in severely deconditioned and bed ridden patients.
+
+ We therefore carried out a randomised trial to compare the efficacy of combination of NMES and PR (NM+PR) with combination of sham stimulation and PR (SS+PR) in a large population of moderately impaired COPD patients.
+
+ Primary outcome was evaluation of effect of NMES on quadriceps strength and on exercise capacity.
+
+ Secondary outcome was evaluation of effect of NMES on symptoms (dyspnoea) and quality of life.
+
+.
+
+ Neuromuscular Electrical Stimulation in Chronic Obstructive Pulmonary Disease (COPD)@highlight
+
+The purpose of this study is to elucidate whether combination of usual pulmonary rehabilitation and neuromuscular electrical stimulation of quadriceps may improve exercise capacity in patients affected by chronic obstructive pulmonary disease (COPD).
+

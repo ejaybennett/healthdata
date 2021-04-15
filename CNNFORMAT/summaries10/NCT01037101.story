@@ -1,0 +1,16 @@
+(secondQuint)D-Cycloserine-Enhancer of One-Session Treatment for Phobia of Heights.
+
+ The impact of D-Cycloserine on Virtual Reality Exposure Therapy (VRET) and In Vivo Exposure Therapy (IVET) for phobia of heights (acrophobia) will be tested using a randomized, double-blind, placebo-controlled trial.
+
+ Eighty participants will be randomly assigned to one of the four treatment conditions: one-session VRET (3 hours) and 50 mg D-Cycloserine (VR-OST + DCS, N1=20); one-session VRET (3 hours) and placebo (VR-OST + Pl, N2=20); one-session IVET (3 hours) and placebo (IV + Pl, N3=20); or one-session IVET (3 hours) and 50 mg D-Cycloserine, (IV + DCS, N4=20).
+
+ For twenty participants (5 from each group) the treatment will be delayed for three weeks and an additional assessment will be conducted as they will comprise a Wait List (WL) control group.
+
+ Behavioral, cognitive and physiological changes in acrophobia will be assessed at pre-treatment, post-waitlist, post-treatment and 3 months follow-up.
+
+.
+
+ D-Cycloserine-Enhancer of One-Session Treatment for Phobia of Heights@highlight
+
+The study will determine the effects of D-Cycloserine (DCS) on fear reduction in patients diagnosed with phobia of heights (acrophobia) undergoing one session of three hours of virtual reality exposure therapy (VRET) or in vivo exposure therapy (IVET).
+

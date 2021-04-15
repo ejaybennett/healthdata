@@ -1,0 +1,42 @@
+(thirdQuint)RO4929097 in Treating Patients With Recurrent and/or Metastatic Epithelial Ovarian Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To assess the antitumor activity of RO4929097 in recurrent and / or metastatic epithelial ovarian cancer, fallopian tube cancer and primary peritoneal cancer by progression free survival rate at the end of 4 cycles.
+
+ SECONDARY OBJECTIVES: I.
+
+ To assess the antitumor activity of RO4929097 through secondary endpoints including: overall response rate and CA125 response rate (GCIC criteria).
+
+ II.
+
+ To assess the safety of single agent RO4929097 in advanced platinum resistant ovarian, fallopian tube and primary peritoneal cancers.
+
+ III.
+
+ To explore expression of Notch biomarkers in advanced platinum resistant ovarian, fallopian, and primary peritoneal cancers.
+
+ IV.
+
+ To explore the impact of RO49097 on ascitic fluid circulating tumor cells.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive oral gamma-secretase inhibitor RO4929097 once daily on days 1-3, 8-10, and 15-17.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Blood and tumor tissue samples are collected for correlative studies.
+
+ Ascitic fluid may also be collected.
+
+ After completion of study therapy, patients are followed up every month for at least 1 year.
+
+.
+
+ RO4929097 in Treating Patients With Recurrent and/or Metastatic Epithelial Ovarian Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer@highlight
+
+This phase II trial is studying the side effects and how well RO4929097 works in treating patients with recurrent and/or metastatic epithelial ovarian cancer, fallopian tube cancer, or primary peritoneal cancer.
+
+ RO4929097 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+

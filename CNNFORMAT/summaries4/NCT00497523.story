@@ -1,0 +1,40 @@
+(secondQuint)Efficacy and Safety of Nebulised Beclomethasone Dipropionate Plus as Needed Salbutamol vs as Needed Salbutamol or as Needed Salbutamol/Beclomethasone Fixed Combination in Young Children With Asthma Symptoms.
+
+ Asthma is a chronic disease which is estimated to affect over 25 million people both in the US and Europe(i.
+
+e.
+
+ approximately 10% of the total population).
+
+There is evidence that over the last 20 years prevalence has considerably increased, especially among children.
+
+ The diagnosis of asthma in children may be difficult, largely because episodic wheezing and cough are among the common symptoms encountered in childhood illnesses, particularly in children under 3 years old.
+
+Although in these young children there is the possibility of over treatment, the episodes of wheezing may be reduced in intensity by the effective use of anti-inflammatory medications and bronchodilators rather than antibiotics.
+
+ At present, pharmacological therapy is used to treat reversible airway obstruction, inflammation and hyperreactivity in both children and adults.
+
+ Medications include preventive treatments in forms of antinflammatory/antiallergic agents (e.
+
+g.
+
+ glucocorticosteroids, leukotriene antagonists, cromolyn sodium) and reliever treatments, in form of bronchodilators (e.
+
+g.
+
+ -adrenergic agonists, anticholinergics).
+
+ Comparisons: Beclomethasone suspension for nebulisation (400 mcg U.
+
+D.
+
+V.
+
+) plus as needed salbutamol compared to placebo plus as needed salbutamol and to as needed salbutamol/beclomethasone fixed combination.
+
+.
+
+ Efficacy and Safety of Nebulised Beclomethasone Dipropionate Plus as Needed Salbutamol vs as Needed Salbutamol or as Needed Salbutamol/Beclomethasone Fixed Combination in Young Children With Asthma Symptoms@highlight
+
+To demonstrate a superior efficacy of BDP plus rescue salbutamol suspension for nebulisation, compared to placebo plus rescue salbutamol, in the relief of symptoms of asthma in young children with persistent symptoms of asthma.
+

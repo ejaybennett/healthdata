@@ -1,0 +1,40 @@
+(fifthQuint)Simple Technique to Improve Diagnostic Yield in EUS-FNA.
+
+ Endoscopic ultrasound (EUS) has evolved into a minimally invasive diagnostic and staging method.
+
+ The addition of fine needle aspiration (FNA) increases the accuracy of EUS in the diagnosis and staging of pancreatic malignancies.
+
+ An ultrasound probe attached to the end of the endoscope allows real-time direct visualization by means of ultrasound transmission.
+
+ During the FNA process a needle is advanced through the biopsy channel of the endoscope and into the target lesion.
+
+ In order to obtain a tissue specimen of a suspicious pancreatic lesion, an FNA needle must traverse either the stomach or duodenum to access the pancreatic mass.
+
+ Once the needle has entered the target lesion a syringe is exchanged for the needle stylet and negative pressure is applied allowing acquisition of a cytology specimen.
+
+ Negative pressure is released from the syringe and the stop cock is closed to the syringe.
+
+ However, due to the relatively long length of the needle there is is significant remaining negative pressure at the needle tip.
+
+ This leads to aspiration of surrounding material including GI mucosal contamination into the needle while removing it from the target lesion.
+
+ Contamination of the FNA specimen from gastric or duodenal epithelium can occur with continued negative pressure at the needle tip upon withdrawal of the needle out of the target lesion.
+
+ While EUS-FNA has a high specificity (96%), sensitivity (87%), and accuracy (94%), gastrointestinal tract contamination can lead to misinterpretation of FNA specimens.
+
+ Based on clinical experience, we propose a technique to eliminate any remaining negative pressure during EUS-FNA and therefore decreasing gastrointestinal tract contamination.
+
+.
+
+ Simple Technique to Improve Diagnostic Yield in EUS-FNA@highlight
+
+Endoscopic ultrasound and fine needle aspiration are useful tools for the diagnosis and staging of pancreatic cancer.
+
+ One potential limitation is contamination when needle traverses the gastrointestinal tract under continuous negative pressure.
+
+ Gastrointestinal tract contamination can lead to misinterpretation of FNA specimens.
+
+ We propose a technique to eliminate any remaining negative pressure during EUS-FNA and therefore decrease gastrointestinal tract contamination.
+
+ Our hypothesis is that briefly untwisting the syringe from the biopsy channel after a specimen is obtained eliminates any remaining negative pressure in the FNA needle and therefore reduces GI tract contamination of EUS-FNA specimens, and will lead to improved diagnostic accuracy of this important clinical technique.
+

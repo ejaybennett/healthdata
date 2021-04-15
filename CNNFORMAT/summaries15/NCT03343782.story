@@ -1,0 +1,9 @@
+(firstQuint)Outcomes of Expanded Autologous Bone Marrow-derived Mesenchymal Stem Cells Therapy in Type II Diabetes.
+
+ Bone marrow-derived mesenchymal stem cells have the immunosuppressive effect and secrete a variety of cytokines, improve the microenvironment of diabetic patients, targeting insulin resistance tissue, ameliorate the metabolic disorder of islet damage, protect and regeneration of the islet beta cells; reduce high blood sugar.
+
+The purpose of this study is to evaluate the safety and effectiveness of autologous bone marrow-derived mesenchymal stem cells transplantation in treatment 30 patients with type 2 diabetes mellitus at Vinmec International Hospital, Hanoi, Vietnam.
+
+ Outcomes of Expanded Autologous Bone Marrow-derived Mesenchymal Stem Cells Therapy in Type II Diabetes@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of autologous bone marrow-derived mesenchymal stem cells transplantation in the treatment of type 2 diabetes mellitus

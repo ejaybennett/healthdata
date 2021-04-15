@@ -1,0 +1,14 @@
+(secondQuint)Desensitization With Bortezomib Before a Living Kidney Donation.
+
+ The investigators plan to study the role of bortezomib for desensitizing patients awaiting a living kidney donation who have a titer of Donor Specific anti HLA Antibody (DSA) between 1000 and 3000 MFI with a multicentre pilot study of 10 patients.
+
+ The effect of bortezomib will be observed up to 6 month after bortezomib treatment prior to transplantation and 12 month after transplantation if performed.
+
+ The living kidney donation will be performed only if the DSA level drops below 1000 MFI which means an efficacy of the desensitization.
+
+.
+
+ Desensitization With Bortezomib Before a Living Kidney Donation@highlight
+
+The investigators plan to study the role of bortezomib for desensitizing patients awaiting a living kidney donation who have a titer of Donor Specific anti human leucocyte antigen (HLA) Antibody (DSA) between 1000 and 3000 MFI with a pilot study of 10 patients recruited in 4 hospital in FRANCE.
+

@@ -1,0 +1,15 @@
+(firstQuint)Stem Cells for Treating Critical Ischemia.
+
+ About 500cc of blood are collected from the iliac bone marrow under epidural anesthesia.
+
+In the cell therapy lab this blood is harvested and mononuclear cells are separated.
+
+This procedure takes roughly 4 hours.
+
+After dilution in albumin (40cc)the mononuclear cells are injected into the calf muscles through 40 shots.
+
+This procedure is indicated for patients with lower limb ischemia on whom all the others known therapies have failed.
+
+ Stem Cells for Treating Critical Ischemia@highlight
+
+Collection of bone marrow blood Selection of mononuclear cells dilution with albumin injection into the calf muscles through 40 shots

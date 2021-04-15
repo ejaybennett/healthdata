@@ -1,0 +1,18 @@
+(secondQuint)Reducing Sedentary Time in Fibromyalgia Patients.
+
+ Recent research suggests that individuals with Fibromyalgia (FM) who spend more time in sedentary behavior and less time in light physical activity experience greater clinical pain and overall impact of FM, irrespective of time spent in moderate to vigorous physical activity.
+
+ To date, no studies have investigated the potential impact of reducing sedentary behavior on key clinical and physical function outcomes in FM.
+
+ The overall objective of the pilot project is to design and evaluate the feasibility of an 8-week behavioral intervention designed to replace sedentary behavior with light physical activity in veterans with FM.
+
+ Mixed (quantitative and qualitative) methods will be used to evaluate the behavioral intervention, which is based on constructs from social cognitive and self-regulatory theories that consistently identify important drivers of behavior change as: education, goal-setting, self-monitoring and behavioral prompts to move via an activity tracker and phone app, and feedback on behavior via weekly meetings.
+
+.
+
+ Reducing Sedentary Time in Fibromyalgia Patients@highlight
+
+This study evaluates the feasibility of a behavioral intervention designed to replace sedentary behavior with light physical activity in veterans with Fibromyalgia.
+
+ The study will also evaluate the acceptability of the intervention among veterans and intervention effects on pain and physical function.
+

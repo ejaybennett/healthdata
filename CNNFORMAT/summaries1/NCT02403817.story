@@ -1,0 +1,46 @@
+(fifthQuint)Training Attention and Eye Movement in ASD.
+
+ Autism Spectrum Disorder (ASD) is a lifelong disorder that severely affects the ability to learn and function in a social environment.
+
+ In typical function, higher level social, language and communication skills develop over the first few years of life and depend upon the critical building blocks of sensory-motor and attention abilities.
+
+ Similarly in autism, higher level problems with social communication develop over the first two post-natal years and are preceded by subtle but abnormal visual attention and motor skills.
+
+ Trainings to improve social interaction and communication are the most common of behavioral interventions in ASD.
+
+ These therapies may improve the specific behaviors that are targets of the training, but rarely do they generalize to broader function or other clinical symptoms.
+
+ The investigators propose that interventions aimed instead at the early deficits that support social and language skills would be more broadly effective.
+
+ Because disruption of attention is one of the earliest and most persistent symptoms in autism, and because attention is highly subject to improvement with training, it is an important target for intervention.
+
+ This a novel intervention to train the speed and accuracy of attention orienting and eye movement.
+
+ The training is designed to target attentional behaviors that have been shown to be impaired in autism, including attention orienting, disengagement and shifting, and a restricted attentional field.
+
+ Because eye movement and attention are tightly linked, eye movement deficits in ASD parallel those found in spatial attention.
+
+ Eye movements provide a marker for attention and the proposed training is designed to improve speed, accuracy and flexibility of eye movement and attention simultaneously.
+
+ Training uses a series of entertaining video games to gradually shape behavior using visual and auditory feedback provided in real time.
+
+ The investigators plan three levels of outcome measures for pre- and post-training to test the effectiveness of the intervention (direct tests of attention and eye movement; tests of improvement in attentional and visual monitoring and speed and accuracy of response in a simulated environment; tests of behavior in an actual social environment).
+
+ The investigators will conduct clinical trials with control conditions (e.
+
+g.
+
+, standard video games without training elements) with a small sample of ASD children aged 9-15.
+
+ If this initial work is successful, the long term goal is to develop a readily available inexpensive eyetracker-based system for home use that is suitable for a broad age range of ASD children and adults.
+
+.
+
+ Training Attention and Eye Movement in ASD@highlight
+
+Current therapies for autism target social and language behaviors, but due to the high-level nature of these skills any improvement rarely extends beyond the targeted behavior.
+
+ This project uses new technology to implement a novel concept for behavioral intervention to improve basic attention and eye movement skills in ASD.
+
+ Because these basic skills form the foundation for good social communication, training these abilities has the potential to improve a broad spectrum of clinical symptoms, and in young children may affect the course of development.
+

@@ -1,0 +1,12 @@
+(firstQuint)Dehydration of Stenfilcon A Contact Lenses Versus Delefilcon A Contact Lenses.
+
+ The study will explore in vivo lens dehydration rates across a 12hr wear period for the study lenses.
+
+ The primary outcome variable for this study is the loss in lens weight over the day, which will indicate the amount of dehydration that has occured.
+
+.
+
+ Dehydration of Stenfilcon A Contact Lenses Versus Delefilcon A Contact Lenses@highlight
+
+The study will explore in vivo lens dehydration rates across a 12hr wear period for the study lenses.
+

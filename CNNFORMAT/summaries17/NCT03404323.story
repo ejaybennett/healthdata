@@ -1,0 +1,14 @@
+(secondQuint)"Cataract Surgery in Eyes With Epiretinal Membrane".
+
+ Optical coherence tomography (OCT) is nowadays used in daily clinical practice and has become a helpful tool for detection of macular changes also in presence of opacification of the lens before cataract surgery.
+
+ Using recent high-resolution OCT technology, early stages of epiretinal membranes can easily be detected and analysed.
+
+ Since cataract surgery is one of the most frequently performed operations worldwide, this study was aimed to investigate the influence of uncomplicated cataract surgery on central retinal thickness and the incidence of structural and morphological macular changes after surgery in eyes with asymptomatic epiretinal membrane.
+
+.
+
+ "Cataract Surgery in Eyes With Epiretinal Membrane"@highlight
+
+The purpose of the study is to evaluate retinal thickness change and the occurrence of central structural retinal changes after uneventful small-incision cataract surgery in eyes with asymptomatic early stages of epiretinal membrane.
+

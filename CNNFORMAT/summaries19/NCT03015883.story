@@ -1,0 +1,18 @@
+(firstQuint)Alpha Radiation Emitters Device for the Treatment of Squamous Cell Carcinoma.
+
+ This will be a prospective, first in man, controlled study, assessing the safety and efficacy of diffusing alpha emitters radiation therapy (DaRT) delivered through radioactive seeds inserted into the tumor.
+
+ This approach combines the advantages of local intratumoral irradiation of the tumor, as used in conventional brachytherapy, with the power of the alpha radiation emitting atoms, that will be introduced in quantities considerably lower than radiation therapy already used in patients.
+
+ Lesions with histopathological diagnosis of squamous cell carcinoma will be studied.
+
+ Reduction in tumor size 30 days after DaRT insertion will be assessed.
+
+ Safety will be assessed by the incidence, severity and frequency of all Adverse Events (AE).
+
+.
+
+ Alpha Radiation Emitters Device for the Treatment of Squamous Cell Carcinoma@highlight
+
+A unique approach for cancer treatment employing intratumoral diffusing alpha radiation emitter device.
+

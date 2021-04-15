@@ -1,0 +1,50 @@
+(thirdQuint)Acute Kidney Outreach to Reduce Deterioration and Death (AKORDD).
+
+ Lay summary: About one in six hospital inpatients suffer Acute Kidney Injury (AKI), also called acute renal failure.
+
+ About a third of patients with AKI die.
+
+ The large majority of patients with AKI are managed by doctors who are not kidney experts.
+
+ Effective AKI advice and treatments are available but not currently integrated into routine care.
+
+ A recent National review of the care of patients who died from AKI showed poor management of many patients.
+
+ Early diagnosis of AKI can avoid complications, dialysis (which affects the quality of life of patients, and is costly) or death.
+
+ AKI is diagnosed by a change in a blood test.
+
+ We have developed computer software to diagnose AKI earlier.
+
+ It sends a warning or 'Alert' about the test to our team of kidney experts.
+
+ We will further develop the settings of the Alert system.
+
+ It needs to send an Alert for the right patients.
+
+ We will also study the best way to make clinicians pay attention to their patients who are developing AKI.
+
+ When our expert Outreach team receive an Alert, they will call the doctor or nurse looking after the patient with AKI.
+
+ We will advise on the best treatment for that patient, to reduce their risk of death, dialysis and other complications.
+
+ We will do a pilot study in one large hospital, to further develop the system, and check it reduces the risk of death or complications from AKI.
+
+ We will use this work to develop a larger trial of this new system of care for patients with AKI in different hospitals.
+
+ This will convince the wider NHS of the need to change, and show how to prevent or reduce AKI.
+
+ Ultimately we aim to improve patients' lives by reducing avoidable death and illness from AKI , and also save the NHS money.
+
+.
+
+ Acute Kidney Outreach to Reduce Deterioration and Death (AKORDD)@highlight
+
+The study pilots an outreach service for Acute kidney injury (AKI) patients, based on electronic alerts.
+
+ Using the alerts we will contact the primary clinician caring for the patient with AKI in the Intervention group.
+
+ The study has a control group of patients receiving good standard care, but without Outreach.
+
+ The aim is to reduce morbidity and mortality in the syndrome, and also to reduce healthcare costs.
+

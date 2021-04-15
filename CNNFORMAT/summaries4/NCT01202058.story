@@ -1,0 +1,48 @@
+(thirdQuint)An Observational Safety Evaluation of Patients Treated With the NEVO Sirolimus-eluting Coronary Stent.
+
+ (NEVO II).
+
+ Restenosis remains a frequent cause of late failure after initially successful coronary angioplasty occurring in as many as 20-40% of procedures performed.
+
+ Loss of luminal diameter as a result of restenosis has been attributed to three physiologic mechanisms: passive elastic recoil of the vessel, geometric vessel remodeling and neointimal hyperplasia.
+
+ Coronary stents provide mechanical scaffolding that reduces restenosis by limiting the extent of elastic recoil and late vascular remodeling.
+
+ Despite these improvements, the incidence of restenosis following coronary stent implantation occurs in 20-40% of cases.
+
+ Restenosis following stenting is primarily a result of neointimal hyperplasia.
+
+ The methodology in interventional cardiology has historically evolved from diagnostic coronary angiography to balloon angioplasty, the use of bare metal stents, their refinement to drug-eluting stents with a durable polymer, and is now on the verge to drug-eluting stents with further developed drug delivery approaches such as the reservoir technology and the use of bioresorbable polymers.
+
+ While the reservoir approach may make drug delivery more controllable, the reduction of polymer exposure to the vessel wall was designed to improve vascular healing and reduce the occurrence of undesirable side effects such as stent thrombosis especially on the long-term once the drug is completely eluted.
+
+ While to date, these are concepts validated preferably in pre-clinical studies, and only limited clinical data are available to suggest efficacy and safety of the NEVO cent SES, this study seeks to assess its clinical value in a large and unselected cohort of subjects representing real-world contemporary treatment patterns through a non-inferiority comparison with the most widely used DES today, the XIENCE V(R) / XIENCE PRIME cent / PROMUS(R) stent.
+
+ Between August and October 2010, 156 subjects were enrolled in the trial.
+
+ Of the 156 subjects, 103 were treated with the NEVO cent Sirolimus-eluting Stent and 53 with the comparator.
+
+ Based on a small number of acute performance observations, Cordis voluntary suspended enrollment to optimize the balloon catheter.
+
+ As a result of evolving market dynamics, and product portfolio decisions, Cordis decided in June 2011 to no longer pursue the development of NEVO cent Sirolimus-eluting coronary stents.
+
+ As a result of this decision, the design and objective of the NEVO II trial were changed to allow only follow-up of the 103 NEVO cent subjects.
+
+ Since the NEVO cent SES is an investigational device; the NEVO cent subjects are being followed-up to safeguard their safety and wellbeing.
+
+ The 53 subjects from the comparator arm do not need further follow-up due to the fact that they have been treated with a commercially available stent.
+
+.
+
+ An Observational Safety Evaluation of Patients Treated With the NEVO Sirolimus-eluting Coronary Stent.
+
+ (NEVO II)@highlight
+
+As a result of the implementation of Protocol Am3.
+
+0, the design and objective of the NEVO II trial were changed to focus on the safety follow-up of the 103 NEVO cent subjects.
+
+ Although this trial started interventional, the remainder of the study will be observational.
+
+ The objective of this prospective, observational study is to ensure the safety and the wellbeing of subjects treated with the NEVO cent SES.
+

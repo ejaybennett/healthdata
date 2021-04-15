@@ -1,0 +1,14 @@
+(firstQuint)Pharmacotherapy in Depression With Panic Spectrum.
+
+ Researchers at the University of Pittsburgh Medical Center Health System are currently recruiting men and women, ages 18 to 60, to examine the effectiveness of the FDA-approved medication sertraline (Zoloft) for major depression.
+
+ Participants will be randomly assigned to one of two groups.
+
+ Each group will begin and continue taking Zoloft at different doses.
+
+ A physician will follow eligible participants weekly for approximately 12 weeks.
+
+ Pharmacotherapy in Depression With Panic Spectrum@highlight
+
+This research study is being conducted to find out if certain individuals benefit from taking medication for their depression with a low dose of the antidepressant medication Zoloft.
+

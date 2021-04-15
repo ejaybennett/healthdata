@@ -1,0 +1,16 @@
+(firstQuint)Digital Image Correlation in Right Ventricular Evaluation.
+
+ Observational study of patients undergoing open heart surgery.
+
+ During the procedure video clips of right heart are stored and compared to trans-oesophageal ultrasound recordings and ECG recordings.
+
+ Right heart volume status and function is controlled and induced with theophylline and ventilator regulated positive end-expiratory pressure recordings.
+
+.
+
+ Digital Image Correlation in Right Ventricular Evaluation@highlight
+
+Observational study of patients undergoing open heart surgery.
+
+ During the procedure video clips of right heart are stored and compared to trans-oesophageal ultrasound recordings and ECG recordings.
+

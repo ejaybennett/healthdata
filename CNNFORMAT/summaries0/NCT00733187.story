@@ -1,0 +1,14 @@
+(firstQuint)Pharmacokinetic Study To Evaluate Effect of Food and Diurnal Variation on ABT-869.
+
+ This study is a pharmacokinetic study designed to evaluate the effect of food on the oral bioavailability and effect of diurnal variation on the pharmacokinetics of ABT-869.
+
+ Triplicate ECG performed to determine the effect of ABT-869 on QT prolongation .
+
+ Subjects may continue receiving linifanib after completion of the study.
+
+.
+
+ Pharmacokinetic Study To Evaluate Effect of Food and Diurnal Variation on ABT-869@highlight
+
+To estimate the effect of food on the oral bioavailability and effect of diurnal variation on the pharmacokinetics of ABT-869.
+

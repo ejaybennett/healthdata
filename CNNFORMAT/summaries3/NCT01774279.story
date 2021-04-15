@@ -1,0 +1,254 @@
+(fifthQuint)interNational Anaplastic Thyroid Cancer Tissue Bank and Database (iNATT).
+
+ Study design and methodology ATC patients will be identified by thyroid cancer specialists (including endocrine surgeons, head and neck cancer surgeons, clinical oncologists, endocrinologists, pathologists, radiologists, clinical nurse specialists) working in thyroid cancer multidisciplinary teams (MDTs) across the UK Cancer Networks.
+
+ Patients will be approached by a member of the MDT and provided with a patient information leaflet on the National Anaplastic Thyroid Cancer Tissue Bank and Database project.
+
+ Following discussion and adequate time to consider the project, the patient will be invited to participate and to provide their written consent.
+
+ Consent will be sought for thyroid tissue collection, blood sample collection as well as collection of anonymised clinical data.
+
+ It is expected that the majority of patients will be willing to participate as their own care will be unchanged but they have the potential to help future patients in the same difficult situation.
+
+ As entry into the study will not affect the patient's own care there is no time limit after diagnosis in which participation can be undertaken.
+
+ As the majority of the patients will not have anaplastic thyroid cancer that is amenable to total thyroidectomy the tissue specimen collection will usually entail diagnostic core biopsies or fine needle aspirates from the thyroid gland.
+
+ The tissue specimens will initially be used for histological diagnosis at the local hospital and any spare tissue will then subsequently be sent to the Wales Cancer Bank (WCB) 3.
+
+ In the minority of patients who undergo some form of thyroid resection, tissue blocks and possibly slides will be sent for storage at WCB once the initial diagnostic work is complete.
+
+ An optional EDTA blood samples will also be collected and sent to WCB.
+
+ Patients will ideally provide both tissue and blood samples but can opt to submit one or other specimen type if they prefer.
+
+ A multidisciplinary steering committee will be established to oversee the running of the project and to review subsequent independently submitted research proposals.
+
+ A baseline Case Report Form (CRF) will be completed and forwarded to WCB.
+
+ Where consent has been given for the collection of clinical data this will be entered either by the patient's own thyroid consultant or by Dr Moss into the secure and confidential Thyroid Cancer Forum-UK4 database.
+
+ As ATC comprises a heterogeneous group of histological appearances that often prove difficult to accurately diagnose, a central pathological review process will be implemented to ensure uniform pathological reporting.
+
+ An opportunity for molecular profiling of individual tumours will also be considered at this stage.
+
+ Outcome data will be requested at 6, 12, 18months and annually thereafter.
+
+ However as the prognosis is generally poor with current treatment options, outcome data collection is unlikely to extend beyond 6 months in the majority of cases.
+
+ ATC disease trajectory, response to treatment and outcomes (Progression Free Survival and Overall Survival) will be correlated with histological appearance and molecular profile.
+
+ Patient identifiable data will only be accessible at the referring centre by the clinical team caring for the patient but not at the National ATC Tissue Bank.
+
+ Each patient will be allocated a unique identification number by WCB and all stored data and specimens will use this for reference only.
+
+ It is unknown with the currently available UK data on thyroid cancer incidence precisely how many cases of anaplastic thyroid arise annually.
+
+ It is estimated that 70-90 new cases are diagnosed per year.
+
+ The research project is expected to run for between 5 and 10 years in the first instance to allow a significant number of patients to be included in the project.
+
+ Funding has been secured from Thyroid Cancer Support Group- Wales5.
+
+ Eligibility Criteria - All patients with anaplastic thyroid cancer who are able to provide informed consent.
+
+ - Patients with foci of anaplastic thyroid cancer within a more differentiated thyroid cancer who are able to provide informed consent.
+
+ Exclusion Criteria - Patients with non anaplastic thyroid cancer including medullary thyroid cancer, papillary thyroid cancer, follicular thyroid cancer, thyroid lymphoma - Patients unable to provide informed consent Identification of Patients Patients may be discussed and identified at a thyroid cancer or head and neck cancer multidisciplinary team meeting.
+
+ Identification may arise from pathologist, radiologist, clinicians or clinical nurse specialists.
+
+ Due to the expected short survival of this patient group it would be prospective identification of patients and not a retrospective review of previous cases.
+
+ Patients will be approached by a member of the team either on an inpatient ward or in the out patient clinic only once the diagnosis is confirmed, the patient is aware of their diagnosis and have had sufficient time to come to terms with the diagnosis.
+
+ Patient Recruitment and Registration Patients with a confirmed diagnosis of anaplastic thyroid cancer and who are aware of their diagnosis and able to provide informed consent would be considered.
+
+ Appropriate patients would receive a verbal explanation of the study in the first instance followed by a written information leaflet.
+
+ The patient would then be given as much time as they need to decide if they wish to participate.
+
+ For those wishing to proceed, a member of the thyroid cancer multidisciplinary team will go through the consent process and consent form with them.
+
+ They will answer any questions and highlight the optional parts of the study.
+
+ The patient would be given a copy of the consent form including contact details for the local thyroid cancer team lead and the Chief Investigator.
+
+ No patients from vulnerable groups would be approached.
+
+ Information on the tissue bank and database project will be posted on the Thyroid Cancer Forum-UK (TCF-UK) and Thyroid Cancer Support Group- Wales websites as well as announced at national and international thyroid cancer meetings and in the medical press.
+
+ Other UK thyroid cancer patient support groups will be kept informed of the project as they will be in contact with anaplastic thyroid cancer patients and their families.
+
+ The project will also be registered and displayed on the www.
+
+clinicaltrials.
+
+gov website.
+
+ Sample Collection and Storage It is expected that the vast majority of patients will already have had biopsies or Fine Needle Aspirates (FNA) taken from their thyroid gland in order to make the diagnosis in which case it is these samples that will be sent to the tissue bank.
+
+ Occasionally diagnostic biopsies will have been retrieved from anatomical sites other than the thyroid gland including, but not confined to, cervical lymph nodes and distant metastases.
+
+ Only tissue samples that are no longer required by the local pathology department will be sent to the tissue bank.
+
+ Due to the usual short prognosis for patients with this disease it is not expected that the local pathology department will need to request the samples back in order to undertake any further investigations at a later date in the patient's cancer journey.
+
+ However if this situation does arise then any unused samples will be returned as requested.
+
+ The patient will be asked if they wish to donate an optional EDTA blood sample as part of the research project and this sample will be taken when possible at the same time as any routine clinically indicated blood samples to reduce the number of venepuncture procedures required.
+
+ Data Collection and Storage The patients will be asked if they wish for a summary of their clinical history including details on their mode of presentation, any treatment interventions and complications (such as requiring a tracheostomy or enteral feeding tube) to be included in the study.
+
+ Thyroid Cancer Forum-UK already has an established national anaplastic thyroid cancer database.
+
+ This is hosted on a secure website server and is registered with the Information Commissioner's Office.
+
+ The data on this is only accessible by Dr Laura Moss, as the project Chief Investigator and TCF-UK data controller, and by the individual patient's consultant.
+
+ This system is already up and running for anaplastic thyroid cancer patients (and medullary thyroid cancer patients) and no concerns have been raised from either the patient or clinician perspective.
+
+ Quality Assurance The patient's local thyroid cancer team will be responsible for liaising with the NATT project/Wales Cancer Bank to attribute a unique identifier number to each study participant.
+
+ The patients' initials and unique identifier number will be used to identify subjects.
+
+ The Wales Cancer Bank (WCB) processes confidential and valuable data.
+
+ The WCB Security Policy aims to protect data against loss or destruction, and unauthorised access or modification.
+
+ It also ensures data integrity will be maintained.
+
+ The clinical data on the Thyroid Cancer Forum-UK database is stored on a secure website server.
+
+ The national data is only accessible by Dr Laura Moss (NATT Chief Investigator and TCF-UK data controller).
+
+ The patient's local team can only access data on their own patients and not patients registered elsewhere in the UK.
+
+ Data fields collected include patient initials, NATT unique identifier number, gender and date of birth.
+
+ This information is required in order to nationally assess age and gender distribution and to correlate with treatment received and outcomes.
+
+ Ethical considerations Research into anaplastic thyroid cancer has been thwarted by a combination of its rarity and poor prognosis.
+
+ A rare disease is often quoted as having an incidence of <2 cases per 100,000 and anaplastic thyroid cancer has an incidence of only 0.
+
+17 per 100,000 in Europe.
+
+ The rarity means it is very difficult to carry out prospective research without collaboration amongst thyroid cancer teams.
+
+ This project is designed to involve thyroid cancer multidisciplinary teams across the UK and will seek to approach as many patients with anaplastic thyroid cancer as possible.
+
+ The project has been discussed from an early stage with the National Cancer Research Institute Thyroid Cancer subgroup and has its support.
+
+ Patient involvement in the project development was sought at an early stage from the two UK thyroid cancer specific patient organisations, Butterfly Thyroid Cancer Trust and Thyroid Cancer Support Group-Wales.
+
+ The latter charity has subsequently committed themselves to funding the entire project.
+
+ It is anticipated that the recruitment rate will be high as the patient will not need to undergo any additional invasive procedure other than a blood test which is optional.
+
+ Patients will be aware that this is a rare disease with currently no effective therapy and short prognosis so it is anticipated that there will be altruistic donations for the benefit of future patients who face the same diagnosis.
+
+ Patients will be approached by members of their local thyroid cancer multidisciplinary team who are experienced in the management of this disease and who have appropriate experience in consent procedures.
+
+ The database aspect of the project is not a new concept.
+
+ Thyroid Cancer Forum-UK, has been collecting the same data fields in the same manner for several years for patients across the UK.
+
+ The database project is registered with the Information Commissioner's Office.
+
+ Data will be collected in accordance with the Caldicott Principles and patient identifiable data will be very limited.
+
+ Patients participating in the project face no physical risk as a result of their participation in the project.
+
+ Due to the anticipated timescale for collection of tissue and data it is expected to take a minimum of several years before any meaningful outcomes will be achieved.
+
+ The poor prognosis of the disease means that the project participants are unlikely to be alive when the subsequent research projects come to fruition and will not therefore benefit directly from participation in the study.
+
+ The patient information leaflet explains the project objectives both in terms of what is being asked of the individual patient in terms of donation of tissue, blood and data and also stipulates that the samples will be stored pending submission of future research proposals from respected researchers which will have the necessary ethical approvals and will be scrutinised by the National Anaplastic Thyroid Cancer Tissue Bank and Database (NATT) steering committee.
+
+ Patients will be able to withdraw their consent at any stage, without needing to provide a reason and will be made aware that any unused samples will either be returned to their local hospital or disposed of in accordance with the Human Tissue Authority code of practice and their data will be removed from the database.
+
+ The issue of consent withdrawal is not expected to be a significant problem.
+
+ Human tissue disposal It is recognised that all donations to the NATT project are altruistic and patients are free to withdraw consent without reason at any time.
+
+ Patients are advised, at the time of consent, that some of their samples may already have been used by the time they wish to withdraw.
+
+ It is acknowledged that the disposal of human tissue is a sensitive area and the project will comply with the Human Tissue Authority code of practice, 'The removal, storage and disposal of human organs and tissue' Ethics Approval The project will be conducted in accordance with the World Medical Association, Declaration of Helsinki (2008 version) and in accordance with the terms and conditions of the ethical approval given to the trial.
+
+ Study management Velindre NHS Trust Research and Development Department will be responsible for organising Material Transfer Agreements between Velindre NHS Trust and each Tissue Collection Centre.
+
+ Individual investigators will liaise with their local R&D departments.
+
+ They are then responsible for recruiting patients, adhering to the most recent version of the protocol and collection of data on the case report forms (CRFs).
+
+ The project will be overseen by a multidisciplinary steering committee comprising clinical oncologists, Wales Cancer Bank manager, Velindre NHS Trust R&D management, thyroid cancer scientists and pathologists.
+
+ The committee will review the tissue sample collection in terms of central pathology review to ensure consistency, rate of national recruitment, number of centres participating and any potential limitations to patient recruitment into the project.
+
+ Publication Any publications or presentations arising directly as a result of this project will acknowledge all contributing investigators.
+
+ Summary The aim of the project is to facilitate research opportunities into this difficult disease which historically has been difficult to research due to the combination of its rarity and overall poor prognosis.
+
+ By utilising a national tissue and data resource model a significant number of patients and samples can be studied in a realistic research timeframe.
+
+ The project has the potential to help with our understanding of the disease aetiology and to open new avenues for treatment interventions.
+
+ As a result of the patient participating in this project they will be agreeing to any surplus anaplastic thyroid cancer tissue plus a blood sample being sent to the Wales Cancer Bank for storage until a suitable research project is approved by the National Anaplastic Thyroid Cancer Tissue Bank and Database (NATT) Project Steering Committee.
+
+ Participants also have the option of having their clinical information collected in a pre-existing national database.
+
+ Participants will not be approached regarding any further tissue or blood samples.
+
+.
+
+ interNational Anaplastic Thyroid Cancer Tissue Bank and Database (iNATT)@highlight
+
+Anaplastic thyroid cancer has historically proven very difficult to research due to a combination of its rarity and the associated short survival period for those affected.
+
+ In 2009, 2340 patients in the UK were diagnosed with thyroid cancer with 70-90 expected to be the anaplastic subtype 1,2.
+
+ For these patients average life expectancy is in the range of 2-6 months with only a very small number surviving for more than one year.
+
+ It is a highly aggressive form of cancer that is refractory to current treatment options.
+
+ By collecting tissue and blood samples along with clinical data across the UK we will be able to accumulate numerically significant numbers of samples and data points which will facilitate research opportunities.
+
+ Researchers will be encouraged to apply for access to the collected samples in order to try and establish the causal mechanisms for disease development, potential therapeutic targets and to relate clinical course and outcome with specific molecular defects.
+
+ Due to the rarity it is not feasible for a single cancer centre or cancer network to accumulate sufficient samples for research in a meaningful timeframe hence the need for national collaboration in order to try and offer patients with this disease hope in the future.
+
+ All UK patients with anaplastic thyroid cancer would be potentially eligible.
+
+ The project is expected to run for at least 5 years and all thyroid cancer clinicians will be encouraged to participate.
+
+ Patients will be asked to donate surplus thyroid cancer tissue following routine biopsy procedures along with an optional blood sample.
+
+ 2.
+
+ Objectives Primary Objectives The primary objective of this project is to establish a national anaplastic thyroid cancer tissue collection to help facilitate both basic and translational research opportunities.
+
+ There is no direct research question that the project itself addresses at this stage.
+
+ The research proposals that subsequently arise as a result of this project will be generated by accredited research parties from the UK and potentially internationally.
+
+ These research proposals will be submitted to the National Anaplastic Thyroid Cancer Tissue Bank and Database Project (NATT) Steering Committee for assessment.
+
+ As the volume of material collected per patient is expected to be of small volume, by virtue of the specimen comprising core biopsy or fine needle aspirate material, research proposals will need to be prioritised according to the potential benefits the proposed research offers.
+
+ Priority will be given to projects that may lead to the identification of potential therapeutic targets.
+
+ Each research proposal will require their own ethical approval and research and development assessments before commencing.
+
+ The steering committee will be multidisciplinary and will include nationally respected researchers and thyroid cancer clinicians.
+
+ Scientific Justification The long term objective is to try and address the current lack of understanding about the aetiology and progression of this disease and ultimately to develop new therapeutic interventions that may slow the rate of disease progression, improve quality of life and prolong what is currently a very short survival.
+
+ Due to the short prognosis following diagnosis it is notoriously difficult to run interventional therapeutic clinical trials in this patient population.
+
+ Patients usually present with locally advanced and metastatic disease and as a consequence are often of poor performance status making clinical trial participation very problematic.
+
+ If potential therapeutic targets could be identified in vivo it would potentially open up new therapeutic avenues whilst sparing some patients with the 'wrong' molecular profile futile treatment.
+
+ This is a unique project within the setting of anaplastic thyroid cancer research.
+

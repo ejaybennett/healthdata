@@ -1,0 +1,24 @@
+(secondQuint)Metformin in Intrahepatic Cholestasis of Pregnancy.
+
+ Intrahepatic cholestasis is a condition that affects pregnant women.
+
+ It is characterised by itching, usually in the third trimester of pregnancy and is associated with an increase in the liver enzymes and bile salts.
+
+ This can be associated with maternal and neonatal morbidity, and rarely perinatal mortality.
+
+ The investigators propose to assess and compare the effect of Metformin versus Ursodeoxycholic acid on lowering liver enzymes and bile salts, improving maternal morbidity and improving neonatal outcomes.
+
+ This study is a pilot study that will be conducted at 3 NHS hospital sites where patients will randomly assigned to receive either Metformin or Ursodeoxycholic acid.
+
+ There will be 20 patient in each arm.
+
+ Recruitment will commence in February 2017 and will run for an 18 month period.
+
+.
+
+ Metformin in Intrahepatic Cholestasis of Pregnancy@highlight
+
+This is a pilot study aimed at comparing the effect of metformin versus ursodeoxycholic acid in women with intrahepatic cholestasis in pregnancy.
+
+ The study will be conducted in three NHS hospital sites, over an 18 month period.
+

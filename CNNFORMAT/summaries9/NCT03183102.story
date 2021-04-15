@@ -1,0 +1,20 @@
+(firstQuint)The Role of the Gut Microbiota in Estrogen Metabolism and Dietary Flax as a Potential Modulator.
+
+.
+
+ This pilot study will begin to address whether gut microbiota change with estrogen suppression.
+
+ Specifically, the investigators will test whether gut microbial diversity and abundance change in response to estrogen suppression and consumption of dietary flaxseed.
+
+ To test this possibility the investigators will recruit premenopausal women (age 20-40 years old)and collect fecal samples before and after 1 month of estrogen suppression with GnRH agonist.
+
+ The investigators will analyze the gut microbiota in response to estrogen loss and whether this differs with the consumption of flaxseed.
+
+.
+
+ The Role of the Gut Microbiota in Estrogen Metabolism and Dietary Flax as a Potential Modulator.
+
+@highlight
+
+The purpose of this pilot study is to determine if suppressing estrogen in premenopausal women results in changes in gut microbiota and if dietary flaxseed modulates these changes.
+

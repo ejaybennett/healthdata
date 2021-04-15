@@ -1,0 +1,14 @@
+(firstQuint)Intravitreal Triamcinolone for Acute Branch Retinal Vein Occlusion.
+
+ Intravitreal triamcinolone has recently been shown to have beneficial effect on chronic macular edema due to vein occlusion and preventive effect on neovascularization.
+
+ Hypothetically, prevention of macular derangement by reducing the amount of edema from early phase after occlusion until restoration of collaterals seems to be helpful in these eyes.
+
+ To our knowledge, no prospective randomized clinical trial, considering both macular changes and preventive effect on neovascularization has been published for intravitreal triamcinolone in acute branch retinal vein occlusion.
+
+.
+
+ Intravitreal Triamcinolone for Acute Branch Retinal Vein Occlusion@highlight
+
+The purpose of this study is to determine whether intraocular injection of triamcinolone is effective in the treatment of macular edema in acute branch retinal vein occlusion.
+

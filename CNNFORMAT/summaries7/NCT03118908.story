@@ -1,0 +1,16 @@
+(secondQuint)Clinical Evaluation of Effectiveness and Safety of Amberen and Smart B by Women With Climacteric Syndrome.
+
+ 1.
+
+ To evaluate effectiveness of combined use of dietary supplements Amberen and Smart B (vs placebo) by women with a typical (without complications) form of climacteric syndrome, with mild to moderate vegetative symptoms during perimenopause and menopause in regards to vasomotor, endocrine-metabolic, and neuro-psychological dysfunctions; 2.
+
+ To evaluate safety of combined use of dietary supplements Amberen and Smart B (vs placebo) by women with a typical (without complications) form of climacteric syndrome, with mild to moderate vegetative symptoms during perimenopause and menopause, lasting no less than 1 year in regards to vasomotor, endocrine-metabolic, and neuro-psychological dysfunctions; 3.
+
+ To develop recommendations for combined use of dietary supplements Amberen and Smart B for women with a typical (without complications) form of climacteric syndrome, with mild to moderate vegetative symptoms during perimenopause and menopause (menopausal for at least 1 year).
+
+.
+
+ Clinical Evaluation of Effectiveness and Safety of Amberen and Smart B by Women With Climacteric Syndrome@highlight
+
+To evaluate effectiveness and safety of combined use of dietary supplements Amberen and Smart B by women with a typical (without complications) form of climacteric syndrome, with mild to moderate symptoms.
+

@@ -1,0 +1,18 @@
+(thirdQuint)Mycophenolic Acid (MPA) Monotherapy in Liver Transplantation.
+
+ The hypothesis to be tested is that donor-microchimerism in specific cell populations promotes the development of donor-specific regulation which in turn allows for long-term maintenance therapy with a single drug (Myfortic) in selected patients leading to superior long-term outcomes.
+
+ Subjects will be enrolled post-transplantation and will be liver transplant recipients who meet the eligibility and exclusion criteria.
+
+ We will use post-transplant monitoring for donor-specific immunologic regulation (DSR+/ DSA negative) to direct the withdrawal of patients to Myfortic monotherapy.
+
+ Donor microchimerism, DSR, DSA development will be performed on samples obtained every six months from patients on study.
+
+ The ultimate objective of the study is to use immunologic monitoring to develop a rational approach to achieving individualized immunosuppression for liver transplant patients.
+
+.
+
+ Mycophenolic Acid (MPA) Monotherapy in Liver Transplantation@highlight
+
+To determine whether long-term maintenance therapy with a single drug (Myfortic) applied using advanced immunologic monitoring tools in selected patients can lead to superior native kidney function at 2 years without resulting in increased acute rejection episodes or deterioration of liver allograft function.
+

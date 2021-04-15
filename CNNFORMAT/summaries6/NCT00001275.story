@@ -1,0 +1,26 @@
+(fifthQuint)Ovarian Follicle Function in Patients With Primary Ovarian Failure.
+
+ No proven therapy to restore ovarian function and fertility is available to patients with karyotypically normal spontaneous primary ovarian insufficiency.
+
+ We know that more than one-half of these patients have primordial follicles remaining in the ovary, and these follicles can function intermittently.
+
+ This protocol permitted baseline clinical evaluation of patients with primary ovarian insufficiency and ongoing observation of the natural history of the disorder.
+
+ The protocol is now in the follow up and analysis phase and is not now recruiting new patients.
+
+ Now a major aim of the protocol is to investigate large scale medical sequencing as a method by which to uncover mechanisms of primary ovarian insufficiency and to assist in the management of women with this condition.
+
+ This will involve a community-based participatory research approach.
+
+.
+
+ Ovarian Follicle Function in Patients With Primary Ovarian Failure@highlight
+
+No proven therapy to restore ovarian function and fertility is available to patients with karyotypically normal spontaneous premature ovarian failure.
+
+ We know that one-half of these patients have primordial follicles remaining in the ovary, and these follicles can function intermittently.
+
+ This is a diagnostic omnibus protocol that permits baseline clinical evaluation of patients with prematurem ovarian failure.
+
+ The findings will determine patients' suitability for specifically focused therapeutic research protocols.
+

@@ -1,0 +1,48 @@
+(fifthQuint)OROS Methylphenidate (Concerta) in the Treatment of Adult ADHD.
+
+ ADHD affects from 3 to 5% of children, persists into adolescence 40 to 70% of these children and continues into adulthood in at least 50% of affected adolescents.
+
+ Pharmacotherapy for ADHD in adults has paralleled that used for children, with generally positive results (Spencer, 1998).
+
+ Never-the-less, it is not clear that the dimensions of medication response in adults are the same as in children.
+
+ The extent to which the symptoms change with age remains open to question.
+
+ This trial is created to include a variety of outcome measures which will enhance the number of symptoms assessed.
+
+ Methylphenidate was the first medication shown to be effective in treatment for adults with ADHD and continues to be widely used.
+
+ Several studies have demonstrated the usefulness of methylphenidate in adult ADHD (Wender et al, 1985, Spencer et al, 1995).
+
+ These studies have not shown any unexpected drawbacks to treatment with methylphenidate.
+
+ The extended release formulations represent an improvement over the immediate release versions for many patients.
+
+ This is a double-blind, placebo-controlled, randomized, crossover trial comparing OROS methylphenidate with placebo.
+
+ The double-blind trial will be preceded by an enrollment period consisting of a screening visit followed by a baseline visit.
+
+ Patients who continue to meet admission criteria at baseline will be randomized into the first of two 4-week treatment periods.
+
+ We will attempt to reach the highest tolerated dose size within 2 weeks and then observe the response over the last two weeks of each crossover phase.
+
+ The double-blind period will be followed by a 180 day open-treatment, flexible-dose phase designed to assess long-term effects.
+
+.
+
+ OROS Methylphenidate (Concerta) in the Treatment of Adult ADHD@highlight
+
+This study will look at the effectiveness of osmotic release oral system (OROS) methylphenidate (Concerta) in treating attention deficit hyperactvity disorder (ADHD) in adults.
+
+ Concerta has received FDA approval for childhood ADHD and there is documentation that it is effective in adult ADHD.
+
+ However this trial will explore its effectiveness in treating symptoms not a part of the Diagnostic and Statistical Manual-III (DSM-III) criteria.
+
+ Subjects will experience one screening visit and one baseline visit.
+
+ Those who meet admission criteria will enter the double-blind phase.
+
+ This will involve two 4-week treatment periods one of which will involve the use of Concerta and the other a placebo pill.
+
+ Subjects who complete the double-blind phase will be allowed to enter a 180-day, open-label Concerta phase designed to assess long-term effects.
+

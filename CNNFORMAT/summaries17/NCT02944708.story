@@ -1,0 +1,30 @@
+(fifthQuint)Trial Evaluating Maintenance Chemotherapy for Metastatic Nasopharyngeal Carcinoma.
+
+ This is a phase 3 randomized clinical trial to determine the efficacy of maintenance chemotherapy for the treatment of metastatic chemotherapy and how it should be delivered.
+
+ Participants will be randomized to 3 arms.
+
+ Arm 1 (control group), participants will receive only conventional chemotherapy; arm 2 (experimental group), participants will receive up to 6 cycles of maintenance chemotherapy after conventional chemotherapy; arm 3 (experimental group), after conventional chemotherapy, participants will receive maintenance chemotherapy until disease progression or intolerable toxicities.
+
+ Participants in all 3 arms will receive similar conventional chemotherapy.
+
+ Four to eight cycles of conventional chemotherapy with platinum-based regimen is preferred.
+
+ Maintenance chemotherapy should use one of the regimens: S1 (40mg, twice a day for 14 days, every 3 weeks), capecitabine (1000mg/m^2, twice a day for 14 days, every 3 weeks) or Tegafur-uracil (100mg/m^2, q8h, for 14 days, every 3 weeks).
+
+ The response of treatment will be evaluated according to RECIST criteria.
+
+ Adverse events will be documented according to CTCAE v4.
+
+03.
+
+.
+
+ Trial Evaluating Maintenance Chemotherapy for Metastatic Nasopharyngeal Carcinoma@highlight
+
+The purpose of this study is to examine the efficacy of maintenance chemotherapy for the treatment of metastatic nasopharyngeal carcinoma.
+
+ Participants will be randomized to 3 arms.
+
+ Arm 1, control group, participants will receive only 4-8 cycles of conventional chemotherapy; arm 2, participants will receive 6 cycles of maintenance chemotherapy after conventional chemotherapy; arm 3, experiment arm, after conventional chemotherapy, participants will receive maintenance chemotherapy until disease progression or intolerable toxicities.
+

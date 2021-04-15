@@ -1,0 +1,12 @@
+(firstQuint)EN3285 for the Prevention or Delay of Oral Mucositis in Patients With Head and Neck Cancer.
+
+ This randomized, double-blind, placebo-controlled study will be conducted in patients receiving chemoradiotherapy (ChemoRT) for the treatment of head and neck cancer(HNC), to assess the ability of EN3285 to prevent or delay the onset of severe oral mucositis(OM).
+
+ The study includes a treatment period of up to 8 weeks, based on the patients' prescribed treatment plan, with a follow-up period of 12 months following completion of radiotherapy (RT).
+
+.
+
+ EN3285 for the Prevention or Delay of Oral Mucositis in Patients With Head and Neck Cancer@highlight
+
+Randomized, double-blind, placebo-controlled study for the treatment of head and neck cancer(HNC), to assess the ability of EN3285 to prevent or delay the onset of severe oral mucositis(OM).
+

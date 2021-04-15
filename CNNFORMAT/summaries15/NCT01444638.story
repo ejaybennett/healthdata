@@ -1,0 +1,22 @@
+(firstQuint)Evaluation of Ultrasound (US) Assistance for Anesthesia Trainees for Caesarean Section Spinal Placement.
+
+ Parturients receiving spinal anesthetic for elective Cesarean section will be randomized to have/not have pre-spinal ultrasound examination of their back, prior to spinal insertion by anesthesia trainees.
+
+ The hypothesis is that ultrasound visualization of the patient spinal spaces will allow junior residents to correctly place the spinal needle with fewer attempts.
+
+ The null hypothesis is that there is no difference in the primary outcome (number of attempts).
+
+ i.
+
+e.
+
+ the investigators hypothesize that the number of attempts is not affected by ultrasound assistance.
+
+ The control group will undergo spinal anesthesia with manual palpation, the standard of care.
+
+.
+
+ Evaluation of Ultrasound (US) Assistance for Anesthesia Trainees for Caesarean Section Spinal Placement@highlight
+
+Parturients receiving spinal anesthetic for Cesarean section will be randomized to have/not have pre-spinal ultrasound examination of their back.
+

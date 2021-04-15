@@ -1,0 +1,16 @@
+(firstQuint)Obstetric Anesthesia and Analgesia Month Attributes in Czech Republic.
+
+ A one month-long project monitoring an obstetric anesthesia practices in obstetric/anesthesia departments throughout the Czech Republic.
+
+ Electronic Case Report Form (eCRF) is used to collect data on all obstetric anesthesia procedures in peripartal period and obstetric and anesthesia complications.
+
+ All consecutive cases in each participating center during the study period are recorded.
+
+ Each record is related to parturient and contains the following sections: history, form of labour analgesia, type of anesthesia for Cesarean section and anesthesia in third stage of labor.
+
+.
+
+ Obstetric Anesthesia and Analgesia Month Attributes in Czech Republic@highlight
+
+A national survey of current practices, preferred drug and technique choices for obstetric anesthesia and analgesia in Czech Republic.
+

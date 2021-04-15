@@ -1,0 +1,14 @@
+(firstQuint)Comparing the Quality of Life of Terminal Ileitis Patients With Crohn's Disease Treated With Anti-TNF or Surgical Resection.
+
+ Two groups of patients suffering from Crohn's terminal ileitis will be matched by sex, age (A2, A3), the time evolution of the disease, the length of the diseased ileal segment (less than 10 cm; 10 to 30; 30 to 50 cm) and the Montreal classification (B1, B2).
+
+ The medical treatment group will be chosen among patients receiving anti-TNF therapy for the first time.
+
+ The surgical group are the patients operated on for the first time by means of ileocecal resection by laparoscopy or laparotomy without any severity criteria or perianal lesions and do not require prophylactic treatment of recurrence.
+
+.
+
+ Comparing the Quality of Life of Terminal Ileitis Patients With Crohn's Disease Treated With Anti-TNF or Surgical Resection@highlight
+
+Compare the quality of life at 6 months between 2 populations of patients followed for terminal ileitis of Crohn's disease treated with anti-TNF or ileocecal resection.
+

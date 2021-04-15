@@ -1,0 +1,28 @@
+(fifthQuint)XIENCE V Everolimus Eluting Coronary Stent System USA Post-Approval Study (XIENCE V USA-Phase 1).
+
+ Study Phase I is from index procedure to 1 year.
+
+ This prospective, open-label, multi-center, observational, single-arm study is designed to evaluate XIENCE V EECSS safety and effectiveness in real world settings up to 1 year after implantation.
+
+ The primary endpoint is the stent thrombosis (definite and probable) rate up to 1 year as ARC.
+
+ The co-primary endpoint is the composite rate of cardiac death and any MI at 1 year.
+
+ Up to 8,000 patients are planned to be consecutively enrolled at up to 275 sites in the U.
+
+S.
+
+ Clinical follow-up will occur at 14, 30, 180 days and 1 year.
+
+ All patients enrolled in the XIENCE V USA who have completed Study Phase I will be evaluated at 1 year to determine whether they are eligible to participate in one of the following cohorts in Study Phase II: XIENCE V USA Long Term Follow-up (LTF) Cohort, Harvard Clinical Research Institute (HCRI) DAPT Cohort, or Abbott Vascular (AV) DAPT Cohort.
+
+.
+
+ XIENCE V Everolimus Eluting Coronary Stent System USA Post-Approval Study (XIENCE V USA-Phase 1)@highlight
+
+XIENCE V USA is a prospective, multi-center, multi-cohort post-approval study.
+
+ The objectives of this study are - To evaluate XIENCE V EECSS continued safety and effectiveness during commercial use in real world settings, and - To support the Food and Drug Administration (FDA) dual antiplatelet therapy (DAPT) initiative.
+
+ This initiative is designed to evaluate the composite of all death, myocardial infarction (MI) and stroke (MACCE) and the survival of patients that are free from Academic Research Consortium (ARC) definite or probable stent thrombosis (ST) and that have been treated with drug eluting stents (DES) and extended dual antiplatelet therapy.
+

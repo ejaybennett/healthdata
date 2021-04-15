@@ -1,0 +1,20 @@
+(firstQuint)Predictors of Cognitive Decline in Normal Aging.
+
+ Studies of normal aging and mild cognitive impairment (MCI) show that loss of neurons and reduction in size of the hippocampal part of the brain predict a person's conversion from MCI to Alzheimer's disease (AD).
+
+ Increases in tangle-related abnormal tau proteins, specifically P-tau231, also appear to be related.
+
+ This study will collect neuropsychological data, magnetic resonance imaging (MRI), and cerebrospinal fluid (CSF) from volunteer participants to measure the relationship between changes in brain volume, CSF levels, and memory performance.
+
+ From the data researchers hope to develop an early diagnostic test for AD.
+
+ The study will include 170 participants between the ages of 60 and 80 years, some normal, some with MCI, some with mild AD, and some with frontotemporal dementia.
+
+ After initial screening of volunteers, the researchers will give participants a complete baseline exam and 24-month follow-up exams over a period of five years.
+
+.
+
+ Predictors of Cognitive Decline in Normal Aging@highlight
+
+The goal of this project is to develop an early diagnostic test for Alzheimer's disease (AD) by monitoring loss of neurons and brain size reductions over a period of five years.
+

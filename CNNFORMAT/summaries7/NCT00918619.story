@@ -1,0 +1,36 @@
+(thirdQuint)Efficacy and Safety of Sangustop as Haemostatic Agent Versus a Carrier-Bound Fibrin Sealant During Liver Resection.
+
+ During liver resection the control of bleeding is a major concern.
+
+ The liver is predisposed to diffuse bleeding because of its extreme vascularity.
+
+ Locally applicable agents (haemostats) are in use in order to achieve control over parenchymatic diffuse bleeding from the resection surface and to prevent intraperitoneal complications attributed to bleeding.
+
+ These haemostats include bone wax, gelatine, collagen, oxidized regenerated cellulose, fibrin sealant glues, and synthetic glues.
+
+ A composite product with well documented efficacy is Tachosil(R).
+
+ It consists of a collagen fleece carrying the fibrin glue components human fibrinogen and human thrombin.
+
+ It was shown in a RCT to be superior in obtaining intraoperative haemostasis over argon beamer in liver resection.
+
+ A new haemostat product is Sangustop(R).
+
+ It is indicated for local haemostasis of capillary bleeding and bleeding of parenchymal organs.
+
+ Sangustop(R) is composed of native absorbable collagen fibrils without any blood serum products or any pharmaceutical activity.
+
+ The felt structure being rich in surface gives a framework for the adhesion of blood platelets, thus provides an additional impetus to clotting.
+
+ The aim of this study is to show that the new microfibrillar collagen hemostat Sangustop(R) is not inferior to the carrier-bound fibrin sealant Tachosil(R) with regards to haemostatic efficacy.
+
+.
+
+ Efficacy and Safety of Sangustop as Haemostatic Agent Versus a Carrier-Bound Fibrin Sealant During Liver Resection@highlight
+
+This is a multi-centre, patient-blinded, intra-operatively randomised controlled trial.
+
+ A total of 126 patients planned for an elective liver resection will be enrolled in 9 surgical centres.
+
+ The primary objective of this study is to show that the collagen based haemostatic device Sangustop(R) is not inferior to a carrier-bound fibrin sealant (Tachosil(R)) in achieving haemostasis after hepatic resection.
+

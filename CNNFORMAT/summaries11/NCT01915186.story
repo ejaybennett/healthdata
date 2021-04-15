@@ -1,0 +1,39 @@
+(thirdQuint)Use of Dehydroepiandrosterone (DHEA) in Women With Normal and Poor Ovarian Reserve Undergoing IVF.
+
+ Consecutive patients attending subfertility clinic at the Department of Obstetrics and Gynaecology, Queen Mary Hospital who are scheduled for in-vitro fertilization (IVF) treatment will be recruited and written consent will be obtained.
+
+ Baseline assessment will be performed at early follicular phase (Day 2 or 3) with hormonal tests and ultrasound.
+
+ Subjects will be divided into two groups, the normal ovarian reserve group and the poor ovarian reserve group according to AFC.
+
+ Poor ovarian reserve is defined as an AFC of less than 5, while normal ovarian reserve is defined as an AFC of 5 to 15 based on a previous study showing AFC being a good predictor of ovarian response (Tomas 1997).
+
+ Subjects with normal ovarian reserve will be further subdivided into /=35 years old while subjects with poor ovarian reserve will be further subdivided into first or subsequent cycles of IVF for subgroup analysis.
+
+ Subjects in both the normal and poor ovarian reserve group will be randomized according to a computer-generated randomization list in sealed envelopes to receive either DHEA at 25mg three times a day or placebo throughout the study period.
+
+ Any changes in hormonal profile and ovarian reserve will be assessed by the above-mentioned blood tests and pelvic ultrasound scans which will be repeated at early follicle phase (Day 2 or 3) in the two subsequent cycles.
+
+ After two months of DHEA/placebo treatment, the subjects will then be given a standard low dose ovarian stimulation with 75 IU intramuscular human menopausal gonadotrophin (HMG, Menogon(R), Ferring Pharmaceuticals) daily for 7 days.
+
+ Blood tests and pelvic ultrasound scan will be repeated after 7 days of stimulation (ie.
+
+ on day 10 or 11).
+
+ Hormonal profile and ovarian reserve will be repeated in follicular phase (D2 or 3) in the subsequent cycle, where all patients will then be offered a cycle of IVF treatment using antagonist protocol based on our standard departmental regimen.
+
+ Cycle characteristic and pregnancy outcomes will be compared.
+
+ Analysis of ovarian reserve markers, ovarian response and IVF outcomes would be performed.
+
+.
+
+ Use of Dehydroepiandrosterone (DHEA) in Women With Normal and Poor Ovarian Reserve Undergoing IVF@highlight
+
+The aim of the study is to evaluate the effect of DHEA supplement on ovarian reserve markers, ovarian response to gonadotrophins and cycle outcomes in patients with normal and poor ovarian reserve.
+
+ Study Hypotheses: 1.
+
+ DHEA supplementation would improve markers of ovarian reserve and ovarian response to low dose FSH stimulation in both normal and poor responders 2.
+
+ DHEA supplementation would improve IVF cycle outcomes

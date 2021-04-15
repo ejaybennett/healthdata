@@ -1,0 +1,26 @@
+(thirdQuint)Rituximab Maintenance Therapy in Aggressive CD20 (Cluster of Differentiation Antigen 20) Positive Lymphoma and Mantle Cell Lymphoma.
+
+ After completion of standard treatment, pts with aggressive CD20+ B-cell lymphoma and mantle cell lymphoma were randomized to either observation or maintenance therapy with rituximab (375 mg/m2) administered every 3 months for 2 years.
+
+ Both pts after first line therapy and pts after relapse treatment were included in the study.
+
+ Pts with aggressive lymphoma were enrolled if they had achieved a complete response (CR) after initial treatment.
+
+ Pts with aggressive lymphoma with residual tumor mass underwent positron emission tomography (PET) and qualified for randomization if this examination showed no signs of tumor activity.
+
+ Pts with mantle cell lymphoma were eligible for the study if at least a partial response (PR) was achieved.
+
+ Primary endpoint of the study was progression free survival (PFS), secondary endpoints were time to progression (TTP), overall survival (OS) and response to treatment.
+
+ Differences between PFS and OS were analysed using the logrank test and the proportional hazard model of Cox.
+
+ TTP was analyzed using a competing risk model with death as competing event.
+
+.
+
+ Rituximab Maintenance Therapy in Aggressive CD20 (Cluster of Differentiation Antigen 20) Positive Lymphoma and Mantle Cell Lymphoma@highlight
+
+Clinical and pharmacokinetic data suggest that the effect of rituximab could be improved by prolonged exposure to the drug.
+
+ To test for this hypothesis we performed a prospective randomized trial of rituximab maintenance therapy versus observation in patients (pts) with aggressive CD20+ B-cell lymphoma and mantle cell lymphoma.
+

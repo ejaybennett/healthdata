@@ -1,0 +1,14 @@
+(secondQuint)Characterizing the Gut Microbiota Alteration Associated With Severe Acute Malnutrition.
+
+ Fecal samples of cases (severe acute malnutrition (SAM) ascertained according to the WHO definition) and controls (asymptomatic healthy children ascertained by clinical and anthropometric criteria) were analysed by v3v4 16S rRNA sequencing, redox and pH measurement and using specific polymerase chain reaction targeting Methanobrevibacter smithii and Bacteroides thetaiotaomicron.
+
+ Based on the literature and oxydative stress reported in SAM, the investigators tested if the proportion of aerotolerant prokaryotes is increased among gut prokaryotes enriched in SAM in comparison to prokaryotes enriched in controls.
+
+ The investigators further linked this to fecal redox potential and assessed the total number of bacteria in feces by flux cytometry.
+
+.
+
+ Characterizing the Gut Microbiota Alteration Associated With Severe Acute Malnutrition@highlight
+
+The investigators performed two case-control studies in Niger and Senegal analysing fecal microbiota to characterize the specificity of the gut microbiota alteration associated with severe acute malnutrition (SAM).
+

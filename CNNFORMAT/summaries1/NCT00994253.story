@@ -1,0 +1,18 @@
+(firstQuint)Evaluating the Effect of Aliskiren Versus HCTZ on Coronary Flow Reserve in Hypertensive Type II Diabetics.
+
+ This study focuses on diabetic patients who are already on any blood pressure-lowering medication (excluding Tekturna) in addition to either an ACE inhibitor or an ARB (angiotensin receptor blocker) and still have a blood pressure greater than 130/80 mm Hg.
+
+ The purpose of the study is to compare the effects of two different blood pressure treatment regimens, each containing three medications, on heart function in diabetics with uncontrolled hypertension.
+
+ The two treatments are 1) lisinopril (an ACE inhibitor that works by reducing blood pressure) plus amlodipine (a calcium channel blocker that reduces blood pressure) plus aliskiren (a renin inhibitor, which also reduces blood pressure), or 2) lisinopril plus amlodipine plus hydrochlorothiazide (a diuretic, or "water pill").
+
+ Participants will have their coronary flow reserve - which is a measure of coronary vessel function, a predictor of future cardiovascular events - and a number of cardiovascular biomarkers in blood and urine at baseline and after 6 months of treatment.
+
+ In this manner hydrochlorothiazide will be compared with aliskiren, which researchers think will have a better effect on heart artery blood flow.
+
+.
+
+ Evaluating the Effect of Aliskiren Versus HCTZ on Coronary Flow Reserve in Hypertensive Type II Diabetics@highlight
+
+The purpose of this study is to assess the effect of Tekturna (aliskiren), in combination with an ACE and calcium channel blocker in hypertensive patients diagnosed with Type II diabetes.
+

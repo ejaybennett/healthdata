@@ -1,0 +1,20 @@
+(firstQuint)Study of Assisted Hatching of Cleavage Stage Embryos.
+
+ Assisted hatching is a procedure in which a hole is made in the hard covering of a developing embryo to allow the embryo to hatch more easily from this shell.
+
+ This procedure is sometimes used before transferring embryos to patients after in vitro fertilization (IVF) in an attempt to improve resulting pregnancy rates.
+
+ Assisted hatching has been shown to improve outcomes among certain groups of patients, such as older patients or patients with a history of IVF treatment and embryo transfer without success.
+
+ Whether this procedure could benefit the broader patient population remains unclear.
+
+ The purpose of this study was to evaluate potential benefits of assisted hatching for good prognosis patients who would not typically be treated with assisted hatching under current standard protocols.
+
+ Pregnancy rates were compared between good prognosis patients undergoing IVF with day-3 embryo transfer with or without assisted hatching of the transferred embryos.
+
+.
+
+ Study of Assisted Hatching of Cleavage Stage Embryos@highlight
+
+The purpose of this study was to determine if assisted embryo hatching can improve pregnancy rates for good prognosis patients undergoing in vitro fertilization (IVF) with day 3 embryo transfer.
+

@@ -1,0 +1,14 @@
+(firstQuint)Continuos Subcutaneous Insulin Infusion in Italy.
+
+ The aim of the study is to collect clinical and metabolic characteristics of patient treated with CSII in Italy.
+
+ Data will be collected through a questionnaire sent by e-mail to CSII experienced Diabetes Centers ( both adult and pediatric patients) .
+
+ The questionnaire assessed: (1) number of CSII-treated patients; (2) patients and pump characteristics; (3) structure and organization of Diabetes Centers providing CSII therapy; (4) metabolic control.
+
+.
+
+ Continuos Subcutaneous Insulin Infusion in Italy@highlight
+
+This is an observational, multicenter, cross sectional study, collecting clinical and metabolic informations about patients treated with CSII in Italy.
+

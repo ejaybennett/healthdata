@@ -1,0 +1,34 @@
+(fifthQuint)Nicotine Treatment of Cognitive Decline in Down Syndrome.
+
+ Over 50% of adults with Down Syndrome (DS) develop Alzheimer's disease (AD) by the age of 60 (Nadel 2003), and life expectancy in DS is now 50-60 years.
+
+ Thus, age-associated cognitive impairment and dementia in older adults with DS is an urgent public health concern.
+
+ The investigators propose that nicotinic stimulation is a promising strategy to stabilize or improve cognitive functioning in adults with DS, possibly with additional neuroprotective effects.
+
+ The investigators have extensive experience investigating the role of nicotinic receptors on human cognition and impairment.
+
+ This application takes advantage of new insights into treating Mild Cognitive Impairment (MCI-the precursor condition to Alzheimer's Disease (AD) in typically developing individuals) with nicotine to propose an open label pilot study of transdermal nicotine in middle-aged non-smoking DS patients who show early cognitive and/or behavioral changes consistent with MCI/dementia.
+
+ The goal of this study is to establish preliminary evidence for safety, gain preliminary evidence as to whether nicotine enhances cognitive functioning in DS adults, and examine electrophysiological, biological, and behavioral correlates of nicotinic stimulation effects.
+
+ The investigators propose that positive results on cognitive or functional indices that would lead to a larger and longer double-blind trial to test more definitively whether nicotinic stimulation may be cognitively and/or functionally enhancing for DS patients.
+
+ The knowledge gained from the translational aspects of this project will guide the development of potentially new nicotinic drugs in DS and generate, for the first time, data on the importance of nicotinic receptor changes in the development of cognitive impairment in DS adults.
+
+ This work also represents the first time that cutting-edge advances in treating MCI/AD in the general population are immediately and rigorously applied to those with DS.
+
+.
+
+ Nicotine Treatment of Cognitive Decline in Down Syndrome@highlight
+
+This study will ascertain whether nicotine is safe and tolerable in DS patients, help with dose-ranging of nicotine in DS, look for evidence of enhancements in cognitive functioning, and establish evidence for biological and behavioral correlates of nicotinic stimulation effects.
+
+ The knowledge gained from the translational aspects of this project may also guide the application of new nicotinic drugs in DS and generate, for the first time, data on the importance of nicotinic receptor changes in the development of cognitive impairment in DS adults.
+
+ Hypotheses: - Transdermal nicotine treatment will be well tolerated out to one month by non-smoking DS patients without significant adverse effects.
+
+ - Nicotine will enhance cognitive performance by one month compared to baseline and post-treatment testing.
+
+ - Nicotine will enhance functioning detectable by clinician and/or informant ratings (pre-post).
+

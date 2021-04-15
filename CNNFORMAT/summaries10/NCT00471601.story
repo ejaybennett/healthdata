@@ -1,0 +1,34 @@
+(thirdQuint)Development of a Questionnaire to Evaluate Patient Expectations for Breast Reconstruction in Women With Breast Cancer or Other Conditions.
+
+ OBJECTIVES: - Develop and validate a questionnaire to evaluate preoperative expectations about breast reconstruction in women with breast cancer or other conditions.
+
+ - Determine variations in expectations related to patient characteristics.
+
+ - Develop educational modules to help patients understand realistic outcomes.
+
+ - Identify patient groups at risk for dissatisfaction.
+
+ OUTLINE: This is a 3-part study.
+
+ - Part 1 (first 80 patients): Both preoperative and postoperative patients (50 patients total) undergo an interview by a research study assistant about their expectations for breast reconstructive surgery.
+
+ Some of these patients will also complete a pilot version of a questionnaire about their expectations for breast reconstructive surgery (30 patients total).
+
+ - Part 2 (next 200 patients): Preoperative patients complete questionnaires (the preliminary questionnaire developed after part 1 and the MSKCC BREAST-Q [Reconstruction Module]) about their expectations for breast reconstructive surgery after patient education about breast reconstructive surgery.
+
+ Some of these patients (100 patients) also complete the Brief Cope addressing emotional expression and emotional processing styles of coping, Impact of Events Scale, and Life Orientation Test-Revised (LOT-R) questionnaires.
+
+ - Part 3 (final 200 patients): Preoperative patients complete a questionnaire (final questionnaire developed after part 2) about their expectations for breast reconstructive surgery after patient education about breast reconstruction and once after surgery.
+
+ Patients also complete the Breast Reconstruction Outcomes Questionnaire (MSKCC BREAST-Q) once before surgery (after patient education) and once after surgery measuring patient satisfaction and quality of life.
+
+ A small group of patients complete the Body Image Scale (BIS) and the LOT-R addressing body image, sexuality, personal well-being, and lifestyle.
+
+.
+
+ Development of a Questionnaire to Evaluate Patient Expectations for Breast Reconstruction in Women With Breast Cancer or Other Conditions@highlight
+
+RATIONALE: A questionnaire that evaluates a patient's expectations about breast reconstruction surgery may help doctors improve patient education before surgery and increase patient satisfaction after surgery.
+
+ PURPOSE: This clinical trial is developing a questionnaire to evaluate patient expectations for breast reconstruction in women with breast cancer or other conditions.
+

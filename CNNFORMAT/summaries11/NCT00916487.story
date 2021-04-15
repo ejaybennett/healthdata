@@ -1,0 +1,26 @@
+(secondQuint)Efficacy of Fructose Metabolizing Enzymatic Product in Fructose Malabsorption.
+
+ Fructose malabsorption is a digestive disorder in which the uptake of fructose in the small intestine is deficient.
+
+ This leads to an increase of the concentration of fructose in the large intestine after the intake of fructose-rich meals.
+
+ The exzess fructose is then degraded by intestinal microbes into CO2, CH4, H2 and short chain fatty acids causing symptoms like bloating, diarrhea, flatulence or stomach pain.
+
+ The clinical diagnosis requires a hydrogen breath test after challenge with fructose.
+
+ After an oral challenge with fructose the emerging hydrogen is measured in the expiratory air.
+
+ A fructose malabsorption is diagnosed if the hydrogen in the expiratory air reaches 20ppm or more.
+
+ In the course of this study the participants will take 2 hydrogen breath tests.
+
+ Before each of these tests the participants will take either the active treatment (Fructosin(R)) or a placebo.
+
+ The active treatment should reduce the exhaled hydrogen indicating a reduced concentration of fructose in the large intestine after fructose metabolization by the verum.
+
+.
+
+ Efficacy of Fructose Metabolizing Enzymatic Product in Fructose Malabsorption@highlight
+
+The purpose of this study is to determine whether the enzymatic product Frucosin(R) is able to degrade fructose in vivo in the small intestine of patients with known fructose malabsorption by measuring hydrogen in the expiratory air.
+

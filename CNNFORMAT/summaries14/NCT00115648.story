@@ -1,0 +1,14 @@
+(firstQuint)Extended Infant Post-exposure Prophylaxis With Antiretrovirals to Reduce Postnatal HIV Transmission.
+
+ This is a three-arm randomized, open label, clinical trial to evaluate the effectiveness of two extended regimens of antiretrovirals compared to infant single dose nevirapine plus AZT given twice daily for 1 week (comparison regimen).
+
+ All infants receive the comparison regimen at birth and then randomized at birth to start either one of the two extended regimens after the first week.
+
+ The extended regimens are nevirapine daily and nevirapine plus AZT daily - both regimens are given up to age 14 weeks.
+
+.
+
+ Extended Infant Post-exposure Prophylaxis With Antiretrovirals to Reduce Postnatal HIV Transmission@highlight
+
+The purpose of this study is to determine if extended antiretroviral regimens given to the infant during the first 14 weeks of age would decrease breast milk transmission of HIV.
+

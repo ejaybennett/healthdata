@@ -1,0 +1,56 @@
+(fifthQuint)Supplementation With Dietary Anthocyanins and Side Effects of Radiotherapy for Breast Cancer.
+
+ Detailed Description 1.
+
+ Study Rationale: Attention has been focused recently on the development of modalities that can protect healthy organs from the harmful effects of radiation applied during different cancer treatment schedules.
+
+ As radiation-induced DNA and cellular damage involve oxidative stress, the protective role of antioxidants will be tested on the toxic condition induced by radiotherapy in breast cancer treatment.
+
+ Consumption of polyphenol-rich foods, such as fruits and vegetables, and beverages derived from plants, such as cocoa, red wine and tea, may represent a beneficial diet in terms of oxidative protection.
+
+ Indeed, a retrospective study reports that that moderate wine consumption can reduce the side-effects of radiation therapy in patients with breast cancer.
+
+ This effect was presumably due to the polyphenol non alcoholic fraction of wine, a finding in agreement with a cross-over intervention study in adult male volunteers, on protection by de-alcoholized red wine from ex vivo radiation-induced DNA damage.
+
+ However, there are no studies that address the relationship of polyphenol-rich food consumption with the toxic effects of radiations in patients undergoing radiotherapy for breast cancer treatment.
+
+ 2.
+
+ Aim of the study.
+
+ The main objectives of this study are to evaluate the association between the effect of polyphenol-rich food supplementation and toxicity of radiotherapy for breast cancer.
+
+ 3.
+
+ Study design: Randomized, placebo-controlled double-blind trial with 2 parallel arms: soluble corn flour at high content in anthocyanins and placebo.
+
+ Placebo consists of soluble corn flour poor in anthocyanins.
+
+ The treatment will start one week before starting radiotherapy, and continue during all radiotherapy treatment (of 3 or 5 weeks).
+
+ 4.
+
+ Study Population and recruitment: A total of 300 consecutive breast cancer patients eligible for radiotherapy.
+
+ Participants will be identified at the Department of Radiotherapy of the Giovanni Paolo II Foundation of Campobasso.
+
+ Eligible subjects will be recruited at their first consultation and subsequently referred to the research investigators.
+
+ The research staff in charge of the recruitment will pre-screen participants on the basis of inclusion/exclusion criteria and will explain the study at this time.
+
+.
+
+ Supplementation With Dietary Anthocyanins and Side Effects of Radiotherapy for Breast Cancer@highlight
+
+Attention has been focused recently on the development of modalities that can protect healthy organs from the harmful effects of radiation applied during different cancer treatment schedules.
+
+ As radiation-induced DNA damage involves oxidative stress, the protective role of antioxidants has been tested in different dietary studies.
+
+ Previous experience by the collaborative team of the principal investigator and radiotherapists at the Catholic University of Campobasso has shown in a retrospective study that moderate wine consumption can reduce the side-effects of radiation therapy in patients with breast cancer.
+
+ This effect was presumably due to the polyphenol non alcoholic fraction of wine, a finding in agreement with a cross-over intervention study in adult male volunteers, on protection by de-alcoholized red wine from ex vivo radiation-induced DNA damage.
+
+ The purpose of this clinical trial will be to test the impact of supplementation with anthocyanin-enriched food on the acute and medium-term side effects of radiotherapy in breast cancer patients, in a prospective study design.
+
+ Therefore a double blind, randomised, placebo-controlled clinical trial will be organised by assigning patients with breast cancer scheduled for radiotherapy to a diet supplemented with an anthocyanin soluble extract.
+

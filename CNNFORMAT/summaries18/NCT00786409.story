@@ -1,0 +1,18 @@
+(firstQuint)Immunogenicity and Safety of HPV Vaccine Gardasil in Young Women.
+
+ Female patients with systemic lupus erythematosus (SLE) have been found have higher rates of persistent HPV infections and precancerous lesions compared to the healthy population.
+
+ The HPV vaccine Gardasil has been found to be safe and efficacious in females aged 9 to 26 years.
+
+ There are no data on the immunogenicity and safety of Gardasil in females with SLE.
+
+ Immune dysfunction related to SLE itself and the immunosuppression secondary to treatment of SLE might prevent patients with SLE from developing an adequate immune response to the vaccine.
+
+ Also, theoretically, the vaccine might induce a disease exacerbation or production of new autoantibodies.
+
+ The purpose of this study is to evaluate immunogenicity and safety of Gardasil and its effects on autoantibody profile in female SLE patients aged 9-26 years.
+
+ Immunogenicity and Safety of HPV Vaccine Gardasil in Young Women@highlight
+
+The purpose of this study is to evaluate the immunogenicity and safety of the HPV vaccine Gardasil in young women.
+

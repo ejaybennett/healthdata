@@ -1,0 +1,48 @@
+(fifthQuint)Effect of Ketorolac on Post Adenotonsillectomy Pain.
+
+ Obstructive sleep apnea (OSA) as an indication for adenotonsillectomy has increased significantly over the past ten years, and now has surpassed recurrent tonsillitis as the most common indication for this procedure.
+
+ Opioids continue to be the most commonly administered pain medication for these procedures.
+
+ Studies have shown that patients with OSA have significantly increased sensitivity to opioids that results in post-operative respiratory depression and apnea when administered via standard opioid dosing protocols.
+
+ Children with OSA were shown to have a nearly fivefold increase in the odds of developing respiratory complications when compared to their counterparts with tonsillitis.
+
+ Ketorolac possesses similar efficacy to morphine without the problematic complications of respiratory depression, nausea and vomiting, which are commonly seen post-adenotonsillectomy.
+
+ Importantly, when combined with opioids, ketorolac is opioid-sparing.
+
+ This synergistic effect means that a similar level of analgesia is achieved using a lower dose of opioid.
+
+ However, there continues to be concern about using ketorolac due to the potential risk of post-operative bleeding from anti-platelet activity.
+
+ This randomized, prospective study aims to determine the effect of ketorolac on the total dose of morphine required to achieve postoperative analgesia in children with OSA undergoing adenotonsillectomy.
+
+ Participants will be randomly assigned to receive ketorolac or to not receive ketorolac.
+
+ The post-anesthesia care unit (PACU) nurses, who will be blinded to ketorolac administration, will evaluate the patients using the Face, Legs, Activity, Cry, Consolability (FLACC) scale scores at 10 minutes post-op, 20 minutes post-op and at time of PACU discharge.
+
+ For patients with a FLACC score of 6-10, morphine (0.
+
+05mg/kg) will be administered.
+
+ For patients with FLACC scores of 3-5, morphine (0.
+
+025mg/kg) will be administered.
+
+ The total amount of opioid required to obtain a FLACC score of less than 3 will be evaluated as the primary outcome.
+
+ The secondary outcomes to be evaluated will be PACU FLACC scores, time required in PACU, incidence of post-tonsillectomy bleeding and total pain medications administered during hospital admission.
+
+.
+
+ Effect of Ketorolac on Post Adenotonsillectomy Pain@highlight
+
+This randomized prospective study aims to determine the effect of ketorolac on the total dose of morphine required to achieve postoperative analgesia in children with obstructive sleep apnea (OSA) undergoing adenotonsillectomy.
+
+ Participants will be randomly assigned to a study group where they will receive ketorolac in addition to the standard of care treatment or will receive only the standard of care pain management.
+
+ The researchers hypothesize that by administering ketorolac at the end of the procedure once hemostasis has been achieved, it will be possible to decrease the amount of morphine administered in the post-anesthesia care unit (PACU).
+
+ This study aims to provide a more comprehensive understanding of the efficacy and safety of the current standard post-operative analgesic regimen employed at the study institution, in which opioid analgesia currently plays a prominent role.
+

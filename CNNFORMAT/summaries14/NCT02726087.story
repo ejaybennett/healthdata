@@ -1,0 +1,56 @@
+(fifthQuint)Quality of Life After Ministernotomy Versus Full Sternotomy Aortic Valve Replacement.
+
+ This is a single-center, single-blind, all comer, randomized controlled trial.
+
+ Patients scheduled for isolated aortic valve replacement (AVR) due to aortic stenosis at "Virgen de la Victoria Universitary Hospital", Malaga, Spain, will be eligible.
+
+ Ninety-six patients will be randomly assigned to either partial upper sternotomy (ministernotomy, 48 patients) or full sternotomy AVR (48 patients).
+
+ Sample size was determined for an Alpha error of 0.
+
+05,and Beta error of 0.
+
+1 for a power of 90% in detecting 0.
+
+10 difference points in quality of life EQ-5D-5L-index or 10 points in EQ-5D-5L-Visual Analogic Scale.
+
+ Inclusion criteria is severe aortic stenosis referred for medically indicated isolated aortic valve replacement due to aortic stenosis in patients >18 years.
+
+ Exclusion criteria are left ventricular ejection fraction less than 40%, previous cardiac surgery, urgent/emergent surgery, infective endocarditis, need of concomitant procedures other than isolated Morrow miectomy and thorax deformity.
+
+ CE-marked and FDA-approved mechanical (Sorin Carbomedics(R)) and stented bioprosthetic aortic valves will be implanted (Carpentier Edwards Perimount(R) and Sorin Crown(R)).
+
+ Perceval S Sutureless bioprosthetic valves (LivaNova(R)) could be used if needed in very small aortic annulus or high risk patients Quality of Life postoperative outcomes will be assessed, as QOL measurements and health status with the EQ-5D-5L(R) questionnaire (QOL index, health visual analogic scale, severity index and health index), repeatedly assessed preoperatively and postoperatively at 1-6-12 months.
+
+ Clinical postoperative complications and outcomes will be registered at 1 month and 1 year as main secondary and safety end-point (combined end-point of 4 and 6 major complications) Patient Satisfaction will be assessed with a 20 question cardiac-surgery specific satisfaction questionnaire (SATISCORE(R)).
+
+ Survival will be assessed at 1 year.
+
+ Clinical pre and postoperative characteristics will be registered.
+
+ Routine blood sampling will be performed pre- and postoperatively.
+
+ All available data will be collected prospectively.
+
+ Informed consent) will be obtained from patients meeting the inclusion criteria before the initiation of any study-specific procedures.
+
+ The Institutional Review Board Ethic Comittee approved this study.
+
+.
+
+ Quality of Life After Ministernotomy Versus Full Sternotomy Aortic Valve Replacement@highlight
+
+This is a single-center, single-blind, all comer, randomized controlled trial.
+
+ Patients scheduled for isolated aortic valve replacement (AVR) due to aortic stenosis at "Virgen de la Victoria Universitary Hospital", Malaga, Spain, will be eligible.
+
+ Ninety-six patients will be randomly assigned to either partial upper sternotomy (ministernotomy, 48 patients) or full sternotomy AVR (48 patients).
+
+ Sample size was determined for an Alpha error of 0.
+
+05,and Beta error of 0.
+
+1 for a power of 90% in detecting 0.
+
+10 difference points in quality of life EQ-5D-5L-index or 10 points in EQ-5D-5L-Visual Analogic Scale (QOL).
+

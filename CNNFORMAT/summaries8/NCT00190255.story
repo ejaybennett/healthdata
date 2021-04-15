@@ -1,0 +1,28 @@
+(thirdQuint)Pharmacogenetics of Gastrointestinal Bleeding.
+
+ Gastrointestinal bleeding is a severe adverse effect occurring in subjects secondary to the use of nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+ The enzyme CYP2C9 is responsible for the elimination of most NSAIDs.
+
+ Several polymorphisms have been observed in CYP2C9.
+
+ Of these, the CYP2C9*3 allele, found in 12% of caucasian subjects, leads to reduced function of the enzyme.
+
+ We hypothesized that individuals carrying this mutation should be at higher risk of gastrointestinal bleeding since they display decreased elimination of some NSAIDs.
+
+ The purpose of this study is to determine whether the frequency for CYP2C9*3 variant allele is increased in subjects using NSAIDs metabolized by CYP2C9 in comparison with subjects under NSAIDs not metabolized by this enzyme.
+
+ The study groups consist of 200 patients suffering from gastrointestinal bleeding after NSAIDs use, divided in 100 patients using NSAIDs metabolized by CYP2C9 and 100 patients using other NSAIDs.
+
+.
+
+ Pharmacogenetics of Gastrointestinal Bleeding@highlight
+
+Gastrointestinal bleeding is a severe adverse effect occurring in subjects secondary to the use of nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+ The enzyme CYP2C9 is responsible for the elimination of several NSAIDs.
+
+ This protein is inactive in 12% of the subjects because of genetic mutations.
+
+ We hypothesized that individuals carrying such mutations should be at higher risk of gastrointestinal bleeding since they display decreased NSAIDs elimination.
+

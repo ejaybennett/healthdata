@@ -1,0 +1,18 @@
+(firstQuint)Improving Followup of Abnormal Colon Cancer Screening Tests.
+
+ Screening programs using the fecal occult blood test (FOBT) have demonstrated a significant reduction in colorectal cancer mortality, although only when accompanied by a complete diagnostic evaluation of the colon in the setting of a positive result.
+
+ 90% of patients with a positive FOBT result have completed a subsequent colonoscopy within Harvard Vanguard Medical Associates.
+
+ This project will use a pre-post study design to increase the rate of followup colonoscopy in the setting of positive FOBT results.
+
+ Patients in the intervention group will receive a personalized mailing highlighting their positive result and need for colonoscopy, followed by telephone outreach from a centralized gastroenterology scheduling office.
+
+ The primary outcome will be the performance of colonoscopy, however we will also perform chart reviews to identify predictors of completing appropriate followup.
+
+.
+
+ Improving Followup of Abnormal Colon Cancer Screening Tests@highlight
+
+The purpose of this study is to determine whether direct mailings to patients with positive fecal occult blood tests can increase rates of performing followup colonoscopy.
+

@@ -1,0 +1,28 @@
+(firstQuint)MLN0128 in Recurrent/Metastatic Merkel Cell Carcinoma.
+
+ This is a phase I/II clinical trial.
+
+ A phase I clinical trial tests the safety of an investigational intervention and also tries to define the appropriate dose of the investigational intervention to use for further studies.
+
+ "Investigational" means that the intervention is being studied.
+
+ The FDA (the U.
+
+S.
+
+ Food and Drug Administration) has not approved MLN0128 as a treatment for any disease.
+
+ MLN0128 may prevent tumor cells from dividing and growing by selectively and potently inhibiting a chemical, mTOR kinase, which regulates cell growth and survival.
+
+ Patients with merkel cell carcinoma have been observed to sometimes carry genetic alterations in their tumor cells which may make the cancer more sensitive to inhibition by MLN0128.
+
+ In this research study,the investigators are studying the usefulness of MLN0128 in merkel cell carcinoma cases.
+
+.
+
+ MLN0128 in Recurrent/Metastatic Merkel Cell Carcinoma@highlight
+
+This research study is studying a targeted therapy as a possible treatment for merkel cell carcinoma.
+
+ - The name of the study intervention involved in this study is: MLN0128.
+

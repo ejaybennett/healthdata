@@ -1,0 +1,12 @@
+(thirdQuint)A Simplification Study of Unboosted Reyataz With Epzicom (ASSURE).
+
+ A prospective, randomized, multicenter, open-label study to compare the efficacy and safety of simplifying from a regimen of atazanavir (ATV) + ritonavir (RTV) + tenofovir/emtricitabine (TDF/FTC) to ATV + abacavir sulfate/lamivudine (ABC/3TC) without RTV for 48 weeks in virologically suppressed, HIV-1 infected, HLA-B*5701 negative subjects.
+
+ ViiV Healthcare is the new sponsor of this study, and GlaxoSmithKline is in the process of updating systems to reflect the change in sponsorship.
+
+.
+
+ A Simplification Study of Unboosted Reyataz With Epzicom (ASSURE)@highlight
+
+This study is designed to compare the efficacy and safety of simplifying therapy from a regimen of atazanavir (ATV) + ritonavir (RTV) + tenofovir/emtricitabine (TDF/FTC) to a regimen of ATV + abacavir sulfate/lamivudine (ABC/3TC) without RTV in virologically suppressed, HIV-1 infected, HLA-B*5701 negative subjects for 48 weeks.
+

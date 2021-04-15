@@ -1,0 +1,20 @@
+(thirdQuint)Study to Evaluate Sodium Phenylbutyrate in Pre-symptomatic Infants With Spinal Muscular Atrophy.
+
+ Perform a phase I/II study to evaluate effects of Phenyl Butyrate (PBA) in a cohort of 12 presymptomatic infants.
+
+ These infants are predicted to have either SMA 1 or 2 given genotype and family history of an older sibling with the respective SMA type.
+
+ Our goal is twofold: 1) to collect additional safety and pharmacokinetic data in neonates and young infants administered this compound, within the dosing guidelines already in use for urea cycle disorder therapy, and 2) to determine possible benefit of early treatment intervention with regard to status of denervation and functional motor status at specific time points for which we have matched natural history data to perform a comparison.
+
+ Data obtained from this aim will guide future trials designed to determine the efficacy of PBA or other butyrate analogs in attenuating disease progression in SMA subjects identified in the presymptomatic period.
+
+.
+
+ Study to Evaluate Sodium Phenylbutyrate in Pre-symptomatic Infants With Spinal Muscular Atrophy@highlight
+
+In this single-center trial, we will evaluate the effects of NaPB on presymptomatic Spinal Muscular Atrophy (SMA) type I (cohort 1)and presymptomatic SMA type II (cohort 2) infants.
+
+ A variety of outcome measures will be performed at each study visit to follow the course of the disease.
+
+ Total duration of the study for type I infants will be 18 months, for type II infants, 24 months.
+

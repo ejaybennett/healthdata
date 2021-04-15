@@ -1,0 +1,25 @@
+(secondQuint)Locally Advanced Trial of Tri-weekly Metronomic Oral Vinorelbine and Cisplatin as Induction Therapy and Subsequent Concomitance With Radiation Therapy in Patients With Unresectable Non Small Cell Lung Cancer (NSCLC).
+
+ Hypothesis: At present, administration of concomitant chemotherapy and radiation therapy is considered a treatment of choice for patients with unresectable stage III tumor selected clinically.
+
+ There is at present a systemic considered standard treatment in combination with radical radiotherapy.
+
+ Nor is it established a dose of standard radiation therapy, but it is known that should never be less than 60Gy57.
+
+ Vinorelbine has shown a strong radio-sensitizer in-vitro37 effect.
+
+ In the phase II study, The combination of oral vinorelbine with cisplatin as induction therapy and then concomitantly with radiotherapy (66Gy) has provided very encouraging efficacy results.
+
+ Recently in the vortex scheme cisplatin study with oral vinorelbine concomitant maintained with radiation from the second cycle of chemotherapy was tested.
+
+ It is therefore a priority in this segment pathology seeking treatment regimens that improve the effectiveness and toxicity.
+
+ Metronomic chemotherapy started with the idea of administering a cytostatic divided doses, for an extended period without interruption, can provide the advantage of exposing patients to significant dose chemotherapy without worsening the toxicity profile.
+
+ All this makes it an attractive treatment strategy, and can also maintain radio sensitizing effect during concomitance.
+
+.
+
+ Locally Advanced Trial of Tri-weekly Metronomic Oral Vinorelbine and Cisplatin as Induction Therapy and Subsequent Concomitance With Radiation Therapy in Patients With Unresectable Non Small Cell Lung Cancer (NSCLC)@highlight
+
+Phase II clinical trial with metronomic oral vinorelbine and tri-weekly cisplatin as induction therapy and subsequent concomitantly with radiotherapy (RT) in patients with lung cancer (NSCLC) locally advanced unresectable

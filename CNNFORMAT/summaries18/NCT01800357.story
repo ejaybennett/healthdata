@@ -1,0 +1,19 @@
+(firstQuint)Efficacy and Safety of Mildronate for Acute Ischemic Stroke.
+
+ a randomized, double-blind, placebo-controlled phase II multicenter trial is conducted to evaluate the efficacy and safety of mildronate injection in patients with acute ischemic stroke.
+
+ patients will be randomized to receive a 14-day treatment of placebo or mildronate (500mg/5ml/each).
+
+Primary end-point is the modified Rankin scale at 3 monthes.
+
+ Secondary end-point is the NIHSS scores and the Barthel index at 8 days and 15days.
+
+ The safety end-point is defined as the incidence of adverse events, the change of Samples for routine laboratory tests and vital signs.
+
+ Analysis is by intention to treat.
+
+.
+
+ Efficacy and Safety of Mildronate for Acute Ischemic Stroke@highlight
+
+This study seeks to evaluate the efficacy and safety of mildronate injection in treating acute ischemic stroke

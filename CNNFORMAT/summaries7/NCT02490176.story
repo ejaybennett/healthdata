@@ -1,0 +1,22 @@
+(thirdQuint)Effects of Glucagon Like Peptide-1 on Haemodynamic Parameters.
+
+ Heart failure (HF) is a major cause of morbidity and mortality world wide.
+
+ Glucagon-like peptide-1 (GLP-1) is an incretin hormone that regulates plasma glucose, and has direct effects on the cardiovascular system.
+
+ In our previous study, the GLP-1 analogue liraglutide could improve left ventricular function in patients with non-ST-segment elevation myocardial infarction.
+
+ However, the effects of GLP-1 on HF patients remain unclear.
+
+ Pulse indicator continuous cardiac output (PiCCO) technology is a combination of transpulmonary thermodilution and pulse contour analysis, which measures hemodynamic variables (left ventricular ejection fraction, volumes, and mass) in a fast and feasible way.
+
+ Therefore, the aim of this study was to evaluate the effects of liraglutide on hemodynamic variables in HF patients using the PiCCO system.
+
+.
+
+ Effects of Glucagon Like Peptide-1 on Haemodynamic Parameters@highlight
+
+Glucagon-like peptide-1 (GLP-1) is an incretin hormone that regulates plasma glucose, and GLP-1 analogues were recently introduced for the treatment of acute myocardial infarction.
+
+ The investigators planned to evaluate the effects of liraglutide on haemodynamic parameters in patients with heart failure.
+

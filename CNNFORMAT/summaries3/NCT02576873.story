@@ -1,0 +1,12 @@
+(secondQuint)Long-term Outcome of End-stage Renal Disease Patients Treated With Hig-efficiency Hemodiafiltration.
+
+ Growing evidences suggested the superiority of high-efficiency hemodiafiltration (HDF) which could provide both diffusion and convection in a single therapy compared with the conventional hemodialysis.
+
+ However, the long-term, upto 10 years, outcome still limited.
+
+ This retrospective cohort study was conducted in 66 end-stage renal disease patients who underwent high-efficiency hemodiafiltration technique in a single-center, King Chulalongkorn Memorial Hospital, between 2001-2013 to determine the survival rate as well as other long-term outcome.
+
+ Long-term Outcome of End-stage Renal Disease Patients Treated With Hig-efficiency Hemodiafiltration@highlight
+
+A retrospective cohort study was conducted in 66 end-stage renal disease patients who underwent high-efficiency hemodiafiltration technique in King Chulalongkorn Memorial Hospital between 2001-2013 to determine the survival rate as well as other long-term outcome.
+

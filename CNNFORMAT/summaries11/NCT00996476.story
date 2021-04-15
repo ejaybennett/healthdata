@@ -1,0 +1,26 @@
+(thirdQuint)A Study to Assess the Effectiveness, Safety, and Pharmacokinetics of TMC435 in Combination With Peginterferon Alfa-2a and Ribavirin in Hepatitis-C Infected Patients.
+
+ This is a Phase 2, randomized (The study medication is assigned by chance.
+
+), 5-arm, open label (All people know the identity of the intervention.
+
+), multicentre (study conducted at multiple sites) study.
+
+ Approximately, 84 participants will be randomized to 5 different arms in a 2:2:1:1:1 ratio.
+
+ In treatment arms 1 and 2, participants will receive 12 weeks of triple therapy (use of 3 medications) with TMC435 50 or 100 mg once daily plus Peginterferon Alfa-2a and Ribavirin followed by 12 weeks of treatment with Peginterferon Alfa-2a and Ribavirin.
+
+ In treatment arms 3 and 4, participants will receive 24 weeks of triple therapy with TMC435 50 or 100 mg once daily plus Peginterferon Alfa-2a and Ribavirin.
+
+ In treatment arm 5 (control group), participants will receive Peginterferon Alfa-2a and Ribavirin for 48 weeks.
+
+ This study will consist a screening phase of upto 6 weeks, treatment phase of upto 48 weeks and a post treatment follow-up period of 24 weeks.
+
+ Safety evaluations will include assessment of adverse events, clinical laboratory tests, vital signs, and cardiovascular safety.
+
+.
+
+ A Study to Assess the Effectiveness, Safety, and Pharmacokinetics of TMC435 in Combination With Peginterferon Alfa-2a and Ribavirin in Hepatitis-C Infected Patients@highlight
+
+The purpose of this study is to evaluate effectiveness, safety and pharmacokinetics (Explores what the body does to the medication) of TMC435350 in combination with Peginterferon Alfa-2a and Ribavirin in genotype 1 hepatitis C virus infected Japanese participants who have never received treatment for their hepatitis C infection.
+

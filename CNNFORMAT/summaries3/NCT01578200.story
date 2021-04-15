@@ -1,0 +1,18 @@
+(secondQuint)Outcome Study of Lanthanum Carbonate Compared With Calcium Carbonate in Hemodialysis Patients : Landmark Study.
+
+ Elevated serum phosphate and calcium in dialysis patients are independently associated with increased risk of arterial calcification and mortality.
+
+ Calcium-based phosphate binders can induce hypercalcaemia and are associated with progression of vascular calcification.
+
+ A recent randomized study demonstrated that sevelamer, a non-calcium-based phosphate binders, reduced mortality in elderly hemodialysis patients compared with calcium-based phosphate binders.
+
+ Lanthanum carbonate is another efficacious and well-tolerated non-calcium phosphate binder.
+
+ A post-hoc survival analysis of lanthanum carbonate versus standard therapy suggested a survival benefit of lanthanum carbonate treatment for elderly patients.
+
+.
+
+ Outcome Study of Lanthanum Carbonate Compared With Calcium Carbonate in Hemodialysis Patients : Landmark Study@highlight
+
+The purpose of this study is to demonstrate decrease in cardiovascular mortality and morbidity in Japanese hemodialysis patients treated with Lanthanum carbonate compared with those with Calcium carbonate.
+

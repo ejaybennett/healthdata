@@ -1,0 +1,13 @@
+(firstQuint)A Modified Orbital Implantation Technique in Enucleation.
+
+ To assess the functional and cosmetic outcomes of enucleation with rectus end-to-end suturing surgical technique between 2005 and 2009.
+
+ All the patients underwent primary enucleation and implantation of non-wrapped HA implants using a technique that involves drawing the ends of the rectus muscles anteriorly and suturing them into a cross-shape in front of the implant.
+
+ Main outcome measures included occurrence of pain or discharge, soft tissue problems, implant motility, upper lid position, and patients' satisfaction.
+
+.
+
+ A Modified Orbital Implantation Technique in Enucleation@highlight
+
+To assess the functional and cosmetic outcomes of enucleation with rectus end-to-end suturing surgical technique in hydroxyapatite orbital implants

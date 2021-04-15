@@ -1,0 +1,54 @@
+(fifthQuint)Epirubicin and Tamoxifen With or Without Docetaxel in Treating Postmenopausal Women With Breast Cancer.
+
+ OBJECTIVES: - Compare the impact of adjuvant epirubicin with or without docetaxel and concurrent or sequential tamoxifen on time to relapse and overall survival in postmenopausal women with node-positive breast cancer.
+
+ - Compare the toxic effects of these regimens in this patient population.
+
+ - Compare the quality of life in terms of shift in long term toxicity and differences in recuperation in women treated with these regimens.
+
+ - Compare the incidence of thromboembolic events during the first 9 months of study and the influence of such events on compliance in women treated with these regimens.
+
+ OUTLINE: This is a randomized, multicenter study.
+
+ Patients are stratified according to participating center.
+
+ Patients are randomized to one of two adjuvant chemotherapy treatment arms within 30 days after surgery.
+
+ - Arm I: Patients receive adjuvant epirubicin IV on days 1 and 8.
+
+ Treatment continues every 28 days for 6 courses.
+
+ - Arm II: Patients receive adjuvant epirubicin IV on days 1 and 8.
+
+ Treatment continues every 28 days for 3 courses.
+
+ Patients then receive docetaxel IV over 1 hour on day 1.
+
+ Treatment continues every 21 days for 3 courses.
+
+ Patients may be further randomized to one of two tamoxifen arms.
+
+ Patients not randomized to the tamoxifen arms receive oral tamoxifen daily for 5 years concurrently with adjuvant chemotherapy.
+
+ - Arm I: Patients receive tamoxifen as above concurrently with adjuvant chemotherapy.
+
+ - Arm II: Patients receive sequential tamoxifen as above after completion of adjuvant chemotherapy.
+
+ Quality of life is assessed at baseline, 9 months, 2 years, and then at 5 years.
+
+ Patients are followed at 9 months, 1 year, every 4 months for 1 year, every 6 months for 2 years, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 800 patients will be accrued for this study.
+
+.
+
+ Epirubicin and Tamoxifen With or Without Docetaxel in Treating Postmenopausal Women With Breast Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Hormone therapy using tamoxifen may fight breast cancer by blocking the uptake of estrogen by the tumor cells.
+
+ Combining chemotherapy with hormone therapy may kill more tumor cells.
+
+ PURPOSE: Randomized phase III trial to compare the effectiveness of epirubicin and tamoxifen with or without docetaxel in treating postmenopausal women who have breast cancer that has spread to the lymph nodes.
+

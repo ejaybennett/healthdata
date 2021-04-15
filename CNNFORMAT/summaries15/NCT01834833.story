@@ -1,0 +1,21 @@
+(firstQuint)Consultation at 8 Days to Reduce Hospitalisations in Heart Failure Patient.
+
+ Background: the risk for rehospitalisation is very high after hospitalisation for acute heart failure.
+
+ Aim: evaluate the benefit of a consultation with a cardiologist, including echocardiography and education of the patient, between 7 and 15 days after discharge, in high risk patients, identified with BNP or incomplete therapy.
+
+ Parallel randomised study.
+
+ The main endpoint is the number of day alive out of hospital during the 6 months post discharge; statistics intention to treat comparison of the number of days alive out of hospital in the group with consultation compared with the group without consultation.
+
+ Recruitment 3 years and 4 months, follow-up 6 months.
+
+ Patients included have been hospitalised in hospital BICHAT 75018 Paris, France.
+
+ Financing is by the ministry of health (PHRQHOS).
+
+ Consultation at 8 Days to Reduce Hospitalisations in Heart Failure Patient@highlight
+
+Evaluate the benefit of systematic appointment with a cardiologist a week after hospitalisation for acute heart failure.
+
+ Randomised, endpoint: number of day alive out of hospital during 6 months

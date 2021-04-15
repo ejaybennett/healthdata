@@ -1,0 +1,41 @@
+(fifthQuint)17OHP for Reduction of Neonatal Morbidity Due to Preterm Birth (PTB) in Twin and Triplet Pregnancies.
+
+ Prematurity is a leading cause of neonatal morbidity and mortality in the USA.
+
+ Nationally, 12% of all babies deliver before term and 3% deliver before 32 wks gestational age (GA).
+
+ Recent studies suggest that 17OHP and other progesterone derivatives may reduce the rate of preterm birth among women with a history of prior preterm birth.
+
+ However, it has not been demonstrated that this reduction in preterm birth is accompanied by a clinically significant reduction in neonatal complications.
+
+ Further, most women who deliver preterm have no history of a prior preterm birth.
+
+ Little is known about whether progesterone treatment is effective in women with other risk factors for preterm birth such as multiple gestation.
+
+ The proposed study will assess the role of 17OHP in women with twin or triplet pregnancies and will assess the impact on neonatal health, not merely the impact on gestational age at delivery.
+
+ Prior studies were not designed to be large enough to have statistical power to assess effects on neonatal morbidity.
+
+ In the 6 trials combined in the Goldstein meta-analysis, only 279 women were treated with 17OHP and only 73 women had a preterm delivery.
+
+ The NICHD study presented by Meis approximately doubles the world-wide experience, with 306 women under treatment, of whom 73 delivered prior to 35 wks.
+
+ Yet, this study was not designed to have power to show a reduction in neonatal complications but only a reduction in preterm birth rates.
+
+ The present study is the first to be specifically designed to have adequate power to test whether 17OHP reduces neonatal morbidity among women with one of two specific risk factors for preterm birth.
+
+.
+
+ 17OHP for Reduction of Neonatal Morbidity Due to Preterm Birth (PTB) in Twin and Triplet Pregnancies@highlight
+
+Hypothesis: Among women with twin or triplet pregnancies, weekly injections of 17-alpha-hydroxyprogesterone caproate (17OHP), started before 24 weeks of gestation, will reduce neonatal morbidity by reducing the rate of preterm delivery.
+
+ This study involves two concurrent double-blinded randomized clinical trials of 17OHP versus placebo.
+
+ Each trial will test the efficacy and safety of 17OHP in women with a specific risk factor for preterm birth.
+
+ The two risk factors to be studied are: 1.
+
+ Twin pregnancy 2.
+
+ Triplet pregnancy

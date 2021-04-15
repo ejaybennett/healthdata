@@ -1,0 +1,18 @@
+(secondQuint)Neuropsychological Effects of Hydrocortisone in Patients With Partial Adrenal Insufficiency.
+
+ This is a controlled, randomized, double-blind, placebo-controlled, crossover, interventional study.
+
+ The benefit of replacement in partial corticotropic failure on brain function (cognition), especially in cases with borderline low cortisol levels after stimulation is unknown.
+
+ Moreover, since glucocorticoids might affect hGH secretion, the effect of hydrocortisone on hGH secretion reflected by IGF-1 levels will be assessed.
+
+ If IGF-1 is below 2 SD at the end of the study, hGH secretion will additionally be determined by a GHRH-arginine-test.
+
+ An improved cognition in TBI and SAH patients with partial corticotropic insufficiency would give a new treatment option in this population which may lead to better quality of life and an enhanced rehabilitation process.
+
+.
+
+ Neuropsychological Effects of Hydrocortisone in Patients With Partial Adrenal Insufficiency@highlight
+
+The purpose of this study is to evaluate the efficacy of hydrocortisone replacement therapy in patients with partial cortisol deficiency after traumatic brain injury or subarachnoid hemorrhage on cognitive function.
+

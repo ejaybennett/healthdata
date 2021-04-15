@@ -1,0 +1,22 @@
+(secondQuint)Lactic Acidosis During and After Seizures.
+
+ Lactic acid is released from cells during seizures and elevates lactic acid levels in blood and saliva.
+
+ The time course of this rise is unknown.
+
+ If lactic acid rises within a few minutes of a seizure, than it might be feasible to develop lactic acid sensors to provide notification of a recent seizure.
+
+ This could lead to better safety monitoring for people with epilepsy.
+
+ This study was designed to utilize a commercially available lactic acid sensor (investigators have no connection with the sensor manufacturer and purchased the device at list price) to measure salivary lactic acid levels after a seizure during inpatient video-EEG epilepsy monitoring.
+
+.
+
+ Lactic Acidosis During and After Seizures@highlight
+
+This project looks at the time course of lactic acid rise (if any) after seizures.
+
+ Salivary and capillary lactic acid are tested.
+
+ This type of measurement may be useful in signalling the occurrence or recent history of a seizure.
+

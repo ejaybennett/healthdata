@@ -1,0 +1,26 @@
+(secondQuint)Gene Therapy in Treating Women With Refractory or Relapsed Ovarian Epithelial Cancer, Fallopian Tube Cancer, or Peritoneal Cancer.
+
+ OBJECTIVES: - Determine the efficacy and safety of in vivo gene therapy with herpes simplex thymidine kinase (HSVtk) vector producer cells (VPC) followed by ganciclovir in women with refractory or relapsed ovarian epithelial adenocarcinoma, fallopian tube cancer, or peritoneal cancer.
+
+ - Determine any development of systemic immunity to this regimen or tumor in these patients.
+
+ - Determine the toxic effects of intraperitoneal HSVtk VPC in these patients.
+
+ OUTLINE: All patients receive an intraperitoneal catheter prior to infusion.
+
+ Patients receive herpes simplex thymidine kinase (HSVtk) vector producer cells (VPC) IP over 15-60 minutes on day 0, followed by ganciclovir IV 2 times daily on days 28-41.
+
+ Treatment repeats for up to 3 courses in patients with stable or responsive disease.
+
+ Patients are followed every 3 months for 1 year.
+
+ PROJECTED ACCRUAL: A total of 14-20 patients will be accrued for this study within 18-24 months.
+
+.
+
+ Gene Therapy in Treating Women With Refractory or Relapsed Ovarian Epithelial Cancer, Fallopian Tube Cancer, or Peritoneal Cancer@highlight
+
+RATIONALE: Gene therapy may make the body build an immune response to kill tumor cells.
+
+ PURPOSE: Phase II trial to study the effectiveness of gene therapy in treating women who have refractory or relapsed ovarian epithelial cancer, fallopian tube cancer, or peritoneal cancer.
+

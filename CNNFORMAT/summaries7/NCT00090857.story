@@ -1,0 +1,28 @@
+(fifthQuint)Letrozole in Preventing Breast Cancer in Postmenopausal Women.
+
+ OBJECTIVES: Primary - The primary outcome of the study is the change in bone mineral density following a year on letrozole vs.
+
+ a year on placebo.
+
+ Secondary - Compare the safety, acceptability, and adherence to letrozole vs placebo in postmenopausal women at increased risk for the development or recurrence of breast cancer based on elevated plasma estradiol levels through evaluation of menopausal symptoms (including hot flushes, weight changes, sexual functioning, and genitourinary effects), blood lipid levels, markers of bone turnover, and multidimensional quality of life.
+
+ - Determine the effect of letrozole-induced reduction of plasma estradiol levels on mammographic percent breast density.
+
+ - Obtain background information for a future large chemoprevention trial to address the question of whether a reduction in plasma estradiol levels can reduce the risk of breast cancer in postmenopausal women.
+
+ OUTLINE: This is a pilot, randomized, double-blind, placebo-controlled, multicenter study.
+
+ Patients are randomized to 2:1 (experimental treatment: placebo arms).
+
+ PROJECTED ACCRUAL: A total of 110 patients (73 for arm I and 37 for arm II) will be accrued for this study.
+
+.
+
+ Letrozole in Preventing Breast Cancer in Postmenopausal Women@highlight
+
+RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer.
+
+ Letrozole may be effective in preventing the development or recurrence of breast cancer in postmenopausal women who are at increased risk of developing breast cancer because of elevated estradiol levels.
+
+ PURPOSE: This randomized phase II trial is studying how well letrozole works in preventing breast cancer in postmenopausal women with elevated estradiol levels.
+

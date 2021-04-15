@@ -1,0 +1,22 @@
+(secondQuint)Glucocorticoids and Bone in Graves' Ophthalmopathy.
+
+ Systemic glucocorticoid increases bone resorption and decreases bone formation and thereby decreases bone mineral density and increases fracture risk.
+
+ This effect is evident with a daily dose of 5 mg for three months or an accumulated dose of 450mg.
+
+ There is, however, less evidence that intermittent use of glucocorticoids is harmful to bone.
+
+ Graves orbitopathy is treated with a weekly infusion of the glucocorticoid methylprednisolone and the accumulated dose over a 12-week course sums up to 4,500mg.
+
+ The investigators therefore want to investigate if that treatment regimen affects bone turnover, bone mineral density, or bone structure in 30 patients with Graves' orbitopathy.
+
+.
+
+ Glucocorticoids and Bone in Graves' Ophthalmopathy@highlight
+
+Continuous use of systemic glucocorticoids decreases bone mineral density and increases fracture risk.
+
+ Graves' orbitopathy is treated with weekly infusion of high-dose intravenous glucocorticoid.
+
+ The investigators aim at investigating whether this treatment regimen also affects bone metabolism.
+

@@ -1,0 +1,14 @@
+(firstQuint)A Trial to Explore the Tolerability, Safety and Efficacy of Paliperidone Extended Release in Patients With Schizophrenia.
+
+ This is a single arm (the same intervention is given to all patients), multicenter study that aimed to explore the tolerability, safety and efficacy of flexibly dosed paliperidone extended release (ER) among Filipino patients with schizophrenia who have not taken any antipsychotics in the past, and among newly diagnosed schizophrenia patients who have not taken any antipsychotics for at least one month prior to screening.
+
+ Antipsychotics are drugs that are helpful in the treatment of psychosis and have a capacity to ameliorate thought disorders.
+
+ Flexible dosing allows the investigators to adjust the dosage of each patient based on the individual needs.
+
+.
+
+ A Trial to Explore the Tolerability, Safety and Efficacy of Paliperidone Extended Release in Patients With Schizophrenia@highlight
+
+The purpose of this study is to explore the tolerability, safety and efficacy of flexibly dosed paliperidone extended release (ER) among patients with schizophrenia.
+

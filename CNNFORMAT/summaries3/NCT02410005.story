@@ -1,0 +1,16 @@
+(firstQuint)Intervention Using Vitamin D for Elevated Urinary Albumin Treated With Losartan in Diabetes (IDEAL).
+
+ The investigators propose to test the efficacy and safety of a combined regimen of calcitriol and losartan in subjects with type II diabetes (T2DM) with macroalbuminuria.
+
+ Should the investigators study confirm the hypothesis that the proposed novel regimen is superior to the current practice of renin-angiotensin-aldosterone system blockade, the study would significantly advance the care of subjects with type II diabetes and kidney disease in Qatar and worldwide.
+
+ In this regard it is worth noting that the prevalence of end stage renal disease in Qatar is 202 subjects per million population.
+
+ This would translate into fewer subjects requiring dialysis or transplantation, an enormous benefit to individuals and society.
+
+.
+
+ Intervention Using Vitamin D for Elevated Urinary Albumin Treated With Losartan in Diabetes (IDEAL)@highlight
+
+This study is a single center open-label randomized controlled trial designed to evaluate the efficacy of calcitriol plus losartan therapy in subjects with type II diabetes and macroalbuminuria.
+

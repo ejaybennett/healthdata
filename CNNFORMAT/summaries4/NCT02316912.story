@@ -1,0 +1,40 @@
+(fifthQuint)First in Man Evaluation of Single and Multiple Doses of Oral ATX2417.
+
+ The study consists of two parts, A (single ascending dose including fasted/fed comparison) and B (multiple ascending dose).
+
+ Part B will be conducted after a thorough review by the Sponsor and the Principal Investigator of the data arising from part A.
+
+ Part A This will be a randomised, double blind, placebo controlled, parallel group titration of up to seven single dose levels of ATX2417.
+
+ In each cohort, six subjects will receive active compound and two will receive placebo in a randomised fashion.
+
+ At each dose level, 2 subjects (1 subject will receive ATX2417 and 1 subject will receive placebo) will be dosed on Day 1 and the remaining 6 subjects will be dosed at least 24 hours later.
+
+ Safety and pharmacokinetic observations will be made.
+
+ There will be a minimum of two weeks between the first dosing day at each dose level.
+
+ Safety and ATX2417 pharmacokinetic data will be reviewed prior to each dose escalation and, based on pharmacokinetic data, it is also possible to decrease the dose if the pharmacokinetic profile so indicates.
+
+ This part will also include an assessment of the effect of a high fat breakfast on the absorption and pharmacokinetic profile of ATX 2417, performed at a dose predicted to be associated with therapeutic plasma concentrations.
+
+ Part B Following completion of Part A, and selection of appropriate dose levels, Part B will be performed.
+
+ This will be a randomised, double blind, placebo controlled, parallel group study of up to two dose levels of ATX2417 given once daily for eight days.
+
+ In each cohort, six subjects will receive active compound and two will receive placebo in a randomised fashion.
+
+ Safety and pharmacokinetic observations will be made.
+
+.
+
+ First in Man Evaluation of Single and Multiple Doses of Oral ATX2417@highlight
+
+First in man evaluation of single and multiple doses of compound ATX2417 in healthy male volunteers.
+
+ A double blind placebo controlled parallel group ascending dose design; up to five dose levels for the single dose and up to two dose levels for the multiple dose (8 days of dosing).
+
+ Subjects will be screened to assure normal health prior to inclusion in the trial and will be monitored for safety (adverse events, vital signs, ECGs, safety labs) and pharmacokinetic profile.
+
+ A fasted/fed comparison will also be included in the single ascending dose part of the trial.
+

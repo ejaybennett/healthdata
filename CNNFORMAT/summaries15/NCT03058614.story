@@ -1,0 +1,44 @@
+(fifthQuint)Contrast-enhanced Ultrasound Versus CT Scan for Kidney Stone Patient Management.
+
+ This is a multi-center, randomized controlled study comparing the use of CEUS to CT scan plus capping trial immediately following PCNL.
+
+ A total recruitment target of 1,046 subjects is planned and participants will be randomized into one of the two study arms.
+
+ 1.
+
+ Contrast-enhanced ultrasound (CEUS) arm: On postoperative day 1 (unless not clinically indicated), each subject will undergo CEUS with an administration of Lumason via their pre-placed nephrostomy tube.
+
+ 2.
+
+ Non-contrast CT scan plus capping trial arm: On postoperative day 1 (unless not clinically indicated), subjects' pre-placed nephrostomy tube will be capped and they will undergo a low dose non-contrast abdominal CT scan.
+
+ Subsequently, nephrostomy tubes will be managed based on the results from these studies by the treating surgeon.
+
+ Screening data will be reviewed to determine subject eligibility.
+
+ Subjects who meet all inclusion criteria and none of the exclusion criteria will be entered into the study.
+
+ The following investigational regimen will be used only in the CEUS arm: Experimental Investigation: Lumason at a 2 mL single dose, repeatable once at the time of imaging as needed.
+
+ Subjects will be exposed to the randomization schema for 1 day during which they will undergo one of the two diagnostic imaging pathways.
+
+ After that imaging study is complete, clinical care will proceed as per norm.
+
+ Clinical and imaging data will be prospectively collected from the time of initial presentation until 6 months after surgery.
+
+ The total duration of the study is expected to be 5 years to reach target accrual.
+
+ Therefore, the investigators anticipate that the total duration of this study will be 4 years and 6 months for patient recruitment with the final 6 months used for collecting follow up data.
+
+.
+
+ Contrast-enhanced Ultrasound Versus CT Scan for Kidney Stone Patient Management@highlight
+
+This study will be a randomized controlled study comparing the use of two clinical management strategies in nephrostomy tube management following percutaneous nephrolithotomy (PCNL).
+
+ The first strategy entails using contrast-enhanced ultrasound (CEUS) to evaluate the renal collecting system (1).
+
+ This is a new imaging approach applying ultrasound machines with special software in combination with intraluminal ultrasound contrast agent (Lumason) injection, which is an FDA-approved ultrasound contrast agent (2).
+
+ The second strategy is a nephrostomy tube capping trial combined with low dose non-contrast computed tomography (CT) scan, one of the most frequently utilized clinical management strategies currently used in clinical practice (3).
+

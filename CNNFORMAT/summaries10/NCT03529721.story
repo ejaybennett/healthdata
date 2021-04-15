@@ -1,0 +1,24 @@
+(thirdQuint)Effect of Zumba Dance on Premenstrual Tension.
+
+ Each female sets her experience of 47 manifestations on a 6 point scale separately for the premenstrual, menstrual and intermenstrual phases of her latest and worst menstrual cycle.
+
+ Daily Symptoms Report will be filled at the start and at end of the study (before and after performing swimming exercise) Females in group I will be instructed to engage into 12 classes of 60-minute Zumba(R) fitness over an 8-week period Each class was one hour in length and a recovery period of at least 48 hours will be taken between classes.
+
+ The Zumba(R) fitness scheduling of sessions will be self-selected by the participants.
+
+ The Zumba sessions will be conducted at a fitness center (SAMIA ALLOUBA gym and fitness center) and will consist of continuous dance movements to Latin music with varying intensity level throughout the sessions.
+
+ Each session will be initiated with low-intensity movements for the first 5 min, followed by an increasing intensity throughout the workout.
+
+ At the end of the training session, the intensity will be gradually reduced.
+
+ The Zumba sessions will be supervised by three certified Zumba instructors, each responsible for regular sessions per week.
+
+.
+
+ Effect of Zumba Dance on Premenstrual Tension@highlight
+
+Each female sets her experience of 47 manifestations on a 6 point scale separately for the premenstrual, menstrual and intermenstrual phases of her latest and worst menstrual cycle.
+
+ Daily Symptoms Report will be filled at the start and at end of the study (before and after performing swimming exercise) Females in group I will be instructed to engage into 12 classes of 60-minute Zumba(R) fitness over an 8-week period.
+

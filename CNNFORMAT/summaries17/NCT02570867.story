@@ -1,0 +1,36 @@
+(secondQuint)Functional Brain Changes of Primary Open-angle Glaucoma Patients.
+
+ More and more researches showed that nerve damage in glaucoma is not limited in the optic nerve, but also involved the visual pathway, including the optic chiasm, optic beam, lateral geniculate body, optic radiation and visual cortex.
+
+ Furthermore, the central nervous system changes may be earlier than visual field and the optic nerve morphology change.
+
+ Tomography (OCT), laser polarimetry 0ptical (SLP), evoked potential scanning (VEP) can not accurately reflect the central nervous system changes caused by glaucoma.
+
+ In recent years, magnetic resonance diffusion tensor imaging (DTI), blood oxygen level dependent functional magnetic resonance imaging(fMRI- BOLD) and voxel-based Morphometry(VBM) is widely used in clinical practice.
+
+ The differences in the density and volume of brain tissue could be analyzed with VBM which had the advantages of comprehensive, objective and repeatable.
+
+ Studies have indicated that patients with POAG can lead to a wide range of changes in the cerebral cortex which are associated with the severity of glaucoma.
+
+ Participants in the study will be assigned to primary open-angle glaucoma (POAG) patients or healthy volunteers.
+
+ Two groups will be received 3.
+
+0T functional magnetic resonance imaging(fMRI) and eye examination including visual acuity, visual field, intraocular pressure, anterior chamber angle, corneal thickness and optic nerve fiber thickness.
+
+ We hope this trial will reveal the patterns and structural differences of brain function abnormalities between the POAG patents and the normal people.
+
+ And the same time, the correlation between brain gray changes and visual field and retinal nerve fiber layer thickness will be analysed.
+
+.
+
+ Functional Brain Changes of Primary Open-angle Glaucoma Patients@highlight
+
+Structural and functional brain changes of primary open-angle glaucoma patient will be examined with fMRI.
+
+ POAG patients and control group were examined with 3.
+
+0T magnetic resonance imaging.
+
+ The gray matter, white matter and cerebrospinal fluid volume images will be obtained and analysed.
+

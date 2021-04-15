@@ -1,0 +1,36 @@
+(fifthQuint)Cediranib Maleate and Combination Chemotherapy in Treating Patients With Advanced Biliary Cancers.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the response rate to AZD2171 (cediranib maleate) and modified folinic acid-fluorouracil-oxaliplatin-6 regimen (FOLFOX 6) in subjects with advanced biliary cancers.
+
+ SECONDARY OBJECTIVES: I.
+
+ To determine overall assessment of toxicity of AZD2171 and modified FOLFOX6.
+
+ II.
+
+ To determine the progression-free survival of subjects with advanced biliary cancers treated with AZD2171 and modified FOLFOX6.
+
+ III.
+
+ To determine overall survival of subjects with advanced biliary cancers treated with AZD2171 and modified FOLFOX6.
+
+ OUTLINE: Patients receive cediranib maleate orally (PO) once daily (QD) on days 1-14 and modified FOLFOX6 comprising oxaliplatin intravenously (IV) over 2 hours, leucovorin calcium IV over 2 hours, and fluorouracil IV over 46 hours on day 1.
+
+ Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up every 3 months for 1 year, every 6 months for 2 years, and then annually thereafter.
+
+.
+
+ Cediranib Maleate and Combination Chemotherapy in Treating Patients With Advanced Biliary Cancers@highlight
+
+This phase II trial is studying how well giving cediranib maleate together with combination chemotherapy works in treating patients with advanced biliary cancers.
+
+ Cediranib maleate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the tumor.
+
+ Drugs used in chemotherapy, such as oxaliplatin, leucovorin calcium, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Giving cediranib maleate together with combination chemotherapy may kill more tumor cells.
+

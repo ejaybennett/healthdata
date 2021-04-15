@@ -1,0 +1,50 @@
+(fifthQuint)Ultrafast MRI Imaging to Exclude Constipation.
+
+ In haematological malignancy and in immunocompromised patients, constipation is a common symptom caused by a number of factors during treatment.
+
+ Chemotherapy and certain analgesic medications are major contributory factors in addition to inadequate fluid intake and reduced mobility during treatment.
+
+ In current practice, an abdominal radiograph is the first imaging investigation for constipation and non specific abdominal pain to support or exclude the clinical suspicion of constipation.
+
+ However, there is a skin entrance dose of 1.
+
+5 msv from plain film with radiation exposure to gonads.
+
+ Children are more sensitive to radiation induced adverse effects especially the thyroid gland and bone marrow.
+
+ Immunocompromised patients are also at risk of developing a second malignant neoplasm.
+
+ Ultrasound is proven to detect faecal loading in the rectum without ionizing radiation but it is difficult to assess the entire length of colon and it largely depends on the operator's experience.
+
+ MRI is an alternative imaging modality without ionizing radiation.
+
+ Imaging the peritoneal cavity on abdominal MRI has traditionally been challenging primarily because of bowel motion and long acquisition time for standard T1 and T2 weighted sequences.
+
+ The recent development of an ultrafast 2 dimensional FIESTA sequence by GE Healthcare based on the balanced steady state free precession (b-SSFP) pulse sequence has several advantages, including motion insensitivity (does not interfere with peristalsis), sharp edge definition and higher contrast when compared with the standard SSFSE pulse sequence.
+
+ FIESTA images allow clear delineation of intra-peritoneal and retroperitoneal anatomy and are capable of depicting the vascular anatomy and lymph-adenopathy.
+
+ There is a wide spectrum of diseases which could cause abdominal pain in our study group with constipation being the most common cause but MRI could potentially detect more serious bowel related chemotherapy induced complications such as typhlitis, pneumatosis coli, veno-occlusive disease, pancreatitis and intra abdominal abscess, which would not be apparent on abdominal radiograph.
+
+.
+
+ Ultrafast MRI Imaging to Exclude Constipation@highlight
+
+In haematological malignancy and in immunocompromised patients, constipation is a common symptom caused by a number of factors during treatment.
+
+ In current clinical practice, an abdominal radiograph is the first imaging investigation for constipation and non specific abdominal pain to support or exclude the clinical suspicion.
+
+ Children are more sensitive to radiation induced adverse effects especially in the thyroid gland and bone marrow.
+
+ Immunocompromised patients are at risk of developing a second malignant neoplasm.
+
+ MRI is an alternative imaging modality without ionizing radiation.
+
+ Imaging the peritoneal cavity on abdominal MRI has always been challenging primarily because of bowel motion and a long acquisition time for standard T1 and T2 weighted sequences.
+
+ Recent development of an ultrafast 2 dimensional FIESTA sequence developed by GE (General Electric) Healthcare based on the balanced steady state free precession (b-SSFP) pulse sequence has several advantages: motion insensitivity ( does not interfere with peristalsis), sharp edge definition and higher contrast when compared with the standard SSFSE pulse sequence.
+
+ FIESTA is well suited for abdominal imaging as it produces motion- free images, allowing clear delineation of intra-peritoneal and retroperitoneal anatomy and is capable of depicting the vascular anatomy and lymph-adenopathy.
+
+There is a wide spectrum of diseases which could cause abdominal pain in our study group with constipation being the most common cause but MRI could potentially detect more serious bowel-related chemotherapy induced complications such as typhlitis, pneumatosis coli, veno-occlusive disease, pancreatitis and intra abdominal abscess, which would not be apparent on abdominal radiograph.
+

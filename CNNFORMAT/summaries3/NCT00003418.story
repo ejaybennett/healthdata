@@ -1,0 +1,40 @@
+(fifthQuint)Exemestane Compared With Tamoxifen in Treating Postmenopausal Women With Primary Breast Cancer.
+
+ OBJECTIVES: I.
+
+ Compare, in terms of disease-free survival and overall survival, the sequential administration of exemestane with administration of further tamoxifen until 5 years of therapy is achieved in postmenopausal women with operable breast cancer who have already received 2-3 years of adjuvant tamoxifen.
+
+ II.
+
+ Compare the regimens in terms of the incidence of contralateral breast cancer and long term tolerability of the regimens in these patients.
+
+ III.
+
+ Determine the tolerability of each regimen in terms of endometrial status, bone metabolism, lipid profile, and coagulation profile in these patients.
+
+ IV.
+
+ Assess quality of life in these patients treated with these regimens.
+
+ OUTLINE: This is a randomized, double blind, multicenter study.
+
+ Following 2-3 years of adjuvant treatment with tamoxifen, patients are randomized to receive either oral tamoxifen daily or oral exemestane daily for the remainder of the 5 year period in the absence of disease relapse or unacceptable toxicity.
+
+ Quality of life is assessed at some centers.
+
+ Patients are followed at least every 3 months for the first year of treatment, every 6 months for the next two years and then annually thereafter until year 10.
+
+ PROJECTED ACCRUAL: Approximately 4400 patients (2200 patients in each arm) will be accrued for this study.
+
+.
+
+ Exemestane Compared With Tamoxifen in Treating Postmenopausal Women With Primary Breast Cancer@highlight
+
+RATIONALE: Estrogen can stimulate the growth of breast cancer cells.
+
+ Hormone therapy using exemestane or tamoxifen may fight breast cancer by blocking the uptake of estrogen.
+
+ It is not yet known whether exemestane is more effective than tamoxifen in treating breast cancer.
+
+ PURPOSE: Randomized phase III trial to compare the effectiveness of exemestane with that of tamoxifen in treating postmenopausal women with primary breast cancer who have already received 2-3 years of tamoxifen following surgery.
+

@@ -1,0 +1,18 @@
+(firstQuint)A Study of the Safety and Effectiveness of JNJ-39758979 in the Treatment of Adults With Persistent Asthma.
+
+ This is a multicenter, double-blind (neither physician nor participants knows the treatment that the participant receives), randomized (study medication is assigned by chance), placebo-controlled (an inactive substance is compared with a medication to test whether the medication has a real effect in a clinical study), parallel group (each group of participants will be treated at the same time), exploratory study (JNJ-39758979 is introduced in participants with asthma for the first time).
+
+ This study consists of 4 phases: screening phase (4 weeks prior to the start of the run-in period), placebo run-in phase (2 weeks prior to the start of treatment phase), double-blind treatment phase (12 weeks), and posttreatment phase (5 weeks).
+
+ Approximately 100 participants will be randomly allocated to 1 of 2 treatment groups: Treatment A (participants will receive JNJ-39758979 once daily) and treatment B (participants will receive placebo once daily).
+
+ Safety will be evaluated by assessment of adverse events, clinical laboratory tests, vital signs, physical examination, and 12-lead electrocardiogram.
+
+ Total study duration for each participant will be approximately 23 weeks.
+
+.
+
+ A Study of the Safety and Effectiveness of JNJ-39758979 in the Treatment of Adults With Persistent Asthma@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of once daily oral administration of JNJ-39758979 in the treatment of adults (18 to 65 years of age) with persistent asthma.
+

@@ -1,0 +1,20 @@
+(secondQuint)QUILT-2.
+
+001: ALT-803 in Patients With Advanced Pancreatic Cancer in Conjunction With Gemcitabine and Nab-Paclitaxel.
+
+ The purpose of this study is to evaluate the safety and tolerability of escalating doses, to identify the Maximum Tolerated Dose (MTD) and designate a dose level for Phase II study (RP2D) of ALT-803 administered in combination with gemcitabine and nab-paclitaxel in patients with advanced pancreatic cancer.
+
+ To access the anti-tumor activity of ALT-803 administered in combination with gemcitabine and nab-paclitaxel as measured by objective response rate, overall survival, progression-free survival, time to progression, and duration of response in patients with advanced pancreatic cancer.
+
+ To Characterize the pharmacokinetic, immunogenicity, and serum cytokine profile of ALT-803 in combination with gemcitabine and nab-paclitaxel in treated patients.
+
+ To correlate circulating cell free DNA and circulating tumor DNA with clinical outcomes of the study in treated patients.
+
+.
+
+ QUILT-2.
+
+001: ALT-803 in Patients With Advanced Pancreatic Cancer in Conjunction With Gemcitabine and Nab-Paclitaxel@highlight
+
+This is a Phase Ib/II, open-label, multi-center, competitive enrollment and dose escalation study of ALT-803 in combination with gemcitabine and nab-paclitaxel in patients with advanced pancreatic cancer in conjunction with gemcitabine and nab-paclitaxel.
+

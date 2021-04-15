@@ -1,0 +1,56 @@
+(fifthQuint)A Study of Radiotherapy in Rectal Cancer Using Oxaliplatin, Capecitabine With or Without Cetuximab.
+
+ Aims: The primary aim of this study is to estimate the pathological complete response rate following neoadjuvant radiotherapy with concurrent capecitabine and oxaliplatin (CAPOX), with or without cetuximab based on the KRAS mutation status in rectal cancer.
+
+ Hypothesis: Cetuximab, a monoclonal antibody targeted against the EGF receptor, is active in metastatic colorectal cancer and a radio-sensitizer.
+
+ In colorectal cancer, the presence of KRAS mutation has been associated with the absence of response to cetuximab.
+
+ We hypothesise that the addition of cetuximab to CAPOX concurrent with neoadjuvant radiotherapy only benefited patients whose tumours do not have the KRAS mutation and therefore, personalizing cetuximab therapy based on tumour KRAS mutation status may yield a higher pathological response.
+
+ Methods: This study employed a standard 2-stage Phase II design to evaluate the efficacy and tolerability of two neoadjuvant chemoradiotherapy regimens.
+
+ The assignment of the neoadjuvant chemotherapy will be determined by the KRAS mutation status of the tumor.
+
+ Subjects with KRAS mutation will receive CAPOX.
+
+ Subjects with no KRAS mutation will be randomized to receive CAPOX +/- cetuximab.
+
+Definitive surgery is scheduled for 6-8 weeks after the completion of chemoradiotherapy.
+
+ Surgical management will be a sphincter preservation approach whenever possible, using the total mesorectal excision technique.
+
+After the operation, pathologic evaluation of the surgical specimen will be performed.
+
+ Significance:In this proof-of-concept study, we aim to demonstrate that using an enriched patient cohort to test our hypothesis that the addition of cetuximab will yield a higher pathological response rate in KRAS mutation-negative rectal cancer.
+
+ This approach can potentially identify a subset of patients that may benefit from cetuximab and spare those who may not benefit from unnecessary treatment toxicities and costs.
+
+ Our study will help to prioritise novel targeted agents for a smaller, faster, and less expensive confirmatory phase III trials.
+
+.
+
+ A Study of Radiotherapy in Rectal Cancer Using Oxaliplatin, Capecitabine With or Without Cetuximab@highlight
+
+Primary Objectives To estimate the pathological complete response rate following neoadjuvant radiotherapy with concurrent capecitabine and oxaliplatin, with or without cetuximab based on the KRAS mutation status in rectal cancer.
+
+ Secondary Objectives 1.
+
+ To evaluate the incidence of grade 3-4 toxicities with each of the two neoadjuvant regimens and during the 30-day post-operative period.
+
+ 2.
+
+ To estimate the clinical tumour response rate and sphincter preservation rate with each of the two neoadjuvant regimens.
+
+ 3.
+
+ To correlate EGRF gene amplification with pathological response rate in those treated with cetuximab.
+
+ 4.
+
+ To estimate the pattern of failure.
+
+ 5.
+
+ To establish an annotated tissue library with samples being obtained prior to therapy and following therapy (at the time of surgery).
+

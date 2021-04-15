@@ -1,0 +1,50 @@
+(fifthQuint)Entecavir Plus Tenofovir Combination in Subjects With Multi-drug Resistant Chronic Hepatitis B Virus Infection.
+
+ 1.
+
+ It has been one of unsolved issues and unmet needs in CHB management to develop an optimal combination regimen to manage multidrug resistant HBV characterized by selection of variants with two or more classes A of signature genotypic resistant mutations1-3 2.
+
+ Currently adding on Adefovir(ADV) has been generally recommended in Lamivudine(LAM)- or Telbivudine(LdT)-resistant patients but little is known about the optimal management of CHB patients who developed multidrug resistance4 3.
+
+ Recent report has shown that the combination of LAM plus ADV did not suppress HBV DNA effectively in CHB patients with resistance mutations to both drugs.
+
+ Only 12.
+
+2% of these pts achieved virologic response(VR; HBV DNA <60 IU/mL) at 12 months and multivariable analysis showed that LAM+ADV group and the presence of the rtA181V/T mutation were independently associated with a decreased rate of virologic response (HBV DNA <2,000 IU/ml) at 12 months4 4.
+
+ ETV has been demonstrated to be effective in patients with ADV resistance but not in patients with proven YMDD mutation.
+
+ In contrast, TDF has been shown to be effective in patients with YMDD mutation but not necessarily in all patients with ADV resistance.
+
+1-3 5.
+
+ Thus theoretically, the combination of the most potent nucleoside analogue and nucleotide analogue with non-overlapping resistance profiles, such as ETV plus TDF, is expected to be a promising salvage treatment for multidrug resistant HBV but clinical evidence is limited 6.
+
+ Therefore, this study will explore that adequate management of multidrug resistant patients using ETV plus TDF combination may lead to faster and greater viral suppression and prevent further emergence of antiviral resistance All subjects will orally take investigational drugs once daily for 48 weeks.
+
+ All subjects will be assessed at baseline, Week 4, 12, 24, 36 and 48.
+
+ Evaluations at each visit will include vital signs, physical examinations, laboratory tests and HBV DNA levels.
+
+ They were also questioned about adverse events and concomitant medications.
+
+ At baseline and every six months thereafter, serum will be assayed for HBV serology.
+
+ Genotypic analysis will be performed at baseline and 48 weeks.
+
+.
+
+ Entecavir Plus Tenofovir Combination in Subjects With Multi-drug Resistant Chronic Hepatitis B Virus Infection@highlight
+
+Entecavir(ETV) plus Tenofovir Disoproxil Fumarate(TDF) combination will show effective antiviral activity and prevent further development of antiviral resistance in hepatitis B e antigen(HBeAg)-positive or -negative Chronic Hepatitis B(CHB) patients who experienced multidrug resistance All subjects will orally take investigational drugs once daily for 48 weeks.
+
+ All subjects will be assessed at baseline, Week 4, 12, 24, 36 and 48.
+
+ Evaluations at each visit will include vital signs, physical examinations, laboratory tests and HBV DNA levels.
+
+ They were also questioned about adverse events and concomitant medications.
+
+ At baseline and every six months thereafter, serum will be assayed for HBV serology.
+
+ Genotypic analysis will be performed at baseline and 48 weeks.
+

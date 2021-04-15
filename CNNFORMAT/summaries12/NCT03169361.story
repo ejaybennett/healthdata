@@ -1,0 +1,18 @@
+(firstQuint)NINLARO Capsules Drug Use-Results Survey (All-Case Surveillance) "Relapsed/Refractory Multiple Myeloma".
+
+ The drug being tested in this study is called Ixazomib (NINLARO).
+
+ Ixazomib is being tested to treat people who have relapsed/refractory multiple myeloma.
+
+ This study will look at the safety of NINLARO in participants with relapsed/refractory multiple myeloma in daily clinical practice.
+
+ The study will enroll approximately 480 patients.
+
+ cent Ixazomib 4 mg This multi-center trial will be conducted in Japan.
+
+.
+
+ NINLARO Capsules Drug Use-Results Survey (All-Case Surveillance) "Relapsed/Refractory Multiple Myeloma"@highlight
+
+The purpose of this study is to evaluate the safety of NINLARO in participants with relapsed/refractory multiple myeloma in daily clinical practice.
+

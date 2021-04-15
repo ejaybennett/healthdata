@@ -1,0 +1,28 @@
+(thirdQuint)Clinical Evaluation of Quantiferon-Monitor to Predict Outcomes in Solid Organ Transplant Recipients.
+
+ Solid organ transplant (SOT) recipients undergo life-long immunosuppression to prevent allograft rejection.
+
+ However, this also puts patients at significant risk for opportunistic infection.
+
+ The degree of immunosuppression varies for each individual and is likely influenced by a combination of clinical factors such as antirejection medication, comorbidities, patient age as well as the state of patient immune system.
+
+ Thus far, there have been no standardized methods to quantify the degree of global immunosuppression.
+
+ A new blood test (Quantiferon-Monitor) has been recently developed that might help predict the level of immune suppression.
+
+ The purpose of this study is to determine whether this new test will help determine a person's level of immune suppression after organ transplant.
+
+ This will be done by trying to relate the level of immunity with the development of infection or rejection.
+
+ If the test for immunosuppression is helpful, it may help us to better take into account the differences in patients when designing therapy.
+
+ Ultimately, it may help develop better ways for preventing infections and transplant rejections.
+
+.
+
+ Clinical Evaluation of Quantiferon-Monitor to Predict Outcomes in Solid Organ Transplant Recipients@highlight
+
+The study will prospectively determine the clinical utility of non-pathogen specific cellular immunity assessment using the Quantiferon-Monitor to quantify the degree of immunosuppression.
+
+ The investigators will use the results of the assay to predict whether patients develop opportunistic infections and predict organ rejection.
+

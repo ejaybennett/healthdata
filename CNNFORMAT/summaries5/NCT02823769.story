@@ -1,0 +1,60 @@
+(fifthQuint)Clinical Evaluation of SI-R21204 Versus Nano-hybrid Resin Composite: A Prospective Controlled Clinical Trial.
+
+ The objective of this controlled clinical trial is to evaluate the clinical performance of restorative material "SI-R21204 resin composite" versus a "nano-hybrid resin com-posite" materials for Class I and Class II cavities that needs to be restored in per-manent teeth.
+
+ Giomers are a new group of anhydrous resin based direct adhesive restorative materials based on the filler technology (PRG) to form a stable phase of glass ionomer in the restorative.
+
+ These materials have both advantages of glass ionomers namely, fluoride release and recharge, and resin composites with excellent optical and mechanical properties.
+
+ PRG fillers are fabricated by acid-base reaction of glass particles and polyacrylic acid in the presence of water and forms wet silicous hydrogel.
+
+ S-PRG filler particles exhibit a three-layer structure where the glass core is enveloped by a stable glass-ionomer hydrogel.
+
+ This hydrogel is surrounded by the "reforming phase," which provides structural protection for the hydrogel.
+
+ These materials with S-PRG technology therefore, differ from polyacid modified composite resins because the glass ionomer hydrogel forms only after water uptake by the compomer resin matrix after polymerization.
+
+ The chemistry of Giomer materials facilitates fluoride ion release with the potential for a lower incidence of recurrent caries that was accepted as a major factor to retreat a resin restoration.
+
+ Limited number of studies is available on their fluoride release, and polishability, as well as clinical survival.
+
+ The study will be carried out as a prospective study, with assessment of the restorationsafter three year.
+
+ The project includes 40 patients.
+
+ Most of the patients have been recruited from the Istanbul Medipol University Dental Clinics in Istanbul.
+
+ After giving their consent to take part in the study Class I & II restorations of both upper and lower molars and premolars are performed.
+
+The treatment procedure is: The patients are offered local anesthetic before treatment start.
+
+ The cavity is excavated and filled according to the guidelines for composite restorations.
+
+ The control procedure is: The restoration is evaluated according to marginal adaptation, cavo surface marginal discoloration, approximal contact, fractures, caries associated with restorations and postoperative hypersensitivity.
+
+ The controls will take place after two weeks, one year, two years and three years.
+
+.
+
+ Clinical Evaluation of SI-R21204 Versus Nano-hybrid Resin Composite: A Prospective Controlled Clinical Trial@highlight
+
+Despite the advances in adhesive restorative techniques and materials, dental caries still remains a critical concern even today.
+
+ In addition, recurrent caries related to microleakage is a common mode of failure of directly placed resin composite restorations.
+
+ Resin composites are particularly susceptible to recurrent caries due to polymerization contraction and also imperfect adhesion of restorative to tooth tissue.
+
+ Thus, strong durable bond between adhesive restoratives and tooth tissue and increasing the resistance of teeth to acid by encouraging the development of remineralization are essential to withstand secondary caries.
+
+ Fluoride has been documented as a major contributing factor for the decline in the incidence of dental caries and also it has been accepted as an agent in the prevention of caries.
+
+ Giomers are a new group of anhydrous resin based direct adhesive restorative materials based on the filler technology (PRG) have both advantages of glass ionomers namely, fluoride release and recharge, and resin composites with excellent optical and mechanical properties.
+
+ The chemistry of Giomer materials facilitates fluoride ion release with the potential for a lower incidence of recurrent caries that was accepted as a major factor to retreat a resin restoration.
+
+ Limited number of studies is available on their fluoride release, and polishability, as well as clinical survival.
+
+ The objective of this controlled clinical trial is to evaluate the clinical performance of restorative material "SI-R21204 resin composite" versus a "nano-hybrid resin com-posite" materials for Class I and Class II cavities that needs to be restored in per-manent teeth.
+
+40 patients are recruited to the project which is carried out at the School of dentistry, Istanbul Medipol University, Turkey.
+

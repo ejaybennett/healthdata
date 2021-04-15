@@ -1,0 +1,26 @@
+(thirdQuint)Dexmedetomidine in Mechanically Ventilated Neonates With Single-Organ Respiratory Failure.
+
+.
+
+ Currently, dexmedetomidine is approved by the United States Food and Drug Administration (FDA) for short-term analgosedation (<24h) in mechanically-ventilated critical care adult patients and sedation of non-intubated adult patients prior to and/or during surgical and other procedures.
+
+ Trials are underway to investigate its pharmacokinetics, clinical efficacy and safety in long-term use.
+
+ Clinical experience with dexmedetomidine in the paediatric population is limited.
+
+ Moreover, during childhood many developmental changes take place with consequences on drug exposure and drug response.
+
+ Finally, critical illness itself can affect drug pharmacokinetics and -dynamics.
+
+ Therefore, the investigators cannot simply extrapolate adult data for use in children but the investigators are in need of data on pharmacokinetics and pharmacodynamics in every paediatric subpopulation.
+
+.
+
+ Dexmedetomidine in Mechanically Ventilated Neonates With Single-Organ Respiratory Failure.
+
+@highlight
+
+Clinical experience with dexmedetomidine in the paediatric population is limited.
+
+ Critical illness can affect drug pharmacokinetics and -dynamics; the investigators cannot simply extrapolate adult data for use in children but the investigators are in need of data on pharmacokinetics and pharmacodynamics in every paediatric subpopulation.
+

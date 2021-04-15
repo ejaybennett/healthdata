@@ -1,0 +1,14 @@
+(firstQuint)Early Dieting in Girls: a Longitudinal Cohort Study.
+
+ This longitudinal observational cohort followed the growth and development of non-Hispanic white girls from age 5 to 15 years, with a focus on the development of the controls of food intake.
+
+ Data was collected biennially from girls and their mothers and fathers.
+
+ Measures included anthropometrics, questionnaires and laboratory measures of eating behavior, dietary recalls, psychosocial characteristics, and parenting measures.
+
+.
+
+ Early Dieting in Girls: a Longitudinal Cohort Study@highlight
+
+This longitudinal observational cohort followed the growth and development of non-Hispanic white girls from age 5 to 15 years, with a focus on the development of the controls of food intake.
+

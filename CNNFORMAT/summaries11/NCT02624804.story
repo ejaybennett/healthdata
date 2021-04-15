@@ -1,0 +1,14 @@
+(firstQuint)A Pilot Study of the Therapeutic Potential of Stem Cell Educator Therapy in Type 1 Diabetes.
+
+ Our previous work demonstrated that human cord blood-derived multipotent stem cells (CB-SCs) are a unique type of stem cell identified from human cord blood, distinct from other stem cell types including hematopoietic stem cells (HSCs), and mesenchymal stem cells (MSCs).
+
+ The stem cells and harnessed some of their unique properties with Stem Cell Educator therapy by using CB-SCs in a closed-loop system that circulates a patient's blood through a blood cell separator, briefly co-cultures the patient's lymphocytes with adherent CB-SCs in vitro, and returns the "educated" lymphocytes (but not the CB-SCs) to the patient's circulation .
+
+ This treatment leads to global immune modulations and immune balance as demonstrated by clinical data and animal studies.
+
+ The Stem Cell Educator therapy may revolutionize the clinical treatment of diabetes and other immune-related diseases through CB-SCs' immune education and induction of immune balance, without the safety and ethical concerns associated with conventional stem cell-based approaches.
+
+ A Pilot Study of the Therapeutic Potential of Stem Cell Educator Therapy in Type 1 Diabetes@highlight
+
+This is a prospective, single arm, open-label, single-center pilot study to assess the safety, feasibility, and efficacy of Stem Cell Educator therapy for the treatment of patients with Type 1 Diabetes.
+

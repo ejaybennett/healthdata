@@ -1,0 +1,20 @@
+(secondQuint)Comparison of Bacterial Contamination Rates Between Isolation and Non-isolation Rooms.
+
+ Studies show high touch areas maybe contaminated with organisms such as Methicillin-resistant Staphylococcus aureus(MRSA) and vancomycin-resistant enterococci.
+
+ MRSA can live on hospital surfaces for 9-14 days.
+
+ Patients in rooms that were previously MRSA isolation rooms are at higher risk for developing a hospital-acquired infection.
+
+ This study is to determine if medication cabinets located outside of MRSA isolation rooms and their contents, particularly medications and the pharmacy delivery folders are at a higher risk of having MRSA colonization on them.
+
+ This study will use conventional methods to determine if MRSA colonization is present and compare results between non-isolation and isolation rooms.
+
+ This will evaluate if alternate measures for the reduction of MRSA colonization are needed for the MRSA isolation rooms in regards to medication delivery and storage.
+
+.
+
+ Comparison of Bacterial Contamination Rates Between Isolation and Non-isolation Rooms@highlight
+
+This study is to determine if medication cabinets located outside of isolation rooms in hospitals and their contents, particularly medications and the delivery folders are at a higher risk of having harmful bacteria on them.
+

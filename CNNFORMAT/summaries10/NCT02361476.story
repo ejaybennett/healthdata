@@ -1,0 +1,40 @@
+(fifthQuint)Does Intraoperative Clonidine Reduce Post Operative Agitation in Children?.
+
+ BACKGROUND: Clonidine is widely used off-label in children for several indications such as treatment and/or prevention of postoperative agitation when anaesthetised with Sevoflurane.
+
+ However, the current level of evidence in support of Clonidine treatment for postoperative agitation in children remains limited.
+
+ In addition, the pharmacokinetic profile of intravenous Clonidine in children is not well characterized for age-groups.
+
+ METHODS/DESIGN: In this prospective multicentre double-blinded randomized clinical trial, the investigators aim to investigate the impact of intravenous (IV) Clonidine administered at the end of surgery, on the incidence and degree of postoperative agitation.
+
+ Children will be assigned to either the intervention or the placebo group.
+
+ The allocation will be carried out centrally and stratified based on age and trial-site, with152 patients allocated to each group.
+
+ In the intervention group, 3 micrograms per kg of IV clonidine is administered approximately 20 minutes before the expected completion of the surgery (as assessed by the surgeon).
+
+ In the control group; Saline (placebo) is injected in equal quantity during surgery at the same time.
+
+ The drugs are concealed in identical blinded ampoules.
+
+ The primary outcome is postoperative agitation measured on the Watcha scale.
+
+ Secondary outcomes include measurements of postoperative pain relief and adverse effects, including 30-day follow-up.
+
+ Twenty of the patients age 1-2 years and twenty age >2 years, with a peripheral venous access in place, will be allocated to drug assay sampling; enabling a compartmental PK analysis based on age group, using non-linear mixed effects models.
+
+.
+
+ Does Intraoperative Clonidine Reduce Post Operative Agitation in Children?@highlight
+
+Clonidine is widely used off-label in children for several indications.
+
+ Clonidine is used for treatment and/or prevention of postoperative agitation in children anaesthetised with Sevoflurane.
+
+ The investigators dont have solid evidence for the effect and the investigators dont have data for characterization of the pharmacokinetic profile among age-groups for children 1-6 years.
+
+ In this study the investigators want to investigate if IV Clonidine administered at the end of surgery can prevent/reduce postoperative agitation.
+
+ Secondary outcomes include measurements of postoperative pain relief and adverse effects, including a 30-day follow-up.
+

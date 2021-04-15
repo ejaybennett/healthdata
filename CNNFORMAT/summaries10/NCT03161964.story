@@ -1,0 +1,78 @@
+(fifthQuint)Propranolol in Treating Hypoglycemia Unawareness.
+
+ Type 1 diabetes mellitus (T1DM) can lead to serious and devastating complications, including microvascular (retinopathy, neuropathy and nephropathy) and cardiovascular disease.
+
+ Both diabetic microvascular and cardiovascular complications can be reduced with intensive insulin therapy and strict blood glucose control which target hemoglobin A1C to less than 7%.
+
+ However, tighter glycemic control correlates with a higher incidence of hypoglycemia and severe hypoglycemia.
+
+ Recurring exposure to hypoglycemia leads to an attenuated sympathoadrenal response to hypoglycemia (which is termed hypoglycemia-associated autonomic failure), and thus a loss or decrease in neurogenic hypoglycemic symptoms (i.
+
+e.
+
+ impaired awareness of hypoglycemia).
+
+ Impaired awareness of hypoglycemia is associated with a six-fold increased risk of severe hypoglycemia and physician or patient-directed higher glycemic goals.
+
+ Impaired awareness of hypoglycemia is therefore a major barrier in diabetes management, by precluding optimal glycemic control and realization of its full benefits.
+
+ Several therapeutic strategies have been proposed to improve hypoglycemia awareness in T1DM patients.
+
+ A temporal increase in glycemic goal only sustains hypoglycemia awareness recovery for a short-term.
+
+ Islet transplantation is invasive, extremely expensive and requires life-long use of immunosuppressants.
+
+ A widely available and affordable treatment with sustained efficacy for improving hypoglycemia awareness is therefore in urgent need.
+
+ Pharmaceutical agents targeting potential mechanisms that contribute to the development of impaired hypoglycemia awareness have been proposed, including beta-blockers, opioid receptor antagonists and selective serotonin uptake inhibitors (SSRIs).
+
+ However, none of these agents has been approved for the treatment of impaired hypoglycemia awareness.
+
+ The current pilot study will examine the clinical use of beta-blockers, specifically propranolol, for the treatment of impaired hypoglycemia awareness.
+
+ In a physiological condition, hypoglycemia leads to counterregulatory hormone responses, including catecholamines.
+
+ Catecholamine elevation mediates the development of neurogenic symptoms, including palpitation, anxiety and diaphoresis, and patient's recognition of a hypoglycemic episode.
+
+ Previous study suggests that recurring hypoglycemic events, potentially through repeated ventromedial hypothalamus (VMH) noradrenergic system activation, dampen the counterregulatory hormone response to hypoglycemia.
+
+ In addition, carvedilol (a non-specific beta-blocker) prevented hypoglycemia-associated autonomic failure development in rats made recurrently hypoglycemic.
+
+ Consistent with these findings, propranolol, which crosses blood brain barrier and blocks beta-2 adrenergic receptors, has been shown to prevent hypoglycemia-associated autonomic failure in healthy human subjects.
+
+ Thus, an intervention which can block the propagating mechanism(s) (i.
+
+e.
+
+ repeated activation of beta2-adrenergic receptors) will likely lead to sympathoadrenal function improvement, and thus increase hypoglycemic symptoms and hypoglycemia awareness.
+
+ Beta-blocker is one of the most extensively used medication classes in the United States, and has been commonly utilized in diabetes patients for cardiac diseases.
+
+ Although beta-blocker may theoretically attenuate hypoglycemic symptoms or lead to worsening of hypoglycemia, multiple studies have proven that beta-blockers increase hypoglycemic symptoms and can be safely used in insulin-dependent diabetes patients.
+
+ In particular, a retrospective study included more than 13,000 patients and examined the relationship between antihypertensive use and hypoglycemia, and this study supported that beta-blocker use was not associated with an increase in severe hypoglycemia.
+
+ As well, in a recent post-hoc analysis of a large type 2 diabetes intensive insulin therapy study (ACCORD), the group receiving beta-blocker and intensive insulin therapy had fewer cardiovascular events and comparable all-cause and cardiovascular death events compared to the group receiving beta-blocker and conventional therapy; this is thus evident for the safety of beta-blocker usage in patients undergoing intensive insulin therapy.
+
+ With the safety data and previous basic/clinical observations, it is therefore proposed that propranolol is a strong testing candidate for potential hypoglycemia-associated autonomic failure treatment.
+
+.
+
+ Propranolol in Treating Hypoglycemia Unawareness@highlight
+
+Impaired awareness of hypoglycemia is common in type 1 diabetes (T1DM) patients.
+
+ Impaired hypoglycemia awareness increases severe hypoglycemia risk by six-fold.
+
+ Severe hypoglycemia compromises quality of life and can potentially cause death.
+
+ The long-term goal of this pilot study is to lead to the development of novel therapeutic approaches to improve hypoglycemia awareness and thus prevent severe hypoglycemia development in T1DM population with impaired awareness of hypoglycemia.
+
+ It is hypothesized that propranolol will improve hypoglycemia recognition in T1DM.
+
+ The specific aims of the study are to determine whether propranolol treatment improves subjects' recognition of hypoglycemic episodes, and improves hypoglycemic awareness scores; whether propranolol favorably increases hypoglycemia blood glucose nadir, decreases onset-to-treatment/recovery time (i.
+
+e.
+
+ hypoglycemia duration), and reduces hypoglycemia/severe hypoglycemia frequency; and, whether propranolol reduces fear of hypoglycemia and improves overall blood glucose control.
+

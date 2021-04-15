@@ -1,0 +1,32 @@
+(fifthQuint)Effect of Different Anesthetics on the Change of Alarmins in Lung Cancer Patients Receiving Pulmonary Lobectomy.
+
+ During pulmonary lobectomy, as a result of OLV and surgical operation, patients can suffer from alveolar and systemic inflammatory response.
+
+ Alarmin is endogenous peptide released by white blood cells and epithelial cells when the body undergo danger signal stimulation which can enhance immune response and has a double effect on tumor.
+
+ Some alarmins and their soluble receptors such as HMGN1, HMGb1, IL-33 and their soluble receptors including sTLR4 and sST2 can be used as biomarkers for tumor progression.
+
+ Previous studies have shown that sevoflurane anesthesia can reduce the level of inflammatory cytokines in bronchoalveolar lavage fluid.
+
+ Meanwhile, the latest retrospective study indicated that the mortality of cancer patients receiving volatile anesthesia was significantly higher than that of intravenous anesthesia.
+
+ At this stage, no study aimed to investigate the change of alarmins in broncho-alveoli and serum during OLV lung surgery and the possible effect of different anesthetics on them.
+
+ Therefore, the investigators plan to enroll 40 patients with lung cancer receiving pulmonary lobectomy.
+
+ Patients are randomly divided into sevoflurane volatile anesthesia group and propofol intravenous anesthesia group (n=20).
+
+ Perioperative serum and bronchoalveolar lavage from ventilated lung are obtained, using ELISA method, to assay and compare the changes of alarmins such as HMGN1, HMGb1, IL-33 and their soluble receptors including sTLR4 and sST2 between two groups.
+
+ All the patients will be followed up for 12 months.
+
+ The correlation of alarmins and prognosis as well as the effect of volatile and intravenous anesthesia on the prognosis of patients will be preliminarily evaluated.
+
+.
+
+ Effect of Different Anesthetics on the Change of Alarmins in Lung Cancer Patients Receiving Pulmonary Lobectomy@highlight
+
+This study aim to observe and compare the change of alarmins such as high mobility group nucleosome-binding protein-1 (HMGN1), high mobility group proteins b1 (HMGb1), Interleukin (IL)-33 and their soluble receptors including soluble toll like receptor 4 (sTLR4) and soluble ST2 (sST2) during pulmonary lobectomy for cancer patients receiving volatile anesthesia or intravenous anesthesia under one-lung ventilation (OLV).
+
+ By which, this study will preliminarily evaluate the correlation of alarmins and prognosis as well as the effect of inhalational and intravenous anesthesia on the prognosis of surgical patients.
+

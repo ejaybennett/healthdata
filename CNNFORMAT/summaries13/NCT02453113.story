@@ -1,0 +1,28 @@
+(thirdQuint)Immune-Related Trafficking and Signaling in Human Skin Associated With Low-Power, Infrared Laser Treatment.
+
+ The researcher can use low power laser light one-minute exposures delivered to the skin at non-painful and non-damaging dose.
+
+ The resulted in significant immunologic changes in the skin that included up-regulation of specific skin tissue and skin genes and the activation and mobilization of specific skin cells.
+
+ In the first part of the study, the researcher will make a determination of the laser irradiance that will be tolerated.
+
+ The highest irradiance the subject tolerates for 1 minute will be identified as that subject's maximum tolerable irradiance.
+
+ After all subjects are tested, researcher will select the highest irradiance that was tolerated and use this in the second phase of the study.
+
+ Approximately 24 hours after the first test exposures, each subject will receive a one minute laser treatment at the maximum tolerable irradiance.
+
+ Four hours later, two skin biopsies will be collected from laser treated site a untreated.
+
+ One tissue sample will be test at UC Irvine Dept.
+
+ of Dermatopathology to evaluate microscopic skin changes, one skin sample will be delivered to Massachusetts General Hospital to evaluate RNA and protein expression.
+
+.
+
+ Immune-Related Trafficking and Signaling in Human Skin Associated With Low-Power, Infrared Laser Treatment@highlight
+
+The purpose of this is that the researcher can use low power Near Infrared laser treatment non-painful and non-damaging dose to changes the skin properties.
+
+The researcher can prove that signaling and a significant increase in the number of skin cells in skin tissue exposed to the laser can improve the human skin immune system to help improve human body response to vaccines.
+

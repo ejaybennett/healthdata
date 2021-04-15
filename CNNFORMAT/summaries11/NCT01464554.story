@@ -1,0 +1,42 @@
+(fifthQuint)Brief Substance Use Intervention for Youth in Teen Court.
+
+ It is well known that youth involved in the juvenile justice system have multiple problems, including an earlier onset of alcohol and drug use and higher rates of alcohol and drug use than their peers in the general population.
+
+ Several recent innovative treatment approaches have been developed to address substance use and the multiple problems that these at-risk youth experience.
+
+ What is less well documented, however, are innovative approaches to treat youth who are first time alcohol or drug offenders and who may just be beginning to experience problems due to their substance use.
+
+ The investigators propose a 4.
+
+5 year study to adapt and test an efficacious group intervention among teens who have committed a first time alcohol or other drug misdemeanor offense.
+
+ These teens have been referred by the juvenile Probation Department to a Teen Court program because they have not been found to need more serious intervention such as treatment or detention.
+
+ The objectives of the proposed research are to: Aim 1.
+
+ Design a developmentally sensitive intervention curriculum in which the investigators (a) utilize our previous work and components from relevant existing approaches targeting at-risk adolescents, (b) establish participant acceptance, and (c) establish feasibility of intervention delivery with the participants, providers and the proposed setting; Aim 2.
+
+ Implement a pilot test of the revised intervention with an adolescent population of first time offenders in which the investigators (a) demonstrate our ability to retain sufficient numbers of this population; (b) ensure intervention fidelity throughout the course of the study and (c) evaluate participant satisfaction, group engagement, and group climate; Aim 3.
+
+ Examine the impact of the intervention on cognitive and behavioral outcomes to determine (a) whether clinically significant changes in expectancies, perceived prevalence of peer use, self-change efforts, alcohol consumption, marijuana and other drug use, and related consequences occur; (b) if reductions occur, estimate the likely effect sizes, and (c) explore the mechanism of change for decreases in substance use and consequences through mediation analyses.
+
+ Our study seeks to narrow the gap between research and practice and builds upon recommendations by NIDA's Blue Ribbon Task Force by conducting research in a nonacademic setting with a population at high risk for alcohol and drug abuse.
+
+ This study will extend selective intervention research for at-risk youth, as it will be one of the first to examine the impact of a theoretically based selective intervention for first time juvenile Alcohol or Other Drug (AOD) offenders.
+
+.
+
+ Brief Substance Use Intervention for Youth in Teen Court@highlight
+
+Youth involved in the juvenile justice system have multiple problems, including an earlier onset of alcohol and drug use and higher rates of alcohol and drug use than their peers in the general population.
+
+ This 4.
+
+5 year study will develop and evaluate a new group intervention for youth who have committed a first time alcohol or drug offense.
+
+ Teens will be randomized to receive either usual care or the new group intervention.
+
+ Teens will complete a baseline, post-test (when they complete the intervention, which could vary for each teen but is typically around 6-8 weeks), and a 3-month follow-up survey upon completion of the intervention.
+
+ The investigators will examine outcomes for a variety of behaviors, including alcohol and drug use and assess whether there are differences between the teens who received usual care and the teens who received the new group intervention.
+

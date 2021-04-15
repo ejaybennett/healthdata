@@ -1,0 +1,31 @@
+(secondQuint)Mechanisms of Panic Disorders Treatment.
+
+ The study aims on investigating the effect of fear augmentation during in-vivo exposure by adding interoceptive exposure (e.
+
+g.
+
+, hyperventilation) in PD/AG patients.
+
+ By comparing the fear augmentation group with the therapist-guided CBT exposure, and by measuring autonomic arousal during and between exposure sessions, it will be possible to study the mechanisms of exposure based learning.
+
+ A second aim is to disentangle effects of specific interoceptive exposure exercises (e.
+
+g.
+
+, respiratory vs.
+
+ vestibular stimulation).
+
+ Finally, by including patients without agoraphobic avoidance it will be possible to investigate whether interoceptive exposure alone will have any effect.
+
+ This might open the door for early interventions for individuals after experiencing an initial panic attack to prevent the development of a severe panic disorder with agoraphobic avoidance.
+
+.
+
+ Mechanisms of Panic Disorders Treatment@highlight
+
+Investigation of mechanisms of exposure based learning by 1.
+
+ Investigating the effects of fear augmentation by interoceptive exposure during in vivo exposure 2.
+
+ Disentangling the effects of interoceptive exposure exercises in panic disorder

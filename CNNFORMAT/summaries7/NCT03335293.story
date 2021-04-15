@@ -1,0 +1,66 @@
+(fifthQuint)RCT of Epinephrine (None, 100mcg, and 200mcg) in a Hyperbaric Bupivacaine, Fentanyl and Morphine Spinal in C-sections.
+
+.
+
+ Spinal anesthesia is the most common type of anesthetic for C-section, but its major limitation is that the duration of the anesthesia may be less than the operative time.
+
+ Repeat C-section is particularly associated with increased operative time and is often performed under a continuous spinal-epidural (CSE) technique.
+
+ The epidural component is, however, untested and may not provide adequate anesthesia, thus necessitating the risk general anesthesia.
+
+ Epinephrine may be used to prolong spinal anesthesia.
+
+ This study will evaluate the optimal dose of epinephrine as an adjunct to usual spinal doses of 1.
+
+6 mL hyperbaric bupivacaine + 20 mcg preservative free fentanyl + 150 mcg preservative free morphine.
+
+ Adding epinephrine to hyperbaric bupivacaine helps in prolonging the duration of anesthesia and the quality of analgesia.
+
+ However, the time to regression of the block effective for surgical anesthesia is not known for a C-section.
+
+ Better quantification of this factor would help in choosing a spinal technique over a CSE in obstetric patients.
+
+ This study seeks to quantify the duration of effective spinal anesthesia with the addition of either 100 or 200 mcg of epinephrine to an intrathecal mixture of hyperbaric bupivacaine and narcotics.
+
+ With early local anesthetics such as metycaine, nupercaine, or tetracaine, epinephrine was shown to intensify and prolonged their effects.
+
+ Subsequent studies suggest that subarachnoid anesthesia with a combination of hyperbaric bupivacaine combined with an opioid and an adrenergic drug may be superior to techniques relying solely on local anesthetic drug.
+
+ However, most of the studies were conducted in an orthopedic population for ambulatory and total joint arthroplasty for elderly patients.
+
+ Currently, it is well accepted that the addition of intrathecal narcotics will enhance the quality and duration of a spinal block.
+
+ Two investigations sought to determine the ED 95 dose of hyperbaric bupivacaine in combination with fentanyl and morphine to provide surgical anesthesia for operative success for cesarean delivery.
+
+ Despite differences in spinal technique (sitting vs.
+
+ lateral) the ED95 dose was 11.
+
+2 and 12 respectively.
+
+ However, the mean duration of surgeries in those studies were significantly less (41 15 and 64 16 min respectively) than the mean duration of an elective C-section in our institution (90 27 min with a 95th percentile of 135 min).
+
+ Since 12mg hyperbaric bupivacaine is the upper limit of acceptable doses for an elective C-section this study will evaluate the efficacy of epinephrine to extend the duration of effective surgical anesthesia.
+
+.
+
+ RCT of Epinephrine (None, 100mcg, and 200mcg) in a Hyperbaric Bupivacaine, Fentanyl and Morphine Spinal in C-sections.
+
+@highlight
+
+This is a prospective, randomized, double blind study of 75 patients (n=25 for each group) in which epinephrine (100mcg or 200mcg) or normal saline vehicle is added to intrathecal hyperbaric bupivacaine (0.
+
+75% bupivacaine hydrochloride in 8.
+
+25% dextrose), fentanyl, and morphine to prolong the duration of the spinal anesthetic in scheduled cesarean deliveries.
+
+ The primary outcome of duration will be the time to T10 level sensory regression as well as motor level regression that will be graded via the modified Bromage scale.
+
+ Repeat cesarean sections, in particular, are associated with increased operative time and thus often performed with a spinal-epidural (CSE) technique.
+
+ The epidural component is, however, untested and may not provide adequate anesthesia, thus the higher risk of conversion to a general anesthesia.
+
+ Epinephrine is routinely used to prolong spinal anesthesia.
+
+ If effective for the duration of a repeat cesarean section it would obviate the additional time and risks of performing the epidural and still avoid sufficient duration to avoid conversion to a general anesthetic.
+

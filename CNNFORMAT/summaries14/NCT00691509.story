@@ -1,0 +1,42 @@
+(fifthQuint)Dietary Phytoestrogens, Complementary and Alternative Medicine, and Lifestyle in Predicting Survival of Women With Breast Cancer.
+
+ OBJECTIVES: - To determine if phytoestrogen intake affects breast cancer progression and survival in women with breast cancer.
+
+ - To consider the influence of other phytochemicals on breast cancer progression in these patients, using samples of patient blood and urine and patient-derived data.
+
+ - To develop a database of food, dietary supplements, and phytoestrogens based on data derived from these patients.
+
+ - To consider influences of diet and dietary supplements on quality of life of these patients.
+
+ - To measure 17 phytoestrogens in blood and urine samples from these patients.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients undergo blood and urine sample collection once a year for 5 years during routine clinical follow-up after breast cancer diagnosis and treatment.
+
+ Blood samples are frozen for future analysis of body hormones, tumor markers, and immune reactions, as well as vitamins and plant chemicals reflecting patient diet and supplements.
+
+ Blood samples are also analyzed for genetic studies of cancer risk factors and polymorphisms.
+
+ Urine samples are analyzed for the presence of phytoestrogens and their metabolites by immunoassays, high performance liquid chromatography (HPLC), and mass spectrometry.
+
+ Some samples are analyzed for estrogenic potency by the estrogen receptor-mediated chemical activated luciferase gene expression test to assess total plasma levels of estrogen-mimics not previously detected by the other tests.
+
+ Phytochemicals are also assessed.
+
+ Patients also complete a series of questionnaires once each year for 5 years and an EPIC 7-day Food Diary in years 2 and 4 to assess the role of diet and lifestyle in breast cancer survival.
+
+ The questionnaires include the EORTC Quality of Life-30 to assess lifestyle; the General Health Questionnaire 12 to assess general health and levels of anxiety; and up to two Food Frequency questionnaires to assess habitual dietary intake of phytoestrogens.
+
+ Patients are also asked about their use of dietary supplements and complementary and alternative medicine.
+
+.
+
+ Dietary Phytoestrogens, Complementary and Alternative Medicine, and Lifestyle in Predicting Survival of Women With Breast Cancer@highlight
+
+RATIONALE: Eating a diet rich in phytoestrogens may slow the growth of breast cancer cells and prevent further tumor progression.
+
+ Learning about the lifestyles of women with breast cancer, their intake of phytoestrogens derived from food and supplements, and their use of complementary or alternative medicine (CAM) practices may help doctors learn more about breast cancer.
+
+ PURPOSE: This clinical trial is studying the effect of dietary and supplemental phytoestrogens and CAM therapies in preventing progression and improving survival of women with breast cancer.
+

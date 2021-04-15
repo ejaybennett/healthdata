@@ -1,0 +1,28 @@
+(thirdQuint)Statin Therapy for Ischemic and Nonischemic Cardiomyopathy.
+
+ This study involves the testing of blood for cholesterol levels and flow cytometry tests to count the number of EPC's in your blood.
+
+ These tests are routinely performed to gain knowledge about a person's health.
+
+ If any incidental findings are identified as a result of your participation in this research study, you will be notified and referred to your doctor or appropriate health care professional.
+
+ You are being asked to provide a blood sample that will be used to determine the usual numbers of EPC's circulating in the blood of healthy people who have no risk factors for heart disease.
+
+ Your results will be compared with those of patients who have heart failure.
+
+ Flow cytometry is a special laboratory test that can count, separate, and detect characteristics of cells in blood.
+
+ Your blood sample will be analyzed using flow cytometry.
+
+ Endothelial progenitor cells (EPC's) are immature cells that are necessary for new blood vessel formation.
+
+ EPC's will be separated by flow cytometry and counted.
+
+ You will not be given the results of your flow cytometry study.
+
+.
+
+ Statin Therapy for Ischemic and Nonischemic Cardiomyopathy@highlight
+
+The purpose of this study is to see if taking a cholesterol lowering drug (LIPITOR(R)) will increase the number of endothelial progenitor cells (EPC's) circulating in the blood of heart failure patients taking this cholesterol-lowering drug, and if this will also show an improvement in the damaged areas of the patient's hearts as documented by MRI scans.
+

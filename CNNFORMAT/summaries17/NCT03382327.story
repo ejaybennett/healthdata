@@ -1,0 +1,26 @@
+(secondQuint)Benefit of the Use of 3D Models and Tools in Hepatectomy Planning for Hepatocarcinomas.
+
+ The detailed anatomical description of the liver described by Couinaud in 1954 is the basis for hepatic surgery.
+
+ Surgical resection is the approach leading to the best survival rate in case of liver cancer.
+
+ In hepatocarcinomas, systematic removal of the infected liver segment is considered the most effective technique to eliminate tumour, potential satellite nodules and avoid vascular spread.
+
+ Resectability rate highly depends on the analysis of preoperative images.
+
+ However, in 20% of cases, there are modifications compared with the initial surgical plan leading to an increase in morbidity rate.
+
+ In 2002, Couinaud highlighted the difficulty of identifying portal pedicles, especially because of anatomical variations, and recommended the use of a three-dimensional reconstruction from images provided by a helical scanner.
+
+ The hypothesis of the study is that 3D models would improve surgical planning leading to a decrease in intra-operative adjustments and mortality.
+
+ The aim of this multicentric, prospective study is to assess the benefit of 3D models in the surgical management of hepatocarcinomas, more specifically in the detailed analysis of 3D vascular structures and in the surgery planning with resection merges evaluation.
+
+ The validation of this virtual method will be built on the comparison of the surgical plan based on the analysis of conventional preoperative images (CT-scan and MRI) and the surgical plan based on the analysis of 3D reconstruction.
+
+.
+
+ Benefit of the Use of 3D Models and Tools in Hepatectomy Planning for Hepatocarcinomas@highlight
+
+The aim of this study is to assess the benefit of 3D models in the planning of hepatic resection by comparing the changes in the surgical plan based on the analysis of conventional preoperative images (CT-scan and MRI), compared to the surgical plan based on the analysis of 3D reconstruction.
+

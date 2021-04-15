@@ -1,0 +1,32 @@
+(thirdQuint)Enhancing Connections Program in Improving Family Adjustment in Patients With Incurable Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ Test the feasibility of the study protocol in advanced cancer patients and co-parents (recruitment/retention, dosage and fidelity of the intervention; program acceptability of program; and logistics).
+
+ II.
+
+ Evaluate the short-term impact of the program on the diagnosed parents', co-parents' and children's adjustment and family functioning using a within group design (pre- and posttest design).
+
+ III.
+
+ Compare outcomes from the Enhancing Connections Palliative Program with similar outcomes obtained from the completed phase III trial (between group design) for the patients and children outcomes.
+
+ IV.
+
+ Evaluate the longer term impact of the program on the co-parents' and children's adjustment, including bereavement outcomes when appropriate, using a within and across group design (pre- and posttest design).
+
+ OUTLINE: Patients and co-parents participate in the Enhancing Connections program consisting of 5 sessions over 1 hour each in the clinic or over the telephone.
+
+ Session topics include managing cancer-related emotions when talking to children, developing deep listening skills, initiating difficult cancer-related conversations with children, interpreting a child's behavior, recognizing newly acquired gains from the program, and identifying available resources that can be used after program completion.
+
+ After completion of the study, participants are followed-up at 6 months.
+
+.
+
+ Enhancing Connections Program in Improving Family Adjustment in Patients With Incurable Cancer@highlight
+
+This pilot clinical trial studies how well the Enhancing Connections program improves family adjustment in patients with incurable cancer.
+
+ Participating in an educational program with a co-parent to learn about ways to talk to a child about cancer may help parents and co-parents support their child with the parent's cancer and may help families communicate and function better.
+

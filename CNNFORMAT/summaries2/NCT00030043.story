@@ -1,0 +1,22 @@
+(firstQuint)An Implant for Hearing Loss Due to Removal of Neurofibromatosis 2 Tumors.
+
+ Neurofibromatosis Type 2 (NF2) is characterized by multiple tumors of the cranial and spinal nerves, and, in particular, by bilateral acoustic tumors.
+
+ Surgical resection of these tumors generally results in the transection of the VIIIth nerve, destruction of the cochlea and auditory nerve, and total hearing loss.
+
+ Due to the loss of the auditory nerve, these patients are not candidates for cochlear implantation.
+
+ The Auditory Brainstem Implant (ABI) provides the only available intervention to restore some auditory sensation to these patients.
+
+ An ABI is an implantable prosthesis that produces sound sensation by electrical stimulation of the ascending auditory pathway at the level of the cochlear nucleus.
+
+ The PABI may be placed surgically during tumor resection.
+
+ Efficacy will be assessed using psychophysical and standard speech reception measures.
+
+.
+
+ An Implant for Hearing Loss Due to Removal of Neurofibromatosis 2 Tumors@highlight
+
+This is a study to gather some information on the safety and efficacy of the penetrating auditory brainstem implant (PABI) in patients with neurofibromatosis type 2.
+

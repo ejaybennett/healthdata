@@ -1,0 +1,32 @@
+(thirdQuint)Efficacy of Azithromycin in Treatment of Bronchiectasis.
+
+ Previous studies of various macrolides with small sample sizes have reported some benefit with the reduction of sputum volume in bronchiectasis patients.
+
+ However, macrolide therapy could not yet be confidently used to treat bronchiectasis, given the diffuse nature of these findings.
+
+ These studies have had a wide range of hypotheses, and have not necessarily focused on the anti-inflammatory effects of macrolides.
+
+ Furthermore, these studies are few in number, and not all have been placebo-controlled or double-blinded.
+
+ This, combined with the small sample sizes used, limits the reliability of these results.
+
+ This study aims to expand on these limited published findings by investigating a larger sample population with different endpoints.
+
+ Sputum volume and quality of life have been selected as important variables to aid in assessing efficacy.
+
+ This study aims to be independent of previous studies in a number of ways.
+
+ This is the only study of bronchiectasis patients to formally investigate quality of life after treatment with a macrolide, and the potential carryover effect of azithromycin therapy.
+
+ This study will also expand on the findings of previous studies of macrolides in bronchiectasis by incorporating a larger sample size into the trial.
+
+.
+
+ Efficacy of Azithromycin in Treatment of Bronchiectasis@highlight
+
+Bronchiectasis is a chronic lung condition characterised primarily by dilatation of the airways.
+
+ Only a small number of clinical studies have been conducted investigating the use of macrolides to treat non-cystic fibrosis bronchiectasis.
+
+ The purpose of this study is to determine the efficacy of 12 weeks treatment with azithromycin in adult patients with non-cystic fibrosis bronchiectasis.
+

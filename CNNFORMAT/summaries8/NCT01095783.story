@@ -1,0 +1,17 @@
+(firstQuint)Treatment of Low Back Pain in Patients With End-stage Renal Disease on Hemodialysis.
+
+ Low back pain is a significant morbidity in chronic hemodialysis patients affecting about 1/3 of them.
+
+ Among the physiotherapeutic interventions, the McKenzie Method (Spine 1983;8:141-4), has shown to be an effective approach to manage patients with low back pain.
+
+ More specifically, it consists on standardized repetitive flexion and extension exercises of the lumbar spine.
+
+ Thus far, there has been no randomized intervention testing the effectiveness of physiotherapeutic interventions in chronic renal failure patients on hemodialysis.
+
+ In this study we selected four of their main proposed exercises (flexion in standing, extension in standing, flexion in lying, and extension in lying position) to apply three times a week for eight weeks.
+
+.
+
+ Treatment of Low Back Pain in Patients With End-stage Renal Disease on Hemodialysis@highlight
+
+The purpose of this study is to determine whether a physiotherapeutic intervention is effective in the treatment of low back pain in hemodialysis patients

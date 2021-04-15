@@ -1,0 +1,14 @@
+(thirdQuint)Telaprevir, Peg-IFN-alfa-2a, and RBV in Treatment-Experienced Black/African American and Non-Black/African American Subjects With Genotype 1 Chronic Hepatitis C.
+
+ This is a single-arm, open-label, multicenter study of treatment-experienced participants with Genotype 1 CHC, who self-identified as Black/African American (Group A) or who did not self-identify as Black/African American (Group B).
+
+ Participants did not achieve a sustained virologic response 24 weeks after at least 1 prior course of Peg-IFN-alfa-2a/RBV therapy of standard duration, and have 1 of the following viral responses: - Prior relapse: Participant had a documented undetectable hepatitis C virus ribonucleic acid (HCV RNA) level at the planned end of treatment of at least 42 weeks duration (HCV RNA evaluated anytime between 3 weeks before and 6 weeks after the last dose of Peg IFN-alfa-2a or RBV).
+
+ - Prior null response: Participant had a =2-log10 decrease in HCV RNA at 12 weeks, during prior Peg IFN-alfa-2a/RBV treatment, but never achieved undetectable HCV RNA while on treatment.
+
+.
+
+ Telaprevir, Peg-IFN-alfa-2a, and RBV in Treatment-Experienced Black/African American and Non-Black/African American Subjects With Genotype 1 Chronic Hepatitis C@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of telaprevir in combination with pegylated interferon alfa 2a (Peg-IFN-alfa-2a) and ribavirin (RBV) in treatment-experienced Black/African American and non-Black/African American participants with Genotype 1 Chronic Hepatitis C (CHC), who have not achieved a sustained viral response with a prior course of interferon-based therapy.
+

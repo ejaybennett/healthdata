@@ -1,0 +1,28 @@
+(firstQuint)Comorbidities and Indirect Health State Utility in Hip and Knee Osteoarthritis.
+
+ The concept of health utility state was developed by economists to explain individual choices and preferences for health states.
+
+ It is expressed as the "desirability or preference that individuals exhibit for the condition".
+
+ This health utility state can be measured indirectly using health-relation quality of life questionnaires.
+
+ Chronic diseases such as OA are known to be associated with impairment of quality of life.
+
+ Given that OA prevalence increases with age, OA is often associated with other diseases (comorbidities).
+
+ A cross-sectional study showed that comorbidities are associated with lower health utility state in OA.
+
+ Investigation of longitudinal impact of comorbidities on health utility state change is need.
+
+ Main objective: Determine the impact of comorbidities on change in health utility state among patients with lower limb OA.
+
+ Secondary objective: Determine the Minimal Clinically important Difference in health utility state among patients with lower limb OA.
+
+ The COMUTAR study uses longitudinal data from the Knee and Hip Osteoarthritis Longitudinal Assessment (KHOALA) cohort study.
+
+ Health utility state is measured indirectly using Medical Outcome Study Short Form-36 quality of life questionnaire Comorbidities are assessed using the Functional Comorbidity Index.
+
+ Comorbidities and Indirect Health State Utility in Hip and Knee Osteoarthritis@highlight
+
+National cohort study aimed to investigate the impact of comorbidities (number and type of comorbidities) on health utility state change in lower lim osteoarthritis (hip and knee OA).
+

@@ -1,0 +1,19 @@
+(secondQuint)Fit for Two: Incorporating Wearable Trackers Into Clinical Care for Pregnant Women With Diabetes (FFT).
+
+ This is a small, one-armed pilot study testing a physical activity intervention for pregnant patients with diabetes.
+
+ The intervention will use both counseling and technology (a FitBit physical activity tracker and smartphone app) to create an individualized, interactive program for each patient.
+
+ The primary aims of the study are to assess the feasibility of recruiting patients and implementing the program in the clinical setting, and the acceptability of the program for patients and clinicians.
+
+ Participants will receive a counseling session based on the principles of motivational interviewing to help them set physical activity and step goals, then the interventionist will help them personalize the Fitbit app to their goals.
+
+ Participants are instructed to continue adaptive goal setting and email their goals and activity weekly to their physicians.
+
+ In addition to assessing feasibility and acceptability, we will also evaluate change in activity to explore potential efficacy.
+
+.
+
+ Fit for Two: Incorporating Wearable Trackers Into Clinical Care for Pregnant Women With Diabetes (FFT)@highlight
+
+This study will investigate the feasibility of an intervention to increase physical activity in pregnant women with diabetes by incorporating a brief in-person counseling session and Fitbit activity trackers into routine clinical care

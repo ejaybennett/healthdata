@@ -1,0 +1,13 @@
+(firstQuint)Effectiveness Study of Hylan G-F 20 to Preserve Cartilage in Osteoarthritis of the Knee.
+
+ Two courses of Hylan G-F 20 ( Synvisc) administered by intra-articular injection at 6 monthly intervals.
+
+ MRI examinations of the knee for estimation of cartilage volume prior to treatment, before second course and at 12 months in 40 subjects with Grade 2/3 osteoarthritis of knee .
+
+ A further 40 subjects with similar degree of osteoarthritis of knee who do not receive Hylan G-F therapy will be assessed by MRI in identical manner.
+
+.
+
+ Effectiveness Study of Hylan G-F 20 to Preserve Cartilage in Osteoarthritis of the Knee@highlight
+
+That Hylan G-F 20 may act to protect cartilage from the expected degree of degradation over a 12 month period in subjects with moderate to marked osteoarthritis of the knee

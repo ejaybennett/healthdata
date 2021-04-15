@@ -1,0 +1,16 @@
+(firstQuint)M-learning to Improve Professional Competencies in Health Sciences.
+
+ The learning environment in Higher Education as well as autonomous work of students, mobile technology is increasingly present due to the mass use of mobile devices and the development of high speed in data transmission, which provides today the possibility of being able to access in real time a great amount of information.
+
+ M-learning is defined as the ability to access educational resources, tools and materials using a mobile device anytime and anywhere.
+
+ Considering the advantages of this technology, m-learning can be a real option to the traditional teaching-learning method by encouraging the active participation of students in their own learning process.
+
+ Therefore, this educational innovation study aims to evaluate the effectiveness and the use of a mobile application as a complementary learning strategy in interactive format for the acquisition of professional competencies in Health Sciences.
+
+.
+
+ M-learning to Improve Professional Competencies in Health Sciences@highlight
+
+The aim of this study is to investigate whether a mobile application is useful for improving knowledge about professional competencies in students enrolled in Health Sciences degrees.
+

@@ -1,0 +1,57 @@
+(fifthQuint)A Helping Hand Among Low-Income Patients.
+
+ Major depression, plus other chronic illness such as diabetes, coronary heart disease and heart failure is common among low-income, culturally diverse safety net care patients.
+
+ Unfortunately, many of these patients are uncomfortable about either asking their doctor questions about their illness and treatment options and their illness self-care or informing their doctors about their treatment preferences.
+
+ Lack of strong engagement with medical providers occurs because patients believe they lack the knowledge to ask questions or to understand and follow recommended self-care and their concern that their medical provider lacks understanding of their treatment preferences.
+
+ These factors often result in patient worry, poor adherence to prescribed treatment, and worsening illness status and even early death.
+
+ The study will be conducted by a university, the Los Angeles County Department of Health Services (DHS) and a community health worker organization research team.
+
+ The study will be conducted within two DHS Patient-Centered Medical Home clinics, with each patient having a designated primary care team of physician, nurse, social worker and medical assistant.
+
+ Study patients with major depression and other illnesses face numerous self-care management barriers: managing concurrent symptoms (depression, pain, anxiety etc.
+
+) and cultural influences (depression stigma, diet), difficulty in navigating primary and specialty doctor and treatment plans, while at the same time experiencing daily social and economic stress.
+
+ The randomized comparative effectiveness study plans to recruit 350 patients with major depression and a concurrent chronic illness (i.
+
+e.
+
+, diabetes, heart failure, coronary heart disease) from two DHS PCMH community health centers.
+
+ To enhance patient-centered research community partnerships, patients will be provided A Helping Hand (AHH) in which a community organization- based promotora aims to activate patient-centered depression self-care training and practical assistance to: a) improve and personalize major depression self-care (e.
+
+g.
+
+, medication or psychotherapy preference, treatment adherence, fatigue, pain, diet, activity, stress management, family/caregiver communication); b) activate patient-provider communication, clinic appointment keeping and treatment coordination; and c) and facilitate patient navigation and receipt of needed community resources.
+
+ AHH aims to improve patient self-care management and patient-provider care management relationships among underserved low-income patients, who must simultaneously cope with major depression and chronic co-morbid physical illness.
+
+ Study objectives aim to determine: 1) whether community health worker promotora care management training improves patient-centered outcomes, such as self-care need and management, treatment adherence, symptom improvement, and care satisfaction over the usual team care; 2) depression symptom improvement; and 3) patient hospitalizations and ER visits frequency.
+
+.
+
+ A Helping Hand Among Low-Income Patients@highlight
+
+Study Hypotheses (Ho) and Research Questions (RQ): - Ho1.
+
+ AHH will significantly improve patient depression treatment acceptance/adherence and depression symptoms vs UC at 6 and 12 months post-baseline.
+
+ - Ho2.
+
+ A Helping Hand (AHH) will significantly improve and sustain patient self-care management in Self-Efficacy for Managing Chronic Disease (SEMCD) and Quality of Life vs UC at 6 and 12 months post-baseline.
+
+ - RQ1.
+
+ What is the association between depression symptoms and concurrent chronic illness self-care management over time by group? - RQ2.
+
+ Will AHH reduce hospitalizations and Emergency Room visits and improve clinic appointment-keeping? - RQ3.
+
+ Will patient care satisfaction and reported barriers to self-care management vary by study group? - RQ4.
+
+ What factors are identified via qualitative assessments of patients, promotoras, Department of Health Services (DHS) medical and social work providers, and DHS clinic/organizational leadership regarding satisfaction with, sustainable uptake of, and suggested modifications of the AHH promotora delivery model? - RQ5.
+
+ What potential technology applications would enhance promotoras delivering patient-centered self-care training and resource navigation, communicating and integrating care with DHS, and disseminating AHH?

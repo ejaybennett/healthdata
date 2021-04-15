@@ -1,0 +1,36 @@
+(thirdQuint)Epidemiology of Hepatitis C Virus Infection Among Opioid Substituted Patients.
+
+ In this non-interventional, observational, longitudinal study, data is collected at two time points.
+
+ The primary outcome measures HCV prevalence and incidence will be based on documentation from routine patient care at baseline and 12-month follow-up.
+
+ Secondary outcome measures will be investigated by means of surveys of opioid substituted patients and their clinicians (completed at baseline), as well as data from routine patient care.
+
+ The sample size calculation is based on the primary outcome variable of HCV incidence among OST patients.
+
+ The literature reports an HCV incidence of about 4/100 person-years +/- 2 new infections per 100 person-years in this target group.
+
+ For a partial sample size of (at least) 32 patients with HCV seroconversion and an observation period of 1 year, 800 HCV antibody-negative patients are needed as an initial group for observation.
+
+ Assuming an HCV antibody prevalence of 68% among OST patients, 2500 patients are needed in total (32% corresponds to N = 800).
+
+ Recruitment of clinicians is conducted via the national Substitution Registry in which all clinicians in Germany, who hold a qualification to prescribe substitution medication, are registered.
+
+ To ensure that all substituting clinicians in Germany are considered in the present study, the investigators sent study invitations to all 3,356 addresses in the Substitution Registry as of 31.
+
+12.
+
+2013.
+
+ Of the clinicians eligible for participation, a representative sample of clinician is drawn according to two criteria: 'German Federal State' (GFS) and 'Number of Patients Per Clinician' (PPC).
+
+ Using the SPSS Complex Samples Procedure, clinicians are stratified by GFS and PPC, such that each GFS is represented at least once, and such that the same proportions of clinicians per GFS and per PPC category are achieved (to the best of our ability) as in the total sample of clinicians registered in the Substitution Registry.
+
+.
+
+ Epidemiology of Hepatitis C Virus Infection Among Opioid Substituted Patients@highlight
+
+The aim of the present study is to estimate the national annual prevalence and incidence of current hepatitis C virus (HCV) infections among opioid dependent individuals in opioid substitution treatment (OST) based on a representative sample of approximately 2,500 outpatients in 100 substitution facilities across Germany.
+
+ Furthermore, the study aims to describe factors influencing HCV therapy initiation and seroconversion during OST.
+

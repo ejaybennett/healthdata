@@ -1,0 +1,100 @@
+(fifthQuint)BAY 43-9006 Plus Cetuximab to Treat Colorectal Cancer.
+
+ Background: Colorectal cancer (CRC) is a major public health problem; 5-year survival with widespread metastatic disease is less than 5%.
+
+ Expression of epidermal growth factor receptor (EGFR) or up-regulation of the gene occurs in 60-80% of cases.
+
+ Therapies targeting EGFR, like cetuximab, have shown activity in the treatment of solid tumors like CRC.
+
+ Cetuximab is Food and Drug Administration (FDA) approved for the treatment of EGFR-expressing CRC, but clinical responses to cetuximab are seen in only 10% of EGFR-expressing CRC.
+
+ Recent data strongly implicate KRAS (Kirsten rat sarcoma viral oncogene homolog) mutations as a mechanism of resistance to anti-EGFR antibody therapies such as cetuximab.
+
+ Another major pathway implicated in colon carcinogenesis is the vascular endothelial growth factor (VEGF) pathway, which is involved in angiogenesis and is a validated target for therapy in CRC.
+
+ BAY 43-9006 is both a Raf kinase inhibitor and an inhibitor of VEGF receptor (VEGFR2) tyrosine kinase.
+
+ We hypothesize that the combined inhibition of EGFR, VEGFR2, and the Ras-Raf pathway will demonstrate promising clinical activity in CRC; furthermore, in patients with mutant KRAS, combination of cetuximab with a drug that inhibits Raf kinase and acts downstream of Ras mutations, could restore tumor sensitivity to cetuximab.
+
+ Objectives: To determine the rate of response (CR (complete response) +PR (partial response) +SD (stable disease) for 4 months) and toxicity profile of combination of BAY 43-9006 and cetuximab in previously treated EGFR-expressing metastatic CRC in patients with mutant KRAS.
+
+ To evaluate BAY 43-9006 pharmacokinetics & pharmacogenomics (CYP3A4/5).
+
+ To evaluate for this combination treatment pharmacodynamics in tumor biopsies, effect on tumor vascularity, and effect on angiogenic cytokines.
+
+ Eligibility: Adults with histologically or cytologically documented, measurable, EGFR-expressing metastatic CRC, which has recurred or progressed following at least one prior Fluorouracil (5FU)-based combination chemotherapy regimen administered for the treatment of metastatic disease.
+
+ Patients must be KRAS mutation-positive Design: BAY 43-9006 will be administered 400 mg by mouth twice daily.
+
+ Cetuximab will be administered as 400 mg/m^2 loading dose (week 1) followed by 250 mg/m^2 intravenous (IV) weekly.
+
+ Optional PET (positron emission tomography) /CT (computed tomography) imaging with (89)Zr-labeled, EGFR-targeting antibody panitumumab may be performed to evaluate radiation dosimetry, safety, and tumor distribution prior to and following treatment with study agents.
+
+ Patients will be evaluated for response every 8 weeks using the Response Evaluation Criteria in Solid Tumor (RECIST) criteria.
+
+ This trial uses a phase II optimal design targeting a response rate as defined above of 20% in patients with mutant KRAS.
+
+ Up to 49 patients may be treated.
+
+ Patients will be stratified by tumor KRAS status (wild type vs.
+
+ codon 12/13 mutation in KRAS).
+
+ Optional correlative (89)Zr-panitumumab PET/CT imaging may be performed in up to 20 participants.
+
+ For the first 5 patients, (89)Zr-panitumumab will be administered at baseline (within 10 days prior to starting cetuximab).
+
+ PET/CT imaging will be performed up to 4 times: 2-6 hours following (89)Zr-panitumumab injection, 1-3 days following injection, 7-8 days following injection, and at the end of cycle 1/beginning of cycle 2, to obtain human dosimetry calculations.
+
+ If uptake into tumors is shown to be measurable in these first 5 patients, up to 15 subsequent patients will be administered (89)Zr-panitumumab before cetuximab infusion (within 10 days prior to starting cetuximab) and have one PET/CT scan prior to the initial cetuximab infusion and a second (89)Zr-panitumumab infusion and scan at the end of cycle 1/beginning of cycle 2 (not shown in schema).
+
+ A diary will be provided for subjects to record taking study medication and side effects.
+
+.
+
+ BAY 43-9006 Plus Cetuximab to Treat Colorectal Cancer@highlight
+
+Background: - Colorectal cancer (CRC) is a major public health problem in the U.
+
+S.
+
+ and worldwide, and 5-year survival with widespread metastatic disease is less than 5%.
+
+ - Expression of epidermal growth factor receptor (EGFR) or up-regulation of the gene occurs in the majority of CRC cases (60-80%).
+
+ - Therapies targeting EGFR, like cetuximab, have shown activity in the treatment of solid tumors like CRC.
+
+ - Cetuximab is FDA (Food and Drug Administration) approved for the treatment of EGFR-expressing CRC, but clinical responses to cetuximab are seen in only 10% of EGFR-expressing CRC.
+
+ - One possible mechanism of resistance to cetuximab could be KRAS (Kirsten rat sarcoma) mutations.
+
+ - Another major pathway implicated in colon carcinogenesis is the vascular endothelial growth factor (VEGF) pathway, which is involved in angiogenesis and is a validated target for therapy in CRC.
+
+ - BAY 43-9006 is both a Raf kinase inhibitor and an inhibitor of VEGF receptor (VEGFR2) tyrosine kinase.
+
+ - We hypothesize that the combined inhibition of EGFR, VEGFR2, and the Ras-(rapidly accelerated fibrosarcoma) Raf pathway will demonstrate promising clinical activity in CRC.
+
+ Furthermore, in patients with mutant KRAS, combination of cetuximab with a drug that inhibits Raf kinase and acts downstream of Ras mutations, could restore tumor sensitivity to cetuximab.
+
+ Objectives: - To determine the rate of response (complete response (CR) + partial response (PR) + stable disease (SD) for 4 months) and toxicity profile of combination of BAY 43-9006 and cetuximab in previously treated EGFR-expressing metastatic CRC in patients with mutant KRAS.
+
+ - To evaluate BAY 43-9006 pharmacokinetics & pharmacogenomics (CYP3A4/5 (cytochrome P450 3A4/5)).
+
+ - To evaluate for this combination treatment pharmacodynamics, effect on tumor vascularity and effect on angiogenic cytokines.
+
+ Eligibility: - Adults with histologically or cytologically documented, measurable, EGFR-expressing metastatic CRC, which has recurred or progressed following at least one prior 5FU (Fluorouracil)-based combination chemotherapy regimen administered for the treatment of metastatic disease.
+
+ - Patients must be KRAS mutation-positive.
+
+ Design: - BAY 43-9006 will be administered 400 mg by mouth twice daily - Cetuximab will be administered as 400 mg/m^2 loading dose (week 1) followed by 250 mg/m^2 IV (intravenous) weekly.
+
+ - If procedure may be performed safely, tumor biopsy will be obtained prior to treatment and after 4 weeks of treatment.
+
+ - Optional positron emission tomography (PET)/computerized tomography (CT) imaging with 89Zr-labeled, EGFR-targeting antibody panitumumab may be performed to evaluate radiation dosimetry, safety, and tumor distribution prior to and following treatment with study agents.
+
+ - Patients will be evaluated for response every 8 weeks using the RECIST (Response Evaluation Criteria in Solid Tumors) criteria.
+
+ - This trial uses a phase II optimal design targeting a response rate as defined above of 20% in patients with mutant KRAS.
+
+ Up to 49 patients may be treated.
+

@@ -1,0 +1,16 @@
+(firstQuint)Multicenter Study Evaluating the Safety of Proellex in Premenopausal Women With Uterine Fibroids.
+
+ Subjects will be randomized to either Proellex dose, 25 mg or 50 mg, in a 1:1 ratio.
+
+ Subjects will receive drug for a four (4) month cycle of therapy three (3) times, each treatment cycle being separated by an off-drug interval until menstruation occurs.
+
+ During the treatment periods, all subjects will be assessed monthly.
+
+ Subjects will undergo an additional follow-up for 3 months following their last treatment visit.
+
+.
+
+ Multicenter Study Evaluating the Safety of Proellex in Premenopausal Women With Uterine Fibroids@highlight
+
+The safety of Proellex 25 and 50 mg administered once daily for three treatment cycles (four months each) will be evaluated.
+

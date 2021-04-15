@@ -1,0 +1,38 @@
+(fifthQuint)Using Nasal Broadband Glasses in the Initial Management of Severe Bronchiolitis in Infants Admitted in ICU.
+
+ Bronchiolitis in infants is a common and potentially serious disease.
+
+ It corresponds to an acute pulmonary disease and dyspnea usually viral (70 to 80% of Respiratory syncytial virus RSV in infants less than 1 year).
+
+ It particularly affects infants under 2 years.
+
+ The 2001 consensus conference and bronchiolitis 2006 on the management clarified the criteria for hospitalization and simplified therapeutic attitudes.
+
+ These conferences have highlighted the importance of humidification, the nasopharyngeal desobstruction for less severe forms of oxygen therapy and for others.
+
+ Recent literature has also shown that the use of noninvasive ventilation type CPAP (Continuous Positive Airway Pressure) nasal or broadband nasal glasses (HFNC: High Flow Nasal canula) in severe forms possible to reduce the work of breathing of children with severe bronchiolitis and their use in studies "before / after" was accompanied by a significant decrease in the use of invasive ventilation.
+
+ The HFNC and nasal CPAP can deliver warmed humidified gas through a nasal interface, greatly improving the safety and efficacy of administering O2.
+
+ These devices generate a continuous positive pressure in the airways, for decreasing the work of breathing.
+
+ The sealing absence of the HFNC at the nasal interface improves patient comfort and avoiding nasal trauma, sometimes encountered with nasal CPAP interfaces.
+
+ The HFNC is a simple, effective and safe, commonly used in severe bronchiolitis admitted in ICU (Intensive Care Unit).
+
+ However instead of this technique is not yet well defined.
+
+ The investigators assume that the use of HFNC in severe bronchiolitis in first line allows sufficient respiratory improvement to avoid recourse to other technical assistance ventilatory more binding.
+
+.
+
+ Using Nasal Broadband Glasses in the Initial Management of Severe Bronchiolitis in Infants Admitted in ICU@highlight
+
+The aim of this study is to evaluate the use of nasal broadband glasses HFNC (High Flow Nasal Cannula) in the initial management of severe bronchiolitis in infants admitted in ICU.
+
+ Nasal HFNC can deliver warmed humidified gas through a nasal interface, greatly improving the safety and efficacy of administering O2.
+
+ This device generates a continuous positive pressure in the airways, to reduce the work of breathing.
+
+ The sealing absence of the HFNC at the nasal interface improves patient comfort and avoiding nasal trauma.
+

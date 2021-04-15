@@ -1,0 +1,26 @@
+(secondQuint)Acupuncture in Patients With Carpal Tunnel Syndrome ~ A Randomized Controlled Trial.
+
+ A total of 77 consecutive and prospective CTS patients confirmed by NCS were enrolled in the study.
+
+ Those who had fixed sensory complaint over the median nerve and thenar muscle atrophy were excluded.
+
+ The CTS patients were randomly divided into 2 treatment arms: (1) 2 weeks of prednisolone 20 mg daily followed by 2 weeks of prednisolone 10 mg daily (n =39), and (2)acupuncture administered in 8 sessions over 4 weeks (n=38).
+
+ A validated standard questionnaire as a subjective measurement was used to rate the 5 major symptoms (pain, numbness, paresthesia,weakness/clumsiness, and nocturnal awakening) on a scale from 0 (no symptoms) to 10 (very severe).
+
+ The total score in each of the 5 categories was termed the global symptom score (GSS).
+
+ Patients completed standard questionnaires at baseline and 2 and 4 weeks later.
+
+ The changes in GSS were analyzed to evaluate the statistical significance.
+
+ NCS were performed at baseline and repeated at the end of the study to assess improvement.
+
+ All main analyses used intent-to-treat.
+
+.
+
+ Acupuncture in Patients With Carpal Tunnel Syndrome ~ A Randomized Controlled Trial@highlight
+
+To investigate the efficacy of acupuncture compared with steroid treatment in patients with mild-to-moderate carpal tunnel syndrome (CTS) as measured by objective changes in nerve conduction studies (NCS) and subjective symptoms assessment in a randomized, controlled study.
+

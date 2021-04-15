@@ -1,0 +1,22 @@
+(firstQuint)Osteoarthritis and Body Composition: Evaluation of Systematic Mediators.
+
+ Banked serum and urine specimens obtained from NIA Baltimore Longitudinal Study on Aging (BLSA) participants with and without knee OA will be used to determine inflammatory, metabolic, bone and joint biomarkers in an observational, case-control study.
+
+ This study will be limited to BLSA data and samples that have already been acquired and stored.
+
+ The specific aims of this study are to: 1.
+
+ Examine the association between prevalent radiographic osteoarthritis (OA), concurrently obtained inflammatory and metabolic mediator levels and change in bone density and bone markers over time subsequent to radiographic classification.
+
+ 2.
+
+ Determine levels of inflammatory, metabolic and bone markers, and body composition when radiographic OA was absent, and examine their relationship to the development of radiographic knee OA.
+
+ Adjustments will be made for age, gender, body mass index and level of physical activity.
+
+.
+
+ Osteoarthritis and Body Composition: Evaluation of Systematic Mediators@highlight
+
+The purpose of this study is to examine the relationship between body composition and knee osteoarthritis, and effects of inflammatory, metabolic, and hormonal factors.
+

@@ -1,0 +1,20 @@
+(thirdQuint)HIPEC For Peritoneal Surface Malignancies Including Carcinomatosis or Sarcomatosis  Data Registry.
+
+ Patient Selection: The sole inclusion criteria for this study will be those consenting patients who are to undergo cytoreductive surgery followed by HIPEC.
+
+ Data Collection and Use Plan: For those patients who provide informed consent, data listed below will be collected during and after treatment.
+
+ This will be entered into the PI's local database for future use and, after being de-identified, will be shared with a national database (held by the American Society of Peritoneal Surface Malignancies) to bolster the amount available for researchers looking at efficacy and outcomes such as overall survival rates, progression-free survival, and tolerability in certain populations.
+
+ Data Collected (as applicable): Age, primary tumor, dates of prior surgeries, prior chemotherapy with dates and whether it was neoadjuvant in nature, length of disease status, comorbidities, Peritoneal Surface Disease Severity Score, Peritoneal Cancer Index as determined prior to surgery, Peritoneal Cancer Index as determined during surgery, Completeness of Cytoreduction score, ascites present, blood products used, complications, length of stay in ICU and in hospital, where discharged, death within 30 days, readmission and reason, date of recurrence, treatment of recurrence, and time from procedure to death.
+
+ For the HIPEC surgical procedure itself, data collected will be: date, duration, chemotherapeutic used and dose, duration of circulation, fluid temp, and flow rate.
+
+.
+
+ HIPEC For Peritoneal Surface Malignancies Including Carcinomatosis or Sarcomatosis  Data Registry@highlight
+
+In this registry study the investigators will collect data about patients' disease, treatment, and response to treatment to include in both our local and national databases.
+
+ These can then be used by investigators to answer questions about cytoreductive surgery/HIPEC such as how well-tolerated or effective it is in specific populations.
+

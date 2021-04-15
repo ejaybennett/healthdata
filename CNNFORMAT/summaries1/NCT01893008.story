@@ -1,0 +1,24 @@
+(secondQuint)Preoperative Inspiratory Muscle Training in Esophageal Resection.
+
+ Rationale: Esophageal resection is associated with high incidences of postoperative pulmonary pneumonia.
+
+ Numbers of 30% are reported in literature.
+
+ Postoperative complications can result in prolonged hospital stay and increased health care costs.
+
+ In cardiac surgery patients a reduction of postoperative pneumonia of 50% is reported as a result of a preoperative inspiratory muscle training program.
+
+ While in some surgical centers IMT is already used in the preoperative phase in patients undergoing esophageal resection, the effect of this promising intervention has not yet been investigated in a randomised and controlled study design in large surgical populations other than cardiac surgery.
+
+ Primary objective: Investigate the effect of a preoperative inspiratory muscle training program on the incidence of postoperative pneumonia in patients undergoing esophageal resection.
+
+ Study design: Prospective multicenter randomised controlled clinical trial.
+
+ Main study parameters/endpoints: A significant reduction in incidence of postoperative pneumonia.
+
+.
+
+ Preoperative Inspiratory Muscle Training in Esophageal Resection@highlight
+
+The PREPARE study is the first multicenter randomized controlled trial to evaluate the hypothesis that preoperative inspiratory muscle training leads to decreased pulmonary complications in patients undergoing esophageal resection.
+

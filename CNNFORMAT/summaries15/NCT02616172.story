@@ -1,0 +1,26 @@
+(thirdQuint)Autologous Bone Marrow Harvest and Transplant for Sensorineural Hearing Loss.
+
+ Autologous human bone marrow mononuclear fraction (BMMF) will be given to children with bilateral moderate to severe sensorineural hearing loss.
+
+ Subjects will come to Orlando for pretesting to include an Magnetic Resonance Imaging (MRI), Auditory brainstem response (ABR), blood work: Complete metabolic panel (CMP), Complete blood count (CBC), Hepatic Function Panel, Prothrombin (PT), Partial thromboplastin time (PTT), International normalized ration (INR), Chest Xray, and a Speech and Language Evaluation.
+
+ After pretesting, the subjects will undergo a bone marrow harvest and then receive their autologous bone marrow mononuclear fraction (BMMF) intravenously.
+
+ The subjects will then be monitored for 24 hours post infusion.
+
+ After 24 hours, the subject will undergo repeat blood work and a chest x ray.
+
+ Subjects will then be discharged home.
+
+ Subjects will follow up in Orlando at 1 month, 6 months and 1 year post infusion.
+
+ Follow up testing will repeat the exams performed at pretesting.
+
+.
+
+ Autologous Bone Marrow Harvest and Transplant for Sensorineural Hearing Loss@highlight
+
+Autologous human bone marrow mononuclear fraction (BMMF) will be harvested and given to children with bilateral moderate to severe sensorineural hearing loss.
+
+ The aim is to determine if bone marrow mononuclear fraction (BMMF) infusion is safe, feasible, improves inner ear function, audition, and language development.
+

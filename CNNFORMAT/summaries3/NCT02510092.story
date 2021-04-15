@@ -1,0 +1,22 @@
+(thirdQuint)Coronary Artery and Systemic Autoimmune Disease: Diagnostics and Treatment.
+
+ The aim of this study is to assess in vivo intracoronary anatomy using intravascular ultrasound and optical coherence tomography and assess the efficacy and safety of new generation fully bioresorbable vascular scaffolds in a systemic autoimmune and coronary heart disease patient population.
+
+ The following four well defined systemic autoimmune entities are linked to increased cardiovascular risk: rheumatoid arthritis, mixed connective tissue disease, systemic sclerosis and systemic lupus erythematosus.
+
+ One of the main causes of death in systemic autoimmune subjects is cardiovascular disease.
+
+ In-vivo intracoronary anatomy and pathology regarding systemic autoimmune diseases is unknown.
+
+ Furthermore, all forms of revascularization in such patients yield sub-optimal results, with poor outcomes using even the most modern drug eluting metallic stents.
+
+ This may be linked to a long term exaggerated chronic inflammation response to the metallic components.
+
+ Thus, fully bioresorbable vascular scaffolds may prove more efficacious in systemic autoimmune subjects.
+
+.
+
+ Coronary Artery and Systemic Autoimmune Disease: Diagnostics and Treatment@highlight
+
+This study evaluates in vivo intracoronary imaging using intravascular ultrasound and optical coherence tomography and safety and efficacy of new generation fully bioresorbable vascular scaffolds in four well defined systemic autoimmune (rheumatoid arthritis, mixed connective tissue disease, systemic sclerosis, systemic lupus erythematosus) and concomitant coronary disease patients.
+

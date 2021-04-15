@@ -1,0 +1,16 @@
+(thirdQuint)Cetuximab Monotherapy Maintenance Treatment in mCRC.
+
+ Investigating the efficacy of Cetuximab Monotherapy versus Continuation after induction treatment with chemotherapy + Cetuximab in inoperable or irresectable and non-progressive metastatic colorectal cancer after first line induction treatment for 24 weeks with mFOLFOX6/FOLFIRI and Cetuximab treatment.
+
+ Reinduction treatment will be done in case of progression.
+
+ This treatment is continued until progression or severe toxicity.
+
+.
+
+ Cetuximab Monotherapy Maintenance Treatment in mCRC@highlight
+
+Investigating the efficacy of Cetuximab Monotherapy versus Continuation after induction treatment with chemotherapy + Cetuximab in inoperable or irresectable and non-progressive metastatic colorectal cancer after first line induction treatment for 24 weeks with mFOLFOX6/FOLFIRI and Cetuximab treatment.
+
+ Reinduction treatment will be done in case of progression.
+

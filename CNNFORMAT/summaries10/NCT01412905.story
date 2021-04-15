@@ -1,0 +1,36 @@
+(fifthQuint)Telemedicine Retinal Screening Utilizing a Mobile Medical Unit.
+
+ Objective: To test the validity and accuracy of a grading and referral system for diabetic retinopathy conducted by a trained screener using a digital camera, a mobile medical unit and a centralized image-storing software in underserved, ethnically diverse neighborhood community health centers Methods and Research Design: Retinal screening exams using telemedicine technology were offered at 8 community health centers for 1229 individuals, ages 16-80 years with diabetes throughout San Diego County over 18 months.
+
+ Images were electronically captured, transferred to EyePACs1 image software and read independently by a trained technician and retinal specialist.
+
+ Statistical analysis was conducted to evaluate prevalence of disease and accuracy and validity of readings.
+
+ Snellen eye test and glaucoma testing using tonometry will also be conducted.
+
+ Results: Will evaluate demographics that include age, gender, ethnicity, duration of diabetes, type of diabetes and need for dilation.
+
+ Severity of disease will be captured.
+
+ Statistical analysis will be conducted for technician accuracy of grading the readings.
+
+ Conclusions: To demonstrate that telemedicine retinal screening utilizing a mobile medical unit with a trained technician in high-risk, ethnically diverse populations can accurately detect positive and negative screens.
+
+ This may be a model to increase access to retinal examination in order to meet ADA and HEDIS guidelines and can allow more efficient use of the retinal specialist to evaluate and treat disease leading to a more cost efficient method of care.
+
+.
+
+ Telemedicine Retinal Screening Utilizing a Mobile Medical Unit@highlight
+
+Objective: To test the accuracy of a referral system for diabetic eye disease conducted by a trained screener using a digital camera, a mobile medical unit and a centralized image-storing software in underserved, ethnically diverse neighborhoods in San Diego.
+
+ Methods and Research Design: Retinal screening exams were offered at 8 community health centers for 1229 individuals, ages 16-80 years with diabetes throughout San Diego County over 18 months.
+
+ Images were captured with a special digital camera, securely transferred to a software system and read independently by a trained technician and retinal specialist.
+
+ An analysis was conducted to evaluate who had severe eye disease and how accurate the reading of the technician were compared to the expert ophthalmologist readings.
+
+ The investigators would like to demonstrate that telemedicine retinal screening utilizing a mobile medical unit with a trained technician in high-risk, ethnically diverse populations can accurately detect positive and negative disease.
+
+ This may be a model to increase access to retinal examination in order to meet current guidelines and can allow more efficient use of the retinal specialist to evaluate and treat disease leading to a more cost efficient method of care.
+

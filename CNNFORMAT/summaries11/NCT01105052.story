@@ -1,0 +1,22 @@
+(secondQuint)Self-help Cognitive Behavioral Therapy (CBT) for Insomnia.
+
+ CBT has previously been identified as an effective treatment for insomnia.
+
+ However, there is a lack of trained CBT-therapists, and self-help is beginning to prove useful for many areas of psychological distress.
+
+ Earlier studies of different kinds of self-help (e.
+
+g.
+
+ computer based and bibliotherapeutic) suggest that many patients do indeed benefit from self-help treatments for insomnia, but there is a need for independent replications.
+
+ Also, most previous studies have had very strict inclusion criteria, such that for instance only individuals with primary insomnia and no co-morbid problems have been included.
+
+ A general question in self-help is whether patients need therapist support to benefit from treatment, or if a book is enough to alleviate symptoms.
+
+.
+
+ Self-help Cognitive Behavioral Therapy (CBT) for Insomnia@highlight
+
+The purpose of this study is to investigate whether a self-help book for insomnia, with or without therapist support, can improve sleep and alleviate insomnia symptoms in individuals suffering from insomnia, also for persons presenting with different kinds of co-morbid problems.
+

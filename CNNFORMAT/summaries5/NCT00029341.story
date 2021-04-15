@@ -1,0 +1,54 @@
+(fifthQuint)A Study to Demonstrate That Anti-HIV Drug Therapy Can be Stopped Without Causing Viral Resistance, and to Characterize Drug Elimination From the Body.
+
+ The concept that all patients with HIV-1 infection require continuous and indefinite antiretroviral therapy (ART) has been questioned.
+
+ There are both theoretical reasons and supporting empiric evidence that suggest that discontinuing ART should not select for EFV-resistance.
+
+ In Dupont Protocol 006, antiretroviral-naive patients were randomized to receive EFV, ZDV, and 3TC.
+
+ This regimen was associated with an excellent and sustained virologic response.
+
+ It is certain that many patients in this study were able to maintain sustained suppression of HIV-1 RNA to below limits of detection despite missing occasional doses of all medications.
+
+ Since therapy with ZDV and 3TC alone is unlikely to maintain virologic control, emergence of substantial high-level EFV resistance should have led to virologic failure.
+
+ The fact that there were relatively few virologic failures in that study provides indirect but strong evidence that simultaneous discontinuation of EFV, ZDV, and 3TC is unlikely to be associated with emergence of EFV resistance.
+
+ Many individuals discontinue antiretroviral therapy because of adverse effects.
+
+ This study provides the opportunity to determine whether the virologic response of patients who discontinue antiretroviral therapy will be compromised.
+
+ Participants will discontinue their EFV.
+
+ Other antiretroviral drugs in the patients' regimens may be continued for up to three days after the last EFV dose.
+
+ Patients will not resume EFV or other antiretroviral agents for at least 28 days after stopping EFV, unless the CD4 cell count declines to a level that indicates the need to resume therapy.
+
+ Throughout the study, patients will have blood drawn on specified days for plasma EFV assays, intracellular NRTI-TP assays, and demonstration of EFV resistance.
+
+ After patients have been off their antiretrovirals for at least four weeks, they may choose to restart their ART, start a new regimen, or discontinue their ART.
+
+ Patients who restart their ART need to come to the clinic seven days after restarting to have blood drawn.
+
+ After plasma EFV assays have been completed and HIV resistance has not been demonstrated, three patients will have a clonal analysis performed.
+
+.
+
+ A Study to Demonstrate That Anti-HIV Drug Therapy Can be Stopped Without Causing Viral Resistance, and to Characterize Drug Elimination From the Body@highlight
+
+The purpose of this study is to find out if anti-HIV drugs can be stopped without the virus becoming resistant to the drugs.
+
+ The study will also examine how fast anti-HIV drugs leave the body.
+
+ Not all HIV-infected patients may require continuous and indefinite anti-HIV therapy.
+
+ There is evidence that stopping anti-HIV therapy will not make the virus resistant to efavirenz (EFV), an anti-HIV drug that remains in the body longer than most treatment drugs.
+
+ In another study, patients were treated with EFV, zidovudine (ZDV), and lamivudine (3TC).
+
+ The patients' virus was controlled despite the fact that some patients missed medication dosages.
+
+ Many patients stop anti-HIV therapy because of negative effects.
+
+ This study will examine the body's ability to fight and control virus in patients who stop therapy.
+

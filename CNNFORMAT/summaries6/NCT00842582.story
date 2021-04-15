@@ -1,0 +1,40 @@
+(thirdQuint)Azacitidine With Carboplatin and Paclitaxel for Newly Diagnosed Ovarian Cancer.
+
+ Ovarian cancer is a highly chemosensitive tumor with good responses to first line chemotherapy.
+
+ The problem is the high rate of relapse, especially in advanced disease Relapses are likely due to the presence of chemoresistant cells that escape from first line platinum and taxane based regimens.
+
+ Therefore, outcomes may be improved by adding treatment to initial standard therapy that makes resistant cells sensitive to chemotherapy.
+
+ There are multiple targeted pathways that may achieve this goal.
+
+ One promising path is epigenetics.
+
+ The reasons for this trial are multifold.
+
+ First, methylation pathways have been proven in tissue models to be integral to ovarian cancer pathogenesis.
+
+ Second, cisplatin and azacitidine are synergistic, and therefore would be promising in combination to improve ovarian cancer outcomes by combating cisplatin resistance, which is a major cause of ovarian cancer mortality.
+
+ It has been proven that azacitidine/decitabine reverses platinum resistance.
+
+ Third, azacitidine has shown tolerable toxicity and promise in clinical trials to date.
+
+ Ideally, ovarian cancer outcomes are likely to be improved by the addition of treatment that wipes out chemoresistant cells, thus preventing relapse.
+
+ This study is a phase I, non-randomized, dose escalation treatment study using azacitidine in combination with intravenous chemotherapy with Paclitaxel and carboplatin.
+
+ All patients will receive the chemotherapy drugs Carboplatin and Paclitaxel.
+
+ Patients will then be randomized to receive one of three different doses of Azacitidine.
+
+.
+
+ Azacitidine With Carboplatin and Paclitaxel for Newly Diagnosed Ovarian Cancer@highlight
+
+This is a clinical trial for women with newly diagnosed ovarian cancer.
+
+ The purpose of this study is to determine if the addition of a drug called azacitidine (Vidaza(R))when added to carboplatin and paclitaxel will change the genetic material of the tumor so that the chemotherapy drugs work better.
+
+ The study will also determine what the maximum tolerated dose of azacitidine that may be safely used in combination with carboplatin and paclitaxel.
+

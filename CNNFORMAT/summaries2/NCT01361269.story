@@ -1,0 +1,24 @@
+(thirdQuint)Evaluation of Fosmidomycin and Clindamycin in the Treatment of Acute Uncomplicated Plasmodium Falciparum Malaria.
+
+ Few efficient drugs for malaria treatment are available so far.
+
+ Due to increased exposure of these drugs and due to the high risk of development of drug resistant strains of Plasmodium falciparum, new drug combinations have to be actively investigated.
+
+ The goal of this study is to assess a new drug combination, fosmidomycin-clindamycin.
+
+ The primary objective of the study is to assess and compare the efficacy, safety and tolerance (between sites) of fosmidomycin and clindamycin when co-administered orally over three days in the treatment of acute uncomplicated Plasmodium falciparum malaria in children in Mozambique and Gabon.
+
+ The secondary objective is to differentiate between recrudescent parasitaemia and reinfection in the event of recurrent parasitaemia developing within the 28-day follow-up period, to determine the population pharmacokinetics of fosmidomycin when co-administered orally with clindamycin and to compare the in vitro sensitivity of isolates of Plasmodium falciparum to fosmidomycin.
+
+ The trial will include 100 children aged 3-10 years, divided between clinical sites of Gabon and Mozambique.
+
+.
+
+ Evaluation of Fosmidomycin and Clindamycin in the Treatment of Acute Uncomplicated Plasmodium Falciparum Malaria@highlight
+
+Few efficient drugs for malaria treatment are available so far.
+
+ Due to increased exposure of these drugs and due to the high risk of development of drug resistant strains of Plasmodium falciparum, new drug combinations have to be actively investigated.
+
+ The investigators will test the efficiency, safety and tolerance of combined fosmidomycin and clindamycin treatment in acute uncomplicated malaria in children aged 3-10 years.
+

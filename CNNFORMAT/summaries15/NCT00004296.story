@@ -1,0 +1,26 @@
+(secondQuint)Multicenter Study of Nontuberculous Mycobacteria in Cystic Fibrosis Patients.
+
+ PROTOCOL OUTLINE: Participants are screened for nontuberculous mycobacteria (NTM) with 3 sputum acid-fast bacilli smears and mycobacterial cultures, with speciation of positive cultures, collected over 1 year.
+
+ Demographic data, diagnostic criteria, clinical measurements, and other respiratory pathogen data are collected using the Cystic Fibrosis Foundation Patient Registry Questionnaire.
+
+ NTM-positive patients (cases) matched with NTM-negative controls identified in screening are followed every 3 months for 15 months.
+
+ Cases are evaluated for NTM burden during the first 3 months.
+
+ Appropriate therapy is offered to consistently NTM-positive cases.
+
+ Lung transplant recipients are removed from study.
+
+.
+
+ Multicenter Study of Nontuberculous Mycobacteria in Cystic Fibrosis Patients@highlight
+
+OBJECTIVES: I.
+
+ Determine the prevalence of nontuberculous mycobacteria in sputum cultures from patients with cystic fibrosis.
+
+ II.
+
+ Compare the clinical course of patients with negative versus positive cultures.
+

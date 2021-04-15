@@ -1,0 +1,56 @@
+(fifthQuint)Secondary Bilateral Sacral Nerve Stimulation in Overactive Bladder Patients.
+
+ Sacral neuromodulation (SNM) is a treatment in non neurogenic (idiopathic) patients with overactivity of the bladder (OAB) symptoms, refractory to conservative treatment.
+
+ After selection of patients with positive stimulation test (PNE test), the success rate of stimulation implant is approximatively 70% (40 to 80%).
+
+ Unilateral versus bilateral initial implantation was retrospectively compared by Pham et al.
+
+ with respectively 58 and 77% success rate.
+
+ Wound infection and complication rate were similar.
+
+ However the limitation of bilateral stimulation is an increased cost for the health care system, augmented duration of the procedure, possible morbidity.
+
+ Therefore initial implantation in the first step of the treatment is unilateral in current practice.
+
+ However, after a period of time, a secondary failure may happen, either a complete failure with return to initial symptom or a partial failure with a decrease of the efficacy that may impact on quality of life.
+
+ However, a non clinical evident effect could have a summation effect if a contralateral stimulator was implanted, and possibly better than contralateral alone.
+
+ Research have shown in a small study on 15 patients that a selected group of patients appear to benefit from bilateral stimulation test (PNE test) after failure of unilateral S3 stimulation.
+
+ A successful response was observed in 4/11 (36%) OAB patients.
+
+ Bilateral stimulation induced a higher clinical response than stimulation of a controlateral lead alone in voiding parameters.
+
+ In the patients who showed a successful response to PNE test, 3 were implanted bilaterally with more than 50% improvement for 2 of them at one year follow-up, and 41% improvement for the third.
+
+ No painful stimulation or side effects were reported with chronic bilateral stimulation.
+
+ In one study, a lead migration was suspected in 3/15 patients and was the cause of failure.
+
+ Therefore the proposed study will use systematically a tined lead electrode that avoid lead migration.
+
+ According to these preliminary data, test stimulation with a contralateral lead might be considered in secondary unsuccessful patient and evaluated.
+
+ Further investigation is necessary to determine in a larger cohort the result of contralateral alone or bilateral stimulator implantation.
+
+ There is no established guidelines in secondary unsuccessful patients, therefore contralateral stimulation is used in clinical practice according to patient and practitioner opinion.
+
+ This protocol is presented as a standard clinical practice evaluation.
+
+.
+
+ Secondary Bilateral Sacral Nerve Stimulation in Overactive Bladder Patients@highlight
+
+Unilateral sacral neuromodulation (SNM) has emerged as a valuable treatment for patient with low urinary tract dysfunction when failure or bad tolerance to anticholinergic treatment for overactive bladder.
+
+ However, in the medium or long term, some patients failed to benefit from unilateral stimulation (unilateral neuromodulation).
+
+ A contralateral stimulation could be tested then implanted to restore the efficacy.
+
+ An other option is to perform a bilateral stimulation of the sacral nerves that could lead to a summation effects better than unilateral stimulation.
+
+ Therefore, if a unilateral sacral nerve stimulation fails, a contralateral or a bilateral test should be considered.
+

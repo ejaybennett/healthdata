@@ -1,0 +1,22 @@
+(firstQuint)A Comparison of Continuation Rates for Three Hormonal Contraceptive Methods.
+
+ Unintended pregnancy rates among women in the United States continue to surpass that of the rest of the developed world at great cost to society.
+
+ Contraceptive failure has been attributed to poor compliance with contraceptive methods and results in unintended pregnancies.
+
+ This study will evaluate the 3-month continuation rates among women using the oral contraceptive pill and Depo-Provera.
+
+ It will also assess the continuation rates of Ortho Evra(R), which has not previously been studied in the adolescent population.
+
+ This study will provide information with regard to pregnancy rates and 3-month patterns of use of contraception among women seeking first-trimester abortion.
+
+ It will also assess other factors contributing to successful contraception such as the use of emergency contraception and concomitant condom use.
+
+ The results of this study will be used to inform the practice of providers who provide reproductive health care to women and add to the sparse body of literature available comparing the success of different contraceptive methods used by women.
+
+.
+
+ A Comparison of Continuation Rates for Three Hormonal Contraceptive Methods@highlight
+
+This study will assess the continuation rates among women using oral contraceptive pills, Depo-Provera and Ortho Evra following a first trimester abortion.
+

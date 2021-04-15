@@ -1,0 +1,18 @@
+(firstQuint)Study to Evaluate the Interaction Potential of Clarithromycin XL on Diltiazem Hydrochloride Cream 2% in Healthy Subjects.
+
+ This study was designed to investigate the potential effect of clarithromycin XL at steady state (administered orally, once daily on Days 4 through 9 as 2 x 500 mg tablets, 1000 mg per day, for a total of 6000 mg) on the PK of a single topical dose of diltiazem hydrochloride 2% cream applied to the perianal area (~2.
+
+5 cm [1 inch]; ~8.
+
+5 mg).
+
+ This was a Phase 1 study with a single treatment arm.
+
+ Efficacy was not assessed; therefore the study was of open-label design.
+
+.
+
+ Study to Evaluate the Interaction Potential of Clarithromycin XL on Diltiazem Hydrochloride Cream 2% in Healthy Subjects@highlight
+
+The purpose of this study is to evaluate the drug-drug interaction potential of clarithromycin XL on Diltiazem hydrochloride (DTZ) 2% cream.
+

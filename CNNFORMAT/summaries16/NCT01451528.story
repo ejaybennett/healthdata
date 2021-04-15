@@ -1,0 +1,28 @@
+(thirdQuint)Allogeneic Umbilical Cord Blood Therapy for Chronic TBI.
+
+ Traumatic brain injury patients have been increasing due to various accidents.
+
+ After acute therapeutic intervention, rehabilitation is the conventional main treatment with medication.
+
+ However, in chronic stage, there seems to be some limitation in obtaining functional improvement in spite of comprehensive rehabilitation.
+
+ Cell therapy like Umbilical cord blood (UCB) transplantation has showed promising results in many animal studies.
+
+ The mechanism of such neurological improvement is not fully understood.
+
+ Stem cells included in UCB are expected to secrete neurotrophic factors to enhance brain function.
+
+ In addition, anti-inflammatory effects of UCB are suggested.
+
+ Autologous UCB are not available in most of the cases in fact.
+
+ The aim of this clinical trial is to determine the safety and efficacy of allogeneic UCB.
+
+.
+
+ Allogeneic Umbilical Cord Blood Therapy for Chronic TBI@highlight
+
+This open label trial is conducted to investigate the efficacy and safety of umbilical cord blood therapy for chronic traumatic brain injury patients.
+
+ The study hypothesis is that the participants will show significant improvement in cognition and function after Umbilical cord blood (UCB) transplantation.
+

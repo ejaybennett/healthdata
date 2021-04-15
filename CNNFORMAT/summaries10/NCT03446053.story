@@ -1,0 +1,36 @@
+(secondQuint)A Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, Immunogenicity of N-Rephasin SAL200 in Healthy Male Volunteers.
+
+ - Forty subjects will be randomly assigned to receive either N-Rephasin(R) SAL200 injection or a placebo administered by a 60-min intravenous infusion.
+
+ Within each group, 8 subjects (6 active and 2 placebo) will receive a single dose of 6 mg/kg, followed by multiple ascending dose of 3, 6, 9, and 12 mg/kg/day.
+
+ The clinical trial will be performed in sequence from the lowest level, and the progress of the next dose level will be determined based on the safety results in the previous dose level.
+
+ - Examinations by interview, physical examinations, and screening tests such as clinical laboratory tests and allergenicity will be conducted in volunteers within 4 weeks (-28~-2d) from the previous day ot this clinical trial (-1d) to select subjects who are judged eligible for the study.
+
+ - Eligible subjects will be called in the afternoon (-1d) to examine the allergenicity in the clinical center of Seoul National Unviersity Hospital.
+
+ - Allergen-free subjects will be hospitalized on -1d and assigned with each subject number.
+
+ All subjects are advised to fast from 10:00 p.
+
+m.
+
+ overnight to the next morning, except drinking water.
+
+ In the morning (09:00 a.
+
+m.
+
+) on 1d, subjects in each group will be given N-Rephasin(R) SAL200 injection or a placebo administered by a 60-min intravenous infusion, After that, the clinical trial will be conducted according to the designated schedule.
+
+ - All subjects receiving at least one dose will undergo a post-study visit test after a certain period of time.
+
+ Immunogenicity testing will be performed until approximately 50 days after treatment.
+
+.
+
+ A Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, Immunogenicity of N-Rephasin SAL200 in Healthy Male Volunteers@highlight
+
+To evaluate the safety, pharmacokinetics, pharmacodynamics and immunogenicity of N-Rephasin(R) SAL200 following single and multiple ascending doses in healthy male volunteers after continuous intravenous infusion over 60 minutes.
+

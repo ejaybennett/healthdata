@@ -1,0 +1,30 @@
+(thirdQuint)Etomidate vs.
+
+ Midazolam for Sedation During ERCP.
+
+ ERCP (Endoscopic retrograde cholangiopancreatogram) is an uncomfortable and time-consuming procedure compared to other endoscopic procedures.
+
+ Most ERCP procedure had been performed in sedation using tranquilizers and pain-killers.
+
+ Until recently, midazolam and opioid combination regimen recognized as a standard therapy is widely used, but the sedative effect is insufficient and intermittent paradoxical reaction has been questioned.
+
+ Another drug, such as propofol, has been known that the sedative effect is superior one of the midazolam but disappointed due to narrow therapeutic range of respiratory distress and absence of antagonist.
+
+ Meanwhile, recently up-coming drug, etomidate which is a modulator of GABA-A receptor has been known that it maintains the appropriate sedative levels and affects little effects on respiratory system.
+
+ For these advantages, this short acting sedative drug has been widely used in the emergency room during minor operation and in the operation room for induction.
+
+ However, research on the efficacy during ERCP was not yet published.
+
+ In this regards, the purpose of the investigators study is to prove the efficacy of etomidate for sedation and to establish new evidence based sedation guidelines during ERCP procedure.
+
+.
+
+ Etomidate vs.
+
+ Midazolam for Sedation During ERCP@highlight
+
+Recently up-coming drug, etomidate which is a modulator of GABA(gamma-Aminobutyric acid)-A receptor has been known that it maintains the appropriate sedative levels and affects little effects on respiratory system.
+
+ The investigators are now trying to investigate that etomidate with meperidine combination regimen is superior to the midazolam with meperidine more effective and less harm on sedation during the ERCP procedure.
+

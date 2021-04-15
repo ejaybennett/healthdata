@@ -1,0 +1,36 @@
+(fifthQuint)Administrative Workload in the Intensive Care Unit.
+
+ In recent years, regulatory authorities request a growing number of protocols and checklists to improve healthcare.
+
+ Though the intention is to prevent medical mistakes and to improve patient care, these demands might result in an increased administrative workload for physicians and nurses.
+
+ Recent studies show that administrative tasks and documentation occupy more than thirty percent of the workload of physicians, of which one-third is unrelated to care.
+
+ This time spent on administration could lower the amount of time spent with the patient and the patient's family.
+
+ In the Intensive Care Unit and the Medium Care Unit, most of the administrative tasks are executed within the patient data management system.
+
+ The way an electronic patient data management system is set up could impact the administrative workload for physicians and nurses.
+
+ A prospective observational study at the department of Intensive and Medium Care of the University medical centre will be performed with the aim to quantify the time spent on direct patient care versus administrative work.
+
+ Two different patient data management systems will be compared at different points in time.
+
+ The Nursing Activity Score and other patient characteristics will be registered for all the admitted patients during the two study periods.
+
+ The administrative workload of physicians and nurses will be measured before and after the implementation of a new patient data management system, using the following methods: - Login time in the electronic patient data management system during fourteen consecutive days in the Intensive Care Unit and the Medium Care Unit - Timing of activities of physicians and nurses with a work sampling method during five consecutive day shifts in the Intensive Care Unit.
+
+ Administrative Workload in the Intensive Care Unit@highlight
+
+A prospective observational study in the Intensive Care Unit and the Medium Care Unit in a university hospital in Amsterdam.
+
+ Recent studies show that administrative tasks occupy more than 30% of the workload.
+
+ One-third of these administrative tasks is unrelated to care.
+
+ The administrative workload of physicians and nurses will be observed and quantified using two different methods.
+
+ The amount of time physicians and nurses are logged on into the patient data management system (PDMS) will be measured and the time spent on different work tasks will be monitored with a work sampling method.
+
+ Two different patient data management systems will be compared.
+

@@ -1,0 +1,18 @@
+(secondQuint)Feasibility of Molecular Biology in Pancreatic Cyst Tumors.
+
+ Multicenter study to determinate the feasibility of intra-cystic fluid DNA molecular analysis in patients with suspected cystic tumours of pancreas in whom EUS FNA is clinically indicated.
+
+ Morphological criteria obtained by MRI and computerised tomography (tumor characterization (size, metastases presence, dilatation of bile ducts), etiologic diagnosis, serious symptoms), biological exams (biomarkers), cytological analysis will lead to a diagnosis and a treatment.
+
+ The goal of this study is to compare this standard diagnostic modalities to diagnosis obtained by intra-cystic fluid DNA molecular analysis.
+
+ Is the DNA molecular analysis improve the diagnosis accuracy.
+
+.
+
+ Feasibility of Molecular Biology in Pancreatic Cyst Tumors@highlight
+
+The main objective of the study is to compare the diagnostic accuracy of intra-cystic fluid DNA molecular analysis to standard diagnostics.
+
+ The secondary objective of the study is to evaluate the feasibility of intra-cystic fluid DNA molecular analysis.
+

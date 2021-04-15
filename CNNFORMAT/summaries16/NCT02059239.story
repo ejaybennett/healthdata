@@ -1,0 +1,32 @@
+(fifthQuint)Bendamustine Bridge to Autologous or Allogeneic Transplant for Relapsed/Refractory Lymphoma.
+
+ Subjects with Hodgkin's or Non-Hodgkin's lymphoma that did not respond to treatment or have disease that has returned after responding to previous treatment, and are in need of a stem cell transplant will be eligible for this pilot study.
+
+ Thirty subjects will be enrolled, with 15 subjects assigned to the autologous transplant cohort (according to disease status and eligibility) and 15 subjects to the allogeneic transplant cohort (according to diseases status and eligibility).
+
+ Subjects will undergo the following a number of screening procedures to determine eligibility.
+
+ All eligible subjects will receive bendamustine at a dose of 200 mg/ m2/ day for two days on Days - 24 and Day - 23 followed by a short break of 10 - 14 days.
+
+ Subjects will then receive the conditioning regimen, BEAM (carmustine, etoposide, cytarabine arabinoside, and Melphalan) and alemtuzumab for 6 days (Day -6 to Day -1) followed by an autologous or allogeneic transplant.
+
+ Subjects with pathological confirmed B-cell malignancies will also receive rituximab 375 mg/m2 on Days + 1 and +8 post-transplant.
+
+ Subjects with T-cell lymphoma will be enrolled in the study but will not receive rituximab.
+
+ After the transplantation all subjects will receive medication to prevent graft vs host disease and supportive care to prevent infections.
+
+ To speed up the recovery of stem cells, subjects will receive post-transplant filgrastim (G-CSF).
+
+ After discharge from the hospital, subjects will be seen regularly in the clinic for an exam and assessments.
+
+ All these tests are considered standard of care.
+
+.
+
+ Bendamustine Bridge to Autologous or Allogeneic Transplant for Relapsed/Refractory Lymphoma@highlight
+
+This clinical trial is for men and women with whose lymphoma (non-Hodgkin or Hodgkin) did not respond to treatment or has returned after responding to previous therapy, and who are in need of a stem cell transplant.
+
+ The purpose of this study is to test the safety and effectiveness of giving the drug Bendamustine, followed by high dose chemotherapy, within two weeks prior to a stem cell transplant for lymphoma that has not achieved a complete response to salvage (treatment used for relapsed disease) chemotherapy.
+

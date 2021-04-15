@@ -1,0 +1,16 @@
+(firstQuint)Biologic Basis for Multiple Sclerosis Disease Progression in RRMS Patients Treated With Gilenya.
+
+ The biologic basis that determines disease progression in multiple sclerosis (MS) patients remains to be defined.
+
+ We propose that a long term study of patients where inflammatory activity of the disease is expected to be controlled on treatment, will identify patients into cohorts of those whose disease is deemed to be stable with those patients whose disease has been deemed to progress.
+
+ Once the two groups have been identified, it will then be possible to assess whether there are differences in biologic markers between the two groups.
+
+ These markers would then have the potential to be used to monitor disease progression or be predictors for patient response to drug treatment.
+
+.
+
+ Biologic Basis for Multiple Sclerosis Disease Progression in RRMS Patients Treated With Gilenya@highlight
+
+This study will determine whether in RRMS patients receiving Gilenya there is a link between disease progression and biologic markers.
+

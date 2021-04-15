@@ -1,0 +1,52 @@
+(fifthQuint)Comparison of Traditional and Echocardiography Guided Fluid Management During Cytoreductive Surgery With HIPEC.
+
+ Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (HIPEC) is a procedure in which peritoneal surface tumors are removed followed by infusion of a heated chemotherapeutic solution into the abdominal cavity.
+
+ This procedure is typically 6-10 hours in duration and is accompanied by significant fluid shifts and hemodynamic changes.
+
+ Patients frequently receive between 10 and 20 liters of fluid during the procedure.
+
+ Patients undergoing cytoreductive surgery with HIPEC also experience vasodilatation and a hyperdynamic cardiac state during the hyperthermic period.
+
+ Classically, the need for volume replacement has been guided by following a patient's urine output (UOP) and the use of central venous pressure (CVP).
+
+ However, several studies have shown that CVP is not a reliable measure of intravascular fluid status.
+
+ We hypothesize that patients undergoing echocardiography guided anesthesia management (EGAM) will receive significantly less fluid during the operative period when compared to more traditional fluid therapy guided by monitoring of urine output and central venous pressure.
+
+ In addition to the primary endpoint of a decrease in fluid administration, we would predict a decrease in time to extubation, intensive care unit length of stay, hospital length of stay, post operative oxygen requirements, post operative complications including tachyarrhythmias, heart failure and pulmonary edema, and length of time to recovery of bowel function.
+
+ Patients presenting for cytoreductive surgery with HIPEC will be randomized into one of two groups, the echocardiography guided fluid management group or the traditional CVP/UOP fluid guided group.
+
+ For patients in the echocardiography arm, this monitor will be used to optimize preload, contractility, heart rate and cardiac output.
+
+ Patients in the CVP/UOP arm will receive the current standard of fluid administration to maintain adequate urine output.
+
+ All patients presenting for the procedure will be offered an opportunity for admission into the study.
+
+ Exclusion criteria include any absolute contraindications to transesophageal echocardiography, including cervical spine instability, esophageal strictures, webs or rings, patient refusal, esophageal perforation, obstructive esophageal neoplasms (Savage 2004).
+
+ A follow-up evaluation will be completed during the remainder of the patient's hospitalization to evaluate the previously discussed endpoints.
+
+ The goal is to determine the optimal fluid management strategy to decrease morbidity in the post-operative period in patients undergoing cytoreductive surgery with hyperthermic intraperitoneal chemotherapy.
+
+.
+
+ Comparison of Traditional and Echocardiography Guided Fluid Management During Cytoreductive Surgery With HIPEC@highlight
+
+Cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (HIPEC) is performed in patients with peritoneal tumors.
+
+ Classically, this procedure is prolonged in duration and involves significant fluid shifts.
+
+ Patients receive a large amount of volume replacement during this procedure (between 10 and 20 liters).
+
+ The traditional methods to monitor adequacy of volume replacement are measurement of urine output and central venous pressure.
+
+ There are drawbacks of any method of intravascular volume status measurement which may lead to over or under replacement of fluids.
+
+ If fluid replacement is underestimated, the patient may suffer from adverse effects such as hypotension and renal dysfunction.
+
+ However, the excessive administration of fluids may lead to other adverse events, including cardiac dysrhythmias and heart failure.
+
+ The hypothesis of this study is that patients in whom volume status is maintained by utilizing a transesophageal echocardiogram will have better maintenance of fluid status while avoiding intravascular volume overload.
+

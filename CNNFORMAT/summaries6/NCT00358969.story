@@ -1,0 +1,20 @@
+(thirdQuint)Guanfacine to Treat Borderline Personality Disorder.
+
+ This is an 8-week treatment study designed to test whether guanfacine is an effective treatment for borderline personality disorder (BPD).
+
+ Prior to taking the study medication, subjects will have medical and psychiatric evaluations, complete self-report questionnaires, do a functional MRI scan, and complete a set of cognitive tests.
+
+ While taking the study medication, participants will meet weekly with a study doctor and be administered interviews and questionnaires.
+
+ At the end of the 8-week trial, participants will be asked to repeat the MRI scan and cognitive tests.
+
+.
+
+ Guanfacine to Treat Borderline Personality Disorder@highlight
+
+This study is designed to investigate whether guanfacine (Tenex) is an effective treatment for borderline personality disorder (BPD), an illness often characterized by unstable mood and impulsive aggression.
+
+ Guanfacine stimulates activity in the front portion of the brain, a region associated with attention and the control of behavior.
+
+ We believe that guanfacine may improve symptoms of BPD by improving attention and aiding regulation of behavior.
+

@@ -1,0 +1,22 @@
+(secondQuint)The Impact of Alternative Social Assistance Disbursement on Drug-related Harm.
+
+ Coordinated monthly income assistance payments, while seeking to alleviate poverty, can also have negative and unintended impacts, particularly among people who use illicit drugs (PWUD).
+
+ Observational research has identified escalations in drug-related harm coinciding with monthly assistance payments, such as overdose, treatment interruption, hospital admissions and public disorder.
+
+ This project varies the timing and frequency of income assistance disbursement, and evaluates whether varying income assistance disbursement reduces drug-related harm coinciding with coordinated income assistance.
+
+ Conducted among 273 PWUD, participants will be allocated for 6 income assistance cycles to a control or one of two intervention arms.
+
+ Participants in the control arm will receive payments according to the existing monthly government schedule.
+
+ Participants in the intervention arm will receive their income assistance: (1) monthly on a day different from government cheque issue; or (2) semi-monthly on days different from government cheque issue.
+
+ The intervention will be evaluated using qualitative and quantitative methods for its impact on drug use and related harms.
+
+.
+
+ The Impact of Alternative Social Assistance Disbursement on Drug-related Harm@highlight
+
+This study evaluates whether altering the timing and frequency of social assistance disbursement reduces drug related-harms that increase on the days surrounding monthly synchronized government social assistance cheque issue.
+

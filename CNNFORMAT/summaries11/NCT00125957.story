@@ -1,0 +1,32 @@
+(fifthQuint)The Effects of Wellbutrin (Bupropion) on Residual and Cognitive Symptoms in SSRI-treated Depression.
+
+ As many as 65-75% of treated patients continue to experience residual symptoms of depression.
+
+ Cognitive impairments feature frontal cognitive dysfunction.
+
+ Many experts believe that executive functions are better predictors of functional level than psychiatric diagnoses.
+
+ Frontal cognitive impairment and changes in neuroimaging are seen in individuals depleted of tryptophan, a serotonin precursor.
+
+ These cognitive changes do not improve following serotonin-specific reuptake inhibitor treatment and at least one study has found that executive dysfunction predicts non-response to fluoxetine.
+
+ In many patients, remission of mood symptoms in depression requires medications to target non-serotonergic neurotransmitter systems.
+
+ Brain areas mediating executive functions receive rich noradrenergic inputs, and norepinephrine is known to be intimately involved in many of the executive functions.
+
+ A better understanding of serotonergic and catecholaminergic interactions would enable evidence-based treatment of depression which maximizes executive cognitive functions.
+
+ This study examines the hypothesis that individuals treated with Wellbutrin will have higher scores on tests of executive functions and lower scores on depression indices.
+
+.
+
+ The Effects of Wellbutrin (Bupropion) on Residual and Cognitive Symptoms in SSRI-treated Depression@highlight
+
+Many people with depression are treated with a serotonin-specific reuptake inhibitor anti-depressant (SSRI) and feel 'better'.
+
+ Although many people feel 'better', they do not feel completely 'well'.
+
+ Often, individuals continue to complain of cognitive problems such as lack of attention, diminished motivation, and impaired problem-solving.
+
+ This study looks at whether residual and cognitive symptoms of depression in individuals are affected by the addition of Wellbutrin (bupropion).
+

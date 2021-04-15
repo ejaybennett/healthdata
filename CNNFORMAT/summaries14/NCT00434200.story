@@ -1,0 +1,18 @@
+(secondQuint)Rheumatoid Arthritis Patients in Training.
+
+ The 300 patients with RA were randomized into two groups; exercise group and usual care group.
+
+ The patients who participated in the 2 years intensive exercise training (2 times a week, training duration 65 minutes) improved their functional capacity and functional ability without detrimental effects on the large joints damage or on disease activity.
+
+ Only patients with excessive large joint damage at baseline were at risk to develop additional damage when participating in intensive weight-bearing exercises.
+
+ Patients who exercised were able to delay the decrease of bone mineral density of the hips.
+
+.
+
+ Rheumatoid Arthritis Patients in Training@highlight
+
+Aim of the study was to investigate the effectiveness (functional ability and physical capacity) and safety (disease activity and damage of the joints) of long-term high-intensity weight-bearing exercises in patients with rheumatoid arthritis (RA).
+
+The training proved to be safe and effective.
+

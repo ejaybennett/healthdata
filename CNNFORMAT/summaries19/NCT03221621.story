@@ -1,0 +1,16 @@
+(secondQuint)Cost-effectiveness of Adalimumab and Surgery vs Adalimumab in HS.
+
+ The primary objective of this randomized controlled clinical trial in a real life setting is to evaluate the cost-utility of limumab monotherapy (Group A) with the combination of adalimumab and a maximum of three surgeries (Group B) years of treatment in adult patients with moderate to severe HS.
+
+ Patients in group A will be treated with adalimumab monotherapy according to normal clinical practice and will be given the possibility to crossover into Group B when they do not achieve the HiSCR after 6 months of treatment.
+
+ Additionally patients will be offered treatment with infliximab, according to clinical practice, until the last surgery.
+
+ Patients in group B will receive adalimumab combined with a maximum of three adjuvant excisions of active lesions, both according to routine clinical practice.
+
+.
+
+ Cost-effectiveness of Adalimumab and Surgery vs Adalimumab in HS@highlight
+
+The primary objective of this randomized controlled clinical trial in a real life setting is to evaluate the cost-utility of limumab monotherapy compared with the combination of adalimumab and a maximum of three surgeries after two years of treatment in adult patients with moderate to severe HS.
+

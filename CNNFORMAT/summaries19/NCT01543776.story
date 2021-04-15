@@ -1,0 +1,46 @@
+(fifthQuint)Food Effect Study of Abiraterone Acetate for Treatment of Patients With Castration-Resistant Prostate Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To compare the pharmacodynamic effect of reduced dose (250mg daily) abiraterone acetate in the prandial state (250mg-Fed) to the full, standard 1000mg daily dose in the fasting state (1000mg-Fasting) as assessed by change in serum prostate-specific antigen (PSA).
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate the effect of prandial states on plasma levels and the intra-patient pharmacokinetic variability of abiraterone acetate.
+
+ II.
+
+ To evaluate the safety profile of reduced dose abiraterone acetate taken in the prandial state.
+
+ III.
+
+ To evaluate the pharmacodynamic effect of reduced dose abiraterone acetate in the prandial state as assessed by reduction in the extra-gonadal androgen dihydroepiadrosterone sulfate (DHEA-S) and dihydroepiandrostenedione (DHEA).
+
+ IV.
+
+ To evaluate the effect of prandial state on time to disease progression (Working group criteria).
+
+ OUTLINE: Patients are randomized to one of two treatment arms.
+
+ ARM I: Patients receive abiraterone acetate orally (PO) daily first thing in morning after an overnight fast of at least 8 hours.
+
+ ARM II: Patients receive abiraterone acetate PO daily within 30 minutes of a conventional low-fat breakfast.
+
+ In both arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Both arms will also be treated with prednisone 5mg twice daily.
+
+ After completion of study treatment, patients are followed up within 30 days.
+
+.
+
+ Food Effect Study of Abiraterone Acetate for Treatment of Patients With Castration-Resistant Prostate Cancer@highlight
+
+This randomized phase II trial studies the best way to give abiraterone acetate in treating patients with castration-resistant prostate cancer.
+
+ Abiraterone acetate is effective in treating castrate resistant prostate cancer and is taken in the fasting state.
+
+ However, the body's absorption of abiraterone is increased with food intake.
+
+ This study will test the whether a lower dose of abiraterone taken with food has a similar effect on prostate specific antigen (PSA) compared to full dose taken fasting.
+

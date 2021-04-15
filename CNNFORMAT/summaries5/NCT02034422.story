@@ -1,0 +1,60 @@
+(fifthQuint)Understanding the Exercise-Hypertension Paradox.
+
+ Nearly 37% of all Veterans are clinically hypertensive, making hypertension the most common medical condition in the VA Health Care System.
+
+ Importantly, of the 67 million Americans diagnosed with hypertension less than half are being effectively treated for their condition.
+
+ Hypertension constitutes a major risk factor for cardiovascular disease and when left untreated leads to the development of heart failure, coronary heart disease, peripheral artery disease, stroke, and renal disease.
+
+ Exercise and regular physical activity are considered the cornerstones of prevention and management of hypertension.
+
+ However, individuals with hypertension exhibit exercise intolerance characterized by impaired skeletal muscle blood flow and heightened afferent fiber sensitivity leading to an exaggerated or greater than normal physiologic increase in blood pressure during exercise (i.
+
+e.
+
+ exercise pressor reflex or EPR).
+
+ This imbalance between the beneficial effects of exercise and exercise intolerance creates an interesting paradox, the causes and consequences of which are poorly understood.
+
+ The etiology of hypertension is undoubtedly complex, however a common denominator in this condition, elevated oxidative stress, may contribute to impaired muscle blood flow and heightened skeletal muscle afferent feedback leading to the exaggerated EPR.
+
+ Previous work from the investigators' laboratory and others suggests that elevated oxidative stress associated with aging impairs muscle blood flow.
+
+ Additionally, free radicals, the initiators of oxidative stress, can directly stimulate skeletal muscle afferent fibers leading to the exaggerated EPR.
+
+ Importantly, the role of oxidative stress in regulating muscle blood flow and afferent fiber function in human hypertension has not been determined.
+
+ Preliminary studies support a significant role of oxidative stress in impairing muscle blood flow and contributing to the exaggerated EPR in hypertension.
+
+ With this information as context two aims are proposed that will systematically identify the consequences of elevated oxidative stress in hypertension.
+
+ Specific Aim 1 will determine the consequences of oxidative stress by examining how elevated free radicals contribute to heightened skeletal muscle afferent feedback and impaired muscle blood flow during exercise in hypertension leading to the exaggerated EPR.
+
+ Additionally, vascular endothelial cells collected from an antecubital vein will provide novel insight regarding the endothelium as potential source of elevated oxidative stress in hypertension.
+
+ Specific Aim 2 will determine the effectiveness of combined antioxidant therapy and exercise rehabilitation in the treatment of hypertension.
+
+ The overall goal of this proposal is to provide novel information regarding the role of oxidative stress as a critical regulator of cardiovascular and hemodynamic responses to exercise in hypertension.
+
+ By identifying potential causes and consequences of oxidative stress, important insight will be gained facilitating the development of novel approaches and therapeutic strategies for the treatment of hypertension.
+
+ Importantly, the practical applications tested in these studies (i.
+
+e.
+
+ antioxidant treatment and combined exercise rehabilitation) are designed to identify and document effective countermeasures to aid in the treatment and management of hypertension allowing for the safe performance of exercise in a large number of Veterans.
+
+.
+
+ Understanding the Exercise-Hypertension Paradox@highlight
+
+Hypertension affects 37% of the Veteran population, making it the most common medical condition treated by the VA Health Care System.
+
+ Physical activity is the first line of defense in the treatment and management of hypertension.
+
+ However, individuals with hypertension have impaired muscle blood flow and exhibit exaggerated increases in blood pressure during exercise (exercise pressor reflex or EPR) leading to exercise intolerance and increased risk of stroke and heart attack.
+
+ The cause of these impairments is not known, but it is highly likely that free radical production and the subsequent increase in oxidative stress plays a significant role.
+
+ Two aims are proposed; Aim 1 will identify the physiological consequences of elevated oxidative stress in hypertension, and Aim 2 will utilize an antioxidant treatment to ameliorate the effects of an exaggerated EPR allowing the safe performance of a clinical exercise rehabilitation program which will then, itself, attenuate the EPR and reduce hypertension.
+

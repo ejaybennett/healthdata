@@ -1,0 +1,20 @@
+(secondQuint)Moderate to Severe Bronchiolitis: Standard Therapy Versus Therapy With NaCl 3% Inhalations.
+
+ Acute viral bronchiolitis is the most common lower respiratory tract infection in the first year of life and leads to a large number of hospital admissions.
+
+ The only recommended treatment is supportive.
+
+ However many different types of drug inhalations have been studied but their efficacy remains controversial.
+
+ Our study will compare recommended supportive therapy to supportive therapy combined to hypertonic saline (NaCl 3%) inhalations in the treatment of moderate to severe bronchiolitis.
+
+ This will be the first study to use a true control group with no inhalation.
+
+.
+
+ Moderate to Severe Bronchiolitis: Standard Therapy Versus Therapy With NaCl 3% Inhalations@highlight
+
+Our study will investigate inhalation therapy of NaCl 3% compared to standard therapy with no inhalation in the treatment of moderate to severe bronchiolitis.
+
+ The impact on length of hospital stay will be analyzed.
+

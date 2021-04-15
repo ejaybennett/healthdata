@@ -1,0 +1,166 @@
+(fifthQuint)Efficacy of Different Chlorhexidine Concentrations.
+
+ The present study was designed as a parallel, double masked, randomized, placebo-controlled clinical trial.
+
+ The experimental gingivitis model, with the modifications by Preus and coworkers was used to induce gingival inflammation under supervised conditions throughout the study.
+
+ The study population comprised sixty dental, medical, and dental hygienist students who volunteered to participate in the project.
+
+ A meeting was arranged for the volunteers prior to the start of the study, through which the participants received information about oral rinsing products in general and chlorhexidine containing products as well as information on the study ahead, in particular.
+
+ The study period was 21 days, not comprising any special academic, religious or ethnic events that could jeopardize the collective behavior of the study population.
+
+ All information, administration and data collection was performed at the Department of Periodontology, Institute of Clinical Odontology, Faculty of Dentistry, University of Oslo, Norway.
+
+ The test solutions were the commercially available mouthwash products: 0.
+
+2 % chlorhexidine (no ethanol), 0.
+
+12% chlorhexidine with 910 ppm Sodium Fluoride (NaF) without ethanol and 0.
+
+06% chlorhexidine 250ppm Sodium Fluoride (NaF).
+
+ The three commercially available chlorhexidine solutions were filled in identical, but differently labelled (A,B,C) plastic bottles for blinding purposes.
+
+ Randomization was carried out using a computer generated random allocation table, assigning the participants to the three study groups with 20 test subjects in each.
+
+ They were all carefully instructed to rinse for 60 sec.
+
+ twice a day as recommended by the manufacturers.
+
+ Setting the baseline dental plaque score to zero was done by giving all participants a professional tooth cleaning with rubber cup, pumice paste and dental floss at the start of the study.
+
+ The participants were given their test solution and subsequently instructed to rinse as described above.
+
+ All information was given verbally as well as in writing.
+
+ Individual plastic tooth guards had been produced to fit the teeth in the upper right quadrant.
+
+ Together with this individual tooth guard, the students were given identical prophylaxis packs containing a medium texture tooth brush, inter-dental floss and dentifrice.
+
+ The participants were instructed to substitute their daily oral hygiene remedies with the ones given to them, and attach the tooth guard to the tooth brush, with a provided rubber string, before and after use so that the use of this always was remembered when using the brush.
+
+ The participants were instructed to insert the tooth guard in the first quadrant every time they brushed their teeth and to perform a mechanical oral hygiene routine twice daily in the three other quadrants.
+
+ They should then rinse 30 sec with tap water before and after removing the tooth guard to remove as much as possible of the remnants of the dentifrice.
+
+ Following this procedure, the participants rinsed, as instructed, with the solution they randomly had been assigned, repeating the procedure for 21 days.
+
+ Following the scoring at day 21, the participants received professional tooth cleaning after ending the study.
+
+ A team of five people were trained in the procedure of informing participants, receiving the test persons for evaluation, questionnaire and clinically monitoring them.
+
+ The principal investigator and project managers managed all contact with the participants outside the scoring room.
+
+ In between appointments the project team kept in touch with the test persons by text messaging and e-mail.
+
+ The success of this service was evident by zero no-shows at the clinic, as was the case also in the previous studies with this design.
+
+ At the interviews at day 7, 14, 21 the project managers received reports from each participant about compliance (adherence to protocol) and verbal complaints and descriptions of subjective side-effects.
+
+ A special questionnaire had been prepared for these interviews.
+
+ Reports of ill- and side effects were carefully registered and categorized for later statistical examination.
+
+ At day 21, the above mentioned interview was followed by an examination of clinical results.
+
+ Before entering the scoring room the project managers advised the participants to refrain from any conversation with the scoring scientists inside.
+
+ The recorders had been instructed likewise.
+
+ In the scoring room, two researchers obtained the clinical data.
+
+ The Loe and Silness plaque - and gingival index were recorded on the mesial, buccal, distal and palatal aspects of teeth 16, 15, 14, 13 and 23, 24, 25, 26.
+
+ Adverse events like discoloration observed during the clinical examination (yes/no) and clinically visible oral mucosal reactions were registered.
+
+ In addition, plaque index by Quigley and Hine, the Turesky modification, was registered.
+
+ All clinical registrations were performed by the same experienced periodontist, leaving her colleague to register recordings on specially designed charts.
+
+ The clinical crew was kept blind to the group allocation of the participants at all times, as the only one that had access to the code-book was the statistician who did not participate in the clinical events.
+
+ Statistics The present experiment aimed at comparing the plaque and gingivitis preventing effect of the 0.
+
+12% - and 0.
+
+06% chlorhexidine solutions with the gold standard 0.
+
+2% chlorhexidine group.
+
+ The total number of participants was 60, with 20 participants in each group.
+
+ The number of participants was based on the following power calculation.
+
+ The power analysis was based on the variable 'average plaque score in each participant'.
+
+ When comparing average plaque scores in two groups, a two-sided independent samples t-test was used, with 5% significance level.
+
+ Average standard deviation in the 3 groups was 0.
+
+40.
+
+ It may be shown that in order to have 80% test power to detect a mean difference in average plaque score of at least 0.
+
+40 between two groups, at least 15 participants must be included in each group.
+
+ Because some drop-outs were expected, it was decided to include 60 subjects in the study.
+
+ Because 80% test power is generally accepted as sufficiently high in clinical studies, and the mean difference in mesial plaque score between group 1 and group 3 was 0.
+
+41, the above calculation suggest that the study had acceptable test power.
+
+ When comparing mean plaque score in two groups, a two-sided independent sample t-test was used, with a 5% significance level.
+
+ When comparing proportion of subjects with a particular adverse effect, the "linear by linear association chi-square" test was used.
+
+ The statistical analysis was conducted using the software of Statistical Package for the Social Sciences (SPSS) for Windows, Version 16.
+
+0.
+
+ The distributions of the outcome variables were checked, and found to be sufficiently close to the normal distribution to allow for the use of a t-test.
+
+.
+
+ Efficacy of Different Chlorhexidine Concentrations@highlight
+
+Chlorhexidine is the gold standard of dental plaque prevention, but which concentration is the most effective is not known.
+
+ The aim of the present study was to compare the plaque and gingivitis inhibiting effect of commercial products containing 0.
+
+2%, 0.
+
+12% and 0.
+
+06% chlorhexidine in a modified experimental gingivitis model.
+
+ In three groups of healthy volunteers, experimental gingivitis was induced and monitored over 21days, simultaneously treated with the commercial solutions containing 0.
+
+2%, 0.
+
+12% and 0.
+
+06% chlorhexidine.
+
+ The maxillary right quadrant of each individual received mouthwash only, whereas the maxillary left quadrant was subject to both rinsing and mechanical oral hygiene.
+
+ Compliance and side effects were monitored at days 7, 14, and 21.
+
+ Plaque and gingivitis scores were obtained at baseline and day 21.
+
+ The commercial mouthwash containing 0.
+
+2% chlorhexidine resulted in statistically significantly lower plaque scores than the 0.
+
+12 and 0.
+
+06% mouthwashes after 21 days use, whereas no statistically significant difference was found between the effect of the two latter mouthrinses.
+
+ A commercial available mouthwash containing 0.
+
+2% chlorhexidine proved statistically significant better effect in preventing dental plaque than 0.
+
+12% and 0.
+
+06% solutions.
+

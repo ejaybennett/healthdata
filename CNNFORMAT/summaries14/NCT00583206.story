@@ -1,0 +1,16 @@
+(firstQuint)Muscle Atrophy in Sepsis.
+
+ Hypothesis 1: Severe sepsis will be associated with downregulation of anabolic signaling molecules and genes, upregulation of catabolic signaling molecules and genes, and the development of histologic and electrophysiologic abnormalities within skeletal muscle.
+
+ Hypothesis 2: Electrical stimulation will improve muscle strength in patients with sepsis.
+
+ Hypothesis 3: Electrical stimulation will be associated with upregulation of anabolic signaling molecules and genes, downregulation of catabolic signaling molecules and genes, and improvement of histologic and electrophysiologic parameters within skeletal muscle of patients with sepsis.
+
+ Hypothesis 4: The ratio of catabolic:anabolic gene expression on Day 3 will be positively correlated with the severity of clinical weakness on Day 7.
+
+ Muscle Atrophy in Sepsis@highlight
+
+Severe sepsis will provoke signals leading to muscle atrophy and weakness.
+
+ Electrical stimulation will reduce the impact of sepsis.
+

@@ -1,0 +1,16 @@
+(firstQuint)Efficacy of Diclofenac BCG Irrigations.
+
+ This study is designed as a double blind placebo controlled randomized study to evaluate the effectiveness of diclofenac suppositories in the prevention of side effects of BCG bladder irrigation in bladder cancer patients.
+
+ After signing an informed consent, the patients will be randomized to either receive an unmarked suppository of Diclofenac or a placebo suppository.
+
+ The effectiveness of the drug will be tested weekly by quality of life questionnaires and bladder symptom questionnaire.
+
+ Another questionnaire is designed to monitor the time in minutes that the BCG is retained in the bladder before the patients urinates.
+
+.
+
+ Efficacy of Diclofenac BCG Irrigations@highlight
+
+This study is designed to test the effectiveness of diclofenac suppositories in the prophylaxis of side effects caused by BCG bladder irrigations in bladder cancer patients.
+

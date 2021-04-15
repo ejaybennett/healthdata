@@ -1,0 +1,22 @@
+(thirdQuint)Chlorhexidine Versus Povidone-Iodine for Prevention of Epidural Needle Contamination in the Parturient.
+
+ The use of chlorhexidine for skin asepsis for the placement of intravascular catheters is known to decrease the incidence of central line colonization and blood stream infection when compared to the use of povidone-iodine.
+
+ While the development of an infectious complication following spinal or epidural analgesia, such as epidural abscess or meningitis, is fortunately rare, when it does happen, there can be devastating consequences for the affected individual.
+
+ The low frequency of infection makes a trial with an endpoint of clinical infection not feasible, however a reduction in skin and needle contamination following attempts at asepsis should reduce the risk of infectious complication.
+
+ Ongoing work by the authors is examining the skin culture rates following randomized standardized skin disinfection.
+
+ The purpose of this randomized trial is to compare needle culture rates to further assess effectiveness of skin disinfection following a standardized skin preparation with either povidone-iodine or chlorhexidine in pregnant women requesting lumbar epidural pain relief in labour.
+
+.
+
+ Chlorhexidine Versus Povidone-Iodine for Prevention of Epidural Needle Contamination in the Parturient@highlight
+
+Infection after epidural catheter placement is fortunately rare.
+
+ When it does happen, the affected person can become seriously ill.
+
+ This study examines which skin disinfectant, chlorhexidine or povidone-iodine, decreases the number of bacteria that can be grown from the skin washed with each disinfectant prior to placing an epidural catheter for pain control in labour.
+

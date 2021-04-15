@@ -1,0 +1,30 @@
+(secondQuint)Pilot Study of the Safety of a Daily Ethanol Lock for Urinary Catheters in Critically Ill Children.
+
+ This study involves a confirmatory/refuting approach to the above stated hypothesis.
+
+ The investigators will test this hypothesis by addressing the following aims/objectives: Specific Aim 1: Quantify blood alcohol levels after a 1 hour 74% ethanol lock in urinary catheters utilized in the Pediatric Intensive Care Unit.
+
+ Specific Aim 2: Compare cellular components in urinalyses after the introduction of the ethanol locks.
+
+ Potential study subjects will be recruited from the Children's Healthcare of Atlanta - Egleston Pediatric Intensive Care Unit.
+
+ Children that are anticipated to have an indwelling urinary catheter for >48 hours will be included.
+
+ For this pilot study, the investigators will enroll 10 patients.
+
+ Subject ages will range from 6 months to 17 years.
+
+ Children who are on a service other than Critical Care Medicine will have clearance from the primary team prior to approaching for enrollment.
+
+ The consent process will take place prior to or during the initial 24 hours of urinary catheter placement.
+
+.
+
+ Pilot Study of the Safety of a Daily Ethanol Lock for Urinary Catheters in Critically Ill Children@highlight
+
+Hypothesis 1: Blood alcohol concentration will be <25 mg/100ml (equivalent to a blood alcohol concentration of <0.
+
+025%) after a 1 hour urinary catheter ethanol lock.
+
+ Hypothesis 2: Daily urinary catheter ethanol locks will not result in increased hematuria or increased urinary white cells.
+

@@ -1,0 +1,14 @@
+(secondQuint)Treatment Resistant Depression and Obstructive Sleep Apnea, Effect of Continuous Positive Airway Pressure (CPAP).
+
+ Primary objective: What is the effect on mood and anxiety symptoms of adding CPAP to the psychiatric treatment of patients with TRD and associated OSA? Secondary objectives: 1.
+
+ How common is co-morbid OSA in patients with treatment resistant unipolar depression referred to a tertiary Mood Disorders Clinic? 2.
+
+ Is there a difference in daytime functioning (severity of depressive and anxiety symptoms, cognitive function, daytime sleepiness) and sleep quality between patients with TRD diagnosed with OSA compared with patients with TRD who have no OSA? 3.
+
+ What is the association between sleep fragmentation and hypoxemia and the severity of depression in patients with TRD?.
+
+ Treatment Resistant Depression and Obstructive Sleep Apnea, Effect of Continuous Positive Airway Pressure (CPAP)@highlight
+
+The purpose of the study is to determine the effect on mood and anxiety symptoms of adding CPAP to the psychiatric treatment of patients with TRD (treatment resistant depression) and associated OSA (obstructive sleep apnea).
+

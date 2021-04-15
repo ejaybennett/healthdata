@@ -1,0 +1,30 @@
+(secondQuint)Goal Achievement After a Change to Vortioxetine in Adults With Major Depressive Disorder.
+
+ The drug being tested in this study is called Vortioxetine.
+
+ Vortioxetine is being tested to treat depression in people who have major depressive disorder.
+
+ This study will look at effectiveness of treatment with vortioxetine in participant's goal achievement for the treatment of major depressive disorder.
+
+ The study will enroll approximately 120 patients.
+
+ Participants will receive: cent Vortioxetine 10 to 20 mg All participants will be asked to take one tablet at the same time each day throughout the study.
+
+ The participants will receive a starting dose of 10 mg.
+
+ The dose may be up-titrated to 20 mg.
+
+ The dose may then be decreased by 5 mg based on participant's response and tolerability to higher dose as judged by the Investigator.
+
+ This multi-center trial will be conducted in Unites States.
+
+ The overall time to participate in this study is 19 weeks.
+
+ Participants will make multiple visits to the clinic, and will be contacted by telephone for 4 weeks after last dose of study drug for a follow-up assessment.
+
+.
+
+ Goal Achievement After a Change to Vortioxetine in Adults With Major Depressive Disorder@highlight
+
+The purpose of this study is to determine the effectiveness of treatment with vortioxetine on participant goal achievement after a change in antidepressant medication for the treatment of major depressive disorder (MDD).
+

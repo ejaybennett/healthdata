@@ -1,0 +1,12 @@
+(firstQuint)A Trial to Evaluate a Device for the Treatment of OSA and Snoring.
+
+ The Tongue Advancement Retainer Device is a device that was developed to treat subjects with OSA and snoring.
+
+ The purpose of this study is to evaluate initial safety and effectiveness of this device in treating one or both conditions.
+
+.
+
+ A Trial to Evaluate a Device for the Treatment of OSA and Snoring@highlight
+
+To evaluate the safety and efficacy of the Tongue Advancement Retainer Device in treating subjects with Obstructive Sleep Apnea (OSA) and snoring.
+

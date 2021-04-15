@@ -1,0 +1,40 @@
+(secondQuint)Pegylated Irinotecan NKTR 102 in Treating Patients With Relapsed Small Cell Lung Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To evaluate the 18-week progression free survival (PFS) rate of relapsed small cell lung cancer (SCLC) patients treated with NKTR-102 (pegylated irinotecan NKTR 102).
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate the objective response rate.
+
+ II.
+
+ To evaluate the duration of response.
+
+ III.
+
+ To evaluate the overall survival.
+
+ IV.
+
+ To evaluate the toxicity of NKTR-102 in this patient population.
+
+ TERTIARY OBJECTIVES: I.
+
+ To explore the correlation between UDP glucuronosyltransferase 1 family, polypeptide A cluster (UGTIA1) polymorphisms and NKTR-102 toxicities.
+
+ OUTLINE: Patients receive pegylated irinotecan NKTR 102 intravenously (IV) over 90 minutes on day 1.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up at 30 days and then every 3 months thereafter.
+
+.
+
+ Pegylated Irinotecan NKTR 102 in Treating Patients With Relapsed Small Cell Lung Cancer@highlight
+
+This phase II trial studies how well pegylated irinotecan NKTR 102 works in treating patients with small cell lung cancer that has returned after a period of improvement.
+
+ Pegylated irinotecan NKTR 102 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+

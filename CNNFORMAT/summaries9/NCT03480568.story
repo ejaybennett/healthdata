@@ -1,0 +1,20 @@
+(thirdQuint)Alirocumab in Patients on a Stable Dialysis Regimen.
+
+ Primary objective: The objective of this trial is to demonstrate the efficacy of alirocumab 150 mg every 2 weeks over 12 weeks on cholesterol levels.
+
+ Secondary objective: To assess the safety of treating chronic dialysis patients with alirocumab 150 mg subcutaneously every 2 weeks for 12 weeks.
+
+ Secondary objective: To demonstrate the efficacy of alirocumab 150 mg every 2 weeks over 12 weeks on biomarkers.
+
+ Exploratory objective: To assess alirocumab drug levels in subjects maintained on hemodialysis and peritoneal dialysis.
+
+ Methodology: Open-label, nonrandomized study Number of patients Ten patients maintained on stable hemodialysis for a minimum of 3 months and ten patients maintained on stable peritoneal dialysis for a minimum of 3 months Test product: alirocumab 150 mg Mode of administration: administered subcutaneously Dosing interval: every 2 weeks Duration of treatment: 12 weeks Primary endpoint: Levels of LDL-cholesterol at 12 weeks Secondary endpoints: Levels of total cholesterol, triglycerides, apoprotein B, Cystatin-C, fibrinogen, hsCRP, IL-6, NGAL, NT-proBNP, soluble CD40 ligand, troponin T, VCAM Safety criteria: Adverse events, Incidence and intensity of AE, including serious AE (SAE), Withdrawal from study medication due to AE, Clinical relevant new findings or worsening of existing conditions physical examination, Clinically relevant changes in laboratory measurements from baseline.
+
+ Alirocumab in Patients on a Stable Dialysis Regimen@highlight
+
+12-week study of the efficacy and safety of alirocumab in patients maintained stably on hemodialysis or peritoneal dialysis.
+
+ Measures of cholesterol levels, drug levels, PCSK9 levels, routine chemistry and cell counts, and biomarkers will be obtained at baseline and at weeks 4, 8, 10 and 12 weeks.
+
+ Safety events will be obtained throughout the study.
+

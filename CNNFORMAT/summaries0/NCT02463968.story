@@ -1,0 +1,40 @@
+(fifthQuint)Chikungunya Arthritis in the Americas.
+
+ Chikungunya is rapidly spreading throughout the Americas and causes debilitating chronic arthritis in approximately one fourth of patients.
+
+ There is currently no standard treatment for chikungunya arthritis, and the mechanisms leading to this chronic arthritis are unclear.
+
+ Further characterization of the disease pathophysiology is needed in order to guide evaluation of potential therapeutics.
+
+ It is hypothesized that chronic chikungunya arthritis is due to persistence of active virus in the synovial fluid where macrophages serve as a viral reservoir.
+
+ The predominance of activated macrophages in persistently infected tissue and the presence of viral genome within these macrophages in non-human primates makes our hypothesis plausible.
+
+ To test this hypothesis, this study has three Specific Aims.
+
+ Aim 1, describe host characteristics affect susceptibility to severe or persistent arthritis.
+
+ Aim 2, determine if chikungunya virus persists in synovial fluid and synovial fluid macrophages in humans as shown in non-human primates.
+
+ Aim 3, investigate how these macrophages may be activated and modulated by cytokines.
+
+ To date, these pathophysiologic factors have not been well characterized in humans.
+
+ Information gained from this study can directly lead to recommendations for the further evaluation of antiviral versus immune modulating medications.
+
+.
+
+ Chikungunya Arthritis in the Americas@highlight
+
+Chikungunya is a mosquito-borne viral illness that leads to chronic joint pain in approximately one half of patients.
+
+ The mechanisms leading to long term arthritis in humans has not been well established.
+
+ There is some evidence from animal studies that activated macrophages with persistent viral infection may play a role in chronic arthritis however these mechanisms have not yet been identified in humans.
+
+ It is hypothesized that activated macrophages harboring persistent active chikungunya virus are responsible for chronic arthritis and joint pain in patients.
+
+ The focus of this proposal is to evaluate synovial fluid and blood for direct viral persistence and activated macrophages that may clarify the mechanism of inflammatory injury.
+
+ The results of this study will be directly applicable to tailoring trials of therapeutics.
+

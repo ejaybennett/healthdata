@@ -1,0 +1,10 @@
+(firstQuint)Citicholine-Amantadine Trial in Traumatic Brain Injury.
+
+ As both agents amantadine and citcholine showed considerable effects on neuro-recovery from TBI, The investigators hypothesized that combination therapy of both drugs will have significant effect as it simultaneously will target multiple mechanisms of injury.
+
+ So, this randomized study aims at comparing between the effects of amantadine, citcholine and their combinations on arousal and behavioral consequences in early phase of moderate TBI.
+
+ Citicholine-Amantadine Trial in Traumatic Brain Injury@highlight
+
+This randomized study aims at comparing between the effects of amantadine, citcholine and its combinations on arousal and behavioral consequences in early phase of moderate Traumatic Brain injury (TBI).
+

@@ -1,0 +1,24 @@
+(thirdQuint)A Positive Activity Intervention to Promote Wellbeing in Romanian Immigrants.
+
+ Previous studies have shown that groups of immigrants may face a series of problems unique to the process of immigration, such as working, legal, social, and mental and physical health problems.
+
+ BPS is a guided imagery exercise that requires participants to envision themselves in the future, achieving desired goals in different areas of their lives.
+
+ This exercise has shown efficacy improving optimism, future expectancies and positive affect compared to a control condition, in general population.
+
+ Taking into account the prior literature, the aim of the present study is to carry out a randomized controlled study in order to replicate the findings about the effects of BPS on optimism, mood and affect in an immigrant population.
+
+ The design employed in this study is similar to the used in other studies.
+
+.
+
+ A Positive Activity Intervention to Promote Wellbeing in Romanian Immigrants@highlight
+
+This study aims to test the efficacy of an intervention focused on promoting positive emotions (Best Possible Self - BPS) to improve the psychological wellbeing of Romanian immigrants living in Spain.
+
+ It is hypothesized that the BPS intervention will significantly improve a series of positive mental health outcomes, i.
+
+e.
+
+, optimism, future expectancies, and affect, compared to the Control group.
+

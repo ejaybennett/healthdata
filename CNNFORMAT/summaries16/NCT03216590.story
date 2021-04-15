@@ -1,0 +1,28 @@
+(secondQuint)The Effect of Draping on Swelling in Shoulder Arthroscopy.
+
+ Fluid extravasation into the surrounding tissue is common in shoulder arthroscopy.
+
+ It frequently leads to soft tissue swelling and edema which results in poor visualization and prolonged surgical time.
+
+ While usually resolves uneventfully within 12 hours, excessive fluid extravasation into the soft tissue around the shoulder may lead to serious consequences and complications such as airway compromise, tracheal deviation, neuropraxias, habdomyoloysis and skin necrosis have been reported in the literature.
+
+ Methods aimed at reducing soft tissue swelling during shoulder arthroscopy in order to avoid complications (e.
+
+g.
+
+, low pump pressure, short arthroscopic time) are routinely practiced.
+
+ Nevertheless, fluid extravasation and soft tissue swelling remains a concern in shoulder arthroscopy.
+
+ The purpose of the current study is to evaluate whether applying local compression to the shoulder by preoperative compressive draping will reduce soft tissue swelling during shoulder arthroscopy.
+
+ To the investigators' knowledge, no previous study evaluated the influence of applying compressive draping to the shoulder on soft tissue swelling in shoulder arthroscopy.
+
+.
+
+ The Effect of Draping on Swelling in Shoulder Arthroscopy@highlight
+
+Strategies to minimize soft tissue swelling during shoulder arthroscopy are constantly sought after.
+
+ The investigators propose an unfamiliar method which may reduce tissue swelling during shoulder arthroscopy.
+

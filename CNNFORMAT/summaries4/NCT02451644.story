@@ -1,0 +1,16 @@
+(firstQuint)The Association Between Physical Activity and Pregnancy Rate Following Embryo Transfer.
+
+ Many studies have investigated the matter until today and still no reliable information about the relationship between physical activity and / or its intensity and the pregnancy rate after embryo transfer.
+
+ All patients that would take part in the study will be given a pedometer to measure steps for a month.
+
+ Measuring steps will begin preparation for embryo transfer and two weeks after.
+
+ Collected information about pregnancy rate (BHCG positive or negative).
+
+.
+
+ The Association Between Physical Activity and Pregnancy Rate Following Embryo Transfer@highlight
+
+The study examines the association between the amount of physical activity of the patient, ie the number of steps daily / weekly, and the pregnancy rate after embryo transfer.
+

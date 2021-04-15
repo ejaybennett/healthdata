@@ -1,0 +1,24 @@
+(thirdQuint)Continuous Spinal Anesthesia With Hypobaric Bupivacaine to Preserve Hemodynamics in Elderly.
+
+ Anesthesia for surgical repair of hip fracture is still controversial.
+
+ Large retrospective studies and systematic reviews failed to demonstrate the superiority of either general or regional anesthesia.
+
+ However, continuous spinal anesthesia has been shown to preserve hemodynamics better than general and single shoot spinal anesthesia.
+
+ However, hypotension still occurs with continuous spinal anesthesia.
+
+ Unilateral spinal anesthesia may be achieved by hypobaric bupivacaine when patients are in the lateral position.
+
+ Unilateral spinal anesthesia is more effective in preserving hemodynamics by limiting the spread of the sympathetic blockade to the operated side.
+
+ Our goal is to show that the use of hypobaric rather than isobaric bupivacaine in continuous spinal anesthesia for surgical repair of hip fracture reduces incidence of hypotension.
+
+.
+
+ Continuous Spinal Anesthesia With Hypobaric Bupivacaine to Preserve Hemodynamics in Elderly@highlight
+
+The study evaluates the potential beneficial effects on hemodynamics when hypobaric bupivacaine is used instead of isobaric bupivacaine in continuous spinal anesthesia for surgical repair of hip fracture in elderly patients.
+
+ Half of the patients will receive hypobaric bupivacaine and the over half will reveive isobaric bupivacaine and hemodynamic data will be compared.
+

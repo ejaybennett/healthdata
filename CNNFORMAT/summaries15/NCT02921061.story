@@ -1,0 +1,48 @@
+(fifthQuint)Decitabine, Filgrastim, Cladribine, Cytarabine, and Mitoxantrone Hydrochloride in Treating Patients With Newly Diagnosed, Relapsed, or Refractory Acute Myeloid Leukemia or High-Risk Myelodysplastic Syndrome.
+
+ PRIMARY OBJECTIVES: I.
+
+ Estimate the maximum tolerated dose (MTD) of decitabine when used concomitantly with filgrastim, cladribine, cytarabine, and mitoxantrone hydrochloride (G-CLAM) in patients with newly diagnosed acute myeloid leukemia (AML) and high-risk myelodysplastic syndrome (MDS).
+
+ II.
+
+ Compare, within the limits of a phase 1/2 study, the rate of complete remission without measurable residual disease (minimal residual disease negative [MRDneg] complete remission [CR]) with decitabine + G-CLAM at the MTD compared to similar patients treated previously with G-CLAM alone.
+
+ SECONDARY OBJECTIVES: I.
+
+ Evaluate, within the limits of a phase 1/2 study, disease response (complete remission, overall response rate) relapse-free survival (RFS), event-free survival (EFS), and overall survival (OS) in patients with newly-diagnosed AML / high-risk MDS.
+
+ II.
+
+ Describe, within the limits of a phase 1/2 study, the toxicity profile of the study regimen.
+
+ OUTLINE: This is a dose de-escalation study of decitabine.
+
+ INDUCTION: Patients receive decitabine intravenously (IV) over 1 hour on days 1-10.
+
+ Patients also receive filgrastim subcutaneously (SC) on days 0-5, cladribine IV over 2 hours on days 1-5, cytarabine IV over 2-4 hours on days 1-5, and mitoxantrone hydrochloride IV over 60 minutes on days 1-3.
+
+ RE-INDUCTION: Patients who do not achieve MRDneg CR after first induction are eligible for re-induction.
+
+ Patients receive the same treatment as during induction except that decitabine is omitted.
+
+ CONSOLIDATION THERAPY: Beginning 6 weeks after achieving MRDneg CR or CR/CR with incomplete count recovery (CRi) after induction and/or re-induction, patients are eligible to receive filgrastim, cladribine, and cytarabine as in Induction.
+
+ Treatment may be repeated for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+ Subsequent consolidation cycles would be given after recovery from the previous cycle (roughly 4-6 weeks).
+
+ After completion of study treatment, patients are followed up at for 1 month and every 3 months for up to 5 years.
+
+.
+
+ Decitabine, Filgrastim, Cladribine, Cytarabine, and Mitoxantrone Hydrochloride in Treating Patients With Newly Diagnosed, Relapsed, or Refractory Acute Myeloid Leukemia or High-Risk Myelodysplastic Syndrome@highlight
+
+This phase I/II trial studies the side effects and best dose of decitabine when given together with filgrastim, cladribine, cytarabine, and mitoxantrone hydrochloride in treating patients with acute myeloid leukemia or myelodysplastic syndrome that is newly diagnosed, has come back or has not responded to treatment.
+
+ Drugs used in chemotherapy, such as decitabine, cladribine, cytarabine, and mitoxantrone hydrochloride work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+
+ Colony-stimulating factors, such as filgrastim, may increase the production of blood cells and may help the immune system recover from the side effects of chemotherapy.
+
+ Decitabine, filgrastim, cladribine, cytarabine, and mitoxantrone hydrochloride may work better in treating patients with acute myeloid leukemia and myelodysplastic syndrome.
+

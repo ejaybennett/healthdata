@@ -1,0 +1,32 @@
+(thirdQuint)Dexmedetomidine and Fentanyl Versus Midazolam and Remifentanil for Sedation in Patients Undergoing Ablation Procedures.
+
+ The role of ablation for chronic persistent AF has been debated amongst cardiologists for some time, and there is increasing evidence that ablation may be superior to medical management.
+
+ As populations age, the rate of AF is likely to increase and therefore the numbers of ablations performed for this arrhythmia will also be expected to increase.
+
+ Ablation procedures can vary in length from one to more than 6 hours in duration and require the patient to keep still so as not to influence the mapping procedure.
+
+ Options for anaesthesia care include a general anaesthetic or sedation.
+
+ Several studies have evaluated the safety of sedation for ablation, using combinations of fentanyl, midazolam and propofol.
+
+ These demonstrate that the ablation procedures are well tolerated under deep sedation.
+
+ Dexmedetomidine is an attractive potential agent for this role due to its favourable respiratory pharmacodynamics and good sedation profile.
+
+ Dexmedetomidine is a short acting relatively specific alpha-2 receptor agonist (alpha 2: alpha 1 = 1300:1).
+
+ It has been shown to have very little effect on respiratory parameters, even at high doses.
+
+In addition, it may offer some analgesic properties and therefore minimise the need for narcotic based agents.
+
+ the investigators will compare dexmedetomidine infusion and fentanyl bolus with remifentanil infusion midazolam bolus.
+
+.
+
+ Dexmedetomidine and Fentanyl Versus Midazolam and Remifentanil for Sedation in Patients Undergoing Ablation Procedures@highlight
+
+To evaluate the safety and efficacy of dexmedetomidine and compare this to a current technique commonly used at TGH for sedation in patients undergoing ablation procedures for atrial fibrillation (AF) and atrial flutter.
+
+ The investigators hypothesise that dexmedetomidine will be at least equivalent to, or more so, in terms of effectiveness and safety, when compared to midazolam and remifentanil for sedation during ablation procedures.
+

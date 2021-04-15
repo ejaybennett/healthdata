@@ -1,0 +1,40 @@
+(thirdQuint)Stepped Care for Mandated College Students.
+
+ Colleges and universities have seen a large increase in the number of students referred to the administration for the violation of alcohol policies.
+
+ However, research indicates that the majority of mandated students may not require extensive treatment.
+
+ Stepped care assigns individuals to different levels of care according to their response to treatment.
+
+ Encouraging research indicates that minimal interventions and BMIs may reduce heavy drinking in mandated college students.
+
+ Thus, implementing stepped care using these interventions could maximize treatment efficiency and reduce the demands on campus alcohol programs.
+
+ Participants will be students mandated to attend an alcohol program at a northeastern private university.
+
+ All participants will receive Step 1, a 15-minute minimal intervention including a discussion of the referral incident and the provision of a booklet containing advice to reduce drinking.
+
+ Participants will be assessed six weeks later, and those continuing to exhibit risky alcohol use will receive Step 2, randomization to: (a) a 60-90 minute brief motivational intervention (BMI) or (b) an assessment-only control.
+
+ All students will complete 3, 6, and 9 month follow-up assessments.
+
+ The three groups will be compared on two outcome measures: frequency of binge drinking episodes and alcohol-related problems in the past 30 days.
+
+ Predictors of treatment response (readiness to change, alcohol expectancies, age of first drink, sensation seeking, descriptive norms, and reaction to the referral) will also be evaluated for both steps of the intervention.
+
+ Research findings will assist college alcohol programs in determining the most effective and efficient allocation of their limited resources in treating mandated students.
+
+ The long-term objectives of this research are to inform preventive intervention research about the utility and cost-effectiveness of stepped-care approaches and to identify individual and situational factors that qualify these effects.
+
+.
+
+ Stepped Care for Mandated College Students@highlight
+
+This project provides stepped care to college students mandated for alcohol-related offenses.
+
+ Students are first provided with a minimal intervention, a 15-minute discussion of their alcohol use.
+
+ Students who continue to drink in a risky manner are provided with a more intensive, hour-long brief motivational interview.
+
+ By providing more intensive treatment to the students who exhibit risky drinking, we hope to maximize the efficiency of campus alcohol programs.
+

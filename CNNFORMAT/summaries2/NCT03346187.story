@@ -1,0 +1,13 @@
+(firstQuint)A Clinical Trial to Compare Safety and Pharmacokinetic Characteristics of CKD-337.
+
+ This study is a randomized, open-label, single oral dose, 2-way crossover clinical trial to compare safety and pharmacokinetics of CKD-337 in healthy male volunteers.
+
+ Subjects will receive either a single oral dose of the test formulation(CKD-337) or a oral dose of the reference formulation(Atorvastatin Calcium Trihydrate+Fenofibrate).
+
+ Each treatment period was separated by a washout period of at least 7 days.
+
+.
+
+ A Clinical Trial to Compare Safety and Pharmacokinetic Characteristics of CKD-337@highlight
+
+A randomized, open-label, single oral dose, 2-way crossover clinical trial to compare safety and pharmacokinetic characteristics of CKD-337 in healthy male volunteers

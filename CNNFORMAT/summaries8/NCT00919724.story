@@ -1,0 +1,48 @@
+(fifthQuint)Comparing Blood Vessel Endothelial Function in HIV-Infected People and Matched HIV-Uninfected People.
+
+ Normally the insides of blood vessels either widen or narrow in response to the need for more or less blood flow.
+
+ This is a function of the endothelial cells, which are the cells that line the inner layer of blood vessels.
+
+ However, in some people endothelial function is impaired, which may put them at an increased risk of heart disease and stroke.
+
+ It is widely assumed that HIV-infected people not yet receiving antiretroviral medications experience more impaired endothelial function than HIV-uninfected people, possibly because of the link between HIV and inflammation.
+
+ However, no rigorously controlled study has yet to be performed to verify this presumption.
+
+ It is important to establish whether HIV infection itself, and not the use of antiretroviral medications, is indeed the cause of impaired endothelial function.
+
+ This study will compare endothelial function in people with HIV who are not already receiving antiretroviral medications and in people without HIV.
+
+ Specifically, inflammation, immune activation, endothelial activation, and metabolic measures will be compared.
+
+ This study will involve two groups of participants.
+
+ The first group will consist of people with HIV who are enrolling in two other separate HIV studies (NCT00864916 and NCT00796822), one lasting 8 weeks and the other lasting 48 weeks.
+
+ The second group will consist of people without HIV who are similar to the first group in terms of age, sex, smoking status, and height.
+
+ All HIV-infected participants will undergo assessments during the study visits of whichever other HIV study they are enrolled in.
+
+ All HIV-uninfected participants will attend a main study visit that will include the following: a review of medical records and family medical history; measurements of blood pressure, heart rate, weight, temperature, and waist and hip circumferences; blood and urine collection; and a procedure called brachial artery reactivity testing, which is a noninvasive way to measure endothelial function.
+
+ Some of the HIV-uninfected participants will continue in the study so that any changes in their endothelial function can be assessed.
+
+ They will attend either two additional study visits at Weeks 4 and 8, which will correspond with one of the HIV studies, or three additional study visits at Weeks 8, 24, and 48, which will correspond with the other HIV study.
+
+ The additional visits will include repeat testing except for blood and urine collection.
+
+.
+
+ Comparing Blood Vessel Endothelial Function in HIV-Infected People and Matched HIV-Uninfected People@highlight
+
+The blood vessels that carry blood from the heart to the rest of the body are normally capable of relaxing and constricting when needed to provide more or less blood to the body.
+
+ The inability of blood vessels to relax and widen may increase the risk of heart disease and stroke.
+
+ One potential cause of this inability is inflammation.
+
+ Because HIV infection is associated with inflammation, it is possible that the blood vessels in people infected with HIV may not relax properly.
+
+ The purpose of this study is to determine whether people infected with HIV have worse blood vessel function than people without HIV infection.
+

@@ -1,0 +1,16 @@
+(secondQuint)Efficacy of Thalidomide in Preventing Chemotherapy-induced Delayed Nausea and Vomiting.
+
+ This is a prospective, randomized, multi-center, double-blind, placebo-controlled clinical trial, aimed to evaluate efficacy and tolerability of thalidomide in improving prevention of chemotherapy-induced delayed nausea and vomiting (CINV) in chemotherapy-naive patients after highly emetogenic chemotherapy(HEC) (cisplatin-based regimen or cyclophosphamide combination with doxorubicin/epirubicin).
+
+ A total of 820 patients are planned to be enrolled into the study.
+
+ Patients treating with highly emetogenic chemotherapy will be randomized into two groups, and be treated with Thalidomide+ Palonosetron+ Dexamethasone or Placebo + Palonosetron+ Dexamethasone, respectively.
+
+ The primary end point is complete response rate (CRR) for delayed CINV, and the secondary end points include the safety and quality of life (QOL).
+
+.
+
+ Efficacy of Thalidomide in Preventing Chemotherapy-induced Delayed Nausea and Vomiting@highlight
+
+This study was aimed to evaluate efficacy and tolerability of thalidomide in improving prevention of chemotherapy-induced delayed nausea and vomiting in chemotherapy-naive patients after highly emetogenic chemotherapy.
+

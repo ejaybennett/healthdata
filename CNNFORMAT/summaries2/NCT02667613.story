@@ -1,0 +1,12 @@
+(firstQuint)Changes in Everydaylife Activity of Children With CP During HABIT-ILE.
+
+ Studying in a RCT the changes in everyday llife activities of children with CP (unilateral and bilateral) during HABIT-ILE or control period, changes being scored by parents and by experts on ABILHAND-Kids, the PEDI, the ACTIVLM-CP and the COPM.
+
+ Investigate neuroplastic changes and correlation with everyday life changes.
+
+.
+
+ Changes in Everydaylife Activity of Children With CP During HABIT-ILE@highlight
+
+Studying in a RCT the changes in everyday llife activities of children with CP during HABIT-ILE or control period, changes being scored by parents and by experts.
+

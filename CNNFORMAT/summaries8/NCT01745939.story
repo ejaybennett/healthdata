@@ -1,0 +1,14 @@
+(firstQuint)Manipulation Effects on Abdominal Muscles.
+
+ Patients with low back pain will undergo ultrasound imaging of the lateral abdominal wall to measure resting and contracted thickness of the transversus abdominis muscle.
+
+ Following the pre-intervention measurement, patients will receive one of two physical therapy interventions (side lying thrust joint manipulation or side lying non-thrust oscillations into slight rotation) which will have been randomly assigned.
+
+ Immediately after intervention, ultrasound imaging will be repeated on the resting and contracted thickness of the transversus abdominis.
+
+.
+
+ Manipulation Effects on Abdominal Muscles@highlight
+
+The purpose of this study is to understand how different physical therapy interventions affect the use of certain abdominal muscles in patients with low back pain.
+

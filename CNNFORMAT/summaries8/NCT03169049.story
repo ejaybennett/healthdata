@@ -1,0 +1,22 @@
+(firstQuint)Nerve Conduction Block Using Transcutaneous Electrical Currents.
+
+ In the last years several animal experimental studies have evidenced that high frequency unmodulated currents about 5 KHz can cause a peripheral nerve block.
+
+ However electric currents with these high frequencies that are usually used for the treatment of pain in humans are interrupted or modulated (i.
+
+e.
+
+ interferential currents).
+
+ It has show that the diameter of the nerve it is related with the frequency to produce the conduction block.
+
+ For this reason the investigators decided to applied 20KHz to observe the effects on maximal manual force and to compare versus sham stimulation.
+
+ Only one study has applied 5KHz on experimental pain and they have demonstrated changes in somatosensory thresholds.
+
+.
+
+ Nerve Conduction Block Using Transcutaneous Electrical Currents@highlight
+
+The purpose of this study is to determine whether the transcutaneous application of unmodulated high frequency alternating currents could produce a quickly conduction block of peripheral nerve.
+

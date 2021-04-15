@@ -1,0 +1,20 @@
+(secondQuint)Examination of the Bronchoprotective Effect of Endothelin Receptor Blockade in Asthma.
+
+ Endothelin 1 may have a role in the development of acute airway narrowing in asthma.
+
+ Blockade of the endothelin system may thereby protect against airway narrowing.
+
+ Two receptors exist for endothelin 1, Endothelin A & B.
+
+ Both can be blocked by Bosentan, and the A receptor by ambrisentan.
+
+ Both medications are currently in use for the treatment of pulmonary arterial hypertension.
+
+ The investigators will endeavour to examine the potential role of endothelin 1 in the development of airway narrowing in asthma through blockade of the endothelin receptors A&B through the use of bosentan and ambrisentan.
+
+.
+
+ Examination of the Bronchoprotective Effect of Endothelin Receptor Blockade in Asthma@highlight
+
+The purpose of this study will be to determine if blockade of endothelin 1 signalling via endothelin receptor A using ambrisentan or dual blockade (A&B) via bosentan can provide protection against methacholine induced bronchoconstriction in asthma.
+

@@ -1,0 +1,28 @@
+(fifthQuint)Mother Sibling Interactions Following Very Low Birth Weight (VLBW) Infant Homecoming.
+
+ The proposed 2-year study will use a longitudinal, comparative, mixed method design to explore the impact of a Very Low Birth Weight (VLBW) (33 weeks gestational age) infant on mother-sibling interactions and sibling adjustment.
+
+ A comparison group of full term infants (38 weeks gestational age) will be included to elucidate sibling adjustment problems that are typical to having a new baby in the home and sibling adjustment problems that are associated with the unique stress of having to care for a VLBW infant.
+
+ Participants will be fifty mothers and siblings of VLBW infants and fifty mothers and siblings of full term infants.
+
+ Data collection will take place within one week of infant discharge from the hospital (enrollment), and at 1 month and 6 months post infant discharge using self-report measures, qualitative interviews, and mother-sibling interaction observation.
+
+ Variables of interest include mother's worry, anxiety, depression, and post-traumatic stress; mother-sibling interactions including uninvolvement, positive affect, negative affect, talk, looking and playing; internalizing and externalizing behaviors, sleep/somatic problems, and growth in siblings of VLBW and in siblings of the comparison group with full term infants.
+
+ Mixed modeling and Ordinary Least Squares (OLS) regression modeling will be conducted to identify factors that make siblings vulnerable to psychological and emotional adjustment problems in response to having a VLBW infant in the home.
+
+ There are no anticipated risks for the infant participants of the study aside from the small risk of violating confidentiality of infant participants and their mothers.
+
+ No risks for siblings are anticipated aside from the small risk of violating confidentiality.
+
+.
+
+ Mother Sibling Interactions Following Very Low Birth Weight (VLBW) Infant Homecoming@highlight
+
+The proposed study will explore longitudinally the impact of a very low birthweight (VLBW) infant on mother-sibling interactions and sibling adjustment.
+
+ The study will also include a comparison group of fullterm infants to determine which sibling adjustment problems are typical of having a new baby in the home and which are associated with the unique stress of having a VLBW infant.
+
+ This study will be the initial step in identifying factors affecting the adjustment of siblings of VLBW infants.
+

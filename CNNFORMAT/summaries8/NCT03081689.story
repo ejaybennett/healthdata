@@ -1,0 +1,30 @@
+(thirdQuint)Neo-Adjuvant Immunotherapy With Nivolumab for Non Small Cell Lung Cancer Patients.
+
+ Phase II, single-arm, open-label multicenter study that assesses feasibility, safety and efficacy of combined neoadjuvant chemotherapy and immunotherapy with Nivolumab 360 mg IV Q3W + Paclitaxel 200mg/m2 + Carboplatin AUC 6 IV Q3W in resectable stage IIIA N2-NSCLC adult patients followed by adjuvant treatment for 1 year with Nivolumab 240 mg IV Q2W for 4 months and Nivolumab 480mg Q4W for 8 months.
+
+ Three cycles of neoadjuvant chemotherapy in combination with nivolumab will be administered.
+
+ After completion of neoadjuvant therapy (3 cycles) and before surgery, a tumor assessment will be done.
+
+ Patients are allowed to leave the study if there is evidence of progression.
+
+ These patients may be considered for surgery.
+
+ Report imaging response vs pathological response rate will be evaluated.
+
+ Patients eligible for the trial are those with a histological diagnosis or cytologically proven operable and resectable non-small-cell lung cancer.
+
+ The total number of patients to be included will be 46 from 23 participating sites in Spain.
+
+ Accrual period of 1.
+
+5 years or until the inclusion of the last patient necessary to achieve the sample set in the protocol of 46 patients.
+
+ After that all patients will be treated for 1 year with adjuvant immunotherapy and they will be followed during 3 years after adjuvant treatment.
+
+.
+
+ Neo-Adjuvant Immunotherapy With Nivolumab for Non Small Cell Lung Cancer Patients@highlight
+
+Phase II, single-arm, open-label multicenter study that assesses feasibility, safety and efficacy of combined neoadjuvant chemotherapy and immunotherapy with Nivolumab 360 mg IV Q3W + Paclitaxel 200mg/m2 + Carboplatin AUC 6 IV Q3W in resectable stage IIIA N2-NSCLC adult patients followed by adjuvant treatment for 1 year with Nivolumab 240 mg IV Q2W for 4 months and Nivolumab 480mg Q4W for 8 months.
+

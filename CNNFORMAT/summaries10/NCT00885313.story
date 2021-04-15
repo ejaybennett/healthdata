@@ -1,0 +1,22 @@
+(secondQuint)Effects of Docosahexaenoic Acid (DHA) on Children With Nonalcoholic Fatty Liver Disease (NAFLD).
+
+ Sixty children or adolescents (4-16 years) with liver biopsy proven NAFLD will be enrolled.
+
+ They will be randomized to treatment with DHA 250 mg/kg/d (n=20), DHA 500 mg/kg/d (n=20), or an identical placebo (n=20) given orally for a period of 24 months.
+
+ All patients will be included in a lifestyle intervention program consisting of a diet tailored on the individual requirements and physical exercise.
+
+ Patients will undergo a medical evaluation every three months during the 24-month study period.
+
+ Liver biopsy will be performed only at baseline and at the end of treatment.
+
+ Anthropometric analysis, laboratory tests, including liver enzymes and lipids will be repeated at 3-month intervals during the 24-month study duration.
+
+ Ultrasonography and Fibroscan of the liver will be repeated at the end of the study period.
+
+.
+
+ Effects of Docosahexaenoic Acid (DHA) on Children With Nonalcoholic Fatty Liver Disease (NAFLD)@highlight
+
+The purpose of this interventional study is to evaluate the efficacy and tolerability of docosahexaenoic acid (DHA) in children or adolescents with well-characterized and liver biopsy confirmed nonalcoholic fatty liver disease (NAFLD).
+

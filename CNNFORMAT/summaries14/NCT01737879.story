@@ -1,0 +1,18 @@
+(firstQuint)Evaluation of the Conversion From Peginesatide to Epoetin Alfa in Patients Receiving Hemodialysis.
+
+ This is a phase 4, multicenter, single-arm, open-label study designed to evaluate whether patients receiving hemodialysis and treated with peginesatide can be converted to epoetin alfa using a predefined conversion table while achieving stable hemoglobin.
+
+ The study will be conducted in two phases.
+
+ Hemodialysis patients treated with epoetin alfa 3 times a week (TIW) will first be converted to peginesatide administered every 4 weeks (Q4W).
+
+ After 24 weeks, these participants will be converted back to epoetin alfa administered TIW for 32 weeks.
+
+ The primary endpoint will be the mean hemoglobin during the last 8 weeks of the epoetin alfa period.
+
+.
+
+ Evaluation of the Conversion From Peginesatide to Epoetin Alfa in Patients Receiving Hemodialysis@highlight
+
+The purpose of this study is to evaluate whether hemodialysis patients on peginesatide can be converted to epoetin alfa by using a predefined conversion table while achieving a stable hemoglobin.
+

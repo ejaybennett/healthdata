@@ -1,0 +1,42 @@
+(fifthQuint)Developing and Assessing Competencies for Caregivers and Patients With Ventricular Assist Devices.
+
+ Discharge to the community is increasingly becoming a priority for patients implanted with a Ventricular Assist Device (VAD).
+
+ The current study is designed to develop an Artificial Heart Continuity of Care Competency Program (AHC3P) to ensure the safety and feasibility of their return to the community.
+
+ This program will identify and delineate the step-by-step procedures required to care for a patient's ventricular assist device (VAD) on a daily basis, or during an emergency.
+
+ These step-by-step procedures will be will be used to develop a self-paced learning CD/video program for patients and caregivers and competencies.
+
+ The same competencies will also be used by the Artificial Heart Program team to assess caregiver skills, and provide direct feedback on steps that need revision or more in-depth instruction.
+
+ Subjects will be recruited in four phases.
+
+ Training for all four phases will be conducted by members of the AHP team.
+
+ During Phase I, VAD recipients will be videotaped while undergoing the current Artificial Heart Program (AHP) training.
+
+ During Phase II, VAD recipients and their caregivers will be recruited as the control group and will also undergo the current AHP training.
+
+ Phase III will involve patients and their informal caregivers undergoing the AHC3P and will serve as the experimental group.
+
+ Data regarding the self-efficacy of the trainees and the length of time and the number of trials required to achieve competency with the AHC3P will be compared to the training program currently in place.
+
+ During the fourth phase, health care professionals from UPMC will be recruited to undergo the AHC3P training.
+
+ Data regarding their self-efficacy prior to and after the training program will be compared.
+
+.
+
+ Developing and Assessing Competencies for Caregivers and Patients With Ventricular Assist Devices@highlight
+
+Discharge to the community is increasingly becoming a priority for patients implanted with a Ventricular Assist Device (VAD).
+
+ Because VADs are complex, patients and caregivers often fear leaving the hospital, although their status does not require hospitalization.
+
+ This project includes development of CD/video and web-based instructional programs on management of the VAD controller for patients and their caregivers (formal and informal).
+
+ A clinical trial will be used to examine discharge rates and placements following patients educated under usual care vs.
+
+ self-pace CD/video conditions.
+

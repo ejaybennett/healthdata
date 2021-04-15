@@ -1,0 +1,14 @@
+(firstQuint)Effect of Extraneal (Icodextrin)on Triglyceride Levels in PD Patients.
+
+ This prospective, open label, multi-center study evaluates the use of 7.
+
+5% icodextrin used in the long-dwell exchange in peritoneal dialysis patients with elevated triglyceride levels.
+
+ Fasting triglyceride levels will be measured during the study.
+
+.
+
+ Effect of Extraneal (Icodextrin)on Triglyceride Levels in PD Patients@highlight
+
+This is a Phase IV study evaluating triglyceride levels in peritoneal dialysis patients.
+

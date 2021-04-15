@@ -1,0 +1,26 @@
+(thirdQuint)MMF, Daclizumab and Corticosteroids as Mainstay Immunosuppression in Renal Transplant Patients.
+
+ The purpose of the SYMPHONY study is to compare four different immunosuppressive regimens.
+
+ They are each given for one year.
+
+ The following four combinations are tested in four groups of patients: - Group A: Cyclosporine in a normal dosage, mycophenolate mofetil (MMF) and corticosteroids - Group B: Daclizumab in the first two months after transplantation, cyclosporine in a lower dosage compared to group A, mycophenolate mofetil (MMF) and corticosteroids - Group C: Daclizumab in the first two months after transplantation, tacrolimus in low dosage, mycophenolate mofetil (MMF) and corticosteroids - Group D: Daclizumab in the first two months after transplantation, sirolimus in a low dosage, mycophenolate mofetil (MMF) and corticosteroids.
+
+ All drugs of the four immunosuppressive regimes are approved by the Health Authorities in the participating country for use in kidney transplantation.
+
+ The regimen administered to the patients in Group A represents a standard treatment, currently given with success to many transplant patients in a number of countries in the world.
+
+ The treatments in Groups B, C and D are experimental in the sense that either the doses administered are lower than the ones used before and/or the combination of drugs is experimental.
+
+ Nevertheless, there are results of scientific studies indicating that they are all effective alternatives and that they might have advantages compared to the standard immunosuppressive regimen, in particular as far as their safety (side effects, long-term toxicity) is concerned.
+
+ However, from the previous clinical experience, it is not yet clear which regimen offers the most advantages for the patients.
+
+ To find this out, in SYMPHONY the four regimens are administered to the four groups of patients (A-D) and the results in the different groups will be compared.
+
+.
+
+ MMF, Daclizumab and Corticosteroids as Mainstay Immunosuppression in Renal Transplant Patients@highlight
+
+To determine the renal function, as expressed by the glomerular filtration rate at 12 months, in renal transplant recipients receiving mycophenolate mofetil, daclizumab, and corticosteroids as mainstay immunosuppression in combination with low-dose cyclosporine, tacrolimus, or sirolimus, and compare it to that of renal transplant recipients receiving standard immunosuppression with mycophenolate mofetil, normal dose cyclosporine and corticosteroids.
+

@@ -1,0 +1,24 @@
+(fifthQuint)Vascular Remodeling and the Effects of Angiogenic Inhibition in Diabetic Retinopathy.
+
+ In this study, we are studying whether vascular density decreases during diabetic retinopathy prior to the pathological neovascularization seen in proliferative disease that results in blindness in more than 50 percent of patients, and whether the adverse, early vascular remodeling and neovascularization can be reversed by anti-angiogenic therapeutics.
+
+ We have shown that vascular density decreases during early stages of diabetic retinopathy, prior to the pathological neovascularization that defines proliferative retinopathy, and that this change may be reversible with new anti-angiogenic therapeutics.
+
+ To test this hypothesis we will determine (1) how blood vessels remodel and whether vascular density truly decreases during diabetic retinopathy and (2) how the anti-angiogenic steroid triamcinolone acetonide affects vascular density and pattern during human diabetic retinopathy and in our experimental model, the avian CAM model.
+
+ Twenty patients (n = 20) for each of the 4 NPDR stages will be enrolled.
+
+ In addition, a control group of 20 normal subjects will be recruited from the same clinical practice that do not have diabetes and no evidence of any vascular disease, for a total of 100 patients in the clinical trial.
+
+.
+
+ Vascular Remodeling and the Effects of Angiogenic Inhibition in Diabetic Retinopathy@highlight
+
+The retinal vasculature changes dramatically in patients with diabetic retinopathy especially between non-proliferative and proliferative disease.
+
+ The retinal vasculature can be imaged and quantified using special dyes.
+
+ This study will test whether the pattern of the retinal vasculature changes in patients with different levels of diabetic retinopathy can be quantified using computerized image analysis.
+
+ In addition, the study will evaluate whether new drugs to treat diabetic retinopathy will be able to reverse these vascular changes.
+

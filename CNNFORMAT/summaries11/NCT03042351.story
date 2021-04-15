@@ -1,0 +1,9 @@
+(firstQuint)Pilot Study for the Urinary Incontinence Treatment.
+
+ A non invasive study to improve the urinary incontinence performed in 36 women from two groups: 18 menopausal women and 18 fertile women.
+
+ The participants have to do pelvic floor muscles exercises with a restorative pelvic floor device every day for two months using the Magic Kegel app download in their mobile devices.
+
+ Pilot Study for the Urinary Incontinence Treatment@highlight
+
+Non invasive study to improve the urinary incontinence, through pelvic floor muscles exercises

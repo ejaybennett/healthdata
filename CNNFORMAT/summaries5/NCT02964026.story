@@ -1,0 +1,24 @@
+(fifthQuint)Study of Clinical Outcomes Associated With the Pulmonary Artery Catheter (PAC) in Cardiac Surgery Patients.
+
+ A retrospective study will be conducted using prospectively collected hospital inpatient data over a duration of over 5 years (Jan.
+
+ 1, 2010 - June 30, 2015) using a large US electronic health database (Cerner HealthFacts; Kansas City, MO).
+
+ Patients who underwent a qualifying cardiac surgery (verified through use of selected valid International Classification of Diseases-9 procedure codes and/or Current Procedural Terminology [CPT] codes) will be included.
+
+ Each patient's cohort designation will be defined based upon whether he/she did or did not receive a pulmonary artery catheter (PAC) for monitoring purposes.
+
+ Propensity scores, which take into account patient and hospital demographics, patient comorbidities, surgical type (isolated coronary artery bypass graft [CABG], valve, aortic surgery, multi-procedures, other complex nonvalvular procedures and heart transplants), and pre-operative condition (via an adapted EuroSCORE II) will be utilized to "match" patients who received a PAC for monitoring purposes with those who did not, to form a matched study cohort.
+
+ Clinical outcomes will be monitored through index visit discharge and up to 90 days post index visit discharge.
+
+.
+
+ Study of Clinical Outcomes Associated With the Pulmonary Artery Catheter (PAC) in Cardiac Surgery Patients@highlight
+
+The primary objective for this retrospective Electronic Health Record (EHR) analysis is to evaluate the clinical outcomes associated with the utilization of a pulmonary artery catheter (PAC), for monitoring purposes, within patients undergoing cardiac surgeries (isolated coronary artery bypass graft [CABG], valve, aortic surgery, multi-procedures, other complex nonvalvular procedures and heart transplants).
+
+ The study will be conducted using prospectively collected hospital inpatient data over a duration of over 5 years (Jan.
+
+ 1, 2010 - June 30, 2015) using a large US electronic health database (Cerner HealthFacts; Kansas City, MO).
+

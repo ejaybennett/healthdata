@@ -1,0 +1,20 @@
+(firstQuint)the Diagnostic Value of Rigiscan Test (Nocturnal Penile Tumescence and Rigidity, NPTR) in Chinese Males.
+
+ The Rigiscan test is used to evaluate the NPTR parameters.
+
+ The "normal" NPTR parameter is provided by the Rigiscan manufacturer based on a clinical study on 500 American males.
+
+ Original studies of NPTR parameters on Chinese males are warranted.
+
+ On the other hand, during the past decades, several new NPTR parameters have been developed, like tip TAU (tip tumescence activity units), tip RAU (tip rigidity activity units), base TAU (base tumescence activity units), base RAU (base rigidity activity units), but their diagnostic values have been less evaluated.
+
+ Basd on the these background, we determined to observe the clinical manifestation of these new parameters and to establish the "normal criteria" of NPTR parameters in Chinese males.
+
+ This could be clinically beneficial in the differential diagnosis of organic and psychological erectile dysfunction.
+
+.
+
+ the Diagnostic Value of Rigiscan Test (Nocturnal Penile Tumescence and Rigidity, NPTR) in Chinese Males@highlight
+
+The purpose of this study is to evaluate the diagnostic value of Rigiscan (nocturnal penile tumescence and rigidity, NPTR ) test in erectile dysfunction of Chinese males.
+

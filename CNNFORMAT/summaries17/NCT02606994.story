@@ -1,0 +1,22 @@
+(firstQuint)Effect of Over-the-counter Toothpastes on Chemotherapy-induced Oral Mucositis.
+
+ A pilot study showed that patients with chemotherapy-induced oral mucositis experienced accelerated healing of their oral mucositis by brushing with Oral Defense Toothpaste.
+
+ In this study, participants experiencing up to grade 2 chemotherapy-induced oral mucositis will be split into two arms.
+
+ The first arm (test arm) will receive Oral Defense Toothpaste and be required to brush three times per day, for 8 days.
+
+ The second arm (control arm) will receive Crest Toothpaste and be required to brush three times per day, for 8 days.
+
+ Patients in the control arm will be provided Magic Mouth Rinse, if needed.
+
+ Healing of oral mucositis lesions will be evaluated at days 1 and 8.
+
+ Quality of life assessment (determination of pain/loss of oral function) will be determined using a daily questionnaire.
+
+.
+
+ Effect of Over-the-counter Toothpastes on Chemotherapy-induced Oral Mucositis@highlight
+
+The purpose of this study is to determine whether Oral Defense Toothpaste causes accelerated healing of chemotherapy-induced oral mucositis.
+

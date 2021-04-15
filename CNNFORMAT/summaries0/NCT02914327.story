@@ -1,0 +1,31 @@
+(thirdQuint)Safety and Activity of SNX-5422 Plus Ibrutinib in CLL.
+
+ Chronic lymphocytic leukemia (CLL) is the most prevalent leukemia in adults and is not considered curable outside of allogeneic stem cell transplantation.
+
+ BTK is a critical kinase in the B cell receptor signaling pathway.
+
+ This pathway is amplified in CLL and results in amplification of proliferation and anti-apoptotic signals.
+
+ By inhibiting BTK, ibrutinib eliminates the activation of these pro-survival pathways and microenvironment survival signals.
+
+ While response to ibrutinib has been high with therapy well-tolerated overall, some patients have relapsed while others have been taken off therapy for toxicity or other reasons.
+
+ Relapse in CLL can be mediated by at least two separate mechanisms.
+
+ One is by mutations in BTK, which both decrease ibrutinib's affinity for BTK, and also changes the binding from irreversible to reversible.
+
+ This is a proof of concept study to investigate whether the addition of SNX-5422 to an established dose of ibrutinib will reduce mutated BTK from CLL cells and/or prevents or delays disease progression of subjects with CLL.
+
+ This is an open-label study of SNX-5422 combined with ibrutinib.
+
+ In each 28 day cycle, SNX-5422 will be dosed in the morning once every other day for 21 days, followed by a 7-day drug-free period.
+
+ Subjects will continue to receive daily oral ibrutinib at their established dose level in the afternoon every day for 28 days.
+
+ cycle.
+
+ Safety and Activity of SNX-5422 Plus Ibrutinib in CLL@highlight
+
+SNX-5422 is a prodrug of SNX-2112, a potent, highly selective, small molecule inhibitor of the molecular chaperone heat shock protein 90 (HSP90).
+
+ Hsp90 inhibitors may overcome ibrutinib resistance in Mantle cell lymphomas and this study will investigate whether the addition of SNX-5422 to an established dose of ibrutinib will result in the removal of mutated BTK from blood mononuclear cells and/or prevents or delays disease progression of subjects with CLL

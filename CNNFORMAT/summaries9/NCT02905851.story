@@ -1,0 +1,17 @@
+(firstQuint)Teledermatology and Modulation of Antibiotic Dose in Acne Vulgaris.
+
+ The investigators are going to ascertain if antibiotic burden can be reduced with tele dermatology use.
+
+ There are two arms of the study: 1.
+
+ Feedback group 2.
+
+ Non feedback group All subjects will be randomised to either group, all subjects will take photos of their face and answer questions at baseline, visit 2 (1 month), visit 3 (2 months), visit 4 (3 months).
+
+ The investigators will then use measurements of acne grading (patient grading, investigator global assessment, lesion counting, global acne grading) to reduce/taper antibiotics in the feedback group.
+
+.
+
+ Teledermatology and Modulation of Antibiotic Dose in Acne Vulgaris@highlight
+
+To see if teledermatology can be used to reduce antibiotic burden in patients on doxycycline or minocycline for acne vulgaris

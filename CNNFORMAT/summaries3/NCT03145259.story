@@ -1,0 +1,12 @@
+(secondQuint)Evaluation of Bioavailability of Diclofenac Dermal Products.
+
+ The study will utilize already FDA-approved marketed diclofenac products in healthy adults to generate data for establishing rate of drug delivery comparisons between diclofenac epolamine patches and diclofenac sodium solution in healthy adults and to determine skin concentrations.
+
+ This study supports FDA's continuing effort to identify the most accurate, sensitive, reproducible and efficient methods to evaluate topical dermatological drug products.
+
+.
+
+ Evaluation of Bioavailability of Diclofenac Dermal Products@highlight
+
+The study will utilize already FDA-approved marketed diclofenac products in healthy adults to generate data for establishing rate of drug delivery comparisons between diclofenac epolamine patches and diclofenac sodium solution in healthy adults and to determine skin concentrations.
+

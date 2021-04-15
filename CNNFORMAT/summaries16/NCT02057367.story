@@ -1,0 +1,22 @@
+(secondQuint)Scalp Nerve Block and Opioid Consumption in Brain Surgery.
+
+ Anterior scalp block with 0.
+
+5% plain Marcaine 20 ml.
+
+ may reduce the intraoperative opioid consumption in neurosurgical patients who undergoing the supratentorial craniotomy compared to those who receive 0.
+
+9% normal saline solution (placebo).
+
+ A Prospective Randomized Double Blind Control.
+
+ Scalp Nerve Block and Opioid Consumption in Brain Surgery@highlight
+
+Anterior scalp block with 0.
+
+5% plain Marcaine 20 ml.
+
+ may reduce the intraoperative opioid consumption in neurosurgical patients who undergoing the supratentorial craniotomy compared to those who receive 0.
+
+9% normal saline solution (placebo).
+

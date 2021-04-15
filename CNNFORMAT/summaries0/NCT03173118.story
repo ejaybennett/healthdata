@@ -1,0 +1,68 @@
+(fifthQuint)Elastography in the Diagnosis of Chronic Pancreatitis.
+
+ Chronic pancreatitis is a chronic inflammatory condition where progressive fibrosis and scarring leads to loss of pancreatic exocrine and endocrine function and can lead to development of malnutrition, weight loss, abdominal pain and impaired quality of life.
+
+ Patients with chronic pancreatitis have a high risk of pancreatic adenocarcinoma compared to the general population so it is vital that they are identified early in the disease.
+
+ There are numerous causes of chronic pancreatitis therefore early detection and treatment can prevent irreversible changes and symptoms developing.
+
+ Trans-abdominal ultrasound (US), computed tomography (CT) and magnetic resonance imaging (MRI) are currently used to investigate patients with symptoms suggestive of chronic pancreatitis.
+
+ These tests may, however, fail to show early changes in the bile ducts or small areas of inflammation in pancreatic tissue.
+
+ In areas of diagnostic uncertainty, endoscopic ultrasound (EUS) is currently used to provide a more detailed assessment.
+
+ EUS uses a flexible endoscope (similar to a gastroscope) passed into the stomach via the mouth.
+
+ The EUS scope has the addition of a tiny ultrasound probe on the tip which is used to acquire high resolution detailed images of the pancreas and other extra luminal structures (lymph nodes, bile ducts, mediastinum) lying only centimeters from the tip of the probe.
+
+ Despite the advantages of EUS, image interpretation can be extremely challenging and in the presence of inflammation.
+
+ Morphological changes of chronic pancreatitis seen at EUS have been classified according to the Rosemont classification; however, the findings are subjective with sub-optimal intra-observer agreement.
+
+ Elastography is an ultrasound technique used to assess stiffness of tissues in the body.
+
+ It has established applications in detecting chronic liver disease, and improving diagnostic accuracy in breast and prostate cancers.
+
+ Pancreatic elastography is now able to be performed during a standard EUS examination using the existing equipment (in a similar manner to Doppler).
+
+ Tissue elasticity is measured and represented with different colours (on a scale of 1 to 255).
+
+ The colour signal (red-green-blue) is then superimposed on the conventional grey-scale image.
+
+ Areas of increased stiffness are marked with dark blue, intermediate areas with green and soft tissue areas with red.
+
+ Areas of interest are able to be marked to give an elasticity reading and this is also compared to a control area of stomach wall to calculate a ratio (strain ratio).
+
+ Elastography has now become part of the routine EUS exam following several studies that have shown elastography can be successfully used to identify malignant pancreatic and lymph node masses with high sensitivity allowing accurate targeting of fine needle aspiration (FNA) biopsies and early confirmation or exclusion of cancer.
+
+ The investigators hypothesise that changes of chronic pancreatitis can also be detected using elastography assisted EUS.
+
+ Detecting change at an early stage will benefit patients and potentially reduce complications that result from chronic pancreatitis such as malnutrition, pain and osteoporosis.
+
+.
+
+ Elastography in the Diagnosis of Chronic Pancreatitis@highlight
+
+Chronic pancreatitis is a progressive inflammatory condition where progressive fibrosis and calcification results in loss of physiological pancreatic function (both endocrine and exocrine).
+
+ The structural, fibrotic changes of chronic pancreatitis can only be seen in advanced disease with conventional radiology tests and the diagnosis of chronic pancreatitis early in the disease course remains challenging.
+
+ Early diagnosis and treatment of chronic pancreatitis can prevent the complications of pain and malnutrition and improve the quality of life of patients.
+
+ Endoscopic ultrasound (EUS) has recently become a favoured method for diagnosing early structural fibrotic changes of chronic pancreatitis in clinical practice; however this technique is subjective with sub-optimal intra-observer agreement.
+
+ A new technique called elastography, performed during EUS, quantitatively measures tissue stiffness which may give more reliable results.
+
+ This study aims to assess whether EUS elastography can accurately identify for chronic pancreatitis.
+
+ Patients referred for EUS examinations will be identified and recruited prospectively.
+
+ The investigators will perform endoscopic ultrasound examinations with elastography readings in two groups of patients: those referred for EUS with suspicion of chronic pancreatitis and those referred for EUS for assessment of abdominal pain without risk factors or any other tests suggesting chronic pancreatitis.
+
+ The elastography readings will then be compared to the gold standard which is a composite evaluation including standard EUS examination using morphological appearance (Rosemont classification), and other tests already performed including cross-sectional imaging (MRCP and CT), patient history and faecal pancreatic elastase (FEL-1).
+
+ Patients will be identified and data collected prospectively.
+
+ There is no randomization or blinding involved in the study as the endoscopists will need to be aware of the indication for referral in order to carry out a complete examination.
+

@@ -1,0 +1,30 @@
+(thirdQuint)Identifying Genetic Markers That Predict Response to Paclitaxel in Patients With Newly Diagnosed Stage III or Stage IV Ovarian Epithelial Cancer or Primary Peritoneal Cancer.
+
+ OBJECTIVES: Primary - Identify genetic markers of paclitaxel chemosensitivity and/or chemoresistance, using gene expression arrays, in patients with newly diagnosed stage III or IV ovarian epithelial cancer or primary peritoneal cancer treated with single-agent weekly paclitaxel followed by paclitaxel in combination with carboplatin.
+
+ - Correlate RNA expression levels with clinical response in patients treated with this regimen.
+
+ Secondary - Determine the response rate in patients treated with this regimen.
+
+ - Determine the progression-free survival and overall survival of patients treated with this regimen.
+
+ - Compare transcriptional profiles of primary tumors vs tissue obtained at second-look surgery in patients treated with this regimen.
+
+ - Identify differential expression between pre- and post-treatment tissue in patients treated with this regimen.
+
+ OUTLINE: This is a pilot study.
+
+ Pre- and post-chemotherapy tumor samples undergo transcriptional profiling using cDNA microarrays to identify gene overexpression.
+
+ The gene expression profiles of paclitaxel-sensitive tumors are compared with those that are paclitaxel resistant to identify gene markers that are associated with response to paclitaxel.
+
+ PROJECTED ACCRUAL: A total of 40 patients will be accrued for this study.
+
+.
+
+ Identifying Genetic Markers That Predict Response to Paclitaxel in Patients With Newly Diagnosed Stage III or Stage IV Ovarian Epithelial Cancer or Primary Peritoneal Cancer@highlight
+
+RATIONALE: DNA analysis of tumor tissue from patients with cancer may help doctors predict how patients respond to treatment and plan the best treatment.
+
+ PURPOSE: This laboratory study is identifying genetic markers that predict response to paclitaxel in patients with newly diagnosed stage III or stage IV ovarian epithelial cancer or primary peritoneal cancer.
+

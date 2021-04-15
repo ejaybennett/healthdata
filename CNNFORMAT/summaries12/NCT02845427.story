@@ -1,0 +1,24 @@
+(fifthQuint)Closed Suction Drain or Not After Total Hip Arthroplasty.
+
+ Total Hip Arthroplasty (THA) wounds are prone to formation of hematomas.
+
+ Hematomas may increase the incision tension, leading to wound discharge and providing a good medium for bacteria, increase post-operative pain, limitation of range of motion of hip joint and prolong post-operative rehabilitation duration, also may cause ecchymosis, and tension vesicles around the surgical wound.
+
+ So use of closed suction drain system may reduce these complications.
+
+ Nevertheless some recent studies have claimed that drainage can cause other complications and does not reduce hematoma formation and risk for infection.
+
+ Furthermore, some studies have shown that drainage increase blood loss after THA which may both lead to increase blood transfusion requirements and provide an entry point for skin microorganisms.
+
+ Some other studies have found that no significance between use and non use of suction drain after THA.
+
+ So the investigators will take this issue for study a comparison between benefits and hazards of use and non use of suction drain after THA.
+
+.
+
+ Closed Suction Drain or Not After Total Hip Arthroplasty@highlight
+
+Comparative randomised study to clarify which better to use or no use of closed suction drain system after total hip arthroplasty regarding amount of blood loss, need for blood transfusion, risk for superficial infection, ecchymosis, wound discharge, effect on early post-operative rehabilitation.
+
+ Patients will be followed up for one month postoperative clinically (Harris Hip score system), laboratory (Hb level), and radiologically (A-P view plain x-ray of the hip).
+

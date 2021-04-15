@@ -1,0 +1,26 @@
+(thirdQuint)Phase 2 Study Assessing Secured Access to Vemurafenib for Patients With Tumors Harboring BRAF Genomic Alterations.
+
+ This is a biology driven, trans-tumoral, multicentric phase II trial assessing the efficacy and the safety of the targeted agent vemurafenib as a monotherapy in cohorts of patients with identified activating molecular alterations in BRAF gene.
+
+ A cohort is defined by a pathology and a BRAF- alteration (eg ovarian cancer with BRAF V600 mutation).
+
+ To explore the efficacy of vemurafenib per pathology and per target.
+
+ To assess the safety profile of vemurafenib.
+
+ To explore whether molecularly driven, high quality multi-tumor screening phase II trials are feasible in the French multiinstitutional, multidisciplinary setting.
+
+ To investigate the additional molecular mechanisms in patients with tumor response versus patients without tumor response within the same cohort.
+
+ The study will include 11 cohorts of adult patients with the following cancers and alterations: - NSCLC V600 mutated - Ovarian cancer V600 mutated - Cholangiocarcinoma V600 mutated - Thyroid cancer V600 mutated - Prostatic cancer V600 mutated - Bladder cancer V600 mutated - Sarcoma/GIST V600 mutated - Multiple myeloma V600 mutated - Chronic Lymphocytic Leukemia (CLL) V600 mutated - Hairy cell leukaemia (HCL) V600 mutated (this excludes Hairy Cell Leukemia variant types, marginal zone splenic lymphoma (MZL), splenic red pulp lymphoma (SRPL) patients) - Other pathology / other alteration than those pre-defined above.
+
+ The cohort named "Other" will include adult patients with tumor harboring BRAF genomic alterations only tested via emerging biomarkers programs or molecular pangenomic programs: - with any other non-predefined pathology harboring a V600 mutation - Same or other non-predefined pathology harboring non V600 activating mutations - Same or other non-predefined pathology harboring BRAF amplifications.
+
+.
+
+ Phase 2 Study Assessing Secured Access to Vemurafenib for Patients With Tumors Harboring BRAF Genomic Alterations@highlight
+
+Patients with metastatic or unresectable locally advanced malignancies harboring BRAF genomic alterations, the biological target of vemurafenib, and who are no more amenable to curative treatment.
+
+ To explore the efficacy of vemurafenib as a single agent across diverse type of tumors guided by the presence of identified activating molecular alterations in the vemurafenib target gene, per cohort.
+

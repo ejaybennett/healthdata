@@ -1,0 +1,20 @@
+(firstQuint)Use Of Blood Flow Rate Profiling For Postdialysis Washed-Out Patients.
+
+ Hemodialysis patients who complain of the postdialysis washed-out state were recruited.
+
+ blood flow rate was altered to be 350 ml/min in the first hour of the session then decreased by 50 ml/min hourly for the 4-hour dialysis session.
+
+ blood flow rate profiling was continued for 9 dialysis sessions (21 Days).
+
+ Patients were asked to grade their washed-out state on a scale from 1 (no washed-out state) to 5 (severe washed-out state) before and after blood flow rate profiling.
+
+ Paired t=-test and Wilcoxon Signed Ranks Test were used in appropriate context to compare washed out scale before and after together with urea reduction rate and other blood chemistry tests.
+
+.
+
+ Use Of Blood Flow Rate Profiling For Postdialysis Washed-Out Patients@highlight
+
+Hemodialysis patients frequently complain of postdialysis fatigue and washed-out feeling.
+
+ The aim of this study is to use blood flow rate (BFR) profiling to mitigate postdialysis washed-out state.
+

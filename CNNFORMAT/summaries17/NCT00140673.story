@@ -1,0 +1,28 @@
+(thirdQuint)A Study to Test 2 Doses of the HRV Vaccine in Healthy Infants.
+
+.
+
+ The study has two groups: Group HRV and Group Placebo.
+
+ Two oral doses administered to healthy infants who are 6-13 weeks of age at the time of Dose 1, according to a 0, 1 to 2-month schedule.
+
+ Routine EPI vaccinations are given at the discretion of the investigator and according to local National Plans of Immunisation schedule in each participating country.
+
+ A minimum 2-week interval was to be observed between HRV vaccine and OPV doses.
+
+ Of the total enrolled cohort of 60 000 subjects, 20 000 subjects were followed for efficacy and safety until one year of age while 40 000 subjects were followed for safety only until 30-90 days after the second HRV/placebo dose.
+
+ A subset (N = approximately 13 000) of the 20 000 subjects are followed for efficacy and safety until 24 months of age.
+
+ From the 20 000 subjects followed for efficacy and safety, a subset of 100 subjects per country (center specific, except Finland) provided two blood sample to evaluate immunogenicity.
+
+.
+
+ A Study to Test 2 Doses of the HRV Vaccine in Healthy Infants.
+
+@highlight
+
+The main objectives of this study are: 1) In a subset (N = 20 000), to determine vaccine efficacy against severe rotavirus (RV) gastroenteritis (GE) during the period starting from 2 weeks after Dose 2 until one year of age.
+
+ 2) In all subjects (N = 60 000), to determine the safety of GSK Biologicals' HRV vaccine with respect to definite intussusception (IS) within 31 days (Day 0-Day 30) after each HRV vaccine dose.
+

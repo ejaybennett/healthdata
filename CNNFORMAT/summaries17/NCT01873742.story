@@ -1,0 +1,46 @@
+(fifthQuint)The STIC Norway RCT Study: Using Feedback in Psychotherapy.
+
+.
+
+ The improvement rate in psychotherapy is generally regarded as 50%, while 10% of clients deteriorate after therapy.
+
+ This indicates a potential for improvement.
+
+ Research shows that in therapies with the lack of progress, the clients rarely express dissatisfaction about progress to their therapists, and parallel, these therapists consider the therapies to proceed in the right direction.
+
+ There is therefore a need for more knowledge about (a) how to obtain reliable information about the therapy progress and process monitored frequently during the course of therapy, and (b) that this information is fed back to the therapist and the client so that they (c) jointly can evaluate and adjust the aims and means for improving the therapy, something that may (d) enable them to test more appropriate approaches.
+
+ This clinical practice should also enhance the client collaboration and empowerment in therapy, hopefully leading to higher recovery rate, shorter treatments, and reduced drop-out.
+
+ To date, there is limited research on whether and how the use of feedback can contribute to improved outcomes.
+
+ Such research is especially lacking in couple and family therapy.
+
+ In a 3-year Norwegian pilot project at the Center for Family and relationships, Modum Bad, Department of Child and Adolescent Mental Health, Sorlandet Sykehus, and at Alesund family counseling office, the online-based feedback system STIC (Systemic Therapy Inventory of Change) has been implemented and tested.
+
+ The clinical experience is positive, and the system is considered suitable.
+
+ This project has evolved parallel to a similar project at the Family Institute at Northwestern University, Evanston, Ill.
+
+, supervised by the founder of the STIC system, professor William M.
+
+ Pinsof.
+
+ The project now enters a new phase by conducting a randomized, controlled trial (RCT) at three Norwegian couple- and family therapy sites in collaboration with five American psychotherapy sites to investigate whether the use of ongoing feedback is associated to more effective therapy compared with therapy without use of feedback.
+
+.
+
+ The STIC Norway RCT Study: Using Feedback in Psychotherapy.
+
+@highlight
+
+Feedback in psychotherapy involves clients monitoring therapy process and progress, and on a frequent basis clients register these data into online questionnaires.
+
+ These data are then fed back to the therapist, hence informing about the process and progress in therapy.
+
+ This information can be shared with the client, something that may enhance the client involvement in evaluating and planning of the therapy.
+
+ The same data can be used for research purpose.
+
+ This randomized controlled multicenter study within Norwegian couple and family contexts will explore the effects of feedback in natural settings, and it collaborates closely with a similar American study in Chicago/Evanston, Ill.
+

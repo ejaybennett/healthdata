@@ -1,0 +1,36 @@
+(fifthQuint)Maintenance Low Dose Oral Navelbine In Patients With Non Small Cell Lung Cancer - MA.
+
+NI.
+
+LA Trial.
+
+ Systemic therapy remains the mainstay of treatment of advanced stage NSCLC.
+
+ Combination chemotherapy with a platinum-based regimen has emerged as standard therapy for patients with advanced stage disease.
+
+ Observations supported by the findings of several clinical trial, established the notion that an efficacy plateau had been reached in advanced stage NSCLC patients treated with platinum-containing drugs.
+
+ Recent phase III trials suggest the benefit of "switch" and "continuing" maintenance treatment with different drugs.
+
+ As "switched therapy", Vinorelbine has been selected on the base of its anti-mitotic role.
+
+ In fact, the use of anti-mitotic drugs at lower dose but with higher frequency (metronomic schedule) seems to augment the anti-angiogenetic effect of this kind of drugs, thus augmenting the efficacy of the therapy.
+
+ Therefore, the purpose of the current study is to evaluate the role of a "switched maintenance" with oral vinorelbine administered as a metronomic schedule in terms of Progression Free Survival (PFS) in advanced NSCLC patients with stable disease after first line platinum based chemotherapy.
+
+.
+
+ Maintenance Low Dose Oral Navelbine In Patients With Non Small Cell Lung Cancer - MA.
+
+NI.
+
+LA Trial@highlight
+
+Non Small Cell Lung Cancer (NSCLC) represents the first cancer related cause of death worldwide with 1.
+
+4 millions of deaths every years.
+
+ Current standard therapies include platinum-containing drugs but at one year from diagnosis the survival rate is still low (30-40%) .
+
+ The purpose of this study is to evaluate the role of a platinum-free drug, named Vinorelbine, administered by the so called "metronomic schedule" in order to prolong the progression free survival of patients.
+

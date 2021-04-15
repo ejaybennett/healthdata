@@ -1,0 +1,14 @@
+(secondQuint)A 4-week Study of Mifepristone in the Prevention of Risperidone-induced Weight Gain in Healthy Male Volunteers.
+
+ This is a 28-day, single-center, double-blind, placebo-controlled inpatient study of the administration of risperidone alone or in combination with mifepristone in healthy adult male volunteers.
+
+ The primary study objective is to determine the mean change in absolute weight at Day 28 compared to baseline in normal healthy male volunteers treated with risperidone plus mifepristone or risperidone alone.
+
+ The secondary study objectives are to determine the mean percent change in baseline body weight; and the proportion of subjects that gain less than 5% and less than 7% of their baseline body in the treatment groups.
+
+.
+
+ A 4-week Study of Mifepristone in the Prevention of Risperidone-induced Weight Gain in Healthy Male Volunteers@highlight
+
+This is a 28-day, single-center, double-blind, placebo-controlled inpatient study of the administration of risperidone alone or in combination with mifepristone in healthy adult male volunteers to determine the average change in absolute weight at Day 28 compared to baseline.
+

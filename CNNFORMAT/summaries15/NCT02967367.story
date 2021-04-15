@@ -1,0 +1,30 @@
+(fifthQuint)Reliability of Consumer Sleep Trackers in Patients Suffering From Obstructive Sleep Apnea Syndrome.
+
+ During last years, numerous sleep trackers have been commercialized.
+
+ They are working on accelerometer-based technology.
+
+ They are intended to give indications about sleep quality/duration in order to give people an internet-based feedback about their own sleep.
+
+.
+
+ For clinical and research purposes, tri-axial accelerometers/multi-sensors devices are used routinely to assess objective sleep quality/patterns.
+
+ Their use is also validated to estimate sleep in obstructive sleep apnea syndrome (OSA).
+
+ The purpose of our study is to compare the accuracy of consumer-level sleep trackers and validated tools to measure sleep in OSA patients.
+
+.
+
+ Reliability of Consumer Sleep Trackers in Patients Suffering From Obstructive Sleep Apnea Syndrome@highlight
+
+During last years, numerous sleep trackers have been commercialized.
+
+ They are intended to give indications about sleep quality/duration in order to give people an internet-based feedback about their own sleep.
+
+ For clinical and research purposes, tri-axial accelerometers/multi-sensors devices are used routinely to assess objective sleep quality/patterns.
+
+ Their use is also validated to estimate sleep in obstructive sleep apnea syndrome (OSA).
+
+ The purpose of the present study is to compare the accuracy of consumer-level sleep trackers and validated tools to measure sleep in OSA patients.
+

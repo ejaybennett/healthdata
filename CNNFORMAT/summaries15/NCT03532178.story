@@ -1,0 +1,16 @@
+(firstQuint)Comparison Of Rocuronium Reversal By Sugammadex To Succinylcholine For Electroconvulsive Therapy (ECT).
+
+ The proposed study is a single center, randomized, double-blind (patients, psychiatrists and outcome assessor), cross-over clinical trial comparing the recovery of neuromuscular blockade from rocuronium with reversal of sugammadex to succinylcholine in participants receiving ECT.
+
+ The primary outcome will be the measurement of time when the first train-of-four (TOF) twitch (T1) returns to 90% of baseline.
+
+ The secondary aims are to document the safety (adverse event rates) of rocuronium/sugammadex compared to succinylcholine in ECT patients.
+
+ The exploratory aims are to establish the perioperative efficacy and efficiency of sugammadex reversal of rocuronium in ECT procedures in comparison with succinylcholine.
+
+.
+
+ Comparison Of Rocuronium Reversal By Sugammadex To Succinylcholine For Electroconvulsive Therapy (ECT)@highlight
+
+The investigators propose to compare the recovery of neuromuscular blockade from rocuronium reversal by sugammadex to succinylcholine in ECT.
+

@@ -1,0 +1,16 @@
+(secondQuint)Cytisine Versus Varenicline for Smoking Cessation.
+
+ Cytisine, a natural product, found in plants such as the Golden Rain and New Zealand Kowhai, partially blocks the effects of nicotine on the brain.
+
+ Cytisine has been used as a smoking cessation treatment in several Central and Eastern European countries since the 1960s, is inexpensive compared to other cessation medications and has few known side effects.
+
+ New Zealand research has shown cytisine to be more effective than nicotine replacement therapy at helping people quit smoking.
+
+ Using a clinical trial design (N=2140) the investigators plan to investigate whether cytisine is at least as good as varenicline (the most effective, but most expensive, smoking cessation medication currently available in New Zealand) for helping Maori/family of Maori who smoke, to quit.
+
+.
+
+ Cytisine Versus Varenicline for Smoking Cessation@highlight
+
+To evaluate the effectiveness, safety, and cost-effectiveness of cytisine plus behavioural support compared to varenicline plus behavioural support for smoking cessation, in indigenous Maori (or family of Maori) who smoke and are motivated to quit.
+

@@ -1,0 +1,20 @@
+(firstQuint)Prevention Recurrent Otitis Media in the Young Children.
+
+ Recurrent otitis media is the most common bacterial disease in young children.
+
+ Many risk factors are known, but benefit of operations are conflicting in children under two years of age.
+
+ In this randomized prospective controlled trial, the effect of tympanostomy tubes is compared to the effect of the combination of adenotomy and tympanostomy tubes in preventing recurrent otitis media.
+
+ A control group with no active treatment is also included.
+
+ The speed of recovery is studied by recording the daily symptoms and number of days of effusion comparing the differences between the groups.
+
+ Life quality issues are recorded preoperatively and at about four and twelve months after the operation and are compared between the groups and to healthy children of the same age.
+
+.
+
+ Prevention Recurrent Otitis Media in the Young Children@highlight
+
+The purpose of this study is to find out if young children have more benefit of the combination of adenotomy and tympanostomy than plain tympanostomy in prevention of recurrent otitis media.
+

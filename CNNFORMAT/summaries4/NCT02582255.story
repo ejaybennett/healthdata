@@ -1,0 +1,18 @@
+(firstQuint)A Study to Evaluate the Safety and Immunogenicity of Monovalent OPV2 in Children Aged 1 to 5 Years in Lithuania.
+
+ Sabin 2 will be withdrawn from routine use globally from April 2016 as per the SAGE recommendations at the time of writing this protocol.
+
+ After this cessation of OPV2, stockpiles of mOPV2 will be maintained for potential use if necessary in response to a future outbreak.
+
+ However, there is a risk of cVDPV2 from Sabin 2 in settings of low population immunity.
+
+ Research is ongoing to develop vaccines that are genetically more stable than the currently available Sabin 2-containing OPVs.
+
+ To generate data on immunogenicity, safety, and genetic stability on the Sabin 2 vaccine (mOPV2) and as a future comparator for new polio vaccine research after the global switch from tOPV to bOPV, this study with mOPV2 is performed to evaluate safety, immunogenicity (humoral and intestinal) and genetic stability endpoints of mOPV2 in children aged 1 to 5 years for better understanding of the stockpile use of this vaccine, and any potential new polio vaccine with a type 2 component in the future.
+
+.
+
+ A Study to Evaluate the Safety and Immunogenicity of Monovalent OPV2 in Children Aged 1 to 5 Years in Lithuania@highlight
+
+A Phase 4 study to evaluate the safety and immunogenicity of monovalent oral polio vaccine type 2 in healthy IPV-vaccinated children aged 1 to 5 years in Lithuania.
+

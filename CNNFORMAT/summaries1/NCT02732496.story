@@ -1,0 +1,20 @@
+(secondQuint)Computerized Working Memory Training in Children With ADHD and Comorbid Tourette Syndrome.
+
+ Because impairments in executive functions (EFs), such as working memory, are associated with functional impairments in youth with neurodevelopmental and neuropsychiatric disorders, strategies that target EFs are critical.
+
+ Neuroplasticity-based cognitive training has been found to improve cognition in youth with ADHD and in adults with schizophrenia.
+
+ In this trial, the investigators seek to extend the relevance of computerized cognitive training to youth with comorbid ADHD and Tourette Syndrome.
+
+ Given the literature, the investigators hypothesize that computerized working memory training will produce gains in untrained cognitive tasks and behavioral ratings of executive functions in youth with ADHD+TS.
+
+ The investigators will assess aspects of attention and executive functions in 30 affected youth and randomize them 1:1 to either neuroplasticity-based cognitive training or enjoyable age-appropriate computer games not intended to improve cognition.
+
+ Cognition will be assessed again after 30 training sessions over 6 weeks and then again at a one-month follow-up.
+
+.
+
+ Computerized Working Memory Training in Children With ADHD and Comorbid Tourette Syndrome@highlight
+
+The investigators will conduct a randomized placebo-controlled trial of a computerized intervention targeting working memory in 30 children with comorbid Attention-Deficit/Hyperactivity Disorder (ADHD) and Tourette Syndrome (TS).
+

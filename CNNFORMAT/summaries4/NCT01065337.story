@@ -1,0 +1,32 @@
+(fifthQuint)Induced Wound Healing by Application of Expanded Bone Marrow Stem Cells in Diabetic Patients With Critical Limb Ischemia.
+
+ Diabetic foot (DF) is a concomitant illness of diabetes mellitus.
+
+ Diabetes is one of the main causes of non-traumatic amputation worldwide due to severe peripheral arterial occlusive disease with chronic critical limb ischemia being the most abundant problem.
+
+ Ulceration occurs as failure of oxygenation, nutrient supply and progressive occlusion of larger blood vessels often exacerbates pre-existing microvascular abnormalities.
+
+ Purified bone marrow mononuclear cells or expanded bone marrow cells enriched in Cluster of Differentiation 90+ (CD90+) mesenchymal stem cells (named tissue repair cells, [TRCs]) are used in the treatment of diabetic ulcers in comparison to bone marrow derived stem cells to induce revascularization of the affected limb and to enhance local perfusion.
+
+ Cells are administered intramuscular or intraarterial.
+
+ A control group of patients treated according national guidelines without stem cells serves as comparator.
+
+ Diabetic foot patients with chronic limb ischemia and without the option for surgical or interventional revascularization were recruited and randomized to the transplant groups or the control group within this clinical trial.
+
+ To measure the therapeutic effects of the various treatment arms patients were evaluated for (ankle brachial index (ABI), transcutaneous oxygen partial pressure (TcPO2), and reactive hyperemia (Blood Oxygen Level Dependent [BOLD]).
+
+ Patients also underwent imaging with angiographic methods.
+
+.
+
+ Induced Wound Healing by Application of Expanded Bone Marrow Stem Cells in Diabetic Patients With Critical Limb Ischemia@highlight
+
+Diabetic foot patients with chronic limb ischemia and without the option for surgical or interventional revascularization were recruited and randomized to the transplant groups or the control group within this clinical trial.
+
+ These patients are randomized to control or intervention group, whereas the intervention is divided into bone marrow cells administered intramuscular or intraarterial or expanded bone marrow cells administered intramuscular or intraarterial resulting in five distinct groups.
+
+ To measure the therapeutic effects of the various treatment arms patients were evaluated for (ankle brachial index (ABI), transcutaneous oxygen partial pressure (TcPO2), and reactive hyperemia (Blood Oxygen Level Dependent [BOLD]).
+
+ Patients also underwent imaging with angiographic methods.
+

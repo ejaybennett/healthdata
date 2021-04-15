@@ -1,0 +1,76 @@
+(fifthQuint)To Evaluate the Safety and Efficacy of IM and IV Administration of Autologous ADMSCs for Treatment of CLI.
+
+ Adipose Derived Stromal Vascular Fraction (ADSVF) Stromal Vascular Fraction (SVF) obtained from tumescent liposuction.
+
+ The SVF contains a variety of cells such as pre-adipocytes, endothelial cells, smooth muscle cells, pericytes, fibroblasts, and adult stem cells (ASCs).
+
+ In addition, the SVF also contains blood cells from the capillaries supplying the fat cells.
+
+ These include erythrocytes or red blood cells, B and T cells, macrophages, monocytes, mast cells, natural killer (NK) cells, hematopoietic stem cells and endothelial progenitor cells, to name a few.
+
+ It also contains growth factors such as transforming growth factor beta (TGF-), platelet-derived growth factor (PDGF), and fibroblast growth factor (FGF), among others.
+
+ This is consistent with the secretions of cells in the presence of an extracellular matrix.
+
+ The SVF also contains the various proteins present in the adipose tissue extracellular matrix of which laminin is of interest due to its ability to help in neural regeneration.
+
+Entire procedure for SVF preparation and isolation of SVF cells will be carried out in cGMP compliance clean room.
+
+ Pure stromal vascular fraction to the tune of 99% will be isolated for this clinical trial eliminating other unnecessary cells such as RBC and leukocytes.
+
+ Adipose Derived Mesenchymal Stem Cells (ADMSC) Human mesenchymal stem cells (MSCs) are present as a rare population of cells in adipose tissue which is almost 30-40% of the nucleated cells, but they can rapidly grow in culture without losing their stemness.
+
+ MSCs can be expanded in vitro 2 million -fold and retain their ability to differentiate into several mesenchymal lineages.
+
+ MSCs have several characteristics such as Ease of isolation, High expansion potential,Genetic stability,Reproducible attributes from isolate to isolate,Reproducible characteristics, Compatibility with tissue engineering principles, Potential to enhance repair in many vital tissues, Uniform dose and Better quality control and release criteria.
+
+ Beside autologous use MSC can also be used for allogenic therapy.
+
+ Several studies have used allo-MSC in vivo and experience suggests that the allo-MSCs are not rejected and many have positive effects on engraftment.
+
+MSC's can be isolated from various tissues, cultured ex vivo, and expanded many fold.
+
+18 Cultured-expanded MSC's appear to represent a homogeneous population by flow cytometric measures of cell-surface markers.
+
+ These cell retain the ability to undergo in vitro differentiation to osteogenic, adipogenic and chondrogenic lineages, even when clonally expanded.
+
+19 Human adipose tissue derived MSCs are capable of differentiating into endothelial cells in vitro and later form capillary-like structures in semisolid medium and suggest differentiation potential of MSCs is not restricted to mesodermal lineages but also transdifferentiation of MSCs into other lineages like endothelial could be realized in vitro and in vivo8 MSCs are known to give rise to limb-bud mesoderm (osteoblasts, chondrocytes, adipocytes, stroma cells, and skeletal myoblasts) and can also differentiate into cells of visceral mesoderm (endothelial cells).
+
+9 MSCs can facilitate vasculogenesis by increasing vascular endothelial growth factor (VEGF) levels.
+
+ After MSCs are intramyocardially injected into the infarct zone, local VEGF levels rise, vascular density and regional blood flow increases, and contractility improves.
+
+ MSCs are having anti-fibrotic activity and hence may be excellent source to tackle pulmonary fibrosis and hence could be explored for their therapeutic potential for treating Idiopathic pulmonary fibrosis.
+
+ MSC's also display membrane-bound and insoluble secreted molecules involved with cell attachment to neighboring cells and to the extra cellular matrix.
+
+18 This cell surface configuration may enable mesenchymal stem cells to home from bloodstream to mesenchymal tissue.
+
+.
+
+ To Evaluate the Safety and Efficacy of IM and IV Administration of Autologous ADMSCs for Treatment of CLI@highlight
+
+Various preclinical animal studies have shown the potential of stem cells in re-vascularising ischemic limbs and promoting collateral vessel formation.
+
+ SVF have the potential to facilitate the formation of new blood vessels and skeletal muscle.
+
+ Early pilot clinical studies indicate that stem-cell transplantation is feasible and may have beneficial effects in CLI.
+
+ Injury or inflammation is a prerequisite for the participation of circulating stem cells to home and differentiate on to this microenvironment.
+
+ The increased vascular permeability and expression of adhesion proteins like integrin assist in stem cell homing.
+
+ The migratory capacity of stem cells is dependent on natural growth factors such as vascular endothelial growth factor (VEGF), Stromal cell derived factor (SDFI) and stem cell factor (SCF).
+
+ The expression of VEGF, SDFI and SCF is highly unregulated in the hypoxic muscular tissue and is responsible for the recruitment of the stem cells to assist in the repair mechanism and consequent improvement in limb function.
+
+ In addition to the above regenerating potential of SVF, they have several advantages; they can be easily isolated without further culturing it.
+
+ Most importantly SVF have shown to have significantly highest expression of pluripotent markers similar to that of human embryonic stem cells and yet they are non-tumorogenic and safe.
+
+ MSCs are having angiogenic activity and hence may be excellent source to develop neo-vasculature and hence could be explored for their therapeutic potential for treating Critical Limb Ischemia.
+
+ MSC's also display membrane-bound and insoluble secreted molecules involved with cell attachment to neighbouring cells and to the extra cellular matrix19 Adipose derived Stromal vascular fraction and Mesenchymal Stem Cells has been found in preclinical studies to be safe and effective.
+
+ The current Phase I/II study of adipose derived stromal vascular fraction and Mesenchymal stem cells is conducted with the broad objective of establishing safety and efficacy.
+

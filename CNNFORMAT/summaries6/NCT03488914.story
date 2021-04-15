@@ -1,0 +1,14 @@
+(firstQuint)Examining Community-based Effectiveness of a Substance Use and HIV Risk Reduction Intervention for Young Men of Color.
+
+ We will conduct a comparative effectiveness trial (CET) with two intensities of treatment to be offered following field-based HIV counseling and testing (C&T) - the YMHP intervention and an enhanced "treatment as usual" (eTAU) condition involving HIV prevention services provided at two community based organizations (CBOs) to test their relative effectiveness in reducing substance use and sexual risk behavior among HIV-negative MYMSM.
+
+ In collaboration with two CBOs, our goals are to better understand substance use and sexual health-related outcomes among HIV-negative MYMSM who are unlikely to be treatment seeking and to implement the YMHP intervention in a way that will maximize portability and scalability.
+
+ Working together with our collaborators will help to address practical problems at the frontline of service provision to pave the way for a comprehensive program to reduce substance use and HIV infection among MYMSM.
+
+.
+
+ Examining Community-based Effectiveness of a Substance Use and HIV Risk Reduction Intervention for Young Men of Color@highlight
+
+This study will conduct an effectiveness trial of the 4-session evidence-based YMHP intervention for YMSM of color ages 15-29 at two CBOs in New York City, compared to usual care.
+

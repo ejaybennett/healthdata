@@ -1,0 +1,32 @@
+(fifthQuint)BLIS - Breastfeeding Levonorgestrel IUD Study.
+
+ Increasing use of the levonorgestrel intrauterine device (LNG IUD) has become a cornerstone of U.
+
+S.
+
+ efforts to decrease our nation's high rate of unplanned pregnancy.
+
+ Many women initiate use of this method in the post partum period.
+
+ The major advantage of immediate postplacental LNG IUD insertion is the prompt initiation of a highly effective contraceptive method at a time that does not interfere with the intense demands of newborn care, but any contraceptive method initiated in the postpartum period must not interfere with breastfeeding.
+
+ Our long-term goal is to understand the impact of hormonal contraceptives, initiated early in the postpartum period, on breastfeeding.
+
+ The central hypothesis is that quality of breastfeeding is not negatively affected by progestin-only hormonal contraceptives.
+
+ We will pursue three specific aims comparing women randomized to immediate post-placental vs.
+
+ delayed (4-6 week) postpartum LNG IUD insertion: Aim #1: To determine breastfeeding continuation rates at 8 weeks in both groups Aim #2: To determine timing of lactogenesis in both groups Aim #3: To assess breastfeeding continuation, exclusivity, and satisfaction as well as continuation and satisfaction with the LNG IUD at 26 weeks postpartum in both groups This proposal will support a non-inferiority RCT where participants will be randomly assigned to immediate postplacental insertion (within 10 minutes of placental delivery) or delayed postpartum insertion (4-6 weeks postpartum).
+
+ This project will provide needed evidence on breastfeeding impact of early postpartum initiation of the LNG IUD.
+
+.
+
+ BLIS - Breastfeeding Levonorgestrel IUD Study@highlight
+
+We are studying the effect of placing the levonorgestrel IUD (Mirena) immediately after birth on breastfeeding.
+
+ Women who wish to have a levonorgestrel IUD placed after their birth, wish to breastfeed, and are willing to participate in the study will be randomly assigned to either get the IUD placed immediately after delivery of the baby and placenta or 4-6 weeks later.
+
+ We do not believe there will be a difference in breastfeeding 8 weeks after delivery between those who get the IUD placed early or later.
+

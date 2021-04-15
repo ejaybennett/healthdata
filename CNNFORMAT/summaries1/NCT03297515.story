@@ -1,0 +1,18 @@
+(secondQuint)Therapeutic Potential of Omega-3 Fatty Acids Supplementation in Dry Macular Degeneration and Stargardt Disease.
+
+ Age-related macular degeneration (AMD) is the leading cause of blindness in developed countries.
+
+ By the year 2040, the number of people suffering from AMD is estimated to increase by 50%.
+
+ Stargardt disease is the most prevalent form of macular dystrophy in children, with an estimated prevalence of 1 in 10000.
+
+ There is no effective treatment available that stops progression or improves vision in patients with dry AMD or Stargardt disease.
+
+ Considering the success in animal studies and observational human studies with omega-3 fatty acids supplementation when the blood ratio AA (arachidonic acid)/EPA (eicosapentaenoic acid) is <2, the sponsor hypothesizes that, when the blood ratio of AA/EPA is maintained below 2, the visual acuity in the group with active supplements will improve, in comparison to the control group, in patients with moderate and severe dry AMD and moderate and severe Stargardt.
+
+.
+
+ Therapeutic Potential of Omega-3 Fatty Acids Supplementation in Dry Macular Degeneration and Stargardt Disease@highlight
+
+Prospective, randomised, double-blind study to assess the Therapeutic Potential of Omega-3 Fatty Acids Supplementation in Dry Macular Degeneration and Stargardt Disease (Macular Degeneration Omega-3 Study - MADEOS.
+

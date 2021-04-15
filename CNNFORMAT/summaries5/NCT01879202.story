@@ -1,0 +1,42 @@
+(thirdQuint)Methylphenidate as Treatment Option of Fatigue in Multiple Sclerosis.
+
+ The management oft fatigue comprises nonpharmacologic approaches like exercise, cooling procedures, nutrition, and energy conservation programmes.
+
+ These strategies should be considered as first-line options since they add to overall wellbeing, have no side effects and increase the patient's autonomy.
+
+ However, in most cases these strategies will not suffice to keep the patient symptom free on the long term.
+
+ Also, patients with overwhelming and severe fatigue will be unlikely to engage in exercise.
+
+ In these cases adding pharmacologic therapy will be the next step.
+
+ Until now, Amantadine, Modafinil, and Pemoline have been used among others, with some success.
+
+ Also antidepressants like buprione, fluoxetine, and venlafaxine have been used although they have never been systematically studied for the management of MS-related fatigue.
+
+ However, if a mood disorder is present, it is appropriate to treat it before pursuing pharmacologic therapy of fatigue.
+
+ Nevertheless, the response rate of all pharmacologic therapies of MS-related fatigue is not totally convincing making alternative pharmacologic therapies furthermore desirable.
+
+ Methylphenidate is an antagonist of dopamine and norepinephrine transporters on the presynaptic neuronal cell membrane.
+
+ Reduced reuptake results in an increase in extracellular levels of both neurotransmitters.
+
+ Until now, methylphenidate has been successfully used to treat fatigue in HIV and parkinsons disease, data on its efficacy in MS are not available.
+
+ The aim of this study is to determine the efficacy of methylphenidate treatment in MS-associated fatigue.
+
+ The treatment phase will be 6 weeks and treatment efficacy will be measured by validated questionnaires (Fatigue Severity Scale FSS, modified Fatigue Impact Scale MFIS) and by a neuropsychological test (Test for Attentional Performance).
+
+.
+
+ Methylphenidate as Treatment Option of Fatigue in Multiple Sclerosis@highlight
+
+Fatigue is a common symptom in multiple sclerosis (MS) that is characterized by physical and/or mental exhaustion.
+
+ Fatigue is difficult to treat and treatment efficacy of available therapy is limited.
+
+ The goal of this study is to determine whether MS-associated fatigue improves after 6 weeks of methylphenidate therapy.
+
+ Treatment efficacy will be measured by a questionnaire called "Fatigue Severity Scale" (FSS).
+

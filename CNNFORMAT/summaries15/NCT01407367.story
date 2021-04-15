@@ -1,0 +1,68 @@
+(fifthQuint)Safe Kidney Care Cohort Study.
+
+ Chronic kidney disease not requiring dialysis (CKD) is common, but under-recognized, among patients who frequent the health care system, where improving patient safety is a high priority.
+
+ Poor recognition of the disease and several other features unique to CKD make it a high-risk condition for adverse, patient-safety incidents (PSIs).
+
+ In this context, PSIs refer to events of unintended harm or injury related to medications or medical care.
+
+ These adverse safety events may include those usually cited for the general population (PSI), but also, CKD-specific unsafe practices (CKD-PSI) all of which, in turn, can lead to frequent hospitalization, accelerated loss of kidney function, increased risk of end-stage renal disease (ESRD), and death - all common outcomes in CKD.
+
+ CKD-PSIs have been established in prior work by the investigators of this study with the help of an expert panel but it is not known how commonly PSIs or CKD-PSIs occur or how to measure these reliably in the CKD population.
+
+ Furthermore, it is not known what role poor disease recognition plays in the occurrence of such safety events.
+
+ Finally, it remains to be determined whether CKD-PSIs contribute to the high frequency of adverse outcomes so common in this disease.
+
+ If CKD-PSIs are common and account for a significant portion of the adverse events so common in this population, then it is possible that by reducing the incidence of CKD-PSIs, through increased disease recognition, outcomes can be improved in this patient population.
+
+ In this study, the investigators will enroll volunteers from the population with pre-dialysis CKD for the purpose of observing the frequency of CKD-PSI in the target population detected over time.
+
+ The participants will be assessed annually for events that relate to CKD-PSI.
+
+ The first 100 participants (Phase I) will be provided with a standard medical alert accessory (bracelet or necklace) which is commonly used to alert doctors and other providers of a patient's disease state.
+
+ In this case the medical alert accessory will state "Decreased Kidney Function.
+
+ For My Care, Please Visit (website) www.
+
+safekidneycare.
+
+org" Participants are asked to log onto the website using unique 4-digit identifier (ID) assigned by the PI to track the participant's use of the website and to further improve the website.
+
+ Since all information on the website is available to the public, participants are not required to use the ID to access the content of the website.
+
+ The website does not collect or store patient health information, except for the Internet Protocol (IP) address which provides limited information on the location of the computer used to access the website (city, state, zip, and area code).
+
+ The volunteers in Phase I will be tracked over time as to whether they use and tolerate this medical alert bracelet/necklace and for their incidence of CKD-PSI.
+
+ Enrollment will continue after Phase I in Phase II (n = 250) with participants tracked on an identical study schedule for detection of CKD-PSI.
+
+ All study procedures are the same for Phase II except for the medical alert accessory.
+
+ The overall goal of this study will be to determine: the frequency of CKD-PSI in the target population, the acceptability of an alert device (Phase I only) intended to increase the recognition of CKD, and the contribution of CKD-PSI to the high incidence of adverse outcomes in CKD.
+
+ Safe Kidney Care Cohort Study@highlight
+
+Chronic kidney disease (CKD) is common, but it is often over-looked in patients with this disease when they are getting medical treatment.
+
+ Patients with CKD have special needs for their medical treatment.
+
+ When these special needs are not considered their medical care may lead to unintended harm (called safety events) which can cause hospitalization, more kidney problems, and even death.
+
+ This research study has two purposes.
+
+ The first purpose is to determine how participants feel about wearing a medical alert bracelet or necklace that alerts health care workers that the user of the bracelet or necklace has decreased kidney function.
+
+ Medical alert bracelets are often recommended for people who have other medical problems, such as diabetes.
+
+ This medical alert bracelet or necklace has an address to an informational website about the safe care of patients with kidney problems.
+
+ The investigators think that alerting health care workers that a person has decreased kidney function may decrease their chances of having a medical injury and improve the safety of their care.
+
+ The second purpose of this research study is to track how often people with kidney problems may be exposed to medicines, tests, or procedures that might increase their chance of having an accidental medical injury or safety event.
+
+ Though some medical injuries can not be prevented, the investigators want to find out what medical events in patients with kidney problems might be preventable.
+
+ The investigators also want to find out if other things might increase a patient's chances of getting a medical injury, such as physical weakness or medical instructions that might be confusing.
+

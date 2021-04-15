@@ -1,0 +1,38 @@
+(thirdQuint)Bcl-2 Antisense Oligodeoxynucleotide G3139 and Paclitaxel in Treating Patients With Recurrent Small Cell Lung Cancer.
+
+ OBJECTIVES: I.
+
+ Assess the toxicity and feasibility of paclitaxel administration during continuous intravenous bcl-2 antisense oligodeoxynucleotide G3139 in patients with recurrent small cell lung cancer.
+
+ II.
+
+ Evaluate the clinical response of this patient population when treated with this regimen.
+
+ III.
+
+ Evaluate the correlation between bcl-2 expression in these patients and efficacy of this therapy.
+
+ OUTLINE: Patients are stratified according to whether they have received prior taxane therapy (yes vs no).
+
+ Patients receive bcl-2 antisense oligodeoxynucleotide G3139 IV continuously on days 1-6 followed by 2 weeks of rest.
+
+ Paclitaxel IV is administered over 3 hours on day 6 of each course.
+
+ Treatment continues for a minimum of 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ Intrapatient dose escalation is allowed.
+
+ Patients are followed until death.
+
+ PROJECTED ACCRUAL: A total of 19-33 patients will be accrued for this study within 12-18 months.
+
+.
+
+ Bcl-2 Antisense Oligodeoxynucleotide G3139 and Paclitaxel in Treating Patients With Recurrent Small Cell Lung Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Bcl-2 antisense oligodeoxynucleotide G3139 may increase the effectiveness of a chemotherapy drug by making tumor cells more sensitive to the drug.
+
+ PURPOSE: Phase I/II trial to study the effectiveness of bcl-2 antisense oligodeoxynucleotide G3139 and paclitaxel in treating patients who have recurrent small cell lung cancer.
+

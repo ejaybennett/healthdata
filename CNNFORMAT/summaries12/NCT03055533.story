@@ -1,0 +1,48 @@
+(fifthQuint)Headsprout Reading Program in Children With Autism Spectrum Disorder and Reading Delay.
+
+ A large number of children with autism spectrum disorder (ASD) experience reading delays, yet few empirically supported reading interventions exist for this population.
+
+ Reading delay can interfere with academic progress, impede vocational opportunities, hinder self-expression, and limit capacity for independent living.
+
+ Accessing empirically supported interventions for reading skills can be difficult, with parents of children with ASD facing long waiting lists at specialty clinics, reflecting the simple fact that demand is greater than the supply of trained providers.
+
+ There is a pressing need for access to affordable interventions that do not depend on specialty clinics.
+
+ As a commercially available, computer-based program, Headsprout may be a good fit for children with ASD.
+
+ Headsprout has shown effectiveness in children with reading delay uncomplicated by ASD, but has not been rigorously studied in children with ASD.
+
+ This study will investigate the effects of the Headsprout reading program on improving reading skills of children with autism.
+
+ Eighteen children will be recruited and the researchers will evaluate their current language use by: 1) asking their parents to rate their child's language, 2) completing an echoic skill assessment.
+
+ Current reading skills will be determined by administering a reading assessment that evaluates their reading accuracy and fluency.
+
+ Participants will be randomly assigned to one of two groups; the first group will immediately receive treatment with the Headsprout reading program and the second treatment group will receive treatment after 12 weeks.
+
+ During the intervention, children will meet with a trained therapist, several times per week for approximately twelve weeks.
+
+ The therapist will instruct them to complete various reading activities on the computer.
+
+ These reading activities may include tasks such as receptively identifying letter names and letter sounds presented on the computer or practicing saying sounds out loud and blending combinations of sounds together.
+
+ The participants who do not receive treatment immediately will be asked to come in for reading assessments periodically throughout their wait time.
+
+ At the end of 12 weeks these participants will be able to start the Headsprout reading program.
+
+.
+
+ Headsprout Reading Program in Children With Autism Spectrum Disorder and Reading Delay@highlight
+
+Headsprout is a commercially available computer-based reading program that teaches children fundamental reading skills, including phonics, fluency, and comprehension.
+
+ The Headsprout reading intervention has been shown to be effective with children with various levels of reading skills, but it has not been rigorously tested in children with autism spectrum disorder (ASD).
+
+ The purpose of this study is to evaluate the effectiveness of Headsprout in a pilot sample of 18 children with ASD and reading delays to serve as a foundation for a larger, future randomized clinical trial (RCT).
+
+ Eighteen participants will be included in the study and randomly assigned to one of two groups; the first group will immediately receive treatment with the Headsprout reading program and the second treatment group will receive treatment after 12 weeks.
+
+ Treatment sessions will occur for one to two hours, two to four days a week, for twelve weeks.
+
+ The participants who do not receive treatment immediately will be asked to come in for reading assessments periodically throughout their wait time.
+

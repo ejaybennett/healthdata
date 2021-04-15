@@ -1,0 +1,12 @@
+(firstQuint)Dose Escalation Safety Study of MM-10-001 in Healthy Subjects.
+
+ The drug substance to be studied is a powder produced from shiitake mushroom, containing beta-glucans.
+
+ The purpose of this study is to evaluate the safety of increasing doses of MM-10-001 and to determine the dose of MM-10-001 that enhances the immune system in normal healthy subjects.
+
+.
+
+ Dose Escalation Safety Study of MM-10-001 in Healthy Subjects@highlight
+
+The purpose of this study is to evaluate the safety of increasing doses of MM-10-001 and to determine the dose of MM-10-001 that enhances the immune system in normal healthy subjects.
+

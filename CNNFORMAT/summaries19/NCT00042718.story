@@ -1,0 +1,34 @@
+(fifthQuint)A Study of the Effectiveness and Safety of High Dose, Short-course Levofloxacin in the Treatment of Acute Bacterial Exacerbation (Worsening) of Chronic Bronchitis.
+
+.
+
+ This is a randomized, double-blind, multicenter treatment study to evaluate the efficacy and safety of high-dose, short-course oral levofloxacin treatment versus treatment with other oral antibiotics in acute bacterial exacerbation of chronic bronchitis (ABECB).
+
+ This study evaluates the use of high-dose (750 milligrams) and short-course (3 or 5 days) levofloxacin compared with conventional doses and schedules of other effective antibiotics for controlling acute bacterial infections in patients with chronic bronchitis, The study will divide the 700 patients into two groups--one group with less severe (uncomplicated) chronic bronchitis, and one with more severe (complicated) chronic bronchitis.
+
+ Patients with uncomplicated disease will receive levofloxacin 750 mg once daily for 3 days or azithromycin 250 mg twice a day for 1 day and then 250 mg once a day for 4 more days.
+
+ Patients with complicated disease will receive levofloxacin 750 mg once daily for 5 days or amoxicillin/ clavulanate (875/125 mg) twice daily for 10 days.
+
+ All patients will take study medication orally.
+
+ Effectiveness will be measured by comparing the patient's signs and symptoms present at the Test-of-Cure Visits (study days 13 - 22) with those observed at the Study Entry Visit.
+
+ Safety will be evaluated throughout the study on the basis of the occurrence and severity of unexpected and undesirable events as well as by laboratory tests and physical examinations.
+
+ The hypothesis of the study is that a shorter course (3 days) of 750 mg levofloxacin will be at least as effective and well tolerated as azithromycin for 5 days for uncomplicated ABECB, and that 750 mg of levofloxacin for 5 days will be at least as effective and well tolerated as amoxicillin/ clavulanate for 10 days for curing complicated ABECB cases.
+
+ Uncomplicated ABECB: Oral doses of levofloxacin 750 mg once daily for 3 days, or azithromycin 250 mg twice daily on day 1, then 250 mg once daily on days 2 - 5.
+
+ Complicated ABECB: Oral doses of levofloxacin 750 mg once daily for 5 days, or amoxicillin/clavulante 875/125 mg once daily for 10 days.
+
+.
+
+ A Study of the Effectiveness and Safety of High Dose, Short-course Levofloxacin in the Treatment of Acute Bacterial Exacerbation (Worsening) of Chronic Bronchitis.
+
+@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of four oral antibiotic treatment regimens for bacterial infections in patients with chronic bronchitis.
+
+ The study goals are to demonstrate that 1) levofloxacin 750 mg once daily for three days is no worse than azithromycin 250 mg twice a day for one day and then 250 mg once a day for four more days, and 2) levofloxacin 750 mg once daily for five days is no worse than amoxicillin/ clavulanate (875/125 mg) twice daily for 10 days.
+

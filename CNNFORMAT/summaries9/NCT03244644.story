@@ -1,0 +1,24 @@
+(fifthQuint)Microbiota Restoration Therapy for Recurrent Clostridium Difficile Infection (PUNCHCD3).
+
+ This is a prospective, multicenter, randomized, double-blinded, placebo-controlled Phase 3 study of a microbiota suspension of intestinal microbes.
+
+ The primary assessments for this study are (i) efficacy of RBX2660 as compared to a Placebo in preventing recurrent episodes of CDI and (ii) safety via assessment of adverse events.
+
+ Follow-up office visits occur at weeks 1-, 4- and 8 after completing the blinded study treatment.
+
+ Telephone assessments for adverse events occur during weeks 2, 3 and 6 after the study enema and at months 3 and 6.
+
+ Patients who have had at least two recurrences after a primary episode and have completed at least two rounds of standard-of-care oral antibiotic therapy or have had at least two episodes of severe CDI resulting in hospitalization within the last year may be eligible for the study.
+
+ Study Subjects who are deemed failures following the blinded treatment per the pre-specified treatment failure definition may elect to receive an unblinded RBX2660 enema.
+
+.
+
+ Microbiota Restoration Therapy for Recurrent Clostridium Difficile Infection (PUNCHCD3)@highlight
+
+This is a prospective, multicenter, randomized, double-blinded, placebo-controlled Phase 3 study of a microbiota suspension of intestinal microbes.
+
+ Patients who have had at least two recurrences after a primary episode and have completed at least two rounds of standard-of-care oral antibiotic therapy or have had at least two episodes of severe CDI resulting in hospitalization within the last year may be eligible for the study.
+
+ Subjects who are deemed failures following the blinded treatment per the pre-specified treatment failure definition may elect to receive an unblinded RBX2660 enema.
+

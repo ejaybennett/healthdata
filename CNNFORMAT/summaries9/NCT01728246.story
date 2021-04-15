@@ -1,0 +1,28 @@
+(thirdQuint)An Efficacy, Safety and Effects on Quality of Life of Tramadol/Paracetamol as Add-on Therapy in Chronic Osteoarthritis.
+
+ This is an open-label (all people know the identity of the intervention), randomized (study drug assigned by chance), controlled study to evaluate the efficacy, safety and effects on QOL of tramadol/APAP as an add-on therapy in Filipino participants suffering from chronic pain because of chronic osteoarthritis.
+
+ Participants will be randomly assigned to 2 groups: tramadol/APAP group and non tramadol/APAP group.
+
+ Participants in tramadol/APAP group will receive celecoxib 200 milligram (mg) and fixed dose combination of tramadol (37.
+
+5 mg)/APAP (325 mg) as add on therapy, while the participants in non-tramadol/APAP group will receive celecoxib 200 mg only.
+
+ The total duration of the study will be 4 weeks.
+
+ The participants in both the groups will be given celecoxib 200 mg once daily for 4 weeks.
+
+ In addition, the participants in the tramadol/APAP group will be given add-on tramadol/APAP doses 3 times a day for 4 weeks.
+
+ Participants will be asked to return for follow-up at Weeks 2 and 4.
+
+ Efficacy will be assessed using 100 millimeter (mm) Visual Analog Scale (VAS) while QOL will be assessed using the Oswestry Disability Index (ODI).
+
+ Participant safety will be monitored throughout the study.
+
+.
+
+ An Efficacy, Safety and Effects on Quality of Life of Tramadol/Paracetamol as Add-on Therapy in Chronic Osteoarthritis@highlight
+
+The purpose of this study is to evaluate the efficacy, safety and effects on Quality of Life (QOL) of tramadol/paracetamol (APAP) as an add-on therapy (medication taken in addition to another medication) in Filipino participants with chronic (lasting a long time) osteoarthritis (disorder, which is seen mostly in older persons, in which the joints become painful and stiff).
+

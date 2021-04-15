@@ -1,0 +1,16 @@
+(firstQuint)A Phase 2b Open-label Study of Selinexor (KPT-330) in Patients With Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL).
+
+ This is a multicenter, open-label Phase 2b study of the SINE compound, selinexor.
+
+ A fixed 60mg dose of selinexor is given orally to patients with relapsed/refractory DLBCL who have no therapeutic options of demonstrated clinical benefit.
+
+ One hundred thirty patients with relapsed/refractory DLBCL who meet eligibility criteria and have none of the exclusion criteria will be enrolled to receive selinexor until either disease progression or intolerance has occurred.
+
+ Patients will be followed until disease progression and/or death.
+
+.
+
+ A Phase 2b Open-label Study of Selinexor (KPT-330) in Patients With Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL)@highlight
+
+A multicenter, open-label Phase 2b study of selinexor (KPT-330) in patients with relapsed/refractory DLBCL who have no therapeutic options of demonstrated clinical benefit.
+

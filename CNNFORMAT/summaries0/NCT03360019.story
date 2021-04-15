@@ -1,0 +1,22 @@
+(fifthQuint)Accurate WiFi-Based Localization of Dementia Patients For Caregiver Support:.
+
+ The efficacy of the Activlink system offering localization information to improve caregiver will be evaluated in two studies.
+
+ Study 2a will use the insole system with dementia patients residing in skilled or memory care.
+
+ Data regarding caregiving activity will be collected from their paid professional care providers.
+
+ Study 2b will use participant localization data collected on 80 independently dwelling mild dementia patients.
+
+ In this case data will be collected from their unpaid family caregivers.
+
+ Both studies will result in evaluating the efficacy of the WiFi-based insole to provide caregivers with augmented patient awareness, helping to improve their immediate quality of life by reducing their direct burden of continuous oversight of their person in care.
+
+.
+
+ Accurate WiFi-Based Localization of Dementia Patients For Caregiver Support:@highlight
+
+In this Phase II SBIR project we will enhance a wireless WiFi-based insole that was designed and successfully tested during a Phase I trial with elderly persons with dementia and their caregivers, and then investigate its efficacy in terms of caregiver activity, burden, and quality of life in Phase II.
+
+ Evaluation will use semi-structured interviews and participant observation data collected from professional and family caregivers of patients with moderate or mild dementia.
+

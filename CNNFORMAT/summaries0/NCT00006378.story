@@ -1,0 +1,38 @@
+(fifthQuint)Combination Chemotherapy Plus Radiation Therapy in Treating Patients With Stage III Non-small Cell Lung Cancer.
+
+ OBJECTIVES: I.
+
+ Compare survival of patients with stage IIIA or IIIB unresectable non-small cell lung cancer treated with one of three different combined modality regimens of paclitaxel, carboplatin, and radiotherapy.
+
+ II.
+
+ Compare the safety and toxicity of these treatment regimens in these patients.
+
+ III.
+
+ Compare the relapse free survival rate in these patients treated with these regimens.
+
+ OUTLINE: This is a randomized, multicenter study.
+
+ Patients are randomized to one of three treatment arms.
+
+ Arm I: Patients receive paclitaxel IV over 3 hours and carboplatin IV over 30 minutes on day 1 every 3 weeks for 2 courses, followed by radiotherapy 5 times a week for 7 weeks beginning on day 42.
+
+ Arm II: Patients receive paclitaxel and carboplatin as in arm I followed by radiotherapy 5 times a week, paclitaxel IV over 1 hour, and carboplatin IV over 30 minutes weekly for 7 weeks beginning on day 42.
+
+ Arm III: Patients receive paclitaxel IV over 1 hour and carboplatin IV over 30 minutes weekly and radiotherapy 5 times a week for 7 weeks beginning on day 1, followed by paclitaxel IV over 3 hours and carboplatin IV over 30 minutes every 3 weeks for 2 courses beginning 3 weeks after concurrent chemotherapy and radiotherapy.
+
+ Patients are followed every 3 months for 2 years, every 4 months for 2 years, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 264 patients (88 per treatment arm) will be accrued for this study within 20 months.
+
+.
+
+ Combination Chemotherapy Plus Radiation Therapy in Treating Patients With Stage III Non-small Cell Lung Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Radiation therapy uses high-energy x-rays to damage tumor cells.
+
+ Combining chemotherapy with radiation therapy may kill more tumor cells PURPOSE: Randomized phase II trial to compare the effectiveness of three different regimens of combining paclitaxel and carboplatin plus radiation therapy in treating patients who have stage III non-small cell lung cancer that cannot be removed during surgery.
+

@@ -1,0 +1,58 @@
+(fifthQuint)Etomidate Versus Ketamine for Emergency Endotracheal Intubation: a Prospective Randomized Clinical Trial.
+
+ Critically ill individuals who require emergency endotracheal intubation (placement of a breathing tube in the patient's mouth) usually require sedation or anesthesia to make this process tolerable.
+
+ There are several medication choices for anesthesia, including medications like etomidate, ketamine and propofol.
+
+ Of these, etomidate and ketamine are frequently used for critically ill patients because they have minimal effects on the patient's vital signs (blood pressure and heart rate).
+
+ Both etomidate and ketamine are standard-of-care medications, locally and nationally, and both are frequently used to sedate a patient for this procedure.
+
+ Both etomidate and ketamine have potential side effects.
+
+ One of the potential side effects of etomidate is suppression of adrenal gland function.
+
+ It is not known if this affects patients' outcomes in significant ways.
+
+ One of the potential side effects of ketamine is a slight increase in patients' heart rates.
+
+ It is not known if this affects patients' outcomes in significant ways.
+
+ The EvK Trial will be conducted at Parkland Memorial Hospital by investigators in the Departments of Anesthesiology, Emergency Medicine, Medicine / Critical Care Medicine, Surgery, and Pharmacy.
+
+ The study will randomize critically ill patients who require emergency endotracheal intubation to one of two groups: Etomidate or Ketamine.
+
+ We will observe the patients' outcomes.
+
+ The only study intervention involves randomizing individual patients to one medication or the other.
+
+ All study follow-up beyond that point is done by review of medical records.
+
+ Because of the nature of this study - an emergency procedure on a critically ill patient - the study will require institutional review board permission not to obtain written informed consent from the patient prior to randomization of study drug for administration for endotracheal tube placement.
+
+ Prior to enrollment of patients the study team will carry out a comprehensive Community Consultation Plan, which is designed to inform the community about the research study.
+
+ This is in accordance with rules set forth by the U.
+
+S.
+
+ Food and Drug Administration (FDA 21 CFR 50.
+
+24).
+
+.
+
+ Etomidate Versus Ketamine for Emergency Endotracheal Intubation: a Prospective Randomized Clinical Trial@highlight
+
+Patients who are having problems breathing sometimes require placement of a breathing tube in their mouth and windpipe.
+
+ The purpose of this breathing tube is to save the patient's life.
+
+ It is common to give the patient a medication to sedate him or her before the breathing tube is placed.
+
+ For patients who are gravely ill two medications are commonly used: etomidate or ketamine.
+
+ Both medications have risks and benefits.
+
+ Researchers at UT-Southwestern Medical Center and Parkland Memorial Hospital would like to do a study to figure out which one is better for our patients.
+

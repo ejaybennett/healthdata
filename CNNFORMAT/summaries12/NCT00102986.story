@@ -1,0 +1,36 @@
+(secondQuint)Differences in Blood Levels of Lopinavir/Ritonavir in HIV Infected Men and Women.
+
+ It is estimated that 50% of people living with HIV/AIDS worldwide are women.
+
+ HIV infected women face different psychosocial issues than men, and their bodies may react differently to HIV treatment.
+
+ However, most of the data on the safety and efficacy of antiretrovirals (ARVs) used in the treatment of HIV infection are from studies conducted primarily in men.
+
+ LPV/r in tablet form was approved by the FDA in October 2005.
+
+ This study will determine the differences in pharmacokinetics (PK) in men and women taking a soft gel capsule and a tablet formulation of LPV/r.
+
+ No ARVs will be provided by this study.
+
+ In Step 1, participants will receive soft gel capsules of LPV/r.
+
+ All Step 1 participants will be asked to join Step 2 of the study upon completion of Step 1.
+
+ In Step 2, participants will receive tablets of LPV/r.
+
+ During the study, participants in both Step 1 and 2 will take a treatment regimen of LPV/r twice daily and one or more of the following: a nucleoside reverse transcriptase inhibitor (NRTI), tenofovir disoproxil fumarate, or enfuvirtide.
+
+ Medical and medication history, blood collection, and clinical assessments will occur at study screening for both Steps 1 and 2.
+
+ Participants in both steps will be asked to complete a medication diary from study entry to the day of the PK visit.
+
+ The PK visit will occur within 30 days of study screening; blood collection for PK analysis will also occur at this visit.
+
+.
+
+ Differences in Blood Levels of Lopinavir/Ritonavir in HIV Infected Men and Women@highlight
+
+Men's and women's bodies may process anti-HIV drugs differently.
+
+ The purpose of this study is to determine the differences in blood levels of soft gel capsules and tablets of lopinavir/ritonavir (LPV/r) in HIV infected men and women.
+

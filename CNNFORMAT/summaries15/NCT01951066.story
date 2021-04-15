@@ -1,0 +1,13 @@
+(firstQuint)Diabetic Macular Edema Treated With Ozurdex (DMEO).
+
+ Patients with Diabetic Macular Edema (DME) are increasingly being treated with molecules targeting vascular endothelial factor (VEGF).
+
+ One potential advantage of a dexamethasone implant over specific VEGF antagonists is that steroids suppress production of multiple pro-permeability factors.
+
+ Our primary objective is to measure the pro-permeability factors in the aqueous humor of patients with persistent/recurrent macular edema despite prior treatment with anti-VEGF agents at baseline and at 1, 2, 3, and 4 months after intraocular injection of a dexamethasone implant.
+
+.
+
+ Diabetic Macular Edema Treated With Ozurdex (DMEO)@highlight
+
+To measure various pro-permeability factors in the aqueous humor of patients with persistent/recurrent diabetic macular edema

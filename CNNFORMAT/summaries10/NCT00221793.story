@@ -1,0 +1,18 @@
+(firstQuint)Weight Changes in Parkinsonian Patients, Treated With Deep Brain Stimulation.
+
+ The aim of this trial is to verify that neurostimulated parkinsonian patients gain weight and to study its link with an energetic balance change.
+
+ Twenty parkinsonian patients will be randomised : the delay between inclusion and neurostimulation wil be lengthened 3 months for one group, compared to the second one.
+
+ The energy expenditure, at rest and after ingestion of a test meal, will be compared between the group of patients that had been neurostimulated and the group whose intervention has been postponed.
+
+ Weight changes, energy intake, leptin level, neurophysiological parameters will be compared between both groups, and the nature and repartition of the weight gain will be assessed in the neurostimulated group.
+
+ An eventual link between motor factors, pharmacological factors, and gain weight will be studied.
+
+.
+
+ Weight Changes in Parkinsonian Patients, Treated With Deep Brain Stimulation@highlight
+
+The aim of this trial is to verify that neurostimulated parkinsonian patients gain weight and to study its link with an energetic balance change.
+

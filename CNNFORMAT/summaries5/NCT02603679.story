@@ -1,0 +1,42 @@
+(fifthQuint)Neoadjuvant Response-guided Treatment of Luminal B-type Tumors and Luminal A-type Tumors With Node Metastases.
+
+ Patients are randomized to either weekly treatment with paclitaxel (arm A) or endocrine treatment in combination with palbociclib (arm B) for 12 weeks.
+
+ Choice of endocrine treatment is for pre- and perimenopausal women and all men tamoxifen 20 mg daily, alternatively for women in this age cohort, an LHRH analogue in combination with an aromatase inhibitor, for all postmenopausal women treatment with an aromatase inhibitor.
+
+ The aromatase inhibitors to be used according to local practice are anastrozole 1 mg daily, exemestane 25 mg daily, or letrozole 2.
+
+5 mg daily.
+
+ Pre- or perimenopausal women and all men are treated with tamoxifen, alternatively with an LHRH analogue in combination with an aromatase inhibitor (only women).
+
+ Postmenopausal women receive an aromatase inhibitor.
+
+ After 12 weeks, patients without signs of disease progression (PD) are switched to either endocrine treatment in combination with palbociclib (arm A) or weekly treatment with paclitaxel (arm B) for 12 weeks.
+
+ Postoperatively, patients receive three 3-weekly courses of chemotherapy with a combination of epirubicin and cyclophosphamide.
+
+ Before start, after 6, 12, 18 and 24 weeks of treatment, radiological assessments of tumor size are performed using mammography and ultrasound alt.
+
+ MRI breast; PET-CT, confined to the breast and regional lymph nodes, before start, after 12 and 24 weeks, blood tests before start, after 1 week, 12, 18 and 24 weeks.
+
+ Physical examinations are performed before start and then four-weekly after weeks 4, 8, 12, 16, 20 and 24 weeks of treatment.
+
+ In case of disease progression during ongoing study treatment, individualized management in the patient's best interest must be considered, in which case surgery is the primary option.
+
+.
+
+ Neoadjuvant Response-guided Treatment of Luminal B-type Tumors and Luminal A-type Tumors With Node Metastases@highlight
+
+The purpose of this neoadjuvant trial is to evaluate efficacy and toxicity of chemotherapy using weekly paclitaxel (arm A) versus the combination of the cdk 4/6 inhibitor palbociclib and standard endocrine treatment (arm B).
+
+ After 12 weeks treatment is switched crossover.
+
+ During the 24-weekly treatment period, clinical and radiological evaluations are performed repeatedly.
+
+ Switch between the treatment arms A and B is allowed in case of lack of response or due to toxicity.
+
+ A translational subprotocol is a mandatory part of the study protocol, except for use of PET-CT evaluations.
+
+ Postoperatively, patients receive three 3-weekly courses of chemotherapy with a combination of epirubicin and cyclophosphamide.
+

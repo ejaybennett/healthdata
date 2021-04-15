@@ -1,0 +1,28 @@
+(fifthQuint)Different Modes of Temperature Measurement in the Emergency Department.
+
+ Temperature measurement is a crucial and integral element in the assessment of the emergency department patients.
+
+ The basis of triage and treatment is often directly influenced by temperature measurement.
+
+ The finding of hyper/hypothermia may differentiate between a simple urinary tract infection and pyelonephritis, or in more extreme cases may discern "weakness" in the elderly from sepsis.
+
+ This brief encounter of temperature measurement may be paramount to the medical treatment of the emergency department patient.
+
+We will explore the different modes of temperature measurements in emergency department patients.
+
+ We will check which temperature measurement is beneficial.
+
+.
+
+ Different Modes of Temperature Measurement in the Emergency Department@highlight
+
+Introduction: Temperature measurement is a crucial and integral element in the assessment of the emergency department patients.
+
+ The basis of triage and treatment is often directly influenced by temperature measurement.
+
+ The finding of hyper/hypothermia may differentiate between a simple urinary tract infection and pyelonephritis, or in more extreme cases may discern "weakness" in the elderly from sepsis.
+
+ This brief encounter of temperature measurement may be paramount to the medical treatment of the emergency department patient.
+
+ The investigators will explore the different modes of temperature measurements in emergency department patients.
+

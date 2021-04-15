@@ -1,0 +1,18 @@
+(firstQuint)Febuxostat Versus Allopurinol Control Trial in Subjects With Gout.
+
+ This was a randomized, controlled, double-blind study of 52 weeks duration.
+
+ Subjects receiving prior urate-lowering therapy underwent a 2-week washout period prior to randomization.
+
+ Subjects were then randomized to one of three treatment groups: febuxostat 80 milligram (mg), febuxostat 120 mg, or allopurinol 300 mg.
+
+ Naproxen (250 mg twice daily) or colchicine (0.
+
+6 mg once daily) was provided for prophylaxis of acute gout flares during the washout period and the first 8 weeks of double-blind treatment.
+
+.
+
+ Febuxostat Versus Allopurinol Control Trial in Subjects With Gout@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of febuxostat, once daily (QD), versus allopurinol in subjects with gout.
+

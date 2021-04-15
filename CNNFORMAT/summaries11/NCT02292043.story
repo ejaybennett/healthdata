@@ -1,0 +1,14 @@
+(firstQuint)Effects of HTEA ON Heart Failure Secondary to Idiopathic Dilated Cardiomyopathy or Post-myocardial Infarction.
+
+ The investigators would evaluate the effects of the novel method, HTEA on cardiac function in the heart failure patients secondary to idiopathic dilated cardiomyopathy and post-myocardial infarction.
+
+ The specific index is 6 miniutes walk distance, echocardiography, NYHA, NTproBNP level, peripherial WBC, RBC, PLT, Cre, UA, K+, Na+ upon entrance to hospital and 4 weeks after HTEA treatment, and 3 months after discharge.
+
+ The morbidity and re-hospitalization would also calculated 3 months after discharge.
+
+.
+
+ Effects of HTEA ON Heart Failure Secondary to Idiopathic Dilated Cardiomyopathy or Post-myocardial Infarction@highlight
+
+The investigators would evaluate the effects of the novel method, HTEA on cardiac function in the heart failure patients secondary to idiopathic dilated cardiomyopathy and post-myocardial infarction.
+

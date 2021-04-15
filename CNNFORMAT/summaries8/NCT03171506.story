@@ -1,0 +1,92 @@
+(fifthQuint)Targeted Disruption to Cancer Metabolism and Growth Through Dietary Macronutrient Modification.
+
+ This investigation is a randomized, controlled clinical trial among 66 (for a final n of 50) women with ovarian and endometrial cancer.
+
+ Patients are randomized to one of two study arms for 12 weeks: usual care plus the ketogenic diet (KD) or usual care plus dietary recommendations endorsed by the Academy of Nutrition and Dietetics (AND).
+
+ Cases are accrued in the University of Alabama at Birmingham gynecologic oncology clinic.
+
+ Patients are then randomized to one of the two diet groups using a blocked randomization strategy.
+
+ The prescription for the AND follows the Academy's 2013 guidelines, with modifications as necessary of ovarian cancer.
+
+ The KD has a macronutrient composition of ~5% energy from carbohydrate, 25% energy from protein, and 70% energy from fat.
+
+ Carbohydrate foods include non-starchy vegetables (e.
+
+g.
+
+, salad greens, green beans, summer squash).
+
+ Patients are advised to avoid refined starches and added sugar and to emphasize consumption of whole foods.
+
+ Protein foods include meat, poultry, fish, and eggs.
+
+ Because protein can be converted to glucose in the liver via gluconeogenesis, patients are counseled to eat no more than ~100g protein per day, distributed across the day.
+
+ Fat-containing foods include olive, coconut, and nut oils; butter; tree nuts and nut butters; cheese; cream; coconut milk; and avocados.
+
+ Patients are counseled to obtain the majority of their fat intake from mono-unsaturated fatty acids (e.
+
+g.
+
+, olive oil), and medium-chain triglycerides (e.
+
+g.
+
+, coconut oil and milk); from nuts and nut butters; and from fresh fish.
+
+ Full-fat dairy is limited to 4 ounces of cheese per day; butter is not limited.
+
+ This diet is formulated to be low glycemic and anti-inflammatory, thereby lowering glucose, insulin, and markers of inflammation.
+
+ Total energy intake is not restricted, as the focus is on insulin reduction rather than weight loss.
+
+ Diet interventions are provided by registered dietitians at the University of Alabama at Birmingham.
+
+ Participants meet one-on-one with a dietitian at the baseline testing visit.
+
+ Patients record food intake such that the dietitian can review them on a weekly basis, provide feedback, and tailor nutrition counseling; said counseling is delivered via phone and e-mail on a weekly basis throughout the 12-week intervention.
+
+ Food records are analyzed for macronutrient composition, a range of micronutrients, and glycemic index.
+
+ Outcome measures include demographics (age, sex, race); body composition by dual X-ray absorptiometry (DXA) and bioelectrical impedance analysis (BIA); fasting concentrations of markers of inflammation, cancer progression (CA-125), and metabolism (glucose, insulin, ketones); cancer progression (as measured by CT scans done as part of usual care); quality of life (as measured by the Medical Outcomes Study Short Form-12 Health Survey, SF-12); satiety (as measured by a visual analog scale, VAS); and food cravings (as measured by the Food Craving Inventory, FCI).
+
+ Within groups changes in cancer markers, body composition, and other outcomes will be evaluated with paired t-tests.
+
+ Between group differences will be evaluated with ANOVA/ANCOVA, controlling for relevant confounders (e.
+
+g.
+
+, baseline values, age).
+
+ Correlation analysis will be used to test the specific hypothesis that decrease in cancer outcomes across all patients will be associated with increase in serum ketone concentrations and decreasing concentration of fasting insulin.
+
+ In a pilot study of 10 cancer patients, all of whom were placed on a KD, serum ketone production was increased to a greater extent (P 4.
+
+6 mu IU/ml was observed after 8 weeks of consumption of a eucaloric reduced-carbohydrate diet.
+
+ Assuming a change of 2.
+
+7 4.
+
+6 ( mu IU/ml), a two-sided paired t-test, and a significance alpha level of 0.
+
+05, we would have over 80% power to detect a significant change in fasting insulin with 25 participants per diet group.
+
+ Allowing for 30% attrition, we plan to recruit 33 participants per diet group (total n=66).
+
+ Hypotheses include: 1) Cancer outcomes will improve in the KD group relative to the AND group, 2) The KD group will show a selective loss of visceral fat and preservation of lean mass, 3) Fasting concentrations of glucose, insulin, and insulin-like growth factor 1 (IGF-1) and its binding protein (IGFBP-1) will decline in the KD group but not in the AND group, 4) Changes in serum insulin concentration will be directly associated with changes in the cancer marker CA-125, 5) Changes in serum ketone concentration will be inversely associated with changes in cancer marker CA-125, and 6) Ratings of quality of life, food cravings, and satiety/hunger will improve in the KD group but not in the AND group.
+
+.
+
+ Targeted Disruption to Cancer Metabolism and Growth Through Dietary Macronutrient Modification@highlight
+
+The objective of this investigation is to examine the effects of 12 weeks of usual care plus a ketogenic diet (KD) or usual care plus dietary recommendations endorsed by the Academy of Nutrition and Dietetics (AND) in women with ovarian and endometrial cancer.
+
+ Participants undergo testing at baseline and at 12 weeks; the testing consists of blood draws, questionnaires, and measures of body composition.
+
+ The baseline visit also includes a meeting with a registered dietitian to discuss the guidelines of the assigned diet.
+
+ It is hypothesized that the KD group will have improved cancer outcome measures, beneficial body composition changes, reduced fasting concentrations of glucose and insulin, and higher ratings of patient satisfaction with the diet relative to the AND group.
+

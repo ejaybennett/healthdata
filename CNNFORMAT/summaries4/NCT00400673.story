@@ -1,0 +1,60 @@
+(fifthQuint)A Risk-Oriented Therapeutic Strategy for Adult Acute Myelogenous Leukemia.
+
+ Adult AML is a difficult-to-treat illness because of both biological and therapeutic reasons.
+
+ As to the first point, many patients are aged >50 years and/or present with significant comorbidity and/or AML-related risk features (poor risk cytogenetics, prior myelodysplasia, secondary AML).
+
+ As to the second point, standard-type remission induction therapy is ineffective in 20% or more of the patients, whereas the application of the more effective postremission consolidation options (alloSCT, high-dose cytarabine courses) is often flawed by high-grade toxicity which can offset expected benefits, particularly in older age groups (>50-55 years), where therapy-related death rates are seen in 5%-10% of the cases (chemotherapy) or more (transplants).
+
+ Against this background an explorative study was developed in which: 1.
+
+ All patients aged 16-65 years were considered eligible (acute promyelocytic leukemia excluded), including those with an antecedent diagnosis of myelodysplasia/hematological disorder and/or secondary AML.
+
+ Both age and disease subtype selection criteria are broader than in most studies on adult AML, adhering more closely to the reported epidemiology of the disease.
+
+ 2.
+
+ Remission induction was attempted with a two-step regimen, consisting of conventional chemotherapy (ICE: idarubicin/cytarabine/etoposide +G-CSF) followed, only in the case of failure to respond, by a sequential high dose-cytarabine cycle (cytarabine 3 g/m2/bd on days 1,2,8,9; idarubicin on days 3 and 10; G-GSF; cytarabine dosing 2 g/m2 in patients aged >55 years).
+
+ It was hoped that this choice would optimize salvage rates (hence overall response rates), by allowing more patients (and more fit, uncomplicated ones) to reach the salvage phase, compared to a policy where salvage is usually given after two failed induction courses.
+
+ 3.
+
+ Remission consolidation was risk-oriented, the risk being defined through a mixed clinico-cytogenetic model.
+
+ Thus all patients entering CR after one/two cycles were stratified as HR or SR according to what is reported below.
+
+ Once defined the risk class, therapy consisted of an alloSCT for HR patients, and of 3 consecutive monthly cytarabine-based cycles (2 g/m2/bd on days 1-5; idarubicin on days 1,2) in SR patients, each cycle being followed by the reinfusion of a limited amount of autologous blood stem cells (1-2x10e6/kg CD34+ cells) and G-CSF.
+
+ Blood stem cells were collected following an early consolidation cycle with intermediate-dose cytarabine plus G-CSF.
+
+ HR patients unable/unfit to proceed to alloSCT were offered instead the SR-type multicycle cytarabine consolidation, whereas all patients unable to mobilize autologous stem cells were treated with one/two intermediate-dose cytarabine course(s).
+
+ HR: high-risk cytogenetics or intermediate-risk/normal cytogenetics with FLT3 mutation and/or any one or more additional clinical risk factor(s), i.
+
+e.
+
+ total WBC >50x10e9/l, FAB subtype M0, M6 or M7, prior myelodysplasia or secondary AML,hepatosplenomegaly, late CR (cycle 2), or favorable cytogenetics with late CR (cycle 2).
+
+ SR: favorable cytogenetics (without associated high-risk abnormalities and in CR after cycle 1) or intermediate-risk/normal cytogenetics without FLT3 mutation and/or without any one additional clinical risk factor(s), i.
+
+e.
+
+ total WBC >50x10e9/l, FAB subtype M0, M6 or M7, prior myelodysplasia or secondary AML,hepatosplenomegaly, late CR (cycle 2).
+
+.
+
+ A Risk-Oriented Therapeutic Strategy for Adult Acute Myelogenous Leukemia@highlight
+
+The study was set up to assess: 1.
+
+ A two-step, increasing-intensity remission induction phase.
+
+ A conventional chemotherapy course (ICE, plus G-CSF) was followed, in unresponsive patients, by sequential high-dose cytarabine (plus G-CSF), aiming to provide an early effective rescue to as many refractory cases as possible.
+
+ 2.
+
+ A risk-oriented postremission consolidation phase.
+
+ The objective was to adopt allogeneic stem cell transplantation (alloSCT) in high-risk (HR) cases, while standard-risk (SR) ones were consolidated with a multicycle high-dose cytarabine-containing program, which included the use of autologous stem cells plus G-CSF to limit drug-related toxicity and intercycle treatment delays.
+

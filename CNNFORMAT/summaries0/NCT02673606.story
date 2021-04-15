@@ -1,0 +1,20 @@
+(firstQuint)Impact of Estrogen on Fear Extinction.
+
+ The aim of the study was to examine the influence of exogenous estrogen administration on the activation of the fear extinction network in women.
+
+ We collected functional MRI data and psychophysiological indices to test the influence of estrogen on women's ability to regulate conditioned fear responses.
+
+ Women underwent a 3day experimental paradigm using classical fear conditioning.
+
+ The first day was conducted outside the scanner, while days 2 and 3 were done inside the fMRI scanner and tested fear extinction learning and recall in days 2 and 3, respectively.
+
+ The estrogen (or placebo) pill was given just hours before extinction learning test on day 2.
+
+ No followups were conducted after women completed the 3 day study.
+
+.
+
+ Impact of Estrogen on Fear Extinction@highlight
+
+The goal of this project is to examine how estrogen may influence the resting-state connectivity and the extinction-induced activation of the fear extinction network.
+

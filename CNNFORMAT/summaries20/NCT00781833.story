@@ -1,0 +1,32 @@
+(thirdQuint)Use of Implanted Microstimulators for Decreasing Spasticity and Improving Motion Following Spinal Cord Injury.
+
+ Restoring mobility after spinal cord injury (SCI) is one of the most important goals of rehabilitation.
+
+ Even for patients with partial lower limb motor function after SCI, many have limited mobility because of significant spasticity.
+
+ Therapeutic electrical neuromuscular stimulation (TNS) has been used to improve muscle tone and strength and to enable walking and standing in patients with SCI.
+
+ We propose to use the Radio Frequency Microstimulator (RFM) System, a new and novel implantable TNS system developed by the Alfred E.
+
+ Mann Foundation, to improve muscle strength and reduce spasticity in a patient with incomplete SCI.
+
+ The RFM System has several advantages over current TNS systems.
+
+ The RFM implant devices are small enough (diameter 2.
+
+4 mm, length 16.
+
+7 mm) to be inserted using an incision approximately 5 mm long and have no lead wires passing through the skin since the microstimulator contains both the anode and cathode.
+
+ Implanted RFM devices can be placed near multiple motor points and/or nerves and are controlled individually using radio frequency technology.
+
+ Up to six (6) RFM devices will be inserted, two to three in each lower limb to provide stimulation to a patient's bilateral knee extensors (femoral nerve stimulation) and ankle dorsiflexors (peroneal nerve stimulation) to assess the effects on muscle strength, limb spasticity and patient mobility.
+
+.
+
+ Use of Implanted Microstimulators for Decreasing Spasticity and Improving Motion Following Spinal Cord Injury@highlight
+
+The primary aims of this study are to determine the safety of the RFM System (Alfred Mann Foundation, Santa Clarita, CA) in a patient with incomplete SCI and the effect of the RFM system on lower limb strength and spasticity.
+
+ The secondary aim is to analyze any improvement in the participant's mobility.
+

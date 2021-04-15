@@ -1,0 +1,48 @@
+(thirdQuint)3-month Study of MSDC-0160 Effects on Brain Glucose Utilization, Cognition & Safety in Subjects With Alzheimer's Disease.
+
+ The specific objective is to examine the feasibility of conducting future large scale studies on the efficacy of MSDC-0160 in persons with mild Alzheimer's disease.
+
+ Efficacy and safety will be assessed as follows: 1.
+
+ Estimate the effect size of 150 mg daily MSDC-0160 versus placebo on 3-month change in brain glucose utilization using FDG-PET pre-specified regions of interest analysis.
+
+ The a priori regions of interest (ROI) will include five bilateral regions: posterior cingulate, parietal cortex (angular gyrus), lateral temporal cortex, medial temporal cortex, and anterior cingulate-medial frontal cortex.
+
+ 2.
+
+ Estimate the effect size of MSDC-0160 versus placebo on 3-month change in brain glucose utilization, using FDG-PET voxel-based analysis.
+
+ 3.
+
+ Estimate the effect size of MSDC-0160 treatment versus placebo on 3-month change in cognitive function as determined by global cognitive function on a neuropsychological battery of 19 tests.
+
+ 4.
+
+ Estimate the effect size of MSDC-0160 versus placebo on 3-month change in cognitive function as determined by the ADAS-Cog subscale.
+
+ 5.
+
+ Estimate the effect of 3-months of MSDC-0160 treatment versus placebo on a 9-item executive function scale.
+
+ 6.
+
+ Explore whether baseline levels of peripheral inflammatory biomarkers (HMW adiponectin, TNF, IL-6, hsCRP, and FFA) or genotypes including, but not limited to, the apolipoprotein mu 4 allele explain the heterogeneity in baseline level of brain glucose utilization and, in MSDC-0160 users, 3-month brain glucose utilization.
+
+ 7.
+
+ Explore whether changes in peripheral inflammatory biomarkers correlate with changes in 3-month brain glucose utilization in MSDC-0160 users.
+
+ 8.
+
+ Investigate the safety of MSDC-0160 versus placebo using reports of early study termination and adverse events.
+
+.
+
+ 3-month Study of MSDC-0160 Effects on Brain Glucose Utilization, Cognition & Safety in Subjects With Alzheimer's Disease@highlight
+
+This study will evaluate the effect of 150 mg MSDC-0160 taken daily for 90 days compared to the effect of placebo on changes in brain glucose utilization using FDG-PET and cognition in older persons with mild Alzheimer's disease.
+
+ Safety and tolerability of MSDC-0160 in this population will also be studied.
+
+ These results will be used to design larger studies of MSDC-0160 in persons with mild Alzheimer's disease.
+

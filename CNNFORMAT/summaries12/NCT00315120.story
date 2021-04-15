@@ -1,0 +1,12 @@
+(secondQuint)Osteopathic Health Outcomes in Chronic Low Back Pain (OSTEOPATHIC) Trial.
+
+ The purpose of this study is to determine whether osteopathic manipulative treatment (a type of spinal manipulative therapy used by osteopathic physicians) and ultrasound physical therapy are effective in the treatment of chronic low back pain.
+
+ This study uses a 2X2 factorial design to test the hypotheses.
+
+.
+
+ Osteopathic Health Outcomes in Chronic Low Back Pain (OSTEOPATHIC) Trial@highlight
+
+The purpose of this study is to determine whether osteopathic manipulative treatment (a type of spinal manipulative therapy used by osteopathic physicians) and ultrasound physical therapy are effective in the treatment of chronic low back pain.
+

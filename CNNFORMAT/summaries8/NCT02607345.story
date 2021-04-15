@@ -1,0 +1,35 @@
+(firstQuint)25gr.
+
+ Glucomedics vs 25gr.
+
+ Zusto.
+
+ This is an experimental study enrolling 10 healthy female subjects.
+
+ The study compares the blood glucose and insulin responses after consumption of 100ml water, sweetened with 25gr Zusto(R) and 100ml water sweetened with 25gr Glucomedics(R) (standard drink).
+
+ Subjects need to be fasted for at least 8 hours before all visits.
+
+ At visit 1, five women will consume the solution with 25gr Zusto(R), the other five will have the solution with 25gr Glucomedics(R).
+
+ On visit 2, groups will be switched.
+
+ Visit 1 and 2 will be performed within approximately one week interval.
+
+ Both drinks will be identical in amount of water and only be different by the use of 25gr Glucomedics(R) and 25gr Zusto(R).
+
+ Before intake of the drink, vital signs, weight and bedside blood glucose and baseline blood samples - 15' and 0' for glucose, insulin and C-peptide will be taken at visit 1 and 2.
+
+ Both drinks will be consumed within 5 minutes and time of start and end of intake of Zusto(R) / Glucomedics(R) will be documented.
+
+ Blood samples for glucose, insulin and C-peptide will be taken at 15', 30', 60', 90', 120' and 180' after start of intake 25gr Zusto(R) and 25gr Glucomedics(R).
+
+.
+
+ 25gr.
+
+ Glucomedics vs 25gr.
+
+ Zusto@highlight
+
+Objective: to compare blood glucose and insulin responses after consumption of 100ml water, sweetened with 25gr Zusto(R) and 100ml water sweetened with 25gr Glucomedics(R) (standard drink)

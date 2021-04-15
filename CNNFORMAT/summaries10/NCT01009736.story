@@ -1,0 +1,34 @@
+(thirdQuint)Effects of Tomato-Soy Juice on Biomarkers in Patients With Prostate Cancer Undergoing Prostatectomy.
+
+ OBJECTIVES: Primary - Determine the incidence and severity of toxicity associated with tomato-soy juice in patients undergoing prostatectomy.
+
+ Secondary - Quantify changes in the content and distribution of soy isoflavones and tomato phytochemicals (carotenoids and polyphenols) to the prostate and correlate tissue content and patterns with blood and urinary concentrations of these compounds and their metabolites.
+
+ - Determine blood hormonal patterns and biomarkers of oxidative stress that favor prostate cancer prevention.
+
+ - Investigate histopathologic and molecular biomarkers associated with prostate carcinogenesis that may serve as surrogate endpoint biomarkers and provide information regarding their ability to be modulated by the tomato-soy juice.
+
+ - Examine several critical histopathologic endpoints, including systemic hormones, cell/matrix interactions in the tumor microenvironment, and molecular processes within the tumor cells (tumor grade and nuclear morphometry, tumor stage, proliferation index, apoptotic index, and angiogenesis/vascularity).
+
+ - Determine if consumption of tomato-soy juice alters molecular markers in the human prostate, including neuroendocrine markers such as IGF-I and IGF-BP3, signal transduction markers such as PTEN (phosphatase and tensin homologue) and phospho-AKT, and angiogenesis regulators such as VEGF (vascular epithelial growth factor).
+
+ OUTLINE: Patients receive tomato-soy juice daily for 4 weeks.
+
+ Patients then undergo prostatectomy.
+
+ Patients complete urologic symptom and quality-of-life questionnaires.
+
+ Blood, urine, and tissue samples are collected for biomarker and pharmacokinetic analysis.
+
+.
+
+ Effects of Tomato-Soy Juice on Biomarkers in Patients With Prostate Cancer Undergoing Prostatectomy@highlight
+
+RATIONALE: Tomato-soy juice may slow the growth of tumor cells.
+
+ Studying samples of blood and tissue from patients with prostate cancer in the laboratory may help doctors identify biomarkers related to cancer.
+
+ It may also help doctors understand the effect of tomato-soy juice on biomarkers.
+
+ PURPOSE: This phase I/II trial is studying the side effects of tomato-soy juice and its effect on biomarkers in patients with prostate cancer undergoing prostatectomy.
+

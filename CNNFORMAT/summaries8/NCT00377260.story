@@ -1,0 +1,68 @@
+(fifthQuint)Acute Otitis Media (AOM) Therapy Trial in Young Children.
+
+ The purpose of this randomized, double-masked, placebo-controlled, single-center clinical trial is to determine the efficacy of antimicrobials in young children with acute otitis media (AOM).
+
+ The primary objectives are to compare time to resolution of symptoms (initial and sustained) in children receiving amoxicillin-clavulanate (90/6.
+
+4mg/kg/day in 2 divided doses for 10 days) to children receiving placebo (in 2 divided doses for 10 days), and to compare the weighted average AOM-Severity of Symptoms (AOM-SOS) scores in the two groups during days 1-7.
+
+ The secondary objectives are to: evaluate the clinical efficacy of amoxicillin-clavulanate vs.
+
+ placebo at the on-therapy visit (Day 4-5, and at least 72 hours after initial dose of study medication); evaluate the clinical efficacy of amoxicillin-clavulanate vs.
+
+ placebo at the end-of-therapy visit (Day 10-12); compare AOM-SOS and AOM-Faces scales between treatment groups during each of the first 7 days of therapy and at all study visits; compare the proportion of children in each treatment group who develop worsening symptoms before having received 72 hours of study medication; compare the two treatment groups regarding the quantity of analgesic medication administered by children's parents; compare the incidence of adverse events accompanying the two treatment regimens; compare the effects of amoxicillin-clavulanate vs.
+
+ placebo on the overall proportion of children with nasopharyngeal (NP) colonization with AOM pathogens (S.
+
+ pneumoniae, H.
+
+ influenzae, M.
+
+ catarrhalis, S.
+
+ pyogenes), and on the proportion of children with NP colonization with penicillin non-susceptible S.
+
+ pneumoniae; compare the 2 treatment groups regarding tympanometric outcomes at the on-therapy (Day 4-5), end-of-therapy (Day 10-12) and follow-up (Day 21-25) visits, using an algorithm that permits estimation of the probability of middle ear effusion given any particular tympanographic configuration; compare direct and indirect medical costs between the two treatment groups; and compare parental satisfaction with therapy between the two treatment groups.
+
+ Participants will include 268 children, aged 6 to 23 months, diagnosed with acute otitis media in Western Pennsylvania.
+
+ These participants will be recruited into the study at Children's Hospital of Pittsburgh (CHP), Pittsburgh, PA, and Armstrong Pediatrics (Children's Community Pediatrics: an affiliate of CHP) in Kittanning, PA.
+
+ Subjects will be randomized to receive either amoxicillin-clavulanate or placebo twice daily for 10 days.
+
+ Parents of the subject will be asked to track symptom status, medication use (study medication and acetaminophen), fever and diarrhea in a study memory aid.
+
+ Study procedures will include a medical history, vital signs, weight, clinical information regarding signs and symptoms of infection, nasopharyngeal specimens, and a physical exam including tympanometry.
+
+ Each child will be examined three additional times: 4-5 days after starting the medicine, study day 10-12 and 21-25 days after enrolling in the study.
+
+ During these visits, study staff will review the child's symptoms and examine the child's ears.
+
+ The study staff will also obtain a nasopharyngeal culture in order to look for resistant bacteria and to make appropriate changes in antibiotic treatment.
+
+ Daily telephone assessments will be made by study staff on days 2, 3, and 4 of therapy to make sure the child is getting better.
+
+ The study staff will see a child anytime a parent feels their child has not improved or has worsened.
+
+.
+
+ Acute Otitis Media (AOM) Therapy Trial in Young Children@highlight
+
+The purpose of this study is to learn whether or not all children with ear infections (acute otitis media or AOM) should be treated with antibiotics.
+
+ The study will compare two treatment strategies, "watchful waiting" or treatment with antibiotics, to determine which is more appropriate for children with AOM.
+
+ About 268 children in Pittsburgh, between the ages of 6-23 months, with AOM will be enrolled in the study.
+
+ They will be treated either with Augmentin (an antibiotic) or placebo for 10 days and closely followed for about 1 month.
+
+ Parents will be asked to write information about their child in a Patient Diary.
+
+ A general physical exam, including an ear exam, will be performed 4 times during the study.
+
+ A mucus sample will be collected from the back of each child's nose.
+
+ Parents will be asked questions during phone calls and at every visit.
+
+ If a child has not improved or has worsened, the investigators will prescribe a different antibiotic that is known to kill resistant germs.
+

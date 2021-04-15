@@ -1,0 +1,40 @@
+(thirdQuint)Exposure Therapy for Auditory Sensitivity in Autism.
+
+ Sensory processing difficulties have been well documented in children with Autism Spectrum Disorder (ASD).
+
+ In fact, "hyper- or hypo-reactivity to sensory input" has recently been added to the diagnostic criteria of this disorder.
+
+ Hyper-reactivity features are particularly disruptive to children's abilities to engage in everyday activities and pose a significant problem for patients and their families.
+
+ In children with high functioning pervasive developmental disorder, hyper-sensitivity is associated with symptoms of anxiety and depression.
+
+ For sensory processing difficulties, children with ASD are primarily referred to Occupational Therapy (OT) services for treatment.
+
+ These patients are also often seen by mental health professionals to address related disorders such as anxiety, ADHD and behavior problems.
+
+ Currently, there are no evidence based approaches for specifically addressing auditory hyper-reactivity in ASD.
+
+ Exposure and response prevention (E/RP), derived from systematic desensitization, is highly effective at reducing avoidance behaviors associated with phobias and obsessive and compulsive disorder (OCD).
+
+ In mental healthcare settings, ER/P has been shown to be effective for reducing compulsive behaviors in children with OCD and concurrent ASD.
+
+ E/RP has also been piloted for treating restricted, repetitive behaviors in ASD and demonstrates good feasibility.
+
+ E/RP may also be useful for reducing aversive responses to auditory stimuli in children with ASD.
+
+ Occupational Therapists (OT) are the primary service for providing treatment for sensory processing and arousal level modulation difficulties in children with ASD.
+
+ Thus, OTs are potentially well suited to provide an E/RP aimed at reducing sensory hyper-reactivity in ASD.
+
+ This study will investigate the feasibility and efficacy of utilizing an E/RP approach for treating auditory hyper-reactivity in ASD.
+
+.
+
+ Exposure Therapy for Auditory Sensitivity in Autism@highlight
+
+Auditory hyper-reactivity affects up to 66% of children with autism spectrum disorder (ASD) and has been linked to greater stress and anxiety for children and their families.
+
+ Exposure and Response Prevention (E/RP) is highly effective for reducing obsessive/compulsive behaviors in children with both OCD and ASD.
+
+ This study is the first to assess the feasibility and efficacy of E/RP for auditory sensory hyper-reactivity in ASD.
+

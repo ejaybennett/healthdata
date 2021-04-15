@@ -1,0 +1,45 @@
+(thirdQuint)17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Advanced Epithelial Cancer, Malignant Lymphoma, or Sarcoma.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine the dose-limiting toxicity and maximum tolerated dose of 17-N-allylamino-17-demethoxygeldanamycin (17-AAG) in patients with advanced epithelial cancer, malignant lymphoma, or sarcoma.
+
+ II.
+
+ Determine the significant toxic effects associated with this drug in these patients.
+
+ III.
+
+ Determine the response in patients treated with this drug.
+
+ IV.
+
+ Determine the pharmacokinetics of 17-AAG and 17AG in these patients.
+
+ OUTLINE: This is a dose-escalation study.
+
+ Patients receive treatment according to 1 of 2 schedules.
+
+ Schedule B: Patients receive 17-N-allylamino-17-demethoxygeldanamycin (17-AAG) IV over 1-2 hours twice weekly for 3 weeks.
+
+ Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+ Schedule C: Patients receive 17-AAG IV over 1-2 hours twice weekly for 2 weeks.
+
+ Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+ In both schedules, cohorts of 3-6 patients receive escalating doses of 17-AAG until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 6 patients experience dose-limiting toxicity.
+
+ At least 6 patients receive treatment at the MTD.
+
+ PROJECTED ACCRUAL: A maximum of 60 patients will be accrued for this study.
+
+.
+
+ 17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Advanced Epithelial Cancer, Malignant Lymphoma, or Sarcoma@highlight
+
+Drugs used in chemotherapy work in different ways to stop cancer cells from dividing so they stop growing or die.
+
+ This phase I trial is studying the side effects and best dose of 17-N-allylamino-17-demethoxygeldanamycin in treating patients with advanced epithelial cancer, malignant lymphoma, or sarcoma

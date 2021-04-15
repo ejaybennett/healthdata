@@ -1,0 +1,58 @@
+(fifthQuint)Evaluation of Circulating T Cells and Tumor Infiltrating Lymphocytes (TILs) During / After Pre-Surgery Chemotherapy in Non-Small Cell Lung Cancer (NSCLC).
+
+ The investigators propose studying the cell mediated effects of ipilimumab in combination with chemotherapy in the neoadjuvant setting for NSCLC.
+
+ The overall immune assessment strategy for the proposed ipilimumab neoadjuvant trial will be based on the hypothesis that 1) T cells with specificities against tumor associated antigens expressed by the patient's progressing NSCLC are present, but functionally impaired, at baseline, and 2) that the immunomodulatory effects of chemotherapy plus ipilimumab will impact the suppressive mechanisms, restoring functional reactivity to important anti-tumor effector cell populations.
+
+ An important potential biomarker for anti-tumor immune response is the proliferation and stimulation of circulating T cells with specificities against tumor associated antigens (TAA).
+
+ At baseline few patients with cancer have populations of circulating T cells with specificities against TAA above the detectable level of 0.
+
+05% CD8 lymphocytes.
+
+ The primary endpoint of this clinical trial will be to determine if the addition of ipilimumab to neoadjuvant chemotherapy for non-small cell lung cancer increases the percentage of patients with circulating T cells with specificities against TAA.
+
+ We will also measure tumor infiltrating lymphocytes in resected tumors.
+
+ Study Interventions: The investigational agent, ipilimumab, will be added to neoadjuvant chemotherapy for cycles 2 and 3.
+
+ Standard surgical evaluation and therapy will be performed following completion of neoadjuvant therapy.
+
+ Two cycles of single agent ipilimumab will be given after surgery (adjuvantly), followed by 2 cycles of maintenance therapy.
+
+ Neoadjuvant: Cycle 1: Paclitaxel 175 mg/m2 IV over 3 hours followed by cisplatin 75 mg/m2 over 60 minutes or carboplatin Area Under Curve (AUC) 6 (capped at 900 mg)over 30-60 minutes on day 1 (every 21 days x 1 cycle) Cycles 2 and 3: Ipilimumab 10mg/kg IV over 90 minutes, Paclitaxel 175 mg/m2 over 3 hours followed by cisplatin 75 mg/m2 or carboplatin AUC 6 (capped at 900 mg)IV over 30-60 minutes (every 21 days x 2 cycles) Surgery: Standard surgical evaluation will occur at least 21 days after the last dose (Cycle 3) of chemotherapy followed by surgical therapy.
+
+ Post-surgical Therapy: (Total of 4 doses of ipilimumab will be given post-operatively): Adjuvant: Ipilimumab 10 mg/kg IV every 3 weeks x 2 doses, beginning 4 weeks postoperative (up to 10 weeks if needed for recovery) Maintenance: Ipilimumab 10 mg/kg IV every 12 weeks x 2 doses Correlative Science Measures: Study specific research blood and tissue test(s) will be conducted: Blood Specimens: cent Peripheral blood mononuclear cells (PBMC) isolated from freshly drawn anti-coagulated blood will be analyzed for circulating T cells with specificities against tumor-associated antigens (TAA) at 4 time points, namely 1) Baseline prior to treatment, 2) cycle 2, prior to ipilimumab therapy, 3) 21-36 days after completion of cycle 3 chemotherapy prior to surgery, and 4) 3-6 weeks after adjuvant ipilimumab dose #2.
+
+ Additionally, PBMC from each of the time points will be analyzed for the presence of circulating populations of regulatory T cells, myeloid-derived suppressor cells (MDSC), as well as activated and exhausted T cells.
+
+ Tissue Specimens: cent Tumor infiltrating lymphocytes (TILs) will be isolated from the patient's resected tumor and analyzed for infiltrating T cells with specificities against tumor-associated antigens.
+
+ Additionally, TIL will be analyzed for the presence of infiltrating populations of regulatory T cells, myeloid-derived suppressor cells (MDSC), as well as activated and exhausted T cells.
+
+.
+
+ Evaluation of Circulating T Cells and Tumor Infiltrating Lymphocytes (TILs) During / After Pre-Surgery Chemotherapy in Non-Small Cell Lung Cancer (NSCLC)@highlight
+
+The purpose of this study is to evaluate whether the combination of neoadjuvant chemotherapy (chemotherapy before surgery) plus ipilimumab for lung cancer increases the number of patients with detectable circulating T cells with specificities against tumor associated antigens (TAA) from zero percent (0%) of patients prior to therapy to 20% of patients after neoadjuvant chemotherapy plus ipilimumab.
+
+ This is an open label Phase 2 trial.
+
+ Patients with clinical stage 1B (>4 cm), 2, (N0-2) or 3 non-small cell lung cancer (NSCLC) and no prior therapy for the current diagnosis of lung cancer will be eligible for the study.
+
+ Subjects will receive 3 cycles of neoadjuvant chemotherapy (paclitaxel + cisplatin/carboplatin).
+
+ Ipilimumab will be administered during Cycles 2 and 3 of standard chemotherapy and for up to 4 cycles alone after surgery.
+
+ Subjects will undergo standard clinically indicated surgical resection of their lung cancer as deemed appropriate by their surgeon.
+
+ Standard diagnostic and staging work up will be performed including: pathologic/histologic diagnosis of NSCLC, Positron Emission Tomography (PET)/Computed Tomography (CT) scan, brain imaging, and mediastinoscopy.
+
+ Three cycles of neoadjuvant chemotherapy will be given.
+
+ Ipilimumab will be added to neoadjuvant chemotherapy for cycles 2 and 3.
+
+ Standard surgical evaluation and therapy will be performed following completion of neoadjuvant therapy.
+
+ Two cycles of single agent ipilimumab will be given after surgery (adjuvantly), followed by 2 cycles of maintenance therapy.
+

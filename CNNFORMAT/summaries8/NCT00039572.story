@@ -1,0 +1,32 @@
+(secondQuint)Boron Neutron Capture Therapy in Treating Patients With Glioblastoma Multiforme or Melanoma Metastatic to the Brain.
+
+ OBJECTIVES: - Determine the time course, uniformity, and severity of acute and chronic normal tissue reactions in patients with glioblastoma multiforme or intracranial melanoma treated with boronophenylalanine-fructose complex (BPA-f) followed by cranial neutron irradiation using a new fission converter beam facility.
+
+ - Determine the maximum tolerated dose of cranial neutron capture therapy in these patients.
+
+ - Determine, through serial objective measurements, the clinical response in patients treated with this therapy.
+
+ - Determine the pharmacokinetics of BPA-f in these patients.
+
+ OUTLINE: This is a dose-escalation study of cranial neutron capture therapy (NCT).
+
+ Patients receive boronophenylalanine-fructose complex IV over 90 minutes followed by cranial NCT on days 1 and 2.
+
+ Cohorts of 3-6 patients receive escalating doses of NCT until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which at least 2 of 6 patients experience dose-limiting toxicity.
+
+ Once the MTD is determined, additional patients are treated at the MTD.
+
+ Patients are followed at 1, 2, 4, 6, 9, and 12 months and then every 6 months for 2 years.
+
+ PROJECTED ACCRUAL: A total of 16 patients will be accrued for this study within 2 years.
+
+.
+
+ Boron Neutron Capture Therapy in Treating Patients With Glioblastoma Multiforme or Melanoma Metastatic to the Brain@highlight
+
+RATIONALE: Radiation therapy such as boron neutron capture therapy may kill tumor cells without harming normal tissue.
+
+ PURPOSE: Phase I/II trial to study the effectiveness of boron neutron capture therapy in treating patients who have glioblastoma multiforme or melanoma metastatic to the brain.
+

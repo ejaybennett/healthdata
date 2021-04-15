@@ -1,0 +1,34 @@
+(thirdQuint)Detecting Circulating Emboli in Patients With Acute Venous Thromboembolism.
+
+ Laser beam from the investigational device Phatoacoustic flow cytometry PAFC will be applied to skin and underlying blood vessels.
+
+ The optical and ultrasound signal will be collected for analysis.
+
+ On each tested vessel, we will estimate the vessels diameter (using optical or/and ultrasound imaging).
+
+ The subject's skin pigmentation will be classified as light, medium, or dark.
+
+ A photoacoustic (PA) contrast will be considered usable for detection of circulating emboli if the photoacoustic signal from the vessels is more than 1.
+
+3-fold higher than the photoacoustic signal from surrounding tissue.
+
+ The device for subjects enrolled on cohort 2 will be completed on day 0 (immediately after venous thromboembolism diagnosis and prior to anticoagulation therapy), day 7 3 days after initiation of anticoagulation therapy, one week 3 days after completion of planned anticoagulation therapy and one month 3 days after completion of planned anticoagulation therapy.
+
+ Anticoagulation therapy is part of the patient's normal standard of care and is not part of this study however data from what therapy was received may be captured.
+
+ D-dimer test will be performed on each time point as part of their normal standard of care however if the D-dimer test is not ordered as part of the standard of care it will be required for the study.
+
+.
+
+ Patients will then be followed in hematology clinic to monitor the venous thromboembolism recurrence every 3 months for one year.
+
+.
+
+ Detecting Circulating Emboli in Patients With Acute Venous Thromboembolism@highlight
+
+The purpose of this study is to further evaluate and adjust the photoacoustic flow cytometry device and its use in detecting circulating emboli.
+
+ Study Design: Cohort 1: Normal healthy volunteers will be enrolled to further adjust the device settings.
+
+ Cohort 2: Use the Phatoacoustic flow cytometry (PAFC) to detect circulating emboli in vivo in patients with venous thromboembolism at diagnosis, during and after anticoagulation therapy.
+

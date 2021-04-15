@@ -1,0 +1,22 @@
+(secondQuint)A Pharmacokinetic Study of Abiraterone Acetate in Male Participants With Impaired Renal Function Compared to Individuals With Normal Renal Function.
+
+ This is an open-label (identity of assigned study drug will be known) pharmacokinetics study evaluating a single dose of abiraterone acetate 1000 mg administered in male participants with end-stage renal disease compared to matched-control (matched for age and body mass index) participants with normal renal function.
+
+ There will be approximately 8 participants in each cohort (group).
+
+ The total study duration for each participant will be 36 days.
+
+ Abiraterone acetate 1000 mg will be administered orally (by mouth) as a single dose in the fasted state on Day 1.
+
+ No food will be ingested for 4 hours post-dose.
+
+ Participants will be confined to the clinical research center from the day prior to dosing (Day -1) to Day 5 and will return to the clinic on Days 8, 15, and 22 for follow up.
+
+ Serial pharmacokinetic samples will be collected and safety will be monitored throughout the study.
+
+.
+
+ A Pharmacokinetic Study of Abiraterone Acetate in Male Participants With Impaired Renal Function Compared to Individuals With Normal Renal Function@highlight
+
+The purpose of this study is to determine the pharmacokinetic (how the drug concentrations change over time) profile of abiraterone acetate 1000 mg when administered as a single dose in male participants with impaired renal function compared to individuals with normal renal function.
+

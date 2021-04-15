@@ -1,0 +1,24 @@
+(thirdQuint)In Vivo Confocal Microscopy Tumor Atlas Study.
+
+ Confocal endomicroscopy is a medical imaging modality that allows real-time microscopy to be performed on living tissue in vivo.
+
+ The procedure involves a small endoscope which is placed gently into contact with the tissue, providing significant in vivo magnification on a scale similar to that obtained by the pathology laboratory microscope.
+
+ It is already in clinical use in the field of gastroenterological endoscopy, and investigational use in laparoscopy, dermatology and gynecology.
+
+ Further, in recent pilot studies endomicroscopy has also been shown to be feasible in bronchoscopy, robot assisted prostatectomy and neurosurgery.
+
+The study will use both endomicroscopy and biopsy to document the histological appearance of a range of neurological tumour types and grades.
+
+ In subsequent analysis, the confocal image data and corresponding histology data and images will be used to document reliably observable features in the confocal images that are relevant to histopathology interpretation.
+
+ Relevant images will be selected and discussed by comparison to frozen or permanent section histology for compilation into an atlas documenting comparison for the tumors seen in the study.
+
+.
+
+ In Vivo Confocal Microscopy Tumor Atlas Study@highlight
+
+This study aims to create an atlas based on the preliminary experience of the first feasibility study in neurosurgery.
+
+ Hypothesis: That a confocal endomicroscope can be used during neurosurgery to provide in vivo histology that enables documentation of neurological pathology across a range of tumor ypes and grades, suitable for comparison with traditional histopathology from site-matched biopsies.
+

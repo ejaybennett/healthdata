@@ -1,0 +1,16 @@
+(firstQuint)Gastric Preparation of Magnetic-controlled Capsule Endoscopy.
+
+ It is a prospective, single-blind, randomized controlled trial.
+
+ Patients who were conducted by Magnetic-controlled Capsule Endoscopy at Changhai Hospital will be randomly allocated into three different Gastric Preparation group before the procedure.
+
+ It include clear water group which patient only drink 1000ml clear water before checking; simethicone group which patient drink 950ml clear water and 15ml simethicone before checking; simethicone combined with pronase group which patient drink 900ml lear water and 15ml simethicone and 20,000iu pronase before checking.
+
+ The result were got from a relevant professional physician's blinded independent image-reading.
+
+.
+
+ Gastric Preparation of Magnetic-controlled Capsule Endoscopy@highlight
+
+By using three different Gastric Preparation of Magnetic-controlled Capsule Endoscopy, the investigators hope to find out the optimal gastric preparation plan.
+

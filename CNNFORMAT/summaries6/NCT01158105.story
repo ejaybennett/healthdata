@@ -1,0 +1,26 @@
+(firstQuint)Bortezomib for the Treatment of Refractory Chronic Graft-vs-Host Disease(cGVHD).
+
+ Graft vs.
+
+ host disease represents the most formidable problem following allogeneic hematopoietic stem cell transplantation for hematological diseases.
+
+ Chronic graft-versus-host disease (cGVHD) is the most serious and common long-term complication of this treatment in patients surviving more than 100 days.
+
+ Some patients are requiring immunosuppressive therapy for years.
+
+ cGVHD is associated with a high degree of morbidity and mortality and remains a major cause of late death.
+
+ When standard treatment with steroids is ineffective or poorly tolerated, effective therapeutic options are limited.
+
+ Patients with uncontrolled cGVHD with initial therapy including systemic steroids respond poorly to second line options.
+
+ Recent studies have demonstrated Bortezomib safety in the prophylaxis, and improvement of GVHD suggesting its efficacy.
+
+This study is done to evaluate the potential of bortezomib in treating refractory cGVHD.
+
+.
+
+ Bortezomib for the Treatment of Refractory Chronic Graft-vs-Host Disease(cGVHD)@highlight
+
+The purpose of this study is to see if bortezomib (Velcade) is effective in the treatment of refractory cGVHD.
+

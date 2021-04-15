@@ -1,0 +1,26 @@
+(secondQuint)Effects of Rosiglitazone on the Metabolic Phenotype of Impaired Glucose Tolerance in Youth.
+
+ Impaired Glucose Tolerance (IGT) is a prelude to diabetes, which is increasing in prevalence in obese children and adolescents with marked obesity.
+
+ This condition tends to progress to Type 2 Diabetes Mellitus (T2DM) at an alarmingly rapid tempo.
+
+ The increased prevalence of childhood and adolescent obesity and greater risk of IGT, and progression to diabetes, in this population set the stage for a series of studies aimed at understanding the metabolic phenotype and natural history of pre-diabetes in obese youth.
+
+ The investigators found that obese children and adolescents with IGT are characterized by marked insulin resistance related to altered lipid partitioning, favoring lipid deposition in the visceral and intramyocellular compartment.
+
+ Furthermore, the investigators found an impairment of the acute insulin response in these youngsters.
+
+ Follow-up revealed a rapid deterioration from IGT to frank diabetes.
+
+ Based on these studies, there is a strong rationale for changing the balance between visceral and subcutaneous fat and muscle lipid content in a more favorable pattern in order to improve insulin sensitivity.
+
+ The primary objective of this study is to determine, in a group of ethnically diverse children and adolescents with IGT, whether treatment with rosiglitazone leads to improvements in insulin sensitivity and glucose tolerance.
+
+ Secondary objectives are to determine whether rosiglitazone is safe and well tolerated.
+
+.
+
+ Effects of Rosiglitazone on the Metabolic Phenotype of Impaired Glucose Tolerance in Youth@highlight
+
+The purpose of the study is to determine whether treatment of children and adolescents with Impaired Glucose Tolerance (IGT) with rosiglitazone will lead to improvements in insulin sensitivity and glucose tolerance.
+

@@ -1,0 +1,12 @@
+(firstQuint)Women SHARE Study: Reducing Sexual Risk.
+
+ This study will assess the feasibility and acceptability, and obtain initial evidence of the efficacy, of the BI and technology extenders.
+
+ At-risk women drinkers (N = 50) recruited from a RHFP clinic will be assessed, randomly assigned to the integrated BI or control (a CDC-produced brochure with information about alcohol and women's health), and reassessed at 3 months to determine impact on alcohol use, condom use, and number of partners as well as hypothesized mediators.
+
+.
+
+ Women SHARE Study: Reducing Sexual Risk@highlight
+
+This study will investigate whether BI and technology extenders are feasible and acceptable for female patients at a reproductive health center (ages 18-29).
+

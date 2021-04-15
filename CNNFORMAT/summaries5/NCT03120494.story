@@ -1,0 +1,24 @@
+(thirdQuint)Evaluating the Feasibility and Acceptability of Implementing a PrEP Program in PR-CoNCRA (San Juan, Puerto Rico)- Part B.
+
+ 75 subjects at risk for HIV infection (25 high risk MSM and 50 sero-discordant couples) will be recruited.
+
+ All subjects will receive Truvada for PrEP, as well as routine medical evaluations during one year.
+
+ Subjects will be managed according to CDC's guidelines on the management of PrEP as a tool for HIV prevention.
+
+ All subjects will have a total of at least 8 study visits during which routine assessment are performed for patients on Truvada for PrEP.
+
+ Apart from offering routine medical care, a baseline questionnaire that includes socio-demographic variables, PrEP knowledge and acceptability and sexual conducts will be offered.
+
+ At the 6 months visit, an abbreviated sexual conducts questionnaire will be offered.
+
+.
+
+ Evaluating the Feasibility and Acceptability of Implementing a PrEP Program in PR-CoNCRA (San Juan, Puerto Rico)- Part B@highlight
+
+75 subjects at risk for HIV infection (25 high risk MSM and 50 sero-discordant couples) will be recruited.
+
+ All subjects will receive Truvada for pre-exposure prophylaxis or PrEP, as well as routine medical evaluations during one year.
+
+ Subjects will be managed according to CDC's guidelines on the management of PrEP as a tool for HIV prevention.
+

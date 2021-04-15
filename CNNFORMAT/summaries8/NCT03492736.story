@@ -1,0 +1,30 @@
+(secondQuint)Effects of Melatonin in Untreated Obstructive Sleep Apnea.
+
+ Intermittent hypoxia (low oxygen), sleep fragmentation and restriction are characteristic of obstructive sleep apnea (OSA) and cause mental deficits and cardiovascular disease (CVD).
+
+ Melatonin (MLT) is a hormone with sleep promoting properties and the investigators have found 7 days 10mg MLT treatment significantly increases sleep consolidation in untreated OSA.
+
+ Thus, melatonin could improve mental function.
+
+ MLT also has potent antioxidant, anti-inflammatory and anti-hypertensive properties.
+
+ In humans with CVD and metabolic disorder exogenous MLT improves a wide range of cardio-metabolic outcomes.
+
+ In rat models of OSA, MLT completely blocks intermittent hypoxia induced cardiovascular damage and brain cell death.
+
+ Intermittent hypoxia also induces lasting changes in the neural control of breathing, which worsens OSA.
+
+ Experimentally antioxidants block the induction of changes to neural control of breathing.
+
+ Thus MLT may also normalize the control of breathing and reduce the severity of OSA.
+
+ Given these findings, the hypothesis is that MLT will improve mental function, cardiovascular outcomes and control of breathing in untreated OSA.
+
+.
+
+ Effects of Melatonin in Untreated Obstructive Sleep Apnea@highlight
+
+The investigators have previously shown that 1 week of 10mg Melatonin improves sleep consolidation in untreated obstructive sleep apnea (OSA) patients.
+
+ This study aims to extend on those findings to determine if longer treatment of Melatonin improves other outcomes in untreated OSA patients.
+

@@ -1,0 +1,28 @@
+(thirdQuint)Postprandial Effects of Walnut Components Versus Whole Walnuts on Cardiovascular Disease (CVD) Risk Reduction.
+
+ Walnuts contain high contents of polyunsaturated fatty acids (PUFA), particularly linoleic acid and linolenic acid.
+
+ The high PUFA content has been suggested to reduce CVD risk through decreasing total and LDL-cholesterol concentrations, and increasing HDL-C concentrations.
+
+ In addition, walnuts are rich in substances such as ellagic acid (a polyphenol), antioxidants, vitamin E, fiber, essential fatty acids, flavanoids, and phenolic acids.
+
+ Polyphenolic compounds are believed to have multiple biological effects influencing oxidative stress, platelet function, inflammation, and cancer initiation and propagation.
+
+ There is interest in identifying foods with these and other favorable compounds to test their efficacy in real world settings to further understand their role in the human diet.
+
+ Despite positive benefits found in consumption of the walnuts, it is not known which specific component of the walnut (i.
+
+e.
+
+, whole walnut, walnut skin, defatted walnut, or walnut oil) is most beneficial to health.
+
+ The investigators hypothesize that maximum improvements in oxidative stress, inflammatory markers, platelet and endothelial function will be observed following consumption of the whole nut versus isolated walnut components, thereby leading to a recommendation to consume walnuts.
+
+ In addition, results from the research proposed will provide new information about the antioxidant, inflammatory, platelet activity and endothelial effects of the different walnut components and the synergistic effects these components have in the postprandial state.
+
+.
+
+ Postprandial Effects of Walnut Components Versus Whole Walnuts on Cardiovascular Disease (CVD) Risk Reduction@highlight
+
+The purpose of this study is to evaluate the acute, postprandial effects and mechanism of action of various walnut components (separated nut skins, de-fatted nut meat, nut oil) versus whole walnuts on oxidative stress, inflammation and measures of platelet and endothelial function in healthy adults with moderately elevated cholesterol levels.
+

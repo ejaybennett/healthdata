@@ -1,0 +1,16 @@
+(secondQuint)Poziotinib in Patients With HER2+ Recurrent Stage IV BC Who Have Received at Least 2 Prior HER2-directed Regimens.
+
+ To evaluate the efficacy of NOV120101 (Poziotinib) as a therapeutic agent for HER2-overexpressed recurrent stage IV breast cancer, patients who have received at least two prior HER2-directed regimens will be enrolled in this study.
+
+ Subjects will receive NOV120101 (Poziotinib) 12 mg PO once daily for 2 weeks followed by 1-week drug-free intervals between cycles until disease progression or unacceptable toxicity development.
+
+ Progression Free Survival (PFS) will be analyzed as the primary endpoint in this trial.
+
+ Secondary endpoints including PFS rate at 12 weeks, ORR, DCR, OS and TTP will also be analyzed.
+
+.
+
+ Poziotinib in Patients With HER2+ Recurrent Stage IV BC Who Have Received at Least 2 Prior HER2-directed Regimens@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of novel pan-HER inhibitor, NOV120101 (Poziotinib), in HER2-overexpressed recurrent stage IV breast cancer patients who received at least 2 prior HER2-directed regimens.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Efficacy and Safety of 2 Doses of AQX-1125 in Subjects With Interstitial Cystitis / Bladder Pain Syndrome.
+
+ This multi-center Phase 3 trial includes a randomized, double-blind, placebo-controlled, parallel-group, treatment phase to evaluate the efficacy and safety of 2 doses of oral AQX-1125 in up to 600 subjects with interstitial cystitis/bladder pain syndrome.
+
+ The primary objective of this study is to evaluate the effect of 12 weeks of treatment of AQX-1125 (100 mg or 200 mg) administered once daily compared to placebo on the change from Baseline to Week 12 in maximum daily bladder pain using a standardized 11-point numerical rating scale pain score recorded daily by electronic diary (e-diary).
+
+ The 12-week Treatment Period is followed by an Extension Period of 52 weeks.
+
+ Randomization and start of dosing occurs at Baseline and is followed by visits at Week 6 and Week 12.
+
+ At the end of Week 12, subjects will be randomized into the 52-week Extension Period.
+
+ Subjects on active treatment during the Treatment Period will continue on that same dose for the Extension Period, while subjects receiving placebo during the Treatment Period will be randomized to one of the active doses of 100 mg or 200 mg AQX-1125 for 52 weeks.
+
+.
+
+ Efficacy and Safety of 2 Doses of AQX-1125 in Subjects With Interstitial Cystitis / Bladder Pain Syndrome@highlight
+
+This study evaluates the effects of two doses of oral AQX-1125 on bladder pain and other urinary symptoms in subjects with interstitial cystitis/bladder pain syndrome.
+
+ Participants will receive either 100 mg AQX-1125, 200 mg AQX-1125 or placebo for the first 12 weeks of the study.
+
+ After 12 weeks, all participants will receive either 100 mg or 200 mg AQX-1125 for 52 weeks.
+

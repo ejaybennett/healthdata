@@ -1,0 +1,28 @@
+(thirdQuint)Phase II Cancer Vaccine Trial for Patients With Follicular Lymphoma.
+
+ The clinical protocol is based on the rationale that the immune system has been developed to combat infectious disease.
+
+ To mimic the environment in infected tissue, selected tumor-affected lymph nodes are treated locally with a single dose of 8 Gy radiotherapy and injected with therapeutic antibody (anti-CD20/Rituximab).
+
+ Later, dendritic cells (DC) are injected into the damaged tumor tissue together with a stimulatory cytokine (GM-CSF) to initiate an immune response.
+
+ Patients with untreated or relapsed stage III/IV follicular lymphoma not in need of standard therapy receive intra-tumoral injections of low-dose anti-CD20 antibodies (5 mg) on days 1 and 3 and local radiotherapy on day 2.
+
+ On days 4 and 5, dendritic cells generated from monocytes isolated from the patients blood are injected into the site together with the stimulatory cytokine GM-CSF administered subcutaneously.
+
+ Additional lymph nodes are treated similarly after 2 and 4 weeks.
+
+ The treatment is thus performed three times, targeting different lymphoma nodes.
+
+ The primary aims are to induce tumor-specific immune responses and clinical responses.
+
+.
+
+ Phase II Cancer Vaccine Trial for Patients With Follicular Lymphoma@highlight
+
+Patients with non-curable disseminated follicular lymphoma receive local radiotherapy targeting single lymph nodes and injection of low-dose rituximab (anti-CD20) and autologous dendritic cells.
+
+ The therapy is repeated 3 times, targeting different lesion.
+
+ Aims are to induce tumor immunity and clinical responses.
+

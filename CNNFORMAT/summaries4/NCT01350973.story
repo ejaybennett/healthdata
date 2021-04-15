@@ -1,0 +1,16 @@
+(secondQuint)Efficacy of TAK-085 in Participants With Hypertriglyceridemia.
+
+ TAK-085 is an oral capsule medicine licensed to Takeda Pharmaceutical Company Ltd.
+
+ TAK-085 contains omega-3 fatty acid ethyl (mainly, ethyl eicosapentaenoate (EPA-E) and ethyl docosahexaenoic acid (DHA-E)).
+
+ This is a phase 3, double-blind, randomized study to evaluate the efficacy and safety of TAK-085 compared to EPA-E in participants with hypertriglyceridemia who are undergoing lifestyle modification.
+
+ The study period is a total of 20 weeks, comprised of an 8- week screening period and 12 weeks of treatment.
+
+.
+
+ Efficacy of TAK-085 in Participants With Hypertriglyceridemia@highlight
+
+The purpose of this study was to determine the efficacy and safety of TAK-085, once daily (QD) or twice daily (BID), compared to ethyl eicosapentaenoate (EPA-E), three times daily (TID) in participants with hypertriglyceridemia undergoing lifestyle modification.
+

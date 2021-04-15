@@ -1,0 +1,26 @@
+(secondQuint)Addressing Mental Health of Cancer Patients and Caregivers Using a Mobile App Suite.
+
+ Cancer patients and/or their caregivers will receive access to the mobile app suite, IntelliCare, as well as phone coaching that will focus on how to use the apps.
+
+ IntlliCare is composed of separate apps that each target a specific aspect of mental health (e.
+
+g.
+
+, reducing worry).
+
+ The apps are interactive and designed for users to engage in short time bursts (e.
+
+g.
+
+, less than a minute).
+
+ IntelliCare was originally designed to be paired with phone coaching that focuses on how to use the apps and overcome barriers to usage.
+
+.
+
+ Addressing Mental Health of Cancer Patients and Caregivers Using a Mobile App Suite@highlight
+
+A cancer diagnosis affects not only patients but also their caregivers.
+
+ The purpose of this study is to test the feasibility of using a mobile app suite, IntelliCare, to improve the mental health of cancer patients and caregivers.
+

@@ -1,0 +1,36 @@
+(thirdQuint)Effect of Low vs Moderate-intensity Endurance Exercise on Physical Functioning Among Breast Cancer Survivors.
+
+ Improvements in early diagnosis and treatment for breast cancer in women have resulted in increased survivorship.
+
+ An unintended consequence of increased survival, however, is that more women are living with the negative sequelae associated with cancer treatment, including decreased physical function.
+
+ Exercise has been beneficial in arresting these sequelae, but adherence to exercise guidelines continues to be a challenge.
+
+ As most breast cancer survivors are middle-aged and older, an alternative to enhance exercise engagement and adherence might be providing a low intensity exercise program.
+
+ The overall purpose of this study is to assess the impact of a low intensity versus moderate intensity endurance exercise program on physical functioning on breast cancer survivors.
+
+ It is hypothesized that participants of the low intensity exercise program will demonstrate similar physical functioning as participants in the moderate intensity exercise program.
+
+ The Theory of Planned Behavior will serve as framework for the intervention.
+
+ A convenience sample of 142 women, residents of Puerto Rico, age 50 or older, with a diagnosis of breast cancer, stage 0 thru III, who have received surgical treatment for breast cancer, with or without adjuvant therapy, will be randomly assigned to a low intensity or moderate intensity endurance intervention.
+
+ Both interventions will be home-based, have a duration of 6 months, and be provided by physical therapists.
+
+ An evaluator blinded to group assignment will assess participants at baseline and at completion of the intervention.
+
+ Primary outcome measures will consist of physical functioning, and health-related quality of life.
+
+.
+
+ Effect of Low vs Moderate-intensity Endurance Exercise on Physical Functioning Among Breast Cancer Survivors@highlight
+
+The purpose of this study is to evaluate the effect of two exercise programs: 1) one program will be at low intensity; 2) the other program will be at moderate intensity.
+
+ One hundred forty two women who are breast cancer survivors will be recruited.
+
+ Participants will be educated on a home exercise program to be performed at either low or moderate intensity, according to group assignment.
+
+ Evaluations to participants will consist of function and quality of life.
+

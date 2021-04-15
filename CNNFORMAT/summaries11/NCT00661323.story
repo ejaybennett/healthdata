@@ -1,0 +1,38 @@
+(thirdQuint)Evaluating a New Echocardiography Imaging Procedure for Evaluating Heart Function.
+
+ MRI is a non-invasive method of obtaining images of the body.
+
+ An MRI is conducted by having a person lie down on a narrow table, which then slides into a large tunnel-like tube.
+
+ Powerful magnets and radio waves scan the body and a computer records the resulting signals.
+
+ An echocardiography is a non-invasive ultrasound test that uses sound waves to create images of the heart.
+
+ It is performed by having a doctor move a wand-like device over a patient's chest.
+
+ The device then converts sound waves into pictures of the heart.
+
+ Currently, a special MRI technique is used to evaluate heart function; however, MRI is expensive and cannot be used on critically ill patients.
+
+ Echocardiography can be performed at a patient's bedside and it may be a more effective way of assessing heart function.
+
+ The purpose of this study is to determine the effectiveness of a new four-dimensional echocardiography approach at evaluating heart function.
+
+ Results from this study may be used to diagnose and treat patients more effectively in the future.
+
+ This study will enroll healthy people who do not have heart disease and people who are receiving chemotherapy who do not have heart disease.
+
+ Participants will have a physical examination and a medical records review.
+
+ MRI scans and a four-dimensional echocardiography of the heart will be performed.
+
+ There will be no additional study visits.
+
+.
+
+ Evaluating a New Echocardiography Imaging Procedure for Evaluating Heart Function@highlight
+
+Magnetic resonance imaging (MRI) and echocardiography are two imaging methods that are used to obtain pictures of the heart and assess heart function.
+
+ This study will evaluate a new, four-dimensional echocardiography approach of obtaining heart images to determine if it is as effective at evaluating heart function as MRI.
+

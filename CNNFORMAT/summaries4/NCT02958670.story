@@ -1,0 +1,42 @@
+(fifthQuint)Imaging Tau Deposition in the Brain of Elderly Subjects.
+
+ This is a single-center exploratory observational clinical study combining cross sectional and longitudinal aspects.
+
+ It contains 18F-AV-1451-PET as an intervention.
+
+ The primary objective is to measure tau deposition with 18-F-AV1451-PET based on voxel wise or volume based quantitative assessments and to study the effects of Tau deposition on the organism by identification of factors correlating to the measured tau deposition.
+
+ Study participants will be followed for up to 5 years.
+
+ To date cerebral tau pathology in vivo was only estimated by cerebrospinal fluid (CSF) tau or CSF phospho-tau which precludes a study of topical distribution and interplay with Abeta pathology.
+
+ 18F-AV-1451 offers the chance to visualize tau pathology and to study effects of tau on brain structure, brain physiology and cognitive function.
+
+ Ideally, these effects are studied in well characterized individuals in whom other important pathological factors are already known.
+
+ We therefore plan to study tau pathology measured by 18F-AV-1451 in subjects with already existing data on cerebral amyloid deposition (11C-Pittsburgh Compound C, Flutemetamol).
+
+ We will be able to relate tau pathology to past and prospective cognitive performance assessed by a detailed neuropsychological examination, and we will be able to investigate whether cerebral tau pathology is reflected by peripheral blood biomarkers.
+
+ For this purpose we will include elderly subjects with various degrees of cognitive performance (cognitively healthy, mild cognitive impairment, dementia) and various degrees of cerebral amyloid deposition (dichotomized or quantitative).
+
+ We will also include Frontotemporal Lobar Degeneration (FTLD) cases to study tau effects in neurodegenerative disease in the absence of beta-amyloid.
+
+ Our hypotheses are the following: 1.
+
+ We assume that it is possible to identify tau deposition in subjects with and without cerebral Abeta deposition.
+
+ 2.
+
+ We hypothesize that tau-deposition will be associated with structural and physiological brain changes and that there are synergistic effects of the amount of tau and Abeta pathology on certain brain regions and on cognitive function.
+
+.
+
+ Imaging Tau Deposition in the Brain of Elderly Subjects@highlight
+
+Cerebral accumulation of tau and beta-amyloid are major factors of Alzheimer's disease pathology.
+
+ A novel Positron Emission Tomography (PET) tracer (18-F-AV-1451) now offers the ability to study tau protein deposition in vivo in subjects, in which information on cerebral amyloid deposition has already been gathered.
+
+ This enables to study effects of tau deposition on neuronal integrity, their relation to effects of beta-amyloid deposition and how this contributes to cognitive impairment or well-being in the elderly.
+

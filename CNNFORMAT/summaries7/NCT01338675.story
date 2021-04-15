@@ -1,0 +1,18 @@
+(firstQuint)Targeted Busulfan, Fludarabine Conditioning Regimen for Hematopoietic Stem Cell Transplantation in Chronic Granulomatous Disease(CGD).
+
+ Chronic granulomatous disease is one of the rare congenital immunodeficiency which can be cured by hematopoietic stem cell transplantation.
+
+ Previous myeloablative conditioning regimen has problems related to the severe toxicities, and non-myeloablative conditioning regimen has the risk of graft failure.
+
+ Recently, reduced-intensity myeloablative conditioning regimen with busulfan and fludarabine was used usually in leukemia patients.
+
+ Busulfan is a highly toxic drug with narrow therapeutic window.
+
+ In this study we plan to use optimal busulfan dose through pharmacokinetic study in stem cell transplantation of CGD patients.
+
+.
+
+ Targeted Busulfan, Fludarabine Conditioning Regimen for Hematopoietic Stem Cell Transplantation in Chronic Granulomatous Disease(CGD)@highlight
+
+In this study the investigators plan to use optimal busulfan dose through pharmacokinetic study in stem cell transplantation of CGD patients.
+

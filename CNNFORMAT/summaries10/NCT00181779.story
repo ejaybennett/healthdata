@@ -1,0 +1,24 @@
+(fifthQuint)Aripiprazole for the Treatment of Mania in Children and Adolescents With Bipolar Disorder.
+
+ Initial clinical evidence suggests that atypical neuroleptics may play a unique therapeutic role in the management of pediatric bipolar disorder.
+
+ Aripiprazole is a novel neuroleptic recently approved by the FDA for the treatment of schizophrenia, and it has a unique pharmacological profile believed to be fundamentally different from other available antipsychotics.
+
+ Many previous studies have reported increased efficacy of Aripiprazole compared to placebo.
+
+ Unfortunately, Aripiprazole has not been investigated in children and adolescents, and as such, safety and efficacy has not been established for these populations.
+
+ This is an exploratory, pilot study, seeking to determine whether Aripiprazole is efficacious and well tolerated in the treatment of youth with pediatric bipolar and bipolar spectrum disorder.
+
+ The study results, gathered from an 8 week open-label treatment period and subsequent 10 month extension period, will be used to generate hypotheses for a larger randomized controlled clinical trial with explicit hypotheses and sufficient statistical power.
+
+.
+
+ Aripiprazole for the Treatment of Mania in Children and Adolescents With Bipolar Disorder@highlight
+
+This is an open-labeled study of Aripiprazole, testing its efficacy in the treatment of mania in children and adolescents with Bipolar I, Bipolar II and Bipolar Spectrum Disorder over 8 weeks.
+
+ This is an exploratory, pilot study, seeking to determine whether Aripiprazole is efficacious and well tolerated in the treatment of youth with pediatric bipolar and bipolar spectrum disorder.
+
+ The study results will be used to generate hypotheses for a larger randomized controlled clinical trial with explicit hypotheses and sufficient statistical power.
+

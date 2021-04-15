@@ -1,0 +1,14 @@
+(firstQuint)Drug Eluting Balloon for Treatment of Unstable Angina.
+
+ Patients with unstable angina were randomized to drug eluting stent only or drug eluting balloon group.
+
+ Angiographic follow-up was performed after 12 months.
+
+ The primary endpoints were late lumen loss (LLL) and the secondary endpoints were target lesion revascularization (TLR),and the major adverse cardiovascular events (MACE) .
+
+.
+
+ Drug Eluting Balloon for Treatment of Unstable Angina@highlight
+
+This study was to investigate the effect and safety of drug eluting balloon combined for treatment of unstable angina.
+

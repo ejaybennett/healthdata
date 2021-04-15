@@ -1,0 +1,12 @@
+(firstQuint)Efficacy Study of a Low Volume of Water Intake and Mosapride for Endoscopy in Patients With Subtotal Gastrectomy.
+
+ We evaluate that a 500mL of water intake and mosapride will effectively reduce food residue in remnant stomach for patients who had undergone subtotal gastrectomy due to gastric cancer.
+
+ We plan to compare this method with routine midnight fasting method for endoscopy in patients with subtotal gastrectomy.
+
+.
+
+ Efficacy Study of a Low Volume of Water Intake and Mosapride for Endoscopy in Patients With Subtotal Gastrectomy@highlight
+
+A low volume of water intake and mosapride will effectively reduce food residue in remnant stomach for patients who had undergone subtotal gastrectomy due to gastric cancer.
+

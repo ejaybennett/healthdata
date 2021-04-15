@@ -1,0 +1,42 @@
+(thirdQuint)Using Minimally Invasive Cardiac Output Data vs.
+
+ Standard Care for Patients Emergently Admitted to the Intensive Care Unit Who Are Hemodynamically Unstable.
+
+ Hemodynamic instability during the first 24-hours of Intensive Care Unit (ICU) admission is associated with increased risk of subsequent morbidity and mortality.
+
+ Goal-directed hemodynamic support has been successfully used in a variety of patients to improve outcome.
+
+ In contrast, a similar therapeutic approach applied later, or in patients with established multi-organ failure, has no beneficial effect and may even worsen the outcome.
+
+ It is conceivable that there is a window of opportunity during the phases of hemodynamic instability where therapeutic interventions have the greatest potential to influence the subsequent course of critical illness.
+
+ Large scale uses of therapeutic protocols for early intervention have been hampered by logistic problems.
+
+ The burden of installing invasive hemodynamic monitoring and protocols is labor intensive and requires a continuous presence of personnel with a thorough understanding of complex physiology.
+
+ Various techniques have been introduced for monitoring cardiac output, stroke volume, or their surrogates.
+
+ The disadvantage of these technologies so far have included user dependence of measurements results, need for calibration, and limitations in applicability.
+
+ Edwards Lifesciences has developed a new algorithm for the determination of cardiac output using arterial pressure data.
+
+ The FloTrac cent system, which includes the FloTrac cent sensor and Vigileo cent monitor, is utilized to capture the arterial pressure-based cardiac output measurement, which will be hereinafter referred to as APCO (Arterial Pressure Cardiac Output).
+
+ This system uses an existing arterial catheter (placed in the femoral or radial artery) and does not require calibration by an external reference method.
+
+ We hypothesize that using the FloTrac cent system to continuously monitor cardiac output, in addition to traditional vital signs, cardiovascular instability will be identified earlier and result in earlier intervention.
+
+ In addition, following earlier diagnosis, more precise intervention will be available.
+
+ If this can be achieved, patients will likely show better outcomes by reduced length of hospital stay, ICU time, Mechanical Ventilation time, incidence of renal compromise, and other related morbidity/mortality and need less ICUresources.
+
+.
+
+ Using Minimally Invasive Cardiac Output Data vs.
+
+ Standard Care for Patients Emergently Admitted to the Intensive Care Unit Who Are Hemodynamically Unstable@highlight
+
+The purpose of this study is to evaluate if the continuous availability of minimally invasive cardiac output data during treatment in the intensive care unit (ICU) for hemodynamic instability, in comparison to standard of care will shorten the time needed to stabilize the patient.
+
+ The researchers hypothesize that early detection of instability improves the prognosis and treatment outcome of emergency intensive care patients with hemodynamic instability.
+

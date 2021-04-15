@@ -1,0 +1,11 @@
+(firstQuint)Effect of Hyperuricaemia on Chronic Renal Disease.
+
+ This study aims to explore the best effective dose and adverse reaction of febuxostat in lowering serum uric acid to low level in patients with Chronic Renal Disease at different stages.
+
+ To elucidate that low levels of serum uric acid can delay the progression of renal damage.
+
+ Promote the application of anti uric acid drugs in the treatment of chronic renal failure and delay the progress of CKD in patients.
+
+ Effect of Hyperuricaemia on Chronic Renal Disease@highlight
+
+To investigate the Effect of Hyperuricaemia on Chronic Renal Disease and Intervention

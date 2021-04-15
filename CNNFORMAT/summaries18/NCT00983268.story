@@ -1,0 +1,48 @@
+(fifthQuint)Capecitabine, Vorinostat, and Radiation Therapy in Treating Patients With Nonmetastatic Pancreatic Cancer.
+
+ OBJECTIVES: Primary - Determine the maximum tolerated dose of vorinostat when given in combination with capecitabine and high-dose hypofractionated radiotherapy in patients with nonmetastatic pancreatic cancer.
+
+ Secondary - Determine the safety and side effect profile of this regimen in these patients.
+
+ - Determine the response rate in patients treated with this regimen.
+
+ Correlative - Compare pre- and post-treatment whole-cell HDAC-activity levels in peripheral blood mononuclear cell samples.
+
+ - Assess chromatin structure and DNA damage in surgical tumor tissue samples.
+
+ - Assess proliferation and apoptosis by in vivo imaging.
+
+ OUTLINE: This is a dose-escalation study of vorinostat.
+
+ Patients receive oral capecitabine twice daily and undergo high-dose hypofractionated radiotherapy once daily on days 1-5 and 8-12.
+
+ Patients also receive oral vorinostat once daily on days 1-5, 8-12, 15-19, and 22-26 in the absence of disease progression or unacceptable toxicity.
+
+ Patients are evaluated for surgery within 6 weeks after completion of chemoradiotherapy.
+
+ Patients with resectable disease proceed to surgery.
+
+ Patients with unresectable disease may receive oral vorinostat once daily and oral capecitabine twice daily on days 1-14.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Blood samples are collected periodically for correlative laboratory studies.
+
+ Patients also undergo diffusion-weighted MRI for analysis of in vivo tumor cellularity.
+
+ After completion of study therapy, patients are followed up periodically for 5 years.
+
+.
+
+ Capecitabine, Vorinostat, and Radiation Therapy in Treating Patients With Nonmetastatic Pancreatic Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Vorinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Radiation therapy uses high energy x-rays to kill tumor cells.
+
+ Giving capecitabine and vorinostat together with radiation therapy may kill more tumor cells.
+
+ PURPOSE: This phase I trial is studying the side effects and best dose of vorinostat when given together with capecitabine and radiation therapy in treating patients with nonmetastatic pancreatic cancer.
+

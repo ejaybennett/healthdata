@@ -1,0 +1,24 @@
+(firstQuint)Specimen Collection Study for H.
+
+ Pylori Testing.
+
+ This is a prospective study designed to acquire and bank human specimens from subjects who are scheduled for routine upper endoscopy for symptoms such as dyspepsia.
+
+ This study will be conducted at a minimum of 2 sites in the United States.
+
+ Investigator sites will enroll prospective subjects who meet the inclusion / exclusion criteria.
+
+ A case report form (CRF) provided by the sponsor will be used to capture basic demographic information (DOB, age, gender, race/ethnicity), medication history, and related clinical information.
+
+ The CRFs will also record the results of the following tests performed with the gastric biopsy tissue specimens: histology and rapid urease test (RUT).
+
+.
+
+ Specimen Collection Study for H.
+
+ Pylori Testing@highlight
+
+The objective of this study is to acquire human specimens from subjects undergoing routine endoscopy with gastric biopsy for the diagnosis of active H.
+
+ pylori infection.
+

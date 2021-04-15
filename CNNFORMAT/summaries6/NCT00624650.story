@@ -1,0 +1,14 @@
+(firstQuint)Hemodynamics and Extravascular Lung Water in Acute Lung Injury.
+
+ The objective of this study is to conduct a randomized, controlled trial of a goal directed therapy designed to improve outcome in patients with acute lung injury (ALI).
+
+ The investigators are comparing two algorithmic approaches in managing patients with ALI - one, the control arm, attempts to reduce the amount of fluid in the lung in patients with ALI by diuresis based on central venous pressure and urine output, the other the treatment arm attempting to reduce lung water by directing therapy to measured lung water and using more sensitive indicators of preload status than CVP.
+
+ The protocol uses measured extravascular lung water (EVLW) to direct diuresis and appropriate fluid restriction in a goal directed fashion in order to lower EVLW towards the normal range.
+
+.
+
+ Hemodynamics and Extravascular Lung Water in Acute Lung Injury@highlight
+
+The purpose of this study is to test a treatment that tries to reduce the amount of fluid in the lungs of subjects with acute lung injury to see if this is helpful.
+

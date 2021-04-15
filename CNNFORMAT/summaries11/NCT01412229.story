@@ -1,0 +1,14 @@
+(secondQuint)Induction Chemotherapy for Locally Advanced Squamous Cell Carcinoma of the Head and Neck.
+
+ This is a non-randomized, open-label phase II trial of 40 patients with poor prognosis head and neck cancer, defined as surgically unresectable and/or N2b disease and judged appropriate for non-surgical definitive therapy.
+
+ Patients must have Eastern Cooperative Oncology Group (ECOG) performance status of 0-1 with good organ function and will be treated with six weekly cycles of carboplatin, nab-paclitaxel and cetuximab prior to scheduled concomitant chemoradiation.
+
+ The study is designed to evaluate whether this induction regimen can result in an improved response rate (complete response (CR) + partial response (PR)) with less toxicity than the current standard induction docetaxel, cisplatin and 5-fluorouracil (TPF) regimen.
+
+.
+
+ Induction Chemotherapy for Locally Advanced Squamous Cell Carcinoma of the Head and Neck@highlight
+
+This is a non-randomized, open-label phase II trial of 40 patients with poor prognosis head and neck cancer, defined as surgically unresectable and/or N2b disease and judged appropriate for non-surgical definitive therapy.
+

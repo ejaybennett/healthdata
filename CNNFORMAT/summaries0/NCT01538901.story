@@ -1,0 +1,26 @@
+(fifthQuint)Imiquimod Versus Photodynamic Therapy of Actinic Keratoses in Organ Transplant Recipients.
+
+ Organ transplant patients (OTP) require lifelong immunosuppressive therapy and consequently are prone to develop skin tumors, i.
+
+e skin cancer is the most frequent malignancy in organ transplant recipients.
+
+ OTP frequently develop extensive areas of actinic damage, epidermal dysplasia, wich accounts for increased risk of aggressive skin cancer development in susceptible patients, and are referred to as "field cancerisation".
+
+ Therefore the whole area of field cancerisation has to be treated.
+
+ In our study we will treat this areas with two different methods and not only the single visible lesions of actinic keratoses.
+
+In this open prospective randomized intraindividual study one half of the patients' scalp or face will be treated with Imiquimod 5% cream for 4 weeks, 3 times a week, and the other half with Methyl-aminolaevulinate 16% cream photodynamic therapy, two applications in two weeks interval.
+
+ The pre- and post treatment extension of field cancerisation will be assessed by means of a highly sensitive digital fluorescence imaging system.
+
+.
+
+ Imiquimod Versus Photodynamic Therapy of Actinic Keratoses in Organ Transplant Recipients@highlight
+
+The purpose of this study is to compare two different therapies for actinic keratoses in organ transplant recipients with regard to efficacy and tolerability.
+
+ The investiagtors are planning to examine treatment with Imiquimod 5% cream versus treatment with Methyl-aminolaevulinate 16% cream and subsequent irradiation with red light, so-called photodynamic therapy, in this patients' group.
+
+ A secondary objective of our study is to investigate the reduction in the field cancerisation after both treatments using fluorescence diagnostic method and digital imaging.
+

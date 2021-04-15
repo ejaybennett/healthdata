@@ -1,0 +1,106 @@
+(fifthQuint)Phase 2A Study of GM 608 in Mild to Moderate Parkinson Disease.
+
+ Background The investigational drug GM6028 is a synthetic oligopeptide containing 6 amino acids with a sequence identical to one of the active sites of human Motoneuronotrophic factor (MNTF), also referred to as GM6 in studies.
+
+ MNTF is a novel human endogenous developmental stage neurotrophin for the nervous system with a specific human chromosome location.
+
+ The investigators' preclinical animal study has shown that intravenously injected GM608 is able to penetrate the blood-brain barrier and enter the brain.
+
+ GM608 has shown neuroprotection in a variety of in vitro and animal models of numerous CNS diseases including ischemic stroke, spinal cord injury, Parkinsons Disease (PD), ALS, MS, Alzheimer and Huntington Disease.
+
+ In particular, the MPTP and 6-OHDA mouse model for PD all showed GM608 has neuroprotective effect.
+
+ GM608 also enhanced neuron cell survival very significantly in the CSF of patients with Huntington disease, MS, Stroke, Parkinson, Alzheimer and ALS.
+
+ This pilot trial is designed to test proof of principle, i.
+
+e.
+
+ determine if a 2-week treatment with this agent can restore the nonfunctioning nigral dopaminergic neurons in PD over a 3month period, during which the placebo-treated arm is expected to have little or no worsening of the total UPDRS score compared to baseline.
+
+ A Phase 1 Clinical Trial Study has been completed.
+
+ The Phase 1 Trial primary objective is to determine the safety and tolerability and to establish the pharmacokinetic and pharmacodynamic properties of GM608 at 0.
+
+5, 1.
+
+5, and 5.
+
+0 mg/kg administered as a single bolus intravenous dose in human subjects and after 3 consecutive daily doses of GM608 at the highest safe and tolerated dose of 5.
+
+0 mg/kg.
+
+ The Phase 1 study established that 3 consecutive daily doses of 5.
+
+0 mg/kg of GM602 are safe and tolerated.
+
+ Mechanism of Action Motoneuronotrophic factor (MNTF) is highly specific to the human nervous system.
+
+ It is expressed rapidly during the first trimester of human fetal development, peaking at week nine.
+
+ MNTF is a developmental stage regulatory (antisense) neuro-signaling molecule that binds perfectly on very specific receptors.
+
+ Using In Silico Analysis, Genervon identified and developed as a drug candidate one of the active sites of MNTF, an analog of six amino acids named GM608.
+
+ In the investigators' testing for efficacy in Parkinson disease MPTP and 6-OHDA animal models, GM608 demonstrated a dose dependent attenuation of PD in the mice with 20 mg/kg showing the most efficacious.
+
+ Behavioral, biochemical and histological analysis demonstrated the attenuation illustrating a unique effect for GM608 in PD.
+
+ These data suggest that GM608 is effective in the mouse model of PD following IV injection and may be a potential treatment for PD patients.
+
+ In the investigators' in vitro study in Parkinson disease, treatment with wortmannin (PI3K inhibitor) abrogated the protective effects of GM608 on SH-SY5Y cells which were subjected to salsolinol exposure for 24 hours.
+
+ The results suggested that GM608 may function through the phosphatidylinositol 3-kinase (PI3K) pathway which is an important pathway in neuronal diseases.
+
+ Although the neuroprotective mechanism in each of the animal studies is not well understood, the investigators hypothesize that GM608 respond to specific distress signal anywhere from the human nervous system through a common underlying mechanism by triggering specific pathway(s), possibly through the PI3 pathway and other pathways that protect neural tissues by increasing or decreasing specific gene(s) expressions.
+
+ This is a single-center, prospective, randomized, double-blind, and placebo-controlled pilot study, involving 6 subjects not on any dopaminergic medication (i.
+
+e.
+
+ levodopa or dopamine agonist).
+
+ Subjects will be randomized 2:1 into one of two treatment arms: (1) 4 subjects will receive i.
+
+v.
+
+ injections of GM608 and (2) 2 subjects will receive a matching placebo.
+
+ Progression of clinical PD will be assessed using the UPDRS over 12 weeks.
+
+ Safety and tolerability will also be compared between treated and placebo group.
+
+ There will be 2 weeks of active treatment, followed by 10 weeks of assessment without active treatment.
+
+ During the 2-week active treatment phase, each subject will receive one IV bolus injection once a day for three times a week during these 2 weeks for a total of six injections.
+
+ Subjects will be evaluated by UPDRS at screening, at baseline, and the ends of weeks 2 (at visit 6 after dosing), 6, and 12.
+
+ The study duration for each subject is 12 weeks.
+
+.
+
+ Phase 2A Study of GM 608 in Mild to Moderate Parkinson Disease@highlight
+
+GM608 is an endogenous human embryonic stage neural regulatory and signaling peptide that controls the development, monitoring and correction of the human nervous system.
+
+ The study drug is an oligopeptide with a sequence identical to one of the active sites of human Motoneuronotrophic Factor and is manufactured by solid phase synthesis.
+
+ Preclinical research indicates it to be a neuro-protective agent in animal models of PD, other neuro-degenerative diseases and stroke.
+
+ This trial is designed to test proof of principle, i.
+
+e.
+
+ determine if a 2-week treatment with this agent can restore the non-functioning nigral dopaminergic neurons in PD over a 3 month period, during which the placebo-treated arm is expected to have little or no worsening of the total UPDRS (Unified Parkinson's Disease Rating Scale)score compared to baseline.
+
+ Study Objectives are: 1.
+
+ To compare the safety and tolerability of GM608 with placebo in a population of patients with early PD.
+
+ 2.
+
+ To field test the study procedures for feasibility and efficiency 3.
+
+ To determine if there is any hint that injections of GM608 might slow the rate of clinical worsening of PD.
+

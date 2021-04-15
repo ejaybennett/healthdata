@@ -1,0 +1,28 @@
+(fifthQuint)CoQ10 in Gulf War Illness.
+
+ As many as a third of the nearly 700,000 military personnel deployed during Desert Shield and Desert Storm (Aug 2, 1990 to July 31, 1991) in the Kuwaiti Theater of Operations are suffering from Gulf War Illness (GWI), an unexplained chronic illness characterized by multiple symptoms.
+
+ Gulf War Veterans experienced environmental exposures that are known to be oxidative stressors which contribute to cell injury, resulting in mitochondrial dysfunction Exploratory studies using interventions that support cell functioning and prevent or repair stress mediators suggest a role for these targeted interventions, such as Coenzyme Q10.
+
+ The goal of this clinical trial is to determine if Coenzyme Q10 is effective in increasing physical functioning for Veterans with Gulf War Illness.
+
+ This is a randomized, two group, double blind, placebo controlled, Phase III clinical trial.
+
+ The treatment group will receive a (2x200 mg for 2 months and 1x200 mg for 4 months) once a day of ubiquinol for 6 months.
+
+ The placebo group will receive matching placebo (2x200 mg for 2 months and 1x200 mg for 4 months) once a day of ubiquinol for 6 months.
+
+ The primary outcome measure for this clinical trial is a change from baseline of SF-36, with respect to physical functioning and symptoms.
+
+ The secondary outcome measures include changes from baseline of peripheral blood levels of biomarkers, and of GWI-associated symptoms of chronic pain, fatigue, sleep issues, and cognitive impairment.
+
+.
+
+ CoQ10 in Gulf War Illness@highlight
+
+The primary objective of this clinical trial is to determine if treatment with ubiquinol, a form of coenzyme Q10, improves the physical function of men and women Veterans suffering from Gulf War Illness (GWI).
+
+ The primary outcome measure is a change from baseline on the Short Form Health Survey 36-item (SF-36), with respect to physical functioning and symptoms.
+
+ Secondary outcome measures include changes from baseline levels on GWI-associated biomarkers in peripheral blood and GWI-associated symptoms of chronic pain, fatigue, insomnia, activity level, and cognitive and mental functioning.
+

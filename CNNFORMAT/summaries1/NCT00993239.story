@@ -1,0 +1,12 @@
+(firstQuint)Dose Escalation Safety Study of TL32711 in Adults With Refractory Solid Tumors or Lymphoma.
+
+ The purpose of this Phase 1 open-label, non-randomized dose escalation study is to determine the maximum tolerated dose (MTD) and characterize the safety and tolerability of Birinapant (TL32711) when administered as a 30 minute intravenous infusion once weekly for three weeks per repeated 4 week intervals in subjects with refractory solid tumors or lymphoma.
+
+ Additionally study will assess anti-tumor activity, pharmacokinetics, and exploratory biomarkers as a measurement of pharmacodynamic effects.
+
+.
+
+ Dose Escalation Safety Study of TL32711 in Adults With Refractory Solid Tumors or Lymphoma@highlight
+
+A Phase 1 open-label, non-randomized dose escalation study to determine the maximum tolerated dose (MTD) and characterize the safety and tolerability of Birinapant (TL32711).
+

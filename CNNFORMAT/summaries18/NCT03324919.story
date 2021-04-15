@@ -1,0 +1,30 @@
+(fifthQuint)Patient Centered Care Situation and Health-related Quality of Life by Patients With Psoriasis, Urticaria or Lupus.
+
+ The care of patients with the above indications is based on a wide variety of available therapies.
+
+ This study is based on a survey about the patient centered care situation and health-related quality of life of patients with diagnoses Psoriasis, Urtikaria or Lupus erythematodes.
+
+ Therefore a cross-sectional survey will be done of patients with the above diseases from non-urban practices vs.
+
+ urban practices (University Hospital).
+
+ An adequate diagnosis and treatment of Psorisasis, Urticaria or Lupus erythematodes is often problematic due to the diverse and complex organ manifestations.
+
+ However adequate diagnosis and appropriate treatments of these diseases is often conducted by various medical specialists in both outpatient and in-patient care.
+
+ Lack of access and ability of the rural population to get an appropriate therapy may lead by these patients to false diagnosis or a therapeutic oversupply of an only symptom-oriented therapy.
+
+ Furthermore the partly chronic character in the above mentioned diseases with recurrent symptoms, connected with prolonged itching periods and long-lasting treatments by these patients can lead to both emotional, mental stress and physical isolation.
+
+ This situation does not only affect the health but also the overall quality of life of these patients.
+
+ Therefore this study addresses several factors concerning the patient's perceived health status and to detect changes or differences in health status occurring between groups (patients from non-urban practices vs urban practices).
+
+ Patient Centered Care Situation and Health-related Quality of Life by Patients With Psoriasis, Urticaria or Lupus@highlight
+
+This study is based on a survey about the patient centered care situation and health-related quality of life of patients with diagnoses Psoriasis, Urtikaria or Lupus erythematodes.
+
+ Detection of relevant parameters of quality of life by these patients serves for the detection of psychosocial burden of the mentioned skin diseases, thus gaining an increasing importance for prospective economic issues.
+
+ This survey is a behaviorally based questionnaire for patients with the above diseases and addresses activities such as sleep and rest, mobility, recreation, home management, emotional behavior, social interaction, and the like.
+

@@ -1,0 +1,16 @@
+(secondQuint)Safety and Efficacy Study of Intravenous Loading Dose of Ibandronate in Breast Cancer Patients.
+
+ Painful skeletal metastases are a common site of advanced disease.
+
+ For instance, in breast cancer, and despite cancer treatments (radiotherapy, cytotoxic treatment and adequate treatment of pain), the patients often need additional treatments that may relieve their symptoms.
+
+ Bisphosphonates, such as ibandronic acid, have in pilot studies shown a significant decrease in pain scores, both after loading dose and after long-term treatment.
+
+ In this study the safety and efficacy of an intravenous loading dose of three times 6 mg ibandronate during three consecutive days in breast cancer patients with painful skeletal metastases will be studied.
+
+.
+
+ Safety and Efficacy Study of Intravenous Loading Dose of Ibandronate in Breast Cancer Patients@highlight
+
+The purpose of the study is to determine the efficacy and safety of a three time repeated loading dose of intravenous ibandronate (ibandronic acid), 6 mg, in breast cancer patients with painful skeletal metastases.
+

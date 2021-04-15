@@ -1,0 +1,20 @@
+(thirdQuint)A Study to Evaluate Safety and Efficacy Following Dosing of Oxycodone/Naltrexone for Treatment of Adults With Pain Following Bunionectomy Surgery.
+
+ The study is designed to evaluate the safety and efficacy of oxycodone/naltrexone (a) and oxycodone/naltrexone (b) versus placebo.
+
+ During the blinded phase of the study (inpatient portion) the dosing regimen is 1 capsule containing Oxycodone Hydrochloride plus Naltrexone Hydrochloride (a) or Oxycodone plus Naltrexone Hydrochloride (b) or placebo taken with 4 to 6 ounces (oz) of water every 6 hours (q6h) for 48 hours following the first dose (Multiple-dose Period) while in-house.
+
+ Then for the open-label phase of the study (outpatient portion) dosing will occur every 4 to 6 hours prn with Oxycodone plus naltrexone.
+
+ The active and placebo study medications will appear identical.
+
+ Study subjects with acute postoperative pain of moderate to severe intensity following unilateral bunionectomy surgery will be randomized after surgery, and will stay at the study center for the duration of the 48-hour double-blind period after dose 1 of study medication.
+
+ The study will be conducted in the following 4 periods: 1) a pre-treatment period, 2) a multiple-dose inpatient period (double-blind), 3) a multiple-dose outpatient period (open-label), and 4) End of Study/Follow-up.
+
+.
+
+ A Study to Evaluate Safety and Efficacy Following Dosing of Oxycodone/Naltrexone for Treatment of Adults With Pain Following Bunionectomy Surgery@highlight
+
+This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group, Phase 3 study to evaluate the efficacy and safety of the administration of multiple doses of Oxycodone Hydrochloride plus Naltrexone Hydrochloride (a) or Oxycodone Hydrochloride plus Naltrexone Hydrochloride (b) in patients who have undergone primary, unilateral, distal first metatarsal bunionectomy with osteotomy and internal fixation.
+

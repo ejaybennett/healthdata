@@ -1,0 +1,48 @@
+(fifthQuint)Biomarkers in Predicting Response in Patients With Early-Stage Non-Small Cell Lung Cancer Previously Treated With Adjuvant Chemotherapy.
+
+ PRIMARY OBJECTIVES: I.
+
+ Evaluate potential prognostic and predictive markers in patients receiving adjuvant chemotherapy for early stage non-small cell lung cancer (NSCLC).
+
+ II.
+
+ To perform cross-validation analyses for the predictive value of cyclin-dependent kinase inhibitor 1B (p27), excision repair cross-complementation group 1 (ERCC1), beta-tubulin and B-cell lymphoma 2 (BCL2)-associated X protein (BAX).
+
+ III.
+
+ To perform cross-validation analyses for the prognostic value of mucin and breast cancer (BRCA)1 expression.
+
+ IV.
+
+ To perform a pooled analysis for the prognostic impact of p53 protein expression by immunohistochemistry (IHC), tumor protein p53 (p53) mutation, ras mutation and epidermal growth factor receptor (EGFR) mutation, and Fas cell surface death receptor (Fas)/Fas ligand (FasL) expression by IHC.
+
+ V.
+
+ Validation of the 15-gene prognostic and predictive messenger ribonucleic acid (mRNA) signature on Lung Adjuvant Cisplatin Evaluation (LACE)-Bio formalin-fixed paraffin-embedded (FFPE) tumor samples.
+
+ VI.
+
+ Exploratory evaluation of the prognostic and predictive values of known potential oncogenic mutations using LACE-Bio FFPE.
+
+ VII.
+
+ Exploratory evaluation of the prognostic and predictive values of gene copy variation using LACE-Bio FFPE tumor samples.
+
+ VIII.
+
+ Exploratory identification and evaluation of prognostic and predictive value of novel genomic aberrations discovered by Next Generation Sequencing on LACE-Bio tumor samples.
+
+ OUTLINE: Previously collected tissue samples are analyzed by IHC.
+
+.
+
+ Biomarkers in Predicting Response in Patients With Early-Stage Non-Small Cell Lung Cancer Previously Treated With Adjuvant Chemotherapy@highlight
+
+This research trial studies prognostic and predictive markers in patients with early stage non-small cell lung cancer receiving chemotherapy.
+
+ Prognostic markers are patient or tumor factors that predict patient survival independent of treatment.
+
+ Predictive markers are factors that may influence and predict the outcome of treatment in terms of either response or survival benefit.
+
+ Collecting and storing samples of tissue from patients with cancer to study in the laboratory may help doctors learn more about cancer and identify biomarkers related to cancer.
+

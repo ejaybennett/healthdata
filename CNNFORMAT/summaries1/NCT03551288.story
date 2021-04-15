@@ -1,0 +1,11 @@
+(firstQuint)Effect of Food, Gender, and Age on the Pharmacokinetic Profile of SUVN-911 in Healthy Subjects.
+
+ This is a Phase I, single-center, open-label, single dose study to evaluate the effect of food, gender, and age on the safety and Pharmacokinetic profiles of single doses of SUVN-911, administered orally in healthy subjects.
+
+ The primary objective is to evaluate the effect of food, gender, and age on the pharmacokinetics of a single dose of SUVN-911 administered orally to healthy subjects.
+
+ The secondary objective is to evaluate the safety and tolerability of a single dose of SUVN-911 administered orally to healthy adult male, female, and elderly subjects.
+
+ Effect of Food, Gender, and Age on the Pharmacokinetic Profile of SUVN-911 in Healthy Subjects@highlight
+
+The purpose of the study is to investigate the effect of Food, Gender, and Age on the Pharmacokinetic Profile of SUVN-911 in Healthy Subjects

@@ -1,0 +1,16 @@
+(secondQuint)Sweet Taste Receptors and the Secretion of Glucagon-like Peptide-1 and Peptide YY.
+
+ There is strong evidence that taste signaling mechanisms identified in the oral epithelium also operate in the gut.
+
+ It is suggested that open-type enteroendocrine cells directly sense nutrient via alpha-gustducin coupled taste receptors to modulate the secretion of glucagon like peptide-1 (GLP-1) and peptide YY (PYY).
+
+ Several nutrient responsive G-protein coupled receptors have been identified in the human gut, including the sweet taste responsive T1R2/T1R3 heterodimer, the amino acid/umami responsive T1R1/T1R3 as well as GPR120 for unsaturated long-chain free fatty acids.
+
+The functional significance of sweet taste receptors in glucose stimulated secretion of GLP-1 and PYY will be determined by intragastric infusion of 75 g glucose with different concentrations of lactisole (150 ppm, 300 ppm and 450 ppm)in a double blind, 4-way crossover trial including 16 healthy subjects.
+
+.
+
+ Sweet Taste Receptors and the Secretion of Glucagon-like Peptide-1 and Peptide YY@highlight
+
+The purpose of this study is to determine the functional significance of sweet taste receptors in the secretion of GI satiety peptides by using a specific sweet taste receptor antagonist to block sweet taste perception in the gut.
+

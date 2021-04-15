@@ -1,0 +1,44 @@
+(fifthQuint)Cultivated Autologous Oral Mucosal Epithelial Transplantation for the Treatment of Ocular Surface Diseases.
+
+ When corneal epithelial stem cells are destroyed by severe trauma such as burn or autoimmune diseases, poor regeneration of corneal epithelium, persistent inflammatory reaction, neovascular ingrowth, and conjunctivalization may ensue, and seriously reduce the vision.
+
+ In treating the diseased eye, when the other eye is healthy, limbal tissue containing corneal epithelial stem cells can be harvested for direct tissue transplantation, or ex vivo cultivation and expansion for several days before transplantation.
+
+ For patients with bilaterally damaged eyes, rejection rate in non-HLA matched allograft limbal stem cell transplantation is very high, in addition, adverse reaction to long-term immunosuppressive therapy may be life-threatening.
+
+ Therefore, in 2004 Japanese researchers first proposed a novel technique to treat ocular surface diseases using cultivated autologous oral mucosal epithelial transplantation (COMET).
+
+ From 2006 to 2009, investigators have also conducted a Phase I clinical trial approved by Taiwan FDA.
+
+ In that Phase I trial, investigators have demonstrated efficacy of such cell therapy in promoting wound healing in patients with severe ocular surface burns (Ma DHK et al.
+
+ Eye 2009; 23: 1442- 1450).
+
+ Investigators have also identify long-term persistence of transplanted oral mucosal epithelial cells in the cornea (Chen HCJ et al.
+
+ Invest Ophthalmol Vis Sci 2009;50:4660-4668), justifying this innovative surgical procedure as an effective alternative treatment modality.
+
+ However, in previous protocol, animal products such as fetal calf serum and 3T3 cell culture were used, raising the biosafety concern.
+
+ For this, recently investigators have developed an animal ingredient-free cell culture protocol, and our protocol can meet the GTP standards, and has obtained the accreditation by Taiwan FDA and affiliated institutes.
+
+ Therefore, the focus of current Phase Ib trial is to confirm the feasibility of following items: 1.
+
+ To produce cell culture product not containing animal ingredient, so as to avoid zoonoses.
+
+ The oral mucosal epithelial cells thus cultured are used for treating ocular surface diseases with limbal stem cell deficiency.
+
+ 2.
+
+ To reduce recurrence of corneal neovascularization after COMET, Bevacizumab (Avastin) is injected locally, so as to improve corneal transparency and visual acuity.
+
+.
+
+ Cultivated Autologous Oral Mucosal Epithelial Transplantation for the Treatment of Ocular Surface Diseases@highlight
+
+Earlier protocol for cultivated oral mucosal epithelial transplantation (COMET) requires trypsin/EDTA to isolate epithelial cells from tissue, and uses murine 3T3 cells as feeder cells, which results in biosafety concern.
+
+ This study uses collagenase instead of trypsin/EDTA to isolate epithelial cells, and does not use 3T3 cells co-culture, so as to make an animal ingredient-free cell culture product.
+
+ The purpose of the study is to evaluate the feasibility of the new protocol of COMET in clinical use.
+

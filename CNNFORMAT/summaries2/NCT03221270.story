@@ -1,0 +1,16 @@
+(firstQuint)Targeting Auditory Hallucinations With Alternating Current Stimulation.
+
+ The investigator's primary objective is to provide further evidence for the effectiveness of transcranial alternating current stimulation (tACS) to treat auditory hallucinations and to collect preliminary data on whether maintenance stimulation sessions can prolong the duration of stimulation-induced clinical benefits.
+
+ The investigators will be looking into effects of tACS to re-normalize pathological alpha oscillations in the dorso-lateral prefrontal cortex (dl-PFC) of patients with schizophrenia or schizo-affective disorder by comparing Auditory Hallucination Rating Scale (AHRS) scores immediately before the first stimulation session, immediately after the last stimulation session, and at the end of the 8 weeks of maintenance sessions.
+
+ As a secondary objective, the investigators will assess the differential clinical effects of active sham and 10Hz tACS on electroencephalogram (EEG) measures of alpha oscillations.
+
+ The investigators will also be using source localization techniques in EEG analysis, based on individual locations of the scalp electrodes and anatomical structures with the use of structural magnetic resonance imaging (sMRI).
+
+.
+
+ Targeting Auditory Hallucinations With Alternating Current Stimulation@highlight
+
+Investigating the effects of non-invasive transcranial alternating current stimulation (tACS) as a treatment for auditory hallucinations in patients with schizophrenia.
+

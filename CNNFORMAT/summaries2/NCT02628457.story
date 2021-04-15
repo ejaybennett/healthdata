@@ -1,0 +1,17 @@
+(secondQuint)Did MRI Appearance of Supraspinatus Muscle Atrophy Changes After Repair of All Kind of Rotator Cuff Tear?.
+
+ Retrospective review of 209 patients having both preoperative and immediate postoperative MRI done.
+
+ Both preoperative and immediate postoperative occupancy ratio calculated and from that change in occupancy ratio calculated for each and every patient.
+
+ Patient were divided in two major group according to age that is 60 years and 3 subgroups of mild, moderate and severe depending on preoperative supraspinatus tendon retraction on coronal view of MRI.
+
+ Postoperative occupation ratio was compared with preoperative occupation ratio within the subgroups and change in occupation ratio was used for comparison between the subgroup.
+
+ Change in occupation ratio was also used for comparison between 2 major groups.
+
+ Did MRI Appearance of Supraspinatus Muscle Atrophy Changes After Repair of All Kind of Rotator Cuff Tear?@highlight
+
+There are two purpose of this study, first is to find whether arthroscopic rotator cuff repair is changing the appearance of supraspinatus muscle atrophy in each and every patient.
+
+ Second, is to find how much approximate change one can expect depending on age and tendon retraction

@@ -1,0 +1,36 @@
+(thirdQuint)Antegrade Arterial and Portal Flushing Versus Portal Flushing Only in LDLT.
+
+ Biliary reconstruction has been labeled the "Achilles heel" of liver transplantation and is a common cause of postoperative morbidity and also mortality .
+
+Living donor liver transplantation (LDLT) has a higher incidence of biliary complications of up to 30% which is higher than Deceased Donor Liver Transplantation and does not seem to improve significantly with experience.
+
+The virtually unchanged incidence of biliary strictures suggests that they are not simply "technical" in origin, but probably represent a mucosa ischemic injury inherent in the transplantation procedure.
+
+ The blood supply of the bile duct is mainly from the arterial system and skeletonisation of the duct during dissection impairs the blood supply rendering it ischemic.
+
+ Various donor maneuvers for better flushing and preserving peribiliary vascular plexus and biliary mucosa have been studied to decrease biliary complications.
+
+ LDLT have advantages of haemodynamic stable donor and short cold ischemia but also has disadvantages of small graft size, small ducts, complicated reconstruction and absence of arterial flush.
+
+ Conventional portal flush in animal livers could not remove warm blood from the arterial system and grafts without retrograde arterial flush had higher post operative bilirubin.
+
+With further studies in Living Donor Liver Transplant, it was concluded that retrograde flushing may ameliorate post operative cholestasis.
+
+ There has not been data published on antegrade arterial flushing and its effect on biliary complications in Living Donor Liver Transplant.
+
+ This study aims to compare back table graft arterial and portal flushing with portal flushing alone and evaluate biliary and arterial complications.
+
+ Arterial flushing has been made part of standard protocol at our institute and its safety established.
+
+ There are centers which routinely perform back table arterial flush.
+
+.
+
+ Antegrade Arterial and Portal Flushing Versus Portal Flushing Only in LDLT@highlight
+
+Arterial flushing is a standard recommendation in deceased donor liver transplantation but not in living donor liver transplantation due to the risk of arterial intimal injury and short cold ischaemia time.
+
+ There is recent evidence on benefit of retrograde arterial perfusion using hepatic venous occlusion and its benefits on post transplant cholestasis.
+
+ However there is no data on antegrade arterial flushing.
+

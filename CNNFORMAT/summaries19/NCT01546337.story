@@ -1,0 +1,28 @@
+(fifthQuint)Search for Predictive Markers of Efficacy of ESAs in Patients With Non-myeloid Malignancies or Myelodysplastic Syndrome.
+
+ Anemia is common among cancer patients and the treatment of choice is now Erythropoiesis-Stimulating Agents (ESAs).
+
+ However, some patients do not respond to treatment.
+
+ Thus, only 50-60% of patients with multiple myeloma or non-Hodgkin lymphoma respond to ESAs.
+
+ The purpose of this study is to evaluate the predictive value of endogenous erythropoietin rate on the response to erythropoietin beta.
+
+ First, by confirming the predictive value of endogenous erythropoietin observed / predicted ratio on this response.
+
+ Then if it is confirmed by establishing the optimal value of this ratio.
+
+.
+
+ Search for Predictive Markers of Efficacy of ESAs in Patients With Non-myeloid Malignancies or Myelodysplastic Syndrome@highlight
+
+Anemia is common among cancer patients and the treatment of choice is now Erythropoiesis-Stimulating Agents (ESAs).
+
+ However, some patients do not respond to treatment.
+
+ The purpose of this study is to evaluate the predictive value of endogenous erythropoietin rate on the response to erythropoietin beta.
+
+ First, by confirming the predictive value of endogenous erythropoietin observed / predicted ratio on this response.
+
+ Then if it is confirmed by establishing the optimal value of this ratio.
+

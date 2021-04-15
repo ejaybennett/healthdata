@@ -1,0 +1,94 @@
+(fifthQuint)New Candidate Criteria for Diagnosis of Macrophage Activation Syndrome.
+
+ Abbreviations:- ANC:- Absolute neutrophil count DIC:- Disseminated intra-vascular coagulation HLH:- Hemophagocytic lymphohistocytosis IAHS:- Infection associated hemophagocytic syndrome MAS:- Macrophage activation syndrome MODS:- Multi-organ dysfunction syndrome NK cell:- Natural Killer cells ReHLH:- reactive HLH SoJIA:- Systemic onset juvenile idiopathic arthritis SLE:- Systemic lupu erythematosus WBC:- white blood cell count Background and Introduction:- The first appearance in literature of description of patients with what was later to be known as macrophage activation syndrome (MAS) is probably the description of SoJIA patients who had a fulminant course with hepatic failure by Boone et al1 and those with coagulopathy by Silverman et al2.
+
+ However the term "macrophage activation syndrome" (and Syndromes of inappropriate macrophage activation in childhood) was first used in medical literature by French pediatricians and hemat-oncologists3-5.
+
+ The credit for the same is wrongly attributed to Stephen et al, who were actually the first to use the term in "rheumatology" literature in their description of 4 SoJIA patients with this complication6.
+
+ It is evident from the quoted literature that MAS at the time of it's intial recognition as a symptom complex or complication of rheumatic illness, was a universally fatal illness.
+
+ Since then our understanding of it's pathology and it's treatment has grown considerably.
+
+ The main defect in MAS is deficient NK cell activity.
+
+ Hence a trigger which stimulates the immune system leads to unchecked CD8+ T cell proliferation which persists even after elimination of the trigger.
+
+ These T cells secrete IFN-gamma which leads to macrophage overstimulation.
+
+ This in turn activates a cytokine storm production (TNF a, IL 1 and IL 6) and phagocytosis of marrow elements by the marcophages, ultimately leading to MODS7.
+
+ MAS usually occurs in the setting of an untreated or inadequately controlled rheumatic disease with severe systemic inflammation.
+
+ The diagnosis is difficult particularly against this background and therefore a high clinical suspicion is paramount.
+
+ Among the many rheumatic diseases MAS has been predominantly described associated with SoJIA.
+
+ The next most common rheumatic illness described has been SLE.
+
+ The hallmarks of this complication are Bone marrow suppression, DIC with abnormal bleeding, encephalopathy/ seizures, and hepatitis.
+
+ MAS has been increasing been recognized to have similarities with Class II histiocytic disorders or hemophagocytic lymphohistiocytosis (HLH).
+
+ In the most recent classification of these disorders Class II disorders have been further subdivided into primary (due to a genetic defect), secondary (due to infections, malignancies, immunodeficiency) and reactive (due to rheumatic diseases)8.
+
+ The last category alludes to MAS.
+
+ Rationale and justification:-The HLH disorders are diagnosed using the HLH criteria.
+
+ However as pointed out by Kelly et al9 and Ravelli et al10 use of this criteria to diagnose patients with MAS (i.
+
+e.
+
+ Reactive HLH) would lead to a unacceptable loss of sensitivity and significant delay.
+
+ Some components of the HLH criteria such as Soluble NK cell activity, CD-25 values above normal for age, and molecular diagnosis consistent with HLH are neither practical nor feasible in most clinical settings for a majority of rheumatology patients.
+
+ Ravelli et al came up with a different set of criteria for patients with MAS based on data of patients reported in literature10.
+
+ A comparison of the 2 criteria in a retrospective longitudinal study11 (albeit with a very small sample size) showed that the Ravelli et al criteria to be much more sensitive and enabled patients to be diagnosed much earlier than when the HLH-2004 criteria was used.
+
+ In both SoJIA and uncontrolled rheumatic disease the patient is liable to have high WBC counts and high platelet counts.
+
+ Bone marrow suppression which is one of the pathognomic features of MAS would be picked up very late if absolute cut off values were utilized.
+
+ Kelly et al used the same arguments in their review to suggest that in MAS/ReHLH, the trend of change in laboratory parameters would be more useful than absolute cut offs.
+
+ Hence we propose new candidate criteria which are based on trends of laboratory parameters which would probably be able to predict MAS earlier than absolute cut offs of laboratory parameters.
+
+MAS has now undergone a name change (to Reactive HLH) and an image change (from an universally terminal illness to a dreaded but treatable complication).
+
+ Hence the need for recognition and early diagnosis is more important today than ever before.
+
+ In this era of potent and novel immuno-modulatory medications, a sensitive criteria which would pick up patients prone to develop MAS or in the process of developing MAS would give us the edge to finally help us rein in this terrifying disease.
+
+.
+
+ New Candidate Criteria for Diagnosis of Macrophage Activation Syndrome@highlight
+
+Macrophage activation syndrome(MAS) is a complication of bone marrow suppression, coagulopathy and CNS dysfunction which occurs in rheumatic diseases.
+
+ Normally the (Hemophagocytic Lympho-Histiocytosis) HLH-2004 criteria is used to diagnose patients with MAS.
+
+ However this criteria is probably not sensitive and would probably be fulfilled quite late into the disease.
+
+ Thus there would be an unacceptable delay.
+
+ Ravelli et al came up with a different set of criteria based on data of patients reported in literature.
+
+ Systemic onset juvenile idiopathic arthritis (SoJIA) is the most common cause of MAS.
+
+ MAS in other rheumatic illnesses occurs in the setting on unbridled inflammation.
+
+ In both SoJIA and uncontrolled rheumatic disease the patient is liable to have high WBC counts and high platelet counts.
+
+ Bone marrow suppression which is one of the pathognomic features of MAS would be picked up very late if absolute cut off values were utilized.
+
+ Kelly et al used the same arguments in their review to suggest that in MAS/Reactive hemophagocytic lymphohistiocytosis(ReHLH), the trend of change in laboratory parameters would be more useful than absolute cut offs.
+
+ Hence the investigators propose new candidate criteria which are based on trends of laboratory parameters and seek to determine their utility in comparison to absolute cut offs of HLH or Ravelli criteria.
+
+ The investigators also wanted to determine that among the Ravelli criteria and HLH-2004 criteria, which were fulfilled earlier in patients diagnosed as having MAS.
+
+ Study hypothesis:-Criteria which measure serial trend of laboratory parameters would be fulfilled earlier than absolute cut offs when diagnosing MAS in patients with rheumatic illness.
+

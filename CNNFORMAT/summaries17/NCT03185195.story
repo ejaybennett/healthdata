@@ -1,0 +1,16 @@
+(firstQuint)Phase 1 Absorption Distribution Metabolism and Excretion of AQX-1125.
+
+ This is a single-centre, open-label, non-randomised, 2-part, sequential dose study in healthy male and female subjects.
+
+ It is planned to enrol a single cohort of 8 healthy subjects (4 male and 4 female) who will participate in Part 1 and Part 2 of the study.
+
+ In Part 1, each subject will receive a single oral dose of AQX-1125 followed by an IV microtracer dose of carbon-14-AQX-1125 ([14C]-AQX-1125).
+
+ In Part 2, each subject will receive a single oral dose of [14C]-AQX-1125.
+
+.
+
+ Phase 1 Absorption Distribution Metabolism and Excretion of AQX-1125@highlight
+
+This study is conducted to evaluate the absolute bioavailability, metabolism and elimination pathways of AQX-1125 in healthy male and female subjects.
+

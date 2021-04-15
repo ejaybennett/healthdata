@@ -1,0 +1,16 @@
+(firstQuint)MPFL Reconstruction With or Without Tibial Tubercle Transfer.
+
+ 70 patients with recurrent patellar instability were randomly assigned to undergo MPFL reconstruction with or without tibial tubercle transfer.
+
+ Follow-ups were performed at 12 and 24 months postoperatively, and computed tomography (CT) was performed immediately after the operation and at follow-up.
+
+ The knee function was evaluated preoperatively and at 2 years postoperatively using Lysholm,Tegner and Kujala scales.
+
+ Redislocation or multiple episodes of patellar instability were considered failures.
+
+.
+
+ MPFL Reconstruction With or Without Tibial Tubercle Transfer@highlight
+
+This study aims to compare the clinical outcome of Medial PatelloFemoral Ligament (MPFL) reconstruction with and without tibial tubercle transfer for recurrent patellar dislocation.
+

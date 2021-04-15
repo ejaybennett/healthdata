@@ -1,0 +1,14 @@
+(firstQuint)Magnetic Resonance Imaging in Subjects With Gouty Tophi.
+
+ This is a multi-center, validation study of MRI in the quantitative assessment of gouty tophi.
+
+ Subjects with palpable gouty tophi (confirmed by aspiration of the tophus) in select anatomical sites (foot, hand or elbow) will undergo pre- and post contrast MRI on two occasions separated by 5 to 10 days.
+
+ This study will consist of up to 4 study visits.
+
+.
+
+ Magnetic Resonance Imaging in Subjects With Gouty Tophi@highlight
+
+The purpose of this study is to determine the reproducibility of Magnetic Resonance Imaging (MRI) in the quantitative assessment of tophus volume.
+

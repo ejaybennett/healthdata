@@ -1,0 +1,38 @@
+(thirdQuint)Sex-related Differences in the Response to the Muscle Relaxant Drug Mivacurium.
+
+ Muscle relaxants are a type of drug used to provide muscle relaxation during induction of anesthesia and surgical treatment.
+
+ Residual drug effect postoperatively (i.
+
+e.
+
+ residual muscle relaxation) occurs frequently and studies have shown that this may be harmful in certain groups of patients.
+
+ Of special concern is residual effect on upper airway and breathing muscles.
+
+ A previous study has shown that males and females respond differently to the effect of this kind of drug.
+
+ It appears that some muscle groups which are important for airway protection and breathing are more sensitive to the effect of muscle relaxants in males than females.
+
+ Males may therefore be more susceptible to postoperative lung complications than females.
+
+ In this study we try to determine what causes the observed sex-related difference in response to the muscle relaxant Mivacurium.
+
+ We have previously shown that this sex-related difference cannot be explained by different pharmacokinetics (what the body does to the drug) in males and females.
+
+ Our hypothesis is that a pharmacodynamic (what the drug does to the body) difference between sexes exists, i.
+
+e.
+
+ that a lower blood concentration of Mivacurium is needed in males than females in order to obtain a predefined degree of muscle relaxation in certain muscle groups.
+
+.
+
+ Sex-related Differences in the Response to the Muscle Relaxant Drug Mivacurium@highlight
+
+Muscle relaxants are drugs providing muscle relaxation during surgical treatment.
+
+ Previous studies have shown that males and females respond differently to this kind of drug.
+
+ Our hypothesis is that males are more sensitive to the effect of Mivacurium (a muscle relaxant) than females, meaning that males need a lower blood concentration of the drug than females in order to obtain a given effect.
+

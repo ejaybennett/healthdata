@@ -1,0 +1,16 @@
+(secondQuint)Study of Massage Therapy Within a Brain Tumor Setting.
+
+ As a part of this study, we will provide massage therapy to brain tumor patients.
+
+ Our contribution here is expected to determine whether massage therapy is safe and helps to improve patient QoL.
+
+ This contribution is significant because it is expected to provide pilot data on effect sizes so that we may design an adequately powered study to develop massage therapy programs and interventions for patients with brain tumors.
+
+ In addition to benefiting brain tumor patients, the information from this study may be applied to improving the QoL of other cancer patients.
+
+.
+
+ Study of Massage Therapy Within a Brain Tumor Setting@highlight
+
+The purpose of this study is - to assess the feasibility and acceptability of massage therapyto examine the effects of massage therapy - to explore whether psychological outcomes are associated with changes in patient reported QoL.
+

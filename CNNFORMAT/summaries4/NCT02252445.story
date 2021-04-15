@@ -1,0 +1,16 @@
+(firstQuint)Propofol and Sevoflurane for Catheter-Related Bladder Discomfort.
+
+ The mechanism of catheter-related bladder discomfort is thought to be related to the muscarinic receptor.
+
+ Propofol and desflurane are most widely used as an anesthetic agent.
+
+ Propofol and desflurane are known to block the muscarinic receptor in different ways.
+
+ The investigators want to evaluate the efficacy of the propofol and sevoflurane for the prevention of catheter-related bladder discomfort.
+
+.
+
+ Propofol and Sevoflurane for Catheter-Related Bladder Discomfort@highlight
+
+The investigators want to evaluate the efficacy of the propofol and sevoflurane for the prevention of catheter-related bladder discomfort.
+

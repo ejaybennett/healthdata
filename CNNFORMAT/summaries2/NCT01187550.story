@@ -1,0 +1,22 @@
+(thirdQuint)Predictive Markers in Chinese Growth Hormone Deficiency (GHD) Children Treated With Saizen.
+
+ The response to growth hormone (GH) treatment, short-term as well as long-term, displays considerable inter individual variability.
+
+ This is particularly evident for the endpoint of paediatric GH administration, that is (i.
+
+e.
+
+) the growth response, which is pronounced in children who are affected by GHD.
+
+ This is an open-label, multicentric study in which subjects pre-diagnosed with GHD were treated for 4 weeks with Saizen.
+
+ Two hundred fourteen GHD evaluable pre-pubertal subjects were planned to be recruited in approximately 9 sites in China.
+
+ Demographic data, medical history, tanner stage, physical examination, body weight, height, bone age measurement, body mass index, review of baseline medications and procedures and blood sampling were performed at baseline visit, end of treatment visit (week 4) and at 4 week follow-up visit.
+
+ OBJECTIVES Primary objective: - To compare the response between GHD children born AGA and those born SGA after 4 weeks of Saizen therapy Secondary Objectives: - To explore the contribution of selected genes to the phenotype of GHD children - To explore the impact of gene polymorphisms on the levels of specific serum biomarkers in GHD children after 4 weeks of Saizen therapy - To explore the relationships between changes in gene expression and changes in serum biomarkers after 4 weeks of Saizen therapy and the spectrum of gene polymorphisms in GHD children.
+
+ Predictive Markers in Chinese Growth Hormone Deficiency (GHD) Children Treated With Saizen@highlight
+
+This is an open-label, prospective, multicentric, non-comparative, non-randomized Phase IV interventional study in which subjects pre-diagnosed with Growth Hormone Deficiency (GHD) were treated for 4 weeks with Saizen to compare the response between GHD children born appropriate for gestational age (AGA) and those born small for gestation age (SGA) after 4 weeks of Saizen therapy.
+

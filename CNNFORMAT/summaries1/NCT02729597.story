@@ -1,0 +1,28 @@
+(fifthQuint)Tracking the Brain in Myotonic Dystrophies: a 5-year Longitudinal Follow-up Study.
+
+ It is unknown whether brain affection in myotonic dystrophy types 1 and 2 is due to neurodevelopmental defects, neurodegeneration, or both.
+
+ An exact definition of the nature and dynamic of brain affection is of urgent need for the identification of clinical trial outcome parameters and the design of therapy compounds.
+
+ The investigators planned a 5-year longitudinal study to examine the natural history of functional and structural brain affection.
+
+ Myotonic dystrophy type 1, myotonic dystrophy type 2 patients, and healthy controls were enrolled.
+
+ All participants undergo clinical-neurological examinations, neuropsychological analyses according to a 13-item neuropsychological test battery, and 3T-brain MRI at baseline and at follow-up using identical examination protocols.
+
+ The intended time span between baseline and follow-up examinations is 5 years minimum.
+
+ To investigate gray and white matter affection, voxel-based morphometry and diffusion tensor imaging are performed, and data are statistically analyzed including (i) group comparisons between patients and controls at baseline and follow-up, and (ii) group comparisons using difference maps to focus on isolated disease-related effects over time.
+
+.
+
+ Tracking the Brain in Myotonic Dystrophies: a 5-year Longitudinal Follow-up Study@highlight
+
+The natural history of brain affection in myotonic dystrophy types 1 and 2 is still unknown.
+
+ The investigators designed a 5-year longitudinal neuropsychological and neuroimaging follow-up study to address this issue.
+
+ Myotonic dystrophy type 1, myotonic dystrophy type 2 patients, and healthy controls were enrolled.
+
+ All participants undergo clinical-neurological examinations, neuropsychological analyses according to a 13-item neuropsychological test battery, and 3T-brain MRI including voxel-based morphometry and diffusion tensor imaging at baseline and at follow-up using identical examination protocols.
+

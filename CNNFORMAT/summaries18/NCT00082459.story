@@ -1,0 +1,20 @@
+(secondQuint)Trial to Compare the Routes of Administration of an Investigational, Personalized, Therapeutic Cancer Vaccine Oncophage (HSPPC-96) in Patients With Metastatic Renal Cell Carcinoma.
+
+ The goal of this trial is to determine the safety of HSPPC-96 and which route of administration achieves a better response with the vaccine.
+
+ HSPPC-96 is an immunotherapeutic agent made from an individual patient's tumor.
+
+ The study is being conducted in Houston, Texas with patients enrolled into one of two treatment arms.
+
+ The two treatment arms are either subcutaneous injection or intradermal injection, both with HSPPC-96.
+
+ To be treated with HSPPC-96 patients must undergo surgery to remove the kidney tumor and a portion of this tissue will be sent to Antigenics' manufacturing facility for processing.
+
+.
+
+ Trial to Compare the Routes of Administration of an Investigational, Personalized, Therapeutic Cancer Vaccine Oncophage (HSPPC-96) in Patients With Metastatic Renal Cell Carcinoma@highlight
+
+The goal of this trial is to determine the safety of HSPPC-96 and which route of administration achieves a better response with the vaccine.
+
+ HSPPC-96 is an immunotherapeutic agent made from an individual patient's tumor.
+

@@ -1,0 +1,34 @@
+(thirdQuint)Mortality Related to AMR in Patients With Hospital-acquired Infection.
+
+ We will first identify patients with pathogenic bacteria isolated from clinical sample collected >48 hours after admission.
+
+ These patients will then be screened for eligibility criteria.
+
+ Signed informed consent will be sought from the enrolled patients.
+
+ The primary outcome is survival status within 28 days since the first specimen culture positive for one of the six organisms of interest.
+
+ All patients with hospital-acquired infection will be assessed for in-hospital 28-day survival as part of the routine hospital surveillance system.
+
+ Follow-up to confirm 28-day outcome via telephone call will be performed only if patient signed informed consent and permission is granted.
+
+ All isolates from positive cultures will be collected and stored securely.
+
+ This study will not interfere with standard patient care or routine diagnosis procedure, hence subject will receive no direct medical harm or benefits from being in the study.
+
+ Researchers of this study will not be involved in the management, care and treatment of study subjects.
+
+ Patient care will remain under the responsibility of the attending medical staff according to standard practice of care.
+
+ The study team will work closely with the hospital Infectious Control team to screen and enroll patients as part of the HAI surveillance data system in Sunpasitthiprasong Hospital.
+
+ This study will be an enhancement of the current HAI surveillance system, which will provide data on 28-day survival status, Charlson Comorbidities Index (CCI) score and Sequential Organ Failure Assessment (SOFA) score for each patient and risk factors related to acquiring hospital-acquired infection to the hospital Infectious Control (IC) team.
+
+.
+
+ Mortality Related to AMR in Patients With Hospital-acquired Infection@highlight
+
+This is a prospective surveillance study to estimate excess deaths due to and risk factors associated with antibiotic-resistant infection among patients with hospital-acquired infection (HAI) in a resource-limited setting.
+
+ We will focus on six pathogenic bacteria that are of clinically important in the hospital.
+

@@ -1,0 +1,14 @@
+(firstQuint)ADASUVE 2-dose Thorough QT/QTc Study.
+
+ It has been shown in a pre-marketing clinical study that clinically relevant QT prolongation does not appear to be associated with a single dose of ADASUVE.
+
+ The potential risk of QTc prolongation following repeat dosing is unknown.
+
+ Therefore the current study will assess the potential effects on the QT interval of 2 consecutive doses of ADASUVE administered 2 hours apart, in relation to placebo and an active control in healthy volunteers.
+
+ The study hypothesis H0: Placebo-subtracted max mean dQTc > 10 msec.
+
+ ADASUVE 2-dose Thorough QT/QTc Study@highlight
+
+Assess the potential effects on the QT interval of 2 consecutive doses of ADASUVE administered 2 hours apart, in relation to placebo and an active control in healthy volunteers.
+

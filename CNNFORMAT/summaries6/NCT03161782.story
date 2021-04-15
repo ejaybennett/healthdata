@@ -1,0 +1,24 @@
+(firstQuint)The Efficacy of Different Types of Stretching on Range of Motion, Pain and Function in Elbow Limitation.
+
+ To compare the efficacy of PNF stretching and static stretching on ROM, pain and function in elbow limitation, forty voluntary patients with elbow limitation, aged between 18-55 years will be randomly divided into two groups: PNF Stretching group and Static Stretching group.
+
+ PNF stretching will be combined with exercise and cold application in PNF Stretching group, static stretching will be combined with exercise and cold application in Static Stretching group, will be applied for 12 sessions.
+
+ The patients will be assessed before and after six-week treatment.
+
+ The pain on activity, at rest and at night will be assessed with Visual Analog Scale (VAS).
+
+ ROM will be assesed with universal goniometer.
+
+ The functional status will be evaluated by Disabilities Arm, Shoulder and Hand (DASH).
+
+ Kinesiophobia and quality of life will be assessed with Tampa Scale for Kinesiophobia and Short Form-12, respectively.
+
+ The Global Rating of Change will be used to evaluate patient satisfaction.
+
+.
+
+ The Efficacy of Different Types of Stretching on Range of Motion, Pain and Function in Elbow Limitation@highlight
+
+The aim of the study is to compare the efficacy of Proprioceptive Neuromuscular Facilitation (PNF) stretching and static stretching on range of motion (ROM), pain and function in elbow limitation.
+

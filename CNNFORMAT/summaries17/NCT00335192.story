@@ -1,0 +1,22 @@
+(thirdQuint)To Determine if There Are Pharmacokinetic Interactions at Plasma or Intracellular Level Between Nucleosides and Tenofovir.
+
+ There is clear evidence of pharmacokinetic interaction between ddI+TDF.
+
+ However, the interaction between TDF and other NRTIs, mainly at intracellular level, has not been so well studied.
+
+ Since all the NRTIs are anabolized at intracellular level by numerous kinases, and are transported by passive carrier systems, the interaction may be between TDF and other NRTIs.
+
+ This study aims to investigate the pharmacokinetic interactions between the TDF and the nucleosides abacavir (ABV) and lamivudine (3TC) at plasma and intracellular level.
+
+ With this objective, intracellular and plasma levels will be analysed in a group of patients that receive the combinations 3TC +TDF, ABV+TDF and 3TC+ABV+TDF together with lopinavir/rtv or nevirapine.
+
+ Subsequently, in a second phase of the study, in the group of patients given ABV and/or 3TC + TDF + lopinavir/rtv, the pharmacokinetic determinations will be repeated after a 4-week interruption of the TDF .
+
+.
+
+ To Determine if There Are Pharmacokinetic Interactions at Plasma or Intracellular Level Between Nucleosides and Tenofovir@highlight
+
+The purpose of this study is to evaluate if there are pharmacokinetic interactions between the NRTI 3TC and ABV, and the TDF nucleotide.
+
+ For this purpose, the intracellular and plasma levels of 3TC and ABV will be compared in patients given these nucleosides with TDF and 30 days after the interruption of the TDF.
+

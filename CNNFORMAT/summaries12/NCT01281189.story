@@ -1,0 +1,12 @@
+(firstQuint)Phase 3 Study of Dexpramipexole in ALS.
+
+ Amyotrophic Lateral Sclerosis (ALS) is a rapidly progressive, degenerative disease of motor neurons in the brain and spinal cord that leads to muscle atrophy and spasticity in limb and bulbar muscles resulting in weakness and loss of ambulation, oropharyngeal dysfunction, weight loss, and ultimately respiratory failure.
+
+ The purpose of this study is to determine whether dexpramipexole (150 mg twice daily) is safe and effective in the treatment of ALS.
+
+.
+
+ Phase 3 Study of Dexpramipexole in ALS@highlight
+
+The purpose of this study is to determine whether dexpramipexole (150 mg twice daily) is safe and effective in the treatment of Amyotrophic Lateral Sclerosis (ALS).
+

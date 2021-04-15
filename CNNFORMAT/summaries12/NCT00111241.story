@@ -1,0 +1,38 @@
+(fifthQuint)Changes in Knee Articular Cartilage Volume in Women on Aromatase Inhibitors.
+
+ The mechanism of increased bone loss and fracture risk is clearly related to the depletion of estrogen production in the bone.
+
+ But why there is a higher rate of reporting arthralgia, fracture and joint pain amongst women on aromatase inhibitors is not understood.
+
+ Using magnetic resonance imaging (MRI) to measure knee articular cartilage volume, we have demonstrated that post menopausal hormone therapy used for at least five years is associated with retention of articular cartilage in the knee, indicating that oestrogen may protect against the development of osteoarthritis in post menopausal women.
+
+ Furthermore, we have recently observed that free testosterone is associated with loss of tibial cartilage, after taking into account age, body mass index, baseline tibial cartilage volume, tibial plateau area and total bone mineral content in healthy men.
+
+ Whether an excess of testosterone to oestrogen as a consequence of aromatase inhibition has an adverse effect on articular cartilage volume warrants further investigation.
+
+ This study will include non-hysterectomised women aged 40 to 65 years who have undergone breast surgery and then commenced on aromatase inhibitors within the preceding 12 weeks.
+
+ The control group (which has been fully recruited) included non-hysterectomised, healthy women aged 40 to 65 years.
+
+ A MRI of the dominant knee will be used to compare changes in knee articular volume over time.
+
+ A MRI will be done at baseline and again at 2 years.
+
+ Changes in knee articular volume is the primary outcome.
+
+ We will also use this opportunity to compare menopausal symptoms (assessed using the Menopause Quality of Life [MENQOL] questionnaire) between women treated with aromatase inhibitors and those who are not.
+
+ Well-being will also be assessed using the Psychological General Well-Being index.
+
+.
+
+ Changes in Knee Articular Cartilage Volume in Women on Aromatase Inhibitors@highlight
+
+Many women with breast cancer are treated with a class of drugs called aromatase inhibitors (mainly letrozole or anastrozole), which lowers the amount of estrogen being produced in the body.
+
+ Women on aromatase inhibitors appear to experience joint pains and arthralgia.
+
+ The aim of this study is to determine whether the joint pains experienced by some women on aromatase inhibitors is associated with more defects in their cartilage, compared to women not receiving this therapy.
+
+ Using the magnetic resonance imaging (MRI) technique, the knee joint will be examined to assess changes in cartilage volume over time.
+

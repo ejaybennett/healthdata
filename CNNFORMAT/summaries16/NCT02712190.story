@@ -1,0 +1,24 @@
+(secondQuint)Evaluation of Prolonged Apnea Supported by High Frequency Non-invasive Ventilation.
+
+.
+
+ High frequency ventilation (HF-V) allows to ensure oxygen delivery and carbon dioxide clearance despite the absence of thoracic movement in anesthetized, invasively ventilated subjects.
+
+ This same technique could be applied by a non-invasive interface (HF-NIV), allowing to obtain a prolonged apnea (absence of thoraco-abdominal respiratory movements) in awaken subjects.
+
+ Such an application would be of interest for several clinical applications, e.
+
+g.
+
+ lung imaging and radio-therapy treatment on lung cancer.
+
+ The purpose of the study is to assess the effect of different HF-NIV setting on the apnea duration, carbon dioxide clearance and oxygen delivery in healthy subjets and patients with lung diseases.
+
+.
+
+ Evaluation of Prolonged Apnea Supported by High Frequency Non-invasive Ventilation.
+
+@highlight
+
+The purpose of the study is to assess the efficacy of high-frequency non-invasive ventilation on apnea duration, carbon dioxide clearance and oxygen delivery in healthy subjets and patients with lung disease.
+

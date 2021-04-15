@@ -1,0 +1,30 @@
+(thirdQuint)9 Months Extension Study of SOMVC001 Study (GALA) Vascular Conduit Preservation Solution.
+
+ Patients enrolled in this 9-months extension study of SOMVC001 (GALA) will be contacted by phone twice: 6 months and 9 months after a coronary artery bypass graft (CABG) surgery.
+
+ During these phone call visits and at twelve months post CABG surgery, adverse events and/or concomitant medication changes will be collected from the participant.
+
+ Twelve months after the CABG surgery procedure, imaging will be performed using 64-slice or better MDCT-scan angiography.
+
+ The study participation ends at this MDCT-scan visit.
+
+ In detail, will be recorded incidence of composite safety outcomes consisting of Major Adverse Cardiac Events (MACE) (death, myocardial infarction [MI], and repeat revascularization), angina, arrhythmias, shortness of breath [SOB], decreased lumen change, graft occlusion and significant stenosis based on Fitzgibbon's scale B and O, following CABG surgery.
+
+ Patients in this study are their own control; they receive two SVG; one exposed to GALA and the other exposed to heparinized dose saline.
+
+ The effect of treatment (GALA vs.
+
+ Saline) will be evaluated on paired grafts within-person.
+
+ Therefore, treatment effect will be presented by graft and not by patient.
+
+ Only adverse clinical events will be presented by patient including their potential relationship to the study product.
+
+.
+
+ 9 Months Extension Study of SOMVC001 Study (GALA) Vascular Conduit Preservation Solution@highlight
+
+This is a 9-months extension to the following study, protocol number: 003-03: "A study to evaluate the use of SOMVC001 (GALA) vascular conduit preservation solution in patients undergoing coronary artery bypass grafting (GABG)".
+
+ Participation is allowed exclusively to participants enrolled in the main protocol SOMVC001 (GALA).
+

@@ -1,0 +1,136 @@
+(fifthQuint)BV-CHEP Chemotherapy for Adult T-cell Leukemia or Lymphoma.
+
+ STUDY OBJECTIVES Primary Objective To define the proportion of subjects with CR after 4-6 cycles of brentuximab vedotin in combination with cyclophosphamide, doxorubicin, etoposide, and prednisone (BV-CHEP) in the treatment of adult T-cell leukemia/lymphoma.
+
+ Secondary Objectives To estimate the overall response rate (ORR) with 4-6 cycles of BV-CHEP therapy in patients with adult T-cell leukemia/lymphoma.
+
+ To determine progression-free survival (PFS) for BV-CHEP in patients with adult T-cell leukemia/lymphoma who received or did not receive BV maintenance.
+
+ To determine duration of response to BV-CHEP in patients with adult T-cell leukemia/lymphoma who received or did not receive BV maintenance.
+
+ To determine overall survival (OS) of patients with adult T-cell leukemia/lymphoma treated with BV-CHEP who received or did not receive BV maintenance therapy.
+
+ To evaluate the toxicity and tolerability of BV-CHEP and BV maintenance therapy via the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE v4.
+
+03).
+
+ *Note: After completion or withdrawal from BV-CHEP therapy, patients will segregate into one of the following groups: 1) those who progressed on BV-CHEP; 2) those who completed 4-6 cycles of BV-CHEP and went on to allogeneic transplant; 3) those who completed 6 cycles of BV-CHEP but were CD30 negative and ineligible for maintenance therapy; and 4) those who completed 6 cycles of BV-CHEP, were CD30 positive, but continued study treatment on BV in the maintenance phase of the study.
+
+ ENDPOINTS Primary Endpoint Criteria for CR after 4-6 cycles of BV-CHEP will be based on the International Workshop to standardize response criteria for malignant lymphomas (ie, Lugano Criteria per Cheson, et al.
+
+ J Clin Oncol.
+
+ 2014;32(27):3059-68).
+
+ Secondary Endpoints Criteria for overall response will be based on the International Workshop to standardize response criteria for malignant lymphomas (ie, Lugano Criteria per Cheson, et al.
+
+ J Clin Oncol.
+
+ 2014;32(27):3059-68).
+
+ PFS is defined as time from D1 of treatment until disease progression (based on Lugano criteria) or death from any cause.
+
+ Duration of response is defined as the time from documentation of tumor response per Lugano criteria to disease progression OS is defined as the time from D1 of treatment until death from any cause Toxicity and tolerability of therapy will be assessed via the NCI CTCAE v4.
+
+03 TREATMENT INFORMATION Patients will undergo screening to see if they are eligible.
+
+ If eligible, participants will start by receiving 2 cycles of BV-CHEP (cycles 1 and 2).
+
+ After 2 cycles of BV-CHEP, participants will have a positron emission tomography/computed tomography (PET/CT) or a CT scan to assess their disease.
+
+ If the scan shows the cancer has stayed the same or gotten better, participants may continue taking BV-CHEP for two more cycles (cycle 3 and 4).
+
+ If, at any time during study treatment, a participant's disease gets worse, the participant will end study treatment and other treatment options will be discussed with you.
+
+ If a participant continues on BV-CHEP, at the beginning of cycle 5, the participant will have a PET/CT scan.
+
+ If the cancer has gotten better and the participant is eligible for a bone marrow transplant, he/she will have the transplant.
+
+ If the participant is not eligible for a bone marrow transplant and the cancer has stayed the same or gotten better, the participant may continue on BV-CHEP for two more cycles (cycles 5 and 6).
+
+ At the end of cycle 6 of BV-CHEP, participants will have another PET/CT scan.
+
+ If the scan shows the cancer has gotten better and the participant is eligible for a bone marrow transplant, he/she will have the transplant.
+
+ If a participant is not eligible for a bone marrow transplant and his/her cancer cells did not test positive for CD30, the participant will end study treatment.
+
+ The study doctor will discuss other treatment options that are not part of this study with the participant.
+
+ Participants may continue on brentuximab vedotin alone as maintenance therapy if: - They are not eligible for a bone marrow transplant, - Their cancer cells tested positive for CD30, and - Their cancer has not gotten worse after taking BV-CHEP.
+
+ Participants will be removed from BV maintenance therapy if their cancer get worse.
+
+ DURATION OF THERAPY Therapy in LCCC 1637 involves up to 6 cycles of treatment with brentuximab vedotin (BV) with a chemotherapy treatment made up of cyclophosphamide, doxorubicin, etoposide, and prednisone (CHEP).
+
+ Each cycle is 21 days long.
+
+ Participants may continue on BV alone as maintenance therapy after 6 cycles of BV-CHEP if they meet the requirements outlined above.
+
+ Each cycles of BV maintenance therapy is 21-day long.
+
+ BV maintenance therapy may continue until a participant's disease progresses.
+
+ DURATION OF FOLLOW-UP PERIOD Participants will be followed for survival for up to 5 years.
+
+ They will also have a PET/CT or CT scan and a blood test every 6 months for 2 years after study treatment ends.
+
+.
+
+ BV-CHEP Chemotherapy for Adult T-cell Leukemia or Lymphoma@highlight
+
+Adult T-cell leukemia/lymphoma (ATLL) is a rare form of cancer found mostly among people from the Caribbean islands, Western Africa, Brazil, Iran, and Japan.
+
+ Most cases of this disease in the United States occur along the East Coast due to emigration from the Caribbean islands.
+
+ There is currently no standard treatment for ATLL.
+
+ Research shows that patients who go into first time remission (respond completely or partially to treatment) and have a bone marrow transplant have the best outcomes.
+
+ Traditional chemotherapy treatments have generally not worked well in patients with ATLL.
+
+ Additionally, not all patients will be eligible for a bone marrow transplant.
+
+ The purpose of this study is to see how well individuals with ATLL respond to an investigational cancer treatment.
+
+ This investigational treatment combines a drug called brentuximab vedotin with a standard chemotherapy treatment made up of cyclophosphamide, doxorubicin, etoposide, and prednisone.
+
+ This treatment is considered investigational because it is not approved by the United States Food and Drug Administration (FDA).
+
+ Brentuximab vedotin, also known as Adcetris, is approved by the United States Food and Drug Administration (FDA) for treatment of certain types of lymphoma in some patient populations.
+
+ Brentuximab vedotin has not been approved by the FDA for treatment of ATLL.
+
+ Brentuximab vedotin is an antibody that also has a chemotherapy drug attached to it.
+
+ Antibodies are proteins that are part of the immune system.
+
+ They can stick to and attack specific targets on cancer cells.
+
+ The antibody part of brentuximab vedotin sticks to a target called cluster of differentiation 30 (CD30) that is located on the outside of the cancer cells.
+
+ Normal cells have little or no CD30 on their surface.
+
+ ATLL cancer cells often have a larger amount of CD30 on their surface than normal cells.
+
+ However, CD30 is found in different amounts on ATLL cancer cells.
+
+ This study will also test the amount of CD30 found on each participant's cancer cells.
+
+ Researchers will be looking to see if the response to the study treatment varies based on the amount of CD30 found on the outside participants' cancer cells.
+
+ Brentuximab vedotin has previously been combined in another study with a different standard of care chemotherapy regimen: cyclophosphamide, doxorubicin, and prednisone.
+
+ The study included patients with various types of T-cell lymphomas.
+
+ Two of the patients enrolled in that study had ATLL.
+
+ Both had a complete response (no evidence of disease).
+
+ The researchers in the current study (LCCC 1637) have added etoposide to the combination of brentuximab vedotin with cyclophosphamide, doxorubicin, and prednisone.
+
+ They predict that the addition of etoposide will improve patient outcomes.
+
+ Research shows that etoposide helps improve outcomes in patients with certain types of T-cell lymphomas who undergo chemotherapy treatment.
+
+ This investigational combination of brentuximab vedotin with cyclophosphamide, doxorubicin, etoposide, and prednisone is called BV-CHEP.
+

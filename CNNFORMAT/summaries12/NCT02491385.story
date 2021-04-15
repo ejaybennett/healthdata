@@ -1,0 +1,24 @@
+(firstQuint)Thoracic Epidural for Postoperative Ileus.
+
+ Postoperative ileus (POI) is a prolonged inhibition of coordinated bowel activity after surgery.
+
+ Half of patients undergoing major abdominal surgery experience POI making it one of the limiting factors for early recovery.
+
+ The pathogenesis of POI is multifactorial, and includes neurogenic, inflammatory and pharmacological mechanisms.
+
+ Thoracic epidural analgesia (TEA) can induce sympathetic block, attenuate inflammatory reaction and limit use of systemic opioids.
+
+ In addition, sympatholysis induced by TEA can improve microcirculation of bowels and parasympathetic activation can increase gastrointestinal motility.
+
+ However, studies comparing TEA and iv-PCA on POI are rare in major upper abdominal surgeries.
+
+ This study, therefore, compares TEA and iv-PCA in terms of bowel function recovery as a primary endpoint in major upper abdominal surgeries.
+
+ Secondary endpoints are side effects and hospital stay.
+
+.
+
+ Thoracic Epidural for Postoperative Ileus@highlight
+
+The investigators try to find whether thoracic epidural analgesia (TEA) shortens the first gas-out time compared to iv-PCA and promotes earlier discharge after major upper abdominal surgery.
+

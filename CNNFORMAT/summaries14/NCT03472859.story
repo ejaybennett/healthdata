@@ -1,0 +1,32 @@
+(thirdQuint)Treatment of Dilated Blood Vessels on the Cheeks With a New Yellow Laser and a Traditional Green Laser.
+
+ Trial design: The study is a comparative randomized split-face double-blinded study without a control group.
+
+ It enables a comparison between two lasers; namely the KTP laser and the investigational PHOTOLASE laser.
+
+ The split-face design eliminates the individual biases and the randomization eliminates the possible small variations in the symmetry of the telangiectasias on the face.
+
+ The double-blinded assessment eliminates the physicians' and the subjects' subjective and objective bias.
+
+ Methods: The subjects will be treated with a 532-nm green KTP laser and a 585-nm yellow PHOTOLASE laser; different laser on each side of a face.
+
+ A total of one or two treatments will be given based on the response of the first treatment.
+
+ The improvement of subjects' telangiectasia will be graded after the final treatment according to a 7-point Telangiectasia Grading Scale (TGS) by a blinded physician using images taken with Visia imaging system.
+
+ The usability, reliability and treatment characteristics of PHOTOLASE laser will be qualitatively assessed by the treating physicians (not blinded).
+
+ Objectives: The primary objective is to assess how the PHOTOLASE laser compares to the KTP laser in the treatment of facial telangiectasia in terms of the treatment outcomes.
+
+ The secondary objective is to assess the usability, reliability and treatment characteristics of the PHOTOLASE laser from the perspective of the user.
+
+.
+
+ Treatment of Dilated Blood Vessels on the Cheeks With a New Yellow Laser and a Traditional Green Laser@highlight
+
+The goal is to compare a novel yellow laser, based on semiconductor technology, with traditional green laser, in the treatment of cheek telangiectasias.
+
+ The trial design is randomized split-face double-blinded study with 20-30 volunteers.
+
+ The improvement will be assessed using a 7-point Telangiectasia Grading Scale.
+

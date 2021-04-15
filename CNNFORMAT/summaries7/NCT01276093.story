@@ -1,0 +1,18 @@
+(secondQuint)Pulmonary Vein Ablation Versus Amiodarone in the Elderly.
+
+ Atrial fibrillation (AF) is the most common arrhythmia.
+
+ The prevalence of AF is highly age dependent as 70% of AF patients is between 65 and 85 years old.
+
+ With increasing life expectancy, AF prevalence will increase 2,5 times during the next 50 years and constitute an even more important health concern.
+
+ In younger patients Pulmonary vein ablation is an accepted procedure with superior efficacy compared to medical treatment.
+
+ In this study the safety and efficacy of PVI in patients over 70 years old will be evaluated.
+
+.
+
+ Pulmonary Vein Ablation Versus Amiodarone in the Elderly@highlight
+
+The purpose of the study is to demonstrate that in patients of 70 years or older with symptomatic paroxysmal atrial fibrillation (AF) pulmonary vein isolation (PVI) using RF ablation therapy is superior to medical treatment with amiodarone to prevent recurrence of AF.
+

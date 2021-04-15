@@ -1,0 +1,28 @@
+(fifthQuint)Impact of a Wellness Portal on The Delivery of Patient-Centered Preventive Care.
+
+ Project Aim 1: Develop, field test, and further refine an Internet-based Wellness Portal for use by patients seen in primary care settings to facilitate patient-centered, preventive care.
+
+ Specific Objectives: - Assemble an Advisory Committee of clinicians, office staff, patients, and national HIT experts and develop a patient Wellness Portal that can be accessed by patients through the Internet and also in the provider's office via computer kiosks; - Field test the Wellness Portal in two OKPRN practices and collect patient and provider satisfaction data via surveys and personal feedback to improve and refine the Wellness Portal and its integration into the comprehensive care delivery process.
+
+ Project Aim 2: Determine the impact of the Wellness Portal on the process of patient-centered preventive care by examining the experience of patients and providers with care and individualization of recommended services.
+
+ Specific Objectives: - Assess the impact of the Wellness Portal on patient-centered care: 1.
+
+ Assess the impact of the Wellness Portal on patient activation and the medical home; 2.
+
+ Understand the impact of Wellness Portal use, the role of activated patients, and the concept of medical home on the provision of patient-centered care; 3.
+
+ Measure the impact of the Wellness Portal on the individualization of preventive services that are recommended and delivered based upon individual risk factors and patient preferences; - Describe utilization and implementation of the Wellness Portal, capture and analyze documented decisions on opting out from evidence-based recommendations, and assess the impact of the portal on missed opportunities for delivering preventive care.
+
+.
+
+ Impact of a Wellness Portal on The Delivery of Patient-Centered Preventive Care@highlight
+
+Building upon our experience with a very sophisticated preventive services prompt and reminder system, the Preventive Services Reminder System (PSRS), the investigators propose to conduct a systematic three-year study with the following aims: 1.
+
+ To develop, field test, and refine an Internet-based patient Wellness Portal linked to PSRS to facilitate patient-centered, preventive care in primary care practices; 2.
+
+ To determine the impact of the Wellness Portal on the process of patient-centered preventive care by examining the behavior and experiences of both patients and providers and the degree to which recommended services are individualized; and 3.
+
+ To develop model Wellness Portal practices and disseminate the Wellness Portal technology and knowledge derived from Aims 1 and 2 findings.
+

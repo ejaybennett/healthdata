@@ -1,0 +1,16 @@
+(firstQuint)Autoantibodies on Spinal Cord Injury.
+
+ Most patients experience variable degrees of functional recovery after spinal cord injury (SCI), predominantly in the first months after lesion.
+
+ In SCI animal models, autoantibodies are pathogenic and their titers rise up at the time when spontaneous recovery stops.
+
+ The aim of this study is to determine the autoantibody profiles after SCI and to infer their relation with functional recovery.
+
+ To achieve this, autoantibody profiles, biochemical, hematological and immune-related parameters (cytokines, chemokines and growth factors) will be determined from a serum blood sample and functional recovery will be evaluated accordingly to standardized scales.
+
+.
+
+ Autoantibodies on Spinal Cord Injury@highlight
+
+The purpose of this study is to determine the autoantibody profiles after spinal cord injury and their role in spontaneous functional recovery.
+

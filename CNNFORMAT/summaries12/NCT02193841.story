@@ -1,0 +1,32 @@
+(thirdQuint)Simple Bone Cysts in Kids.
+
+ In general, few randomized clinical trials have been undertaken in paediatric orthopaedics, and only one to date has addressed the problem of simple bone cysts (SBCs).
+
+ Also known as unicameral bone cysts, they are the commonest bone lesion in children.
+
+ Despite general opinion, these cysts do not resolve at skeletal maturity.
+
+ Many forms of treatment have been recommended but none, including the popular methods of corticosteroid or bone marrow injections, have reliably eradicated SBC.
+
+ Although the lesions are considered benign (non-cancerous), they cause pain, frequently interfere with function, dramatically restrict play activity, may re-fracture leading to growth arrest and/or deformity, and cause enormous anxiety for children and their families.
+
+ With a well-developed network of surgeons and researchers, we will provide evidence comparing the effectiveness of two treatment interventions for SBC.
+
+ More specifically, our goals for this study are: 1.
+
+ to compare the rate of radiographic healing between two standard treatments including curettage with puncture alone, and curettage with puncture followed by injection with Vitoss morsels; 2.
+
+ to identify prognostic radiographic factors associated with simple bone cyst healing and fracture; 3.
+
+ to determine the impact of simple bone cyst on children/family functioning.
+
+.
+
+ Simple Bone Cysts in Kids@highlight
+
+Simple bone cysts (SBCs) are cysts filled with fluid that occur most frequently in the long bones (arms or legs) of children.
+
+ There are many ways to treat SBCs but it is unclear if one is better than another.
+
+ The purpose of this research trial is to compare the effectiveness of two common treatments that are used by surgeons today.
+

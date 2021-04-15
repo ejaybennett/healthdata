@@ -1,0 +1,20 @@
+(secondQuint)Tibial Shaft Nailing Treated With Suprapatellar Nailing.
+
+ Suprapatellar tibial nailing is gaining popularity throughout the orthopedic community for tibial shaft fractures, however the secondary effects of this technique on the articular cartilage of the knee is unknown.
+
+ Additionally, the incidence of intra-articular knee pathology in the face of tibial shaft fractures has not been described in the orthopedic literature.
+
+ An undiagnosed cruciate/collateral ligament injury can result in post-traumatic arthritis, as well as a delay in justified ligamentous reconstruction of the knee, causing further injury.
+
+ Long term sequelae of now commonplace suprapatellar nailing on the patellofemoral joint of the knee have been sparsely elucidated in the literature.
+
+ The primary objective is to determine the consequences of suprapatellar tibial nailing on cartilage of the patellofemoral joint.
+
+ As a secondary objective, this study will seek to determine the incidence of intra-articular knee pathology following tibial shaft fractures in patients presenting to Orlando Regional Medical Center.
+
+.
+
+ Tibial Shaft Nailing Treated With Suprapatellar Nailing@highlight
+
+The goal of this project is to determine the incidence of intra-articular knee pathology following tibial shaft fractures as evaluated by intraoperative knee aspiration and physical exam, and to evaluate for chondral injuries following treatment with a suprapatellar tibial nail via MRI.
+

@@ -1,0 +1,26 @@
+(fifthQuint)Study of the Golimumab Exposure-Response Relationship Using Serum Trough Levels.
+
+ The study will involve two study groups designed to offer insights into the pharmacokinetics of golimumab during induction and maintenance therapy: Cohort 1: Patients commencing golimumab induction therapy will be included in a prospective, observational study.
+
+ Cohort 2: Patients receiving golimumab maintenance therapy will be included in a cross-sectional, observational study.
+
+ Primary objective: To define a week 6 serum golimumab concentration that predicts response at week 14.
+
+ Secondary objective: To define serum golimumab concentrations at weeks 6, 10 and 14 that predict response at each time point, respectively and at week 14.
+
+ Exploratory objectives: Correlations between serum golimumab concentrations and novel disease activity indices (PRO2), biochemical markers of disease activity (CRP, faecal calprotectin) and quality of life indices (IBD-Q and IBD-Control).
+
+ Correlations between the presence of anti-golimumab antibodies, serum golimumab concentrations and UC disease activity.
+
+ This study will also generate data that can be used to validate a commercially available golimumab assay as well as a novel patient reported outcome (PRO) assessment of clinical UC disease activity.
+
+.
+
+ Study of the Golimumab Exposure-Response Relationship Using Serum Trough Levels@highlight
+
+The purpose of this study is to gain insight into the exposure-response relationship of golimumab in moderate-to-severe Ulcerative Colitis (UC).
+
+ Patients commencing induction therapy with golimumab will be enrolled into a prospective study and evaluated at three time-points (weeks 6, 10 and 14) for clinical and biochemical UC disease activity as well as serum golimumab concentrations and the presence of anti-golimumab antibodies.
+
+ Patients already established on stable golimumab maintenance therapy will be enrolled into a cross-sectional study with the same evaluations taken at a single time point.
+

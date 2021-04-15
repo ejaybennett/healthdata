@@ -1,0 +1,16 @@
+(firstQuint)Study to Evaluate the Efficacy and Tolerability of Apevinat BC Compared to Vitamin Complex.
+
+ Apevinat BC presents in its formula the cyproheptadine hydrochloride, which is an antihistamine and anti-serotonin with stimulant of appetite property associated with the vitamin B complex and C, in balanced amounts.
+
+ This combination is specially formulated to adequately serve patients with anorexia represented by lack of appetite or appetite diverted to diets without the necessary vitamins.
+
+ For the anorexic patients that are common B and C hypovitaminosis, the use of Apevinat BC will have a synergistic and joint action to increase appetite and facilitate correction of a diet while also supplement with B and C vitamins, this association does not decreases its tolerability and safety but hits adequately the purpose of therapeutic orexigenic.
+
+ The current study will compare the efficacy and tolerability of Apevinat BC to vitamin complex administered three times a day, in the prevention and treatment of lack of appetite and B and C hypovitaminosis.
+
+.
+
+ Study to Evaluate the Efficacy and Tolerability of Apevinat BC Compared to Vitamin Complex@highlight
+
+The purpose of this study is to evaluate the efficacy and tolerability of Apevinat BC compared to vitamin complex, in the treatment of lack of appetite and prevention of deficiency of B and C vitamins.
+

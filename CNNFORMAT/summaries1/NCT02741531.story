@@ -1,0 +1,32 @@
+(fifthQuint)The Effect of Partial Bladder Filling on Post-operative Time to Void in Minimally Invasive Gynecologic Procedures.
+
+ Patients undergoing laparoscopic/robotic hysterectomy or myomectomy who meet the study criteria will be contacted by the research assistant at a pre-operative visit.
+
+ The risks and benefits of participation will be explained to them.
+
+ If they choose to participate they will sign the consent form at that time.
+
+ At the time of the surgery, the research coordinator will open a sealed envelope containing the patient's assignment to partial bladder filling or no bladder filling.
+
+ The research coordinator will then notify the surgeon via secure phone call or secure messaging service and the patient/subject will have their bladder partially filled or completely emptied as relayed to the surgeon at the end of the procedure in the Operating Room, unless there are issues of patient safety or operative complications.
+
+ In the patients who are chosen for partial bladder filling, the bladder will be back-filled with 150 cc of normal saline and then the Foley catheter will be removed at the end of the procedure.
+
+ In patients who have no bladder filling, the bladder will be completely emptied and then the Foley catheter will be removed.
+
+ One of the providers who perform the gynecological surgical procedures will be responsible for back-filling or completely emptying the bladder with the Foley catheter.
+
+ The patients will be followed in the PACU to determine the time it takes for them to void.
+
+ The will also be followed for any complications until they are four weeks post surgery.
+
+ The electronic medical record will be examined to see if they have any complications reported at their post-operative visits or any readmissions to the hospital.
+
+.
+
+ The Effect of Partial Bladder Filling on Post-operative Time to Void in Minimally Invasive Gynecologic Procedures@highlight
+
+The purpose of this study is to determine if partially filling the bladder after laparoscopic/robotic gynecologic surgery (for benign disease) shortens the time required to spontaneously void for patients to determine if this subsequently shortens patient stay times in the Post Anesthesia Care Unit (PACU) following surgery.
+
+ This intervention would be compared to the current standard of care, which involves removing the patient's Foley catheter with an empty bladder and then giving the patient up to 6 hours to void in the PACU.
+

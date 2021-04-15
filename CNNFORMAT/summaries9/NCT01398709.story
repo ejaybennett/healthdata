@@ -1,0 +1,18 @@
+(firstQuint)Effect of Rewarming Rate During Cardiopulmonary Bypass on Clinical Prognosis of Infants Undergoing Cardiac Surgery.
+
+ There have been many studies indicating that rewarming management plays an important role in cardiac surgery.
+
+ The purpose of this study is to investigate the relationship between rewarming rate during cardiopulmonary bypass and clinical prognosis in patients undergoing cardiac surgery.
+
+ Infants undergoing cardiac surgery with cardiopulmonary bypass are randomly assigned to either a slow rewarming strategy (0.
+
+24 degrees C/min) or a fast rewarming strategy (0.
+
+5 degrees C/min).
+
+.
+
+ Effect of Rewarming Rate During Cardiopulmonary Bypass on Clinical Prognosis of Infants Undergoing Cardiac Surgery@highlight
+
+The purpose of this study is to investigate the relationship between rewarming rate during cardiopulmonary bypass and clinical prognosis in infants undergoing cardiac surgery.
+

@@ -1,0 +1,14 @@
+(secondQuint)Calcium DXA: Impact of Calcium Supplements on Lumbar Spine Bone Mineral Density.
+
+ We hypothesized that ingesting calcium tablets prior to a spine bone density scan will not affect the bone mineral density as measured by DXA.
+
+ To test this, 36 subjects ingested various calcium supplements after a spine DXA scan and were then scanned again 15, 30 and 45 minutes after ingestion.
+
+ Subsequently a subset of 15 subjects had three spine scans performed for instrument precision and subsequently ingested a calcium tablet with scans 15 and 30 minute intervals after ingestion.
+
+.
+
+ Calcium DXA: Impact of Calcium Supplements on Lumbar Spine Bone Mineral Density@highlight
+
+We, the investigators at the University of Wisconsin, hypothesized that ingesting calcium tablets prior to a spine bone density scan will not affect the bone mineral density as measured by dual energy x-ray absorptiometry (DXA).
+

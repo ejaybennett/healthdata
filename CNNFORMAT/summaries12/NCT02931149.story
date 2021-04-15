@@ -1,0 +1,30 @@
+(thirdQuint)Evaluation of the Efficacy of Platelet-rich Plasma (PRP) on Advanced Endoscopic Resection Techniques.
+
+ Background:To avoid complications secondary to advanced endoscopic resection techniques (Endoscopic Mucosal Resection -EMR- or Endoscopic Submucosal Disection -ESD-) the endoscopists have to avoid deep thermal damage and increase mucosal healing.
+
+ Platelet-rich plasma (PRP) has demonstrated efficacy in preclinical endoscopic resection models.
+
+ Aim: Evaluate the efficacy of PRP on participants submitted to advanced endoscopic resection techniques: EMR or ESD.
+
+ Material and Methods: The investigators have evaluated a prospective clinical study.
+
+ The investigators have included 12 participants submitted to EMR or ESD.
+
+ Patients were informed and accepted to participate with a written consent.
+
+ Prior to endoscopy PRP was obtained from autologous blood with a comercial kit.
+
+ Submucosal injection with PRP were performed prior to resection.
+
+ Resection was performed with standard technique.
+
+ Participants were followed-up after the procedure.
+
+.
+
+ Evaluation of the Efficacy of Platelet-rich Plasma (PRP) on Advanced Endoscopic Resection Techniques@highlight
+
+To avoid complications secondary to advanced endoscopic resection techniques (Endoscopic Mucosal Resection -EMR- or Endoscopic Submucosal Disection -ESD-) the endoscopists have to avoid deep thermal damage and increase mucosal healing.
+
+ Platelet-rich plasma (PRP) has demonstrated efficacy in preclinical endoscopic resection models.
+

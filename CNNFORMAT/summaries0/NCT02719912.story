@@ -1,0 +1,18 @@
+(secondQuint)Mitral Valve Replacement With MValve Dock and Lotus.
+
+ This study is a prospective first in man feasibility study intended to evaluate preliminary safety and effectiveness of the MValve Mitral Dock with Lotus transcatheter heart valve for mitral valve replacement in subjects who are at high risk for surgical valve repair or replacement.
+
+ The surgical technique adapts the valve-in-valve approach for mitral replacement in degenerated mitral prostheses to failing native mitral valves.
+
+ The MValve Dock is designed to provide a structural platform within the mitral annulus so that the Lotus THV can be implanted in a secure fashion in the mitral annulus.
+
+ The investigational device anchors to the mitral annulus commissures, sparing the native valve leaflets and sub annular apparatus.
+
+ This study is designed to treat subjects with moderate-to-severe MR who are not deemed candidates for mitral valve surgery.
+
+.
+
+ Mitral Valve Replacement With MValve Dock and Lotus@highlight
+
+This study evaluates the MValve mitral prosthesis in conjunction with a Lotus transcatheter heart valve (THV) for mitral valve replacement in subjects at high risk for conventional mitral valve replacement or repair surgery.
+

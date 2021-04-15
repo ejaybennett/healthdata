@@ -1,0 +1,24 @@
+(firstQuint)SAFEty and Efficacy of HOME-based Hospitalization Versus Inpatient Care for Patients With Acute Heart Failure in Chronic Heart Failure.
+
+.
+
+ Chronic heart failure (CHF) has an important socio-economic impact due to frequent hospital readmissions.
+
+ Hypothesis: Home care treatment (HC) will improve quality of live and decrease cost.
+
+ Methodology: Pilot, prospective, open, randomized controlled trial with 1-year follow-up for CHF patients admitted to 10 French hospital from March 2017 through February 2018, for acute decompensation of CHF.
+
+ Patients will be randomly assigned to conventional hospital care or to the HC and treated with intravenous diuretics.
+
+ Following discharge within 48 hours from the hospital, patients in the HC group will be treated at home.
+
+ Follow-up will be conducted for both groups at discharge, 3 and 12 months after inclusion in the study.
+
+.
+
+ SAFEty and Efficacy of HOME-based Hospitalization Versus Inpatient Care for Patients With Acute Heart Failure in Chronic Heart Failure.
+
+@highlight
+
+Evaluation of the efficacy, safety and and cost of home care versus conventional hospitalization care at 3-months in patients with worsening chronic heart failure.
+

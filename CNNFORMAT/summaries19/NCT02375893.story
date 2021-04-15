@@ -1,0 +1,30 @@
+(thirdQuint)Bile Acids and Gut Microbiota as Potent Coronary Atheroma Risk Factors: a Prospective Study in Human.
+
+ Atherosclerosis is the main cause of cardiovascular diseases which remain the first cause of death worldwide.
+
+ The prevention of risk factors can reduce the development of cardiovascular diseases.
+
+ The final goal of our study is to find new protective or new risk factors that can be modulated to reduce the incidence of cardiovascular events.
+
+ Gut microbiota and its main metabolite, the bile acids, are implicated in the metabolic regulation.
+
+ Some bile acids, especially the secondary bile acids, transformed from the primary bile acids by the bacteria of the gut microbiota, are now demonstrated in murine experimental atherosclerosis models, to be anti inflammatory and anti atherogenic molecules.
+
+ We want to compare the pool of bile acids and the composition of gut microbiota between the coronary patients and the healthy subjects to identify the potential protective or deleterious bacteria / bile acids.
+
+ All patients admitted for a scheduled coronary angiogram will be included, then divided into two groups: coronary or healthy, based on the presence or the absence of atheroma during the coronary angiogram.
+
+ Feces and blood samples, and clinical and biological data, will be collected during the patient's hospitalisation.
+
+ No additional exam will be performed.
+
+ The blood sample will be collected during the coronary angiogram or during a routine blood test.
+
+.
+
+ Bile Acids and Gut Microbiota as Potent Coronary Atheroma Risk Factors: a Prospective Study in Human@highlight
+
+The purpose of this study is to describe the composition of bile acids and the gut microbiota comparing two populations: patients with coronary atheroma and the healthy subjects.
+
+ Our hypothesis is based on the demonstration of the anti atherogenic and anti inflammatory effect of certain bile acids, and the role of the gut microbiota in the metabolic regulation.
+

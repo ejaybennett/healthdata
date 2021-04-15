@@ -1,0 +1,30 @@
+(thirdQuint)The Effects of Rasagiline on Cognitive Deficits Associated With Parkinson's Disease.
+
+ The primary objective of this study is to assess the effects of rasagiline on cognitive deficits in non-demented patients with PD.
+
+ The secondary objective is to assess affective changes in this patient population.
+
+ This will be a randomized, double-blind, placebo controlled study in 1-3 centers.
+
+ Patients will be recruited from the Movement Disorders Outpatients Clinic, Department of Neurology, Istanbul Faculty of Medicine, Dokuz Eylul University and Marmara University.
+
+ Eligible patients will be randomly assigned to rasagiline 1 mg or placebo.
+
+ Patients will be treated with the study medication over 3 months.
+
+ Cognitive and behavioral assessments will be performed at baseline, at 4 weeks and at the end of the study, at 12 weeks.
+
+ A total of 40 PD patients with cognitive deficits, but without dementia will be recruited.
+
+ No sample size calculation will be performed, a sample of convenience will be used.
+
+.
+
+ The Effects of Rasagiline on Cognitive Deficits Associated With Parkinson's Disease@highlight
+
+The objective of the study is to assess the effects of rasagiline on cognitive functions in patient with Parkinson's disease.
+
+ Patients on any dopaminergic medications will be assigned to receive rasagiline 1 mg or placebo over 3 months.
+
+ Cognitive functions will be assessed by selected neuropsychological tests representing each cognitive domain.
+

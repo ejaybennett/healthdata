@@ -1,0 +1,20 @@
+(fifthQuint)Use of Scaffolds for Treatment of Gingival Recession Associated With Interproximal Tissue Deficiency.
+
+ The treatment of gingival recessions associated with interproximal bone and gingival tissue deficiency, and also the absence of interdental papilla, are major challenges within the periodontics due to lacking predictability.
+
+ However, an intervention in these cases is extremely important, since the presence of these defects is associated with aesthetic, phonetic, hypersensitivity and may be associated with other dental damages.
+
+ This study will seek to evaluate the predictability and efficacy of a Computer Aided Design-Computer Aided Manufacturing and additively manufactured polycaprolactone and hydroxyapatite scaffolds in these defects compared to traditional guided tissue regeneration.
+
+ 40 gingival recessions associated with interproximal tissue deficiency will be divided into two groups: control group (autogenous bone + collagen membrane; n = 20) and test group (autogenous bone + scaffold; n = 20).
+
+ A split-mouth design will be used with both procedures performed at the same surgical time.
+
+.
+
+ Use of Scaffolds for Treatment of Gingival Recession Associated With Interproximal Tissue Deficiency@highlight
+
+This study will seek to evaluate the predictability and efficacy of a Computer Aided Design-Computer Aided Manufacturing and additively manufactured polycaprolactone and hydroxyapatite scaffolds in these defects compared to traditional guided tissue regeneration.
+
+ 40 gingival recessions associated with interproximal tissue deficiency will be divided into two groups: control group (autogenous bone + collagen membrane; n = 20) and test group (autogenous bone + scaffold; n = 20).
+

@@ -1,0 +1,24 @@
+(secondQuint)Does Dual Therapy Hasten Antidepressant Response?.
+
+ Depression is a major public health problem due to its prevalence and accompanying dysfunction and costs.
+
+ Depression is undertreated, but even when treatment is adequate and effective, sources of delay in current pharmacologic strategies include: mechanistic delays, those related to the physiologic and behavioral effects of antidepressants; dosing delays in identifying the effective dose; and programmatic delays in identifying an effective agent using sequential monotherapy.
+
+ This study will randomize 240 patients with Diagnostic and Statistical Manual, 4th Edition (DSM-IV) Major Depressive Disorder (MDD) to 12 week double blind treatment with combined escitalopram and bupropion or each antidepressant administered alone to evaluate whether combined escitalopram and bupropion result in more rapid remission and greater over-all remission than monotherapy.
+
+ Preclinical and clinical studies suggest that bupropion might prevent one mechanistic delay inherent in escitalopram monotherapy.
+
+ Rapid dose escalation may counter dosing delays.
+
+ The simultaneous use of two known antidepressant medications may alleviate programmatic delays inherent in usual sequential monotherapy.
+
+ Six months follow up and careful assessment of adverse events will address tolerability, acceptability, sustainability, and pharmacoeconomic concerns.
+
+ If successful, this study might have a significant impact on clinical practice, public health, and depression's cost consequences.
+
+.
+
+ Does Dual Therapy Hasten Antidepressant Response?@highlight
+
+This study will utilize a randomized double-blind design to evaluate whether initial treatment with two anti-depressant medications (escitalopram and bupropion) results in more rapid remission and greater over-all remission rates than either monotherapy in 240 depressed subjects.
+

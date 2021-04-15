@@ -1,0 +1,18 @@
+(secondQuint)Clinical Study on Treatment of Chronic Persistent Bronchial Asthma.
+
+ The incidence of asthma in China is high and the rate of control is low.
+
+ Traditional Chinese medicine has a long history of treating asthma, and has a good clinical curative effect.
+
+The purpose of this study is to evaluate the clinical efficacy of traditional Chinese medicine in the treatment of asthma, and to further optimize the prescription of Chinese medicine treatment.
+
+ In this study, investigators recruited chronic persistent asthma participants, and gave the corresponding western medicine background treatment and traditional Chinese medicine treatment program for 28 days.
+
+Participants will undergo a physical examination, lung function, blood and sputum collection.
+
+.
+
+ Clinical Study on Treatment of Chronic Persistent Bronchial Asthma@highlight
+
+Investigators aimed to evaluate the clinical efficacy of integrated traditional Chinese and Western medicine in the treatment of asthma, and to further optimize the prescription of Chinese medicine treatment.
+

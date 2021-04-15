@@ -1,0 +1,15 @@
+(firstQuint)Left Ventricular Function Assessment After Acute Myocardial Infarction: Comparison Between Bi-, Three-dimensional and Cardiac Magnetic Resonance.
+
+ The assessment of left ventricular ejection fraction (LVEF) is a critical step after a myocardial infarction because it determines the prognosis and the therapeutic management (indication of implantable cardioverter-defibrillators).
+
+ Three-dimensional echocardiography (3DE) and cardiac magnetic resonance (CMR) are accurate and reproducible techniques to quantify left ventricular volumes and LVEF.
+
+ However, all the large randomized trials which evaluated the role of the implantable cardioverter-defibrillators (ICD) on survival in primary prevention were based on LVEF values obtained by older techniques like bi-dimensional echocardiography (2DE), angiography or radionuclide scanning.
+
+ From now, no study has compared the measurements of left ventricular volumes and LVEF obtained by further current techniques after an acute myocardial infarction (AMI) particularly after 1 month when ICD could be indicated.
+
+.
+
+ Left Ventricular Function Assessment After Acute Myocardial Infarction: Comparison Between Bi-, Three-dimensional and Cardiac Magnetic Resonance@highlight
+
+compare measurements of left ventricular volumes and LVEF obtained by 2DE, 3DE, and CMR after a ST elevation myocardial infarction (STEMI) complicated by systolic left ventricular dysfunction

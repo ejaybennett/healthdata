@@ -1,0 +1,22 @@
+(firstQuint)Zinc, Mental Health, and School Performance in Guatemalan Schoolchildren.
+
+ Mental health problems are an important cause of dysfunction throughout the world, accounting for 8.
+
+1% of the Global Burden of Disease.
+
+ The need for interventions that can prevent mental health conditions, particularly among children, cannot be overemphasized.
+
+ This study will determine whether zinc supplementation improves the mental health and school performance among children in Guatemala.
+
+ Participants will be randomly assigned to receive daily supplements of either zinc or placebo for 6 months.
+
+ Participants will be assessed at study entry and after the 6-month treatment.
+
+ Participants and their parents and teachers will complete questionnaires about the participants' symptoms of depression and anxiety, concentration and activity levels, school performance, and any environmental stressors to which the participants may be exposed to.
+
+.
+
+ Zinc, Mental Health, and School Performance in Guatemalan Schoolchildren@highlight
+
+This study will determine whether supplements of the mineral zinc will improve mental health and school performance among schoolchildren in Guatemala.
+

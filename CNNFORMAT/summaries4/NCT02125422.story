@@ -1,0 +1,14 @@
+(firstQuint)Neurophysiological Study of tDCS Effects in Healthy Volunteers.
+
+ Anodal transcranial direct currenti stimulation over visual cortex is able to decrease the thermo-nociceptive sensibility and thermonociceptive potentials, whilst cathodal transcranial direct current stimulation has the opposite effect, it decreases VEP amplitude and habituation.
+
+ This neuromodulation technique is probably a tool in the prevention in episodic and chronic migraine.
+
+ The aim of the study is to study short and long term effect of tDCS over pain treshold, contact heat evoked potentials, blink reflex and visual evoked potentials in healthy volunteers.
+
+.
+
+ Neurophysiological Study of tDCS Effects in Healthy Volunteers@highlight
+
+Transcranial direct current stimulation is a tool to modulate cortical excitability.
+

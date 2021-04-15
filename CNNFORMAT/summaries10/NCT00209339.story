@@ -1,0 +1,26 @@
+(secondQuint)Feasibility Study of a Percutaneous Mitral Valve Repair System.
+
+.
+
+ Phase I evaluation of the safety and effectiveness of an endovascular approach to the repair of mitral valve regurgitation using the Evalve Cardiovascular Valve Repair System.
+
+ The study is a prospective, multi-center, Phase I study of the Evalve Cardiovascular Valve Repair System (CVRS) in the treatment of mitral valve regurgitation.
+
+ A minimum of 20 patients will be enrolled (an additional maximum of 12 roll in-patients, a maximum of 2 per site, may be enrolled and analyzed separately).
+
+ Patients will undergo 30-day, 6 month and 12 month clinical follow-up.
+
+ Up to 12 clinical sites throughout the US may participate.
+
+ The primary endpoint is acute safety at thirty days, with a secondary efficacy endpoint of reduction of MR.
+
+.
+
+ Feasibility Study of a Percutaneous Mitral Valve Repair System.
+
+@highlight
+
+Prospective, multi-center, Phase I study of the Evalve Cardiovascular Valve Repair System (CVRS) in the treatment of mitral valve regurgitation.
+
+ Patients will undergo 30-day, 6 month, 12 month, and 5 year clinical follow-up.
+

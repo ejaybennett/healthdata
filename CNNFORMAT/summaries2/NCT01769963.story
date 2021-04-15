@@ -1,0 +1,20 @@
+(firstQuint)Advanced Glycation End-products, Inflammation and Vascular Health in Chronic Kidney Disease.
+
+ Advanced glycation end-products (AGEs) are compounds that form when sugars abnormally attach to proteins or lipids.
+
+ High levels of AGEs in the blood may cause inflammation, problems with controlling blood sugar, and problems with the health of blood vessels.
+
+ Many of the foods we commonly eat have high amounts of AGEs, which may increase AGEs in the blood of people with kidney disease.
+
+ The amount of AGEs in foods can be lowered when prepared using special cooking techniques such as using moist heat or longer cooking times at lower temperatures.
+
+ New research has shown that preparing food in this way can lower inflammation and improve blood vessel health in people with normal kidney function.
+
+ In this study, the investigators would like to examine the effect of lowering the AGE content of foods on inflammation, blood sugar control, and blood vessel health in individuals with mild to moderate chronic kidney disease.
+
+.
+
+ Advanced Glycation End-products, Inflammation and Vascular Health in Chronic Kidney Disease@highlight
+
+The purpose of the study is to learn more about how advanced glycation end-products can affect insulin resistance, inflammation and blood vessel health in people with kidney disease.
+

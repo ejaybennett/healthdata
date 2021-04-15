@@ -1,0 +1,31 @@
+(secondQuint)CISPLATIN + AZD-1775 In Breast Cancer.
+
+ This research study is a Phase II clinical trial.
+
+ Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.
+
+ "Investigational" means that the intervention is being studied.
+
+ The FDA (the U.
+
+S.
+
+ Food and Drug Administration) has not approved AZD1775 as a treatment for any type of cancer.
+
+ Cisplatin is FDA approved for other cancers and has been shown to be an active treatment for breast cancer.
+
+ AZD1775 is a drug that is designed to block a protein called Wee-1 which may control the ability of certain cancer cells to grow or divide.
+
+ Cisplatin works by damaging the DNA inside the cancer cells which prevents them from dividing.
+
+ By combining AZD1775 and Cisplatin, cancer cells may potentially be more effectively killed.
+
+ In this research study, the investigators are looking to determine whether the combination of AZD1775 and cisplatin is an effective treatment for triple negative breast cancer that has spread to other parts of the body.
+
+.
+
+ CISPLATIN + AZD-1775 In Breast Cancer@highlight
+
+This research study is studying a combination of drugs as a possible treatment for triple-negative breast cancer that has spread to other areas of the body.
+
+ The names of the study interventions involved in this study are: - Cisplatin - AZD1775

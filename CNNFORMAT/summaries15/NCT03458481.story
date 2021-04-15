@@ -1,0 +1,13 @@
+(firstQuint)Phase 2 Study of Yimitasvir Phosphate Capsules.
+
+ A phase 2, multicenter, randomized, parallel Assigned, open-label study to explore the safety, tolerability and antiviral activity of DAG181/SOF combination for 12 weeks in adult subjects with chronic genotype 1 HCV infection.
+
+ Approximately 120 HCV genotype 1 subjects without cirrhosis will be enrolled, treatment-experienced subjects are 20%, all subjects will be randomized (1:1) to one of the following two treatment groups by IWRS (Medidata Balance): a) DAG181 100 mg/ SOF 400 mg once daily for 12 weeks, b) DAG181 200 mg/ SOF 400 mg once daily for 12 weeks.
+
+ Randomization will be stratified by "treatment-naive" or "treatment-experienced".
+
+.
+
+ Phase 2 Study of Yimitasvir Phosphate Capsules@highlight
+
+The safety, tolerability and antiviral activity of DAG181/SoF in treatment-naive and treatment-experienced patients with chronic hepatitis C virus (HCV) genotype 1 infection

@@ -1,0 +1,16 @@
+(secondQuint)Pilot Study on In-vivo Non-invasive Skin Imaging Using Multiphoton Microscopy.
+
+ This study is performed using a multiphoton microscopy-based tomograph (MPTflex) developed by JenLab, GmbH (Germany) to image non-invasively normal and lesional skin.
+
+ Skin lesions are imaged by multiphoton microscopy and images are compared to those obtained from histopathology through standard of care processed skin biopsies.
+
+ Any biopsies will be performed by the health care provider as a standard of care procedure.
+
+.
+
+ Pilot Study on In-vivo Non-invasive Skin Imaging Using Multiphoton Microscopy@highlight
+
+The purpose of this pilot study is to employ multiphoton microscopy to non-invasively image in-vivo pigmented and non-pigmented human skin lesions for characterization of their morphologic and functional features.
+
+ .
+

@@ -1,0 +1,18 @@
+(thirdQuint)A Study of the Effect of Food and Posture on the Pharmacokinetics of a Single Dose of ER OROS Paliperidone.
+
+ The current study was designed to evaluate the effect of food on the pharmacokinetics of the to be marketed formulation of ER OROS paliperidone in mobile healthy men, which represents the normal conditions.
+
+ The 12-mg ER OROS paliperidone ER by oral administration single dose used in this study does not require prolonged bed rest as a precautionary measure to prevent orthostatic hypotension.
+
+ To support an evaluation of the effect of posture on the pharmacokinetics of ER OROS paliperidone under fasting conditions, study medication was also administered to healthy men in the fasted state while confined to bed for approximately 36 hours.
+
+ The safety and tolerability of the treatments in healthy men will be assessed.
+
+ 12 mg ER OROS paliperidone ER, oral administration, single dose.
+
+ A Study of the Effect of Food and Posture on the Pharmacokinetics of a Single Dose of ER OROS Paliperidone@highlight
+
+The purposes of this study are to evaluate the effect of food on the pharmacokinetics of extended-release (ER) OROS paliperidone in healthy men, and to evaluate the effect of posture on the pharmacokinetics of ER OROS paliperidone under fasting conditions.
+
+ Additionally, the safety and tolerability of the treatments in healthy men will be assessed.
+

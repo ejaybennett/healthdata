@@ -1,0 +1,16 @@
+(secondQuint)Can Iron Lessen Anemia Due to Cancer and Chemotherapy: A Study to Investigate the Efficacy and Safety of Injectafer.
+
+ This is a Phase III, multicenter, randomized, double-blinded, prospective study with two parallel treatment groups.
+
+ Patients who present to the hematologist/oncologist and satisfy all inclusion and exclusion criteria will be eligible for participation in this 18-week study.
+
+ Subjects who meet all inclusion criteria and no exclusion criteria, will be randomized into the trial (Group A or B).
+
+.
+
+ Can Iron Lessen Anemia Due to Cancer and Chemotherapy: A Study to Investigate the Efficacy and Safety of Injectafer@highlight
+
+Phase III, multicenter, randomized, double-blinded, prospective study with two parallel treatment groups.
+
+ Patients who present to the hematologist/oncologist and satisfy all inclusion and exclusion criteria will be eligible for participation in this 18-week study.
+

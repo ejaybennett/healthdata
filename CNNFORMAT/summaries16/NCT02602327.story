@@ -1,0 +1,16 @@
+(thirdQuint)Tas-102 and Radioembolization With 90Y Resin Microspheres for Chemo-refractory Colorectal Liver Metastases.
+
+ Randomized studies have demonstrated that Tas-102 has single agent activity against chemotherapy refractory colorectal cancer.
+
+ A recent pre-clinical study has shown that Tas-102 may have activity as a radiation sensitizer in bladder cancer cell lines.
+
+ Benefit of single agent Tas-102 against chemotherapy refractory colon cancer and the drug's promise a radiosensitizer make Tas-102 a potential candidate drug for testing in combination with radioembolization using Yttrium-90 resin microspheres in patients with liver-dominant chemotherapy-refractory mCRC.
+
+ This is a phase I dose escalation study with a dose expansion arm designed to evaluate safety of the combination of Tas-102 and radioembolization using 90Y resin microspheres for patients with chemotherapy-refractory colon or rectal adenocarcinoma metastatic to the liver.
+
+.
+
+ Tas-102 and Radioembolization With 90Y Resin Microspheres for Chemo-refractory Colorectal Liver Metastases@highlight
+
+This is a phase I dose escalation study (3+3 design) with a dose expansion arm (12 patients) designed to evaluate safety of the combination of Tas-102 and radioembolization using Yttrium-90 (90Y) resin microspheres for patients with chemotherapy-refractory liver-dominant chemotherapy-refractory metastatic colorectal cancer (mCRC).
+

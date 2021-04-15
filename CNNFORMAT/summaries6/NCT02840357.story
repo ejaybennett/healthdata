@@ -1,0 +1,26 @@
+(secondQuint)Impact of Purple Wheat Consumption on Markers of Inflammation and Oxidative Stress in Adults.
+
+.
+
+ This study will investigate the effect of daily consumption of purple wheat bran-enriched wholegrain convenience bars, for 8 weeks on inflammation and oxidative stress biomarkers and plasma antioxidant capacity.
+
+ This study is a randomized, parallel arm study with 20 men and 20 women who will adhere to a low anthocyanin and low phenolic aid diet for the duration of the study.
+
+ The participants will be randomly divided into two groups, using stratification for matching sex and screening hs-CRP level to be equally distributed in each group, and assigned to either the treatment group or control group.
+
+ Both group will have a 10 day diet run-in period where consumption of foods rich in anthocyanins and phenolic acids will be limited.
+
+ Both groups will consume 4 servings of wheat products per day for 8 weeks and will replace 4 grain servings from their typical daily intake with the study treatment products.
+
+ Fasting blood samples will be collected during three study visits, including baseline, for the analysis of inflammatory and oxidative stress biomarkers and plasma antioxidant capacity.
+
+ The plasma metabolites of anthocyanins and phenolic acids will also be determined.
+
+.
+
+ Impact of Purple Wheat Consumption on Markers of Inflammation and Oxidative Stress in Adults.
+
+@highlight
+
+The main purpose of this study is to determine the effect of consumption of purple wheat anthocyanin-rich products for eight weeks by human participants with an elevated level of chronic inflammation, on oxidative stress and inflammatory responses as measured by select plasma biomarkers.
+

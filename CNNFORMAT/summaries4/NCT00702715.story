@@ -1,0 +1,42 @@
+(secondQuint)Comparison of 4.
+
+0 mg/kg Sugammadex at 1-2 Post Tetanic Counts (PTC) in Renal or Control Patients (19.
+
+4.
+
+328)(P05769).
+
+ The results of previous trials showed that the safety profile of sugammadex observed in subjects with impaired renal function are not appreciably different from subjects with normal renal function.
+
+ Reoccurrence of neuromuscular blockade was not observed, and sugammadex was safe and generally well tolerated in subjects with severe renal impairment.
+
+ In a previous trial, subjects (n=15) with severe renal impairment received a dose of 2.
+
+0 mg.
+
+kg-1 of sugammadex.
+
+ The effects of the other proposed recommended dose for routine reversal, 4.
+
+0 mg.
+
+kg-1, on efficacy, safety and pharmacokinetics had not been studied thus far in subjects with severe renal impairment.
+
+ The objectives of this trial were to assess equivalence with respect to the efficacy of sugammadex in subjects with normal renal function or severe renal impairment, to evaluate the safety of sugammadex in these subject groups and to compare the pharmacokinetic profiles.
+
+.
+
+ Comparison of 4.
+
+0 mg/kg Sugammadex at 1-2 Post Tetanic Counts (PTC) in Renal or Control Patients (19.
+
+4.
+
+328)(P05769)@highlight
+
+The current trial was designed to investigate the effects of 4.
+
+0 mg.
+
+kg-1 of sugammadex on efficacy, safety and pharmacokinetics in subjects with severe renal impairment in comparison to subjects with normal renal function.
+

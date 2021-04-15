@@ -1,0 +1,21 @@
+(firstQuint)Use of MgSO4 for Pain After Bariatric Surgery.
+
+ The purpose of this study is to investigate the effect of magnesium sulfate on pain management for pain after sleeve gastrectomy operation.
+
+ Design: A prospective, randomized, controlled clinical study.
+
+ Setting: University hospital.
+
+ Participants: Eighty patients undergoing sleeve gastrectomy.
+
+ Measurements and Main Results: Visual analog scale for pain score, sedation score, mean arterial pressure, heart rate, and valid and invalid analgesic demand will record.
+
+ Serum magnesium levels will determined at preoperative evaluation, postanesthesia care unit admission and at 24 hours.
+
+ Side effects will also record.
+
+.
+
+ Use of MgSO4 for Pain After Bariatric Surgery@highlight
+
+The purpose of this study was to investigate the effect of magnesium sulfate on pain management for pain after sleeve gastrectomy operation

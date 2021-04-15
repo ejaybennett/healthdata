@@ -1,0 +1,22 @@
+(thirdQuint)Ex Vivo Effect of Surfactant Protein D on Pulmonary Cells in Patients With Asthma and Pilot Study to Assess Local Inflammation Induced by Segmental Allergen Challenge by Magnetic Resonance Imaging.
+
+ The effect of surfactant protein D under native and altered conditions will be investigated in immune cells that are derived from bronchoalveolar lavage in patients with allergic asthma following segmental allergen challenge.
+
+ The goal of this study is to elucidate the pro- versus anti-inflammatory function of SP-D molecules and to identify motifs of SP-D that have treatment potential in allergic asthma and to assess local inflammation induced by segmental allergen challenge by magnetic resonance imaging.
+
+ In addition to the patients with allergic asthma a subgroup of five healthy subjects will be included into the study to elucidate the specificity of the SP-D (surfactant protein-D) effect on the allergic inflammation in the invitro models.
+
+ The primary objective of this study is to isolate BAL cells for different invitro experiments and to assess local inflammation after segmental allergen challenge by MRI in response to the applied allergen dose.
+
+ Therefore, following a baseline BAL, allergen (2* individual dose, 1* one tenth of individual dose) and saline (1*) will be instilled into four different lung segments during a first bronchoscopy.
+
+ After 24 hours during a second bronchoscopy BAL will be collected in these challenged segments to harvest invaded cells for invitro experimentation.
+
+ In addition, bronchial biopsies and epithelial brushes will be taken to assess the degree of local inflammation in bronchial mucosa and to study the activation of airway epithelium following allergen challenge.
+
+.
+
+ Ex Vivo Effect of Surfactant Protein D on Pulmonary Cells in Patients With Asthma and Pilot Study to Assess Local Inflammation Induced by Segmental Allergen Challenge by Magnetic Resonance Imaging@highlight
+
+Ex vivo effect of fragments and modified forms of surfactant protein D on pulmonary immune cells derived from bronchoalveolar lavage after segmental allergen challenge in patients with asthma and pilot study to assess local inflammation induced by segmental allergen challenge by magnetic resonance imaging.
+

@@ -1,0 +1,22 @@
+(thirdQuint)Autologous Bone Marrow Mesenchymal Stem Cell Transplantation for Chronic Stroke.
+
+ For many stroke survivors, the best hope is a lengthy program of rehabilitation, followed by a life-long process of clinical support.
+
+ However, even with rehabilitation therapy, 50% to 95% of stroke survivors remain impaired.
+
+ There is thus a great need for new therapeutic developments for patients with disability after stroke, which is largely unexplored.
+
+ Regenerative cell-based therapies offer long-term hope for many patients with stroke, as stem cells might be possible for dead or injured neural cells to be replaced after acute stroke.
+
+ In this study, the investigators will assess the safety and feasibility of intracerebral transplantation of autologous bone marrow mesenchymal stem cells in patients with chronic stroke.
+
+ The neurological outcome will be determined after transplantation.
+
+.
+
+ Autologous Bone Marrow Mesenchymal Stem Cell Transplantation for Chronic Stroke@highlight
+
+Stroke is one of the leading causes of disability in the world, and stem cell - transplantation provides a promising approach for rehabilitation.
+
+ The main objective of this study is to evaluate the efficacy of the intracerebral injection of autologous bone marrow mesenchymal stem cells in patients with chronic stroke.
+

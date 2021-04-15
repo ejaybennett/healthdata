@@ -1,0 +1,16 @@
+(firstQuint)EMDR in the Treatment of Specific Phobia.
+
+.
+
+ Aims: To test the hypothesis that one session EMDR is more effective for the treatment of specific (animal) phobia than relaxation immediately after treatment and at follow-up.
+
+ Secondly to test whether an additional one-session exposure therapy offered to both treatment groups (EMDR patients and relaxation patients) improves outcome in the EMDR-group and results in equal outcome for both treatment groups.
+
+.
+
+ EMDR in the Treatment of Specific Phobia.
+
+@highlight
+
+The purpose for this study is to determine whether EMDR is effective in the treatment of specific (animal) phobia.
+

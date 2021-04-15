@@ -1,0 +1,26 @@
+(fifthQuint)Study of Nitazoxanide in Adults With Acute Uncomplicated Influenza.
+
+ The study is conducted at approximately 25 sites in the United States.
+
+ Subjects selected based on symptoms will be randomized to receive oral nitazoxanide or placebo twice daily for 5 days.
+
+ Subjects will be monitored by daily by telephone or home visit to monitor symptoms and complications of influenza for safety and will be referred for medical care as required.
+
+ Subjects will complete a diary twice daily to record the presence and severity of symptoms, ability to perform normal daily activities and time lost from work.
+
+ Complications of influenza (including sinusitis, otitis, bronchitis, pneumonia, central nervous system disease) and other adverse events will be reported.
+
+ Nasopharyngeal swabs will be collected at Baseline (Day 0) and Day 7 for all patients and on Days 1 through 4 for a subset of patients to test for influenza A (including novel H1N1), influenza B and 17 other respiratory viruses by RT-PCR and culture and to evaluate quantitative viral shedding.
+
+ The primary analysis will be for patients with confirmed influenza, and secondary analyses will be conducted for subjects with any respiratory virus and for all treated subjects.
+
+.
+
+ Study of Nitazoxanide in Adults With Acute Uncomplicated Influenza@highlight
+
+This is a randomized clinical trial designed to evaluate oral nitazoxanide compared to a placebo in the treatment of acute uncomplicated influenza in adults.
+
+ We hypothesize that treatment with nitazoxanide will reduce the duration of symptoms in patients with confirmed influenza infection.
+
+ Secondarily, we hypothesize that treatment with nitazoxanide will reduce the complications of influenza, severity of symptoms, time lost from work, time to return to normal daily activities, and viral shedding.
+

@@ -1,0 +1,18 @@
+(firstQuint)Quality of Life Measures After Single Access Vs Conventional Laparoscopic Cholecystectomy: Prospective Randomized Study.
+
+.
+
+ In a prospective study, two hundred fifty patients with symptomatic gall bladder stone were randomized to SALC or conventional laparoscopic cholecystectomy (CLC) (125 in each group).
+
+ The primary endpoint of this study was to assess the total outcomes of quality of life using EuroQoL EQ-5D questionnaire.
+
+ The secondary endpoints were postoperative pain, analgesia requirement and duration, operative time, perioperative complications, estimated blood loss, hospital stay, cosmoses outcomes and number of days required to return to normal activities.
+
+.
+
+ Quality of Life Measures After Single Access Vs Conventional Laparoscopic Cholecystectomy: Prospective Randomized Study.
+
+@highlight
+
+This study aimed to compare the short term outcomes between SALC and conventional laparoscopic cholecystectomy (CLC).
+

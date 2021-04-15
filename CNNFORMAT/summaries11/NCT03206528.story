@@ -1,0 +1,44 @@
+(secondQuint)Clinical Evaluation of the Vital Signs Monitoring System (VSMS).
+
+ This is an observational, cohort-based, single-site, prospective clinical study enrolling up to 100 patients who are hospitalized in the internal ward.
+
+ There is no control group.
+
+ The primary objectives of the study are: 1.
+
+ Evaluate the body temperature measured by the ear unit and validate its accuracy.
+
+ 2.
+
+ Evaluate the accuracy of SPO2 signals and results by comparing the readings to a gold standard device with a finger sensor.
+
+ 3.
+
+ Evaluate the ECG and respiration signals recorded by the patch device by comparing them to the signals recorded by a patient monitor with standard leads.
+
+ The secondary objectives of the study are: 4.
+
+ Usability - evaluate the ease of use of the device by medical staff and patients (e.
+
+g.
+
+, positioning, activation, replacement of patch, understanding processes and requirements).
+
+ 5.
+
+ Evaluate the signals quality and the patch adherence after 5 - 7 days on the chest.
+
+ The study will assess the safety and effectiveness of the Vital Signs Monitoring System (VSMS) for its intended use/proposed indications.
+
+ Data will be collected while the VSMS is adhered to each patient for the entire hospitalization period, up to 7 days.
+
+ There is no follow-up required.
+
+.
+
+ Clinical Evaluation of the Vital Signs Monitoring System (VSMS)@highlight
+
+This is an observational, cohort-based, single-site, prospective study conducted in accordance with ISO 14155-1:2003 and ISO 14155-1:2011.
+
+ The primary objectives are to evaluate the accuracy of the device's measurements/readings in comparison to a gold standard or standard of care patient monitor.
+

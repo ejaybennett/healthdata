@@ -1,0 +1,24 @@
+(secondQuint)Using the Drug Thalidomide to Stimulate T Cells in HIV-Infected People.
+
+ In patients with chronic HIV infection, HIV replication and abnormalities in immune function persist following treatment with highly active antiretroviral therapy (HAART).
+
+ Specifically, costimulatory T cell interactions are impaired.
+
+ The immune modulatory drug thalidomide was recently found to costimulate T cells.
+
+ Pharmacologic T cell costimulation may compensate for the T cell deficiencies in people with HIV disease and improve immune function.
+
+ This study will test whether thalidomide treatment enhances HIV and cytomegalovirus (CMV)-specific immunity in patients with HIV and CMV, and will evaluate the effect of thalidomide on HIV replication.
+
+ In this study, 40 HIV and CMV infected patients on HAART and 40 HIV uninfected CMV seropositive controls will be randomly assigned to low dose thalidomide or placebo treatment for 28 days.
+
+ T cell responses and HIV replication and genetic diversification will be assessed.
+
+.
+
+ Using the Drug Thalidomide to Stimulate T Cells in HIV-Infected People@highlight
+
+Despite treatment with anti-HIV drugs, people infected with HIV continue to have problems with their immune systems.
+
+ This study will evaluate whether the drug thalidomide, which stimulates the immune system's T cells, can improve immune system function in people with HIV.
+

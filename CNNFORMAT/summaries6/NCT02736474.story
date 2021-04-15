@@ -1,0 +1,14 @@
+(firstQuint)Naltrexone and Bupropion Combination on Obese,Smoking Patients With Schizophrenia.
+
+ This is a randomized, double-blind, and placebo-controlled study.
+
+ Subjects with evaluation and confirmation that inclusion and exclusion criteria are met, will be treated with naltrexone sustained release 15mg once per day and bupropion sustained release 150mg once per day in the first two weeks, and naltrexone 25mg once per day and bupropion 300mg once per day during the rest of the study.
+
+The purpose of this research is to observe the efficacy of Naltrexone and Bupropion on weight loss and smoking cessation compared to placebo.
+
+.
+
+ Naltrexone and Bupropion Combination on Obese,Smoking Patients With Schizophrenia@highlight
+
+The purpose of this research is to observe the efficacy of Naltrexone and Bupropion combination on weight loss and smoking cessation from baseline to week 24 compare to placebo.
+

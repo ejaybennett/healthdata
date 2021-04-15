@@ -1,0 +1,24 @@
+(firstQuint)Phase I Trial of Oral Metronomic Topotecan and Oral Pazopanib to Treat Recurrent/Persistent Gynecologic Tumors.
+
+ This is a Phase 1, dose-escalation study in female patients with recurrent or persistent gynecologic tumors.
+
+ The study will include a Screening Phase, a Treatment Phase and a Followup Phase.
+
+ In the Screening Phase the subject's eligibility for study participation will be determined; this phase can last up to 28 days.
+
+ The Treatment Phase will begin when the subject starts study treatment and will continue until the subject is removed from study treatment.
+
+ The Follow-up Phase will last for 30 days after the subject ends study treatment.
+
+ The study will be conducted at approximately 1 site.
+
+ Treatment cycle length is 28 days.
+
+ Radiologic imaging will be repeated after every 2 cycles of treatment.
+
+.
+
+ Phase I Trial of Oral Metronomic Topotecan and Oral Pazopanib to Treat Recurrent/Persistent Gynecologic Tumors@highlight
+
+This is a Phase 1, dose-escalation study in female patients with recurrent or persistent gynecologic tumors.
+

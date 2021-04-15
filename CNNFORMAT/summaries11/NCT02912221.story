@@ -1,0 +1,32 @@
+(thirdQuint)Stepping Up For Inflammatory Arthritis.
+
+ Rheumatoid arthritis (RA) and psoriatic arthritis (PsA) are chronic, systemic inflammatory disorders affecting 1-2% of the US population.
+
+ Ongoing chronic inflammation and lack of exercise due to arthritis are each associated with pain, fatigue, depression, muscle loss, obesity, and development of chronic diseases such as cardiovascular disease and diabetes, all of which impact physical functioning and quality of life.
+
+ Increases in physical activity can significantly impact each one of these outcomes and are likely to positively impact a patients experience of their disease.
+
+ This study will examine the benefits of a monitored physical activity program.
+
+ This study will use a wearable activity device (e.
+
+g.
+
+ fitbit) to monitor step counts and will incentivize one group to achieve higher step counts than the control group.
+
+ The primary goal of this pilot study will be to determine whether one incentive (loss aversion) is better than no incentive in increasing step counts and maintaining an increased level of physical activity.
+
+ Additional outcomes of interest are patient reported disease activity (using the RAPID3 patient reported outcome) and physician measured disease activity, quality of life assessments and weight loss.
+
+.
+
+ Stepping Up For Inflammatory Arthritis@highlight
+
+This study will examine the benefits of a monitored physical activity program for participants with rheumatoid arthritis (RA) or psoriatic arthritis (PsA) using a wearable activity device (e.
+
+g.
+
+fitbit).
+
+ The goals of this pilot study are to examine 1) whether an incentive is better than no incentive in maintaining an increased level of physical activity and 2) the benefits of physical activity on patient reported disease activity in inflammatory arthritis.
+

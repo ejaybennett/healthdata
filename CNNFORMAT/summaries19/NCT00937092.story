@@ -1,0 +1,18 @@
+(secondQuint)Dopamine in Acute Decompensated Heart Failure (DAD-HF) Trial.
+
+ Worsening renal function (WRF) and hypokalemia related to diuretic use for acute decompensated heart failure (ADHF) are common and portend poor prognosis.
+
+ Low dose dopamine infusion improves renal perfusion.
+
+ Whether dopamine infusion improves diuresis and/or reduces renal complication in ADHF is not known.
+
+ The aim of this study is to compare the effects of high-dose furosemide (HDF, 40 mg furosemide bolus IV, followed by continuous IV infusion of 20 mg/h for a total of 8 hours) vs.
+
+ low-dose furosemide combined with low-dose dopamine (LDFD, 40 mg furosemide bolus IV, followed by continuous IV infusion of 5 mg/h furosemide plus 51/2g/kg/min dopamine for a total of 8 hours) on diuresis, renal function, electrolyte balance, and 60-day post-discharge outcomes in patients hospitalized with ADHF.
+
+.
+
+ Dopamine in Acute Decompensated Heart Failure (DAD-HF) Trial@highlight
+
+The aim of this study is to compare the effects of high-dose furosemide versus low-dose furosemide combined with low-dose dopamine on diuresis, renal function, electrolyte balance, and 60-day post-discharge outcomes in patients hospitalized with acute decompensated heart failure.
+

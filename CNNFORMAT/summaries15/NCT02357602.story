@@ -1,0 +1,28 @@
+(thirdQuint)Dose Proportionality of TFV-DP After a Single Dose of GS-7340 in Women.
+
+ Participants: This study will consist of approximately 24 premenopausal healthy volunteer women between 18-49 years of age with an intact cervix, uterus, and gastrointestinal tract.
+
+ Women will be enrolled in the study within 42 days of screening depending on the timing of their menstrual cycle in comparison to the screening visit, and then will be on study for 14 days, with follow-up 1-14 days after the end of study sampling.
+
+ All study visits will be conducted in the North Carolina Translational and Clinical Sciences (NCTraCS) Clinical Translational Research Center (CTRC) at the University of North Carolina at Chapel Hill.
+
+ Procedures (methods):This is a Phase 1, single center, open-label, dose-ranging pharmacokinetic study of TFV and TFV-DP mucosal tissue concentrations measured after a single dose of GS-7340.
+
+ Each arm is divided into three dosing groups: 5, 10, or 25mg.
+
+ Participants will take a single dose of study drug within 7-14 days following the end of the subjects' menstrual period.
+
+ Participants will be sequentially assigned to one of the three TAF doses and four biopsy schedules.
+
+ Two women from each of the dosing groups will be assigned to one of four biopsy schedules for a total of 8 women per dosing group.
+
+ Samples of blood plasma, cervicovaginal fluid (CVF), cervical tissue, vaginal tissue, and rectal tissue will be collected from participants at varying time points over the 14 days post-dose.
+
+ Subjects will return to clinic within 14 days after the last sampling to complete a follow-up safety visit.
+
+.
+
+ Dose Proportionality of TFV-DP After a Single Dose of GS-7340 in Women@highlight
+
+Purpose: The purpose of this study is to characterize the dose-proportionality in the distribution of tenofovir alafenamide (TAF) and tenofovir (TFV) in plasma and mucosal tissues, and TFV-diphosphate (TFV-DP) in peripheral blood mononuclear cells (PBMCs) and mucosal tissues of healthy female subjects following a single oral dose of GS-7430 at 5mg, 10mg, and 25mg.
+

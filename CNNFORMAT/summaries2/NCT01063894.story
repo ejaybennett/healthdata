@@ -1,0 +1,14 @@
+(firstQuint)Effects of Breakfast on Cognitive Processes in Children.
+
+ Breakfast consumption has previously been shown to positively affect cognitive and academic performance in children.
+
+ Specifically, breakfast consumption has been reported to improve memory, attention, problem solving, and logical reasoning compared to the absence of breakfast.
+
+ This has been found under both short-term laboratory conditions and within a school environment in children from both a low and high socioeconomic background, although some studies have failed to find favorable effects.
+
+.
+
+ Effects of Breakfast on Cognitive Processes in Children@highlight
+
+The objective of this study is to test the effects of breakfast on cognitive processing ability in children.
+

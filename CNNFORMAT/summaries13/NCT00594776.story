@@ -1,0 +1,18 @@
+(firstQuint)Vascular CT Assessment of Structural Autograft and Allograft Healing.
+
+ The purpose of this study is to investigate quantitative vascular cone beam CT(CBCT) in a clinical pilot of patients that have received a structural allograft for bone cancer or a vascularized structural autograft for bone cancer or traumatic injury.
+
+ Development of a minimally invasive, longitudinal outcome measure to quantify intramedullary vascular volume and cortical bone volume of structural allografts in patients is required to translate "revitalizing" structural allograft in clinical trials.
+
+ Our novel vascular CBCT will be able to demonstrate the significant differences between vascularized fibular autografts vs.
+
+ structural allografts in patients that will undergo structural grafting.
+
+ These data will be used to devise a power calculation for a definitive clinical trial to evaluate the efficacy of the revitalizing allograft.
+
+.
+
+ Vascular CT Assessment of Structural Autograft and Allograft Healing@highlight
+
+The purpose of this study is to determine the ability of a cone beam CT to measure bone healing.
+

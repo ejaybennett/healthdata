@@ -1,0 +1,28 @@
+(fifthQuint)Trial of Different Dietary Fat Sources on Blood Lipids and Other CVD Risk Factors.
+
+ This is a randomized trial in which healthy volunteers from the general community are randomized into one of three arms: consumption of 50 gm of extra virgin coconut oil daily OR 50gm of butter daily OR 50gm of extra virgin olive oil daily (50gm is about 2 ounces, or 2 table spoons), to be consumed over a one month period.
+
+ The food will be provided in the form of processed cheese to mask participants.
+
+ After full informed consent, participants will attend an assessment visit and have a baseline measures of weight, height, waist circumference, blood pressure, a blood sample for assessment of blood lipids and other metabolic markers, and fill in a health questionnaire and dietary questionnaire.
+
+ Participants will be randomly allocated to one of three arms: coconut oil, butter or olive oil and will be given supplies of these After one month, participants will return for follow up assessment which will include a repeat blood sample, anthropometric measures and blood pressure, and questionnaire.
+
+ Blood samples collected by venipuncture will be stored at the University of Reading.
+
+ At the end of the study, all participants will be given the individual participant results of the anthropometric measures and lipid profiles at baseline and follow up as well as the overall findings of the trial.
+
+.
+
+ Trial of Different Dietary Fat Sources on Blood Lipids and Other CVD Risk Factors@highlight
+
+This is a randomised trial in which healthy volunteers, men and women aged 50-75 years from the general community are randomized into one of three arms: participants will be provided with 50 gm extra virgin coconut oil, or 50 grams butter or 50 extra virgin olive oil to be eaten daily for a month.
+
+ The food will be provided in the form of processed cheese to mask participants.
+
+ The key outcome is blood low density lipoprotein cholesterol concentrations and secondary outcomes blood lipid profile (total cholesterol, high density lipoprotein cholesterol, triglycerides) and anthropometric measures: weight and waist circumference.
+
+ This trial is powered to detect a difference of 0.
+
+5 mmol/L LDL-cholesterol difference between the trial arms.
+

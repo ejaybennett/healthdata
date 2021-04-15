@@ -1,0 +1,22 @@
+(fifthQuint)Botulinum Toxin Type A and Modified Constraint-Induced Movement Therapy for Poststroke Upper Extremity Spasticity.
+
+ Botulinum toxin type A (BtxA) injection and modified constraint-induced movement therapy (mCIMT)are both promising approaches to enhance recovery after stroke.
+
+ However, the combined application of the two modalities has rarely been studied.
+
+ To date, only a single case report addressed this issue.
+
+ Theoretically, application of a mCIMT program with intensive functional tasks practice after spasticity reduction by BtxA may improve affected upper extremity function in patients with poststroke spasticity.
+
+ The aim was to investigate whether combined BtxA and mCIMT would produce greater improvements in spasticity and upper extremity function than BtxA plus conventional rehabilitation in chronic stroke patients with upper extremity spasticity.
+
+.
+
+ Botulinum Toxin Type A and Modified Constraint-Induced Movement Therapy for Poststroke Upper Extremity Spasticity@highlight
+
+Botulinum toxin type A (BtxA) injection and modified constraint-induced movement therapy (mCIMT) are both promising approaches to enhance recovery after stroke.
+
+ However, the combined application of the two modalities has rarely been studied.
+
+ The aim was to investigate whether combined BtxA and mCIMT would produce greater improvements in spasticity and upper extremity function than BtxA plus conventional rehabilitation in chronic stroke patients with upper extremity spasticity.
+

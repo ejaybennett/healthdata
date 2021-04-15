@@ -1,0 +1,12 @@
+(thirdQuint)Ruxolitinib vs Allogeneic SCT for Patients With Myelofibrosis According to Donor Availability.
+
+ This study is a multicenter, prospective phase II-study compares efficacy of allogeneic SCT for patients with myelofibrosis who have a suitable stem cell donor after a 3 months Ruxolitinib induction therapy with patients who lack a suitable stem cell donor and will continue to receive Ruxolitinib.
+
+ In this study will further assess and compare the safety and efficacy of study treatments/ induction therapy in both study arms on spleen reduction, improvement of constitutional symptoms, QOL, toxicity, fibrosis regression, development of GvHD as well as chimerism, engraftment, relapse incidence, disease related mortality, outcome and overall survival.
+
+.
+
+ Ruxolitinib vs Allogeneic SCT for Patients With Myelofibrosis According to Donor Availability@highlight
+
+The present study will be a multicenter, prospective phase II-study comparing efficacy of allogeneic SCT for patients with myelofibrosis who have a suitable stem cell donor after a 3 months Ruxolitinib induction therapy with patients who lack a suitable stem cell donor and will continue to receive Ruxolitinib.
+

@@ -1,0 +1,22 @@
+(secondQuint)An Early Phase Clinical Trial to Evaluate the Feasibility of CEST MRI in Patients With Early Stage Breast Cancer.
+
+ Those involved in the treatment of patients with breast cancer have pioneered the field of personalized cancer therapy through the use of targeted therapies and their associated biomarkers.
+
+ Assays to quantify tumor acidosis and hypoxia are hypothesized to potentially represent such biomarkers.
+
+ However there is currently no gold standard for measuring either.
+
+ This trial will evaluate the feasibility of translating preclinical Chemical Exchange Saturation Transfer (CEST) MRI protocol designed to estimate tumor extracellular pH (pHe), to a clinical MRI scanner in women with early stage breast cancer.
+
+ This trial will generate preliminary data regarding the feasibility of this imaging technique.
+
+ If successful, in future studies CEST MRI may serve as an imaging biomarker for acidosis and hypoxia.
+
+.
+
+ An Early Phase Clinical Trial to Evaluate the Feasibility of CEST MRI in Patients With Early Stage Breast Cancer@highlight
+
+Evaluate the feasibility of translating preclinical Chemical Exchange Saturation Transfer (CEST) MRI protocol designed to estimate tumor extracellular pH (pHe) to a clinical MRI scanner in women with early stage breast cancer.
+
+ Assays are used to quantify tumor acidosis.
+

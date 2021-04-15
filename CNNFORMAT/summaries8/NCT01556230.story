@@ -1,0 +1,42 @@
+(fifthQuint)Prospective Study of Clinically Nonfunctioning Pituitary Adenomas.
+
+ PROTOCOL I: Prospective Study of the outcome of conservative non-surgical management of patients with asymptomatic, clinically non-functioning (CNF) pituitary lesions.
+
+ This protocol will evaluate prospectively the outcome of non-surgical management of clinically non-functioning pituitary lesions that do not appear to need surgery as their initial therapy.
+
+ The overall design consists of an initial baseline evaluation and then serial prospective follow up studies over time for up to 5 years of follow up.
+
+ The study will evaluate laboratory testing, clinical examinations, quality of life and neurocognitive function in these patients.
+
+ We will also collect data on visual fields and MRI studies of the pituitary tumor that are done prospectively as part of clinical care to evaluate these patients.
+
+ Data to be collected will include the prevalence of pituitary dysfunction at presentation, the safety of conservative non-surgical management of patients with asymptomatic, clinically nonfunctioning pituitary lesions with respect to the development of symptomatic tumor enlargement and pituitary dysfunction, the prevalence of the silent corticotroph tumor type that is characterized by elevated plasma levels of adrenocorticotropic hormone (ACTH) or its precursor, pro-opiomelanocortin (POMC), and if it is associated with an increased tumor recurrence rate and prospectively assess quality of life and neurocognitive function in patients with clinically non-functioning pituitary lesions treated without surgery.
+
+ PROTOCOL II : Prospective study of the outcome of patients with symptomatic, clinically non-functioning pituitary tumors who are treated with transsphenoidal surgery and in some cases also radiotherapy.
+
+ This protocol will evaluate prospectively the outcome of surgical management of asymptomatic clinically nonfunctioning pituitary lesions.
+
+ The overall design consists of an initial baseline evaluation and then serial prospective follow up studies over time with up to 5 years of follow up.
+
+ The study will evaluate laboratory testing, clinical examinations, quality of life and neurocognitive function in these patients.
+
+ We will also collect data on visual fields and MRI studies of the pituitary tumor that are done prospectively as part of clinical care to evaluate these patients.
+
+ Data to be collected will be analyzed to determine the safety of observation alone following surgery for patients who do not have a clinically significant tumor remnant, if the silent corticotroph tumor type is characterized by elevated plasma levels of ACTH or its precursor, POMC, and if it is associated with an increased tumor recurrence rate.
+
+ A group of patients who are planning RT will also be studied by these same procedures before and after RT in order to determine if the outcomes of patients who receive RT for treatment of tumor re-growth to that of those who do not receive RT with respect to further tumor growth, endocrine or neurological dysfunction.
+
+ We will also prospectively assess quality of life and neurocognitive function in patients with clinically non-functioning pituitary lesions treated with surgery alone or those who also receive radiotherapy.
+
+.
+
+ Prospective Study of Clinically Nonfunctioning Pituitary Adenomas@highlight
+
+This project is the first comprehensive prospective study of clinically non-functioning pituitary adenomas (CNFAs).
+
+ Two groups of subjects will be studied: Group I will consist of 100 patients with clinically non-functioning (CNF) pituitary lesions who are asymptomatic and do not require surgery; Group II will consist of 250 patients who have pituitary lesions that are symptomatic and require surgery.
+
+ Patients will be followed with a series of endocrine laboratory testing, physical examinations, testing of quality of life and neurocognitive function before and serially over time either during non-surgical management or after surgery and in some patients before and after radiotherapy (RT).
+
+ Data on pituitary magnetic resonance imaging (MRI) studies and visual field testing being done over time during follow up as part of clinical care will be collected.
+

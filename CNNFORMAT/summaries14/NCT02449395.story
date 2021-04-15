@@ -1,0 +1,18 @@
+(firstQuint)Cross-sectional Study of Fibromyalgia.
+
+ Patients fulfilling 1990 ACR criterion for fibromyalgia will be recruited in Fibromyalgia outpatient service which is belonged to the Department of Rheumatism.
+
+ Except collecting patients' demographic and social characteristic informations, rheumatologist also carry out a comprehensive evaluation including patient current history, current medication use, and tender point examination for a diagnosis or confirmation of fibromyalgia and treatment recommendations.
+
+ Patients with fibromyalgia will be asked to fill a set of questionnaires to evaluate their quality of life, symptoms severity, quality of sleep and emotion.
+
+ The study will be conducted in Beijing, China.
+
+.
+
+ Cross-sectional Study of Fibromyalgia@highlight
+
+This study is designed to collect data on precipitating factors, diagnosis, morbidity, therapy, quality of life, and symptom severity, etc.
+
+ informations in patients with fibromyalgia.
+

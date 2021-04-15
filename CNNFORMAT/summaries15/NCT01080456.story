@@ -1,0 +1,34 @@
+(thirdQuint)Bioequivalence Study of Tacrolimus 1 mg Capsule Under Fasting Condition.
+
+ Total 36 normal healthy adult male subjects will be enrolled in the study.
+
+ Subjects will be administered either the Test or the Reference Product with 240 mL of water in each period as per the randomization schedule.
+
+ Subjects will fast for at least 10 hours prior to dose administration and for at least 4 hours post dose.
+
+ Standardized meals will be provided in each study period.
+
+ Water will not be accessible to the subjects 1 hour Predose and 2 hours Post dose in each period.
+
+ A total of 23 blood samples will be withdrawn for pharmacokinetic profiling.
+
+ The whole blood concentrations of Tacrolimus will be measured by a validated LC/MS/MS analytical method.
+
+ Ratio analysis will be performed for untransformed and log transformed pharmacokinetic parameters Cmax, AUC0-72, AUC0 inf.
+
+ ANOVA will be performed on log transformed pharmacokinetic parameters Cmax, AUC0-72, AUC0-inf and 90% confidence interval will be constructed for the ratio of geometric least square mean of the Test and Reference products, obtained from the log-transformed data.
+
+ Bioequivalence will be concluded if the ratio estimate as well as its 90% confidence interval, both falls within the acceptable range of 80.
+
+00% to 125.
+
+00% for Cmax, AUC0-72 and AUC0-inf.
+
+.
+
+ Bioequivalence Study of Tacrolimus 1 mg Capsule Under Fasting Condition@highlight
+
+The objective of the study is to demonstrate bioequivalence between Test Product (A): Tacrolimus Capsules 1 mg, manufactured by Panacea Biotec Limited, India and the corresponding Reference Product (B): Prograf (Tacrolimus) Capsules 1 mg, manufactured by Astellas Pharma, Inc.
+
+, USA in 36 normal, healthy, adult, male subjects under fasting condition.
+

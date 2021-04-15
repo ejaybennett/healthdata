@@ -1,0 +1,28 @@
+(thirdQuint)Civamide Patch Safety, Tolerability and PK Study.
+
+ This is a double-blind, randomized study of the tolerability of two different strengths of a Civamide Patch compared to placebo patch.
+
+ The study consists of a Screening Period (Days -21 to Day 1), a one week Treatment Period (Days 1-8) and a follow-up telephone call to subjects on Day 10.
+
+ Pharmacokinetics will be assessed relative to dosing on Day 1, Day 2, and Day 8 in a subset of subjects.
+
+ Subjects will also rate stinging and burning sensation at the application site during the Treatment Period.
+
+ Twenty-four (24) hours after the last patch application, subjects will return to the study site on Day 8.
+
+ The treatment area will be evaluated by the Study Physician.
+
+ Subjects will complete a Subject's Global Rating of Stinging and Burning Sensation and a Subject's Global Rating of Tolerability.
+
+.
+
+ Civamide Patch Safety, Tolerability and PK Study@highlight
+
+To evaluate the tolerability of two different strengths of a Civamide Patch (0.
+
+0075% and 0.
+
+0150%) compared to the placebo patch and each other in healthy adult volunteers.
+
+ To assess the pharmacokinetics of civamide and to determine if there is systemic absorption of the drug from civamide patch in a subset of study subjects.
+

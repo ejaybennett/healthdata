@@ -1,0 +1,13 @@
+(firstQuint)A Novel Positron Emission Tomography (PET) Approach to Measuring Myocardial Metabolism.
+
+ A novel Positron Emission Tomography (PET) probe, 16- 18-F-fluoro-4-thiapalmitate, will be used to evaluate myocardial atty acid uptake.
+
+ Studies will be done in humans with type 2 diabetes mellitus, and in controls.
+
+ Studies will take place on 2 separate days, under fasting conditions and under insulin clamp conditions.
+
+.
+
+ A Novel Positron Emission Tomography (PET) Approach to Measuring Myocardial Metabolism@highlight
+
+Studies of myocardial fuel selection using a novel palmitate-based PET probe

@@ -1,0 +1,48 @@
+(fifthQuint)Assessing Mental Illness Recovery.
+
+ Mental health care in the United States and Western Europe is undergoing a seismic shift in values.
+
+ The paternalistic, medical model of care that has dominated practice for more than 75-years is being challenged by an activist group of consumer-survivors, with the support of public officials and an increasing number of professionals.
+
+ The centerpiece of this shift is the recovery model, which assumes that all consumers have the capacity to improve and develop a life distinct from their illness.
+
+ The consumer model of recovery involves a non-linear process in which the consumer gradually adapts to, and moves beyond the illness.
+
+ It emphasizes hope, empowerment, and control of one's life.
+
+ This model stands in contrast to scientific and clinical models, which view recovery as an outcome, primarily involving reduced symptoms and improved functional capacity.
+
+ The public health significance of the consumer perspective is underscored by the President's New Freedom Commission on Mental Health (2003), which enunciated two guiding principles for mental health services in the US: First, services and treatments must be consumer and family centered, geared to give consumers real and meaningful choices about treatment options and providers.
+
+ Second, care must focus on increasing consumers' ability to successfully cope with life's challenges, on facilitating recovery, and on building resilience, not just managing symptoms.
+
+ In response to the Commission report the VA has mandated a shift to a recovery model and committed a large amount of resources to implementing it throughout the system.
+
+ Despite this political and programmatic change, there is little scientific literature on the nature of recovery or the factors that contribute to it.
+
+ Systems change is being driven by social mandate and consensual agreement rather than empirical support.
+
+ It is essential that the consumer model of recovery be subjected to empirical study if it is to have a meaningful and lasting impact on systems and patterns of care.
+
+ It is also critical to evaluate the recovery-oriented systems of care that have been developed.
+
+ Two factors that have limited empirical study of the construct and treatment programs are: a) the absence of a scientifically grounded conceptual model of recovery, and b) the lack of a reliable and valid assessment instrument to measure recovery status.
+
+ The purpose of this project is to develop and evaluate a psychometrically sound assessment scale using Bandura's social cognitive theory as a conceptual model for the recovery construct.
+
+ The Specific Aims are: 1) to evaluate and refine the draft version of the Maryland Assessment of Recovery in Serious Mental Illness (MARS), 2) evaluate its test-retest reliability and validity, and 3) to examine recovery status and the relationship of recovery to hypothesized mediators and moderators over a 1-year retest interval.
+
+.
+
+ Assessing Mental Illness Recovery@highlight
+
+In 2003 the VA Undersecretary's Action Agenda mandated that mental health services throughout the system be transformed to a recovery model.
+
+ That mandate and many of the Workgroup recommendations have since been formalized in the Uniform Mental Health Services Package, which specifies a range of recovery-oriented services that must be available to veterans.
+
+ A key aspect of these policy mandates is the need to assess recovery status of veterans and to monitor their progress over time as a way to evaluate the effectiveness of recovery services.
+
+ However, there is no established instrument that is suitable for system-wide application.
+
+ The purpose of this project is to develop a reliable, valid and practical measure of recovery, and use the measure in a study to better understand recovery in individuals with serious mental illness.
+

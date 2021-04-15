@@ -1,0 +1,20 @@
+(firstQuint)Effect of High-Dose B-Complex Vitamins on the Symptoms of Schizophrenia.
+
+ Individuals with schizophrenia often experience disturbing residual symptoms, even with the best available current treatments.
+
+ Homocysteine, normally found in the body, can interfere with NMDA-glutamate receptor function, and this might be responsible for some of the symptoms of schizophrenia.
+
+ This double-blind protocol will have study participants who suffer from schizophrenia take either a high-dose combination of folate, B12 and pyridoxine (a combination that can lower homocysteine in the body) or placebo for three months.
+
+ Clinical measures (e.
+
+g.
+
+, PANSS, CGI) will be taken to determine whether those taking the vitamin combination experience clinical benefit.
+
+.
+
+ Effect of High-Dose B-Complex Vitamins on the Symptoms of Schizophrenia@highlight
+
+The purpose of this study is to determine whether individuals with schizophrenia who will take a high dose of the B-vitamins folate, B12 and pyridoxine, may experience improvement in their symptoms.
+

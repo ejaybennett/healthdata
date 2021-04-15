@@ -1,0 +1,14 @@
+(firstQuint)Effect of LASER Photobiomodulation Therapy on Chronic Pain and Opioid Weaning.
+
+ The primary objective of this study is to determine if treatment with LASER photobiomodulation therapy reduces pain and facilitates opioid pain medication (OPM) reduction (weaning).
+
+ The subject group includes patients with chronic pain who are undergoing OPM weaning and are candidates for LASER photobiomodulation therapy.
+
+ This is a prospective interventional study using a double-blind 4-period crossover design to assess the efficacy of HIGH POWER LASER photobiomodulation therapy compared to sham (LOW POWER LASER) therapy in reducing pain and improving compliance with OPM weaning.
+
+.
+
+ Effect of LASER Photobiomodulation Therapy on Chronic Pain and Opioid Weaning@highlight
+
+This study will examine the effect of LASER photobiomodulation therapy on pain and opioid pain medication weaning on patients who are undergoing opioid pain medication weaning.
+

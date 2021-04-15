@@ -1,0 +1,26 @@
+(thirdQuint)The Oxford Pain, Activity and Lifestyle (OPAL) Cohort Study.
+
+ The Oxford Pain, Activity and Lifestyle (OPAL) study is a large cohort study of community dwelling adults (n=4000) aged 65 years and over.
+
+ This cohort data will allow the investigators to describe the prevalence, severity, course and prognosis a range of musculoskeletal problems in older people.
+
+ The initial focus is to evaluate the impact of back pain on important health outcomes for older people (quality of life, mobility, falls and fractures).
+
+ In order to do this, the investigators will study people with and without back pain at the inception of the cohort.
+
+ The OPAL cohort will be followed for 5 years in the first instance and the investigators will study a range of factors hypothesised to moderate and mediate the effects of back and other musculoskeletal pain for example, co-morbidities.
+
+ The OPAL cohort will be sampled from older people registered with primary care practices.
+
+ The investigators aim to develop a prognostic tool using the cohort data that will help older people, GPs and other health professionals identify when LBP is a risk factor for disability, functional limitation and loss of mobility, and when LBP should be prioritised as a treatment target.
+
+.
+
+ The Oxford Pain, Activity and Lifestyle (OPAL) Cohort Study@highlight
+
+The OPAL study is about health outcomes in older adults.
+
+ The investigators are surveying 4,000 adults across England to see how health and physical activity change over time.
+
+ The information that is collected will help the investigators to understand how a person's health, including conditions such as back pain, affect their mobility as they age, and provide insight into improving the management of health in older adults.
+

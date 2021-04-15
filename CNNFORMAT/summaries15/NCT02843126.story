@@ -1,0 +1,14 @@
+(firstQuint)Combination of Trastuzumab and NK Immunotherapy for Recurrent Breast Cancer.
+
+ By enrolling patients who have breast cancer of Her-2 positive adapted to enrolled criteria, this study will document for the first time the safety and the short and long term efficacy of the combined therapy using Trastuzumab and NK cells.
+
+ The safety will be evaluated by statistics of adverse reactions.
+
+ The efficacy will be evaluated according to local relief degree, progress free survival (PFS) and overall survival (OS).
+
+.
+
+ Combination of Trastuzumab and NK Immunotherapy for Recurrent Breast Cancer@highlight
+
+The aim of this study is the safety and efficacy of Trastuzumab plus natural killer(NK) immunotherapy to recurrent breast cancer.
+

@@ -1,0 +1,42 @@
+(fifthQuint)Hematopoietic Stem Cell Transplantation for Treatment of Patients With Fanconi Anemia Lacking a Genotypically Identical Donor, Using Total Body Irradiation, Cyclophosphamide and Fludarabine.
+
+ Patients with this disease are born with it and have a fragility of the genes (chromosomes) in all the cells of the body.
+
+ The fragility of the chromosomes puts patients with FA at high risk for certain cancers.
+
+ Patients with FA are especially at risk of having diseases of the blood and marrow systems.
+
+ These include (1) aplastic anemia, a disease where there is a failure of the bone marrow to make blood cells and (2) myelodysplastic syndrome which is represented by a clone of cells of the marrow that becomes "malignant" and stops making adequate numbers of blood cells (it is also called preleukemia.
+
+) The progression of the myelodysplastic syndrome will lead to (3) acute leukemia.
+
+ If you have Fanconi anemia and suffer from aplastic anemia, myelodysplastic syndrome, or leukemia standard treatment with medications or chemotherapy alone is not likely to cure these problems.
+
+ An allogeneic blood or bone marrow (hematopoietic stem cell) transplant can be done to provide you with marrow or blood stem cells from a healthy donor that can develop a normal blood forming system.
+
+ An allogeneic stem cell transplant can cure the problems of the marrow and blood system.
+
+ It cannot cure the chromosome fragility of the whole body.
+
+ When allogeneic stem cell transplants have been done for the treatment of FA using stem cells from donors other than matched siblings, they have been associated with a high risk of rejection of the transplant and of a complication called graft-versus-host disease.
+
+ In order for the stem cells to grow and to kill leukemia cells, patients must receive chemotherapy and radiation therapy.
+
+ This preparation is called cytoreduction.
+
+ For patients with Fanconi anemia, the standard preparation for stem cell transplantation has been the use of total body irradiation (at a lower dose because of the high risk of side-effects) and a chemotherapy agent called cyclophosphamide (or Cytoxan) also at lower dose.
+
+ While this has worked well with transplants from matched siblings, it was not enough in transplants from unrelated or cord blood donors and led to a high risk of rejection.
+
+ In the last few years a medication called fludarabine was used successfully in transplants to give more immunosuppression and kill T-cells.
+
+ Fludarabine allowed transplants to be done with low risks of rejection, and probably as importantly little risks of added side-effects.
+
+ The addition of antithymocyte globulin to Total Body Irradiation, cyclophosphamide and fludarabine has made the chances of rejection very low.
+
+.
+
+ Hematopoietic Stem Cell Transplantation for Treatment of Patients With Fanconi Anemia Lacking a Genotypically Identical Donor, Using Total Body Irradiation, Cyclophosphamide and Fludarabine@highlight
+
+The purpose of this research study is to: (1) determine if the combination of low dose total body irradiation, low dose cyclophosphamide and the addition of fludarabine, and a serum to suppress the immune system can allow selected stem cells to take and grow; (2) determine if selected stem cells from the blood or marrow can take and not cause graft-versus-host disease (GvHD), and; (3) evaluate the side effects of the combination of low dose radiation and chemotherapy drugs used for these transplants.
+

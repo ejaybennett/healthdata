@@ -1,0 +1,20 @@
+(secondQuint)The Effect of Virtual Simulation Training in Mastoidectomy.
+
+ Traditional dissection training in temporal bone surgery is not evidence-based yet gold standard.
+
+ In the recent years the Visible Ear Simulator has been used as an introduction to mastoidectomy in the Danish temporal bone course curriculum before letting the participants move on to dissection training in order to maximize the yield from the dissection training.
+
+ Instructors have the impression that participants perform better in dissection after the simulator training session has been introduced.
+
+ Our pilot study suggests that participants perform better in the simulator compared to traditional dissection training.
+
+ This could be due to a reduction of the cognitive load in the virtual simulator.
+
+ These observations lead to the hypothesis that virtual simulation training of mastoidectomy provides an effect that improves performance in traditional dissection training.
+
+.
+
+ The Effect of Virtual Simulation Training in Mastoidectomy@highlight
+
+The purpose of this study is to investigate the effect of virtual simulation training on mastoidectomy dissection performance of otorhinolaryngology trainees, to explore performance assessment using a final-product analysis approach and to explore the role of cognitive load.
+

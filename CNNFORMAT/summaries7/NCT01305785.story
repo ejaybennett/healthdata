@@ -1,0 +1,32 @@
+(fifthQuint)AMIS Plus - National Registry of Acute Myocardial Infarction in Switzerland.
+
+ The AMIS Plus project has two main goals: 1.
+
+ To Maintain a Nationwide Registry - An ongoing nationwide registry (databank) of acute coronary syndromes - Description of the patient population with acute coronary syndromes - Description of characteristics of treatment and hospitalization - Description of outcomes 3- and 12-months after admission for ACS - Epidemiological studies, e.
+
+g.
+
+ definition of risk factors of patients with acute coronary syndromes, hospital mortality, time and cost-effective strategies as well as outcome measures 2.
+
+ Quality Control - Evaluation of compliance with guidelines for the medical care of acute coronary syndromes - Internal quality control through regular feedback and benchmarking Methods All Swiss hospitals admitting patients with acute coronary syndrome are eligible.
+
+ Data are collected on demographics, risk factors, symptoms, laboratory results, invasive therapy, complications and medication.
+
+ Since the start in January 1997, the method of data collection has continuously improved in order to suit the different needs and technological advancements of the participating hospitals.
+
+ Participants can either complete paper questionnaires and send them directly to the AMIS Plus Data Center at the Institute of Social and Preventive Medicine in Zurich where these questionnaires are then checked and entered online or they can enter data directly online (AMIS online questionnaire).
+
+ Data security has a high priority.
+
+ Participant identification (code for hospital and physician) and a password are required to access the data entry form and send data.
+
+.
+
+ AMIS Plus - National Registry of Acute Myocardial Infarction in Switzerland@highlight
+
+The AMIS Plus national registry collects and analyzes data on patients with acute myocardial infarction in Switzerland in the pre-admission, hospital and follow-up phases.
+
+ Emphasis is placed on the evaluation of risk factors, diagnostics, urgent therapy strategies and treatment of acute coronary syndrome.
+
+ The AMIS Plus data gathered are important for assessing guidelines, improving compliance with guidelines in clinical practice, investigating patient groups not extensively studied in large randomized trials, quality assurance as well as the continuous improvement of therapeutic strategies based on a large database.
+

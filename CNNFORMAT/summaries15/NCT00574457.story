@@ -1,0 +1,33 @@
+(thirdQuint)Improving Cardiovascular Risk Prediction Using Hand Held Carotid Ultrasonography Study.
+
+ Health care providers from five medical practices will complete a 2-day training program that teaches instrumentation, scanning, measurement, quality assurance, and interpretation.
+
+ They also will learn about CV risk assessment, intervention, and how to use an ultrasound-based CV risk stratification and treatment algorithm.
+
+ After certification, each site will recruit 70 patients from their practice (total N=350).
+
+ Subjects will complete their routine office visit and a pre-test survey designed to assess motivation and intention to change.
+
+ The physician's initial plan of action based on usual care will be recorded.
+
+ Next, the subject will have a standardized CV risk carotid ultrasound.
+
+ The physician will revise his/her treatment plan based on the scan results and an ultrasound-based risk assessment algorithm that includes CV risk factors and ultrasound data.
+
+ Evidence-based treatment recommendations for lifestyle changes and risk factor targets will be provided.
+
+ The physician's scan-based plan of action will be recorded.
+
+ The subject will be informed of the results and repeat the survey.
+
+ All images, interpretations, and recommendations will be reviewed by the UW AIRP.
+
+.
+
+ Improving Cardiovascular Risk Prediction Using Hand Held Carotid Ultrasonography Study@highlight
+
+1) Research questions: 1a.
+
+ Can non-sonographer health care professionals in a community medical office practice setting be trained to detect and evaluate subclinical atherosclerosis? 1b.
+
+ Can carotid ultrasound performed in community office practices improve physician use of evidence-based, risk-reducing interventions and patient motivation to adhere to therapeutic recommendations?

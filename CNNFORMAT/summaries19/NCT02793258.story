@@ -1,0 +1,22 @@
+(thirdQuint)Impact of tDCS on Emotional Processing in Major Depression.
+
+ Methods: 40 subjects with major depression (20 active treatment and 20 placebo) will receive ten 30-minutes sessions of active two milliamps or sham tDCS (anode over left dorsolateral prefrontal cortex and cathode over right dorsolateral prefrontal cortex), twice a day for 5 consecutive days.
+
+ Psychometric assessment of depression (MADRS,Beck Depression Inventory , CGI) and a neuropsychological assessment will be conducted before and after the treatment.
+
+ A facial emotion recognition task and an attentional emotional task with measurement of eye-tracking, heart rate, respiratory frequency and skin conductance will be conducted before and after the first session, and after the last session.
+
+ The investigators hypothesize that active tDCS will improve emotional processing in major depression, and that this will be observed after 1 and 10 sessions of tDCS.
+
+ Conclusions: Studying the impact of transcranial direct current stimulation on emotional processing in major depression could allow to better understand its antidepressant mechanisms.
+
+ Impact of tDCS on Emotional Processing in Major Depression@highlight
+
+Background: transcranial direct current stimulation (tDCS) is an innovative treatment for major depression.
+
+ However, its mechanisms of action are still unclear.
+
+ Major depression is characterized by impaired processing of emotional information, which returns back to normal after successful antidepressant treatment.
+
+ In this randomized double-blind study, the investigators aim to assess the effect of tDCS on emotional processing in major depression.
+

@@ -1,0 +1,20 @@
+(firstQuint)Empowerment Intervention for Persons With Young Onset Dementia.
+
+ This study focuses on the evaluation of an empowerment intervention developed for persons with young onset dementia and their informal caregivers.
+
+ The empowerment intervention focuses on current capacities, maintenance of autonomy, and increasing the opportunities to feel useful.
+
+ This pragmatic cluster randomized controlled trial aims to investigate (1) the effectiveness of the intervention concerning participants' well-being, quality of life, and behavioral issues, (2) the effect of the intervention on the informal caregivers' sense of competence and perceived distress, and (3) the impact of the intervention on healthcare costs.
+
+ Furthermore, the investigators aim to study the feasibility of the intervention to frame an implementation strategy.
+
+ Participants in the intervention group will receive the intervention for 5 months.
+
+ Participants of the control group receive care as usual.
+
+.
+
+ Empowerment Intervention for Persons With Young Onset Dementia@highlight
+
+The purpose of this study is to evaluate the effects of an empowerment intervention for community-dwelling persons with young onset dementia and their informal caregivers.
+

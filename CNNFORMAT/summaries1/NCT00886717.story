@@ -1,0 +1,32 @@
+(fifthQuint)Paclitaxel-Loaded Polymeric Micelle and Carboplatin as First-Line Therapy in Treating Patients With Advanced Ovarian Cancer.
+
+ OBJECTIVES: Primary - Determine the maximum tolerated dose and recommended phase II dose of paclitaxel-loaded polymeric micelle and carboplatin as first-line therapy in patients with advanced ovarian cancer.
+
+ (Phase I) - Evaluate the efficacy of this regimen, in terms of CA-125 response rate after 6 courses of therapy.
+
+ (Phase II) Secondary - Assess, preliminarily, the antitumor activity of this regimen, in terms of objective response rate (complete response and partial response), time to tumor progression, and progression-free survival, in these patients.
+
+ (Phase I) - Evaluate the safety profiles of this regimen in these patients.
+
+ (Phase I) - Determine the objective response rate, as measured by RECIST criteria, in patients treated with this regimen.
+
+ (Phase II) - Determine the overall survival of patients treated with this regimen.
+
+ (Phase II) - Determine the overall response in patients treated with this regimen.
+
+ (Phase II) - Evaluate the safety and toxicity of this regimen in these patients.
+
+ (Phase II) OUTLINE: This is a multicenter study.
+
+ Patients receive paclitaxel-loaded polymeric micelle and carboplatin.
+
+.
+
+ Paclitaxel-Loaded Polymeric Micelle and Carboplatin as First-Line Therapy in Treating Patients With Advanced Ovarian Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as paclitaxel-loaded polymeric micelle and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Giving more than one drug (combination chemotherapy) may kill more tumor cells.
+
+ PURPOSE: This phase I/II trial is studying the side effects and best dose of paclitaxel-loaded polymeric micelle and carboplatin and to see how well they work as first-line therapy in treating patients with advanced ovarian cancer.
+

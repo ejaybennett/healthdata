@@ -1,0 +1,24 @@
+(firstQuint)Linkage of Transgender Individuals to PrEP.
+
+ Up to 500 self-identified transgender / gender non-conforming persons seeking daily Pre-Exposure Prophylaxis (PrEP) for the prevention of HIV will be enrolled into this study.
+
+ Each participant will be followed up to 28 weeks after enrollment.
+
+ The primary endpoint, successful linkage to a PrEP evaluation visit, will be measured after 30 days of enrollment.
+
+ Participants expressing interest in PrEP will be referred to the regional transgender PrEP outreach work (T-POWr) via phone call.
+
+ Enrolled participants will be randomized (1:1) to either SOC PrEP linkage vs T-POWr facilitated PrEP linkage.
+
+ Participants randomized into the SOC Arm will receive an HIV risk assessment, PrEP education, and an appointment for a linkage visit.
+
+ Participants randomized into the T-POWr arm will receive SOC and a thorough client-centered case management evaluation that will assess needs including access to health insurance, general health care, assessment of current hormone administration, housing, mental health care, domestic violence care, substance use treatment, and other services.
+
+ Participants will be contacted at Week 4 to verify linkage, and at Weeks 16 and 28 to assess PrEP and HIV status, and access to referred services.
+
+.
+
+ Linkage of Transgender Individuals to PrEP@highlight
+
+CCTG 602 is a multisite demonstration project to evaluate the effectiveness of facilitated linkage to PrEP using a community-based transgender PrEP outreach worker (T-POWr) versus standard of care (SOC).
+

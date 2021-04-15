@@ -1,0 +1,48 @@
+(fifthQuint)Long-term Lung Function and Disease Progression in Children With Early Onset Primary Ciliary Dyskinesia Lung Disease.
+
+ PCD, or Kartagener syndrome, is a genetic disorder that causes hair-like cells called cilia to move improperly, or in some cases, not at all.
+
+ Cilia are needed to help clear the respiratory system of pollutants.
+
+ When they work properly, they move debris-filled mucus into the large airways, allowing the debris to be coughed out of the body.
+
+ When the cilia do not work properly, the body cannot rid itself of debris and is left vulnerable to serious infections in the sinuses, ears, and lungs.
+
+ Over time, repeated infections can lead to scarring and permanent obstruction of these body areas.
+
+ This study will determine when PCD starts and how it changes over time, specifically in terms of how well the lungs work, what germs grow in lung secretions, and how the lungs look on CT scans.
+
+ This research may lead to a better understanding of PCD and thereby help doctors improve clinical management of the disease.
+
+ Children in this study will attend six study visits over 5 years.
+
+ At the first visit, parents will review their child's medical and cough history with doctors.
+
+ Also at this visit, children will undergo a physical exam that will include measures of temperature, blood pressure, heart rate, respiration rate, and oxygen saturation level.
+
+ Additional procedures will include collection of a respiratory mucus sample or a throat culture, measurement of nasal nitric oxide, collection of blood and urine for specimen banking, a CT scan, and lung function testing.
+
+ Children younger than 3 years of age will undergo the scan and lung function test under sedation.
+
+ Children older than 3 years of age will not receive sedation.
+
+ CT scans will be performed at the initial visit and during the visits 3 and 5 for children older than 3.
+
+ For children younger than 3 years, chest CT scans will be performed at the initial visit and during visits 4 and 6.
+
+ Lung function tests and blood and urine collection may be repeated at some of the remaining yearly visits.
+
+ Between yearly visits, parents will track on a calendar their children's use of oral, inhaled, and intravenous antibiotics.
+
+.
+
+ Long-term Lung Function and Disease Progression in Children With Early Onset Primary Ciliary Dyskinesia Lung Disease@highlight
+
+Primary ciliary dyskinesia (PCD), also known as Kartagener syndrome, is a genetic disorder of the cilia, which are microscopic hair-like cells.
+
+ Cilia work to keep the respiratory system clean by moving mucus that contains debris to the large airways, where it can be coughed out.
+
+ People with PCD have cilia that do not move properly and therefore are not effective in cleaning the respiratory system.
+
+ This study will determine when PCD starts and how it changes over time, specifically in terms of how well the lungs work, what germs grow in lung secretions, and how the lungs look on computed tomography (CT) scans.
+

@@ -1,0 +1,44 @@
+(fifthQuint)The Effect of Alendronate on the Immune Response to Hepatitis B Vaccine in Healthy Adults.
+
+ Background: Immunization is one of the most beneficial and cost-effective disease prevention measures available, but is not always efficacious, especially in older and immunosuppressed populations.
+
+ This commonly encountered failure to produce protective antibodies following immunization leaves large parts of the population vulnerable to serious morbidity and mortality resulting from potentially preventable communicable diseases.
+
+ Bisphosphonates, a commonly prescribed treatment for osteoporosis that is well tolerated with few adverse effects, has recently been shown to enhance B cell expansion and antibody production after vaccination in mice, and may represent a new vaccine adjuvant.
+
+ Aims: The purpose of this project is to evaluate the effect of bisphosphonates on the immune response to vaccination in adults using two complementary research methodologies: 1.
+
+ Evaluating the effect of bisphosphonates on quantitative humoral immune response to hepatitis B vaccine in healthy older volunteers through a randomized clinical trial.
+
+ 2.
+
+ Evaluating the effect of bisphosphonate treatment on protection against influenza and influenza-like illness after seasonal Influenza immunization in the adult population through a population-level retrospective analysis.
+
+ Methods: The first part of the study consists of a randomized, placebo-controlled pilot study in which 20 healthy adults 40-70 years of age who are seronegative for Hepatitis B, will be randomized to receive either two doses of intramuscular hepatitis B vaccine with alendronate or hepatitis B vaccine with placebo.
+
+ The primary outcome evaluated will be quantitative anti-HB surface IgG antibody titers in the study group compared to the placebo group at week 8 and at 6 months.
+
+ The second part of the study is a retrospective population based case-control study utilizing extensive available data repositories.
+
+ Rates of influenza, influenza-like illness and lower respiratory tract infections per 1000 subjects will be ascertained and compared between study and control populations for each year, while adjusting for potential confounders.
+
+.
+
+ The Effect of Alendronate on the Immune Response to Hepatitis B Vaccine in Healthy Adults@highlight
+
+Vaccines are one of our most effective public health tools but many who need them don't respond well and are not protected.
+
+ Adjuvants boost immune responses and are commonly included in vaccine preparations.
+
+ Bisphosphonates are the most commonly prescribed treatment for osteoporosis and may represent a new class of adjuvant.
+
+ Bisphosphonates are well tolerated with chronic administration and have very few adverse effects.
+
+ Research suggests that these medications can stimulate the immune system.
+
+ Bisphosphonates are of special interest in populations with impaired immunity and an inability to amount protective antibody responses following immunizations.
+
+ We propose a pilot study to evaluate the clinical relevance of this finding in humans.
+
+ We will study the effect of bisphosphonates on quantitative humoral immune response to hepatitis B vaccine in healthy older volunteers who have not previously received this vaccine.
+

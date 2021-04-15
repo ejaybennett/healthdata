@@ -1,0 +1,28 @@
+(thirdQuint)Study of ADCT-301 in Patients With Relapsed or Refractory Hodgkin and Non-Hodgkin Lymphoma.
+
+ This is a Phase I, first in human clinical study with ADCT-301 to evaluate the safety and tolerability and pharmacokinetics of ADCT-301 in patients with relapsed/refractory lymphoma.
+
+ ADCT-301 is a human monoclonal antibody attached via a cleavable linker to a pyrrolobenzodiazepine (PBD) warhead which, when internalized by antigen expressing cells, covalently cross links deoxyribonucleic acid (DNA) preventing replication.
+
+ The study will be conducted in 2 parts: In part 1 (dose escalation) up to 80 patients will receive an infusion of ADCT-301 on Day 1, every 3 weeks.
+
+ Dose escalation will continue until the maximum tolerated dose (MTD) is determined.
+
+ In Part 2 (expansion) up to 60 patients will be assigned to receive the recommended dose(s) of ADCT-301 as determined by a Dose Escalation Steering Committee.
+
+ For each patient, the study will include a screening period (up to 28 days), a treatment period, and a follow-up period to assess disease progression and survival for up to 12 months after the last dose of study drug.
+
+ The total study duration will be dependent on overall patient tolerability to the study drug and response to treatment.
+
+ It is anticipated that the entire study (Parts 1 and 2) could last approximately 3 years from first patient treated to last patient completed.
+
+.
+
+ Study of ADCT-301 in Patients With Relapsed or Refractory Hodgkin and Non-Hodgkin Lymphoma@highlight
+
+This study evaluates ADCT-301 in patients with relapsed/refractory Non-Hodgkin or Hodgkin lymphoma.
+
+ Patients will participate in a dose-escalation phase (Part 1) and receive escalating doses of ADCT-301 every 3 weeks.
+
+ In Part 2 of the study, patients will receive a recommended dose(s) of ADCT-301 every 3 weeks.
+

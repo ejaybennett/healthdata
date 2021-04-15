@@ -1,0 +1,90 @@
+(fifthQuint)Study to Monitor Patients With Pacemakers or ICDs Who Undergo MRI Scans.
+
+ General Approach: This study is a prospective, non-randomized, unblinded case series of patients with permanent pacemakers or implantable cardioverter-defibrillators (ICDs) undergoing medically-required MRI scanning, followed for a 12 month period.
+
+ MRI scanning will be performed using accepted, standard protocols using FDA-approved equipment.
+
+ Methods and Materials: Patients will be enrolled over a 60-month period by the Principal Investigator (PI) and/or Sub-Investigator (Sub-I), at the Regional Heart Center, located at St.
+
+ Mary's Medical Center, Essentia Health, Duluth, MN, during evaluations for medically-required MRI scanning.
+
+ Eligible patients includes any person with a permanent pacemaker or ICD implanted for at least 6 weeks, referred for a medically-required MRI scan by a physician not participating in the trial.
+
+ ICD generators must have been market released after 2001.
+
+ Both pacemaker dependent and non-dependent patients are eligible.
+
+ The primary endpoint is any change greater than 1 V at a pulse width of 0.
+
+5 ms in a pacemaker or ICD lead at any time within 12 months of the MRI scan.
+
+ On the day of the MRI scan, the pacemaker or ICD will be interrogated and programmed per usual practice at Essentia Health for patients undergoing an MRI scan with device in place.
+
+ Three separate baseline capture threshold measurements (V) will be obtained at a fixed pulse width of 0.
+
+5 msec.
+
+ Three separate baseline measurements will also be made of lead pacing impedances (Ohms) and sensed P- or R-waves (mV) using programmer default methods.
+
+ Histograms will be cleared.
+
+ Leads will be programmed to bipolar modality.
+
+ If the patient is not device dependent, the device will be programmed to ODO/OVO/OAO mode (monitor only) if available, otherwise it will be reprogrammed to DDI or VVI mode with a lower rate of 40 bpm with pacing outputs programmed to subthreshold levels in all leads.
+
+ If the participant is device dependent, the device will be programmed to an asynchronous pacing modality (DOO/VOO) with maximum pacing output.
+
+ If the patient has an ICD, therapies will be disabled.
+
+ The attending investigator may alter the pacing modality during the course of the scan if he or she deems it necessary to maximize patient safety or comfort.
+
+ Rate responsiveness, any rate enhancements including Ventricular Rate Regulation mode, and magnet mode will be turned off.
+
+ During MRI scanning, resuscitation equipment will be available.
+
+ If the participant is pacemaker dependent, the study PI or sub-I must be in the MRI suite during the scan.
+
+ If the participant is not pacemaker dependent, then a pacemaker nurse will be in the MRI suite to perform pre- and post-checks, and an electrophysiologist will be available in the building for questions and troubleshooting.
+
+ Patients will be asked to report all symptoms including: palpitations; pain; heat or warmth sensation; device movement; or light-headedness.
+
+ Scans will be performed using usual protocols with standard peak Specific Absorption Rate (SAR) limitations for the scan.
+
+ The MRI scans will be evaluated for any artifact created by the pacemaker system.
+
+ During the scan, continuous electrocardiographic and pulse oxymetry with waveform monitoring will be performed using usual protocols.
+
+ Following the scan, repeat thresholds will be performed for each lead and histograms will be obtained.
+
+ Three separate capture threshold measurements (V) will be obtained immediately after the patient leaves the scanner room at a fixed pulse width of 0.
+
+5 msec.
+
+ Three separate measurements will also be made immediately following the scan of the lead pacing impedances (Ohms) and sensed P- or R-waves (mV) using programmer default methods.
+
+ Participants who are pacemaker dependent will undergo a one-hour post-scan check using the same threshold protocol.
+
+ These one-hour post scan measurements will be performed either in the pacemaker clinic if the patient is an outpatient or in the hospital if the patient is an inpatient.
+
+ Any stored events detected on the device as electromagnetic interference (EMI) artifact during the scan may be retrieved and stored to diskette for later analysis.
+
+ The pacemaker or ICD will be reprogrammed to original settings prior to discharge from the MRI suite unless the attending investigator deems it necessary to alter device setting to maximize patient safety or comfort.
+
+ If the patient has an ICD, the capacitor will be reformed and charge time noted prior to dismissal from the MRI suite.
+
+ Patients will be followed up in the pacemaker clinic at 3 and 12 months from the MRI scan using usual clinic protocols for device follow-up.
+
+ If a patient undergoes a second MRI scan, the follow-up schedule will be set based upon the most recent MRI scan.
+
+.
+
+ Study to Monitor Patients With Pacemakers or ICDs Who Undergo MRI Scans@highlight
+
+This study is a prospective, non-randomized, unblinded case series of patients with permanent pacemakers and implantable cardioverter-defibrillators undergoing medically-required magnetic resonance imaging (MRI) scanning, at St.
+
+ Mary's Medical Center, Essentia Health.
+
+ Patients will be enrolled over a 60-month period and followed for 12 months, with data collected to evaluate the study's primary endpoint, change in pacing thresholds over time, as well as a series of secondary endpoints, including: adverse events, symptoms, need to make pacemaker programming changes, and possible artifacts created by the pacemaker systems on the MRI scans.
+
+ This study will allow for carefully monitoring of the safety MRI scanning in this population and improve practice models and protocols in the future.
+

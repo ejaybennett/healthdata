@@ -1,0 +1,22 @@
+(secondQuint)A Study to Evaluate the Absolute Bioavailability of Intranasal and Oral Esketamine and the Effects of Clarithromycin on the Pharmacokinetics of Intranasal Esketamine in Healthy Participants.
+
+ This is a single-center, 4-period, fixed-sequence, open-label study.
+
+ The study consists of Screening Period (Days -21 to -2), Open-label Treatment Period 1, 2, 3, 4 and End of Study (9 to 13 days after final dose or at Early Withdrawal).
+
+ The total duration of study will be up to 98 days.
+
+ For all 4 periods, the participants will be admitted into the study center on Day -1 of each treatment period and receive a 28 milligram (mg) (intravenous) or 84 mg (oral and intranasal) esketamine dose regimen on Day 1 of each period in a fixed sequence.
+
+ Participants will also receive 500 mg of clarithromycin in period 4.
+
+ Blood samples will be collected to evaluate the pharmacokinetic parameters.
+
+ Participants' safety will be monitored throughout the study.
+
+.
+
+ A Study to Evaluate the Absolute Bioavailability of Intranasal and Oral Esketamine and the Effects of Clarithromycin on the Pharmacokinetics of Intranasal Esketamine in Healthy Participants@highlight
+
+The purpose of this study is to evaluate the safety, tolerability and pharmacokinetics of esketamine administered by the intranasal (administered through the nose) and oral routes and to evaluate the effects of clarithromycin on the pharmacokinetics of intranasally administered esketamine.
+

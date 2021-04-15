@@ -1,0 +1,18 @@
+(firstQuint)Feasibility and Preliminary Efficacy of Hatha Yoga in Head and Neck Cancer Survivors.
+
+ The use of aggressive treatment for head and neck cancer (HNC) particularly combined modality treatment regimens has resulted in an increase in survival.
+
+ Unfortunately, this improvement has come with a marked increase in acute and late-effects.
+
+ Acute HNC treatment-related toxicities have been clearly and extensively documented; however, data pertaining to adverse late-effects, those most likely to impact the survivor's long term symptom burden, functionality, and overall quality of life (QOL), are limited.
+
+ This pilot study will be conducted to examine the feasibility of tailored Hatha Yoga as a therapeutic modality to address MSI in patients who have survived HNC.
+
+.
+
+ Feasibility and Preliminary Efficacy of Hatha Yoga in Head and Neck Cancer Survivors@highlight
+
+Treatment for head and neck cancer can result in marked musculo-skeletal impairment (MSI).
+
+ This study will examine the effects of Hatha Yoga as a therapeutic modality to address MSI.
+

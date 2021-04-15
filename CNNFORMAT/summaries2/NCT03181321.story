@@ -1,0 +1,18 @@
+(firstQuint)The First Twenty for Volunteer Firefighters.
+
+ A national sample of volunteer fire departments will be recruited for a 6 month, CRCT with a cross-over treatment design to determine the efficacy of The First Twenty (TF20), a wellness program focused on nutrition and fitness for firefighters.
+
+ Modifications to the existing TF20 will be made to enhance the health coaching features and include tools for program evaluation.
+
+ Study outcomes (changes in weight, BMI, body fat percentage, waist circumference, dietary intakes, blood pressure, and fitness activities) will be assessed pre- and post-intervention.
+
+ This will be the first internet-based, occupationally tailored health and wellness program implemented for the volunteer fire service.
+
+ TF20 will be an essential cost effective tool to address the epidemic of unhealthy body composition, nutrition and fitness among firefighters.
+
+.
+
+ The First Twenty for Volunteer Firefighters@highlight
+
+The purpose of this study is to assess the efficacy of an internet-based firefighter health and wellness program for volunteer fire departments.
+

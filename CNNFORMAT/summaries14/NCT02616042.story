@@ -1,0 +1,30 @@
+(thirdQuint)The Effect of New Dentifrices Containing Centella Asiatica and Bamboo Salt on Reducing Plaque and Gingivitis.
+
+ With growing interest in plant-based products among researchers, many toothpastes with various herbal extracts have been introduced over the past few decades,Centella asiatica (CA), a small herb broadly cultivated in China, Southeast Asia, India and Oceanic countries, has long been used for therapeutic purposes since ancient times.
+
+CA has been reported to be useful in the treatment of skin diseases wound repair and healing of burn.
+
+ In dentistry, few studies have explored the efficacy of CA.
+
+ In one study, CA was demonstrated to be an effective supportive agent following periodontal treatment, resulting in reduced plaque and gingivitis.
+
+ In spite of such wound healing properties of CA, its usage in dental field has been limited.
+
+ Bamboo salt (BS) is a Korean folk remedy consisting of sea salt roasted in bamboo which has long been used for therapeutic purposes in Korea.
+
+ Toothpastes containing BS has been sold in Korea for some decades.
+
+ Some in vitro studies and animal studies using rats demonstrated anti-inflammatory effects of BS.
+
+ Nevertheless, no human study has yet evaluated the effect of BS on periodontal health.
+
+ Therefore, the new dentifrice containing CA and BS was developed.
+
+.
+
+ The Effect of New Dentifrices Containing Centella Asiatica and Bamboo Salt on Reducing Plaque and Gingivitis@highlight
+
+This study aims to evaluate the effect of dentifrice formulations containing Centella asiatica and bamboo salt on gingivitis and dental plaque.
+
+ Participants uses dentifrice which contains Centella asiatica and bamboo salt and the same participants will also use placebo for tooth brushing by cross-over design.
+

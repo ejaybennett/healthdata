@@ -1,0 +1,30 @@
+(firstQuint)Fibrocytes in Rheumatoid Arthritis, Asthma and Interstitial Lung-disease.
+
+.
+
+ Objectives: 1) To demonstrate that circulating CD45+ CD34+ CD11b+ cells can express Procollagen 1 and thereby show that these markers can be used to identify circulating fibrocytes.
+
+ 2) To measure the levels of circulating CD45+, CD34+, CD11b+ cells in patients with RA, Fibrotic ILDs, severe asthma and in healthy controls (HC).
+
+ 3) To compare the levels with number of peripheral blood mononuclear cells (PBMC) that differentiate to mature fibrocytes in vitro.
+
+ Method: The CD45+, CD34+, CD11b+ cells from 4 patients were isolated by cell sorting, and stained for Procollagen.
+
+ 30 patients (10 of each RA, fibrotic ILDs: IPF or non-specific interstitial pneumonitis (NSIP), severe asthma) and 10 HC were included.
+
+ Current medication, disease activity, lung function and radiographic data were collected.
+
+ In 100 mu L of lysed blood cells were enumerated by flowcytometry.
+
+ Further, PBMC were isolated and cultured for 5 days.
+
+ Coverslips from two wells were stained and mature fibrocytes counted and reported as fibrocytes per 106 PBMC originally added to the well.
+
+.
+
+ Fibrocytes in Rheumatoid Arthritis, Asthma and Interstitial Lung-disease.
+
+@highlight
+
+To study Fibrocytes in patients with Rheumatoid Arthritis, Interstitial lung disease and severe asthma and healthy controls.
+

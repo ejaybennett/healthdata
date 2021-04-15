@@ -1,0 +1,16 @@
+(firstQuint)Managing Chronic Kidney Disease in Eastern North Carolina.
+
+ The Division of Nephrology within the Brody School of Medicine recently form a center to focus attention on the needs of patients with kidney disease in eastern North Carolina.
+
+ It is estimated that more than 40 million Americans have or at risk for CKD.
+
+ The estimate for CKD in eastern North Carolina is exacerbated by poor access to health care.
+
+ The mission of the East Carolina University Center for the Study and Treatment of Kidney Disease (ECCKD) is to increase education and awareness, improve treatment and outcomes through research, and better serve patients with CKD in eastern North Carolina.
+
+.
+
+ Managing Chronic Kidney Disease in Eastern North Carolina@highlight
+
+The purpose of this program is to educate primary care physicians in four underserved clinics in eastern North Carolina about chronic kidney disease.
+

@@ -1,0 +1,16 @@
+(firstQuint)Safety of the PET-512MC Transesophageal Transducer.
+
+ The PET-512MC is a multiplane transesophageal transducer designed for use with Toshiba Diagnostic Ultrasound Systems for the visualization of the heart (and other organs) as a real-time ultrasound image.
+
+ It is inserted into the esophagus through the mouth to visualize a plane of the heart through the esophageal wall.
+
+ The purpose of this Study is to demonstrate the safety of the PET-512MC TEE transducer and gather feedback from the investigators related to the insertion of the transducer.
+
+ The data will be used to determine the usability of the transducer in the clinical environment.
+
+.
+
+ Safety of the PET-512MC Transesophageal Transducer@highlight
+
+The objective of this Study is to demonstrate the safety of the PET-512MC TEE transducer as it is inserted and transitioned into the esophagus through the mouth.
+

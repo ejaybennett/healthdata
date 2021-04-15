@@ -1,0 +1,24 @@
+(thirdQuint)Pneumatic Medicine: A Transformative Treatment for Diabetic Peripheral Neuropathy.
+
+ Diabetes frequently leads to decreased sensation in the legs caused by diabetic peripheral neuropathy (DPN).
+
+ DPN is an important risk factor for the development of foot ulceration, one of the most common causes for hospital admissions and lower-limb amputations among diabetic patients.
+
+ However, to date there are no medications currently approved by the Food and Drug Administration to treat DPN.
+
+ The goal of this research project is to assess the effectiveness of a non-invasive, patented peristaltic pulse pneumatic compression device (the NormaTec PCD) in a home treatment program to improve the symptoms of DPN (e.
+
+g.
+
+ numbness, pain, and tingling in the legs) and the underlying functioning of the nerves in the legs (as determined by sensory perception assessments and Nerve Conduction Studies testing).
+
+ In this prospective, randomized, double-blind study, subjects will be randomly placed in one of two groups: a control group using a sham NormaTec PCD ("placebo"); and an experimental group using a NormaTec PCD.
+
+.
+
+ Pneumatic Medicine: A Transformative Treatment for Diabetic Peripheral Neuropathy@highlight
+
+The purpose of this study is to evaluate the efficacy of the NormaTec PCD, a non-invasive pneumatic compression device with the patented peristaltic pulse pneumatic waveform, in the treatment of Diabetic Peripheral Neuropathy (DPN).
+
+ The study will compare treatment with a NormaTec PCD and a sham device to assess whether the NormaTec PCD improves the signs and symptoms of DPN.
+

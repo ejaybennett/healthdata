@@ -1,0 +1,20 @@
+(firstQuint)An Educational HIV Pre-Test Counseling Video Program for Off Hours Testing in the ED: A Randomized Control Trial.
+
+ HIV is increasingly affecting urban populations, making the inner city ED a prime venue for C&T because of their unique opportunity to identify HIV positive patients.
+
+ These underserved communities often use the ED for their regular health care specifically because it provides services outside of the usual weekday working hours.
+
+ However, there are significant barriers to HIV C&T in the ED, such as the lack of resources to provide prevention oriented messages, cost issues, and the feasibility of providing the required manpower for testing.
+
+ The objective of this study is to determine whether an educational video, with the required pre-test counseling elements, conveys the necessary information for inner city ED patients to consent to a standard Elisa HIV test.
+
+ In order to address the HIV testing needs of the patient population presenting to the ED, innovative methods must be developed to provide HIV C&T, while simultaneously removing the barriers to testing.
+
+ Video technology may provide an opportunity to make HIV counseling feasible when counselors are not available.
+
+.
+
+ An Educational HIV Pre-Test Counseling Video Program for Off Hours Testing in the ED: A Randomized Control Trial@highlight
+
+This study compared the educational effectiveness of a ten-minute pre-test counseling video with the usual practice of a session with an HIV counselor.
+

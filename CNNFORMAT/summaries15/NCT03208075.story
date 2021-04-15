@@ -1,0 +1,22 @@
+(secondQuint)the Regulation of Phosphorus Homeostasis by Dietary Phosphorus Intake in Normal Men.
+
+ Serum phosphate concentrations are not only associated with cardiovascular and all-cause mortality in chronic kidney disease (CKD) patients, but also associated with the mortality in community population.
+
+ Thus, maintaining normal serum phosphate and reducing postprandial fluctuation of serum phosphate are essential for healthy people.
+
+ The investigators have conducted a study about the effects of normal diet (phosphorus 1500mg) and low-phosphorus diet (phosphorus 500mg) on phosphorus homeostasis in healthy men.
+
+ The results showed low-phosphorus diet could significantly reduce serum phosphorus and urine phosphorus level compared to normal diet.
+
+ However, the levels of serum FGF23 and a-klotho were not different between these two groups.
+
+Thus, the investigators want to further explore the effects of high-phosphorus diet (phosphorus 2300mg)on phosphorus homeostasis in healthy men.
+
+ Therefore, the investigators plan to conduct a crossover clinical study to evaluate the phosphorus homeostasis modulated by native normal diet, restricted phosphorus diet, high phosphorus diet and then to explore the underlying mechanisms.
+
+.
+
+ the Regulation of Phosphorus Homeostasis by Dietary Phosphorus Intake in Normal Men@highlight
+
+The investigators have conducted the study about the effects of normal diet and low-phosphorus diet on phosphorus homeostasis in healthy subjects, now this study is designed to explore further about the effect of high-phosphorus diet on phosphorus homeostasis.
+

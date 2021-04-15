@@ -1,0 +1,26 @@
+(firstQuint)Gastric Cancer Prevention in the Family Members by Helicobacter Pylori Eradication.
+
+ Helicobacter pylori infection is associated with gastric cancer in epidemiological studies.
+
+ However, it is still unknown whether H.
+
+ pylori eradication is useful and required to prevent gastric cancer.
+
+ Gastric cancer risk is increased in family members of gastric cancer patient.
+
+ Though there is no direct evidence that H.
+
+ pylori infection is a risk factor for gastric cancer in family members of gastric cancer, current European guideline recommends H.
+
+ pylori eradication in first-degree relatives of gastric cancer patients.
+
+ In this study, the investigators will evaluate whether H.
+
+ pylori eradication can reduce gastric cancer risk in the first-degree family members of gastric cancer patients.
+
+.
+
+ Gastric Cancer Prevention in the Family Members by Helicobacter Pylori Eradication@highlight
+
+This study evaluate whether treatment of Helicobacter pylori infection reduces the incidence of gastric cancer in subjects with family history of gastric cancer.
+

@@ -1,0 +1,14 @@
+(secondQuint)Multimodality Risk Adapted Tx Including Induction Chemo for SCCHN Amenable to Transoral Surgery.
+
+ This is a single-arm non-randomized two-stage phase II trial in previously untreated patients with squamous cell carcinoma of the head and neck (SCCHN) arising in the oral cavity, oropharynx, or supraglottic larynx amenable to a transoral surgical approach.
+
+ Treatment will consist of 3 parts: neoadjuvant induction with weekly carboplatin and paclitaxel in combination with daily lapatinib for 6 weeks (PART 1) prior to transoral surgery (PART 2).
+
+ Post-operative treatment (PART 3) will vary depending on the risk category assigned to the patient following surgery as follows: no further treatment or treatment limited to involved field radiation (low risk), ipsilateral radiation concurrent with weekly chemotherapy ( medium risk); or cisplatin every 3 weeks and daily lapatinib concurrent with bilateral radiation (high risk).
+
+.
+
+ Multimodality Risk Adapted Tx Including Induction Chemo for SCCHN Amenable to Transoral Surgery@highlight
+
+The purpose of this study is to see if a three method risk adapted design using induction chemotherapy, transoral surgery and radiation chemotherapy will lessen toxic effects and make treatment of squamous cell carcinoma of the head and neck (SCCHN) better.
+

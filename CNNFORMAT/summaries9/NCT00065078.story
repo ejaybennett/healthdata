@@ -1,0 +1,28 @@
+(firstQuint)Providing Birth Control Through Home Health Visits.
+
+ Unintended pregnancy is associated with significant public health problems, including inadequate prenatal care, low birth weight infants, infant mortality, and maternal morbidity and mortality.
+
+ Children born as a result of unplanned pregnancies are at greater risk for poor outcomes such as poor mental health and developmental disabilities.
+
+ This research project will determine whether providing contraception in the home can reduce the incidence of unintended pregnancy in low income and minority women.
+
+ The project will also determine whether delaying a pelvic exam encourages or discourages the utilization of clinic-based preventive services to screen for sexually transmitted diseases (STDs) and cervical cancer.
+
+ Participants will be randomized to either an experimental group or a comparison group.
+
+ Each participant will receive family planning counseling during a home visit by a community health nurse.
+
+ Participants in the experimental group will be offered a three-month supply of oral contraceptives or a depo-provera shot; both forms of contraceptives will be delivered during home visits.
+
+ Each participant will complete a survey during the initial visit and during a 1-year follow-up.
+
+ The study will last approximately three years.
+
+.
+
+ Providing Birth Control Through Home Health Visits@highlight
+
+This study will evaluate a program that provides birth control to low income and minority women through home visits by a community health nurse.
+
+ The goal of the program is to reduce unwanted pregnancies.
+

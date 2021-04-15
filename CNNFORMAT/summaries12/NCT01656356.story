@@ -1,0 +1,24 @@
+(secondQuint)Phase I Safety and Immunogenicity of Live Attenuated Influenza H5 Candidate Vaccine Strain A/17/Turkey/Turkey/05/133 (H5N2) in Healthy Thai Volunteers.
+
+ It is a phase I randomized placebo controlled trial (vaccine and placebo ratio of 2:1).
+
+ A phase II study is planned to be conducted following review of results of this phase.
+
+ Phase I: It is a double blind randomized placebo controlled trial involving 24 participants age 18-49 years (16 will receive vaccines and 8 will receive placebo).
+
+ All will be admitted in the isolation ward for 10-14 days after each immunization mainly for safety assessment.
+
+ Two doses of live attenuated influenza H5 vaccine candidate strain A/17/turkey/Turkey/05/133 (H5N2) will be given by intranasal route 21 days apart.
+
+ Each group of 4 participants will be immunized at a time at 30-60 mins interval.
+
+ All participants will be followed 21 days after each immunization.
+
+ Total follow up is 60 day.
+
+.
+
+ Phase I Safety and Immunogenicity of Live Attenuated Influenza H5 Candidate Vaccine Strain A/17/Turkey/Turkey/05/133 (H5N2) in Healthy Thai Volunteers@highlight
+
+The purpose of this study is to evaluate safety and reactogenicity of live attenuated influenza H5 vaccine candidate strain A/17/turkey/Turkey/05/133 (H5N2) manufactured by GPO, in Thailand to previously healthy Thais.
+

@@ -1,0 +1,28 @@
+(secondQuint)Defibrotide for the Treatment of Severe Hepatic Veno-Occlusive Disease in Hematopoetic Stem Cell Transplant Patients.
+
+ This is a historically-controlled, multicenter, open label Phase 3 study to determine the safety and efficacy of 25 mg/kg/day of Defibrotide (DF) for the treatment of severe VOD in hematopoietic stem cell transplantation (HSCT) patients.
+
+ In this study, the term "severe VOD" is defined as those patients who meet the Baltimore diagnostic criteria for VOD (total bilirubin >/= 2.
+
+0 mg/dL plus two of the following: ascites, >/=5% weight gain and hepatomegaly), who also have multi-organ failure (i.
+
+e.
+
+, pulmonary and/or renal dysfunction).
+
+ This represents a group of patients in whom mortality at Day+100 has been estimated to be >80%.
+
+ Comparisons: The primary parameter is Complete Response at 100 days following stem cell transplant, utilizing historical controls as a comparator.
+
+ The historical control database will be generated through a retrospective medical chart review performed at participating centers; the survival outcome of patients who would otherwise have met eligibility criteria for this trial will be compared to the survival observed in patients prospectively treated with Defibrotide.
+
+ Secondary parameters include survival rate at 100 days and 6 months post stem cell transplantation (SCT), and special studies of endothelial and serum markers for VOD.
+
+ This study will assess safety of the dose and schedule in this setting.
+
+.
+
+ Defibrotide for the Treatment of Severe Hepatic Veno-Occlusive Disease in Hematopoetic Stem Cell Transplant Patients@highlight
+
+The purpose of this study is to (1) demonstrate the efficacy and safety (toxicity) of 25 mg/kg/day of Defibrotide in patients with severe veno-occlusive disease (sVOD) and (2) evaluate serum and endothelial markers of veno-occlusive disease (VOD) through the analysis of blood samples.
+

@@ -1,0 +1,46 @@
+(fifthQuint)Ph3 Safety/Efficacy Study of Rolapitant for the Prevention of CINV in Subjects Receiving Highly Emetogenic Chemotherapy.
+
+ This is a Phase 3, multicenter, randomized, parallel-group, double-blind, active-controlled study of rolapitant in subjects receiving HEC (60 mg/m2 of cisplatin-based chemotherapy).
+
+ Study drug will be administered 1 - 2 hours prior to initiation of chemotherapy on Day 1.
+
+ Granisetron and dexamethasone will be administered approximately 30 minutes before initiation of chemotherapy on Day 1,except in patients receiving taxanes as part of cisplatin-based chemotherapy.
+
+ Subjects will record all events of emesis and use of rescue medication for established nausea and/or vomiting and will indicate the severity of nausea they experienced in each of the previous 24 hours in the NV Subject Diary prior to HEC administration through Day 6 in Cycle 1.
+
+ Dexamethasone 8 mg twice daily (part of study regimen) on Days 2 through 4 is NOT considered rescue therapy.
+
+ Health-related quality of life will be measured by the FLIE Questionnaire on Day 6 of Cycle 1.
+
+ Safety and tolerability will be assessed by clinical review of AEs, physical examinations including complete neurological assessment, vital signs,electrocardiograms (ECGs), and safety laboratory values including BUN andcreatinine.
+
+ All subjects are expected to complete Cycle 1 and will have the option of participating in up to five additional cycles.
+
+ The study will investigate the efficacy of rolapitant for the treatment of CINV during an initial chemotherapy cycle (Cycle 1).
+
+ Safety analyses will include data from Cycle 1 and from subsequent cycles.
+
+ At the Screening Visit, blood samples may be collected and stored in this study and maybe analyzed for future biomarker research related to safety and efficacy.
+
+ Analysis of these samples may include DNA, RNA, or protein markers.
+
+ The biomarker blood samples will be stored for up to 2 years post study completion.
+
+ In addition, PK samples will be collected from subjects enrolled in selected sites.
+
+.
+
+ Ph3 Safety/Efficacy Study of Rolapitant for the Prevention of CINV in Subjects Receiving Highly Emetogenic Chemotherapy@highlight
+
+This is a Phase 3, multicenter, randomized, parallel-group, double-blind, active-controlled study of rolapitant in subjects receiving HEC.
+
+ Rolapitant or placebo will be administered 1-2 hours prior to initiation of chemotherapy on Day 1 with granisetron and dexamethasone.
+
+ Subjects will record all events of emesis and use of rescue medication for established nausea and/or vomiting, and will indicate the severity of nausea they experienced in each of the previous 24 hours in the Nausea and Vomiting (NV) Subject Diary prior to HEC administration through Day 6 of Cycle 1.
+
+ Health-related quality of life will be measured by the FLIE Questionnaire on Day 6 of Cycle 1.
+
+ Safety and tolerability will be assessed by clinical review of adverse events (AEs), physical examinations, electrocardiograms (ECGs), and safety laboratory values.
+
+ All subjects are expected to complete Cycle 1 and will have the option of participating in up to five additional cycles.
+

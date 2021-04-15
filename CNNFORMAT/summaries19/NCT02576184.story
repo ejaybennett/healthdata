@@ -1,0 +1,15 @@
+(firstQuint)Mesh Reinforcement During Temporary Stoma Closure After Sphincter-Saving Rectal Cancer Surgery.
+
+ This study aim to assess long-term results of an incisional hernia-prophylactic mesh placement during stoma reversal after TME for rectal cancer.
+
+ Patients are randomized in 3 groups : no mesh, synthetic mesh (Parietex, Covidien), biologic mesh (Cellis, Meccelis).
+
+ Meshes are placed in retromuscular position after diverting ileostomy closure.
+
+ Primary endpoint is radiological incisional hernia rate, assessed on CT-scan, at the end of follow-up Secondary endpoints include postoperative morbidity, postoperative pain, postoperative quality of life, long-term clinical incisional hernia rate.
+
+.
+
+ Mesh Reinforcement During Temporary Stoma Closure After Sphincter-Saving Rectal Cancer Surgery@highlight
+
+This study aim to assess long-term results of an incisional hernia-prophylactic mesh placement during stoma reversal after total mesorectal excision (TME) for rectal cancer

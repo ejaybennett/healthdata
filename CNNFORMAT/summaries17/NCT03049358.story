@@ -1,0 +1,32 @@
+(thirdQuint)Olfactory Training in Improving Sense of Smell After Radiation Therapy in Patients With Paranasal Sinus or Nasopharyngeal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To evaluate the effect of olfactory training on olfactory function in patients with paranasal sinus and nasopharyngeal carcinoma suffering from olfactory loss after radiation.
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate the possible effect of olfactory training on quality of life in patients with paranasal sinus and nasopharyngeal carcinoma suffering from olfactory loss after radiation.
+
+ II.
+
+ To study rate and severity of olfactory dysfunction after radiation therapy in patients with paranasal sinus or nasopharyngeal carcinoma.
+
+ III.
+
+ To evaluate the possible preventive effect of olfactory training on olfactory dysfunction in patients with paranasal sinus and nasopharyngeal carcinoma who will undergo radiation therapy.
+
+ OUTLINE: Patients are randomized to 1 of 2 arms.
+
+ Arm I: Patients undergo olfactory training by smelling 4 essential oils in vials (rose, lemon, clove, and eucalyptus) over 15 seconds each, twice daily for 12 weeks.
+
+ Arm II: Patients undergo sham training by smelling canola oil in 4 vials over 15 seconds each, twice daily for 12 weeks.
+
+.
+
+ Olfactory Training in Improving Sense of Smell After Radiation Therapy in Patients With Paranasal Sinus or Nasopharyngeal Cancer@highlight
+
+This randomized phase I trial studies how well olfactory training works in improving sense of smell after radiation therapy in patients with paranasal sinus or nasopharyngeal cancer.
+
+ Olfactory training may improve smell function after radiation therapy in patients with paranasal sinus or nasopharyngeal cancer.
+

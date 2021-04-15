@@ -1,0 +1,14 @@
+(firstQuint)The Effect of Vitamin D Supplements on Vitamin D Status, Cardiometabolic Health and Immune Defense in Danish Children.
+
+ The main objective of ODIN Junior is to investigate whether and in which doses vitamin D intake is needed in order to maintain serum 25(OH)D concentrations above deficiency and insufficiency cut-offs (30 nmol/L and 50 nmol/L, respectively) in 4-8 year-old Danish children during the winter time.
+
+ The children will be randomized to receive tablets with either 10 micrograms/day or 20 microgram/day of vitamin D3 (cholecalciferol), corresponding to one and two times the recommended daily intake in children, or placebo for 20 weeks.
+
+ Measurements and blood sampling will be performed before the beginning and by the end of the intervention.
+
+.
+
+ The Effect of Vitamin D Supplements on Vitamin D Status, Cardiometabolic Health and Immune Defense in Danish Children@highlight
+
+The main purpose of this study is to investigate whether and in which doses vitamin D intake is needed in order to maintain an adequate vitamin D status in 4-8 year-old Danish children during wintertime.
+

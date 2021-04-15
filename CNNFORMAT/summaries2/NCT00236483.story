@@ -1,0 +1,32 @@
+(fifthQuint)A Comparison of the Effectiveness and Safety of ULTRACET (Tramadol Hydrochloride/Acetaminophen) Versus ULTRAM (Tramadol Hydrochloride) Versus Placebo in Patients With Pain After Oral Surgery.
+
+ While other studies have shown the effectiveness and safety of tramadol/acetaminophen and of tramadol alone in treating pain following oral surgery, a direct comparison of the two treatments within the same study at these dose levels has not be performed.
+
+ This is a single-center, randomized, double-blind, active- and placebo-controlled, single-dose, parallel-group study of adult patients who undergo oral surgery for removal of two or more impacted third molars.
+
+ Patients who have at least moderate pain within 5 hours after surgery will be given a single oral dose of 2 capsules of study medication.
+
+ Patients will be equally assigned to receive a total dose of either tramadol HCl 75 mg/acetaminophen 650 mg or tramadol HCl 100 mg or placebo.
+
+ Patients will be asked about the intensity of the current pain and pain relief from the starting pain at 30 minutes and at 1, 2, 3, 4, 5 and 6 hours after taking the study medication.
+
+ Patients will also be given two stopwatches that will be started once medication has been taken.
+
+ Patients will stop the first stopwatch when they first notice any pain decrease; they will stop the second stopwatch when they notice meaningful pain relief.
+
+ The primary efficacy endpoints are summary measures of hourly patient reported pain relief (PAR) and pain intensity scores: total PAR (TOTPAR), sum of hourly pain intensity differences (PIDs) from baseline (SPID), and sum of hourly PAR plus hourly PIDs from baseline (SPRID).
+
+ The study hypothesis is that pain relief with tramadol HCl/acetaminophen (ULTRACET(R)) is superior to pain relief from tramadol HCl (ULTRAM(R)) alone after oral surgery and the combination is well tolerated.
+
+ 2 capsules, total dose either tramadol HCl 75 milligrams/acetaminophen 650 milligrams, tramadol HCl 100 milligrams, or matching placebo taken one time orally; all study medication is over-capsulated to match.
+
+.
+
+ A Comparison of the Effectiveness and Safety of ULTRACET (Tramadol Hydrochloride/Acetaminophen) Versus ULTRAM (Tramadol Hydrochloride) Versus Placebo in Patients With Pain After Oral Surgery@highlight
+
+The purpose of this study is to explore the pain-relieving effects and safety of two analgesic treatment regimens as compared to placebo in patients experiencing pain after oral surgery.
+
+ Tramadol hydrochloride/acetaminophen is approved to treat acute pain.
+
+ This study will evaluate the effectiveness and safety of tramadol hydrochloride/acetaminophen compared with tramadol hydrochloride alone compared with placebo as a pain medication in the treatment of pain following oral surgery.
+

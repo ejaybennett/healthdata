@@ -1,0 +1,14 @@
+(firstQuint)Functional Communicative Profile of Children With Down Syndrome.
+
+ Parents and caregivers' engagement on therapeutic process of children with Down syndrome (DS) is important for language and communication development.
+
+ The identification of the communicative skills presented by these children as well as the context influence in their performance as interlocutors, will contribute to the design of therapeutic interventions.
+
+ Pragmatics theories are helpful to language use studies, since it takes into account social and environmental aspects and considers adult-child interaction as a determinant factor for its occurrence.
+
+.
+
+ Functional Communicative Profile of Children With Down Syndrome@highlight
+
+The aim of this study was to verify the use of communicative functions by children with DS in two interaction conditions: interaction with therapist and interaction with parent.
+

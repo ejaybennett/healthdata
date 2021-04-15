@@ -1,0 +1,36 @@
+(secondQuint)A Trial of a Botanical Drug Product Containing East Indian Sandalwood Oil (EISO) For Treatment of Atopic Dermatitis.
+
+ Patients will enter the Screening Period once the informed consent/ascent and photographic consent process has been completed.
+
+ Patients with a total body surface area (BSA) of 2% and 15% atopic dermatitis involvement, in the treatable areas, and who meet all of the inclusion and none of the exclusion criteria will be enrolled.
+
+ Once patient eligibility is confirmed and the screening procedures completed, the patient will start the Treatment Period of the study.
+
+ All enrolled patients will receive either 5% SAN007 cream or placebo cream (randomized in a 2:1 ratio) with the first dose applied at the Day 1 Study Visit.
+
+ Patients and/or their legally authorized representative will be instructed on how to apply the study medication twice daily for 28 days.
+
+ Patients will return to the clinic on Study Days 7,14 and 28 for study-related assessments.
+
+ Patients and/or their LAR will receive a telephone contact from the site, on Study Days 21 and 35.
+
+ Safety will be assessed by evaluating adverse events (AEs) with respect to severity, duration, and relationship to study drug.
+
+ In addition cutaneous tolerability will be evaluated at each visit.
+
+ Tolerability evaluation will be based on patients reporting discomfort during or immediately following application of SAN007.
+
+ This will also be recorded as an AE.
+
+ The study exclusion areas are to be not to be used in this evaluation.
+
+ Efficacy will be assessed at each study visit through the completion of the IGA, EASI and BSA calculation.
+
+ During the active treatment period, Patients will return to the study site according to the study schedule for interim assessments and recording of concomitant medication and adverse events (AEs).
+
+.
+
+ A Trial of a Botanical Drug Product Containing East Indian Sandalwood Oil (EISO) For Treatment of Atopic Dermatitis@highlight
+
+This trial will be a double-blind, randomized, placebo-controlled, safety, tolerability and efficacy trial of SAN007 (5% East Indian sandalwood oil in a cream formulation) treatment regimen when administered daily for up to 28 days to patients from 3 months to 65 years of age, with atopic dermatitis.
+

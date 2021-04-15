@@ -1,0 +1,30 @@
+(thirdQuint)Risk Factors for Staphylococcus Aureus Surgical Site Infections in Orthopedic and Trauma Surgery.
+
+ Surgical site infections (SSI) in orthopedic surgery are responsible for reduced quality of life, increased length of hospital stay and costs.
+
+ The most commonly identified organism is Staphylococcus aureus but risk factors for mono microbial S.
+
+aureus SSI are not well-known.
+
+The aim of this study was to evaluate the incidence rate trend of S.
+
+ aureus SSI over the years and risk factors of theses infections in a french University Hospital.
+
+ The knowledge obtained by this study will enable identification of the surgical patients most at risk of developping S.
+
+ aureus SSI, and who would probably benefit most from new interventions given prophylactically and specifically to prevent S.
+
+ aureus infections.
+
+.
+
+ Risk Factors for Staphylococcus Aureus Surgical Site Infections in Orthopedic and Trauma Surgery@highlight
+
+The most commonly identified organism for Surgical Site Infection (SSI) in orthopedic surgery is Staphylococcus aureus but risk factors for mono microbial S.
+
+aureus SSI are not well-known.
+
+ The aim of this study was to evaluated the incidence rate of S.
+
+ aureus SSI over the years and risk factors of these infections in a french University Hospital.
+

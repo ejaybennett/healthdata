@@ -1,0 +1,60 @@
+(fifthQuint)Large-scale Trial Testing the Intensity of CYTOreductive Therapy in Polycythemia Vera (PV).
+
+ Polycythemia vera (PV) is a chronic myeloproliferative disorder characterized by clonal proliferation of hematopoietic progenitors resulting in expansion of the erythrocyte mass, and its clinical course is affected by cardiovascular events, the main cause of morbidity and mortality.
+
+ Arterial thrombotic events are predominant, particularly large vessel arterial events including cerebrovascular accidents, myocardial infarction, and peripheral arterial occlusion.
+
+ Based on the complex relationship between thrombosis, hematocrit, and parameters of tissue perfusion and blood viscosity, the latter has been proved to be an exponential function of the hematocrit.
+
+ Red cell aggregation increases at high hematocrit (HCT) levels, creating the potential for vascular stasis.
+
+ As a result, enhanced interplay between platelet, leukocytes and vessel wall increases the risk of thrombosis.
+
+ Considering the lack of effective therapeutic strategy targeted at the mutated allele JAK2V617F, there is no known treatment that eradicates the abnormal clone, apart from anecdotal cases of bone marrow transplantation.
+
+ Cytoreductive treatment by phlebotomy or chemotherapy, however, has dramatically reduced the number of thrombotic complications and substantially improved survival and today there is agreement that the goal of cytoreductive treatment should be to keep the HCT value below 0.
+
+45 in all PV patients.
+
+ This was suggested on the basis of a small, retrospective study of PV that more than 30 years ago showed a progressive increase in the incidence of vascular occlusive episodes at HCT levels higher than 44% and in patients treated according to the drugs and the therapeutic tenets of the time.
+
+ However no clinical trial has confirmed such findings.
+
+ The results of the two largest prospective studies currently available (namely PVSG-1 and ECLAP) suggest no difference in the risk of thrombosis among patients kept at HCT below 50%.
+
+ An association between relevant outcome events (namely.
+
+ thrombotic events, mortality, and haematological progression) and HCT in the evaluable range of 40-55% was found in the ECLAP population neither in the multivariate analysis at baseline nor in the time-dependent multivariate analysis.
+
+ The ECLAP trial demonstrated the antithrombotic efficacy of low-dose aspirin in this setting and the use of this therapy in clinical practice is likely to decrease meaningfully, though not eliminate, the high risk of thrombosis of PV patients.
+
+ In conclusion, the high incidence of thrombotic events irrespective of low-dose aspirin administration as well as of haematological transformation in the long term which have been shown in PV patients study suggest the need to investigate in depth the benefit/risk profile of current therapeutic options for cytoreductive therapy.
+
+ CYTO-PV is aimed at assessing the benefit risk profile of cytoreductive therapy with phlebotomy and/or HU aimed at maintaining HCT < 45% Vs.
+
+ maintaining HCT in the range 45-50%.
+
+ It is an independent, investigator-generated pragmatic trial with broad selection criteria to mimic clinical practice in order to strengthen the transferability of its results to the population of PV patients; it has been designed to be conducted, without need of special facilities, in the framework of the Italian Group of hematologic Adult diseases ("GIMEMA").
+
+ The optimization of therapeutic management of PV patients will allow to improve the prognosis of PV patients, the allocation of the resources the Italian National Health Service (IHS), and the knowledge about the benefit/risk profile of pharmacological cytoreduction in PV.
+
+ Large-scale Trial Testing the Intensity of CYTOreductive Therapy in Polycythemia Vera (PV)@highlight
+
+CYTO-PV is a phase III Prospective, Randomized, Open-label, with Blinded Endpoint evaluation (PROBE), multi-center, clinical trial in patients with diagnosis of Polycythemia vera (PV) treated at the best of recommended therapies (e.
+
+g.
+
+adequate control of standard cardiovascular risk factors).
+
+ Irrespective of randomized interventions, all patients will be administered low-dose aspirin (when not contraindicated), i.
+
+e.
+
+the standard antithrombotic treatment in PV patients.
+
+ The purpose of this study to demonstrate that a more intensive cytoreductive therapy, plus low-dose aspirin when not contraindicated, with phlebotomy and/or hydroxyurea (HU), aimed at maintaining hematocrit (HCT) < 45% is more effective than a less intensive cytoreduction (either with phlebotomy or HU plus low-dose aspirin when not contraindicated) maintaining HCT in the range of 45-50% in the reduction of CV deaths plus thrombotic events (stroke, acute coronary syndrome [ACS], transient ischemic attack [TIA], pulmonary embolism [PE], splanchnic thrombosis, deep vein thrombosis [DVT], and any other clinically relevant thrombotic event), in patients with Polycythemia Vera treated at the best of recommended therapies (e.
+
+g.
+
+ adequate control of standard cardiovascular risk factors).
+

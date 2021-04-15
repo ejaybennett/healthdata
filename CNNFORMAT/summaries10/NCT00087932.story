@@ -1,0 +1,20 @@
+(firstQuint)Socioeconomic Influences on Complementary and Alternative Medicine Use in Cancer Treatment.
+
+ The use of CAM is common among patients with cancer.
+
+ However, there may be differences in participation, treatment preferences, and quality of life that are influenced by socioeconomic factors and ethnicity.
+
+ This study will compare two distinct socioeconomic groups to determine differences in CAM use.
+
+ Participants in this study will complete a questionnaire regarding demographics, socioeconomic status, disease specifics, and facilitators and barriers to CAM use.
+
+ Participation in an introductory seminar and in various CAM programs will be monitored.
+
+ Participants will also complete a quality of life scale that will provide insight into the way different populations perceive and use CAM and will identify potential obstacles to integrating CAM into other cancer treatment programs.
+
+.
+
+ Socioeconomic Influences on Complementary and Alternative Medicine Use in Cancer Treatment@highlight
+
+The purpose of this study is to determine whether differences in the use of complementary and alternative medicine (CAM) are influenced by the socioeconomic status and ethnicity of cancer patients.
+

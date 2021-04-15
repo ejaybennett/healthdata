@@ -1,0 +1,32 @@
+(thirdQuint)Phase 0 Study in Healthy, Hepatic and Renal Impaired Subjects to Obtain Plasma for Lenvatinib Protein Binding.
+
+ E7080-A001-010 is a multicenter, parallel-group study in participants with mild, moderate, or severe hepatic or renal impairment and age-, gender-, and smoking status-matched healthy participants.
+
+ Approximately 6 participants with each degree (mild, moderate, or severe) of hepatic or renal impairment will be enrolled.
+
+ Two cohorts of 8 healthy participants will be enrolled.
+
+ One cohort of healthy participants will be matched to the hepatic-impaired participants, whereas the other will be matched to the renal-impaired participants.
+
+ The study has 2 phases.
+
+ The Pre-study Phase consists of a Screening Period and a Baseline Period.
+
+ The Study Phase consists of a 2-day Study Period.
+
+ No lenvatinib will be administered in this study.
+
+ The end of the study will be the date of the last study visit for the last participant in the study.
+
+ The following estimates are provided: - From first participant in to last participant out, the study is expected to take approximately one year to complete.
+
+ - The maximum estimated duration of the study for each participant is anticipated to be approximately 5 weeks.
+
+.
+
+ Phase 0 Study in Healthy, Hepatic and Renal Impaired Subjects to Obtain Plasma for Lenvatinib Protein Binding@highlight
+
+E7080-A001-010 is a multicenter, parallel-group study in participants with mild, moderate, or severe hepatic or renal impairment and age-, gender-, and smoking status-matched healthy participants.
+
+ The primary objective of the study is to obtain plasma from participants for use in in vitro protein binding studies.
+

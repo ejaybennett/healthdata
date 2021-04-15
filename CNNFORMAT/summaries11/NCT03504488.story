@@ -1,0 +1,11 @@
+(firstQuint)CAB-ROR2-ADC Safety and Efficacy Study in Patients With Solid Tumors.
+
+ This is a multi-center, open-label, Phase 1/2 study designed to evaluate the safety, tolerability, PK, immunogenicity, and antitumor activity of BA3021, a conditionally active biologic (CAB) ROR2-targeted antibody drug conjugate (CAB-ROR2- ADC) in patients with advanced solid tumors.
+
+ This study will consist of a dose escalation phase and a dose expansion phase.
+
+.
+
+ CAB-ROR2-ADC Safety and Efficacy Study in Patients With Solid Tumors@highlight
+
+The objective of this study is to assess safety and efficacy of CAB-ROR2-ADC in solid tumors

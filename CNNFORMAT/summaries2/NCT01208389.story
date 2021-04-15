@@ -1,0 +1,12 @@
+(firstQuint)Phase 1 Follow-on Study of AAV2-hRPE65v2 Vector in Subjects With Leber Congenital Amaurosis (LCA) 2.
+
+ The study is a follow-on to a Phase 1 dose-escalation and safety study (closed to enrollment as of June 2009).
+
+ Up to twelve adults and children with a molecular diagnosis of biallelic RPE65 mutations, who have participated in the earlier Phase 1 study, and who meet all study eligibility criteria, will receive AAV2-hRPE65v2 vector in the previously uninjected, contralateral eye to evaluate the safety of bilateral, sequential subretinal administration of AAV2-hRPE65v2.
+
+.
+
+ Phase 1 Follow-on Study of AAV2-hRPE65v2 Vector in Subjects With Leber Congenital Amaurosis (LCA) 2@highlight
+
+The study is a follow-on to a Phase 1 dose-escalation and safety study.
+

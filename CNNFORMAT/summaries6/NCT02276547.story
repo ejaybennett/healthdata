@@ -1,0 +1,16 @@
+(firstQuint)Early Feasibility Study of the Neovasc Tiara Mitral Valve System.
+
+ This is an international, multicenter, single arm, prospective, Early Feasibility Clinical Study to evaluate the safety and performance of the Neovasc Tiara Mitral Valve System in subjects with symptomatic severe mitral regurgitation requiring mitral valve replacement who are at high risk for open chest surgery.
+
+ A maximum of 30 subjects will be implanted in this study at a maximum of 10 sites.
+
+ A maximum of 15 subjects will be implanted in the United States.
+
+ Subjects satisfying the inclusion criteria and exclusion criteria will be enrolled to receive the Neovasc Tiara Mitral Transcatheter Heart Valve with the Tiara Delivery System via a transcatheter mitral valve replacement (TMVR) procedure.
+
+.
+
+ Early Feasibility Study of the Neovasc Tiara Mitral Valve System@highlight
+
+The purpose of this study is to evaluate the safety and initial performance of the Neovasc Tiara Mitral Transcatheter Heart Valve with the Tiara Transapical Delivery System.
+

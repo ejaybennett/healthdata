@@ -1,0 +1,14 @@
+(secondQuint)Early-start Exercise Training in Subacute Heart Failure.
+
+ Prescription of aerobic exercise training in stable chronic heart failure patients finds an evidence-based justification in the acknowledged long-term positive effects of aerobic exercise training on both functional capacity and prognosis in this population.
+
+ In recent time, evidence has accumulated in normal subjects about short-term favorable effects of aerobic exercise training on sympatho-vagal balance and flow-mediated vasodilation, two physiological mechanisms known to be profoundly altered in the setting of acute hemodynamic decompensation of chronic heart failure.
+
+ The possible extension of aerobic exercise training indication to chronic heart failure patients admitted for recent acute hemodynamic decompensation not stabilized as yet, may thus provide a valuable, low-cost tool to effectively manage such a high-risk and resource-absorbing population.
+
+.
+
+ Early-start Exercise Training in Subacute Heart Failure@highlight
+
+The purpose of this study is to evaluate the feasibility and the short-term effects of an early-start aerobic exercise training program on functional capacity, symptoms and neurohormonal activation in chronic heart failure patients with recent acute hemodynamic decompensation.
+

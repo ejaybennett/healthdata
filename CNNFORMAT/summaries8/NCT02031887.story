@@ -1,0 +1,24 @@
+(thirdQuint)Effect of a Starter Formula With Synbiotics on Stool Microbiota in Infants After Normal or Caesarean Section Delivery.
+
+ The primary objectives of this trial are: - to show differences in the colonization of the gastrointestinal tract with the bacteria Bifidobacterium sp.
+
+ between infants born by normal or caesarean delivery, fed with the test or a control product - to investigate whether there is equivalence in growth between the four different groups of infant described above.
+
+ Design: This is a controlled, double blind, randomized, multi center, clinical trial of 4 groups in parallel.
+
+ Two groups of infants (born from normal or caesarean delivery) will each consume one of 2 milk formulae.
+
+ Number of patients (to be enrolled / to be analyzed): Approximately 450 / 240 Stratification will be done by gender and delivery mode.
+
+ Description of subjects and main criteria for inclusion: Healthy full term infants born from HIV positive mothers who have elected to feed their child exclusively with a milk formula from birth.
+
+ Children born after normal or caesarean delivery will be considered separately.
+
+.
+
+ Effect of a Starter Formula With Synbiotics on Stool Microbiota in Infants After Normal or Caesarean Section Delivery@highlight
+
+The primary objectives of this trial are: - to show differences in the colonization of the gastrointestinal tract with the bacteria Bifidobacterium sp.
+
+ between infants born by normal or caesarean delivery, fed with the test or a control product - to investigate whether there is equivalence in growth between the four different groups of infant described above.
+

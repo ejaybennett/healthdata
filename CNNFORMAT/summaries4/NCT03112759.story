@@ -1,0 +1,28 @@
+(firstQuint)Assessing the Utility of Cognitive Behavioral Therapy for Pain Control in Patients With Chronic Pancreatitis.
+
+ All patients with chronic pancreatitis will be considered for participation in this study.
+
+ Patients selected for participation will be evaluated 4 weeks prior to the first one-on-one therapy session.
+
+ A baseline pain score will be assessed using the visual analog pain scale.
+
+ Narcotic dosage and frequency as well as anti-emetic usage will be evaluated at this time.
+
+ A pre-treatment quality of life score will be recorded using the SF-12(R) Patient Questionnaire.
+
+ Patients will also be queried about the presence of nausea and reflux.
+
+ After the pre-intervention evaluations are complete, patients will be randomized into one of two arms: treatment with cognitive behavioral therapy and narcotics as needed or treatment with conventional narcotic analgesics alone.
+
+ Patients undergoing CBT intervention will participate in eight weekly therapy sessions.
+
+ Follow-up assessments will be conducted six months and nine months after the last therapy session is completed.
+
+ The patients will be evaluated based on pain score, narcotic dosage and frequency, anti-emetic usage, quality of life assessment, and pain related hospitalizations.
+
+.
+
+ Assessing the Utility of Cognitive Behavioral Therapy for Pain Control in Patients With Chronic Pancreatitis@highlight
+
+This study will assess cognitive behavioral therapy as an adjunct to conventional symptom control for patients with chronic pancreatitis.
+

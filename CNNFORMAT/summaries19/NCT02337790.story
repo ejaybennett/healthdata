@@ -1,0 +1,20 @@
+(firstQuint)Necklace-Shaped Sensor for Non-Invasive Remote Monitoring of Vitals.
+
+ The study had the following objectives: 1.
+
+ Verify that the CoVa Monitoring System does not interfere with implanted devices.
+
+ 2.
+
+ Verify that implanted devices do not interfere with the functions of the CoVa Monitoring System.
+
+ 3.
+
+ Verify that the CoVa Monitoring System fits on a wide variety of body types.
+
+.
+
+ Necklace-Shaped Sensor for Non-Invasive Remote Monitoring of Vitals@highlight
+
+This study is designed to validate the use of the CoVa Monitoring System in subjects with implanted devices.
+

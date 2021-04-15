@@ -1,0 +1,29 @@
+(thirdQuint)Pioglitazone Versus Metformin as First Treatment in Infertile Women With Polycystic Ovary Syndrome.
+
+ Participants with PCOS will be divided into two groups then each group will randomly recieve one of the following treatment 1.
+
+ metformin will be adminstered in adose of 500 mg 3 times daily for 3 months to group B.
+
+ 2.
+
+ pioglitazone will be administered in adose of 30 mg dialy for 3 months to group A.
+
+ 3.
+
+ Induction of ovulation by clomiphene citate 50 mg tablets once or twice dialy 12hours apart starting from the 3rd day of menstrual cycle and continue for five days during treatment with insulin sensitizing agents to group A and B.
+
+ Participants with oligomenorrhea will recieve two tablets of noreththisterone 5 mg tab every 12 hours for 5 days to allow for withdrawal bleeding before start ovulation induction.
+
+ Pioglitazone Versus Metformin as First Treatment in Infertile Women With Polycystic Ovary Syndrome@highlight
+
+Participants with PCOS will be divided into two groups then each group will randomly recieve one of the following treatment 1.
+
+ metformin will be adminstered in adose of 500 mg 3 times daily for 3 months to group B.
+
+ 2.
+
+ pioglitazone will be administered in adose of 30 mg dialy for 3 months to group A.
+
+ 3.
+
+ Induction of ovulation by clomiphene citate 50 mg tablets to all participants

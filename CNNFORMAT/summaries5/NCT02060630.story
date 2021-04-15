@@ -1,0 +1,20 @@
+(secondQuint)Best Endovascular vs.
+
+ Best Surgical Therapy in Patients With Critical Limb Ischemia.
+
+ Male and female subjects aged 18 years or older will be randomized to receive either open surgical treatment or endovascular treatment.
+
+ They will be followed for at least 2 years and up to 4 years and 2 months after treatment to primarily assess survival and major adverse limb events in the index or treated limb, and secondarily, to determine clinical and cost effectiveness outcomes after treatment.
+
+ These outcomes (survival-free of major limb events and clinical, functional and cost effectiveness) will be compared within two cohorts of subjects: those with an available single-segment great saphenous vein, and those with an alternative conduit.
+
+ The null hypotheses for both cohorts is that there will be no difference in MALE-free survival between best endovascular therapy and best surgical therapy.
+
+.
+
+ Best Endovascular vs.
+
+ Best Surgical Therapy in Patients With Critical Limb Ischemia@highlight
+
+This study will compare the effectiveness of best available surgical treatment with best available endovascular treatment in adults with critical limb ischemia (CLI) who are eligible for both treatment options.
+

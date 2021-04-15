@@ -1,0 +1,52 @@
+(fifthQuint)Fun For Wellness: Online Well-Being Promotion Intervention in a Patient Sample.
+
+ Subjective well-being is a positive state affairs in six domains of life: interpersonal, community, occupational, physical, psychological, and economic (I COPPE).
+
+ The purpose of the study is to evaluate the effectiveness, feasibility, and acceptability of an online intervention named Fun For Wellness (FFW), designed to promote skills and self-efficacy in the multidimensional I COPPE domains of life.
+
+ In designing the program we considered the pressing societal need to promote universal health and well-being and prevent stress, illness and disease.
+
+ Preventable conditions related to lifestyle such as obesity and stress afflict millions of people.
+
+ Therefore, we saw a need to develop a universal tool for the adult population who would be comfortable with the online platform of FFW.
+
+ Universal programs have been shown to be effective, for example, in reducing mental health problems in college students.
+
+ While face-to-face interventions are effective in preventing serious conditions, they are very labor intensive and limited in reach.
+
+ The ability to prevent adverse conditions and to enhance healthy behaviors through online interventions creates several opportunities: accessibility, scalability, interactivity, affordability, and fidelity of implementation.
+
+ A randomized controlled trial of the FFW intervention in an employee sample, found initial evidence for the effectiveness of the FFW intervention.
+
+ Participants who complied with the FFW intervention had significantly higher subjective well-being, as compared to compliers in the Usual Care group, in multiple I COPPE domains.
+
+ For the current study, well-being and self-efficacy measures will be administered at baseline (T1), 30 days-post baseline (T2) and 60 days -post baseline (T3).
+
+ A maximum of 500 patients will be enrolled.
+
+ Recruitment will take place on-site through IRB approved study flyers at a community medical center.
+
+ All other study activities will take place entirely online at a secure website.
+
+ Hypothesis 1: Outcome effects: The online well-being program will be more effective than the usual care condition in improving: 1) overall well-being 2) domain well-being, and 3) health related quality of life (HRQOL) over time.
+
+ Hypothesis 2: Self-efficacy effect: The online well-being program will be more effective than the usual care condition in improving I COPPE well-being self-efficacy.
+
+ Hypothesis 3: Mediating effect: The effect of the online well-being program on- 1) overall well-being, 2) domain well-being and, 3) health related quality of life will be partially mediated by improvements in I COPPE well-being self-efficacy over time.
+
+.
+
+ Fun For Wellness: Online Well-Being Promotion Intervention in a Patient Sample@highlight
+
+Subjective well-being refers to people's level of satisfaction with life as a whole and with multiple dimensions within it.
+
+ Interventions that promote subjective well-being are important because there is evidence that physical health, mental health, substance use and health care costs may be related to subjective well-being.
+
+ This randomized controlled trial will evaluate an online intervention, named Fun For Wellness (FFW), designed to promote well-being skills and self-efficacy in six domains of life: interpersonal, community, occupational, physical, psychological, and economic (I COPPE).
+
+ The Usual Care (UC) control group will be wait-listed.
+
+ Five hundred (500) community-based adult patient participants will be enrolled.
+
+ We hypothesize that compared to the UC group, intervention group participants will show greater improvement in their overall subjective well-being, domain-specific well-being, health-related quality of life, and well-being self-efficacy.
+

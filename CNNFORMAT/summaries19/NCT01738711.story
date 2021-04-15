@@ -1,0 +1,84 @@
+(fifthQuint)Does CBT Improve the Perception/Impact of Cough and Breathlessness in IPF Patients.
+
+ Medical therapies (e.
+
+g.
+
+ prednisolone, azathioprine and N-acetylcysteine) have not shown any benefit in patients with IPF and may cause harm.
+
+ Therefore the focus of management has shifted towards a more holistic approach-management of the symptoms and how patients cope with these, in a chronic progressive terminal disease.
+
+ Anxiety is recognised to contribute to patients' perceptions of symptoms and quality of life.
+
+ CBT is being increasingly used in other chronic respiratory diseases, such as chronic obstructive pulmonary disease (COPD) where there is some evidence that it reduces anxiety and breathlessness.
+
+ Currently there is no evidence regarding its use in IPF.
+
+ If CBT is shown to reduce anxiety and help patients cope with symptoms of cough and breathlessness then it can be integrated into the care of all IPF patients to improve quality of life.
+
+ All patients attending our specialist IPF clinic will be asked to complete a hospital anxiety and depression questionnaire (HADS).
+
+ All those with anxiety (HADS-A of equal to or greater than 8) will be eligible for entry.
+
+ Study information will be provided to these patients and they will then be contacted between 24 and 48 hours later by telephone to confirm they wish to enter the study.
+
+ If they wish to participate a hospital visit will be arranged to complete informed consent, gather baseline information and be randomised.
+
+ If allocated to the CBT intervention group they will then receive a maximum of 6 (minimum of 2) sessions of CBT on an individual basis.
+
+ Patients allocated to the placebo group will receive written information on anxiety management.
+
+ All patients will attend four more clinic visits at three, six, nine and twelve months after randomisation.
+
+ At each clinic visit they will complete five questionnaires (totalling 60 questions) and undergo lung function and six minute walk test.
+
+ They will be consented to wear a cough monitor for a 24 hour period at both baseline and 3 month visits.
+
+ The cough monitor records the number of times a patient coughs and how long they cough for during a 24 hour period.
+
+ A small microphone is attached to the clothing and another small microphone to the chest wall which is connected to a small recording device.
+
+ The device is carried around the waist.
+
+ The patient will then return the cough monitor the following day.
+
+ The monitor records not only coughing sounds but also other sounds around the microphone.
+
+ However, computer software is used to remove parts of the recording where there is no sound, such as when reading or sleeping.
+
+ It is also designed to remove distant noises, such as another person's conversation or noise from a television but this depends on how loud or close the noise is to the microphone.
+
+ The anonymised recordings will be analysed by a trained researcher at Manchester University who counts the number of coughs.
+
+ The recordings are kept confidential and are stored anonymously at the University of Manchester for a period of 15 years.
+
+.
+
+ Does CBT Improve the Perception/Impact of Cough and Breathlessness in IPF Patients@highlight
+
+Idiopathic Pulmonary Fibrosis (IPF) is a chronic progressive lung disease of unknown cause for which there is no effective medical treatment.
+
+ The main symptoms are increasing breathlessness and cough which can significantly impact on quality of life (QOL) often leading to anxiety and depression.
+
+ The focus of disease management is shifting from pharmacological attempts to reduce disease progression to managing symptoms and a more holistic approach.
+
+ Cognitive behavioural therapy (CBT) is increasingly used to treat anxiety and depression in chronic disease.
+
+ Our investigators aim to determine whether CBT can reduce anxiety and depression related to symptoms and improve QOL in patients with IPF.
+
+ This study will compare CBT intervention (Group 1) against standard treatment (Group 2).
+
+ Patients will be recruited from a specialist IPF clinic - all patients attending with IPF who suffer from anxiety will be eligible to participate in the study.
+
+ The study aims to recruit 30 patients (15 in each group).
+
+ Patients will be randomly allocated into each group using an envelope concealment system.
+
+ At entry a baseline visit will be conducted with information gathered regarding disease severity, hospital admissions, medication, symptoms (subjective and objective), quality of life and anxiety and depression using questionnaires and routine clinical tests.
+
+ Patients will then receive CBT intervention (Group 1) or no intervention (Group 2).
+
+ Patients receiving CBT will undergo a maximum of 6 (minimum of 2) individual therapy sessions.
+
+ Follow up visits for both groups will be conducted at 3, 6, 9 and 12 months with the same information gathered as at the baseline visit.
+

@@ -1,0 +1,12 @@
+(firstQuint)Anesthesia for Emergency Orthopedic Surgery.
+
+ This retrospective study included patients of all ages who have undergone emergency orthopedic surgery between January 2015 and December 2015 after approval of the research ethics committee.
+
+ Medical record forms and electronic medical record system of the hospital were used in the analysis of medical data with regard to age, sex, ASA score, anaesthesia technique, comorbidities, surgery diagnosis, length of surgery, complications and admission to intensive care unit after surgery.
+
+.
+
+ Anesthesia for Emergency Orthopedic Surgery@highlight
+
+The aim of this retrospective study is to evaluate the preferred anaesthesia techniques in our clinic for emergency orthopedic surgery at a 1 year period.
+

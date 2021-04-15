@@ -1,0 +1,18 @@
+(firstQuint)First Time Use of SD-809 in Huntington Disease.
+
+ This is a randomized, double-blind, placebo-controlled, parallel-group study designed to evaluate the efficacy, safety and tolerability of SD-809 for the treatment of chorea associated with Huntington's Disease.
+
+ Approximately 90 subjects will be randomized (1:1) into the study, with approximately 45 subjects receiving SD-809 and 45 subjects receiving placebo.
+
+ The study will be conducted at approximately 30 centers in the U.
+
+S.
+
+ and Canada.
+
+.
+
+ First Time Use of SD-809 in Huntington Disease@highlight
+
+The purpose of this study is to determine whether SD-809 tablets are effective in the treatment of chorea associated with Huntington's Disease.
+

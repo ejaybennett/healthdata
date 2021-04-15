@@ -1,0 +1,18 @@
+(thirdQuint)An Exploratory Study of Nasonex in Patients With Moderate to Severe Persistent Allergic Rhinitis and Intermittent Asthma.
+
+ The primary objective is to explore the efficacy of mometasone furoate nasal spray (MFNS) in comparison with placebo in improving the quality of life of subjects with moderate to severe persistent allergic rhinitis and intermittent asthma as measured by the Rhinasthma Questionnaire (Global Summary Score).
+
+ In addition, there are two secondary objectives.
+
+ The first secondary objective is to evaluate the efficacy of MFNS in improving the quality of life of subjects with moderate to severe persistent allergic rhinitis and intermittent asthma as measured by the Rhinasthma Upper Airways Score, the Rhinasthma Lower Airways Score, and the Rhinasthma Respiratory Allergy Impact Score.
+
+ The second secondary objective is to evaluate the efficacy of MFNS in relieving the subject's symptoms of allergic rhinitis and asthma as measured by the Total 5 Symptoms Score (T5SS) and the Global Symptom Score (T5SS+asthma symptoms) and by the use of rescue medication on demand.
+
+.
+
+ An Exploratory Study of Nasonex in Patients With Moderate to Severe Persistent Allergic Rhinitis and Intermittent Asthma@highlight
+
+The primary objective of this study is to explore the efficacy of Nasonex (mometasone furoate nasal spray) in comparison with placebo in improving the quality of life of subjects with moderate to severe persistent allergic rhinitis and intermittent asthma.
+
+ A secondary objective is to evaluate the efficacy of Nasonex in relieving the subject's symptoms of allergic rhinitis and asthma.
+

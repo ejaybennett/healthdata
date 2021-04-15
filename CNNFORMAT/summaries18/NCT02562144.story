@@ -1,0 +1,24 @@
+(fifthQuint)A Clinical Trial of Cutaneous Xylocaine Spray to Reduce Intravenous Cannulation Pain in Adults.
+
+ The enrolled subjects will get an intravenous cannulation in both elbows.
+
+ The influence of the left or right-handedness is reduced by randomizing the arms of the subjects in the placebo group or xylocaine group.
+
+ The subject will get before xylocaine spray is placed, the intervention-arm, one intravenous cannulation in one of the elbows, the other intravenous cannulation is placed in the other arm before placebo spray is placed, the control arm.
+
+ The pain score during insertion of the cannulation, the incidence of adverse events and the success rate and degree of difficulty to place an intravenous cannulation.
+
+ The subjects and the one who place the cannulations will be blinded to the treatment.
+
+.
+
+ A Clinical Trial of Cutaneous Xylocaine Spray to Reduce Intravenous Cannulation Pain in Adults@highlight
+
+The enrolled subjects will get an intravenous cannulation in both elbows.
+
+ The subject will get before xylocaine spray is placed, the intervention-arm, one intravenous cannulation in one of the elbows, the other intravenous cannulation is placed in the other arm before placebo spray is placed, the control arm.
+
+ The pain score during insertion of the cannulation, the incidence of adverse events and the success rate and degree of difficulty to place an intravenous cannulation.
+
+ The subjects and the one who place the cannulations will be blinded to the treatment.
+

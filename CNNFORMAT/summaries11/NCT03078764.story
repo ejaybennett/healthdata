@@ -1,0 +1,30 @@
+(thirdQuint)The Adaptation, Usability, and Feasibility of a Mobile Health (mHealth) System to Improve Type 2 Diabetes Self-management in Thailand.
+
+ There is a serious shortage of community nurses to address Thailand's significant and expanding burden of poorly controlled type 2 diabetes.
+
+ However, mobile health (mHealth) strategies are likely to significantly improve and extend Thai nurses' ability to monitor and manage these patients.
+
+ This study aims to: 1) investigate the feasibility and acceptability of a culturally- and clinically-adapted mHealth intervention with adult Thai diabetic patients and their community nurses, and 2) estimate the intervention's effect upon glycated hemoglobin (HbA1c), fasting blood glucose, self-management behaviors, and diabetes-related distress in uncontrolled type 2 diabetes.
+
+ Thirty-six patients with poorly controlled type 2 diabetes (along with their regular nurses) will be recruited through an established community clinic network.
+
+ After baseline clinical and behavioral assessment, patients will receive 12 weeks of automated 10-minute weekly Interactive Voice Response (IVR) calls to provide monitoring and self-management support related to glycemic symptoms, medication adherence, and several self-care behaviors.
+
+ Patients' clinical nurse will receive weekly summaries of each IVR call by text message and email with guidance on Thai-appropriate best practices.
+
+ Principal investigator will receive email whenever patients report a potentially urgent issue by IVR, i.
+
+e.
+
+, symptoms of hypoglycemia, or inadequate supply of medication.
+
+ Immediately after the 12-week intervention concludes, clinical and behavioral variables will be reassessed and a mixed-methods process evaluation will be performed.
+
+.
+
+ The Adaptation, Usability, and Feasibility of a Mobile Health (mHealth) System to Improve Type 2 Diabetes Self-management in Thailand@highlight
+
+This project explores the feasibility of using automated telephone calls to adult patients with type 2 diabetes to improve diabetes self-management in Thailand.
+
+ This line of work could significantly extend Thai nurses' ability to manage this growing epidemic, and ultimately reduce the suffering and costs caused by diabetes in Thailand.
+

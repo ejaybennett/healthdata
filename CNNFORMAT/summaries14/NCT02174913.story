@@ -1,0 +1,74 @@
+(thirdQuint)Awakening in Spine Surgery: A Comparison Between Clinical Signs and Bispectral Index.
+
+ 34 patients undergoing spine surgery will be enrolled and randomly devided into two groups.
+
+ We exclude patients who age under 18 and over 80 years, preoperative hemodynamics instability, propofol allergy, receiving drugs interfered with EEG, liver disease, BMI over 30 kg/m2.
+
+ Before induction the patient will be given 0.
+
+9% NaCl or acetate Ringer solution 7 ml/kg.
+
+ Standard monitorings are used to all patients.
+
+ Control group will receive fentanyl 1 mcg/kg and then fentanyl infusion 1 mcg/kg/hr and propofol TCI target 3-7 mcg/ml until asleep and then atracurium 0.
+
+5 mg/kg was given to facilitate endotracheal intubation.
+
+ The patients will be ventilated with air:oxygen 1:1 L.
+
+ The TCI propofol will be adjusted by clinical monitoring.
+
+ If the patient has minor movement, the propofol TCI will be increased incrementally to 0.
+
+5 mcg/ml higher level but if major movement occurs the dose will be increased to1.
+
+0 mcg/ml higher.
+
+ When hypotension occurs, this will be treated by fluid loading 200 ml in 10 min if it is not improved, then ephedrine or norepinephrine will be given and the TCI dose will be decreased by 0.
+
+5 mcg/ml lower level but not lower than 3.
+
+0 mcg/ml.
+
+ Hypertension will be treated by fentanyl bolus 0.
+
+5 mcg/kg and increasing TCI dose to 0.
+
+5 mcg/ml higher level but not more than 7 mcg/ml.
+
+ If hypertension persist, the nicardipine or diltiazem will be given.
+
+ Intervention group receives fentanyl 1 mcg/kg and then fentanyl infusion 1 mcg/kg/hr and propofol by TCI 3-7 mcg/ml until asleep and then atracurium 0.
+
+5 mg/kg was given to facilitate endotracheal intubation.
+
+ The patients will be ventilated with air:oxygen 1:1 L.
+
+ Propofol will be adjusted by BIS monitoring.
+
+ If the movement occurs and BIS 40-60, fentanyl 0.
+
+5 mcg/kg will be given, BIS > 60, TCI dose will be increased 0.
+
+5 mcg/ml higher level until BIS 40-60.
+
+ When hypotension occurs, if BIS 40-60, will be treated by load fluid 200 ml in 10 mins, then ephedrine or norepinephrine will be given, If BIS 60 will be treated by fentanyl bolus 0.
+
+5 mcg/kg and TCI dose will be increased 0.
+
+5 mcg/ml higher level but not more than 7 mcg/ml if not improved, nicardipine or diltiazem will be given.
+
+ if BIS 40-60, nicardipine or diltiazem will be given.
+
+ This record data include awakening time, total propofol dose,intraoperative complications, hemodynamics parameters.
+
+.
+
+ Awakening in Spine Surgery: A Comparison Between Clinical Signs and Bispectral Index@highlight
+
+BIS is one of several equipments used to monitor depth of anesthesia.
+
+Some studies found BIS can reduce total propofol dose when being used with TCI.
+
+The objective is to compare awakening time after spine surgery between using clinical signs and bispectral index (BIS) guided target controlled infusion(TCI) of propofol in patients having neurophysiologic monitoring.
+

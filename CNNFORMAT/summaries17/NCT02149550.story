@@ -1,0 +1,44 @@
+(fifthQuint)Controlled Human Malaria Infection After Bites From Mosquitoes Infected With Two Novel P.
+
+ Falciparum Strains.
+
+ Plasmodium falciparum (Pf) malaria remains responsible for an intolerable burden of morbidity worldwide and an effective vaccine is sorely needed to aid control efforts.
+
+ Before candidate malaria vaccines can enter full-scale (phase IIb) field trials in endemic areas, they must first be tested under controlled circumstances in (phase IIa) Controlled Human Malaria Infection (CHMI) studies.
+
+ Since Pf isolates display a wide genetic diversity across the globe, phase IIa challenge infections should be conducted with both homologous and heterologous strains.
+
+ Since 1998 a highly successful Controlled Human Malaria Infection model at the UMC St Radboud, Nijmegen, The Netherlands, has been employed both to test candidate vaccines and to answer fundamental questions about pathophysiological and immunological mechanisms during early Pf infection in human volunteers.
+
+ To date largely the NF54 strain of P.
+
+ falciparum has been used in this Nijmegen model, with which extensive experience has meanwhile been acquired.
+
+ In order to increase the portfolio of Pf strains available for future phase IIa studies, we recently compared NF54 to the novel candidate strains NF135.
+
+C10 and NF166.
+
+C8 with regards to parasitological, clinical and immunological characteristics during a Controlled Human Malaria Infection (TIP3 study, NCT01627951).
+
+ The pre-patent period in all NF135- and NF166-infected subjects was markedly shorter than in NF54-infected subjects, following the bites of 5 infected mosquitoes on each subject.
+
+ The current study will therefore assess whether NF135 and NF166 infections can still reliably be induced with fewer than 5 infected bites per subject.
+
+ This will envisionably increase the tolerability of NF135 and NF166 infections and render their dynamics more similar to those of NF54 infections, for better comparison in future heterologous challenge studies.
+
+.
+
+ Controlled Human Malaria Infection After Bites From Mosquitoes Infected With Two Novel P.
+
+ Falciparum Strains@highlight
+
+An effective vaccine against malaria is urgently needed to combat the scourge of this disease.
+
+ Before candidate vaccines can be tested in endemic countries, they are first tested in human volunteers in so-called Controlled Human Malaria Infections (CHMI's).
+
+ Ideally, a candidate vaccine should be tested against multiple strains of malaria, representative of the disease's global distribution.
+
+ Recently we compared, for the first time, infections with the novel malaria strains NF135 and NF166 to those with the broadly-used and well-characterised strain NF54.
+
+ The purpose of the current study is to optimise the course of infections with these novel strains by determining the minimum number of infectious bites necessary to reliably induce a malaria infection.
+

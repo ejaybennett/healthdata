@@ -1,0 +1,30 @@
+(fifthQuint)A Randomized Study Evaluating the Incidence of Post Lumbar Puncture Headache With Atraumatic Needles in Hematology.
+
+ Lumbar punctures (LP) are implemented for the diagnosis of patients with hematologic symptoms as well as for the intrathecal chemotherapy injections.
+
+ Post lumbar puncture headache (PLPH) is a common complication in around 30% of patients.
+
+ PLPH is characterized by the occurrence of a headache with an orthostatic component within 12-72 hours after LP with additional symptoms such as nausea.
+
+ Even if this phenomenon spontaneously resolves within 3 to 5 days, symptoms can immobilize the patient and can interfere with his daily activities.
+
+ Technical procedures largely influence the incidence of PLPH.
+
+ Indeed, some studies in neurology, anesthesia and gynecology have previously shown a decreased incidence for PLHP while using atraumatic needles as compared to standard needles.
+
+ So far, few data are available for hematology.
+
+ In this context, it is necessary to better document the incidence of PLPH with the use of atraumatic needles in hematologic patients.
+
+.
+
+ A Randomized Study Evaluating the Incidence of Post Lumbar Puncture Headache With Atraumatic Needles in Hematology@highlight
+
+Lumbar punctures are implemented for the diagnosis of patients with hematologic symptoms as well as for the intrathecal chemotherapy injections.
+
+ Post lumbar puncture headache is a common complication for patients and is characterized by the occurrence of a headache with an orthostatic component, with additional symptoms such as nausea.
+
+ Some studies in neurology, anesthesia and gynecology have previously shown a decreased incidence for post lumbar puncture headache while using atraumatic needles as compared to standard needles.
+
+ In this context, it is necessary to better document the incidence of post lumbar puncture headache with the use of atraumatic needles in hematologic patients.
+

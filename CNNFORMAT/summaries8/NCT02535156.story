@@ -1,0 +1,22 @@
+(secondQuint)Schizotypal Personality Disorder Risperidone.
+
+ The electroencephalogram (EEG) was recorder while participants (SPD participants and controls) performed a behavioral task: the Eriksen Flanker Task.
+
+ The continuous EEG was segmented, corrected for artifacts and averaged.
+
+ A component of the event-related brain potential known as the error-related negativity (ERN) was identified and its amplitude quantified in microvolts.
+
+ This procedure was conducted two hours after the administration of risperidone 1 mg and placebo (lactose) on two different experimental days and for each participant group (SPD patients and controls).
+
+ The amplitude of the ERN after placebo was compared between groups to test for baseline (non-drug-induced) differences between patients and controls.
+
+ The impact of risperidone on the amplitude of the ERN was compared between the two participant groups.
+
+.
+
+ Schizotypal Personality Disorder Risperidone@highlight
+
+Neurophysiological indices of self-monitoring were assessed in a group of patients with Schizotypal Personality Disorder (SPD) and a control group.
+
+ Both groups were assessed after the administration of risperidone and placebo.
+

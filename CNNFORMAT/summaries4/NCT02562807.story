@@ -1,0 +1,12 @@
+(firstQuint)A Study of TAS-303 in Female Patients With Stress Urinary Incontinence.
+
+ This study is double-blind, placebo-controlled crossover study.
+
+ The main purpose of this study is to evaluate Urethral Pressure Profile Parameters in Stress Urinary Incontinence patients who will receive single dose of TAS-303 or Placebo.
+
+.
+
+ A Study of TAS-303 in Female Patients With Stress Urinary Incontinence@highlight
+
+The purpose of this study is to evaluate pharmacological effect, safety and pharmacokinetic of TAS-303 in female patients with Stress Urinary Incontinence.
+

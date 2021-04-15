@@ -1,0 +1,16 @@
+(secondQuint)Effects of Routine Feedback to Clinicians on Youth Mental Health Outcomes: A Randomized Cluster Design.
+
+ The primary approach to improving psychosocial treatment for youths has been to implement evidence-supported treatments (ESTs) in community services.
+
+ However, this approach has not produced clear cut results of effectiveness.
+
+ A recently developed alternative is to improve outcomes through routine measurement and feedback to clinicians and supervisors.
+
+ The investigators used a cluster randomized experiment with 28 sites affiliated with a national behavioral health organization to assess whether clients of clinicians who were scheduled to receive weekly feedback on their clients' progress would improve faster than clients of clinicians who were not scheduled to receive weekly feedback.
+
+.
+
+ Effects of Routine Feedback to Clinicians on Youth Mental Health Outcomes: A Randomized Cluster Design@highlight
+
+The purpose of this clinical trial was to test the hypothesis that clients of clinicians who were scheduled to receive weekly feedback on their clients' progress would improve faster than clients of clinicians who were not scheduled to receive weekly feedback.
+

@@ -1,0 +1,14 @@
+(thirdQuint)Clinical Trial to Compare the Safety and Pharmacokinetics of YHP1604 in Comparison to the Co-administration of Telmisartan/Amlodipine and Rosuvastatin.
+
+ This is a phase 1, open label, single-dose, crossover study to investigate the pharmacokinetics of YHP1604 in comparison to the co-administration of telmisartan/amlodipine and rosuvastatin in healthy male volunteers.
+
+ In ARM1, 30 subjects will be assigned and the subjects will be administered "telmisartan/amlodipine and rosuvastatin" at Day1 and "YHP1604" at Day22.
+
+ In ARM2, 30 subjects will be assigned and the subjects will be administered "YHP1604" at Day1 and "telmisartan/amlodipine and rosuvastatin" at Day22.
+
+.
+
+ Clinical Trial to Compare the Safety and Pharmacokinetics of YHP1604 in Comparison to the Co-administration of Telmisartan/Amlodipine and Rosuvastatin@highlight
+
+This is a phase 1, open label, single-dose, crossover study to investigate the pharmacokinetics of YHP1604 in comparison to the co-administration of telmisartan/amlodipine and rosuvastatin in healthy male volunteers Hypothesis: "YHP1604" and "telmisartan/amlodipine and rosuvastatin" are showing equal pharmacokinetics.
+

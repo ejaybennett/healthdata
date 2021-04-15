@@ -1,0 +1,50 @@
+(fifthQuint)Juno Perth Clinical Trial.
+
+ Phase I: To compare sleep and sleep-breathing parameters for patients who use AutoEPAP iVAPS (experimental arm) compared to iVAPS (commercially available therapy) Participants already established on non-invasive ventilation (NIV) will be recruited to participate for 3 nights in a monitored sleep unit.
+
+ They will have a sleep study each night: Night 1 will involve an evaluation of their current NIV settings.
+
+ Some of these settings will be used to set up AutoEPAP iVAPS and iVAPS.
+
+ Night 2 & 3: the participants will be randomised to AutoEPAP iVAPS or iVAPS.
+
+ They will have sleep studies on each therapy, whereby their sleep and sleep-breathing will be monitored and evaluated.
+
+ After each night, the participants will be asked to complete a questionnaire about how well they slept.
+
+ Phase II: To compare sleep-breathing and therapy adherence for patients who use AutoEPAP iVAPS (experimental arm) compared to their usual therapy (Spontaneous Time (ST) mode).
+
+ Participants already established on non-invasive ventilation (NIV; ie.
+
+ ST mode) will be recruited to participate for 14 nights.
+
+ This study will occur at home.
+
+ The participants will be randomised to trial AutoEPAP iVAPS or ST mode therapy for Week 1 and 2.
+
+ Data will be collected onto the respiratory device (i.
+
+e.
+
+ Juno) detailing objective usage, air leak and breathing parameters (e.
+
+g.
+
+ oxygenation).
+
+ Participants will also complete a questionnaire after each week to evaluate subjective sleep quality and comfort.
+
+ Blood samples will also be collected Pre-week 1, and after week 1 & 2 to measure oxygen, carbon dioxide and bicarbonate levels in the blood.
+
+ Blood samples will be taken from the ear lobe.
+
+.
+
+ Juno Perth Clinical Trial@highlight
+
+This study is to evaluate the efficacy of a new therapy (Automatic Expiratory Positive Airway Pressure with intelligent Volume Assured Pressure Support (AutoEPAP iVAPS)) designed to treat respiratory insufficiency, respiratory failure and/or nocturnal hypoventilation with upper airway obstruction.
+
+ The study will be performed in two phases: In a sleep unit and in the home environment.
+
+ The new therapy will be compared against two existing ventilator therapies: "Spontaneous Timed (ST) mode" and "Intelligent Volume Assured Pressure Support (iVAPS)".
+

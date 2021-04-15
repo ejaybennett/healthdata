@@ -1,0 +1,16 @@
+(firstQuint)Microporous Polysaccharide Hemospheres Epistaxis.
+
+ Nosebleeds are a common condition which affect many Americans every day.
+
+The standard treatment in this hospital for nosebleeds that do not resolve with squeezing the nose or nasal spray is to place a nasal packing (aka nasal tampon) into the nose.
+
+ This is an effective treatment in most cases, but patients may find it to be uncomfortable.
+
+ The investigators will be comparing the standard nasal packing with a new type of powder which may also stop nosebleeds.
+
+.
+
+ Microporous Polysaccharide Hemospheres Epistaxis@highlight
+
+The purpose of this study is to compare a new treatment for nosebleeds to the treatment that has been used for many years.
+

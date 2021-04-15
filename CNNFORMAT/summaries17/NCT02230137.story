@@ -1,0 +1,26 @@
+(firstQuint)Text Message for Adolescents With Poorly Controlled Type 1 Diabetes.
+
+ In 2010, the number of children with type 1 diabetes in France is estimated at 12,000 with 60% of them aged 12 to 17 years.
+
+ Compliance is a major issue during adolescence.
+
+ Mobile text message is one of the strategies to enhance adherence.
+
+ The main aim of this study is to assess HbA1c reduction after a 6 month SMS support among adolescents with poorly controlled type 1 diabetes.
+
+ Adherence and quality of life will also be assessed at the end of the trial.
+
+ This study is a prospective randomized monocentric trial.
+
+ Sixty adolescents with type 1 diabetes and HbA1c equal or higher than 8.
+
+5 % will be randomized according to the method of Zelen in two groups : standard treatment versus standard treatment plus support by SMS.
+
+ The patients will receive one SMS before each injection of insulin.
+
+.
+
+ Text Message for Adolescents With Poorly Controlled Type 1 Diabetes@highlight
+
+The purpose of this study is to assess HbA1c reduction after supportive care by SMS among adolescents with poorly controlled type 1 diabetes.
+

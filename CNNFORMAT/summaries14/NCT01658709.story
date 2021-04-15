@@ -1,0 +1,41 @@
+(fifthQuint)Predicting Ankle Injury Through Clinical Functional Measures in Adolescent Athletes.
+
+ The objective of this study is to determine if a clinical measure of dynamic postural control, the star excursion balance test (SEBT), and a simple functional testing battery, the Functional Movement Screen (FMS), can be used effectively to predict ankle injury in high school and collegiate athletes across a variety of sports.
+
+ Males and females between the ages of 14 and 24 enrolled at one of three designated high schools in Toledo, OH or at the University of Toledo will be recruited for this study.
+
+ Eligible participants will be signed up and medically cleared to participate in football, basketball, baseball, softball, soccer, volleyball, and/or cross country during the 2012/2013 academic year.
+
+ Participants will be healthy and must be cleared by a physician for full participation at the time of enrollment in the study.
+
+ All the enrolled student athletes will be made aware of the study and the requested prior to their pre-season physicals by the coaching staff and ATC prior to the beginning of the first day of practice.
+
+ Consent and assent will be obtained using appropriate university approved forms.
+
+ In this prospective study design, pre-season dynamic postural control data and previous injury history will be collected from the high school and collegiate athletes.
+
+ These athletic facilities are all serviced by certified Athletic Trainers (ATC) and physicians associated with the University of Toledo and the University of Toledo Medical Center.
+
+ Prior to the beginning of the 2012/2013 competition seasons, athletes from the identified sites will, as part of their pre-season physical exam requirements, perform measures of the SEBT and the FMS before the first day of practice.
+
+ The performance of the SEBT and the FMS are explained in detail in the attached protocol.
+
+ During the competition season, the number of practice and competition person exposures, as well as the number of ankle injuries, will be recorded by the ATC at each school.
+
+ Injury incidence is explained in detail in the attached protocol.
+
+ At the end of the competition seasons, the rate of ankle injuries/exposure will be calculated and compared with the pre-season SEBT scores to create a simple and a complex prediction model for risk of ankle injury.
+
+.
+
+ Predicting Ankle Injury Through Clinical Functional Measures in Adolescent Athletes@highlight
+
+The objective of this study is to determine if a clinical measure can be used effectively to predict ankle injury in high school and collegiate athletes across a variety of sports.
+
+ Hypothesis: For each ankle injury category (lateral ankle sprain, medial ankle sprain, syndesmosis ankle sprain, Achilles rupture, fracture) participants that suffer these injuries will have a significantly lower SEBT normalized composite score and FMS composite score compared to those participants that do not suffer the injury Hypothesis #1b: Similar to a previous study examining high school basketball players22, using receiver operator characteristic (ROC) curves, we will be able to calculate likelihood ratios, odds ratios, sensitivity and specificity and determine the ideal cut-off point of the SEBT normalized composite score and FMS composite score that will be able to predict the risk of each ankle injury category (lateral ankle sprain, medial ankle sprain, syndesmosis ankle sprain, Achilles rupture, fracture).
+
+ Athletes from identified sites will perform measures of the star excursion balance test (SEBT) and the Functional Movement Screen FMS before the first day of practice.
+
+ During the competition season, the number of practice and competition person exposures, as well as the number of ankle injuries, will be recorded.
+
+ The rate of ankle injuries/exposure will be calculated and compared with the pre-season SEBT scores to create a simple and a complex prediction model for risk of ankle injury

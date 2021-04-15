@@ -1,0 +1,12 @@
+(firstQuint)Data Collection and Analysis of Patients Who Have Had an Electrophysiological Procedure.
+
+ The purpose of the database is to complete outcomes research (risk factors, follow-up, procedural data) Perhaps the most important research for any busy clinical laboratory is to appreciate the tendencies and trends that are occurring in their own laboratory setting.
+
+ This will have a tremendous impact on educating the OSU staff as well as perhaps other centers on best medical practices.
+
+.
+
+ Data Collection and Analysis of Patients Who Have Had an Electrophysiological Procedure@highlight
+
+The purpose of the database is to complete outcomes research of electrophysiological procedures.
+

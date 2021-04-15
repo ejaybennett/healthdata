@@ -1,0 +1,20 @@
+(firstQuint)Use of Omegaven Fish Oil Emulsion for Parenteral Nutrition Associated Liver Disease in Infants and Children.
+
+ Unlike conventional intravenous fat emulsions, Omegaven cent is comprised solely of fish oils containing primarily omega-3 fatty acids.
+
+ Animal studies have shown that IV fat emulsions such as fish oil that are high in eicosapentaenic and docosahexaenoic acids reduce impairment of bile flow as seen in cholestasis caused by conventional fat emulsions.
+
+ It is thought that by administering Omegaven cent in place of conventional phytosterol/soybean fat emulsions, cholestasis may be prevented or reversed, and patients will be able to be maintained on adequate PN for growth until they are able to ingest adequate nutrition enterally.
+
+ Ongoing studies are addressing safety and efficacy of Omegaven cent in the pediatric population.
+
+ In this trial, infants and children with parenteral nutrition associated liver disease will receive Omegaven cent as compassionate use to potentially prevent progression of disease.
+
+ Safety and efficacy are monitored.
+
+.
+
+ Use of Omegaven Fish Oil Emulsion for Parenteral Nutrition Associated Liver Disease in Infants and Children@highlight
+
+Use of a fish oil emulsion to decrease liver disease due to long term intravenous nutrition.
+

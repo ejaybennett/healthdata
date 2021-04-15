@@ -1,0 +1,62 @@
+(fifthQuint)Internet Monitoring vs Medication to Control Blood Sugar in Type 2 Diabetes.
+
+ 1.
+
+ Purpose: To determine the effectiveness of an Internet-based glucose monitoring system (IBGMS) in the absence of medication changes.
+
+ 2.
+
+ Hypothesis: IBGMS without medication changes is comparable to conventional medication at reducing HbA1c levels over 8% in patients with T2DM.
+
+ 3.
+
+ Justification: Patients with T2DM having elevated HbA1c levels may be prescribed additional medications to help manage their blood sugar levels, which include oral hypoglycemic agents and/or insulin.
+
+ As IBGMS has been shown to be effective in reducing HbA1c in T2DM, there is an opportunity to determine whether if this system could be used as an alternative to medication.
+
+ The benefits would include reduced side effects as a result of substituting for the effects of medication, as well as reduced financial costs associated with acquiring medication.
+
+ Considering that IBGMS increases the frequency at which patients receive feedback to change medications as compared to typical treatment, the risk is as typical for a patient opting for no medication changes for the same period of time.
+
+ 4.
+
+ Objectives: The primary end-point is to determine if patients using IBGMS have reduced HbA1c values at followup, and to compare the reduction to the control group on typical medications.
+
+ 5.
+
+ Research Method: 120 patients with T2DM satisfying the inclusion criteria will be recruited and have baseline HbA1c established through regular lab blood tests.
+
+ They will be randomized into one of two groups, one that will be trained to use IBGMS and one control group going on an appropriate additional medication.
+
+ The IBGMS group will be asked to report their blood sugars to their endocrinologist biweekly and receive feedback for each report.
+
+ No medication changes will be offered in the feedback, but lifestyle or dietary recommendations may be included.
+
+ The control group will be asked to take their new medications as indicated by their endocrinologist.
+
+ Both groups will have followup visits with their endocrinologist at 3 and 6 months, and will also have blood tests done at those time points checking their HbA1c levels.
+
+ The effectiveness of both interventions will be evaluated individually and against each other.
+
+ For the IBGMS group, a rescue secondary endpoint occurs if a subject maintains an HbA1c level at or greater than 8% after 3 months; the subject will be withdrawn from the study and put under standard care.
+
+ 6.
+
+ Statistical Analysis: The sample size was calculated to be 120 by estimating mean differences and standard deviations using data from previous studies.
+
+ For the calculation the statistical power was 0.
+
+80 and alpha of 0.
+
+05.
+
+.
+
+ Internet Monitoring vs Medication to Control Blood Sugar in Type 2 Diabetes@highlight
+
+Managing blood sugar levels is important for patients with type 2 diabetes (T2DM) to minimize health problems and complications.
+
+ One way for patients to notify doctors and receive feedback about their blood sugar management is through an online system.
+
+ As Internet-based glucose monitoring systems (IBGMS) have already been shown to be effective, the investigators hypothesize that IBGMS is effective as an intervention even when limiting feedback to non-medicine related changes.
+

@@ -1,0 +1,22 @@
+(fifthQuint)An Efficacy and Safety Study of Low-dose Transdermal Therapeutic System (TTS)-Fentanyl D-Trans in Taiwan Participants With Cancer Pain.
+
+ This is an open-label (all people know the identity of the intervention), multi-center (when more than one hospital or medical school team work on a medical research study), single-arm, non-randomized study to evaluate the efficacy and safety of low-dose TTS-fentanyl in Taiwan participants with cancer pain.
+
+ Eligible participants will be enrolled and scheduled to return at Day 0, 7, 14 and 28.
+
+ Participants will receive TTS-fentanyl for 28 days at a starting dose of 12 micrograms per hour (mcg/h) (one patch).
+
+ Dose of fentanyl can increased or decreased as per Investigator's discretion to maintain participant's pain score at 2 or less on the Brief Pain Inventory (BPI) question 6 (that tells how much pain you have right now).
+
+ Safety will primarily be evaluated by measuring participant's dropout rate due to adverse events.
+
+ Participants' safety will be monitored throughout the study.
+
+.
+
+ An Efficacy and Safety Study of Low-dose Transdermal Therapeutic System (TTS)-Fentanyl D-Trans in Taiwan Participants With Cancer Pain@highlight
+
+The purpose of this study is to evaluate safety/tolerability and clinical utility of low-dose transdermal therapeutic system (TTS [medicated adhesive pad that is placed on the skin to deliver a timed-release dose of medication through the skin into the bloodstream]) - fentanyl in Taiwan participants with cancer pain.
+
+ Secondly, to demonstrate the dropout rate that will be decreased by initiating therapy with12 microgram per hour (mcg/hr) instead of with 25 mcg/h.
+

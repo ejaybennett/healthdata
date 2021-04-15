@@ -1,0 +1,34 @@
+(fifthQuint)Hemorrhoids and Metalloproteinases, Observational Study.
+
+ Introduction.
+
+ An association between hemorrhoidal disease and matrix metalloproteinases (MMPs) has been described previously.
+
+ MMPs regulate extracellular structural proteins and tissue remodeling.
+
+ Neutrophil gelatinase-associated lipocalin (NGAL) is involved in the regulation of MMP activity.
+
+ The aim of this work was to study the relationship between the levels of MMPs and NGAL and different stages hemorrhoids.
+
+ Methods.
+
+ In a multicenter, open-label, prospective study, patients with hemorrhoids were recruited and represented the Group I (patients with symptomatic hemorrhoids - Grade I to IV sec.
+
+ Goligher), a further group of healthy volunteer subjects were also recruited as the control group (Group II).
+
+ Enzyme-linked immunosorbent assay and Western blot analysis will evaluate the levels of immunoreactive MMPs and NGAL in all patients with hemorrhoids.
+
+.
+
+ Hemorrhoids and Metalloproteinases, Observational Study@highlight
+
+An association between hemorrhoidal disease and matrix metalloproteinases (MMPs) has been described previously.
+
+ MMPs regulate extracellular structural proteins and tissue remodeling.
+
+ Neutrophil gelatinase-associated lipocalin (NGAL) is involved in the regulation of MMP activity.
+
+ The aim of this work was to study the relationship between the levels of MMPs and NGAL and different stages hemorrhoids.
+
+ The study provides potentially important insights to the understanding of the natural history of Hemorrhoids and MMPs and NGAL regulation.
+

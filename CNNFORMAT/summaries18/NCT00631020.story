@@ -1,0 +1,116 @@
+(fifthQuint)Youth Smoking Cessation: Therapy +/- "The Patch".
+
+ Tobacco use is the leading preventable cause of death in the United States, and current estimates project that 6.
+
+4 million of our nation's youth will die prematurely from a smoking-related disease (Fellows et al.
+
+, 2002).
+
+ Extant data suggest that three of every five adolescent smokers are nicotine-dependent, and that some subgroups of adolescents are at higher risk for dependence (e.
+
+g.
+
+, daily or heavy smokers, incarcerated youth, youth in vocational schools, depressed youth, youth with Attention Deficit Hyperactivity Disorder (ADHD)).
+
+ Adolescent tobacco smoking increases risk for a wide range of negative health consequences (Abrantes et al.
+
+, 2005; Anda et al.
+
+, 1990; Biederman et al.
+
+, 2006; Escobedo et al.
+
+, 1998; Kandel et al.
+
+, 1986; Kollins et al.
+
+, 2005; Wilens & Dodson 2004).
+
+ For example, smoking-related cancer risk is increased with early age of initiating smoking and longer time of smoking, underscoring the importance of addressing this health risk behavior in youth (Centers for Disease Control and Prevention, 1994).
+
+ Reducing tobacco use by adolescents is a national health priority (see Healthy People 2010, Objective, 27.
+
+2 (Office of Disease Prevention and Health Promotion 2000)).
+
+ Approximately 4% of 8th graders, 7.
+
+5% of 10th graders, and 13.
+
+6% of 12th graders smoke daily and almost half of these youths smoke half a pack per day (Johnston & O'Coner 2005).
+
+ In recent polls, most adolescent smokers reported having tried unsuccessfully to quit (Grimshaw et al.
+
+, 2003; Hollis et al.
+
+, 2003).
+
+ Smoking cessation treatment during adolescence has the potential to interrupt the progression to nicotine dependence, which is attended by a wide range of negative health consequences (Anda et al.
+
+, 1990; Escobedo et al.
+
+, 1998; Kandel & Davies 1986).
+
+ Given the need for effective smoking cessation programs aimed at youth, scientifically rigorous research is warranted to reduce adolescent smoking (Backinger et al.
+
+, 2003).
+
+ This project will address gaps in the scientific treatment literature.
+
+ In keeping with developments in other fields of medicine, we believe that further advances in smoking cessation will move towards a goal of personalized treatment.
+
+ In order to optimize the aim for personalized treatment we will include genetic testing.
+
+ For some smoking cessation treatments, evidence has begun to accumulate that the inter-individual variability in response to treatment benefits and side effects may be influenced by inheritance.
+
+ In the smoking cessation treatment literature, some observations have already been made suggesting that common gene variants may be associated with different treatment outcomes.
+
+ The association between depression and smoking has led to interest in whether the short allele of the serotonin transporter gene may be associated with increased vulnerability to smoking and nicotine dependence, although to our knowledge this has yet to be demonstrated (Brody, et al.
+
+ 2005).
+
+ Such findings suggest that individual vulnerability to the reinforcing effects of smoking, and most important to this study differences in quitting success, could be partially predicted by individual genotype.
+
+ Additionally, motivational and psychosocial factors have also been identified as likely predictors of treatment response.
+
+ We are seeking predictors that would allow us to reach the ultimate objective: to contribute to an algorithm to better match youth and effective smoking cessation treatment.
+
+ Specific Aims of the study are as follows: 1.
+
+ To evaluate an intervention for adolescent smoking cessation.
+
+ 2.
+
+ To examine moderators and mediators of successful smoking cessation.
+
+.
+
+ Youth Smoking Cessation: Therapy +/- "The Patch"@highlight
+
+Reducing tobacco use by adolescents is a national health priority.
+
+ In recent polls, most adolescent smokers reported having tried unsuccessfully to quit.
+
+ Smoking cessation treatment during adolescence has the potential to interrupt the progression to nicotine dependence, which is attended by a wide range of negative health consequences.
+
+ Given the need for effective smoking cessation programs aimed at youth, scientifically rigorous research is warranted to reduce adolescent smoking.
+
+ This project will address gaps in the scientific treatment literature.
+
+ The goal of this project is to develop a tailored, practical, and efficacious smoking cessation intervention.
+
+ Combined with other efforts in the field, this work can provide an initial guide to an evidence-based treatment for smoking cessation in youth.
+
+ In keeping with developments in other fields of medicine, we believe that further advances in smoking cessation will move towards a goal of personalized treatment.
+
+ Such an individualized approach for adolescent smoking cessation will be informed by further investigation of the relationships between outcomes in this trial.
+
+ To serve these goals, we propose the following program: Youths who smoke regularly will receive a 6 week intervention using "cognitive-behavioral motivational enhancement" (CBME) supplemented by nicotine replacement therapy (NRT), if youth and parents desire this option.
+
+ Furthermore, youth has to smoke more than 5 cigarettes a day in order to qualify for nicotine replacement therapy.
+
+ This approach is consistent with treatment guidelines for smoking cessation (Fiore 2000).
+
+ Compared with participants who fail to achieve smoking cessation, those who successfully achieve smoking abstinence during intervention, will have lower baseline rates of comorbid ADHD, lower depressive symptom scores, enhanced readiness to quit, more negative attitudes towards smoking, fewer friends who smoke, and fewer family members who smoke.
+
+ The investigators predict that the intervention will help youth to quit smoking and will examine predictions of successful quitting.
+

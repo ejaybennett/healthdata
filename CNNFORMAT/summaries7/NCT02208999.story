@@ -1,0 +1,9 @@
+(firstQuint)Follow-up of Post-spinal Implantable Neurostimulator PRECISION.
+
+ Longitudinal study with a follow-up of 2 years in patients implanted with the Precision neurostimulator.
+
+ This study will describe the characterisrics of the patients, of the implantation and will assess the long-term efficacy, complications, revision rates and final explantation of the device.
+
+ Follow-up of Post-spinal Implantable Neurostimulator PRECISION@highlight
+
+Assessing the long-term efficacy, complications, revision rates and final explantation of the device

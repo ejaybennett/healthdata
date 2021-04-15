@@ -1,0 +1,32 @@
+(thirdQuint)RX-3117 in Combination With Abraxane in Subjects With Metastatic Pancreatic Cancer.
+
+ This will be a Phase 1a/2b multicenter 2-stage study.
+
+ Phase 1 will be conducted as a dose-finding, open-label study of oral RX-3117 administered in combination with Abraxane(R) to subjects with metastatic pancreatic cancer.
+
+ The recommended phase 2 dose (RP2D) and schedule of RX-3117, in combination with Abraxane(R), will be determined based on the safety profile, dose modification, and pharmacokinetics (PK).
+
+ Phase 1 will be conducted using a combination of the single agent maximum tolerated dose (MTD) for RX-3117 and the Abraxane dose as per the package insert for patients with pancreatic cancer in combination with gemcitabine.
+
+ After completion of the Phase 1 portion, a Phase 2a study will be conducted using a 2 stage, open-label design, of RX 3117 and Abraxane(R) in combination to treat subjects with metastatic pancreatic cancer as first line therapy.
+
+ Approximately 10 subjects will participate in the Stage 1 at the dose identified in Phase 1 (RP2D).
+
+ Subjects will be treated for up to 8 cycles of combined therapy.
+
+ An interim analysis will be conducted after 10 evaluable subjects have been treated at the RP2D, have completed a minimum of 4 cycles of therapy, or have discontinued therapy due to progressive disease before completing 4 cycles.
+
+ If an adequate number of Responders are observed out of the initial 10 evaluable subjects, then 40 additional subjects will be enrolled to participate in Stage 2.
+
+ Subjects will be treated for up to 8 cycles of combined therapy.
+
+.
+
+ RX-3117 in Combination With Abraxane in Subjects With Metastatic Pancreatic Cancer@highlight
+
+This will be a Phase 1a/2b multicenter 2-stage study.
+
+ Phase 1 will be conducted as a dose-finding, open-label study of oral RX-3117 administered in combination with Abraxane(R) to subjects with metastatic pancreatic cancer.
+
+ After completion of the Phase 1 portion, a Phase 2a study will be conducted using a 2 stage, open-label design, of RX 3117 and Abraxane(R) in combination to treat subjects with metastatic pancreatic cancer as first line therapy.
+

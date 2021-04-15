@@ -1,0 +1,24 @@
+(secondQuint)The Effects of Caffeine Withdrawal on Migraine.
+
+ The actions of caffeine as an antagonist of adenosine receptors have been extensively studied, and there is no doubt that both daily and sporadic dietary consumption of caffeine has substantial biological effects on the nervous system.
+
+ The current opinion is that caffeine both can cure and trigger headaches.
+
+ Caffeine is a component of many combination drugs marketed for the relief of headaches, but on the other hand it is strongly incriminated as a risk factor for developing chronic headache.
+
+ Withdrawal may cause symptom constellations similar to the migraine syndrome.
+
+ Further, caffeine consumption may affect sleep and alertness, possibly influencing the risk of migraine attacks.
+
+ .
+
+.
+
+ The Effects of Caffeine Withdrawal on Migraine@highlight
+
+Sporadic and chronic dietary consumption of caffeine has substantial biological effects on the nervous system.
+
+ The effects on migraine are at large not known.
+
+ In this study we want to assess the effects of caffeine withdrawal on migraine.
+

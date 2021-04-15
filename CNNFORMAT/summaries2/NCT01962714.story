@@ -1,0 +1,28 @@
+(fifthQuint)Loving-Kindness Meditation for PTSD.
+
+ Aim 1: Evaluate if LKM is non-inferior to CPT-C in producing reductions in PTSD symptoms among Veterans with current PTSD.
+
+ Aim 2: Evaluate the non-inferiority of LKM and CPT-C in producing reductions in depressive symptoms among Veterans with current PTSD.
+
+ Exploratory Aim: Evaluate potential mediators of response to LKM and to CPT to provide preliminary information regarding whether they are consistent with the mechanisms of change conceptualized by each intervention to be associated with improvement in PTSD and depression.
+
+ Methods: A randomized controlled non-inferiority trial comparing LKM to CPT-C.
+
+ In the proposed project 170 Veterans with PTSD will be randomized to LKM or CPT-C.
+
+ Comprehensive assessments will be performed at baseline as well as at the end of the 12-week interventions and 3 and 6 months later.
+
+ PTSD symptoms, depression, posttraumatic maladaptive cognitions and self-compassion will be assessed weekly during the treatment phase to assess temporality of change and to assess mediators of outcomes.
+
+.
+
+ Loving-Kindness Meditation for PTSD@highlight
+
+This randomized controlled trial will assess whether a novel complementary and alternative medicines (CAM) intervention, Loving-kindness Meditation (LKM), is not meaningfully inferior to another group-based PTSD treatment , Cognitive Processing Therapy (Cognitive Only version; CPT-C) for reductions in PTSD and depressive symptoms.
+
+ 170 male and female Veterans with current PTSD will be randomized to LKM or CPT-C.
+
+ The investigators hypothesize that Veterans randomized to LKM will report mean reductions in PTSD and depressive symptom severity that are not meaningfully worse than CPT-C.
+
+ The investigators further hypothesize that reductions in posttraumatic maladaptive beliefs will more strongly mediate PTSD and depressive symptom improvement for those assigned to CPT-C than those assigned to LKM.
+

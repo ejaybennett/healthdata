@@ -1,0 +1,42 @@
+(thirdQuint)Switch Maintenance Pembrolizumab in Patients With NSCLC After First Line Platinum Doublet Chemotherapy.
+
+ Rationale: There are currently no data on maintenance therapy with PD1/PDL1 inhibitors in NSCLC.
+
+ After an initial response / stable disease to first line chemotherapy, non progressors / candidates for maintenance treatment, represent an ideal setting / patient group to test the efficacy of Pembrolizumab given that chemotherapy results in antigen release, hence it has the potential to augment immune checkpoint blockade, and following disease cytoreduction, this represents a lower disease burden setting, that may suit checkpoint inhibition better given the recent studies in Prostate cancer with Ipilimumab and Melanoma with Pembrolizumab(suggesting better outcomes for patients with less extensive disease).
+
+ Primary endpoint: percentage of patients that have not progressed at 1 year using immune related radiological criteria.
+
+ All patients to be treated with fixed dose 200mg iv Pembrolizumab until unacceptable toxicity, disease progression or completion of 2 years therapy.
+
+ Statistical Analysis Plan Summary The study employs a one stage phase II Fleming's design using irPFS at 1 year as primary endpoint.
+
+ Using response hypotheses of H0 25% i.
+
+e.
+
+ that the irPFS at 1 year for the maintenance Pembrolizumab arm is 25%, compared to 12% in the normal chemotherapy maintenance arm, with a significance level (i.
+
+e.
+
+, the probability of rejecting H0 when it is true) =0.
+
+05 and the power (i.
+
+e.
+
+ the probability of deciding the regimen is active) is 0.
+
+8 when true response rate is 25%, 48 patients are required to be entered into this study.
+
+ Entry Criteria Diagnosis/Condition for Entry into the Trial In order to be eligible for trial entry, patients must have a diagnosis of metastatic Non Small Cell Lung Cancer, and should not have progressed after first line palliative chemotherapy with a platinum doublet.
+
+ They should have received no more than six (6) cycles of a platinum doublet chemotherapy, and should be able to receive treatment within three (3) to six (6) weeks from the last chemotherapy administration.
+
+.
+
+ Switch Maintenance Pembrolizumab in Patients With NSCLC After First Line Platinum Doublet Chemotherapy@highlight
+
+Single arm one stage Phase II study: post 4-6 cycles platinum doublet chemotherapy for patients with metastatic Non Small Cell Lung Cancer (NSCLC) offering Pembrolizumab as maintenance therapy to non-progressors with primary endpoint: Immune Related Progression Free Survival (irPFS) at 1 year.
+
+ Aim to show that this is at least 25% (compared to an expected 12% 1 year PFS based on the Pemetrexed and Erlotinib maintenance trials).
+

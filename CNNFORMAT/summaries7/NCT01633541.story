@@ -1,0 +1,26 @@
+(fifthQuint)Chemotherapy AND Bcl-xL Inhibitor (AT-101) For Organ Preservation In Adults With Advanced Laryngeal Cancer.
+
+ Published data demonstrate equal efficacy and improved quality of life when platinum and a taxane were compared with platinum and 5-Fluorouracil [31].
+
+ Additionally, weekly cisplatin regimens (30-40 mg/m2) with radiotherapy appear to be equally efficacious and better tolerated than standard high-dose cisplatin (100 mg/ m2) regimens with radiation therapy for locally advanced SCCHN [32] The investigators will thus attempt to reduce toxicity from induction chemotherapy with the use of docetaxel/cisplatin (or carboplatin) (TP) in place of our previously used standard regimen of cisplatin and 5-fluorouracil (PF) and administer weekly cisplatin (or carboplatin) with radiation for those patients who are responders to induction therapy.
+
+ Finally, Phase I/II testing of the small molecule inhibitor, AT-101, has recently been completed, and suggests activity in solid tumors when combined with cytotoxic agents.
+
+ Since the investigators have achieved such high survival rates with our treatment selection approach in laryngeal cancer, our ultimate goal is to reduce the rate of salvage laryngectomy which should improve quality of life.
+
+ The investigators hypothesize that specific inhibition of Bcl-2/Bcl-xL function can increase response rates to neoadjuvant chemotherapy and decrease the need for salvage laryngectomy.
+
+ Hence, the investigators propose this study: the treatment of patients with advanced SCC of the larynx with one cycle of platinum plus docetaxel with AT-101, followed by chemoradiotherapy for those responding to this induction regimen and reserving total laryngectomy for those who are non-responders.
+
+.
+
+ Chemotherapy AND Bcl-xL Inhibitor (AT-101) For Organ Preservation In Adults With Advanced Laryngeal Cancer@highlight
+
+To evaluate a new treatment approach for adults with advanced laryngeal cancer: induction chemotherapy with platinum and docetaxel plus AT-101.
+
+ AT-101 is an investigational drug for the treatment of advanced cancer.
+
+ It is hoped that the combination of this chemotherapy regimen will allow cancer patients to keep their voice box and to improve/maintain voice-related quality of life.
+
+ The ultimate goal of this study is to prevent the surgery to remove subjects voice box.
+

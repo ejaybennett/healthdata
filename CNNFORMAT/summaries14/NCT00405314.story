@@ -1,0 +1,16 @@
+(secondQuint)Prehospital CPAP vs.
+
+ Usual Care for Acute Respiratory Failure.
+
+ Continuous positive airway pressure ventilation (CPAP) has been shown to be effective in avoiding endotracheal intubation (ETI) for patients with acute respiratory failure in hospital but despite several case series, the effectiveness of the prehospital application of CPAP by paramedics has not been studied in a randomized fashion.
+
+ We performed a prospective, randomized, non blinded trial to determine whether patients in acute respiratory failure treated with CPAP in the prehospital setting had lower overall ETI rates than those treated with standard care.
+
+.
+
+ Prehospital CPAP vs.
+
+ Usual Care for Acute Respiratory Failure@highlight
+
+The purpose of this study is to evaluate the effectiveness of continuous positive airway pressure ventilation when applied by paramedics to individuals with severe breathing difficulties in the prehospital setting.
+

@@ -1,0 +1,11 @@
+(secondQuint)A Trial to Evaluate a New Strategy in the Functional Assessment of 3-vessel Disease Using the SYNTAX II Score in Patients Treated With PCI.
+
+ The purpose of the SYNTAX II Trial is to investigate the management of de-novo 3-vessel-disease in order to prospectively assess which patients would have at least comparable short and long term clinical outcomes between coronary artery bypass graft and percutaneous coronary intervention (PCI), using contemporary PCI practice.
+
+ In SYNTAX II the effectiveness of a contemporary stent (designed with thinner struts, biocompatible and biodegradable polymer, and a limus based drug), the use of pressure wire assessment of lesions to allow for ischemia-driven revascularisation, intravascular ultrasound (IVUS) guidance to optimise drug eluting stent deployment, and the treatment of (chronic) total occlusion lesions with contemporary techniques, will be compared against PCI practice in the original SYNTAX trial.
+
+ The proposed study would involve the SYNTAX Score II to prospectively recruit subjects on the grounds of patient safety.
+
+ A Trial to Evaluate a New Strategy in the Functional Assessment of 3-vessel Disease Using the SYNTAX II Score in Patients Treated With PCI@highlight
+
+Clinical study that aims to evaluate a new strategy using the SYNTAX II Score calculator in the functional assessment of patients with new coronary 3-vessel-disease who undergo percutaneous coronary intervention (PCI)

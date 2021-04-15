@@ -1,0 +1,16 @@
+(secondQuint)Effects of Low Dose Aspirin Pre-treatment on Platelet Activation Undergoing Off-pump Coronary Artery Bypass Surgery.
+
+ Patients undergoing OPCAB surgery will be randomized to continue preoperative aspirin or discontinue aspirin before surgery.
+
+ Platelet activation can be evaluated by measuring platelet p-selectin using flowcytometry.
+
+ In this study, we will compare platelet-activated markers and conventional coagulation tests.
+
+.
+
+ Effects of Low Dose Aspirin Pre-treatment on Platelet Activation Undergoing Off-pump Coronary Artery Bypass Surgery@highlight
+
+Platelet activation after off pump coronary artery bypass (OPCAB) surgery may affect thrombus formation.
+
+ The purpose of this study is to assess the effects of preoperative continuation of aspirin on platelet activation after off pump coronary artery bypass surgery.
+

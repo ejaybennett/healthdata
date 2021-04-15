@@ -1,0 +1,32 @@
+(thirdQuint)Perfusion Assessment in Laparoscopic Left Anterior Resection.
+
+ Colectomy is a surgical procedure in which a part or all of the colon is removed.
+
+ It is used to treat a variety of diseases including colon cancer, diverticulitis, inflammatory bowel disease (including ulcerative colitis or Crohn's disease) and infarcted bowel.
+
+ This study is the second phase of a three phase process to demonstrate the clinical utility of perfusion assessment by NIR fluorescence angiography in colectomy.
+
+ The initial phase (Phase I) consisted of a number of small investigative studies that have now been completed.
+
+ Upon successful completion of this study, it is anticipated that a prospective, multi center, randomized trial will be conducted (Phase III).
+
+ Information learned from this present study will help guide the design of the randomized trial e.
+
+g.
+
+ specific patient populations that may best benefit from this imaging modality and how randomization should be conducted (e.
+
+g.
+
+ imaged cohort vs.
+
+ non imaged, or all subjects imaged but then randomized to no image assessment in one arm of the study).
+
+.
+
+ Perfusion Assessment in Laparoscopic Left Anterior Resection@highlight
+
+The purpose of this study is to demonstrate that NIR fluorescence angiography using the PINPOINT Endoscopic Fluorescence Imaging System ("PINPOINT System" or "PINPOINT") can assess viability of colon tissue during laparoscopic left colectomy.
+
+ This information will provide the surgeon with clinically relevant information in assessing whether or not the tissue has adequate blood supply in the lower section of the colon prior to a colectomy.
+

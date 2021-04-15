@@ -1,0 +1,18 @@
+(firstQuint)S1119 Peruvian H.
+
+ Pylori Water Contamination Study.
+
+ The objective of this study is to detect the presence of Helicobacter Pylori in the drinking water derived from the public network by molecular and genomic techniques in districts of Lima (Brena, Chorrillos, Comas, El Agustino, La Victoria, Lince, Los Olivos, Miraflores, Puente Piedra, Rimac, San Isidro, San Juan de Lurigancho, San Martin de Porres, Villa El Salvador, and Villa Maria del Triunfo) with high and low incidence of gastric carcinoma.
+
+ The secondary objective of this study is to establish correlations between the findings in water and those of the stomach of patients with symptoms of dyspepsia who live in those districts.
+
+.
+
+ S1119 Peruvian H.
+
+ Pylori Water Contamination Study@highlight
+
+The objective of this study is to elucidate the role of drinking water derived from the public source in Lima, Peru and transmission of H.
+
+ pylori infection using genotypic techniques.
+

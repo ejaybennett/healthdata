@@ -1,0 +1,18 @@
+(thirdQuint)An Effectiveness and Safety Study of Cyclobenzaprine HCl Alone or in Combination With Ibuprofen for Acute Back or Neck Muscle Pain With Muscle Spasm.
+
+ The objective of this multicenter, randomized, open-label, parallel-group, one-week study is to evaluate the effectiveness and safety of cyclobenzaprine HCl 5 mg three times a day for one week, alone or in combination with ibuprofen 400 mg or 800 mg taken three times a day, for acute back or neck muscle pain with muscle spasm.
+
+ The primary measurement of efficacy is the subject-rated global impression of change after seven days of treatment, compared to baseline.
+
+ Safety assessments during the study include the monitoring of adverse events, and a physical examination, assessment of vital signs and medical history of any present illnesses conducted during the baseline visit.
+
+ The study hypothesis is that there will not be a statistically significant difference in patient ratings of global impression of change, muscle spasm, muscle pain, medication helpfulness, and functional ability, between the cyclobenzaprine HCl monotherapy group versus the cyclobenzaprine HCl/ibuprofen 400 mg and cyclobenzaprine HCl/ibuprofen 800 mg groups, for the treatment for acute back or neck muscle pain with spasm.
+
+ Patients receive cyclobenzaprine HCl 5 mg administered orally three times a day for one week, or cyclobenzaprine HCl 5 mg with ibuprofen 400 mg administered orally three times a day for one week, or cyclobenzaprine HCl 5 mg with ibuprofen 800 mg administered orally three times a day for one week.
+
+.
+
+ An Effectiveness and Safety Study of Cyclobenzaprine HCl Alone or in Combination With Ibuprofen for Acute Back or Neck Muscle Pain With Muscle Spasm@highlight
+
+The purpose of this study is to evaluate the effectiveness and safety of cyclobenzaprine HCl 5 mg (muscle spasm medication) taken three times a day, alone or in combination with ibuprofen 400 mg or 800 mg (pain relief medication) taken three times a day, for the treatment of back or neck muscle pain with muscle spasm.
+

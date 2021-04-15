@@ -1,0 +1,26 @@
+(thirdQuint)Relative Bioavailability Study With Enalapril in Healthy Volunteers.
+
+ Trial design: Open label, randomized, 3-way cross-over, 3-treatments, 3-periods in 24 healthy male and female adult subjects.
+
+ Primary objectives: 1.
+
+ To assess the relative bioavailability of 10 mg enalapril administered as orodispersible minitablets (ODMT) with water versus a standard enalapril tablet formulation (reference product: Renitec(R) 2 x 5 mg tablets) taken with water; 2.
+
+ To assess the relative bioavailability of 10 mg enalapril administered as orodispersible minitablets (ODMT) dispersed in the oral cavity versus a standard enalapril tablet formulation (reference product: Renitec(R) 2 x 5 mg tablets) taken with water.
+
+ Secondary objectives: 1.
+
+ To assess whether the PK of enalapril is affected when the orodispersible minitablet (ODMT) is entirely swallowed with water versus dispersion in the oral cavity.
+
+ 2.
+
+ To assess the general safety and tolerability including local tolerability and palatability of enalapril administered as orodispersible minitablet (ODMT).
+
+.
+
+ Relative Bioavailability Study With Enalapril in Healthy Volunteers@highlight
+
+Phase I study in healthy adult male and female volunteers to compare the bioavailability of enalapril administered in orodispersible Minitablets with or without water in comparison to the standard galenic tablet formulation of enalapril.
+
+ The standard pharmacokinetic parameters will be calculated from the bioanalytical results for enalapril and enalaprilat and compared in a descriptive statistical analysis.
+

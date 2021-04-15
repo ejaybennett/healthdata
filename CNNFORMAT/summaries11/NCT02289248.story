@@ -1,0 +1,14 @@
+(firstQuint)Cognitive Behavioral Therapy in Prolonging the Antidepressant Effects of Intravenous Ketamine.
+
+ Twelve subjects with current diagnosis of depressive episode will be recruited to undergo a brief course of 4 intravenous infusions of ketamine, given twice weekly for two weeks in combination with CBT, given twice weekly.
+
+ The CBT course will be 16 total sessions (given over 8 weeks), will begin the day following the initial ketamine infusion, and will be performed by a therapist who has successfully completed extensive training at the Beck Institute for Cognitive Therapy and Research and has experience with similar studies.
+
+ Homework assignments will include thought records and activity charts which are used in standard practice to facilitate CBT interventions.
+
+.
+
+ Cognitive Behavioral Therapy in Prolonging the Antidepressant Effects of Intravenous Ketamine@highlight
+
+Subjects with depressive episodes will be recruited to undergo a brief 2 week course of IV infusions of ketamine in combination with cognitive behavioral therapy for 8 weeks.
+

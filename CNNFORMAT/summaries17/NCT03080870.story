@@ -1,0 +1,24 @@
+(secondQuint)JOYof ART - an Intervention Study.
+
+ JOY of ART study investigates the effects of group based intervention including music, dance and visual arts.
+
+ Art sessions are provided once a week in three months period each session takes 60 minutes.
+
+ Eligible participants are recruited from the City of Kuopio, Finland, total 60 dyads, 30 to intervention group and 30 to control group.
+
+ Health, physical performance and quality of life assessments are conducted at the baseline and in the end of the intervention.
+
+ In addition, participants are contacted by phone and interviewed six months after the intervention has completed.
+
+ For family caregivers qualitative interviews are conducted at the baseline and in the end of the study.
+
+.
+
+ JOYof ART - an Intervention Study@highlight
+
+Music, dance and visual arts are suggested to support health and well-being of older people.
+
+ Intervention studies, however, are scarce.
+
+ JOY of ART study investigates the effects of multicomponent art intervention among older people and ther family caregivers.
+

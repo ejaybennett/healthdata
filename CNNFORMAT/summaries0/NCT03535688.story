@@ -1,0 +1,20 @@
+(firstQuint)D-cycloserine for the Treatment of Chronic, Refractory Low Back Pain.
+
+ This is a 26-week, double-blind, randomized, placebo-controlled two-arm parallel-group trial of d-cycloserine, a pharmacological treatment selected based on positive results from previous preclinical and clinical studies, for the treatment of chronic, refractory low back pain (CBP).
+
+ After a 2-week screening period, individuals will be randomized to receive either 12 weeks of d-cycloserine or placebo and then followed for an additional 12 weeks to evaluate persistence of benefit at study endpoint, 24 weeks after randomization.
+
+ During the 12-week treatment period, participants will undergo evaluation at baseline and at clinic visits on weeks 2, 6 and 12 after randomization to assess pain, proper treatment use and side effects.
+
+ During the subsequent 12-week follow-up period, pain and safety will continue to be assessed monthly by phone calls.
+
+ All patients will also be assessed daily using an electronic diary (eDiary) to record pain and mood.
+
+ T1-MRI, resting state fMRI DTI-MRI, and ASL will be performed at baseline and at the end of 12 weeks for individuals completing MRI.
+
+.
+
+ D-cycloserine for the Treatment of Chronic, Refractory Low Back Pain@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of D-cycloserine versus placebo in relieving the signs and symptoms of patients with chronic lower back pain.
+

@@ -1,0 +1,46 @@
+(fifthQuint)Patient Centered Algorithms to Optimize the Inpatient Experience and Treatment of Ulcerative Colitis.
+
+ Inflammatory bowel disease (IBD) is a chronic gastrointestinal condition with significant morbidity in the form of hospitalizations, surgery, and reductions in quality of life.
+
+ Most patients with IBD are managed in an ambulatory, outpatient setting.
+
+ However, to optimally manage severe disease activity, hospitalization may be required.
+
+ Hospitalized patients are at increased risk for a variety of complications such as infections, venous thrombosis, and surgery.
+
+ The literature has revealed significant variation in care and disease outcomes among hospitalized IBD patients.
+
+ The heterogeneous nature of IBD severity, location, and phenotype as well as limited evidence to guide some therapeutic domains make standardization of IBD care delivery difficult.
+
+ However, hospitalized patients with ulcerative colitis (UC) represent a more homogenous group that may be most amendable to quality improvement initiatives aimed at reducing variation, a known surrogate marker of poor performance.
+
+ The Canadian Association of Gastroenterology has developed guidelines for hospitalized UC patients.
+
+ It is well established, however, that update of guidelines are variable.
+
+ Admission to hospital can also have significant impact on quality of life due to interruptions in life commitments and lost sense of control of disease.
+
+ Maintaining a sense of self-control of disease and active participation in care has been shown to be valuable among individuals with chronic diseases such as IBD.
+
+ The investigators proposed the development of a multi-site, patient centered initiative aimed at improving clinically relevant and patient-centered outcomes through a multi-faceted educational tool for patients admitted to hospital with ulcerative colitis.
+
+ Participating sites will be randomized to usual care versus administering the educational tool to patients which outlines what to expect during their hospital stay and reviews the current guidelines for hospitalized ulcerative colitis management.
+
+.
+
+ Patient Centered Algorithms to Optimize the Inpatient Experience and Treatment of Ulcerative Colitis@highlight
+
+Hospitalized patients with ulcerative colitis (UC) are at increased risk for a variety of complications such as infections, venous thrombosis, and surgery.
+
+ The literature has revealed significant variation in the quality of care to hospitalized UC patients.
+
+ As a result, guidelines for the management of these patients have been developed.
+
+ However, the update of guidelines are variable.
+
+ Admission to hospital can also have significant impact on quality of life due to interruptions in life commitments and lost sense of control of disease.
+
+ Maintaining a sense of self-control of disease and active participation in care has been shown to be valuable among individuals with chronic diseases.
+
+ The investigators propose the development of a multi-site, patient centred initiative aimed at improving clinical and patient-centered outcomes through an educational iPad based tool for patients admitted to hospital with ulcerative colitis.
+

@@ -1,0 +1,19 @@
+(secondQuint)PMC Split Preparation for Colon Cleansing.
+
+ Picosulphate/magnesium citrate is a very effective, safe and tolerated low-volume preparation for colon cleansing.
+
+ This study evaluates whether split dosing is associated to a further increase in efficacy and acceptability in comparison to the standard dose regimen.
+
+ This is a multicenter, randomized, single-blind study performed in 15 endoscopic services in Italy.
+
+ Adult outpatients undergoing colonoscopy will receive picosulphate/magnesium citrate either in the standard dosing (group A, two sachets the day before endoscopy), or in the split dosing (group B, the second dose in the morning of colonoscopy).
+
+ Bowel cleansing will be assessed using the Boston Scale (BBPS) and rated as adequate if >2 in each segment.
+
+ Patient acceptance, satisfaction, and related symptoms will be also recorded.
+
+.
+
+ PMC Split Preparation for Colon Cleansing@highlight
+
+This is an endoscopist-blinded, prospective, multicenter study involving adult outpatients aiming at evaluating whether sodium picosulphate/magnesium citrate split dosing is associated to higher efficacy and acceptability in comparison to the standard dose regimen in bowel cleansing before colonoscopy

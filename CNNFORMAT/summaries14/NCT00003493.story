@@ -1,0 +1,34 @@
+(thirdQuint)Combination Chemotherapy in Treating Patients With Multiple Myeloma.
+
+ OBJECTIVES: I.
+
+ Assess the response rate and duration of response of multiple myeloma treated with doxorubicin HCl liposome, vincristine, and dexamethasone.
+
+ II.
+
+ Define the qualitative and quantitative toxic effects of this regimen in these patients.
+
+ OUTLINE: Patients are stratified into newly diagnosed (group A) and previously treated (group B) patients.
+
+ Patients receive doxorubicin HCl liposome IV over 2.
+
+5 hours, followed by vincristine by bolus IV over 5 minutes on day 1.
+
+ Dexamethasone is administered orally or by IV on days 1-4.
+
+ Treatment is repeated every 4 weeks for a minimum of 6 courses, and 2 courses after maximum response unless unacceptable toxic effects or disease progression occur.
+
+ Patients are followed until death.
+
+ PROJECTED ACCRUAL: A maximum of 33 patients from group A and 34 patients from group B will be accrued for this study within 6-14 months.
+
+.
+
+ Combination Chemotherapy in Treating Patients With Multiple Myeloma@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining more than one drug may kill more tumor cells.
+
+ PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy consisting of liposomal doxorubicin, vincristine, and dexamethasone in treating patients with newly diagnosed or previously treated multiple myeloma.
+

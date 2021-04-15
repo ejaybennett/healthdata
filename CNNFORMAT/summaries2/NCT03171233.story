@@ -1,0 +1,32 @@
+(thirdQuint)Immediate Effects of Two Ankle Mobilization Techniques in the Amplitude of Dorsiflexion and Dynamic Valgus Knee.
+
+ This study aims to verify the immediate effects of ankle mobilization on dynamic knee valgus and to compare two techniques of ankle mobility.
+
+ It will include 102 lower limbs that present deficit of ankle dorsiflexion and dynamic knee valgus in the same lower limb.
+
+ Participants will be divided into two groups, one for ankle mobilization with movement aided by the therapist and another for self mobilization of the ankle.
+
+ The two intervention groups will do the same protocol, same number of sets, repetitions and rest time.
+
+There will be randomisation allocation of individuals in the groups and because of the nature of the interventions only the evaluator may be blind.
+
+ The Kolmogorov - Smirnov test is used to verify the data distribution normality.
+
+ The characterization of the participants is performed by means of descriptive statistical analysis.
+
+ Parametric or non-parametric tests will be used according to the data distribution normality for comparison between groups at baseline.
+
+ The evaluator blinding will be tested using the chi -square test by comparing the randomization code with the evaluator opinion.
+
+ The difference between the groups and their respective confidence intervals will be calculated by linear mixed models using interaction term of "time versus group.
+
+".
+
+ Immediate Effects of Two Ankle Mobilization Techniques in the Amplitude of Dorsiflexion and Dynamic Valgus Knee@highlight
+
+Dynamic knee valgus is an inadequate biomechanical movement of multifactorial cause that may expose the individual to various injuries.
+
+ The range of motion of ankle dorsiflexion is one of the possible influencing factors.
+
+ This study intends to compare the immediate effect of two techniques on ankle mobility and dynamic knee valgus.
+

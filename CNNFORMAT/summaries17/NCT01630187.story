@@ -1,0 +1,18 @@
+(firstQuint)Comparison of Two Doses of Carbetocin for Prevention of Uterine Atony, During Elective Cesarean Section.
+
+ Postpartum hemorrhage is a major cause of mortality and morbidity in the world, and it is most often caused by uterine atony.
+
+ To prevent this complication, uterotonic medication is used during elective cesarean section.
+
+ Carbetocin, a long-acting synthetic analogue of oxytocin, has been used for this purpose for many years.
+
+ This medication has numerous side effects: hypotension, tachycardia, nausea, vomiting, chest pain, etc.
+
+ Using a smaller dose of carbetocin might lower the incidence of these side effects, without compromising prevention of uterine atony in a low-risk group of patient.
+
+.
+
+ Comparison of Two Doses of Carbetocin for Prevention of Uterine Atony, During Elective Cesarean Section@highlight
+
+The purpose of this study is to evaluate the effectiveness of two doses of carbetocin (50 mcg vs 100 mcg) in preventing uterine atony during elective cesarean section.
+

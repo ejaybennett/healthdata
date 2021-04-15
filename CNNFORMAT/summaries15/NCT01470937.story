@@ -1,0 +1,14 @@
+(firstQuint)Early Diabetes Intervention Program.
+
+ A double blind, randomized, placebo-controlled clinical trial of acarbose in subjects with type 2 diabetes (an FDA-approved indication).
+
+ Subjects were identified who had diabetes by glucose tolerance test criteria but non-diabetic fasting glucose concentrations.
+
+ Treatment interventions were assessed for their ability to delay worsening of fasting glucose control.
+
+.
+
+ Early Diabetes Intervention Program@highlight
+
+This is an evaluation of the effect of acarbose to delay worsening of fasting glucose control in early Type 2 diabetes mellitus.
+

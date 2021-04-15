@@ -1,0 +1,32 @@
+(thirdQuint)Baclofen-Amitriptyline Hydrochloride-Ketamine Gel in Treating Peripheral Neuropathy Caused by Chemotherapy in Patients With Cancer.
+
+ OBJECTIVES Primary - Compare the effectiveness of baclofen-amitriptyline hydrochloride-ketamine (BAK) gel versus placebo, in terms of improving sensory neuropathy, in cancer patients with chemotherapy-induced peripheral neuropathy> Secondary> - Compare motor and autonomic symptoms and functioning, mood states, pain, and peripheral neuropathy in these patients.
+
+ - Assess the adverse event profile of topical BAK gel.
+
+ - Explore whether topical BAK gel is absorbed systemically.
+
+ OUTLINE: Patients are stratified according to neurotoxic chemotherapy (active vs non-active), current use of opioids or oral pain medications (yes vs no), pain rating (4-7 vs 8-10), and prior ineffective pharmacologic treatment for peripheral neuropathy (yes vs no).
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients apply 1 spoonful of baclofen-amitriptyline hydrochloride-ketamine gel topically to each area of pain, numbness, and/or tingling on the feet and/or hands twice daily for 4 weeks.
+
+ - Arm II: Patients apply 1 spoonful of placebo gel topically to each area of pain, numbness, and/or tingling on the feet and/or hands twice daily for 4 weeks.
+
+ Some patients in both arms may choose to continue on the active gel or, if on placebo, begin the active gel for an additional 8 weeks off study.
+
+ Patients complete health, pain, mood, and quality of life questionnaires at baseline and periodically during study.
+
+ Patients also record adverse symptoms weekly in a Symptom Experience Diary.
+
+.
+
+ Baclofen-Amitriptyline Hydrochloride-Ketamine Gel in Treating Peripheral Neuropathy Caused by Chemotherapy in Patients With Cancer@highlight
+
+RATIONALE: Baclofen-amitriptyline-ketamine (BAK) gel may lessen peripheral neuropathy caused by chemotherapy.
+
+ It is not yet known whether BAK gel is more effective than a placebo in treating peripheral neuropathy caused by chemotherapy .
+
+ PURPOSE: This randomized phase III trial is studying BAK gel to see how well it works compared with a placebo in treating peripheral neuropathy caused by chemotherapy in patients with cancer.
+

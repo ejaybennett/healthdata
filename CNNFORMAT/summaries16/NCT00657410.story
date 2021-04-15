@@ -1,0 +1,54 @@
+(fifthQuint)Prednisone or Dexamethasone in Newly Diagnosed, Previously Untreated Primary Immune Thrombocytopenic Purpura.
+
+ OBJECTIVES: Primary - To evaluate the role of therapy intensification in adult patients with newly diagnosed, previously untreated primary immune thrombocytopenic purpura with high-dose dexamethasone (HD-DXM), in terms of improvement of response at 6 months after initial response, in comparison with standard-doses of prednisone.
+
+ Secondary - Compare rate of initial response.
+
+ - Compare quality of response.
+
+ - Compare rate of final responses and rate of persistent response.
+
+ - Compare rate of bleeding events.
+
+ - Determine rate of resumed response with HD-DXM in non-responder patients or patients who have lost response (arm I only).
+
+ - Compare time to platelet number increase until a hemostatically effective level is reached and/or disappearance of bleeding symptoms.
+
+ - Compare rate of rescue interventions.
+
+ - Compare rate of eligible patients for splenectomy.
+
+ - Compare rate of patients who underwent splenectomy.
+
+ - Compare rate of patients who develop connective tissue diseases or underlying hematological diseases (myelodysplastic syndromes, chronic lymphoproliferative diseases, others).
+
+ - Compare patient's self reported quality of life.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified by treating center.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I (Standard-dose prednisone): Patients receive oral prednisone at a standard dose (1 mg/Kg) once daily on days 1-28 followed by a 14-day taper.
+
+ Patients considered non-responders at day 42 or who have lost response before evaluation of final response (day 180) are crossed to arm II.
+
+ - Arm II (High-dose dexamethasone): Patients receive oral dexamethasone at a high dose (40 mg/day) once daily on days 1-4.
+
+ Treatment repeats every 14 days for 3 courses.
+
+ Quality of life is assessed at baseline, on day 42 (arm I) or 46 (arm II) (initial response evaluation day), 180 days after initial response evaluation, and at 3, 9, 12 months after randomization.
+
+ After completion of study treatment, patients are followed monthly until 1 year after randomization, every 2 months for 1 year, and then every 3 months for 1 year.
+
+.
+
+ Prednisone or Dexamethasone in Newly Diagnosed, Previously Untreated Primary Immune Thrombocytopenic Purpura@highlight
+
+RATIONALE: Drugs, such as prednisone and dexamethasone, may change the immune system and be an effective treatment for primary immune thrombocytopenic purpura.
+
+ It is not yet known which drug is more effective in treating primary immune thrombocytopenic purpura.
+
+ PURPOSE: This randomized phase III trial is studying high-dose dexamethasone to see how well it works compared to standard-dose prednisone in treating patients with newly diagnosed, previously untreated primary immune thrombocytopenic purpura.
+

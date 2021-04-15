@@ -1,0 +1,16 @@
+(secondQuint)A Study of a Levonorgestrel-Releasing Intrauterine System for Long-Term, Reversible Contraception.
+
+ This is a Phase 3, randomized, open-label, multicenter evaluation of the efficacy of a levonorgestrel-releasing intrauterine system (LNG20).
+
+ The goals of the study include provision of information to understand efficacy and safety within the widest range of possible users of the LNG20.
+
+ Typically, intrauterine contraceptive studies only include women 18-35 years of age for efficacy and safety, and place limits on parity and larger body size.
+
+ Women outside of these characteristics also desire an effective intrauterine contraceptive.
+
+ Accordingly, this study will include women who are both nulliparous and parous as well as women less than 18 years of age in the primary efficacy and safety analyses.
+
+ A Study of a Levonorgestrel-Releasing Intrauterine System for Long-Term, Reversible Contraception@highlight
+
+The primary objective of this study is to assess the efficacy of a levonorgestrel-releasing intrauterine system (LNG20) in nulliparous and parous females of child-bearing potential who request long-term, reversible contraception for up to 10 years.
+

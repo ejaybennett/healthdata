@@ -1,0 +1,14 @@
+(secondQuint)Differences Between the Bayley-II and the Bayley-III in Very Preterm Infants at 2 Years.
+
+ The objective of this randomized crossover study is to test the hypothesis that scores on the Bayley Scales of Infant Development-III are higher than scores on the Bayley Scales of Infant Development-II in the same group of infants who were born very preterm.
+
+ First, however, the investigators must demonstrate that significant "learning" does not occur when the tests are administered 4-8 weeks apart.
+
+ The investigators hypothesize that scores on the Bayley-III will be higher than scores on the BSID-II, irrespective of the order in which the tests are administered.
+
+.
+
+ Differences Between the Bayley-II and the Bayley-III in Very Preterm Infants at 2 Years@highlight
+
+The objective of this randomized study is to test the hypothesis that scores on the Bayley Scales of Infant Development-III (Bayley-III) are higher than scores on the Bayley Scales of Infant Development-II (BSID-II) in the same group of infants who were born very preterm.
+

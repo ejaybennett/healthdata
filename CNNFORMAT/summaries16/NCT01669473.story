@@ -1,0 +1,30 @@
+(fifthQuint)A Primary Care, EHR- Based Strategy to Promote Safe and Appropriate Drug Use.
+
+ The strategy takes advantage of health information technology to assist patients with Medication Therapy Management (MTM) tasks, intervening with a set of low-literacy MTM printed tools triggered by the Electronic Health Record (EHR) in a primary health care clinic.
+
+ Patients at the University of Illinois at Chicago (UIC) Medicine Clinic who are randomized to the intervention arm will be given three printed tools, one when they check in to the clinic and the other two when they check out.
+
+ The Electronic Health Record (EHR) triggers the printing of these tools, and the receptionist hands them to the patient.
+
+ Patients receive either English or Spanish language materials depending on the preference determined in the screening process and stored in their EHR.
+
+ Specific Aims 1.
+
+ Refine and Field Test an EHR strategy for generating and distributing low literacy prescription information for English and Spanish-speaking patients 2.
+
+ Assess the process of the EHR intervention and its fidelity for providing prescription information for patients at the point of prescribing and dispensing medications.
+
+ 3.
+
+ Evaluate the effectiveness of the EHR strategy to improve medication understanding, reconciliation, regimen consolidation, and adherence compared to standard care.
+
+ In addition, we will be powered to also investigate our strategy's impact on intermediary clinical outcomes including systolic blood pressure, HbA1c, and LDL cholesterol.
+
+.
+
+ A Primary Care, EHR- Based Strategy to Promote Safe and Appropriate Drug Use@highlight
+
+This study seeks to evaluate a low-literacy strategy in a primary health care setting for promoting safe and effective prescription medication use among English and Spanish-speaking patients with diabetes.
+
+ The investigators hypothesize that in comparison with patients receiving standard care, the patients that received the Electronic Health Record (EHR) strategy will 1) demonstrate better understanding of how to safely dose out their medication regimen; 2) have fewer discrepancies in their medication lists; 3) take their medication regimen more efficiently; 4) have greater adherence to their medication regimen.
+

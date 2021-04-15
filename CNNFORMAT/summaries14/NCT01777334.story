@@ -1,0 +1,32 @@
+(secondQuint)The Purpose of This Study is to Evaluate the Spirometric Effect (Trough FEV1) of Umeclidinium/Vilanterol 62.
+
+5/25 mcg Once Daily Compared With Tiotriopium 18 mcg Once Daily Over a 24-week Treatment Period in Subjects With COPD.
+
+ This is a Phase IIIb multicenter, randomized, double-dummy, parallel group study to evaluate the efficacy and safety of UMEC/VI Inhalation Powder (62.
+
+5/25 mcg) when administered once-daily via a novel dry powder inhaler (DPI) compared with tiotropium (18 mcg) administered once-daily via the HandiHaler over a treatment period of 24 weeks in subjects with COPD.
+
+ Eligible subjects will be randomized 1:1 to UMEC/VI Inhalation Powder (62.
+
+5/25 mcg), or tiotropium (18 mcg) for 24 weeks.
+
+ There will be a total of 10 study clinic visits conducted on an outpatient basis.
+
+ Subjects who meet the eligibility criteria at Screening (Visit 1) will complete a 7- to 10-day run-in period followed by a 24-week treatment period.
+
+ Clinic visits will be at Screening, Randomization (Day 1), Day 2 and after 4, 8, 12, 16, 20 and 24 weeks, and 1 day after the Week 24 visit (Visit 1 to Visit 10, respectively).
+
+ Additionally a safety Follow-Up assessment will be conducted either by phone call or clinic visit where required approximately 7 days after the end of the study treatment (Visit 10 or Early Withdrawal, if applicable).
+
+ The total duration of subject participation, including the Follow-Up will be approximately 26 weeks.
+
+.
+
+ The Purpose of This Study is to Evaluate the Spirometric Effect (Trough FEV1) of Umeclidinium/Vilanterol 62.
+
+5/25 mcg Once Daily Compared With Tiotriopium 18 mcg Once Daily Over a 24-week Treatment Period in Subjects With COPD@highlight
+
+The purpose of this 24 week study is to evaluate the spirometric lung function effect (trough FEV1) of Umeclidinium/Vilanterol 62.
+
+5/25 once daily compared to Tiotropium 18 mcg once daily along with safety assessments in subjects with COPD.
+

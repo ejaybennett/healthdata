@@ -1,0 +1,20 @@
+(secondQuint)Treatment for Borderline Personality Disorder.
+
+ Participants are randomly assigned to receive either Systems Training for Emotional Predictability and Problem Solving (STEPPS) or treatment as usual (TAU) for 20 weeks.
+
+ STEPPS is a new cognitive behavioral treatment which involves skills training for emotion management and lifestyle behaviors as well as education for the affected individual's family members, friends, and professional caregivers.
+
+ Participants are assessed at baseline and Weeks 4, 8, 12, 16, and 20.
+
+ Interviews of patient's health care providers and family members and self-rating scales are used to assess patients.
+
+ Follow-up assessments are made 1, 3, 6, 9, and 12 months after study completion.
+
+ Participants must live within a reasonable driving distance of Iowa City, IA.
+
+.
+
+ Treatment for Borderline Personality Disorder@highlight
+
+This study will expose patients to either a Systems Training for Emotional Predictability and Problem Solving (STEPPS) or treatment as usual (TAU) to determine the more effective therapy for treating borderline personality disorder.
+

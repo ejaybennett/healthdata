@@ -1,0 +1,10 @@
+(firstQuint)Nilotinib for Cytomegalovirus Prophylaxis and Treatment After Allogeneic Hematopoietic Stem Cell Transplantation.
+
+ The purpose of this study is to determine whether nilotinib is effective in the prophylaxis and treatment of CMV reactivation in allo-HSCT patients.
+
+ Prophylaxis Part: patients will be treated with nilotinib after their hemogram engraftment to prevent CMV reactivation Salvage Part: patients who have had intractable CMV reactivation after gancyclovir therapy will be treated with nilotinib.
+
+ Nilotinib for Cytomegalovirus Prophylaxis and Treatment After Allogeneic Hematopoietic Stem Cell Transplantation@highlight
+
+The purpose of this study is to determine whether nilotinib is effective in the prophylaxis and treatment of CMV reactivation in allo-HSCT patients.
+

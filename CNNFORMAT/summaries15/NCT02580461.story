@@ -1,0 +1,24 @@
+(fifthQuint)Renewing Caregiver Health and Well-being Through Exercise.
+
+ The REHCARGE study is a randomized control trial testing a structured exercise program for cancer family caregivers.
+
+ One half of the participants enrolled will receive no exercise program until after twelve weeks have passed (the delayed start group) and the other half of the participants will start the exercise program right away.
+
+ In addition to regular attendance at exercise classes, participants will also be asked to complete some measurements throughout the study including an initial assessment and one after 12 weeks and 24 weeks of the exercise programs.
+
+ If participants are a part of the delayed start group, they will receive a fourth fitness assessment.
+
+ Assessments include an evaluation of physical activity levels, quality of life, depression, sleep, and social support through survey type questionnaires as well as a fitness assessment to measure overall fitness and body composition.
+
+ Participants will receive an individualized exercise program appropriate for their fitness level as well as 6 education sessions about healthy behaviors throughout the study.
+
+.
+
+ Renewing Caregiver Health and Well-being Through Exercise@highlight
+
+The RECHARGE study is evaluating the effect of a 24 week structured exercise and education program on the physical and emotion health, quality of life, physical activity and fitness levels of family caregivers.
+
+ Very little research has been done examining the impact of a structured exercise program designed for family caregivers of cancer patients.
+
+ The purpose of this study is to determine if physical activity is effective in improving caregiver health and well-being.
+

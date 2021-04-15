@@ -1,0 +1,44 @@
+(fifthQuint)Enduring Happiness and Continued Self-Enhancement (ENHANCE) 2.
+
+0.
+
+ In 2011, the United Nations defined happiness as a "fundamental human goal" and invited Member States to pursue measures that enhance the happiness of their citizens.
+
+ The majority of people across the globe agree that happiness is an important goal.
+
+ In accordance with this global goal to be happy, the psychological literature abounds with interventions to combat problems that may prevent people from being happy-from obesity to depression and physical pain.
+
+ However, happiness is not simply the absence of problems.
+
+ Yet, interventions to help people attain and maintain higher levels of happiness are rare.
+
+ Accordingly, in a previous study, the investigators designed and evaluated the efficacy of a theoretically-grounded, evidence-based randomized controlled trial for enhancing happiness and well-being.
+
+ In the present study, it is the goal to assess the efficacy of modifications made to the original program, and compare the program to a self-help comparison group.
+
+ All participants in the study will complete weekly questionnaires, as well as the same battery of online assessments at baseline, the end of the study, and 3-months following the study.
+
+ The investigators will be examining if changes seen from baseline to the end of the interventions are maintained through a maintenance intervention in both arms for 3 months following the primary intervention.
+
+ It is expect that participants actively completing the in-person ENHANCE program will report greater increase in their overall levels of happiness/well-being at the end of the 12-week program compared to participants in the MBSR self-help group.
+
+ It is predicted that there will be a downstream effect on happiness for all participants' mental and physical health, cognitive function, social relationships, and other positive outcomes, but that this effect will be greater for participants in the active in-person ENHANCE group.
+
+ The insights gained from this research could be used in future intervention research towards promoting health, achievement, citizenship, and better relationships.
+
+.
+
+ Enduring Happiness and Continued Self-Enhancement (ENHANCE) 2.
+
+0@highlight
+
+The study is designed to compare the efficacy of two programs intended to improve happiness and well-being among healthy, community adults between the ages of 25 and 75 years.
+
+ Participants will complete either an in-person program (ENHANCE) or a mindfulness-based stress reduction (MBSR) self-help program over 3-months.
+
+ The ENHANCE program will include 12-weekly sessions based on researched principles of happiness.
+
+ Alternatively, the MBSR self-help guide will teach ways to replace stress-promoting habits.
+
+ Participants will be asked to complete a series of measures at three points of the study: at the start of the study, the end of the study, and 3-months following the study.
+

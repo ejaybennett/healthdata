@@ -1,0 +1,15 @@
+(firstQuint)Comparison Study of CoaguChek XS PT and Laboratory Innovin PT by NTUH Lab Medicine.
+
+ This trial is going to proceed in two phases: Familiarization Phase and Evaluation Phase.
+
+ The Preliminary Comparison Study consists of ten (10) patients being tested with the CoaguChek system and the laboratory reference method.
+
+ This preliminary study is intended to help familiarize the operator with the dosing of the CoaguChek XS PT strips and to serve as an indicator as to whether some of the variables.
+
+ Evaluation Phase consists of testing seventy (70) patient samples with the CoaguChek XS system and with the laboratory method.
+
+.
+
+ Comparison Study of CoaguChek XS PT and Laboratory Innovin PT by NTUH Lab Medicine@highlight
+
+Comparison Study of CoaguChek XS PT and Laboratory Innovin PT by NTUH Lab Medicine

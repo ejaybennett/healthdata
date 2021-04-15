@@ -1,0 +1,19 @@
+(firstQuint)Correlation Analysis Between Rotator Cuff Tear and the Superior Migration of Humeral Head.
+
+ In this research, 60 patients with unilateral rotator cuff tear in Peking University People's Hospital in 2018 are planned to be recruited .
+
+They will receive Magnetic Resonance Imaging(MRI) and X-ray of the painful shoulder before enrollment in this study, the duration between the two examinations was no longer than 1 week, also there is no past history of surgery in the selected shoulders.
+
+ There is no other exclusion criteria.
+
+ Upward Migration Index(UMI) is the ratio between the distance of humeral head center to the lower surface of acromion, and the radius of humeral head circle.
+
+ It can help to minimize the effect of anatomy difference and imaging magnification, compared with the traditional acromiohumeral distance(AHD).
+
+ Then we use the Spearman correlation analysis to evaluate the relationship between UMI and fatty degeneration, rotator cuff tear size and the thickness of ruptured supraspinatus tendon from X-ray and MRI.
+
+.
+
+ Correlation Analysis Between Rotator Cuff Tear and the Superior Migration of Humeral Head@highlight
+
+To evaluate the association between rotator cuff tear and the proximal migration of humeral head

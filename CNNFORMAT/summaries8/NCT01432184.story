@@ -1,0 +1,20 @@
+(secondQuint)Feasibility Trial to Maintain Normal Cerebral Oxygen Saturation in High-Risk Cardiac Surgery.
+
+ The proportion of high-risk patients requiring cardiac surgery and of high-risk cardiac surgeries is increasing.
+
+ These populations of patients are at increased risk of perioperative morbidity and mortality.
+
+ Transesophageal echocardiography (TEE) evaluation in cardiac surgery has been shown to impact on the perioperative management of patients and to improve outcomes.
+
+ Near infrared-reflectance spectroscopy (NIRS) is a technique that has been employed since the mid-1970's and that can be used as a non-invasive and continuous monitor of the balance between cerebral oxygen delivery and consumption.
+
+ Two recent randomized trials have shown an association between correction of cerebral desaturation and shorter recovery room and hospital stay in non-cardiac surgery, and with a decrease in major organ dysfunction and in intensive care length of stay after coronary artery bypass.
+
+ By combining NIRS and TEE in high-risk patients, optimal tissue perfusion could be achieved and perioperative morbidity and mortality could be reduced.
+
+.
+
+ Feasibility Trial to Maintain Normal Cerebral Oxygen Saturation in High-Risk Cardiac Surgery@highlight
+
+Using the brain and the heart as index organs, perioperative interventions to optimize cerebral oxygen saturation and cardiac contractility in high-risk patients undergoing cardiac surgery should have a beneficial systemic effect for enhancing global tissue perfusion and improve outcomes.
+

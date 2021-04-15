@@ -1,0 +1,32 @@
+(secondQuint)A Small Clinical Study: Photodynamic Therapy to Treat Hidradenitis Suppurativa.
+
+ This study will investigate the efficacy of PDT using aminolevulinic acid (ALA) and either blue light or intense pulsed light on active lesions of HS.
+
+ We will attempt to validate the success noted in a previously published case series using PDT with ALA and blue light (Gold, Bridges et al).
+
+ We will evaluate effect of treatment by number of lesions, global disease severity, and patient self-assessment with the Dermatology Life Quality Index (DLQI).
+
+ Detailed informed consent will be obtained prior to treatment at study enrollment.
+
+ The first four treatment visits will involve clinical evaluation, photography and application of the ALA to the affected area.
+
+ After a 45 minute incubation period, the area will be washed and then treated with either blue light or intense pulsed light (IPL), depending on body area/investigator choice.
+
+ One and three-month follow-up visits will involve evaluation of efficacy, but no active treatment.
+
+ Gold M, Bridges TM, et al.
+
+ ALA-PDT and blue light therapy for hidradenitis suppurative.
+
+ J Drugs Dermatol.
+
+ 2004; 3 (1 Suppl):S32-5.
+
+.
+
+ A Small Clinical Study: Photodynamic Therapy to Treat Hidradenitis Suppurativa@highlight
+
+This study will investigate the efficacy of Photodynamic Therapy (PDT), which is the therapeutic use of photochemical reactions, in treating hidradenitis suppurativa (HS), a chronic inflammatory condition affecting areas of skin with sweat glands.
+
+ We expect that PDT is effective in treating HS.
+

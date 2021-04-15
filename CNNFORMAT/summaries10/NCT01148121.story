@@ -1,0 +1,26 @@
+(secondQuint)Assessment of Bone Density and Bone Turnover Markers in Patients With Down Syndrome and Comparison to the Ts65Dn Model.
+
+ Osteoporosis is responsible for more than 1.
+
+5 million fractures and $14 billion in medical care costs annually (U.
+
+S Dept of Health and Human Services data, 2006).
+
+ Down syndrome is an independent risk factor for osteopenia/osteoporosis.
+
+ Increases in life expectancy as well as costly morbidity following fracture are reasons for further investigation of osteoporosis and prevention in this population.
+
+ Etiology for low bone density is presently unknown in this population but may be related to unique genes on chromosome 21 which alter the biochemistry of bone metabolism or change the gonadal, thyroid and parathyroid function to alter bone formation and/or resorption.
+
+ There are no published data on the measurement of bone turnover markers in the Down syndrome population; therefore we will measure and accrue this information and compare to our Ts65Dn data, as described later in this protocol.
+
+ This pilot study will serve as the foundation for a larger translational research grant which will address multiple issues regarding the pathogenesis, diagnosis and treatment of osteoporosis in the Down syndrome patient population and the Down syndrome mouse model (Ts65Dn).
+
+ The data has the potential to improve our fundamental understanding of osteoporosis pathogenesis and treatment in the Down syndrome patient with potential applications to treatment in the general population.
+
+.
+
+ Assessment of Bone Density and Bone Turnover Markers in Patients With Down Syndrome and Comparison to the Ts65Dn Model@highlight
+
+This study may provide information that may serve as the foundation for a larger research study to address issues regarding the causes, diagnosis, and treatment of osteoporosis in the Down syndrome patient population.
+

@@ -1,0 +1,38 @@
+(fifthQuint)Phase II Trial Assessing the Efficacy of Immuno-Radiation Abscopal Effect in Patients With Metastatic Cancers.
+
+ Nowadays, metastatic cancer treatment is evolving with systemic treatments (target therapies and immunotherapies).
+
+ Combinations and new therapeutic schemes have recently boosted the interest for an effect called "abscopal".
+
+ This effect is based on the immune-stimulating effect of high doses ionizing radiations, but also on synergistic association with systemic treatment with immunologic mechanisms.
+
+ This effect could enhance the tumor local control, but also its distant control.
+
+ Numerous preclinical evidences as well as some clinical case reports described the abscopal effect.
+
+ Ongoing clinical studies are investigating with radiotherapy abscopal effect alone, or associated with immunotherapies (anti-CTLA-4, PD-1 or PDL-1).
+
+ The present study proposes a new association, based on an original biological rational.
+
+ The proposed theory is based on combination of radiation therapy with usual targeted therapies capable of ADCC (Antibody-Dependant Cell Cytotoxicity).
+
+ This association could enhance in an additive/synergistic way the benefic impact of immune system activation on tumor control.
+
+ In the present study, Stereotactic Body Radio-Therapy (SBRT) will be combined to the standard systemic treatment for first line treatment of metastatic breast, colorectal and VADS (upper aerodigestive tract) cancers.
+
+ Indeed, these treatments have in common the use of target therapies capable of ADCC.
+
+ The IRAM study objective is to highlight a possible abscopal effect of this combination for metastatic cancer patients.
+
+.
+
+ Phase II Trial Assessing the Efficacy of Immuno-Radiation Abscopal Effect in Patients With Metastatic Cancers@highlight
+
+The proposed theory is based on combination of radiation therapy with usual targeted therapies capable of ADCC (Antibody-Dependant Cell Cytotoxicity).
+
+ This association could enhance in a additive/synergistic way the benefic impact of immune system activation on tumor control.
+
+ Stereotactic Body Radio-Therapy (SBRT) will be combined with the first line chemotherapy for metastatic breast, colorectal or VADS (upper aerodigestive tract) cancers.
+
+ The IRAM study objective is to highlight a possible abscopal effect of this combination for metastatic cancer patients.
+

@@ -1,0 +1,28 @@
+(secondQuint)RObotic PArtial Nephrectomy National Study.
+
+ The primary objective of the study is to describe the characteristics of patients operated for kidney cancer by a robotic partial nephrectomy in France (recruiting centers, patient profile, tumor characteristics).
+
+ Secondary Objective(s): 1.
+
+ To describe the surgical techniques and operative development.
+
+ 2.
+
+ To assess the modalities of haemostasis, during robotic partial nephrectomy.
+
+ 3.
+
+ To assess peri-operative morbidity in robotic partial nephrectomy and post-operative complications.
+
+ 4.
+
+ To assess the outcome of renal function after a robotic partial nephrectomy.
+
+ This study is a national, multicenter, prospective, cohort.
+
+.
+
+ RObotic PArtial Nephrectomy National Study@highlight
+
+The purpose of the study is to set up the larger prospective study on robotic partial nephrectomy, to describe the characteristics of patients operated for kidney cancer by this surgical procedure and also to determine the modalities of hemostasis in this procedure.
+

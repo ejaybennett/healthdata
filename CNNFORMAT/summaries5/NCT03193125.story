@@ -1,0 +1,18 @@
+(firstQuint)Carnitine and Liver Mitochondria Fatty Acid Processing.
+
+ This project will use stable isotope techniques and magnetic resonance spectroscopy (MRS) to take a first step toward clarifying how the benefit of oral carnitine supplementation depends on basal mitochondrial fatty acid processing (MFAP) and MFAP modification, with a specific focus on the liver.
+
+ Approximately 24 healthy young individuals will be enrolled, with 20 expected to complete.
+
+ Before and after 14 days of oral carnitine supplementation or placebo, MFAP will be measured using measures of acetyl-carnitine concentration (from long-TE proton MRS) and de novo lipogenesis (DNL, from analysis of blood metabolites following 13C-labeled acetate infusion and high-fructose drink challenge).
+
+ The MFAP measures will be collected before and after loading participants with a high-fructose drink.
+
+ Fructose is solely metabolized by the liver.
+
+.
+
+ Carnitine and Liver Mitochondria Fatty Acid Processing@highlight
+
+This double-blind, placebo-controlled randomized trial will assess whether 14 days of oral carnitine supplementation modifies mitochondrial fatty acid processing in healthy young adults.
+

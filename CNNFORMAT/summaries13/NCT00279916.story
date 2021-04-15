@@ -1,0 +1,32 @@
+(thirdQuint)Short Term Relief of Eustachian Tube Dysfunction and Serous Otitis Media Using Intranasal Steroid Sprays.
+
+ Newer intranasal steroid preparations are generally safe with relatively few side effects as demonstrated in large studies dealing with allergic rhinitis.
+
+ Eustachian Tube Dysfunction (ETD) primarily refers to an absent or inadequate ability to open the eustachian tube.
+
+ The term Serous Otitis Media (SOM) generally referring to an accumulation of fluid within the middle ear space, in absence of signs indicating acute infection.
+
+ Commonly, this can result in a conductive hearing loss due to restriction of tympanic membrane mobility.
+
+ Negative Middle Ear Pressure (NMEP) is often a precursor to the development of SOM, and has it's own effect on the acoustic properties of the middle ear, also resulting in conductive hearing loss.
+
+ Due to the lack of a single accepted medical intervention to deal with ETD and the general benign nature of this condition, it is common practice for some physicians to take a "wait and see" initial approach when this clinical entity is encountered in lieu of prescribing unproved medications.
+
+ It is generally accepted that some patients with Negative Middle Ear Pressure (NMEP) and/or Serous Otitis Media (SOM) will undergo spontaneous resolution of symptoms, yet the exact resolution rates are not clearly defined.
+
+ The purpose of this double-blind, randomized study of either triamcinolone acetonide nasal spray or a sham placebo nasal spray for 6 weeks is to determine if there is improvement in a test of middle ear pressure.
+
+ Neither the subjects nor the Investigator will know which of the two treatments is being used until the end of the study.
+
+ Resolution of ETD symptoms will be measured by changes in the tympanogram, a test to measure pressure within the middle ear.
+
+ This measurement will be taken at baseline and after 6 weeks of treatment.
+
+.
+
+ Short Term Relief of Eustachian Tube Dysfunction and Serous Otitis Media Using Intranasal Steroid Sprays@highlight
+
+We hypothesize that intranasal steroid application will have a beneficial therapeutic effect in adults with regard to resolution of serous otitis media and/or negative middle ear pressure, as compared to placebo.
+
+ We further hypothesize that the rate of spontaneous short-term resolution of otitis media wit effusion in adults treated with placebo will be relatively low (minority of patients).
+

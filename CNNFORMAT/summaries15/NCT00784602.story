@@ -1,0 +1,18 @@
+(secondQuint)Observing Pelvic Organ Prolapse Symptoms And Treatment Outcomes.
+
+ Patients meeting the inclusion/exclusion criteria will be identified by reviewing the hospital's surgical boarding list and contacted by phone to obtain informed consent.
+
+ Once informed consent is obtained, chart review will be conducted here at William Beaumont Hospital and at the physician's office to collect patient information related to their prolapse condition.
+
+ Prior to surgery, questionnaires will be mailed and completed by the participant and then again at 6 and 12 months after surgery, and then yearly.
+
+ Questionnaires will assess urinary, bowel, and sexual function, and patient treatment goals, treatment satisfaction, and general health and wellbeing.
+
+ Completion of the questionnaires will be voluntary, and participants will be followed in this manner until voluntary withdrawal, exclusionary criteria emerge, or death.
+
+.
+
+ Observing Pelvic Organ Prolapse Symptoms And Treatment Outcomes@highlight
+
+To prospectively observe the outcomes of surgical prolapse treatment in terms of urinary, bowel, and sexual function, quality of life, patient satisfaction, cost, and achieving patient determined treatment goals.
+

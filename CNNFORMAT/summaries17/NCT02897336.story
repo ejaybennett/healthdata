@@ -1,0 +1,14 @@
+(firstQuint)Ultrasound-guided Caudal or Interlaminar Corticosteroid Epidural Injection for Sciatica.
+
+ An open-label randomized trial conducted in one centre to compare the efficacy of ultrasound-guided caudal and interlaminar corticosteroid injections for the treatment of lumbar disk herniation-related sciatica.
+
+ 30 male and female patients will be included in each group.
+
+ The primary outcome measure will be a 30% decrease in lower limbs pain as assessed by a visual analog scale.
+
+.
+
+ Ultrasound-guided Caudal or Interlaminar Corticosteroid Epidural Injection for Sciatica@highlight
+
+An open-label randomized trial to compare the efficacy of ultrasound-guided caudal and interlaminar corticosteroid injections for the treatment of lumbar disk herniation-related sciatica.
+

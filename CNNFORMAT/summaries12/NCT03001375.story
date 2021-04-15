@@ -1,0 +1,8 @@
+(secondQuint)Laparoscopic Splenic Flexure Mobilization.
+
+ Presently, it is acknowledged that laparoscopic colectomy for left sided colorectal cancer is the most common surgery operated in laparoscopic colorectal surgeries, However the most debatable question in such type of operations that is it mandatory to do splenic flexure mobilization or not? In the literatures colorectal surgeons divided into 2 teams, those with splenic flexure mobilization in laparoscopic left colorectal resection to have tension free, well vascularized anastomosis On the other hand those against splenic flexure mobilization reported that omitting this step does not significantly affect the leakage rate, morbidity or the oncological outcomes In this study, we evaluate the necessity of splenic flexure mobilization in laparoscopic anterior resection for upper rectal tumors and its impact on the operative time, total morbidity, leakage rate, oncological safety and continence level.
+
+ Laparoscopic Splenic Flexure Mobilization@highlight
+
+This retrospective cohort study conducted on 140 patients who underwent laparoscopic anterior resection for upper rectal cancer in the period from May 2011 to November 2015, comparison will be done on splenic flexure mobilization excluding .
+

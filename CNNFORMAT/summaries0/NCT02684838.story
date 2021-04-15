@@ -1,0 +1,14 @@
+(firstQuint)Vigilant ObservatIon of GlIadeL WAfer ImplaNT Registry.
+
+ This is a prospective, observational registry in patients who have been prescribed Gliadel Wafer by the physician as part of usual care.
+
+ Data will be collected on the safety and effectiveness of treatment with Gliadel Wafer perioperatively and ongoing during regular office visits up to 3-years.
+
+ Patients enrolled in this registry will be asked to complete a questionnaire (Functional Assessment of Cancer Therapy-Brain [FACT-Br]) about their well-being and clinicians will complete the Karnofsky Performance Status (KPS) during office visits.
+
+.
+
+ Vigilant ObservatIon of GlIadeL WAfer ImplaNT Registry@highlight
+
+This is a prospective, observational registry in patients who have been prescribed Gliadel Wafer by the physician as part of usual care.
+

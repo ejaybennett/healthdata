@@ -1,0 +1,32 @@
+(thirdQuint)Building on Needle Exchange to Optimize Prevention & Treatment.
+
+ Biomedical interventions that have direct applicability to people who inject drugs (PWID) have flourished over the past 15 years (HIV treatment as prevention, pre-exposure prophylaxis, office-based medication-assisted treatment (MAT) with buprenorphine, and hepatitis C virus (HCV) treatment with direct acting agents).
+
+ However, penetration of these interventions among PWID is low relative to the potential benefits.
+
+ Syringe service programs (SSP) are an essential risk reduction service for PWID, and represent the outermost reach of public health services for this population.
+
+ The Baltimore City Health Department (BCHD) and investigators at Johns Hopkins University are developing a dedicated integrated care van (ICV) to complement the city's mobile SSP, with the goals of optimizing the HIV care cascade in HIV-positive clients and extending needed biomedical interventions to PWID.
+
+ A nurse practitioner, case worker, and peer navigators will engage HIV-positive clients (known and newly diagnosed) and collaborate closely with local HIV clinics to promote progress toward durable viral suppression.
+
+ To support the ICV's role in HIV care facilitation, investigators propose an innovative application of the Center for Disease Control (CDC)-sponsored "Data to Care" initiative - a multi-source health service database designed to assist health departments track the HIV care cascade in real time.
+
+ Additionally, the ICV will provide rapid HIV testing, PrEP screening and initiation, buprenorphine-based MAT, HCV testing and referrals to treatment, and wound care.
+
+ Using a cluster-randomized trial design, investigators propose to determine whether the ICV intervention advances the HIV care cascade among HIV-positive PWID, improves the Pre-Exposure Prophylaxis (PrEP) continuum, and increases uptake of MAT and HCV treatment (Aim 1).
+
+ Additionally, investigators will examine the implementation of the ICV intervention using a mixed methods approach among PWID, local/state public health stakeholders, and medical providers to examine the intervention's feasibility, acceptability, coverage, fidelity, and sustainability (Aim 2).
+
+ Finally, investigators will determine the incremental cost-effectiveness of the ICV intervention (Aim 3).
+
+ Investigators have assembled a multi-disciplinary team with methodological expertise in PWID interventions and cost-effectiveness evaluations, and longstanding collaboration with investigators' partners at the BCHD.
+
+.
+
+ Building on Needle Exchange to Optimize Prevention & Treatment@highlight
+
+There are several biomedical interventions that can help people who inject drugs (particularly those with or at risk for HIV), but these services often do not get to the people most in need.
+
+ In this project investigators propose to determine if delivery of these services to PWID by an integrated care van that is linked to a mobile syringe service program improves clinical outcomes, is feasible and sustainable, and is cost-effective.
+

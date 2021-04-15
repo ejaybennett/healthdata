@@ -1,0 +1,32 @@
+(thirdQuint)PET and CT Scans in Patients With Locally Advanced Primary Rectal Cancer That Can Be Removed During Surgery.
+
+ OBJECTIVES: - Determine if fludeoxyglucose F 18 positron emission tomography (FDG-PET) is superior to CT scan at monitoring rectal cancer response to radiation and chemotherapy by identifying residual rectal cancer in the rectal wall or pelvic lymph nodes in order to optimize selection of patients suitable for a sphincter preserving rectal cancer resection or a local excision.
+
+ - Determine the accuracy of FDG-PET in detecting extrapelvic metastatic disease in primary rectal cancer patients considered operable on the basis of currently accepted diagnostic work-up, including abdominal CT scan and chest x-ray.
+
+ OUTLINE: This is a diagnostic study conducted concurrently with multimodality management.
+
+ Within 1-2 weeks prior to starting preoperative radiotherapy/chemotherapy, patients undergo baseline positron emission tomography (PET) imaging of the thorax, abdomen, and pelvis.
+
+ Patients receive fludeoxyglucose F 18 (FDG) IV followed 45 minutes later by PET imaging.
+
+ Patients also undergo baseline CT imaging of the abdomen and pelvis.
+
+ A CT scan of the chest is obtained if the prestudy chest x-ray is abnormal.
+
+ Patients receive preoperative radiotherapy/chemotherapy.
+
+ Within 4-6 weeks of completion of radiotherapy/chemotherapy, patients undergo repeat FDG-PET imaging and CT scan.
+
+ Patients undergo surgical resection 1-2 weeks later.
+
+ PROJECTED ACCRUAL: A total of 125 patients will be accrued for this study within 3 years.
+
+.
+
+ PET and CT Scans in Patients With Locally Advanced Primary Rectal Cancer That Can Be Removed During Surgery@highlight
+
+RATIONALE: Diagnostic procedures, such as PET and CT scans, may improve the ability to detect the extent of locally advanced primary rectal cancer and may also help to measure a patient's response to treatment.
+
+ PURPOSE: This clinical trial is studying how well PET and CT scans detect residual or metastatic disease in patients with locally advanced primary rectal cancer that can be removed during surgery.
+

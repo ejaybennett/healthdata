@@ -1,0 +1,18 @@
+(thirdQuint)Early Feasibility Study of the CardiAQ TMVI System (Transfemoral and Transapical DS).
+
+ Early feasibility study - multi-center, prospective, single-arm, and non-randomized study without concurrent or historical controls.
+
+ The primary objective of the study is to generate early feasibility data for the CardiAQ cent Transcatheter Mitral Valve Implant System with the Transfemoral and Transapical Delivery Systems for the treatment of moderate to severe mitral valve regurgitation in patients who are considered high risk for mortality and morbidity from conventional open-heart surgery.
+
+ The secondary objectives of the study are to evaluate the long-term safety of the device and the effects of the device on performance, functional, quality of life parameters, and technical, device, procedural, and individual patient successes.
+
+ The study is to be performed at a maximum of 5 investigational sites in the US.
+
+.
+
+ Early Feasibility Study of the CardiAQ TMVI System (Transfemoral and Transapical DS)@highlight
+
+The purpose of the study is to generate early US feasibility data of the CardiAQ cent Transcatheter Mitral Valve Implant System.
+
+ The study will enroll patients with moderate to severe mitral valve regurgitation who are considered high risk for mortality and morbidity from conventional open-heart surgery.
+

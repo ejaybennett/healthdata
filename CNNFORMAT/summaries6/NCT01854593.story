@@ -1,0 +1,42 @@
+(thirdQuint)Prospective Randomized Controlled Study of Intravitreal Injection of Bevacizumab for Proliferative Diabetic Retinopathy.
+
+ Early postoperative hemorrhage in proliferative diabetic retinopathy (PDR) patients is a major complication.
+
+ Intravitreal injection of anti-vascular endothelial growth factor (VEGF) has reported to reduce vitreous hemorrhage.
+
+ Recently, numerous reports have shown the efficacy of reducing neovascularization activity before vitrectomy by preoperative intravitreal injection of anti-VEGF agents.
+
+ When intravitreal bevacizumab (IVB) injection is used as an adjunct therapy, a shortterm effect is needed.
+
+ Because it is reported some adverse events caused by bevacizumab injection.
+
+ Hattori et al reported intravitreal injection of 0.
+
+16 mg/0.
+
+05 ml bevacizumab in PDR patients marked blockage of intravitreal VEGF concentrations in the pilot study.
+
+ The purpose of this study is to evaluate low dose of intravitreal bevacizumab as a preoperative adjunct therapy reduce the postoperative vitreous hemorrhage.
+
+ This study involves PDR patients who underwent vitrectomy between May 2012 and August 2013 at Surugadai Hospital of Nihon University.
+
+ The risks to participants are accompanied by the intravitreal injection of bevacizumab (especially the possibility of endophthalmitis and thromboembolic events).
+
+ Between June 2012 and August 2013, one investigator (AM) randomized PDR patients with an indication for primary 25-gauge vitrectomy into a sham group and an IVB group.
+
+ One day after injection, three surgeons except AM conducted the surgeries.
+
+ Vitreous samples were collected at the start of surgery, and intraoperative and postoperative complications were evaluated.
+
+.
+
+ Prospective Randomized Controlled Study of Intravitreal Injection of Bevacizumab for Proliferative Diabetic Retinopathy@highlight
+
+We hypothesized that to reduce the adverse effects of intravitreal bevacizumab on ocular tissue and whole body, intravitreal injection of a low concentration of bevacizumab and conducting vitrectomy shortly after the injection is useful.
+
+ In the present prospective, double-masked, randomized, controlled study, we aimed to verify the usefulness of intravitreal injection of 0.
+
+16 mg/0.
+
+05 ml bevacizumab one day before conducting vitrectomy for PDR.
+

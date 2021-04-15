@@ -1,0 +1,20 @@
+(secondQuint)A Multi-Center Study To Evaluate Multiple Doses of NT100 Following IVF In Women With Repeated IVF Failures (Thrive-IVF).
+
+ NT-03 will be a randomized, double blind, multi-center, placebo controlled study of multiple doses of subcutaneous NT100 following IVF in women with a history of repeated IVF failures.
+
+ Approximately 150 subjects will be randomized in a 1:1:1 ratio to receive subcutaneous NT100 low dose, NT100 high dose, or placebo, qd for up to 4 weeks.
+
+ Screening will include a standard IVF stimulation protocol, followed by fertilization and culture of embryos.
+
+ If the subject remains eligible, she will be randomized to receive study drug.
+
+ All subjects will be followed for 4 weeks after the last dose of study drug.
+
+ At Week 10 of gestation, subjects who are pregnant will roll over into a follow-up study (NT-04) to assess subsequent pregnancy, delivery, and neonatal outcomes.
+
+.
+
+ A Multi-Center Study To Evaluate Multiple Doses of NT100 Following IVF In Women With Repeated IVF Failures (Thrive-IVF)@highlight
+
+The purpose of this study is to evaluate the efficacy, safety and tolerability of multiple doses of subcutaneous NT100 vs placebo following in vitro fertilization (IVF) in women with a history of repeated IVF failures.
+

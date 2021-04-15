@@ -1,0 +1,36 @@
+(fifthQuint)Evaluation of Ocoxin-Viusid in Breast Cancer.
+
+ To obtain the sample size, the proportion of patients presenting adverse reactions that require interrupting chemotherapy treatment will be taken into account.
+
+ In the institution, this figure is close to 15%.
+
+ Since it is a dietary supplement, with extensive information on the safety of the product, the design is used in a stage of Flemming (without early stop rules).
+
+ Assuming that the Ocoxin-Viusid product would clearly be declared ineffective (maximal ineffectiveness) if the proportion of patients not presenting adverse reactions was equal to less than 85% (p0), that is the maximum level of success below which the product does not shows signs of efficacy (the study does not guarantee further research) and taking a p1 value of 95%, where p1 is the minimum level of efficacy required from which the product would be declared effective (the results guarantee to continue a study phase III).
+
+ Assuming an error of 5% (probability of rejecting the null hypothesis when it is true) and (probability of rejecting the alternative hypothesis when it is true) of 20% (the power of the test: 1 - = 80%), It is determined to recruit a maximum number of 59 - 60 subjects.
+
+ Determine a = 54, where a is the number of responses equal and below which the product is declared ineffective (H0 is accepted).
+
+ And r = a + 1 is the cut-off point, that is, the number of responses from which the efficacy level ensures to continue to a phase III study.
+
+ In this case we would expect to obtain a number of successes 55.
+
+ Patients will be randomized after surgery, in the chemotherapy consultation, and once they meet the established inclusion criteria.
+
+ In order to achieve the masking of the research product, these have been labeled by a balanced randomized list obtained by computer, which will be in the possession of the Biostatistician of the study of the Clinical Investigations Section of INOR and the promoter.
+
+ The product under study has been consecutively labeled from 1 to 120 (60 patients in each therapeutic arm).
+
+.
+
+ Evaluation of Ocoxin-Viusid in Breast Cancer@highlight
+
+The purpose is to determine the efficacy of the nutritional supplement Ocoxin-Viusid oral solution (OV) in the reduction of acute toxicity of Chemotherapy (CT) treatment with patients with breast carcinoma.
+
+ A randomized, double-blind phase II clinical trial was designed, with a sample of 120 patients distributed in 2 arms: 60 patients will receive the CT treatment plus the OV, 60 will receive CT plus OV placebo.
+
+ The OV / placebo will be administered before, during and 3 weeks after the conclusion of the CT.
+
+ A better tolerance to the treatment is expected with the addition of the nutritional supplement.
+

@@ -1,0 +1,20 @@
+(secondQuint)Study to Improve Detection and Early Recurrence Rate in Bladder Cancer Patients Using Hexvix Fluorescence Cystoscopy.
+
+ In superficial bladder cancer macroscopic tumors including non-invasive papillary tumors (Ta) in the bladder are relatively easy to visualize by cystoscopic examination under white light.
+
+ However, dysplasia, carcinoma in situ (CIS) or small exophytic tumors are easily overlooked.
+
+ These lesions are predictive of recurrence and progression of disease, and the identification of these lesions is a crucial factor for the prognosis of the patient.
+
+ The present situation with 50-75% recurrence rate show the inadequacy of white light cystoscopy for detection and resection of the lesions.
+
+ A better detection of papillary bladder cancer and early detection of CIS lesions will provide the patient with a more complete TURB, a more optimal pharmacological treatment when needed, may reduce the need for follow up cystoscopies and hopefully result in a better prognosis for the patient.
+
+ The aim of the present study is to compare Hexvix cystoscopy with white light cystoscopy in the detection of histology confirmed papillary bladder cancer in patients with papillary bladder cancer and to compare early recurrence rate after Hexvix and white light transurethral resection (TURB) with white light TURB in patients with superficial bladder cancer.
+
+.
+
+ Study to Improve Detection and Early Recurrence Rate in Bladder Cancer Patients Using Hexvix Fluorescence Cystoscopy@highlight
+
+The purpose of this study is to document the additional detection of papillary bladder cancer and the reduced early recurrence due to the improved detection and resection of these tumors after Hexvix cystoscopy compared to standard cystoscopy in patients with papillary bladder cancer.
+

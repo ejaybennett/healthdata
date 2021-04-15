@@ -1,0 +1,42 @@
+(fifthQuint)Epicardial Echocardiography of Coronary Anastomoses Using the Echoclip Device.
+
+ The technical quality of coronary artery bypass anastomoses during coronary artery bypass grafting is often evaluated by measuring flow rate in grafts using transit time flowmetry.
+
+ Unfortunately, flow rate and flow waveform are poor indicators of the anatomy of anastomoses.
+
+ A better way to evaluate the anatomy of an anastomosis is 3-dimensional imaging.
+
+ Three problems must be overcome in performing epicardial echocardiography on the beating heart: 1.
+
+ The transducer must be kept in a steady position relative to the anastomosis for 5 to 10 cardiac cycles to minimize frame-rate variability.
+
+ 2.
+
+ Ultrasound gel must be kept in contact with the transducer and the region studied.
+
+ 3.
+
+ The transducer must not cause any deformation of the vessels.
+
+ The investigators designed an ultrasound transducer positioning device, the Echoclip device (Aalborg Hospital, Aalborg, Denmark), which can stabilize the involved part of the myocardium on the beating heart, keep the gel at place, and position the ultrasound transducer correctly for imaging.
+
+ The present study is a feasibility study with the aim to evaluate if the echoclip device facilitates imaging of coronary bypass anastomoses during coronary artery bypass surgery in humans to the same degree as was shown in animal studies.
+
+ Ultrasonography will be used for visualizing all coronary anastomoses during 100 elective low-risk (logistic II EuroSCORE <6) on-pump coronary artery bypass procedures.
+
+ It will be registered if the heel, the central portion and the toe of the anastomosis can be visualized in end-to-side and side-to-side anastomoses.
+
+Use of the echoclip devise will be considered a success if at least 80% of all parts of the anastomoses can be visualized either directly or by electronic reading using a special developed algorithm that may identify the inner border of the anastomoses.
+
+.
+
+ Epicardial Echocardiography of Coronary Anastomoses Using the Echoclip Device@highlight
+
+The aim of this study is to evaluate whether use of the echoclip device (an ultrasound transducer positioning device which can stabilize the involved part of the myocardium on the beating heart) facilitates imaging of coronary bypass anastomoses during coronary bypass surgery.
+
+ A total of 100 low risk patients undergoing elective on-pump coronary bypass surgery will be included in the study in order to evaluate if the surgeons can visualize the coronary anastomoses before closure of the sternum.
+
+ Ultrasonograpic pictures will be analyzed directly peroperatively and electronically post-operatively in order to evaluate if selected areas of the anastomoses can be visualized.
+
+ Use of the echoclip devise will be considered a success if at least 80% of the anastomoses can be visualized.
+

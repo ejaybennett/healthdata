@@ -1,0 +1,14 @@
+(firstQuint)The Effect of a Healthy Snack on Body Weight and Composition.
+
+ This study will compare two energy reduced diets; one diet will include one serving of mixed nuts (1.
+
+5oz) per day, while the other diet will include an equal amount of calories from a carbohydrate source, such as a pretzel snack.
+
+ All subjects will receive a dietary plan that reduces their usual intake by 500kcal/day with the same percentage of fat, protein and carbohydrates for the first 12 weeks followed a diet with their usual intake for 12 weeks without nuts or pretzels.
+
+.
+
+ The Effect of a Healthy Snack on Body Weight and Composition@highlight
+
+The results from this study may help to explain if incorporating mixed nuts in a reduced calorie diet will lead to weight loss.
+

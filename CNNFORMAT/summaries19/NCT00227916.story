@@ -1,0 +1,30 @@
+(firstQuint)Motivational Interviews for Incarcerated Teens - 1.
+
+ The objective of this research is to investigate ways to enhance motivation for treatment and effectively reduce substance abuse among juvenile offenders.
+
+ Motivational intervention (MI) as preparation for residential treatment and for persons (including teens) with little motivation to change has been effective in reducing substance abuse.
+
+ Thus, MI designed for delinquent youths who are required to attend substance abuse treatment may prove efficacious.
+
+ In this proposed randomized trial, a one-way design (MI + Standard Care [SC] v.
+
+ Attention Control [AC] + SC) will be used to determine whether MI enhances subsequent treatment participation and reduces substance-related problems post discharge in substance using, delinquent youths.
+
+ Teens will also receive a booster session of MI or AC prior to discharge.
+
+ Primary outcome variables include alcohol and marijuana use, as well as related behaviors (illegal activity, sex or injuries while drunk or high).
+
+ It is hypothesized that in comparison to teens receiving AC, youths receiving MI will participate more (by therapist and teen ratings) in SC and will show the lowest levels of heavy substance use and related problems after discharge.
+
+ It is hypothesized that these effects will be mediated by stage of change, drug effect expectancies and self-efficacy.
+
+ This study will extend previous research by evaluating the use of MI with substance abusing teens in a correctional facility, and by expanding outcome measures to include alcohol and marijuana-related risk behavior (such as injuries and illegal activity when drunk or high) in this population.
+
+ The development of effective interventions for substance using juvenile offenders has the potential to reduce substance abuse and crime in this population.
+
+.
+
+ Motivational Interviews for Incarcerated Teens - 1@highlight
+
+The purpose of this study is to test the efficacy of an individual motivational interview for reducing alcohol and marijuana-related harm as well as alcohol and marijuana use in incarcerated teens.
+

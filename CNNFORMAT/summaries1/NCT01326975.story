@@ -1,0 +1,30 @@
+(thirdQuint)Effect of Continuous Positive Airway Pressure Delivered by Two Different Modalities on Breathing Pattern in Preterm Infants.
+
+ Many preterm very low birth weight infants require continuous positive airway pressure(CPAP) for breathing support because of lung immaturity.
+
+ CPAP can be delivered by the infant flow(TM) device which is well studied.
+
+ Prolonged use of nasal prongs CPAP has been shown to cause discomfort and, rarely, nasal injury leading to long term disfigurement.
+
+ On the other hand, High flow nasal cannula (HFNC) ,which is another modality of delivering CPAP, creates less pressure on the nose and less disfiguring effect but previous research showed that the use of HFNC may be less effective than IF-CPAP in providing breathing support in these infants.
+
+ We plan to study 10 stable preterm infants born less than 32 weeks' gestation and 1.
+
+5 kilograms at birth after being stable for at least 48hours on IF-CPAP.
+
+ babies will be randomized to start on IF-CPAP or HFNC for 30 minutes.
+
+ After 45 minutes of adaptation, baby will be switched to the other modality for another 30 minutes.
+
+ By inserting a specialized feeding tube with sensors into the stomach, we can measure the electrical activity of the diaphragm (EAdi).
+
+ By analysing EAdi with each modality of delivering CPAP, we want to directly assess how HFNC affects breathing compared to IF-CPAP.
+
+.
+
+ Effect of Continuous Positive Airway Pressure Delivered by Two Different Modalities on Breathing Pattern in Preterm Infants@highlight
+
+In this study, the investigators want to observe how continuous positive airway pressure delivered by two different modalities affects breathing pattern in small preterm infants.
+
+ Using a specialized feeding tube in the stomach, the investigators can measure and compare how the diaphragm (a large breathing muscle) might be affected by those two modalities.
+

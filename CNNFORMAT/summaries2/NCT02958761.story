@@ -1,0 +1,26 @@
+(secondQuint)Treatment of Knee Arthrosis With Platelet-derived Growth Factors vs.
+
+ Hyaluronic Acid.
+
+.
+
+ Intra-articular injections of hyaluronic acid are effective in improving symptoms and slow disease progression, but are not able to revert the damage mechanism and trigger cartilage healing.
+
+ Growth factors included in PRP could stimulate cartilage repair, normalize synovial fluid viscoelasticity, induce a correction in tissue damage, improve articular function, control pain and ameliorate quality of life.
+
+ Primary aim of this trial was to assess, among patients with grade II/III osteoarthrosis of the knee, efficacy (as determined by improvement at MRI 6 months after the first injection) of three intraarticular injections of platelet lysate when compared to hyaluronic acid.
+
+ Additional objectives were to compare the treatment groups in terms of a number of functional scales (WOMAC, Lysholm, Tegner Knee, Scale, AKS, Lequesne, VAS) and of number of adverse events.
+
+.
+
+ Treatment of Knee Arthrosis With Platelet-derived Growth Factors vs.
+
+ Hyaluronic Acid.
+
+@highlight
+
+Primary aim of this trial was to assess efficacy three intraarticular injections of platelet lysate when compared to hyaluronic acid.
+
+ Additional objectives were to compare the treatment groups in terms of a number of functional scales and of number of adverse events.
+

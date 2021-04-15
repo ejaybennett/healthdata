@@ -1,0 +1,32 @@
+(thirdQuint)Study of Fat Malabsorption by Lipiblock Versus Xenical.
+
+ The overweight and obesity epidemic affects approximately 1.
+
+6 millions of people worldwide.
+
+ Obesity is a chronic condition, associated with premature death, co-morbidities, risk factors for main cardiac disease, stigmatization and significant economic costs.
+
+ The causes of obesity are complex and include the interplay of environmental, social, economic and genetic factors.
+
+ Besides fat-rich diets also play a significant role in the etiology of obesity.
+
+ Correct diet orientation associated with physical exercise usually did not lead to expected result in weight loss and maintenance.
+
+ Pharmacological therapy has been proposed as an adjunct to achieve the ideal weight.
+
+ Orlistat acts in reduction of lipids absorption by inhibition of gastric and pancreatic lipases in gastrointestinal tract leading to sustained weight loss.
+
+ This is a double blind study, randomized, of 2 weeks.
+
+ The aim of this study was evaluate the intestinal lipase blockade by decrease of fat absorption of fecal fat after treatment with two commercials formulations of Orlistat in obese patients.
+
+.
+
+ Study of Fat Malabsorption by Lipiblock Versus Xenical@highlight
+
+Obesity is a chronic condition with fat-rich diets playing a major role in its etiology.
+
+ Pharmacological therapy has been proposed for weight loss and maintenance.
+
+ This study aims to study the intestinal lipase blockade by partial inhibition of fat absorption after treatment with two commercials formulations of Orlistat.
+

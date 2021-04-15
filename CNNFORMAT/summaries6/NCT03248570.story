@@ -1,0 +1,14 @@
+(firstQuint)Pembrolizumab in Metastatic Castration Resistant Prostate Cancer (mCRPC) With or Without DNA Damage Repair Defects.
+
+ This is a multicenter phase 2 open label study of pembrolizumab in patients with metastatic castrate resistant prostate cancer (mCRPC) with or without DNA damage repair defects.
+
+ All subjects will receive pembrolizumab 200mg intravenously (IV) every 3 weeks until disease progression or unacceptable toxicity.
+
+ The primary endpoint of the study is objective response rate (ORR) according to immune-mediated response criteria (irRC).
+
+.
+
+ Pembrolizumab in Metastatic Castration Resistant Prostate Cancer (mCRPC) With or Without DNA Damage Repair Defects@highlight
+
+This is a multicenter phase 2 open label study of pembrolizumab in patients with metastatic castrate resistant prostate cancer (mCRPC) with or without DNA damage repair defects.
+

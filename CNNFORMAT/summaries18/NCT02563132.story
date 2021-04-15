@@ -1,0 +1,20 @@
+(thirdQuint)Carbon Dioxide Insufflation Colonoscopy in IBD Patients.
+
+ Carbon dioxide insufflation during colonoscopy significantly reduces discomfort (pain, bloating and flatulence) during up to 24 hours after the procedure.
+
+ So far, it has not been studied in inflammatory bowel disease patients who represent specific patient population indicated for colonoscopy.
+
+ They are characterized by younger age, structural changes of the colon including intestinal resections and need for repeated and frequently difficult procedures.
+
+The study was designed to evaluate discomfort during 24 hours after the carbon dioxide insufflation colonoscopy in comparison to standard air insufflation colonoscopy.
+
+.
+
+ Carbon Dioxide Insufflation Colonoscopy in IBD Patients@highlight
+
+Carbon dioxide insufflation during colonoscopy significantly reduces discomfort (pain, bloating and flatulence) after the procedure.
+
+ So far, it has not been studied in inflammatory bowel disease patients.
+
+ The study was designed to evaluate discomfort after the carbon dioxide insufflation colonoscopy in comparison to standard air insufflation colonoscopy.
+

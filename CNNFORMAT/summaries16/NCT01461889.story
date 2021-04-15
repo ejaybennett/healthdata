@@ -1,0 +1,62 @@
+(fifthQuint)INR-Triggered Transfusion In GI Bleeders From ER.
+
+ Advances in the understanding of the coagulation imbalance in liver disease have experts questioning the clinical efficacy of current plasma transfusion practices in patients with liver disease.
+
+ Having recently discovered a large previously unrecognized risk (TRALI) of plasma transfusion in this patient population, the investigators now believe the current clinical transfusion paradigm under-recognizes risk and overvalues the benefit of plasma transfusion in bleeding patients with liver disease.
+
+ Though experts have recommended more judicious use of plasma, clinical practice remains variable.
+
+ Transfusion triggers and thresholds are often arbitrarily set based on conventional coagulation studies and evidence to guide clinicians on plasma dosing required to achieve these laboratory thresholds does not exist.
+
+ The investigators hypothesize that a restrictive plasma transfusion strategy in critically ill chronic liver disease patients with acute gastrointestinal bleeding will decrease a surrogate measure of TRALI without increasing bleeding complications (figure 1).
+
+ With the collaborative support of the pulmonary/critical care, hepatology, and transfusion medicine services, the investigators will conduct a randomized controlled trial comparing a restrictive versus liberal strategy of plasma transfusion in bleeding patients with liver disease.
+
+ In addition, investigators will refine and validate our plasma transfusion dosing algorithm so clinicians will have the tools to appropriately dose plasma to reach evidence-based transfusion targets.
+
+ The development of TRALI is believed to require two pathophysiologic events.
+
+ First, a pro-inflammatory stimulus, such as sepsis, leads to exposure of endothelial surface adhesion proteins and consequent capture of polymorphonuclear leukocytes (PMNs) within the pulmonary microvasculature.
+
+ Second, these adherent PMNs are activated by mediators within transfused blood components, leading to neutrophilic inflammation and TRALI.
+
+ Emerging evidence suggests that the process of neutrophil adhesion in the lung involves degradation of the endothelial glycocalyx, a thin layer of glycosaminoglycans (GAGs) lining the vascular lumen(S).
+
+ In mice, sepsis results in pulmonary glycocalyx loss, neutrophil adhesion and subsequent development of ALI(S).
+
+ Glycocalyx degradation is also associated with organ injury in humans, as evidenced by an increase in circulating GAG fragments (e.
+
+g.
+
+ heparinoids) in septic shock.
+
+ Circulating heparinoids can be detected quickly and accurately by a point of care heparinase-I modified thromboelastogram (TEG) study26-27.
+
+ Detection of heparinoids by TEG may therefore indicate pulmonary microvasculature propensity for PMN adhesion (first event) and be utilized as a predictive biomarker for TRALI.
+
+ Restrictive plasma transfusion strategies could then be individualized to high risk patients to decrease the probability of a second event resulting in the clinical syndrome of TRALI.
+
+ In conjunction with the clinical trial, investigators will perform a translational observational study to assess whether detection of systemic heparinoids predict the subsequent development of a TRALI surrogate, post-transfusion hypoxemia.
+
+ These clinical studies will pave the way for larger clinical trials guiding future plasma transfusion practice and decreasing the significant TRALI burden in the critically ill.
+
+.
+
+ INR-Triggered Transfusion In GI Bleeders From ER@highlight
+
+Transfusion-related acute lung injury (TRALI) is the most common cause of transfusion-related morbidity and mortality in the United States.
+
+ It is very common and often unrecognized in the critically ill with the greatest incidence occurring in bleeding patients with liver disease.
+
+ Plasma is the most blood component associated with this deadly complication and therefore patients with liver disease who frequently receive transfused plasma are at increased risk.
+
+ The optimal plasma transfusion strategy for bleeding patients with liver disease is unknown and the investigators will evaluate this clinical question in a small pilot randomized controlled trial.
+
+ The invstigators hypothesize that targetting a more restrictive INR Target (2.
+
+5) vs.
+
+ an INR Target (1.
+
+8) will result in less hypoxemia, a TRALI surrogate without increasing bleeding complications.
+

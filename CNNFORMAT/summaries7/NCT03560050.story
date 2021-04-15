@@ -1,0 +1,46 @@
+(thirdQuint)Technical Assistance for Child and Adult Care Food Program in Family Child Care Home.
+
+ Early care and education (ECE) providers play a vital role in ensuring that young children have access to nutritious foods.
+
+ Over 25% of children in ECE (1.
+
+2 million children) attend Family Child Care Homes (FCCH).
+
+ Improvements in the Child and Adult Care Food Program (CACFP) may introduce new barriers for FCCH, which have limited meal preparation capacity.
+
+ Limited research has examined foods served by FCCH providers, and no group randomized trials have been conducted using a Community-Based Participatory approach in FCCH and including an evaluation of intervention costs.
+
+ Goals: 1.
+
+ Determine compliance of menus and meals provided in FCCH with CACFP guidelines.
+
+ 2.
+
+ Determine the effectiveness of a pilot community-based Nutrition Technical Assistance intervention to enhance meeting CACFP best-practices.
+
+ 3.
+
+ Determine the effectiveness of a statewide community-based Nutrition Technical Assistance Intervention to enhance meeting CACFP best-practices.
+
+ 4.
+
+ Expand university student opportunities for participation in health research.
+
+ Methods: Conduct a cross-sectional assessment of a random sample of FCCH providers' (n=52) menus and meals served.
+
+ Foods will be evaluated against the CACFP requirements and best-practices.
+
+ After the cross-sectional examination, providers in the pilot will be randomly assigned to a Nutrition Technical Assistance (n=26) or attention comparison intervention (n=26).
+
+ Following the pilot, trained Extension Educators will implement both interventions (n=27 intervention, n=27 comparison) in six selected counties, reaching underserved rural and low-income populations.
+
+ The intervention is based on theoretical foundations and formative interviews, and will consist of two 60-90-minute visits to the FCCH and one group class lasting approximately 3 hours.
+
+.
+
+ Technical Assistance for Child and Adult Care Food Program in Family Child Care Home@highlight
+
+This study evaluates the effect of a nutrition technical assistance training program for family child care home providers on the food they serve young children in their care and the food environment in their home.
+
+ Half the providers will be assigned to the nutrition program and the other half will receive a comparison on environmental health.
+

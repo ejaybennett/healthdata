@@ -1,0 +1,14 @@
+(firstQuint)Chinese Medicine(Hu Yang Yang Kun Formula) for Primary Ovarian Insufficiency.
+
+ Primary ovarian insufficiency is a problem that is to be solved urgently in the field of reproductive endocrine.
+
+ According to the basic theory of traditional Chinese Medicine and clinical experience, investigators developed a Chinese medicine formula(Hu yang yang kun,Hyyk).
+
+ This research is designed according to the principle of randomized double blind control and evaluated the effectiveness and safety of Hyyk, hope to provide a kind of effective medicine in treating primary ovarian insufficiency.
+
+.
+
+ Chinese Medicine(Hu Yang Yang Kun Formula) for Primary Ovarian Insufficiency@highlight
+
+The purpose of this research is providing valuable traditional chinese medicine theory and formula in treating Primary Ovarian insufficiency.
+

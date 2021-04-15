@@ -1,0 +1,24 @@
+(secondQuint)Comparing the Effectiveness and Costs of Bevacizumab to Ranibizumab in Patients With Diabetic Macular Edema (BRDME).
+
+ Objective: To compare the effectiveness and costs of 1.
+
+25 mg of bevacizumab to 0.
+
+5 mg ranibizumab, given as monthly intravitreal injections during 6 months.
+
+ It is hypothesized that bevacizumab is non-inferior to ranibizumab regarding its effectiveness.
+
+ Study design: This will be a randomized, controlled, double masked, clinical trial in 246 patients in seven academic trial centres in The Netherlands.
+
+ Study population: patients 18 years of age or higher with diabetic macular and a best corrected visual acuity BCVA score between 78 and 20 letters in the study eye.
+
+ Outcomes: The primary outcome measure will be the change in best-corrected visual acuity (BCVA) in the study eye from Baseline to Month 6.
+
+ Secondary outcomes will be amongst others the proportion of patients with a gain of 15 letters or more and/or a BCVA of 20/40 or more at 6 months, and the costs and costs per quality adjusted life-year of the two treatments.
+
+.
+
+ Comparing the Effectiveness and Costs of Bevacizumab to Ranibizumab in Patients With Diabetic Macular Edema (BRDME)@highlight
+
+The primary objective is to demonstrate the non-inferiority of bevacizumab to ranibizumab in the treatment of patients with DME (OCT central area thickness > 275 1/2m) as determined by the change in best-corrected visual acuity (BCVA) in the study eye from baseline to month 6.
+

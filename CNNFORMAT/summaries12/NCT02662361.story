@@ -1,0 +1,16 @@
+(secondQuint)Evaluation of the Prevalence and Risk Factors for Patients With Peri-implant Diseasea Retrospective Study.
+
+ Objective: To investigate the patient-related risk factors for peri-implant disease in partially edentulous patients rehabilitated with implants supported crown or bridge so as to provide evidence for clinical prevention and control.
+
+ Methods:A total of 131 patients will enroll in the study.
+
+ Univariate and multivariate logistic regression analysis is used to determine the patient factors associated with peri-implant disease.
+
+ The variables include age, gender, smoking and alcohol consumption, presence of diabetes, cardiovascular disease, osteoporosis, bruxism, bleeding upon brushing, reason for extraction, oral hygiene and periodontal status.
+
+.
+
+ Evaluation of the Prevalence and Risk Factors for Patients With Peri-implant Diseasea Retrospective Study@highlight
+
+To investigate the patient-related risk factors for peri-implant disease in partially edentulous patients rehabilitated with implants supported crown or bridge so as to provide evidence for clinical prevention and control.
+

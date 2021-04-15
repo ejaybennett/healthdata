@@ -1,0 +1,14 @@
+(firstQuint)Effect of Glycopyrrolate and Atropine on Catheter-Related Bladder Discomfort.
+
+ The mechanism of catheter-related bladder discomfort is thought to be related to the muscarinic receptor.
+
+ The adjuncts to reversal agents such as glycopyrrolate and atropine are known to block the muscarinic receptor in different ways.
+
+ We want to evaluate the efficacy of the glycopyrrolate and atropine for the prevention of catheter-related bladder discomfort.
+
+.
+
+ Effect of Glycopyrrolate and Atropine on Catheter-Related Bladder Discomfort@highlight
+
+We want to evaluate the efficacy of the glycopyrrolate and atropine for the prevention of catheter-related bladder discomfort.
+

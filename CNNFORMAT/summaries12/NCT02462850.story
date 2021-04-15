@@ -1,0 +1,18 @@
+(secondQuint)A Multi-Center Actual-Use Study on the Safety of CL 108 for the Treatment of Moderate to Severe Acute Pain Associated With Osteoarthritis of the Knee or Hip.
+
+ The purpose of CLCT-006, a multi-center open-label study, is to evaluate the safety of CL-108 (hydrocodone 7.
+
+5 mg/APAP 325 mg, promethazine 12.
+
+5 mg) for the treatment of moderate to severe acute pain ("flare") associated with osteoarthritis of the knee or hip under actual conditions of use.
+
+ The study will also endeavor to determine - the physicians' global evaluation of CL-108 as a treatment for moderate to severe acute pain associated with osteoarthritis of the knee or hip - the patients' global impression of change in pain after treatment of moderate to severe acute pain associated with osteoarthritis of the knee or hip - any change in the patient's quality of life after treatment of moderate to severe acute pain associated with osteoarthritis of the knee or hip - the percentage change in pain intensity after treatment of moderate to severe acute pain associated with osteoarthritis of the knee or hip.
+
+ A Multi-Center Actual-Use Study on the Safety of CL 108 for the Treatment of Moderate to Severe Acute Pain Associated With Osteoarthritis of the Knee or Hip@highlight
+
+The purpose of CLCT-006, a multi-center open-label study, is to evaluate the safety of CL-108 (hydrocodone 7.
+
+5 mg/APAP 325 mg, promethazine 12.
+
+5 mg) for the treatment of moderate to severe acute pain ("flare") associated with osteoarthritis of the knee or hip under actual conditions of use.
+

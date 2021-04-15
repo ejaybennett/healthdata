@@ -1,0 +1,26 @@
+(secondQuint)Pulse Waveform and ECG Analysis in Postoperative Cardiac Surgical Patients.
+
+ Observational study of 20 adult postoperative cardiac surgery patients.
+
+ The observation will last from 0 to 2.
+
+ postoperative day.
+
+ On admission to the ICU the patients will receive a noninvasive monitor recording arterial pulse waveform and ECG.
+
+ The monitoring will continue to the ward for two days.
+
+ The data will be compared with the routine monitoring methods in the ICU and the ward.
+
+.
+
+ Pulse Waveform and ECG Analysis in Postoperative Cardiac Surgical Patients@highlight
+
+Observational study of 20 postoperative cardiac surgery patients.
+
+ On admission to the ICU the patients will receive a noninvasive monitor recording arterial pulse waveform and ECG.
+
+ The monitoring will continue to the ward for two days.
+
+ The data will be compared with the routine monitoring methods.
+

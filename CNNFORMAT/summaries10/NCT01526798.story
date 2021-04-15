@@ -1,0 +1,24 @@
+(thirdQuint)Improvement of EPO-resistance in Hemodialysis Patients With Chronic Inflammation by High Cut-off Hemodialysis.
+
+ Chronic inflammation in hemodialysis patients (micro-inflammation) is caused by multiple inflammatory stimuli and becomes apparent by elevated levels of biochemical markers such as CRP, IL-6, cellular activation markers etc.
+
+ Chronic inflammation is linked to clinical signs and symptoms and cardiovascular mortality in dialysis patients.
+
+ Inflamed dialysis patients show impaired response to erythropoiesis-stimulating agents (ESA) related to reduced iron utilization (functional iron deficiency) and elevated CRP levels are associated with a greater need for ESA to meet hemoglobin targets.
+
+ If absolute iron deficiency can been excluded, EPO resistance is likely related to 'inflammatory block'.
+
+ The high molecular permeability of the Theralite high cut-off membrane allows for significant clearance of cytokines and other pro-inflammatory solutes by hemodialysis as shown in previous trials with high cut-off dialyzers.
+
+ The study therefore aims to demonstrate that Theralite dialysis is effective in reducing chronic inflammation in ESRD patients, thereby improving EPO responsiveness.
+
+ If this can be demonstrated, application of Theralite hemodialysis may reduce morbidity and mortality in the long term in ESRD patients.
+
+.
+
+ Improvement of EPO-resistance in Hemodialysis Patients With Chronic Inflammation by High Cut-off Hemodialysis@highlight
+
+Chronic inflammation in dialysis patients is linked to cardiovascular mortality and clinical signs and symptoms, like the impaired response to erythropoiesis-stimulating agents (ESAs).
+
+ This study aims to demonstrate that high cut-off hemodialysis is effective in reducing chronic inflammation and thereby improving response to ESAs.
+

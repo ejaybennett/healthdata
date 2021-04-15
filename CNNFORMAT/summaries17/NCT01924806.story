@@ -1,0 +1,11 @@
+(firstQuint)A Pilot Study of the WoundWand Debridement Device on Infection Prevention.
+
+ The primary aim of this pilot study is to investigate differences in bacterial content of the study wound that may impact upon infection rates following debridement with the WoundWand Debridement Device or Standard of Care (SoC) surgical (sharp) debridement.
+
+ Additionally, the clinical investigation will evaluate reduction in wound size post-debridement and gather Health Economic data relating to wound bed debridement with the WoundWand Debridement Device or SoC.
+
+.
+
+ A Pilot Study of the WoundWand Debridement Device on Infection Prevention@highlight
+
+A Pilot Study of the WoundWand cent Debridement Device on Infection Prevention

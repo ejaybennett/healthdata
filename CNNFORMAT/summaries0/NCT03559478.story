@@ -1,0 +1,26 @@
+(firstQuint)Sharp Dissection Versus Monopolar Electrocautery in Primary Total Knee Arthroplasty Performed Under Tourniquet.
+
+ The approach to the knee to carry out a total knee replacement (TKR) can either be carried out using a scalpel, sharp dissection, or using an electric current to divide tissue, monopoly electrocautery.
+
+ Reducing blood loss is important.
+
+ Blood loss can result in anaemia, which has a number of effects including shortness of breath, chest pain and lethargy.
+
+ Blood loss into a newly replaced knee can also result in pain and stiffness in the joint.
+
+ Total knee replacements are routinely carried out with a tourniquet inflated, which reduces the blood flow into to leg during the operation.
+
+ Diathermy is applied to areas of bleeding to stop them from doing so during operations.
+
+ With the tourniquet inflated, some areas that would bleed when this was deflated may not be noticed and continue to bleed.
+
+ Using diathermy for the approach would be expected to reduce this bleeding compared to using a scalpel.
+
+.
+
+ Sharp Dissection Versus Monopolar Electrocautery in Primary Total Knee Arthroplasty Performed Under Tourniquet@highlight
+
+This study compares the use of sharp dissection with diathermy for the approach to a total knee replacement.
+
+ Half of the patients will be randomly assigned each intervention.
+

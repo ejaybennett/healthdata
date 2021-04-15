@@ -1,0 +1,18 @@
+(firstQuint)The Effect of Manipulation on Dysfunction of the Talo-crural Joint.
+
+ Ankle sprains is one of the most common problems in clinical practice, mostly due to loss of mobility.
+
+ Factors affecting the mobility of the joints may be due to muscle tension, ligamentous or anatomical anomalies.
+
+ Research over the last years have reported a scarce of trials investigating chiropractic treatment of the ankle joint.
+
+ Previous studies have focused on investigating ROM and proprioception.
+
+ This study aimed to determine whether a single high-velocity, low-amplitude (HVLA) thrust manipulation to the talo-crural joint altered ankle function in subjects with dysfunction of the talo-crural joint.
+
+.
+
+ The Effect of Manipulation on Dysfunction of the Talo-crural Joint@highlight
+
+The purpose of this trial was to explore the effects of chiropractic manipulation in patients with talo-crural joint dysfunction.
+

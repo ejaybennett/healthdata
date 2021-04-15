@@ -1,0 +1,12 @@
+(firstQuint)Patient Recovery After Knee Replacement Surgery.
+
+ This main objective of this feasibility study is to begin to quantify the relationship between patient activity levels following knee replacement surgery and outcomes.
+
+ Primary Aims The primary objective of this study is to compare step count and activity levels with key outcome measures - including pain scores and painkiller usage - to determine whether more active people have better recovery.
+
+.
+
+ Patient Recovery After Knee Replacement Surgery@highlight
+
+This main objective of this feasibility study is to begin to quantify the relationship between patient activity levels following knee replacement surgery and outcomes.
+

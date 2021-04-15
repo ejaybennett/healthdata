@@ -1,0 +1,16 @@
+(firstQuint)Reliability of Different FOT Devices to Measure the Human Respiratory Impedance.
+
+ The purpose of the study is to evaluate the reliability of the respiratory impedance measured with different FOT (=Forced Oscillation Technique) devices.
+
+ To this end, the respiratory impedance of fifty adult subjects will be measured in random order with five different forced oscillation devices.
+
+ As there is no "gold standard" FOT-device, each setup will be compared to all other setups.
+
+ Secondary study questions are: 1) is there a specific comfort (or discomfort) associated with the different measuring devices 2) Guidelines state that full chin and cheek support should be applied when measuring the human respiratory impedance.
+
+ What is the influence of a partial cheek support?.
+
+ Reliability of Different FOT Devices to Measure the Human Respiratory Impedance@highlight
+
+The objective of the study is to evaluate the reliability of the impedance data in adult subjects measured with five different FOT devices.
+

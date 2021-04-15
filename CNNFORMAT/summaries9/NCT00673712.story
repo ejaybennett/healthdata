@@ -1,0 +1,42 @@
+(thirdQuint)Multicenter Infection Surveillance Study Following Open Heart Surgery.
+
+ Nosocomial infections are recognized as an important cause of increased patient morbidity and mortality.
+
+ The reported prevalence for nosocomial infections most commonly ranges from 5 to 20%, but can be significantly greater among patients requiring intensive care.
+
+ The most common sites of hospital acquired infection include the lung, urinary tract, surgical wounds, and the bloodstream.
+
+ Patients undergoing cardiac surgery appear to be at increased risk for the development of nosocomial infections due to the presence of multiple surgical wounds (chest and lower extremity incisions), frequent postoperative utilization of invasive devices (i.
+
+e.
+
+ central venous catheters, chest drains, intra-aortic balloon counter pulsation, pulmonary artery catheter), and the common use of prophylactic or empiric antibiotics in the perioperative period.
+
+ In the cardiac surgical postoperative period, nosocomial infections have been found to be associated with prolonged length of stay (LOS) in the ICU and total hospitalization, development of multiorgan dysfunction, and increased hospital mortality.
+
+ Nosocomial Pneumonia (NP) is in fact the leading cause of mortality due to hospital-acquired infections.
+
+ Patients with Ventilator Associated Pneumonia (VAP) have been found in various studies to have significantly higher mortality rates than those without VAP, with ranges of 20.
+
+2-45.
+
+5% and 8.
+
+5-32.
+
+2%, respectively.
+
+ Strategies that both reduce postoperative pain and sedation have the potential to reduce postoperative pneumonia by allowing earlier extubation and more effective pulmonary toilet post-extubation.
+
+ Non-opioid pain management has the potential to reduce NP rates because of superior pain management, as well as the reduction in opioids required, and the concomitant avoidance of opioid side effects.
+
+ The clinical and financial consequences of NP justify aggressively pursuing strategies aimed at prevention.
+
+ Specifically, these strategies are targeted at reducing the incidence of NP by addressing the modifiable risk factors including prolonged endotracheal intubation and ventilator support, sedation, and long hospital LOS.
+
+.
+
+ Multicenter Infection Surveillance Study Following Open Heart Surgery@highlight
+
+The main goals of the study are as follows: (1) to determine the correlation between pain management using continuous infusion of local anesthetics and the incidence of pneumonia and surgical infection in cardiac surgery patients; and (2) to evaluate the relationship between hospital-acquired pneumonia and surgical infection and patient outcomes, including length of hospital stay.
+

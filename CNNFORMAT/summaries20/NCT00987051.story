@@ -1,0 +1,24 @@
+(thirdQuint)Sentinel Node and Endometrial Cancer.
+
+ To investigate the relevance of sentinel node in endometrial cancer.
+
+ Sentinel node is though to reflect the status of lymph node.
+
+ Only 10 to 20% of women with endometrial cancer exhibit lymph node metastasis hence systematic lymphadenectomy is questionable.
+
+ In breast cancer, melanoma and vulvar cancer, sentinel node has emerged as an alternative to complete lymphadenectomy.
+
+ The objective of our trial is to validate the concept of sentinel node in endometrial cancer.
+
+.
+
+ Sentinel Node and Endometrial Cancer@highlight
+
+The purpose of this study is to investigate the relevance of sentinel node in endometrial cancer.
+
+ Sentinel node is thought to reflect the status of lymph node.
+
+ Only 10 to 20% of women with endometrial cancer exhibit lymph node metastasis hence systematic lymphadenectomy is questionable.
+
+ In breast cancer, melanoma and vulvar cancer, sentinel node has emerged as an alternative to complete lymphadenectomy.
+

@@ -1,0 +1,12 @@
+(firstQuint)A Self-care Mobile Health App in Individuals With Heart Failure.
+
+ The mobile application is called the Heart Failure Health Storylines (HFHS).
+
+ The potential benefits will be examined by determining the changes in physical activity and quality of life of the participants, who will use the application and compare the results with the participants, who will not use the application.
+
+.
+
+ A Self-care Mobile Health App in Individuals With Heart Failure@highlight
+
+This study was designed to determine the potential benefits that individuals with heart failure (HF) could experience from using a mobile application.
+

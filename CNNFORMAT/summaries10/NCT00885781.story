@@ -1,0 +1,18 @@
+(firstQuint)Efficacy and Safety Comparison Between SMOFlipid and Lipovenoes MCT.
+
+ The comparison of two lipid emulsion product will be performed.
+
+ Patients who plan to accept gastrectomy will be consider for trial and signed content will be obtained.
+
+ If the patient needs total parenteral nutrition (TPN) treatment after surgery for at least 5 days and meets all criteria, then he/she will be enrolled and randomized to ether of the groups, SMOFlipid or Lipovenoes MCT.
+
+ During the treatment period, efficacy variables and safety variables will be measured.
+
+ Life quality evaluation will also be performed through questionnaires collection.
+
+.
+
+ Efficacy and Safety Comparison Between SMOFlipid and Lipovenoes MCT@highlight
+
+Comparison of efficacy and safety of two lipid emulsion products will be performed on gastrectomy patients postsurgically.
+

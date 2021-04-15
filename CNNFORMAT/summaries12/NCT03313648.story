@@ -1,0 +1,16 @@
+(firstQuint)A Study of Laparoscopic Hepatectomy Versus RFA in the Treatment of Recurrent HCC.
+
+ Background & Aims: Hepatocellular carcinoma (HCC) is the third leading cause of cancer-related death in the world.
+
+ The 5-year recurrent rate of HCC after first curative resection is 77%~100%.
+
+ Laparoscopic repeat liver resection (LRLR) has been shown in small retrospective studies to be a safe and effective treatment for recurrent hepatocellular carcinoma (rHCC) in selected patients, and radiofrequency ablation (RFA) has been increasingly performed for treating recurrent tumors involving the liver after hepatectomy.
+
+ The aim of this study was to compare the short-term and long-term outcome of laparoscopic hepatectomy (LH) and radiofrequency ablation (RFA) in the treatment of rHCC.
+
+.
+
+ A Study of Laparoscopic Hepatectomy Versus RFA in the Treatment of Recurrent HCC@highlight
+
+To observe and compare the short-term and long-term oncological outcome of laparoscopic hepatectomy and radiofrequency ablation in the treatment of recurrent hepatocellular carcinoma .
+

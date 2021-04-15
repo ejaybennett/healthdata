@@ -1,0 +1,12 @@
+(firstQuint)Long Term Results of the Use of Oxybutynin for the Treatment of Hyperhidrosis.
+
+ This retrospective study aims to evaluate the medical charts of patients who were treated with oxybutynin for at least six months for primary hyperhidrosis.
+
+ The investigators variables of interest are: (1) quality of life before pharmacological therapy and after six weeks, (2)self-perception of improvement in hyperhidrosis after six weeks of treatment and on last visit (whenever this occur, as long as this happens after six months), (3) side effects related to drug use.
+
+.
+
+ Long Term Results of the Use of Oxybutynin for the Treatment of Hyperhidrosis@highlight
+
+Evaluate the long term efficacy and side effects of oxybutynin in the treatment of hyperhidrosis.
+

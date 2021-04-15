@@ -1,0 +1,14 @@
+(firstQuint)Acitretin Plasma Levels Under Hemodialysis.
+
+ Acitretin is given to hemodialysis patients who have developed in-situ or invasive squamous cell carcinoma of the skin in increasing doses up to 25 mg daily for one year.
+
+ Plasma levels of acitretin will be monitored and influence of hemodialysis on acitretin plasma levels will be determined.
+
+ Number of in-situ or invasive squamous cell carcinoma of the skin cases will be determined.
+
+ - Trial with medicinal product.
+
+ Acitretin Plasma Levels Under Hemodialysis@highlight
+
+Acitretin is given to hemodialysis patients who have developed in-situ or invasive squamous cell carcinoma of the skin in increasing doses up to 25 mg daily for one year.
+

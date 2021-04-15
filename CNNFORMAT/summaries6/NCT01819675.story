@@ -1,0 +1,26 @@
+(secondQuint)Effect of Repetitive Transcranial Magnetic Stimulation (rTMS) Over the Brain on the Neurotransmitter Binding.
+
+ Repetitive transcranial magnetic stimulation (rTMS) can modulate the excitability of cortex but exact mechanism is not well determined in human-beings.
+
+ Changes in some neurotransmitters' status in brain after rTMS have been suggested as a possible mechanism, but role of GABA is not clear.
+
+ Twelve healthy people will be recruited.
+
+ They will receive the rTMS over the primary motor cortex of the dominant hand.
+
+ Individual subject will receive three sessions of rTMS with wash-out period (more than 3 days) between the rTMS sessions.
+
+ Three rTMS sessions are high frequency (10Hz), low frequency (1Hz) and sham rTMS.
+
+ The order of rTMS sessions will be randomly decided.
+
+ After completing each rTMS session, [18F]flumazenil-PET will be checked.
+
+ The purpose of this study is to investigate 1)whether rTMS over the primary motor cortex can modulate the [18F]flumazenil binding potential and 2)whether the modulation of [18F]flumazenil binding potential by rTMS can be different according to the applied frequency of rTMS.
+
+.
+
+ Effect of Repetitive Transcranial Magnetic Stimulation (rTMS) Over the Brain on the Neurotransmitter Binding@highlight
+
+The purpose of this study is to determine whether repetitive transcranial magnetic stimulation (rTMS) over the brain can modulate the binding of neurotransmitter (GABA in this study) to its receptor using the special PET study.
+

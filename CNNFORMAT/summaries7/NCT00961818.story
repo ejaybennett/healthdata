@@ -1,0 +1,18 @@
+(firstQuint)Immediate Effect Analysis of Vocal Techniques.
+
+ Vocal techniques have been used, but few studies had as their aim to effectively verify its use and effect produced in voice and the larynx.
+
+ The objective of this clinical and experimental study was to verify the immediate effect of vocal techniques: vibration, nasal sound and articulation.
+
+ Material and method: 32 female subjects with normal to mild dysphonia participated in the research, with ages from 20 to 45 years.
+
+ All subjects were submitted to realization of vocal techniques of vibration of the lips, articulation and nasal sounds for twenty minutes.
+
+ The subjects were submitted to record the voice and laryngostroboscopic exams for perceptual analysis and laryngostroboscopic exams before and after the use of vocal techniques.
+
+.
+
+ Immediate Effect Analysis of Vocal Techniques@highlight
+
+The objective of this clinical and experimental study was to verify the immediate effect of vocal techniques: vibration, nasal sound and articulation in women without vocal complaints.
+

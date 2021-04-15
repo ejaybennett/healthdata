@@ -1,0 +1,44 @@
+(secondQuint)PXD101 in Treating Patients With Relapsed or Refractory Aggressive B-Cell Non-Hodgkin's Lymphoma.
+
+ PRIMARY OBJECTIVES: I.
+
+ Evaluate response rate in patients with relapsed or refractory aggressive B-cell non-Hodgkin's lymphoma treated with PXD101.
+
+ SECONDARY OBJECTIVES: I.
+
+ Determine the toxicity of this drug in these patients.
+
+ II.
+
+ Estimate the 6-month progression-free survival rate in patients treated with this drug.
+
+ TERTIARY OBJECTIVES: I.
+
+ Determine the major histocompatability complex of class II proteins (HLA-DR, -DP, -DQ), TUNEL, and CD8 infiltration status, by immunochemistry on paired pre- and post-treatment tumor samples, in the first 20 patients enrolled.
+
+ II.
+
+ Measure CIITA and HLA-DR mRNA expression using quantitative reverse transcriptase-polymerase chain reaction and determine, preliminarily, the associations of these markers with progression-free survival.
+
+ III.
+
+ Evaluate paired pre- and post-treatment peripheral blood mononuclear cells from patients for histone acetylation status and determine correlation with findings from duplicate experiments on pre- and post-needle core biopsies.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive PXD101 IV over 30 minutes on days 1-5.
+
+ Treatment repeats every 21 days for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+ Needle core biopsies and peripheral blood mononuclear cells are obtained from the first 20 patients pre- and post-treatment for biomarker correlative studies.
+
+ After completion of study treatment, patients are followed every 3-6 months for up to 3 years.
+
+.
+
+ PXD101 in Treating Patients With Relapsed or Refractory Aggressive B-Cell Non-Hodgkin's Lymphoma@highlight
+
+This phase II trial is studying how well PXD101 works in treating patients with relapsed or refractory aggressive B-cell non-Hodgkin's lymphoma.
+
+ PXD101 may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer.
+

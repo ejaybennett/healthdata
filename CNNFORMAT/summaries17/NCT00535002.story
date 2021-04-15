@@ -1,0 +1,26 @@
+(thirdQuint)The Effect of Yohimbine on Cocaine Cue Reactivity.
+
+ Cocaine dependence is an insidious disease underscored by a strong propensity to relapse despite knowledge of the repercussions of continued drug-use.
+
+ Stress and cocaine cues produce craving and ultimately relapse in cocaine dependent individuals.
+
+ Pre-clinical research has demonstrated sex differences in response to cocaine-conditioned cues and cocaine-primed reinstatement, which correlates well with reduced plasma progesterone levels.
+
+ Interestingly, this is consistent with a growing body of clinical literature indicating that progesterone may decrease the reinforcing properties of stimulants in women.
+
+ Gender differences in the response to a social stressor and cocaine cues in cocaine-dependent individuals have been demonstrated in human laboratory studies, however, the interaction of stress and cues and the effect of hormonal status on response have not been explored.
+
+ This study examines the role of hormonal status on the response to cocaine-related cues with or without a pharmacological stressor (yohimbine) in cocaine-dependent women and men.
+
+ As a further integration of the research focus this study also explores the relationship between impulsivity and craving.
+
+.
+
+ The Effect of Yohimbine on Cocaine Cue Reactivity@highlight
+
+Stress and cues reminiscent of cocaine use promote craving and relapse in cocaine dependent individuals.
+
+ In addition, there appears to be gender differences in determinants of relapse to drug use following abstinence in cocaine-dependent individuals.
+
+ Therefore the purpose of the present study is to study the role of hormonal status on the response to cocaine-related cues with or without stress in cocaine-dependent women and men.
+

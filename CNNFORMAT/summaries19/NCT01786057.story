@@ -1,0 +1,15 @@
+(secondQuint)Effect of Extracorporeal Shock Wave Therapy of Gastrosoleus Trigger Points in Patients With Plantar Fasciitis.
+
+ Plantar fasciitis is the most common cause of inferior heel pain, A great variety of therapies have been reported for the treatment of plantar fasciitis including extracorporeal shock wave therapy.
+
+ Gastrosoleus muscle dysfunction is one of the most common contributing factors to this disease .
+
+Despite the long history and the fact that this is a common diagnosis made in clinical practice, the exact cause and best treatment for this condition still are being explored.
+
+ Although there is lack of high-quality studies demonstrating the efficacy of extracorporeal shock wave therapy of gastrosoleus trigger points in patients with plantar fasciitis , this study will be performed to examine the effect of extracorporeal shock wave therapy of gastrosoleus trigger points in patients with plantar fasciitis.
+
+ Effect of Extracorporeal Shock Wave Therapy of Gastrosoleus Trigger Points in Patients With Plantar Fasciitis@highlight
+
+Plantar fasciitis is one of the most common causes of heel pain.
+
+ This study will be performed in the purpose of determination the effects of extracorporeal shock wave therapy of gastrosoleus trigger points in patients with plantar fasciitis

@@ -1,0 +1,12 @@
+(thirdQuint)A Gender-Specific Posterior Cruciate-Substituting High-Flexion Knee Prosthesis Does Not Improve Fit and Function.
+
+ Recently much debate and discussion has focused on the effect of gender-specific total knee arthroplasty.
+
+ The purpose of this study was to compare functional and radiographic results, range of motion of the knee, patient satisfaction, femoral component, revision and complication rates in patients receiving either a standard posterior cruciate substituting-flex (LPS-flex) or gender-specific posterior cruciate substituting-flex (LPS-Flex) total knee prosthesis.
+
+.
+
+ A Gender-Specific Posterior Cruciate-Substituting High-Flexion Knee Prosthesis Does Not Improve Fit and Function@highlight
+
+The purpose of this study was to compare functional and radiographic results, range of motion of the knee, patient satisfaction, femoral component, revision and complication rates in patients receiving either a standard posterior cruciate substituting-flex (LPS-flex) or gender-specific posterior cruciate substituting-flex (LPS-Flex) total knee prosthesis.
+

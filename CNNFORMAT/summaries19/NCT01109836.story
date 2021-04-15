@@ -1,0 +1,34 @@
+(secondQuint)Austrian Polyintervention Study to Prevent Cognitive Decline After Ischemic Stroke.
+
+ Stroke is the second most frequent cause of death and cognitive deficits including dementia occur frequently following a stroke.
+
+ The frequency of cognitive disturbances has been reported up to 30% and thus occurs three times more frequent than recurrent stroke (10%).
+
+ Major attempts have been made to prevent the occurrence of new strokes by means of effective strategies including preventive drugs.
+
+ In contrast, hardly any studies have been performed addressing the prevention of deteriorating cognitive function following a stroke.
+
+ In spite of this high prevalence therapeutic possibilities are extremely limited.
+
+ It must be expected that cognitive deficits become even a more frequent disability following stroke.
+
+ This is caused by the increased aging of the population leading to further increase of incidence, furthermore that more people survive their acute stroke due to increased possibilities of acute treatment, and that frequent risk factors (e.
+
+g.
+
+ hypertension, diabetes) are increasingly controlled, thus leading to less severe strokes with less severe and permanent motor deficits, but an increase of potentially disabling cognitive disturbances.
+
+ The aim of this randomized controlled study is to test an intensive multiple intervention therapy for the first time in stroke and to add life style modifications targeting modifiable risk factors for cognitive deterioration.
+
+ It is hypothesized that the risk of post-stroke cognitive decline can be significantly reduced compared to a control group with standard care when using polyintervention.
+
+ These interventions will focus on nutrition, exercise, cognitive and social activity and monitoring and management of metabolic and vascular risk factors.
+
+ Regular contacts with the subjects shall increase motivation and adherence to the study protocol.
+
+.
+
+ Austrian Polyintervention Study to Prevent Cognitive Decline After Ischemic Stroke@highlight
+
+Aim of this randomized controlled study is to test if intensive polyintervention therapy including life style modifications targeting at reduction of modifiable risk factors of stroke can reduce the risk of post-stroke cognitive decline compared to a group of patients receiving standard care.
+

@@ -1,0 +1,16 @@
+(firstQuint)Drug-eluting Stents to Treat Unprotected Coronary Left Main Disease.
+
+ Restenosis in the left main coronary artery may have severe consequences given the large proportion of the myocardium compromised in this condition, and, in several studies, it has been linked to the 6-month mortality after the index procedure.
+
+ Drug-eluting stents have reduced the restenosis rate and the need for target vessel revascularization not only in simple lesion but also in high risk subsets of patients and lesions such as diabetics, long lesions or bifurcations.
+
+ There are no data about their efficacy in left main coronary artery disease.
+
+ Thus, the aim of this study is to investigate the performance of two different drug-eluting stents (Everolimus and Zotarolimus-eluting) in left main coronary lesions.
+
+.
+
+ Drug-eluting Stents to Treat Unprotected Coronary Left Main Disease@highlight
+
+The purpose of this study is to evaluate the efficacy of two different drug-eluting stents (Everolimus and Zotarolimus-eluting) for treatment of unprotected left main coronary artery disease.
+

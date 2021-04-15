@@ -1,0 +1,16 @@
+(firstQuint)RAD001 Plus Carboplatin in Breast Cancer Patients.
+
+ The primary objective of this study was to determine clinical benefit rate (CBR) i.
+
+e.
+
+complete remission (CR) + partial remission (PR) + stable disease (SD) lasting 6 months, and the toxicity of RAD001 /carboplatin in women with metastatic triple-negative breast cancer.
+
+ Treatment consisted of intravenous carboplatin at area under the plasma concentration-time curve (AUC) 6, later decreased to AUC 5, and subsequently to AUC 4 every 3 weeks with daily 5mg RAD001.
+
+.
+
+ RAD001 Plus Carboplatin in Breast Cancer Patients@highlight
+
+This study investigates the effectiveness of combination of carboplatin and investigational agent RAD001 in triple-negative breast cancer.
+

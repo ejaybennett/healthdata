@@ -1,0 +1,16 @@
+(firstQuint)Study of Apatinib as the Maintenance Therapy in Advanced Lung Adenocarcinoma.
+
+ Lung adenocarcinoma is the most common NSCLC,most patient were diagnosed to advanced stage.
+
+ Maintenance treatment is the continuation of treatment after first-line treatment and before the disease progresses.
+
+ We consider to add apatinib,a tyrosine kinase inhibitor of VEGF,to the therapy of these patients.
+
+ We designed the study to explore the possibility of apatinib for maintenance.
+
+.
+
+ Study of Apatinib as the Maintenance Therapy in Advanced Lung Adenocarcinoma@highlight
+
+The purpose of this study is to confirm the safety and efficacy of Apatinib plus Pemetrexed as the Maintenance Therapy in Advanced Lung Adenocarcinoma.
+

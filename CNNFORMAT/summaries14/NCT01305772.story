@@ -1,0 +1,62 @@
+(fifthQuint)Identification of Gene Expression Signature for Panitumumab Sensitivity in Untreated Locally Advanced SCCHN.
+
+ The trial was initiated to identify a gene expression signature profile biomarker for panitumumab sensitivity in locally advanced, untreated SCCHN.
+
+ SCCHN expresses or over expresses EGFR in >90% of tumors.
+
+ Panitumumab is a fully human IgG2 monoclonal antibody approved for the treatment of epidermal growth factor receptor (EGFR) expressing previously treated metastatic colorectal cancer.
+
+ It competes with endogenous ligands such as epidermal growth factor and tumor growth factor- and blocks stimulation of the EGFR.
+
+ Preclinical experiments have shown that panitumumab has both direct anti-tumor activity and can activate a cellular immune response to SCCHN.
+
+This study provides the opportunity to better define the population of patients that would benefit from EGFR inhibition in SCCHN.
+
+ Patients received single agent panitumumab in a "window of opportunity" design prior to definitive surgical or radiation therapy.
+
+ The decision to treat primarily with either surgery or Radiation Therapy (RT) based therapy was based on best medical practice by the treating physician per National Comprehensive Cancer Network (NCCN) guidelines at www.
+
+nccn.
+
+org.
+
+ Response to panitumumab monotherapy before surgery or radiation was evaluated as a continuous variable, and a median split of patients will be used to develop a signature of drug responsiveness.
+
+ An Affymetrix chip based gene signature model was then developed by analyzing gene expression in panitumumab sensitive versus resistant tumors.
+
+ Identification of a gene expression profile for tumor sensitivity allowed for prospective trials treating patient populations enriched for likelihood of clinical benefit from panitumumab therapy.
+
+ It is also possible that a gene signature profile for panitumumab responsiveness identified in SCCHN could be used as a biomarker in other epithelial cancers.
+
+ Tumor response as measured by percentage decrease in PET scan standardized uptake value (SUV) level or objective evidence of tumor response (by CT scan or direct measurement) was the basis for examining the activity of panitumumab by means of identifying a gene expression signature that predicted response in this patient population.
+
+ Therefore, PET scan SUV levels was assessed at baseline prior to any treatment.
+
+ If a baseline PET/CT was obtained and a lesion identified with SUV level 6, an additional pre-treatment research PET/CT was performed after consent (prior to dose #1 panitumumab.
+
+ A second research PET/CT was also obtained after the first dose of panitumumab as part of this research study.
+
+ If no baseline PET/CT had been obtained, a research PET was obtained pre-treatment; if SUV level 6 an additional research PET was obtained after the first dose of panitumumab.
+
+ All subjects underwent imaging, biopsy and a single dose of panitumumab 9mg/kg IV.
+
+ Two to three weeks after panitumumab, imaging was repeated and a second biopsy was obtained (at surgery for surgery patients) and an optional biopsy for patients receiving RT.
+
+ Subjects received 2 additional doses of panitumumab during their standard therapy.
+
+.
+
+ Identification of Gene Expression Signature for Panitumumab Sensitivity in Untreated Locally Advanced SCCHN@highlight
+
+The purpose of this study was to identify which cancer-related genes are turned on or turned off in order to determine how well a patient will respond to the study drug, panitumumab.
+
+ Panitumumab was added to standard adjuvant or primary radiation therapy.
+
+ There were subjects that receive surgery followed by therapy and subjects that receive radiation therapy without surgery.
+
+ Subjects entering this study had locally advanced disease that can be treated with surgery and/or radiation therapy.
+
+ Fresh frozen tumor tissue were available for genomics analysis prior to initiating panitumumab therapy.
+
+ If fresh frozen tissue was not available at time of consent, a biopsy was required to participate in this trial.
+

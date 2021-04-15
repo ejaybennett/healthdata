@@ -1,0 +1,22 @@
+(fifthQuint)Dementia Patient's Behavior Evaluation Using Noninvasive Ambient Sensor.
+
+ With the help of intelligent home environment and Pervasive Computing, it is possible to bring information about the behavior of the patients to the caregivers and their relatives.
+
+ In this study, non-invasive wireless sensors such as infrared motion sensor the switch sensor will be built in the home of the subjects.
+
+ The wireless sensor data collected by the input to the team's "activity identification system" in order to assess the mathematical model of the subjects "capacity" and immediate judgment of their activities.
+
+ In the identification of activities can be divided into two categories of behavior, risk behavior (harmful to the subjects) and protective behavior (beneficial to the subjects), real-time activity detection, can avoid dangerous behavior, such as water and gas off, roaming , Repetitive behavior (over-eating), forgetting to eat and day-night reversal (sleep disturbance), etc.
+
+, the protection of behavior can be observed through a long time to help patients conduct beneficial behavior, such as regular quantitative diet.
+
+.
+
+ Dementia Patient's Behavior Evaluation Using Noninvasive Ambient Sensor@highlight
+
+This study is an observational study that uses daily activity and environmental sensing techniques to establish behavioral models of early dementia patients and cognitive healthy function to assess their daily behavior and determine their activities.
+
+ Specifically, the team will collect information on a number of wireless sensors for dementia, mild cognitive impairment and healthy elderly residents, and use special mathematical models to establish the behavior of the two groups of subjects Model.
+
+ The model will be developed a reliable algorithm to assess health risk of the subjects.
+

@@ -1,0 +1,22 @@
+(secondQuint)A Multimodal Intervention to Address Sexual Dysfunction in Hematopoietic Stem Cell Transplant Survivors.
+
+ Frequently survivors of stem cell transplantation report significant problems with their sexual function that impacts their quality of life, mood, and their intimacy and relationship with their partners.
+
+ These issues can be very distressing to patients and their loved ones.
+
+ The study doctors want to know if the introduction of an intervention focused on improving sexual function may improve a participant's overall care and quality of life.
+
+ The intervention includes a comprehensive assessment by a transplant clinician who is trained in sexual dysfunction assessment to explore the reasons for sexual dysfunction and focus on ways to improve the participant's symptoms.
+
+ The study will use a series of questionnaires to measure a participant's sexual function, quality of life, and mood.
+
+ The main purpose of this study is examine whether this intervention is feasible and helpful for participants in terms of improving their symptoms and overall quality of life.
+
+.
+
+ A Multimodal Intervention to Address Sexual Dysfunction in Hematopoietic Stem Cell Transplant Survivors@highlight
+
+This research study is evaluating the feasibility and impact of an intervention to improve sexual function in stem cell transplant survivors on participants' sexual function, quality of life, and mood.
+
+ - It is expected that about 50 stem cell transplant survivors will take part in this research study.
+

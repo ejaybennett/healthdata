@@ -1,0 +1,44 @@
+(fifthQuint)The Effect of Obstructive Sleep Apnea Operations on the Swallowing Function.
+
+ first step: The investigators will review the operating room reports, identify participants who underwent trans-oral robotic surgery for base of tongue and/ or soft palate surgery more than six months ago.
+
+ second step: 1.
+
+ The investigators will locate and conclude data of participants who already underwent assessment of postoperative swallowing function (FEES test and SDQ).
+
+The investigators will review the summary of their meeting.
+
+ 2.
+
+ The investigators will Call participants who have not yet done swallowing assessment and invite them to a clinic appointment.
+
+ third step- participants come to the clinic.
+
+ Receive an explanation, sign a consent form.
+
+ Then the participants fulfill the SDQ questionnaire (patient self- filling questionnaire) in which the participants assess the quality swallowing.
+
+ Then the investigators will conduct the swallowing test - FEES test.
+
+ During This test fiber optic fiber is inserted through the participants nose for the purpose of observing the pharyngeal and laryngeal areas.
+
+The participants eat and drink food and with different textures while looking for their swallowing mechanism via the optical fiber in order to identify swallowing problems.
+
+ forth step- Two laryngologists and a speech therapists will go over the recorded swallowing tests, filling out the two questionnaires:Swallowing performance status scale (SPSS) and Penetration- aspiration scale (PAS).
+
+ With these scales every participant receives a score that reflects the quality of swallowing.
+
+ A higher score indicates a more severe swallowing disorder.
+
+.
+
+ The Effect of Obstructive Sleep Apnea Operations on the Swallowing Function@highlight
+
+The investigators hypothesize that partial robotic tongue base resection surgery and / or soft palate surgery, as a treatment for sleep apnea affect the swallowing quality.
+
+In order to characterize the dysphagia The investigators will locate participants undergoing this surgery more than six months ago.
+
+The investigators will test their swallowing by fiberoptic endoscopic evaluation of swallowing (FEES) and let participants fill out a questionnaire regarding swallowing disorders swallowing dysfunction questionnaire (SDQ).
+
+ Also the investigators will use data collected from participants who have undergone this surgery and already had these tests due to swallowing complaints.
+

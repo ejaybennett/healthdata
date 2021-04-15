@@ -1,0 +1,56 @@
+(fifthQuint)POETIC Plerixafor as a Chemosensitizing Agent for Relapsed Acute Leukemia and MDS in Pediatric Patients.
+
+ Approximately 500 children are diagnosed with AML every year, of whom around 60% are cured with current regimens based on anthracyclines and high dose cytarabine with or without stem cell transplant (SCT).
+
+ Among the remaining 40% who are refractory or who relapse, outcome is dismal.
+
+ Additionally, 20-30% of patients with childhood ALL relapse or become refractory to frontline therapies.
+
+ The prognosis is poor in this patient population, particularly in patients with second or subsequent relapse and those who relapse following SCT.
+
+ These patients present myriad challenges, as they usually have received a high cumulative anthracycline dose, and in the case of SCT, may have had significant organ toxicities and/or total body irradiation (TBI).
+
+ Therefore, new therapeutic strategies need to be identified to enhance possible improved outcomes.
+
+ Recently, scientists have described a resistant, quiescent population of leukemia cells that have limitless self-renewal potential.
+
+ The identification of these "leukemia stem cells" (LSCs) provides an additional strategy in treating and preventing relapsed/refractory acute leukemia.
+
+ One mechanism for resistance to treatment is the protection afforded LSCs via the interaction between stem cell derived growth factor (CXCL-12/SDF-1) and its receptor, CXCR4.
+
+ These interactions are implicated in chemotaxis, homing, and survival/apoptosis of hematopoietic stem cells and progenitor cells.
+
+ All AML and ALL cells express CXCR4 and SDF-1.
+
+ AMD3100 (plerixafor, MOBOZIL(R)) is a bicyclam that blocks CXCL-12 binding to and signaling through CXCR4, thus disrupting tumor-stroma interactions and mobilizing leukemia cells from their protective stromal environment.
+
+ Plerixafor is currently FDA approved for use in stem cell mobilization for autologous transplantation in hematologic malignancies.
+
+ Clinical trials in adult patients with relapsed AML have demonstrated promising results when combining plerixafor with cytotoxic chemotherapy.
+
+ This Phase I clinical trial will be the first to test the concept of a "chemosensitization" approach in children using Plerixafor.
+
+ Patients aged 3 to 30 with relapsed/refractory AML, ALL or MDS will receive Plerixafor followed 4 hours later with combination chemotherapy consisting of etoposide and cytarabine daily for five days.
+
+ We will determine the safety and tolerability of Plerixafor in combination with cytarabine and etoposide in pediatric and young adults with relapsed/refractory acute leukemias.
+
+ The secondary objectives of this study will quantify the peripheral blood mobilization of blasts in response to Plerixafor using flow cytometry, measure initial CXCR4 expression on leukemic blasts and correlate with response, and determine the change in CXCR4 expression after protocol therapy.
+
+ Finally, we will determine the pharmacokinetics of Plerixafor when administered with cytotoxic chemotherapy in this patient population.
+
+.
+
+ POETIC Plerixafor as a Chemosensitizing Agent for Relapsed Acute Leukemia and MDS in Pediatric Patients@highlight
+
+In this Phase I study, we will test the safety of the drug plerixafor (MOBOZIL) at different dose levels, used together with other anti-cancer drugs-cytarabine and etoposide.
+
+ We want to find out what effects, good and /or bad, this combination of drugs has on leukemia.
+
+ Plerixafor is a drug that blocks a receptor on the leukemia cell, which prevents it from staying in the bone marrow where it can be resistant to chemotherapy.
+
+ Plerixafor is FDA approved for mobilizing stem cells from the bone marrow in preparation for an autologous stem cell transplant.
+
+ Cytarabine and etoposide have been used as part of standard chemotherapy for ALL and AML.
+
+ However, the use of plerixafor with cytarabine and etoposide in pediatric patients with relapsed or refractory ALL, AML and MDS is considered experimental.
+

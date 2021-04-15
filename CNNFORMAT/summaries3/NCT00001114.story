@@ -1,0 +1,36 @@
+(fifthQuint)The Safety and Effectiveness of Interferon Alfa-2B Plus Didanosine in Patients With Kaposi's Sarcoma.
+
+ Previous studies have shown that IFN-alpha can induce regression of Kaposi's sarcoma and suppression of HIV in some patients.
+
+ Although various trials using IFN-alpha in combination with the nucleoside analogue zidovudine have demonstrated a high degree of antitumor activity and evidence of HIV suppression, the overlapping toxicity (primarily neutropenia) of these two agents has proven dose-limiting.
+
+ The toxicity profile of ddI suggests that this drug may be better tolerated than zidovudine when combined with IFN-alpha.
+
+ Up to 90 patients are randomized to receive either low or high doses of IFN-alpha (1 or 10 million Units/day) in combination with a fixed dose of ddI.
+
+ Fourteen patients are initially entered at each dose level.
+
+ If no objective antitumor responses are observed among the first 14 patients at a given dose, no further patients are entered on that treatment arm.
+
+ If one or more antitumor responses are seen at a given dose, up to 45 patients may be entered on that treatment arm.
+
+ Patients must complete at least 4 weeks of study therapy to be considered evaluable for tumor response.
+
+ Treatment is continued until tumor progression or unacceptable toxicity occurs.
+
+ PER AMENDMENT 9/19/96: NOTE - After 16 weeks of treatment subjects may receive any FDA approved antiretroviral drug regimen in addition to or in place of ddI.
+
+.
+
+ The Safety and Effectiveness of Interferon Alfa-2B Plus Didanosine in Patients With Kaposi's Sarcoma@highlight
+
+Primary: To evaluate the safety, toxicity, and antitumor activity of two doses of interferon alfa-2b (IFN-alpha) combined with a fixed dose of didanosine (ddI) in patients with Kaposi's sarcoma associated with HIV infection.
+
+ Secondary: To evaluate the effects of combined IFN-alpha and ddI treatment on HIV expression and markers of immune function.
+
+ Previous studies have shown that IFN-alpha can induce regression of Kaposi's sarcoma and suppression of HIV in some patients.
+
+ Although various trials using IFN-alpha in combination with the nucleoside analogue zidovudine have demonstrated a high degree of antitumor activity and evidence of HIV suppression, the overlapping toxicity (primarily neutropenia) of these two agents has proven dose-limiting.
+
+ The toxicity profile of ddI suggests that this drug may be better tolerated than zidovudine when combined with IFN-alpha.
+

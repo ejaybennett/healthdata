@@ -1,0 +1,76 @@
+(fifthQuint)Vitamin K as Additive Treatment in Osteoporosis.
+
+ Vitamin K is important for skeletal health.
+
+ Vitamin K is essential for the carboxylation of several Gla proteins in bone which are implicated in bone formation and mineralization.
+
+ These include osteocalcin (OC) and matrix Gla protein (MGP).
+
+ Carboxylation of the glutamic acid residues of these proteins optimises their function.
+
+ Vitamin K occurs as either phylloquinone (vitamin K1) which is the major dietary form or menaquinones (MKs or vitamin K2) which are mainly of bacterial origin.
+
+ MK4 of the vitamin K2 series has additional, carboxylation-independent, functions including the regulation of osteoblastic specific markers such as alkaline phosphatase (BALP), and osteoprotegerin (OPG) and has inhibitory effects on osteoclast activity.
+
+ Several observational studies have shown that low vitamin K status is associated with low bone mineral density (BMD) and increased fracture risk, although proof of causality is lacking.
+
+ The results of several placebo-controlled clinical trials of vitamin K1 and MK4 have been conflicting with some, but not all, showing a positive effect of vitamin K1 on BMD or bone turnover.
+
+ Positive fracture efficacy has been demonstrated with high-dose MK4, although most trials were on Japanese women.
+
+ These intervention studies may have been hampered by the study design such as inclusion of vitamin K replete subjects or healthy non-osteoporotic women.
+
+ The use of vitamin K in the prevention of bone loss and/or fractures in high-risk post-menopausal women with osteoporosis who are vitamin K deplete merits further investigations.
+
+ The prevalence of low vitamin K stores is high in elderly subjects with osteoporosis.
+
+ Preliminary data in Japanese women suggest that combined treatment with a bisphosphonate and vitamin K, at least vitamin K2 (MK4), appears to have an additive beneficial effect on BMD and bone resorption.
+
+ There have been no such studies in a caucasian osteoporotic population.
+
+ We want to test the hypothesis that treatment with bisphosphonates combined with vitamin K, in vitamin K deplete elderly women with osteoporosis, may offer additional benefit on skeletal metabolism and reduction of fracture risk.
+
+ The first part will be a cross-sectional study of post-menopausal women with osteoporosis aged between 60-80 years who are on treatment with bisphosphonate.
+
+ Their vitamin K status will be determined and those patients who are found to have low vitamin K concentrations defined as <0.
+
+35 ug/ml will be invited to take part in an 18 months prospective randomised placebo controlled trial.
+
+ Eligible patients will be randomised to 3 arms (35 patients in each arm).
+
+ All 3 groups will continue to receive weekly oral bisphosphonate (commonly Alendronate 70 mg weekly) and adjunctive calcium/vitamin D supplements (1.
+
+0g of calcium and 800 I.
+
+U of cholecalciferol).
+
+ The control arm (Group A) will receive placebo.
+
+ Group B will receive 1.
+
+0mg daily of vitamin K1 and MK4 placebo.
+
+ Group C will receive vitamin K2 (MK4) 45 mg daily and vitamin K1 placebo.
+
+ Patients will be seen at baseline and at 3, 6, 12 and 18 months.
+
+ Changes in BMD at the lumbar spine, hip, fore-arm at 18 months and the biochemical parameters at each time point will be compared between the groups.
+
+.
+
+ Vitamin K as Additive Treatment in Osteoporosis@highlight
+
+Vitamin K is thought to be important for bone health because it activates several proteins involved in bone formation.
+
+ Poor dietary intake of vitamin K (mainly found in dark green leafy vegetables) is associated with bone loss and fractures.
+
+ Giving supplements of the main dietary form of vitamin K (called K1) or another common form which our bodies make from K1(called MK4), to improve bone health have given mixed results.
+
+ This confusion is thought to have arisen because these studies involved people who already had enough vitamin K or did not have osteoporosis.
+
+ We want to test the hypothesis that treatment with bisphosphonates combined with vitamin K, in vitamin K deplete elderly women with osteoporosis, may offer additional benefit on skeletal metabolism and reduction of fracture risk.
+
+ We want to test this by measuring vitamin K status in post-menopausal women with osteoporosis who are on the recommended treatment with a bisphosphonate and calcium/vitamin D supplements.
+
+ Those with low vitamin K will then be recruited to study the effect of supplementation with either K1 or MK4.
+

@@ -1,0 +1,28 @@
+(secondQuint)Dose Escalation Study of Interleukin-7 (IL-7) and Bitherapy in HCV Genotype 1 or 4 Patients Resistant to Bitherapy Alone.
+
+ This is a Phase I/IIa inter-patient dose-escalation study assessing weekly doses of Interleukin-7 (CYT107) in adult patients infected by virus genotype 1 or 4 of Hepatitis C and resistant to standard treatment with Peg-Interferon and Ribavirin (bitherapy).
+
+ The dose escalation is aimed at establishing the safety of a biologically active doses of CYT107 added to the combination therapy of pegylated interferon-alpha and ribavirin.
+
+ At each dose level, study patients will receive one subcutaneous administration of CYT107 per week for a total of 4.
+
+ Groups of 6 patients will be entered at each dose level of CYT107.
+
+ Three dose levels are planned.
+
+ Eligible patients initially receive bi-therapy for 6-10 weeks.
+
+ Thereafter, CYT107 is added for a cycle of four weekly injections at a defined dose level while standard bi-therapy continues for 9 weeks after CYT107 treatment discontinuation.
+
+ The patients are then followed on a regular basis until reaching 48 weeks after the CYT107 treatment.
+
+ The duration of study is approximatively 60 weeks with 20-25 weeks of bi-therapy.
+
+ Participants will have 1 overnight hospitalization and 15 clinic visit on a period of 60 weeks.
+
+ During the visits the following may be done: - medical history, physical examination, blood tests - electrocardiograms (ECG) - chest X-Ray - liver/spleen imaging - urine tests.
+
+ Dose Escalation Study of Interleukin-7 (IL-7) and Bitherapy in HCV Genotype 1 or 4 Patients Resistant to Bitherapy Alone@highlight
+
+This study is designed to evaluate the safety of biological active dose of a new experimental drug, IL-7, in combination with standard bi-therapy in patients with Hepatitis C chronic infection identified as non responders to the standard bi-therapy alone.
+

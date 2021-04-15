@@ -1,0 +1,22 @@
+(firstQuint)The Effect of Ketamine Infusion on Lumbar Surgery.
+
+ Neuropathic pain defined as 'pain caused by a lesion or disease of the somatosensory system'.
+
+ Neuropathic pain is 20 - 35% of low back pain.
+
+ Ketamine is categorized as N-methyl D-aspartate receptor antagonist.
+
+ Ketamine has an analgesic effect in low dose and anesthetic effect in relative high dose.
+
+ Also, ketamine is used in chronic neuropathic pain as postherpetic neuralgia.
+
+, phantom pain, central neuropathic pain, complex regional pain syndrome, ischemic pain.
+
+ In this study, ketamine will be infused during lumbar surgery in randomized, double-blind and double-blind parallel group control trial.
+
+.
+
+ The Effect of Ketamine Infusion on Lumbar Surgery@highlight
+
+The purpose of this study is to evaluate the effect of ketamine infusion for reduction of neuropathic pain and improvement of quality of life after lumbar surgery.
+

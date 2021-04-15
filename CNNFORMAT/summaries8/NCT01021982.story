@@ -1,0 +1,20 @@
+(secondQuint)Evaluation of Objective Perimetry Using Pupillometer.
+
+ Pupil light reflex will be measured by a pupillometer in response to short and long wavelength light small spot stimulus in different area of the visual field.
+
+ The PRL will be measured in four quadrant, central, 10, 20, and 30 degree from the visual axis.
+
+ Stimulus duration will be 1000 ms (1 sec), with intervals of 890 ms between stimuli.
+
+ The stimuli size V with light intensity of 39.
+
+8 cd-s/m2 for both short wavelength stimuli (peak 485 nm) and long wavelength stimuli (peak 620nm).
+
+.
+
+ Evaluation of Objective Perimetry Using Pupillometer@highlight
+
+Objective perimetry can better monitor visual field defects in RP and Glaucoma patients than conventional subjective perimetry.
+
+The PLR ( Pupil Light Reflex ) of the short and long wave ratio should be significantly higher in areas of visual field defects in RP and Glaucoma patients.
+

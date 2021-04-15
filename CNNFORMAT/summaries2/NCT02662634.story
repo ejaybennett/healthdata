@@ -1,0 +1,18 @@
+(firstQuint)A Safety and Feasibility Study of AGS-003-LNG for the Treatment of Stage 3 Non Small Cell Lung Cancer.
+
+ Feasibility and Safety study of autologous dendritic cell immunotherapy (AGS-003-LNG) in patients with resectable non-small cell lung cancer.
+
+ Non-small cell lung cancer tumor will be resected from the patient.
+
+ RNA from the tumor will be amplified and subsequently electroporated into matured, autologous dendritic cells.
+
+ The dendritic cells with tumor RNA will be dosed back to the patient.
+
+ Study will investigate feasibility and safety.
+
+.
+
+ A Safety and Feasibility Study of AGS-003-LNG for the Treatment of Stage 3 Non Small Cell Lung Cancer@highlight
+
+Feasibility and Safety study of autologous dendritic cell immunotherapy (AGS-003-LNG) in patients with resectable non-small cell lung cancer.
+

@@ -1,0 +1,28 @@
+(fifthQuint)Self-esteem and Neuro-urological Follow-up in Patients With Spina Bifida or Spinal Cord Injury.
+
+ With improved life expectancy over the last fifty years, spina bifida has become a disease of the adult.
+
+ The risk of developing a terminal renal insufficiency is eight times higher than the risk in the general population and twice as important as in acquired spinal cord injury.
+
+ This risk continues to evolve with advancing age.
+
+ One of the major stakes for these patients is the preservation of a regular follow-up of uro-nephrologicals risk factors and of a respect for the rules of self management of their neurological bladder.
+
+ However, some studies report that nearly two thirds of these patients are not monitored at regular neuro-urological in the adulthood.
+
+ Different psychosocial determinants were analyzed as potential markers of the impact of chronic diseases from childhood to adulthood and could account for the disparity of follow-up and access to healthcare.
+
+ Among these, the self-esteem is a psychological dimension of analysis particularly relevant within the framework of chronic states inherited from the childhood.
+
+ The investigators formulate the hypothesis that global self-esteem and lower perceived self-efficacy may be a causal predictive factor of a reduced access to the continence and a lower compliance monitoring in adult patients with a spina bifida.
+
+.
+
+ Self-esteem and Neuro-urological Follow-up in Patients With Spina Bifida or Spinal Cord Injury@highlight
+
+With improved life expectancy over the last fifty years, spina bifida has become a disease of the adult.
+
+ One of the major stakes for these patients is the preservation of a regular follow-up of uro-nephrologicals risk factors and of a respect for the rules of self management of their neurological bladder.
+
+ The main objective of this study is to highlight a difference in the level of global self-esteem among a population of adult patients with spina bifida and a population of adult patients with traumatic spinal cord injury gained the same level of neurological.
+

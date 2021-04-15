@@ -1,0 +1,16 @@
+(thirdQuint)Multi-center Clinical Study of Guli Capsules in the Treatment of Knee Osteoarthritis.
+
+ Guli capsule, an approved Chinese patent drug, its main indications are for rheumatism, rheumatoid arthritis.
+
+ Previous study showed that Guli capsule could suppress the adjuvant multiple arthritis; have inhibitory effect on carrageenan gelatinous and formaldehyde foot swelling; improve the symptom of osteoporosis patients; and improve pain and limited joint activities of rheumatoid patients.
+
+ To further verify the clinical effect of Guli capsule in the treatment of knee osteoarthritis, the investigators perform this multi-center clinical study.
+
+.
+
+ Multi-center Clinical Study of Guli Capsules in the Treatment of Knee Osteoarthritis@highlight
+
+Previous study showed that Guli capsule could suppress the adjuvant multiple arthritis; have inhibitory effect on carrageenan gelatinous and formaldehyde foot swelling; improve the symptom of osteoporosis patients; and improve pain and limited joint activities of rheumatoid patients.
+
+ To further verify the clinical effect of Guli capsule in the treatment of knee osteoarthritis, the investigators perform this multi-center clinical study.
+

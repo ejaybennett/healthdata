@@ -1,0 +1,34 @@
+(fifthQuint)DEPENAS: A Psychosocial Intervention for Patients With Medically Unexplained Symptoms.
+
+ Patients with unexplained medical symptoms are frequently referred to multiple specialists, including psychiatrists, which often prove ineffective.
+
+ General practitioners play a key role in the management of these patients and techniques of re-attribution of symptoms have been proposed for general practice, but they have only shown partial results in patients with somatised mental disorders who do not believe that their symptoms have a completely physical cause.
+
+ Based on the analysis of psychosocial interventions carried out in general practice over the last 10 years by the principal investigator (JMA), the investigators have empirically structured a new sort of intervention, called DEPENAS.
+
+ This new intervention integrates different psychotherapeutic models.
+
+ It starts with the attribution of symptoms to a hormonal imbalance (biological aspect) providing a tangible and exculpatory explanation of the patients' symptoms and follows with normalization/justification of any thought/behavior as a logical consequence derived from the personal and family cycle (systemic model).
+
+ It ends with a proposal for change: to adapt these thoughts, many of them infantile, to objectives of adulthood (transactional model) using cognitive and behavioral techniques in patients ready for change, or paradoxical techniques for non-prepared subjects.
+
+ The OBJECTIVE of this randomized clinical trial was to assess the efficacy of this new intervention carried out by family physicians on patients' self-perceived health related quality of life (SF-36).
+
+ Each doctor randomly allocated to the new intervention group performed six 30-min programmed and standardized sessions with four patients who presented multiple chronic physical symptoms that remained medically unexplained.
+
+ Health related quality of life was measured at baseline (1 month before starting therapy), after 3 months of the first appointment (once both study groups had completed five sessions), after 8 months (once the intervention was finished) and at 12 months after enrollment.
+
+ They will be COMPARED to patients of family doctors randomly assigned to the control group.
+
+ These doctors also performed six 30-min programmed and standardized sessions, using in this case "re-attribution techniques": reception and explicit acceptance of the patient's symptoms, examination of emotional and psychosocial problems and establishment of a link of the symptoms with identified emotional problems.
+
+ Patients' outcomes observed in both groups will be compared on an intention to treat basis, and random-effects longitudinal models will be used to estimate the effect of the intervention on quality of life evolution.
+
+.
+
+ DEPENAS: A Psychosocial Intervention for Patients With Medically Unexplained Symptoms@highlight
+
+General practitioners play a key role in the management of one of the most complex problems facing the health care system: the large group of patients with unexplained medical symptoms, but effective treatment strategies are lacking in primary care.
+
+ The purpose of this study is to compare a new intervention delivered by the general practitioner versus re-attribution of symptoms, which is the currently recommended best treatment for patients with high levels of medically unexplained physical symptoms.
+

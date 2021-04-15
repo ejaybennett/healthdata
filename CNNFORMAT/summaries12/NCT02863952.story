@@ -1,0 +1,26 @@
+(firstQuint)Quantitation of Left Ventricular Ejection Fraction Change From Early Exercise Gated Stress/Rest Tc-99m CZT-SPECT MPI.
+
+ Single photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) is a well-established noninvasive procedure for the evaluation and risk stratification of patients with coronary artery disease (CAD).
+
+ However, it has been recognized that in certain patients SPECT MPI is unable to detect the presence of CAD or underestimates its extent.
+
+ The fact that moderate to severe perfusion defects are noted in less than half of the patients with significant left main disease has stimulated studies to improve the diagnostic accuracy of SPECT MPI.
+
+ These studies have analyzed post-stress parameters such as left ventricular (LV) ejection fraction (EF), wall motion abnormalities and transient LV dilation.
+
+ However, these parameters were derived from data acquired using conventional Anger cameras as long as 60 minutes after stress tracer injection.
+
+ Such delayed assessment may miss early ischemic stunning as a result of its rapid transient changes.
+
+ However, with highly sensitive detectors and short lived tracers, the ability of PET MPI to measure EF during peak of stress has been reported.
+
+ Similarly, the novel cadmium-zinc-telluride (CZT) SPECT cameras with solid state cardiac-focused detectors are significantly more sensitive than the conventional Anger scintillation cameras giving to SPECT the "PET-like" ability to image rapidly right after the stress test.
+
+ The aim of this study is to evaluate early post-stress EF change (EF) and its relation to the severity of myocardial ischemia and angiographic coronary disease using CZT-SPECT MPI.
+
+.
+
+ Quantitation of Left Ventricular Ejection Fraction Change From Early Exercise Gated Stress/Rest Tc-99m CZT-SPECT MPI@highlight
+
+The aim of this study is to evaluate early post-stress EF change (EF) and its relation to the severity of myocardial ischemia and angiographic coronary disease using CZT-SPECT MPI.
+

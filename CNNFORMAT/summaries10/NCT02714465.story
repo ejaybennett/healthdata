@@ -1,0 +1,13 @@
+(secondQuint)Adverse Radiation Effects After Gamma Knife Radio Surgery and Hyperbaric Oxygen Therapy.
+
+ Patients will be recruited on the basis of the presence of cerebral radionecrosis post gamma knife surgery, documented by both clinical examination (Rankin Scale) and instrumental imaging (MRI).
+
+ They will be subjected to hyperbaric oxygen therapy HBO, and during treatment the patient performs clinical examination (Rankin Scale) for 24 sessions of HBO.
+
+ Then they will have a break of 10-15 days during which also performs the instrumental survey (Magnetic Resonance Imaging).
+
+ If the radionecrosis has regressed they will suspend the treatment otherwise continue up to a maximum of 40 treatment sessions of HBO.
+
+ Adverse Radiation Effects After Gamma Knife Radio Surgery and Hyperbaric Oxygen Therapy@highlight
+
+Evaluation of clinical improvement and the reduction of edema lesion documented by magnetic resonance imaging (MRI) in patients with cerebral radiation necrosis post gamma knife surgery (GKS) by treatment with hyperbaric oxygen therapy (HBO)

@@ -1,0 +1,18 @@
+(firstQuint)Comparing Over-the-counter Dry Mouth Remedies After Radiation.
+
+ Xerostomia (dry mouth) is the most common late complication of radiation therapy for head and neck cancers.
+
+ When patients are cured or survive for several years, xerostomia often becomes quite bothersome; it affects their quality of life.
+
+ This study compares the effectiveness of seven over-the-counter remedies, 2 rinses, 3 sprays and 2 chewing gums.
+
+ A computer program will make random assignments so that the patient nor the physician will choose the order in which the products are tried.
+
+ The remedies will be used for one week each and at the end of each period the patient will fill out a questionaire.
+
+.
+
+ Comparing Over-the-counter Dry Mouth Remedies After Radiation@highlight
+
+The purpose of this study is to compare the effectiveness of over-the-counter remedies for dry mouth.
+

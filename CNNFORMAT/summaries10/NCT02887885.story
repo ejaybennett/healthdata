@@ -1,0 +1,25 @@
+(firstQuint)Sustainability of Vaginal Estrogen Therapy in Postmenopausal Women.
+
+ Within this trial 50 postmenopausal women receive a vaginal estrogen therapy as treatment for symptomatic vaginal atrophy.
+
+ The sustainability of vaginal estrogen therapy after the end of therapy has not yet been investigated.
+
+ All participants will be asked to come for the following 7 visits.
+
+ - Visit 1: Standard Gynecological examination; Inclusion and exclusion criteria check - Visit 2: Handing out of Gynoflor (estrogen) for a 6 weeks treatment.
+
+ - Visit 3 (Study Start): After using the vaginal estrogen for 6 weeks, a vaginal swap will be done to measure the vaginal maturation index (VMI).
+
+ The participants will also receive a questionnaire to define some subjective parameters.
+
+ The parameters measured at visit 1 will count as reference.
+
+ The estrogen therapy will now be sustained.
+
+ - Visit 4-7: Measuring of the VMI and handing out the questionnaires to define subjective parameters.
+
+.
+
+ Sustainability of Vaginal Estrogen Therapy in Postmenopausal Women@highlight
+
+Sustainability of vaginal ultra-low dose estrogen therapy in postmenopausal women

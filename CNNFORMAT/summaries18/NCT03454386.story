@@ -1,0 +1,36 @@
+(fifthQuint)SMART Program in Irritable Bowel Syndrome (IBS).
+
+ Irritable bowel syndrome (IBS) is a functional gastrointestinal disorder characterized by abdominal pain related to defecation and associated with changes in stool frequency and/or form.
+
+ IBS is a stress sensitive disorder and its severity has been shown to be moderated by both acute and chronic stress.
+
+ Furthermore, resilience, which is defined as the ability to positively adapt and thrive in the presence of stressors and adversity, has been shown to be lower in those with IBS and associated with more severe symptoms.
+
+ Therapies aimed at stress reduction in IBS have been found to be effective in the management of IBS.
+
+ To our knowledge, there are no reports in the literature of a therapy to target resilience in the IBS patient population.
+
+ The Stress Management and Resilience Training (SMART) program was developed by Dr.
+
+ A.
+
+ Sood at the Mayo clinic to reduce stress, decrease symptoms related to stress and enhance resiliency.
+
+ This is accomplished by targeting human attention and interpretation of events, people and the world.
+
+ Furthermore, methods to strengthen the skills of gratitude, compassion, acceptance, forgiveness and understanding of a higher meaning are taught.
+
+ Previous studies have demonstrated that this program can improve stress, anxiety, resilience and quality of life of participants.
+
+.
+
+ SMART Program in Irritable Bowel Syndrome (IBS)@highlight
+
+This is a pilot study to determine the efficacy of the Stress Management and Resilience Training (SMART) program in improving gastrointestinal and psychological symptoms, health-related quality of life, and satisfaction of care in patients with irritable bowel syndrome (IBS).
+
+ Half of the participants will be enrolled in the SMART program initially.
+
+ The other half will be placed in a self-management stress reduction program where they will read a popular stress reduction book over 12 weeks.
+
+ Then they will have access to participate in the online SMART program.
+

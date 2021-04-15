@@ -1,0 +1,28 @@
+(fifthQuint)Laser Therapy Combined With Intravitreal Aflibercept vs Intravitreal Aflibercept Monotherapy (LADAMO).
+
+ Diabetic retinopathy is the most common cause of blindness in individuals between the ages of 20 and 65 years in developed countries.
+
+ Swelling of the central retina, or "macular oedema", is the commonest cause of visual loss in diabetic retinopathy.
+
+ Recent studies have suggested peripheral retinal ischaemia contributes to macula oedema in diabetes and retinal vein occlusions.
+
+ Intravitreal anti-Vascular Endothelial Growth Factor (VEGF) therapy, such as Aflibercept (Eylea) has shown encouraging results in managing Diabetic Macular Oedema (DMO).
+
+ There is evidence that regular treatment with anti-VEGF drugs reduces DMO and improves vision on average.
+
+ Previous research at this institution has shown that an average of between 7 and 11 injections are required in the first year to stabilise the disease.
+
+ However, there is a significant burden to patients in terms of frequent visits to the eye specialist, time off work and repeated injections into the eye.
+
+ The purpose of this study is to see whether targeted peripheral retinal laser therapy to areas of the retina with impaired blood supply can reduce the number of intravitreal aflibercept injections required over 2 years to stabilise DMO.
+
+.
+
+ Laser Therapy Combined With Intravitreal Aflibercept vs Intravitreal Aflibercept Monotherapy (LADAMO)@highlight
+
+This will be a 24 month phase IV, randomised, prospective, multicentre, clinical trial of laser therapy to areas of peripheral retinal ischaemia combined with intravitreal aflibercept versus intravitreal aflibercept monotherapy.
+
+ Both arms will have 2mg intravitreal aflibercept according to a treat and extend protocol.
+
+ The specific aim of the study is to test whether laser therapy of peripheral retinal ischaemia reduces the overall number of intravitreal aflibercept injections required to control DMO over a 24 month period.
+

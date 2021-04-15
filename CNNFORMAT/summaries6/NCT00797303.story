@@ -1,0 +1,24 @@
+(thirdQuint)The Effect of Bevacizumab on Corneal Neovascularization.
+
+ To evaluate the effect of repeated subconjunctival bevacizumab (Avastin(R), Roche, Rio de Janeiro, Brazil) on inflammatory corneal neovascularization.
+
+ Eight patients with corneal neovascularization were treated with subconjunctival injection of 1.
+
+25 mg bevacizumab and had a follow-up of at least 2 months.
+
+ All patients had persistent corneal neovascularization for at least 6 months unresponsive to other treatments.
+
+ Patients were monitored by ophthalmic exam and anterior segment photography.
+
+.
+
+ The Effect of Bevacizumab on Corneal Neovascularization@highlight
+
+Eight patients with corneal neovascularization were treated with subconjunctival injection of 1.
+
+25 mg bevacizumab and had a follow-up of at least 2 months.
+
+ All patients had persistent corneal neovascularization for at least 6 months unresponsive to other treatments.
+
+ Patients were monitored by ophthalmic exam and anterior segment photography.
+

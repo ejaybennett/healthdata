@@ -1,0 +1,58 @@
+(thirdQuint)Evaluation of the Respimat Inhaler vs.
+
+ a HFA MDI Using Berodual in Patients With COPD With Poor MDI Technique.
+
+.
+
+ This is a single dose, randomised, active-controlled, four period, open-label cross-over trial in ad ult patients with COPD who have demonstrated a poor MDI technique.
+
+ Berodual? (fenoterol hydrobromide 50 ?g + ipratropium bromide 20 ?g) will be delivered via the Respi mat? inhaler on two test days and via the MDI on two test days.
+
+ Test days with no instruction on correct usage will occur prior to the test days with taught techniq ue, so that the patient's own technique will not be influenced by recent instruction.
+
+ Each device will thus first be used with no instructions on correct device use provided.
+
+ On these no instruction test days each device will be demonstrated and patients will be allowed time to practis e on their own with a placebo device.
+
+ The second time each device is used full instructions will be provided on the correct usage with pat ients practising with placebo either from the Respimat? inhaler or from the MDI until they are judge d competent.
+
+ On these two test days the Respimat? or MDI inhalers will be fired by the investigator one second after the patient has started to inhale.
+
+ Thus on Test Days 1 and 2 patients will use their own natural inhalation technique without receiving any instruction on correct usage.
+
+ On Test Days 3 and 4 patients will use a supervised optimal techn ique having received instruction on correct usage and with the investigator firing the device.
+
+ The primary analysis will be carried out using the Sign Test.
+
+ This is a non-parametric analysis in w hich no assumptions are made about the shape of the distribution of the responses from the Respimat? inhaler and from the MDI under the null hypothesis.
+
+ Study Hypothesis: The null hypothesis is that poor technique has the same effect on the Respimat? and MDI devices.
+
+ The alternative hypothesis is that poor technique has a differe nt effect on the Respimat? inhaler than on the MDI.
+
+ This means that under the null hypothesis the median of the differences between the Respimat? inhaler and MDI pairs is zero i.
+
+e.
+
+ the differences are equally lik ely to be positive or negative.
+
+ Under the alternative hypothesis the median of t he differences between the Respimat? inhaler and MDI pairs is not zero i.
+
+e.
+
+ the frequencies of the positive and negative signs are different.
+
+ Comparison(s): Baseline comparability will be achieved by the use of a cross-over trial design with every patient receiving all four treatments and by ensuring at each test da y that baseline lung function is within 15% of the value obtained at the first t est day, pre-dose FEV1 is < 65% of predicted value and patients have abstained f rom inhaled bronchodilators for at least 4 hours prior to the visit.
+
+ Treatment s equence will not be fitted as a term in the analysis of variance models.
+
+.
+
+ Evaluation of the Respimat Inhaler vs.
+
+ a HFA MDI Using Berodual in Patients With COPD With Poor MDI Technique.
+
+@highlight
+
+The objective of this trial is to compare the total and regional deposition of aerosol in the lungs and oropharynx of patients with COPD and known poor MDI inhalation technique following inhalation of Berodual? delivered via the Respimat? inhaler and Berodual? delivered via an HFA-metered dose inhal er achieved with their "natural" inhalation technique compared with taught "optimal" technique.
+

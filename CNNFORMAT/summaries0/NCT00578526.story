@@ -1,0 +1,10 @@
+(firstQuint)SU011248 for Platinum-Refractory Urothelial Cancer Evaluation Trial.
+
+ The study objectives include the determination of the antitumor effect of SU011248 in patients with urothelial transitional cell carcinoma and to also determine the toxicities and tolerability of SU011248 in patients with urothelial transitional cell carcinoma who have failed or are intolerant to cisplatin-based chemotherapy.
+
+ The primary endpoint of the study is to compare progression free survival at 4 months in patients who received SU011248 plus BSC versus patients who received placebo plus BSC The secondary endpoint is to compare the objective response rate and duration of response in patients who received SU011248 plus BSC versus patients who received placebo plus BSC, to describe the QOL and safety profile of SU011248 when compared to placebo and to describe the overall survival in patients who received SU011248 plus BSC versus patients who received placebo plus BSC.
+
+ SU011248 for Platinum-Refractory Urothelial Cancer Evaluation Trial@highlight
+
+The purpose of this study is to find out if SU011248 works and if it is safe in patients with advanced transitional cell carcinoma.
+

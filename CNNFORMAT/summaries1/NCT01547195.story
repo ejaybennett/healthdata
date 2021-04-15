@@ -1,0 +1,34 @@
+(fifthQuint)Effects of Swimming in the Treatment of Fibromyalgia.
+
+ Fibromyalgia (FM) is a syndrome characterized by diffuse musculoskeletal pain and chronic, with points called "hot spots", specific, sensitive and painful on palpation.
+
+ Objective: To evaluate the efficacy of swimming in reducing the generally pain and improve the quality of function, of life and exercise capacity in patients with fibromyalgia.
+
+ Material and Methods: 82 patients will be screened, diagnosed with fibromyalgia, who can swim the front crawl.
+
+ Will be selected at UNIFESP outpatient clinics and also through advertisement in a newspaper.
+
+ One group held the swimming training and the other group (control) will walk training.
+
+ The Participants perform exercises (swimming or running) three times a week for 50 minutes, for 12 weeks.
+
+ The exercises will be held at the anaerobic threshold determined by cardiopulmonary exercise testing.
+
+ Measuring instrument: Questionnaires VAS (visual analogue scale) for pain, FIQ (Fibromyalgia Impact Questionnaire) to assess the quality of life related to disease, and also the SF-36 (short form health survey), which assesses quality of life in general.
+
+ Cardiopulmonary stress test to assess cardiorespiratory fitness to sit and stand up and test to assess functional capacity.
+
+ All participants will conduct an initial evaluation, after 6 and 13 weeks of training.
+
+.
+
+ Effects of Swimming in the Treatment of Fibromyalgia@highlight
+
+The recent scientific evidence shows that FM patients improve exercise capacity, symptoms and quality of life with the holding of regular exercise, especially aerobic exercise.
+
+ Swimming is an aerobic workout of low impact, but no study has evaluated the effect of this activity in patients with fibromyalgia.
+
+ Randomized controlled trial with blinded evaluator, which will be evaluated patients with fibromyalgia were divided into two groups.
+
+ The intervention group will hold an exercise program of swimming (freestyle) and the other considered the control group held a walking program.
+

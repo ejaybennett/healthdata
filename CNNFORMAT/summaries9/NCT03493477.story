@@ -1,0 +1,20 @@
+(firstQuint)Evaluation of Gingival Biotypes of Anterior Teeth in Adults With Abnormal Skeletal Jaw Relations.
+
+ This study will include consecutive adult patients seeking orthodontic treatment with skeletal Class II and Class III jaw relations based on clinical and cephalometric values.
+
+ Each group will be further divided according to their vertical skeletal pattern.
+
+ Gingival biotype will be determined -using the probe transparency method- into either thick or thin biotype for all anterior teeth in both jaws.
+
+ Width of keratinized gingiva will be measured from the muco-gingival junction to the free gingival margin in the middle of the crown of the maxillary and mandibular anterior teeth using a digital caliper with a sensitivity of 0.
+
+01 mm.
+
+ Statistical analysis will be applied to see the correlation between gingival biotypes , width of keratinized gingiva , and abnormal skeletal jaw relations.
+
+.
+
+ Evaluation of Gingival Biotypes of Anterior Teeth in Adults With Abnormal Skeletal Jaw Relations@highlight
+
+The aim of this study is to evaluate gingival biotypes and width of keratinized gingiva in the anterior region of adults with abnormal skeletal jaw relations.
+

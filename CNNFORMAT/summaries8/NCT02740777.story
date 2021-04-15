@@ -1,0 +1,24 @@
+(thirdQuint)Evaluating the 2-dose Immunization Schedule of Human Papillomavirus (HPV)-16/18 in Adolescent Females.
+
+ The study plans to enroll 600 adolescent females aged 9 to 14 years and 300 adult females aged 18 to 26 years.
+
+ The adolescents will be divided into two cohorts, 300 each, receiving either a 2-dose (0, 6 months) immunization schedule or a 3-dose (0, 2, 6 months) immunization schedule.
+
+ The adult female group will receive a 3-dose (0, 2, 6 months) immunization schedule.
+
+ Each subject shall be administrated with the studied vaccine according to either 2-dose or 3-dose schedule as above.
+
+ Immediate reactions occurred during 30 minutes after each inoculation, all the local and systematic reactions occurred from 0 to 7 days after each inoculation will be recorded.
+
+ All the adverse events (AEs) occurred from the first dose of administration to 1 month after the final dose of administration, as well as all the serious adverse events (SAEs) occurred from the first dose of administration to 6 months after the final dose of administration will be collected.
+
+ Blood samples will be collected at day 0 (prior to immunization) , month 6 (prior to the last injection) , month 7, month 12, month 24, and month 36.
+
+ All the blood samples will be tested HPV 16- and HPV 18-specific antibody titers.
+
+.
+
+ Evaluating the 2-dose Immunization Schedule of Human Papillomavirus (HPV)-16/18 in Adolescent Females@highlight
+
+To evaluate the immune non-inferiority, as measured by antibody responses, of a 2-dose immunization schedule (0, 6 months) of recombinant human papillomavirus virus-like particle vaccine (type 16 and 18 L1 proteins, yeast) (hereinafter referred as HPV-2 vaccine) in adolescent females aged 9 to 14 years in comparison to 3-dose immunization schedule (0, 2, 6 months) in young females aged 18 to 26 years.
+

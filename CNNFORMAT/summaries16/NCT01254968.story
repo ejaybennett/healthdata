@@ -1,0 +1,18 @@
+(secondQuint)Influence of Direction of Movement While Walking.
+
+ In the third minute of training walking a significant increase in blood flow velocity was recorded, both in right and left middle cerebral arteries.
+
+ It was observed in the left artery during all forms of training.
+
+ In the right artery it occurred only during three forms of difficult training, and was preceded by significant decrease in blood flow in the first minute of the gait with eyes closed.
+
+ The output values of the rate of blood flow in both right and left middle cerebral arteries became progressively reduced in the successive stages of gait.
+
+ Pressure and pulse rates did not correlate with the variables of blood flow velocity in middle cerebral arteries.
+
+.
+
+ Influence of Direction of Movement While Walking@highlight
+
+The aim of the study is evaluation of cerebral blood flow (based on testing the rate of flow in middle cerebral arteries by transcranial Doppler ultrasound) during different forms of walking training - walk forwards and backwards, with closed and open eyes.
+

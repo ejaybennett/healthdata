@@ -1,0 +1,18 @@
+(secondQuint)Adipose-derived SVF for the Treatment of Knee OA.
+
+ Osteoarthritis is the main form of arthritis and affects over 20 million people in the United States.
+
+ In the knee it can cause severe pain, reduced functionality and increased stiffness thus, a treatment that would reduce pain, increase function and reduce stiffness would be of benefit to many people.
+
+ This study will collect and disassociate adipose tissue and inject the stromal vascular fraction into the knee of the same patient.
+
+ The study is controlled, randomized and double-blinded with 2 SVF treatments (high and low dose) and a placebo control.
+
+.
+
+ Adipose-derived SVF for the Treatment of Knee OA@highlight
+
+This is a pivotal study.
+
+ The study will examine the safety and efficacy of autologous adipose-derived stromal vascular fraction (SVF) cells processed with the GID SVF-2 device for pain, function and stiffness in the knees of osteoarthritic subjects.
+

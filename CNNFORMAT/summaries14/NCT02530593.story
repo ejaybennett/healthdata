@@ -1,0 +1,23 @@
+(fifthQuint)QoLiCOL - Quality of Life in Colon Cancer.
+
+ QoLiCOL is an explorative, prospective, longitudinal, non-interventional, international, multicenter study of health-related quality of life, physical symptoms, functional impairments and socioeconomic burden in colon cancer patients.
+
+ All patients presenting at participating hospitals during the recruitment period with a newly diagnosed rectal cancer, regardless of stage and planned treatment, will be eligible for inclusion.
+
+ Patients will be followed for 3 years.
+
+ They will be asked to answer questionnaires at three different time points during follow-up: at diagnosis and after 12 and 36 months.
+
+ Clinical data, including recurrence, surgical treatment, oncologic result (pathology report) and adjuvant treatment will be collected from the national quality registry for rectal cancer in Denmark and Sweden.
+
+ As these registries differ in some areas between the countries, additional data will be collected through short CRF:s.
+
+.
+
+ QoLiCOL - Quality of Life in Colon Cancer@highlight
+
+All patients presenting at participating hospitals during the recruitment period with a newly diagnosed colon cancer, regardless of stage and planned treatment, will be eligible for inclusion.
+
+ They will answer a questionnaire on health related quality of life, physical symptoms, functional impairments and socioeconomic status at diagnosis and after 12, 36 months.
+
+ Clinical data including recurrence, survival, surgical treatment, oncologic result (pathology report) and adjuvant treatment will be collected from the Swedish ColoRectal Cancer Registry (SCRCR)

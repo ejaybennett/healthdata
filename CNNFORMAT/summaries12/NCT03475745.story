@@ -1,0 +1,28 @@
+(firstQuint)The Usage of High-resolution Magnetic Resonance Imaging in Patients With Post-stroke Aphasia for Predicting the Outcome.
+
+ Background & objectives: Language impairment after aphasic stroke is both common and debilitating.
+
+ However the mechanisms of language recovery after aphasic stroke is not fully understood.
+
+ Investigators plan to detect the changes of functional and structural language networks after aphasic stroke by high-resolution MRI.
+
+Then Combined analyse functional and structural language network changes, establishing a prediction model for language outcome.
+
+ Methods: The proposed study is a observational trial that will include 50 patients diagnosed with post stroke aphasia from the neurology clinics at The First Affiliated Hospital, Zhejiang University.
+
+ Aphasia battery of Chinese(ABC) and functional magnetic resonance imaging (MRI) will be performed at acute(~2weeks),subacute(3 months) and chronic phase(6months).
+
+ Only routine drug therapy will be used.
+
+ Relevance: Currently there is little known about the recovery mechanisms of post-stroke aphasia.
+
+The proposed study intends to analyse functional and structural language network changes by high resolution MRI, which may reveal the potential recovery mechanism underlying post stroke aphasia.
+
+.
+
+.
+
+ The Usage of High-resolution Magnetic Resonance Imaging in Patients With Post-stroke Aphasia for Predicting the Outcome@highlight
+
+Combined analysis of functional and structural language network changes may be a good model for predicting language outcome.
+

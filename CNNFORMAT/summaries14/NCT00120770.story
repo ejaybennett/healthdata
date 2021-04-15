@@ -1,0 +1,16 @@
+(firstQuint)Cellulose Sulfate (CS) Gel and HIV in Nigeria.
+
+ This is a Phase 3, multi-center, randomized, placebo-controlled trial to assess the effectiveness of CS gel in preventing male-to-female vaginal transmission of HIV among HIV sero-negative women at high risk for HIV infection.
+
+ Eligible participants who are HIV negative, at risk for becoming infected, and are willing to use a vaginal microbicide each time they have intercourse throughout 12 months of study participation will be recruited in Port Harcourt and Lagos, Nigeria.
+
+ The enrollment phase will last until 2,160 women have enrolled.
+
+ It is anticipated that the enrollment will be completed within 12 months.
+
+.
+
+ Cellulose Sulfate (CS) Gel and HIV in Nigeria@highlight
+
+This is a Phase 3, multi-center, randomized, placebo-controlled trial to determine the effectiveness and safety of the 6% cellulose sulfate (CS) vaginal gel for the prevention of HIV infection.
+

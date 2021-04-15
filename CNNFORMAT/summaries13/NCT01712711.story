@@ -1,0 +1,28 @@
+(thirdQuint)Helicobacter Pylori Eradication in Diabetic Subjects With Non-alcoholic Fatty Liver Disease.
+
+ Helicobacter pylori (HP) antigens have been found in the liver of individuals with benign and malignant liver diseases.
+
+ The role of HP in the pathogenesis of non-alcoholic fatty liver disease (NAFLD) is controversial.
+
+ This randomized double blind clinical trial was performed in diabetic dyspeptic patients with positive antibody to HP and the evidence of fatty liver in ultrasonography.
+
+ After excluding other causes, participants with persistent elevated serum aminotransferase levels were presumed to have NAFLD.
+
+ Those with NAFLD liver fat score greater than (-0.
+
+64) and positive urea breath test (UBT) were enrolled.
+
+ They were randomly assigned to lifestyle modification alone or lifestyle modification plus HP eradication groups.
+
+ Quadruple therapy (omeprazole, amoxicillin, bismuth subcitrate, and clarithromycin) for HP eradication was performed in two weeks.
+
+ HP eradication was documented by UBT.
+
+ Liver fat content, fasting serum glucose, alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, triglyceride, cholesterol, high and low-density lipoprotein, HOMA-IR, and anthropometric measurements (body mass index and waist circumference) were checked at baseline and six weeks post-treatment.
+
+.
+
+ Helicobacter Pylori Eradication in Diabetic Subjects With Non-alcoholic Fatty Liver Disease@highlight
+
+The aim of study was to evaluate the effect of helicobacter pylori eradication on liver fat content, liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in diabetic subjects with non-alcoholic fatty liver disease.
+

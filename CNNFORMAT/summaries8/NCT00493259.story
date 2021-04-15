@@ -1,0 +1,12 @@
+(firstQuint)Health Related QOL, Depression and Lifestyle Changes in Insulin Resistant Adolescents.
+
+ Matched historical control study designed to examine outcomes on insulin resistant adolescents who were treated in the Insulin Resistance Syndrome Clinic at Children's Mercy Hospital in the past year.
+
+ New patients will be screened at baseline, 4 and 12 months to evaluate if there is improvement in the BMI Z-score, HgA1c, lipid profile or waist circumference when depression and/or altered health related quality of life are identified and treated in this population.
+
+.
+
+ Health Related QOL, Depression and Lifestyle Changes in Insulin Resistant Adolescents@highlight
+
+The purpose of this study is to assess adolescents with Insulin Resistance Syndrome for quality of life and altered health related issues.
+

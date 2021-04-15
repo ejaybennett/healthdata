@@ -1,0 +1,24 @@
+(firstQuint)Postoperative Concurrent Chemoradiation for Head and Neck Cancer With Multiple Minor Risk.
+
+ Currently, postoperative chemoradiation is recommended for head and neck squamous cell carcinoma with some poor prognostic feature, such as extracapsular spread of metastatic lymph node, or positive resection margin.
+
+ Other patients may receive postoperative radiotherapy only, if they have other risk factors.
+
+ In our previous study, if there are 3 or more "minor" risk factors, the 3-year recurrence rate was 55%.
+
+ This outcome was far inferior to patients who had minor risk factors less than 3.
+
+ Thus, we believe that current postoperative radiotherapy is insufficient for patients with multiple minor risks.
+
+ A clinical trial should be raised to help these patients.
+
+ However, the patient number of this group is not enough for large scale, phase 3 trial.
+
+ So we arranged this phase II trial of postoperative chemoradiation to test and prospectively observe the treatment outcome.
+
+.
+
+ Postoperative Concurrent Chemoradiation for Head and Neck Cancer With Multiple Minor Risk@highlight
+
+The purpose of this study is to determine the treatment outcome of postoperative concurrent chemoradiation for head and neck squamous cell carcinoma with multiple minor risks.
+

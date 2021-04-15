@@ -1,0 +1,32 @@
+(thirdQuint)Rivastigmine BA Trial With Multiple Application of Transdermal Patches, Adaptation and Tapering Phase.
+
+ This will be a single centre, open-label, randomised (order of treatments), balanced, 2-period, 2-sequence, cross-over trial with multiple applications of rivastigmine transdermal patches.
+
+ There will be no wash-out, i.
+
+e.
+
+ the first investigational patch application of the second study period will take place the day of the last investigational patch removal of the first study period (direct switch-over).
+
+ Prior to start of first treatment, there will be an adaptation phase with 4 consecutive applications of Exelon(R) 9.
+
+5 mg/24 hours transdermal patch over a period of 4 days (each patch will be applied for 24 hours).
+
+ Following the removal of the last investigational patch in period II, there will be a post-treatment tapering phase with 2 consecutive applications of Exelon(R) 9.
+
+5 mg/24 hours transdermal patch over a period of 2 days (each patch will be applied for 24 hours).
+
+ Furthermore, during the adaptation phase, both study periods and the tapering phase, scopolamine transdermal patches will be applied as co-medication to attenuate effects of rivastigmine and reduce Adverse Events.
+
+.
+
+ Rivastigmine BA Trial With Multiple Application of Transdermal Patches, Adaptation and Tapering Phase@highlight
+
+The present clinical trial will be conducted to compare the bioavailability of rivastigmine and assess bioequivalence at steady-state of the Test product RIV-TDS 13.
+
+3 mg/24 h and the marketed Reference product Exelon(R) 13.
+
+3 mg/24 hours transdermal patch after multiple patch application.
+
+ Each of both treatments will last 5 days.
+

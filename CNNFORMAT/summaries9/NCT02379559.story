@@ -1,0 +1,14 @@
+(secondQuint)Exercise Intervention Metabolic Syndrome Prostate Cancer Black Men.
+
+ The specific aim for the proposed study is to examine the feasibility and impact of a 6-month two-arm randomized controlled trial (RCT) on MetS components and biomarkers related to prostate cancer in Black men with MetS.
+
+ Due to the striking racial disparities of prostate cancer, this proposal will focus on the impact of an aerobic and resistance exercise intervention on MetS and biomarkers related to prostate cancer in Black men.
+
+ Specifically, our proposed clinical trial compares an aerobic and resistance exercise intervention to an attention control group among Black men.
+
+.
+
+ Exercise Intervention Metabolic Syndrome Prostate Cancer Black Men@highlight
+
+The main purpose of this study is to examine the feasibility of an exercise intervention on metabolic syndrome (MetS) components and biomarkers related to prostate cancer in Black men with MetS who are at increased risk of prostate cancer.
+

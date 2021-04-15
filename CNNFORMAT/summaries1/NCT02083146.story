@@ -1,0 +1,28 @@
+(fifthQuint)C1q/TNF-related Proteins in Coronary Artery Disease.
+
+ Adipose tissue secretes various kinds of bioactive molecules termed adipokines which contribute to the development of obesity-related disorders including cardiovascular disease (CVD).
+
+ Adiponectin is the insulin-sensitizing adipokine with anti-inflammatory and anti-atherogenic properties.
+
+ Hypoadiponectinemia has been associated with an increased risk of coronary artery disease (CAD) in several though not all studies.
+
+ Recently, a new family of secreted proteins, C1q/TNF-related protein (CTRP), was cloned on the basis of sequence homology with adiponectin.
+
+ This family of adiponectin paralogs might have pivotal implications in energy homeostasis and obesity-related inflammation.
+
+ Each CTRP family member has its own unique tissue expression profile and function in regulating glucose and/or fat metabolism.
+
+ In the present study, we evaluated the role of CTRP in patients with CAD and investigated whether CTRP family is significantly associated with CAD prevalence after adjustment for well-known CAD risk factors.
+
+.
+
+ C1q/TNF-related Proteins in Coronary Artery Disease@highlight
+
+Now, adipose tissue is established as an active endocrine organ that controls systemic energy homeostasis by secretion of adipokines.
+
+ Recently, members of the C1q/tumor necrosis factor-related protein (CTRP) family have been reported to share structural homology with adiponectin.
+
+ To date, 15 CTRP family members have been found that might play major roles in metabolism and inflammation.
+
+ The investigators tried to clarify the relationship between CTRP family and coronary artery disease (CAD) in Korean men and women.
+

@@ -1,0 +1,36 @@
+(fifthQuint)Pediatric Practice-based Obesity Intervention to Support Families: FITLINE.
+
+ The American Academy of Pediatrics (AAP) recommends a staged approach to the management of pediatric overweight and obesity, starting with Stage 1, Prevention Plus, which encourages families to improve lifestyle choices related to eating and activity in order to improve BMI status.
+
+ Most pediatric practices, however, have difficulty implementing these guidelines due to limited time and access to weight loss experts to whom they can refer their patients and families, and burden to families in accessing in-person weight loss services.
+
+ In response, The investigators team developed the FITLINE pediatric practice-based referral program that provides practices an easily accessible resource to help families make AAP-recommended Stage 1 lifestyle changes.
+
+ The program includes two components.
+
+ The first, a pediatric practice-based component, consists of systems to identify overweight and obese children ages 8-12, a brief pediatric provider-delivered intervention, referral to the FITLINE counseling program, and feedback from the FITLINE nutritionist.
+
+ The second, a parent support component, consists of six weekly FITLINE counseling telephone calls delivered by centrally located nutritionists who provide tailored, personalized coaching, along with a parent booklet to guide parents in setting goals and working with their child to make Stage 1 lifestyle changes.
+
+ Providers receive a summary from the nutritionist of the progress made by families so they may support maintenance of an improved lifestyle, or refer for additional intervention.
+
+ A nonrandomized intervention study with contemporaneous control was used.
+
+ Parents and their children ages 8-12 with BMI 85th percentile (N=40) were recruited from two pediatric practices.
+
+ Practices implemented systems to identify overweight/obese children, prompt brief provider intervention, and refer parents to 6-weekly FITLINE telephone counseling sessions with a nutritionist who guided parents in setting goals and helping their child make American Academy of Pediatrics (AAP)-recommended lifestyle changes.
+
+ Child BMI and parent survey of child diet and physical activity were completed at baseline and 3 months.
+
+ Medical record data from 44 children matched for age and BMI was collected.
+
+.
+
+ Pediatric Practice-based Obesity Intervention to Support Families: FITLINE@highlight
+
+The American Academy of Pediatrics (AAP) recommends a staged approach for pediatric practices to manage the growing problem of pediatric overweight and obesity, starting with Stage 1, Prevention Plus, which encourages families to improve basic lifestyle choices related to eating and activity in order to improve BMI status.
+
+ This study will test the effectiveness of an innovative FITLINE telephone counseling program for overweight and obese 8-12 year olds seen in pediatric practices where nutritionists coach parents in improving their child's diet and physical activity, to reduce BMI.
+
+ If found to be effective, the FITLINE program will provide a model for widespread implementation of Stage 1, Prevention Plus of the AAP expert committee recommendations through pediatric practices nationwide.
+

@@ -1,0 +1,22 @@
+(secondQuint)A Phase 1 Study of the Safety and Pharmacokinetics of AGS-16M18 in Subjects With Advanced Renal Cell Cancer.
+
+ Subjects will be enrolled sequentially into 5 planned dose cohorts according to a standard, dose escalation study design.
+
+ A disease assessment will be performed at study week 5 (+/- 3 days) by the investigator.
+
+ The assessment will be based both on changes in clinical symptoms, and radiographic images.
+
+ Subjects without evidence of disease progression may receive AGS-16M18 extended therapy at the dose and schedule of their assigned cohort until disease progression or intolerability of AGS-16M18.
+
+ Disease assessments will be performed every 8 weeks during the extended period.
+
+ A safety follow-up visit will occur 4 weeks after the last infusion of AGS-16M18.
+
+.
+
+ A Phase 1 Study of the Safety and Pharmacokinetics of AGS-16M18 in Subjects With Advanced Renal Cell Cancer@highlight
+
+This is a first in human study of AGS-16M18 given every week to subjects with advanced renal cell cancer.
+
+ AGS-16M18 will be administered as a 60 minute IV infusion on consecutive days until the disease worsens.
+

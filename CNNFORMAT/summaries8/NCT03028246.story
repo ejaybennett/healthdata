@@ -1,0 +1,20 @@
+(thirdQuint)A Feasibility Safety Study of Benign Centrally-Located Intracranial Tumors in Pediatric and Young Adult Subjects.
+
+ The goal of this prospective, non-randomized, single-arm, feasibility study is to develop data to evaluate the safety and feasibility of ExAblate 4000 treatment of benign intracranial tumors which require clinical intervention in pediatric and young adult subjects.
+
+ Indication of Use: Ablation of benign intracranial tumors in children and young adults which are ExAblate accessible.
+
+ This is a feasibility study intended to collect data for use in the development of future studies.
+
+ As such, no formal statistical hypothesis or hypothesis testing is proposed.
+
+ The purpose of this study is to evaluate the safety and feasibility of managing benign brain tumor size using ExAblate 4000 treatment of progressing benign intracranial tumors which require clinical intervention in pediatric and young adult subjects.
+
+.
+
+ A Feasibility Safety Study of Benign Centrally-Located Intracranial Tumors in Pediatric and Young Adult Subjects@highlight
+
+The goal of this prospective, non-randomized, single-arm, feasibility study is to develop data to evaluate the safety and feasibility of ExAblate 4000 treatment of benign intracranial tumors which require clinical intervention in pediatric and young adult subjects.
+
+ Indication of Use: Ablation of benign intracranial tumors in children and young adults which are ExAblate accessible.
+

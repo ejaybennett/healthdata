@@ -1,0 +1,64 @@
+(fifthQuint)French Biological Observatory on Lung Cancer in Never Smokers.
+
+ According to WHO, 25% of lung cancer worldwide occurs in lifelong never smokers.
+
+ Lung cancer in never smokers (LCINS) shows many clinical, epidemiological, molecular and genomic differences comparing to tobacco-related neoplasm.
+
+ So, it is now considered as a separate entity.
+
+ LCINS particularly occurs in women and Asian.
+
+ They are mainly adenocarcinoma.
+
+ Known risk factors are occupational exposure, environmental tobacco smoking, familial history of cancer, personal medical history of lung disease or environmental causes.
+
+ LCINS carries more frequently molecular abnormalities leading to efficacy of targeted therapies (EGFR mutation, EML4-ALK inversion, less frequent mutations of KRAS .
+
+.
+
+.
+
+).
+
+ However, most data come from retrospectives studies, subgroups analysis and/or from Asian cohort even though it is a disease with a significant geographic variability.
+
+ Finally, few studies focus on correlations between risk factors and molecular or genomic abnormalities.
+
+ For these reasons and considering that LCINS is an increasing public health problem, IFCT (Intergroupe Francophone de Cancerologie Thoracique) states to promote the BioCAST study (IFCT-1002).
+
+ It is a national, multicentric, prospective epidemiological study.
+
+ Main objective is to describe the clinical and molecular epidemiology of LCINS in a French population composed by all cases newly diagnosed in participating centres (500 to 1500 patients expected).
+
+ BioCAST include a clinical and a biological part.
+
+ The clinical component is based on collecting data directly from the patient through a standardized questionnaire during a telephone interview with a health professional.
+
+ The biologic component includes a blood sample collection.
+
+ A large genomic wide association study and an epigenetic study (including micro RNA study) are also planned.
+
+ Other objectives are looking for correlations between clinical factors and molecular abnormalities; and looking for new oncogene in this specific population.
+
+ BioCAST hopes to provide concrete answers to clinicians and patients about this new and frequent entity.
+
+.
+
+ French Biological Observatory on Lung Cancer in Never Smokers@highlight
+
+Lung cancer in non-smokers (LCINS) is an increasing public health problem.
+
+ The BioCAST (IFCT-1002) study, promoted by Intergroupe Francophone de Cancerologie Thoracique (IFCT), focuses on this entity.
+
+ It is a national, multicentric, prospective epidemiological study.
+
+ Main objective is to describe the clinical and molecular epidemiology of LCINS in a large French cohort composed by cases newly diagnosed in participating centres (around to 1000 patients expected).
+
+ The clinical component of the study is based on collecting data directly from the patient through a standardized questionnaire during a telephone interview with a health professional.
+
+ The biologic component includes a blood sample collection.
+
+ A large genomic-wide association study and an epigenetic study are also planned.
+
+ BioCAST hopes to provide concrete answers to clinicians and patients questions about this new and frequent entity.
+

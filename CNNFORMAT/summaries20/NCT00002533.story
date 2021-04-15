@@ -1,0 +1,28 @@
+(thirdQuint)Fluconazole in Preventing Mucositis in Patients Undergoing Radiation Therapy for Head and Neck Cancer.
+
+ OBJECTIVES: - Determine the effect of prophylactic antifungal therapy with fluconazole on the incidence and severity of radiation-associated mucositis/thrush in patients with head and neck cancer undergoing definitive radiotherapy.
+
+ OUTLINE: This is a randomized study.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients undergo standard hyperfractionated radiotherapy 5 days a week for 5-5.
+
+6 weeks.
+
+ Patients receive oral fluconazole on days 1-4 and 28-31 of radiotherapy.
+
+ - Arm II: Patients undergo radiotherapy as in arm I.
+
+ Patients who develop a microbiologically proven fungal infection or clinically evident oral cavity and/or oropharyngeal thrush may receive fluconazole as in arm I.
+
+ PROJECTED ACCRUAL: At least 42 patients (26 per arm) will be accrued for this study.
+
+.
+
+ Fluconazole in Preventing Mucositis in Patients Undergoing Radiation Therapy for Head and Neck Cancer@highlight
+
+RATIONALE: Giving fluconazole may be effective in preventing or controlling mucositis caused by radiation therapy to the head and neck.
+
+ PURPOSE: Randomized phase II/III trial to study the effectiveness of fluconazole in preventing mucositis in patients undergoing radiation therapy for head and neck cancer.
+

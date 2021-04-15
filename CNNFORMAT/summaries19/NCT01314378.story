@@ -1,0 +1,52 @@
+(fifthQuint)Effects of Intensive Behavioral Training Program on Impulsivity and Inhibitory Control in Smokers.
+
+ Dependence on tobacco derived nicotine is a major public health problem.
+
+ Data suggest tobacco smokers are more impulsive on both self-report and behavioral measures than non-smokers.
+
+ Behavioral measures of impulsivity predict outcome during smoking cessation.
+
+ Successful quitters have better impulse control compared to current smokers.
+
+ Impulsivity is defined behaviorally as a predisposition toward rapid, unplanned reactions to internal and external stimuli without regard for the negative consequences.
+
+ Impulsivity is often measured behaviorally in two major domains, delay discounting, i.
+
+e.
+
+, the choice of smaller immediate reward over a larger, delayed reward, and response inhibition, the inability to stop a response once it is initiated.
+
+ A drug-free method that decreases smokers' impulsivity and enhances inhibitory control could improve sustained efficacy of smoking cessation treatment.
+
+ Treatments integrating mindfulness have been associated with decreases in impulsiveness and substance use in people with addiction.
+
+ A preliminary study of reports that 100% of mindfulness-trained smokers that meditated at least 45 minutes daily were still abstinent at 6 weeks post-quit.
+
+ Preliminary data suggest that mindfulness training benefits people with substance use disorders through multiple cognitive mechanisms, including decreased self-report motor impulsiveness.
+
+ Yet, no widely accepted behavioral measures of impulsivity or inhibitory control have been used to measure the effect of mindfulness practice in smokers.
+
+ This project aims to evaluate the relationship between mindfulness and behavioral measures of impulsivity and inhibitory control in smoking cessation and early abstinence.
+
+ Data from mindfulness-oriented treatment studies suggest at-home formal meditation practice is the most important variable in attaining positive clinical outcomes.
+
+ This conclusion supports the prevailing theory that high doses of repetitive meditation practice can elicit cortical remodeling.
+
+ Since addiction has been conceptualized as a disease of staged neuroplasticity, an intensive behavioral program that can induce accelerated therapeutic neuroplasticity is particularly compelling.
+
+ Current methods for self-reporting dose of formal mindfulness practice may be vulnerable to response bias and poor reporting response rates.
+
+ We plan to use actigraphic monitoring of formal mindfulness practice using the Actiwatch Score to behaviorally validate meditation time and rigorously test the meditation dose effect theory which hypothesizes that formal meditation practice time will predict improvement in inhibitory control, delay discounting, and smoking outcomes.
+
+.
+
+ Effects of Intensive Behavioral Training Program on Impulsivity and Inhibitory Control in Smokers@highlight
+
+Dependence on tobacco derived nicotine is a major public health problem.
+
+ Substance users who complete training in mindfulness subjectively report increased patience and improved motor control over their impulses.
+
+ Yet, no studies have tested this perceived benefit with behavioral measures of impulse control.
+
+ The investigators are conducting a randomized controlled clinical trial, which compares Cognitive-Behavioral Therapy and Mindfulness Training for tobacco smokers, using behavioral measures to investigate the effects of mindfulness training on impulsivity and inhibitory control.
+

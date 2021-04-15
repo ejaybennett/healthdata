@@ -1,0 +1,11 @@
+(firstQuint)A Phase II Study of Stereotactic Body Radiation Therapy in Patients With T1N0M0 Non-small Cell Lung Cancer (JCOG0403).
+
+ To evaluate the efficacy and safety of SBRT for T1N0M0 non-small cell lung cancer,the following questions should be answered.
+
+ Can SRT be an alternative standard treatment modality for inoperable patients? Can SRT can be a comparable standard treatment modality with lobectomy for operable patients? 12 Gy is the daily dose at the isocenter,and 48 Gy in total by 4 fractions will be irradiated by stereotactic irradiation over 4 to 8 days.
+
+.
+
+ A Phase II Study of Stereotactic Body Radiation Therapy in Patients With T1N0M0 Non-small Cell Lung Cancer (JCOG0403)@highlight
+
+To evaluate the efficacy and safety of SBRT for T1N0M0 non-small cell lung cancer

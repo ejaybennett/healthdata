@@ -1,0 +1,24 @@
+(secondQuint)Listening to Mom in the NICU: Neural, Clinical and Language Outcomes.
+
+ Children born preterm are at-risk for developmental language delays.
+
+ Language problems in preterm children are thought to be related to neurobiological factors, including injuries to white matter structures of the brain and environmental factors, including decreased exposure to maternal speech in the hospital nursery.
+
+ There is evidence to suggest that maternal speech input may be important for promoting healthy brain and language development.
+
+ Participants will be randomly assigned to one of two study groups.
+
+ Each infant has a 50% chance of being assigned to the group that will listen to a recording of his/her mother's voice and a 50% chance of being assigned to the group that will not be played a voice recording.
+
+ Mother's of participating infants will have her voice recorded as she reads a common children's storybook.
+
+ Recordings will be played to infants each day until s/he is discharged from the hospital.
+
+ Participation in this study requires that all infants receive up to an additional 10 minutes of brain scans as part of his/her routine clinical magnetic resonance imaging (MRI).
+
+.
+
+ Listening to Mom in the NICU: Neural, Clinical and Language Outcomes@highlight
+
+The purpose of this study is to examine whether playing recordings of a mother's voice to her infant while in the hospital nursery is an effective treatment for promoting healthy brain and language development in infants born preterm.
+

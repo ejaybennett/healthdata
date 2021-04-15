@@ -1,0 +1,54 @@
+(fifthQuint)Motor Proficiency And Physical Activity in Adult Survivors of Childhood Acute Lymphoblastic Leukemia (ALL).
+
+ The study will focus on the following primary objectives: 1.
+
+ Enumerate the prevalence of musculoskeletal, sensory, and fitness impairments among adult survivors of childhood ALL.
+
+ The study hypothesizes that adult survivors of childhood ALL will have a higher prevalence of musculoskeletal, sensory and fitness impairments than a control group frequency matched on race/ethnicity, age, and gender.
+
+ 2.
+
+ Evaluate the association between personal and treatment factors and musculoskeletal, sensory and fitness impairments.
+
+ The study hypothesizes that: - Female gender, younger age at diagnosis, and cranial radiation will be associated with decreased lean body mass.
+
+ - Female gender, younger age at diagnosis, and type of glucocorticoid (dexamethasone vs.
+
+ prednisone) treatment will be associated with muscle weakness.
+
+ - Sensory loss will vary as a function of age, with participants diagnosed at 12+ years of age demonstrating vincristine related sensory loss, and those diagnosed at <12 years of age demonstrating dexamethasone and/or intrathecal methotrexate related sensory loss.
+
+ - Fitness impairments will be evident in participants who received 100 mg/m2+ of anthracyclines.
+
+ The study will focus on the secondary objectives: 1.
+
+ Compare physical activity patterns between adult survivors of childhood ALL and a frequency matched control group.
+
+ The study hypothesizes that adult survivors of childhood ALL will demonstrate lower levels of physical activity as measured with an activity monitor (accelerometer), and will report lower levels of overall physical activity, when compared to members of the comparison group.
+
+ 2.
+
+ Describe the association between habitual physical activity and energy expenditure among ALL survivors.
+
+ The study hypothesizes that activity levels, measured with the accelerometer, will be positively correlated with energy expenditure, measured using the doubly labeled water technique.
+
+ 3.
+
+ Explore the associations between musculoskeletal and sensory health, and physical activity patterns among adult survivors of childhood ALL.
+
+ The study hypothesizes that adult survivors of childhood ALL with lower proportions of lean muscle mass and/or sensory loss indicating peripheral neuropathy will demonstrate the lowest levels of physical activity.
+
+.
+
+ Motor Proficiency And Physical Activity in Adult Survivors of Childhood Acute Lymphoblastic Leukemia (ALL)@highlight
+
+The primary goal of this study is to provide comprehensive and objective information on impairments of musculoskeletal health, sensory function, and fitness among a large group of childhood ALL survivors, and to define high risk groups by assessing treatment factors that contribute to impaired function.
+
+ This study includes a direct, objective evaluation of musculoskeletal function, sensory capacity, fitness, and physical activity patterns among adults who were treated for childhood ALL at St.
+
+ Jude Children's Research Hospital (SJCRH) between 1980 and 1999.
+
+ Among 899 ALL survivors, all of whom are eligible for an institutionally funded clinical study of medical late effects, the study will recruit 364 to participate in our evaluations.
+
+ The study will also recruit 364 individuals for a comparison group, frequency matching on race/ethnicity, age and gender.
+

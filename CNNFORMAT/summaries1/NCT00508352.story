@@ -1,0 +1,24 @@
+(fifthQuint)Post-operative Radiation With IMRT in the Management of Stage IIB-III Breast Cancer.
+
+ The role of locoregional radiation therapy in the management of stage IIB and III breast cancer has evolved and continues to evolve.
+
+ The exact role of locoregional radiation, including axillary, supraclavicular and internal mammary nodes is, however, not clear.
+
+ Radiation-induced toxicity remains a limiting factor to expanding the indications for radiation therapy to axillary and internal mammary nodes in the treatment of stage IIB and III breast cancer.
+
+ Excellent target coverage and normal tissue sparing of IMRT has been previously demonstrated dosimetrically and clinically.
+
+ In this feasibility study, patients will receive 50 Gy of radiation therapy in 25 fractions to the chest wall and supraclavicular, axillary and IM nodal areas using HT-IMRT following breast conserving surgery or mastectomy and chemotherapy.
+
+ Patients will also be eligible for a radiation boost to 12 Gy by HT-IMRT or HDR brachytherapy.
+
+ It is expected that treatment with HT-IMRT will result in appreciably fewer side-effects following locoregional irradiation due to a reduction in normal tissue irradiation, as compared to conventional radiation therapy.
+
+.
+
+ Post-operative Radiation With IMRT in the Management of Stage IIB-III Breast Cancer@highlight
+
+Research has shown that treatment with conventional radiation techniques and chemotherapy following mastectomy or breast conserving surgery has resulted in better rates of locoregional control and overall survival in stage IIB-III breast cancer.
+
+ The current feasibility trial using the most recent advance in radiation therapy, namely helical tomotherapy intensity modulated radiation therapy (HT-IMRT), hopes to improve on the results of conventional radiation by decreasing the amount of radiation-induced toxicity in patients with stage IIb-III breast cancer.
+

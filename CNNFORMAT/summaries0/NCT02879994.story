@@ -1,0 +1,36 @@
+(thirdQuint)Pembrolizumab in Treating Patients With EGFR Mutant, Tyrosine Kinase Inhibitor Naive Advanced Non-Small Cell Lung Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine efficacy (objective response rate [ORR]) of front-line pembrolizumab for metastatic EGFR mutation positive programmed cell death 1 ligand 1 (PD-L1)+ (> 1% by immunohistochemistry [IHC]) non-small cell lung cancer (NSCLC).
+
+ SECONDARY OBJECTIVES: I.
+
+ Determine safety (adverse event tabulation and grading) of front-line pembrolizumab for metastatic EGFR mutation positive PD-L1+ (> 1% by IHC) NSCLC.
+
+ II.
+
+ Determine efficacy (progression free survival [PFS], overall survival [OS]) of front-line pembrolizumab for metastatic EGFR mutation positive PD-L1+ (>1% by IHC) NSCLC.
+
+ III.
+
+ Determine ORR, PFS and OS of subsequent EGFR tyrosine kinase inhibitor (TKI) therapy in patients with EGFR-sensitizing mutation after pembrolizumab.
+
+ TERTIARY OBJECTIVE: I.
+
+ Analyze tumor tissue biomarkers for potential correlation with response.
+
+ OUTLINE: Patients receive pembrolizumab intravenously (IV) over 30 minutes on day 1.
+
+ Treatment repeats every 3 weeks for up to 35 courses in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up for up at 3 and 6 months, and then every 9 weeks thereafter.
+
+.
+
+ Pembrolizumab in Treating Patients With EGFR Mutant, Tyrosine Kinase Inhibitor Naive Advanced Non-Small Cell Lung Cancer@highlight
+
+This phase II trial studies how well pembrolizumab works in treating patients with epidermal growth factor receptor (EGFR) mutant non-small cell lung cancer that have not received prior tyrosine kinase inhibitor therapy and has spread to other places in the body.
+
+ Monoclonal antibodies, such as pembrolizumab, may block growth in different ways by targeting certain cells.
+

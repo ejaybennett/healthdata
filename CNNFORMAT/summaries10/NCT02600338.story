@@ -1,0 +1,90 @@
+(fifthQuint)Meta-analyses of the Effect of Legumes on Blood Pressure.
+
+ Background: Legumes (e.
+
+g.
+
+ chick peas, beans, lentils, peas, soy, peanuts, lupins) are a source of slowly digestible carbohydrate, vegetable protein, fibre, and potassium.
+
+ Canada's Food Guide encourages consumption of legumes such as beans, lentils, and tofu "often" as meat alternatives, and the dietary guidelines for Americans include beans, peas, and soy products as "foods to increase", and as possible components of a healthy eating pattern.
+
+ While the European (EASD), Canadian (CDA), and American (ADA) Diabetes Associations recommend the consumption of dietary pulses as a means of improving diabetes control, and the American Heart Association (AHA) recommends the consumption of a healthy eating pattern which includes legumes for cardiovascular health, consolidated evidence for the specific recommendation of legumes for heart health is lacking.
+
+ Need for a review: The lack of data to support health claims and other cardiometabolic recommendations represent an urgent call for stronger evidence.
+
+ A systematic review and meta-analysis of controlled feeding trials remains the "Gold Standard" of evidence for nutrition guidelines development.
+
+ Objectives: To provide evidence-based guidance for public health policy, health claims, and nutrition guidelines relating to legumes, the investigators will conduct a systematic review and meta-analysis (knowledge synthesis) of randomized controlled feeding trials to assess the effect of legumes on blood pressure.
+
+ Design: The planning and conduct of the proposed meta-analyses will follow the Cochrane handbook for systematic reviews of interventions.
+
+ The reporting will follow the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines.
+
+ Data sources: MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials will be searched using appropriate search terms.
+
+ Study selection: Intervention trials that investigate diets high in legumes compared with control diets not-containing legumes on blood pressure outcomes in humans will be included.
+
+ Studies that are 2) will extract information about study design, sample size, subject characteristics, type and form of legume, dose, follow-up, and the composition of the background diets.
+
+ MeanSEM values will be extracted for all outcomes.
+
+ Standard computations and imputations will be used to derive missing variance data.
+
+ Outcomes: The proposed analysis will assess blood pressure control, looking at systolic, diastolic, and mean arterial blood pressure.
+
+ Where data for both change-from-baseline differences and end differences are equally available, the investigators will use the difference in change from baseline as the primary end point for analyses.
+
+ Data synthesis: Pooled analyses stratified by underlying disease status will be conducted for each area of metabolic control using the Generic Inverse Variance method with fixed or random effects models, depending on the number of relevant studies obtained.
+
+ Random-effects models will be used in the case of collection of 5 or more studies, even in the absence of statistically significant between-study heterogeneity, as they yield more conservative summary effect estimates in the presence of residual heterogeneity.
+
+ Paired analyses will be applied to all crossover trials.
+
+ Heterogeneity will be tested by the Cochran Q statistic and quantified by the I2-statistic.
+
+ Sources of heterogeneity will be explored by sensitivity and subgroup analyses.
+
+ A priori subgroup analyses will include legume type, legume dose, duration of follow-up, sodium intake (absolute level, within-treatment change, and between-treatment change), dietary fibre intake (absolute level, within-treatment change, and between-treatment change), design (crossover, parallel), study quality, and baseline endpoint values.
+
+ Significant unexplained heterogeneity will be investigated by additional post hoc subgroup analyses.
+
+ Meta-regression analyses will assess the significance of subgroups analyses.
+
+ When >=10 studies are available, publication bias will be investigated by inspection of funnel plots and formal testing using the Egger test and the Begg test.
+
+ If publication bias is suspected, then the investigators will attempt to adjust for funnel plot asymmetry by imputing the missing study data using the Duval and Tweedie trim and fill method.
+
+ Evidence Assessment: The strength of the evidence for each outcome will be assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE).
+
+ Knowledge translation plan: Results will be disseminated through traditional means such as interactive presentations at local, national, and international scientific meetings and publication in high impact factor journals.
+
+ Target adopters will include the clinical practice, public health, industry, research communities, and patient groups.
+
+ Feedback will be incorporated and used to guide areas for future research.
+
+ Preliminary findings: The investigators previously conducted a systematic review and meta-analysis of the effect of dietary pulses (a subset of legumes - does not include leguminous oil-seeds) on glycemic control in 41 controlled feeding trials.
+
+ It was found that pulses alone or as part of low-glycemic index or high-fibre diets improved markers of glycemic control.
+
+ The investigators also previously conducted a systematic review and meta-analysis of the effect of dietary pulses on blood pressure in 8 isocaloric controlled feeding trials.
+
+ It was found that diets high in dietary pulses significantly lowered systolic and mean arterial blood pressure compared with diets not containing pulses.
+
+ Significance: The proposed project will aid in knowledge translation related to the effects of legumes on blood pressure, updating our knowledge synthesis on dietary pulses and broadening it to assess the effect of all types of legumes, and strengthening the evidence-base for dietary recommendations and health claims and improving heart health outcomes through informing healthcare providers and patients, stimulating industry innovation, and guiding future research.
+
+.
+
+ Meta-analyses of the Effect of Legumes on Blood Pressure@highlight
+
+Legumes are generally recognized as healthy dietary components, and although beans and legumes are recommended in food guidelines in North America, guidelines vary in regards to how much and how often these foods should be consumed.
+
+ Furthermore, although North American and European guidelines recommend dietary pulses for glycemic control, dietary pulses and other legumes are not specifically suggested for controlling blood pressure and maintaining heart health.
+
+ To improve evidence-based guidance for legume recommendations, the investigators propose to conduct a systematic review of clinical studies to assess the effect of eating legumes in exchange for other foods on blood pressure in humans.
+
+ The systematic review process allows the combining of the results from many small studies in order to arrive at a pooled estimate, similar to a weighted average, of the true effect.
+
+ The investigators will be able to explore whether eating legumes has different effects in different demographics, and whether or not the effect of legumes depends on how much/often they are eaten.
+
+ The findings of this proposed knowledge synthesis will help improve the health of Canadians through informing recommendations for the general public, as well as those at risk of heart disease and diabetes.
+

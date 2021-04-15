@@ -1,0 +1,46 @@
+(fifthQuint)Ultrasound-CT Fusion System for Interventional Radiology Procedures.
+
+ A simple 20 patient study will be performed using the CG SCENERGY system.
+
+ This fusion system will be used to perform image guided needle placements for patients undergoing percutaneous CT guided needle-based intervention (CT guided biopsy, CT guided drain placement within the abdomen or pelvis, and CT guided injection of muscle or nerve within the pelvis).
+
+ Only patients who are already scheduled for a CT guided procedure will be screened.
+
+ The study design is as follows: - 10 patients will have their procedure performed using the CGM SCENERGY US-CT fusion system and 10 patients will have their procedure performed using CT guidance only.
+
+ - Proper informed consent will be obtained - Perform a CT scan with the optical adhesive skin markers in place.
+
+ Markers are placed around the expected site of needle skin entry.
+
+ - The first 10 patients Group#1 (1-10) will be assigned to using the SCENERGY fusion system to complete the needle placement, and the next 10 patients Group #2 (11-20) will be assigned of continuing with CT guidance only to complete the needle placement.
+
+ - If in Group #1, the procedure will proceed as usual using the SCENERGY system to guide the needle to target.
+
+ If in the Group #2, CT guidance will be used to place the needle to target.
+
+ - Once the needle is at the target, a confirmatory CT will be performed.
+
+ - If the target is reached (i.
+
+e.
+
+, the software directed the interventional radiologist to the right place, e.
+
+g.
+
+ for correctly biopsying a lesion), the trial is considered a "success" and the procedure continues as normal.
+
+ - If the needle is not in the right place, the trial is considered a "failure", and the procedure continues as normal without using the CGM software any further.
+
+.
+
+ Ultrasound-CT Fusion System for Interventional Radiology Procedures@highlight
+
+The objective of this research is to use the Clear Guide SCENERGY technology, an FDA approved Ultrasound-CT fusion imaging system, that allows the user to fuse CT images onto a real-time ultrasound that is being performed on the patient.
+
+ This fusion system will be used to perform ultrasound guided needle placements for patients undergoing percutaneous CT guided needle-based intervention.
+
+ This study will consist of 20 patients, 10 patients using the CGM SCENERGY US-CT system and 10 patients using guidance only.
+
+ The primary goal of the study is to prove that the new imaging fusion system is comparable to using either CT or US guidance alone to guide needle placement.
+

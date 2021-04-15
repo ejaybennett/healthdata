@@ -1,0 +1,14 @@
+(firstQuint)Prevalence of Presenting Diseases for Elderly Patients Admitted to Emergency Department.
+
+ The number of elderly patients admitted to the Emergency Department (ED) is dramatically increasing.
+
+ Most emergency physicians have not been trained in specific geriatric approaches, and many report being less comfortable when dealing with older patients.
+
+ Aim of this study is the investigation the most common conditions affecting older patients in the ED.
+
+.
+
+ Prevalence of Presenting Diseases for Elderly Patients Admitted to Emergency Department@highlight
+
+The number of elderly patients admitted to the Emergency Department (ED) is dramatically increasing.
+

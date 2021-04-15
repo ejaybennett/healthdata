@@ -1,0 +1,18 @@
+(firstQuint)Database Study on Patients With PCOS.
+
+ All premenopausal women referred to the outpatient clinic at the Department of Endocrinology from 1997 and onward with the referral diagnoses hirsutism and/or PCOS are included in a clinical database.
+
+ The patients should fulfill the Rotterdam criteria for PCOS or have clinical/biochemical hyperandrogenemia.
+
+ Routine evaluation include medical history, clinical examination, transvaginal ultrasound (US), and fasting blood samples.
+
+ Cycle history is recorded in all patients using a standard scheme prepared for hirsute patients.
+
+ Blood tests include androgens, LH, FSH, prolactin, and lipid profile.
+
+ OGTT and ACTH are performed in high risk patients.
+
+ Database Study on Patients With PCOS@highlight
+
+All newly referred patients with PCOS and hirsutism are listed in a database.
+

@@ -1,0 +1,26 @@
+(fifthQuint)Bispectral Index Monitoring To Guide Sedation In The Critical Care Setting.
+
+ Patients admitted to the intensive care unit (ICU) usually require use of hypnotics and sedatives to ensure comfort and proper adaptation to mechanical ventilation.
+
+ An important requirement for an adequate sedation is frequent and proper assessment of its depth.
+
+ Inadequate sedation can lead to problems of over-sedation, under-sedation and/or delirium in ICU, especially in elderly patients.
+
+ The main objective od the study is To compare the total dose of sedative use and the rate of over-sedation in patients over 65 years admitted to the ICU, adjusting sedation by monitoring with BIS(R) versus monitoring with the exclusive use of sedation scales.
+
+ METHODS.
+
+ A randomized, clinical trial including patients over 65 years who were admitted to the ICU affected with medical or surgical pathology of non neurological etiology who required sedation for more than 24 hours to maintain adaptation to mechanical ventilation.
+
+ Patients were randomized into two groups: the intervention group using BIS monitoring to adjust sedation in order to maintain values between 50-60 and; the control group in which sedation was adjusted with the exclusive use of Richmond Agitation-Sedation Scale (RASS) to maintain RASS -2.
+
+ The study was approved by the institution's Research Ethics Committee.
+
+.
+
+ Bispectral Index Monitoring To Guide Sedation In The Critical Care Setting@highlight
+
+A randomized, control trial to compare the total dose of sedatives use in patients over 65 years admitted to the intensive care unit, guiding sedation by monitoring with BIS(R) versus monitoring with the exclusive use of sedation scales.
+
+ The study will include all patients over 65 years who enter the intensive care unit of the University Hospital of Bellvitge affected with medical or surgical pathology of non neurological etiology who require sedation for more than 24 hours to maintain adaptation to mechanical ventilation.
+

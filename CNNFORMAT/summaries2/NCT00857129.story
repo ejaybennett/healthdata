@@ -1,0 +1,14 @@
+(firstQuint)Can Differentiated Birth Care Improve the Service?.
+
+ The study will include approximately 1000 normal births in a county hospital.
+
+ The mothers are randomly assigned to one of three different maternal wards; one run by midwives, one normally equipped according to national standards for a county hospital and one prepared for complicated births.
+
+ Endpoints are number of operative births and complications.
+
+.
+
+ Can Differentiated Birth Care Improve the Service?@highlight
+
+Prospective evaluation of birth complication in three differently staffed and equipped units in the same hospital.
+

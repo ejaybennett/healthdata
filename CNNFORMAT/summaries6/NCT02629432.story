@@ -1,0 +1,54 @@
+(fifthQuint)Image-Based Structural and Functional Phenotyping of the COSYCONET Cohort Using MRI and CT.
+
+ This prospective trial aims to phenotype COPD by using Imaging methods.
+
+The identification of different COPD phenotypes, such as the "emphysema-type" and the "airway-type", is important because therapy and prognosis will be different.
+
+ Imaging might play a central role in diagnosing these phenotypes.
+
+ So far computed tomography (CT) is regarded as the gold standard, but it involves ionizing radiation and lacks functional information.
+
+ The medical problem addressed in this trial is the image-based phenotyping of COPD.
+
+ The principal research question is whether magnetic resonance imaging (MRI) can replace CT for the characterization of COPD by "structural and functional phenotyping" on a regional basis.
+
+ The sensitivity and specificity of MRI will be compared to CT serving as the gold standard.
+
+ To achieve this goal, MRI and CT of the lung will be performed in a multi-centre cohort of 625 COPD-patients from the main Cosyconet cohort.
+
+ Also, the reliability of the MRI results will be demonstrated.
+
+ MRI phenotypes will be evaluated visually and using software with quantitative read-outs.
+
+ The agreement of both will be determined.
+
+ The additional information of MRI over CT will be assessed.
+
+ A special focus will be to implement an image-based biomarker of pulmonary functional reserve derived from the MRI measurement of pulmonary perfusion, which will be correlated with results from pulmonary functions tests (e.
+
+g.
+
+ the lung transfer factor for carbon monoxide (TLCO)) the 6-minute walking test (6-MWD), and extrapulmonary disease manifestations.
+
+.
+
+ Image-Based Structural and Functional Phenotyping of the COSYCONET Cohort Using MRI and CT@highlight
+
+The main objective of this trial is to prove that MRI - as the imaging modality without the use of ionizing radiation - can replace CT for structural and functional regional phenotyping of COPD.
+
+ The identification of different COPD phenotypes, such as the "emphysema-type" and the "airway-type", is important because therapy and prognosis will be different.
+
+ The medical problem addressed in this trial is the image-based phenotyping of COPD.
+
+ The sensitivity and specificity of MRI will be compared to Lowdose-CT serving as the gold standard.
+
+ MRI and CT of the lung will be performed in a multi-centre cohort of 625 COPD-patients from the main COSYCONET cohort.
+
+ The reliability of the MRI results will be demonstrated.
+
+ MRI phenotypes will be evaluated visually and using software with quantitative read-outs.
+
+ The agreement of both will be determined.
+
+ The additional information of MRI over CT will be assessed.
+

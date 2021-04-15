@@ -1,0 +1,50 @@
+(fifthQuint)Bacterial Vaginosis Home Screening to Prevent STDs.
+
+ Bacterial vaginosis (BV) is characterized by an imbalance in the normal vaginal bacterial flora.
+
+ In the United States (US), BV is very common, and the most common cause of vaginitis, affecting approximately 1 in 10 sexually active young women.
+
+ Because BV is so common, interventions targeting BV could have a tremendous public health impact.
+
+ This is a phase III randomized controlled trial, in which the primary objective is to determine whether regular screening (every two months) and treatment for asymptomatic BV can reduce the one-year incidence of chlamydial and gonococcal infections, compared to a control group of women who receive regular monitoring (every two months) for BV but no treatment.
+
+ The secondary study objective is to determine demographic and behavioral factors associated with the acquisition of BV, its persistence among women who are not treated for this condition, its spontaneous resolution, and its recurrence in women who are treated for this condition.
+
+ This study protocol will enroll 1500 sexually active females, aged 15 - 25 years, from 6 US cities involved in the Sexually Transmitted Infections Clinical Trials Group network (Birmingham, Durham, Raleigh, Pittsburgh, Baltimore and San Francisco).
+
+ To be eligible, women must have 2 or more risk factors for sexually transmitted diseases (STDs) and must have clinical evidence of asymptomatic BV at enrollment.
+
+ For the purposes of this study, women with a vaginal pH>4.
+
+5 with >20 percent clue cells detected by microscopy to have asymptomatic BV.
+
+ In addition, women must deny the presence of unusual or abnormal vaginal discharge or odor.
+
+ Subjects will receive bi-monthly (every two months) home self-testing kits for BV using a vaginal swab.
+
+ If BV is detected by self-test, the subjects in the intervention group will receive antibiotic treatment consisting of metronidazole 500mg twice daily for 7 days.
+
+ Subjects will be randomized to either an intervention group (screening and treatment for BV) or a control group (monitoring for BV without treatment).
+
+ Subjects in both the intervention group and the control group will complete bi-monthly (every 2 months) follow-up assessments for BV at months 2, 4, 6, 8, 10, and 12 (the final follow-up).
+
+ In addition, subjects will provide sample collections for Chlamydia trachomatis and Neisseria gonorrhoeae at 4, 8, and 12 months after study entry.
+
+.
+
+ Bacterial Vaginosis Home Screening to Prevent STDs@highlight
+
+The purpose of this study is to determine whether regular screening (every 2 months) and treatment for bacterial vaginosis (BV [infection of the vagina]) will reduce the number of incidences of chlamydia and gonorrhea (sexually transmitted diseases) over the course of a year.
+
+ Chlamydial and gonococcal infections will be determined by vaginal swab testing at 4, 8, and 12 months after enrollment.
+
+ Subjects will include 1500 women aged 15-25 years who have clinical evidence of BV, with no symptoms.
+
+ Subjects will be randomly assigned to 1 of 2 possible study groups: the intervention group (treatment of BV) or the control group (no BV treatment).
+
+ Every 2 months, subjects will complete a home self-testing kit for screening of BV using a swab.
+
+ If BV is detected by self-test, the subjects in the interventional group will receive a 7 day course of the antibiotic metronidazole.
+
+ Participants will be involved in study related procedures for up to 12 months.
+

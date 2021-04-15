@@ -1,0 +1,28 @@
+(thirdQuint)Effect Evaluation of Early Exercise Training After Myocardial Infarction.
+
+ Exercise training is well documented as effective treatment for myocardial infarction(MI) patients.
+
+ However, the long time effect of early onset is more unclear, and it is needed to provide knowledge about to which extend early onset of ET contribute to reduce risk factors, increase oxygen consumption and influence on quality of life.
+
+ A RCT is conducted, 60 persons with recently MI is invited to participate.
+
+ The subjects participating is hospitalised in St.
+
+ Olavs Hospital.
+
+ The participants are randomised to either a training group or a control group.
+
+ The training group will be offered hospital out-patient group exercise training of moderate intensity twice a week for four weeks.
+
+ The training is leaded by a physiotherapist.
+
+ The control group will wait four weeks before both groups continue ET twice a week for 12 weeks (high intensity training).
+
+.
+
+ Effect Evaluation of Early Exercise Training After Myocardial Infarction@highlight
+
+The aim of the study is to evaluate the effect of early onset of exercise training (ET) after myocardial infarction (MI) in a randomized controlled trial.
+
+ Usual care is to wait 4-6 weeks after onset of MI, and our hypotheses are that early ET will prevent a fall in VO2peak and contribute to better quality of life.
+

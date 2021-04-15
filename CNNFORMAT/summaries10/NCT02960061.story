@@ -1,0 +1,26 @@
+(thirdQuint)Perioperative Chemotherapy Combined With HIPEC for High-risk Advanced Gastric Cancer.
+
+ Gastric cancer, as the second common malignant tumors in china, is marked by its poor prognosis and high recurrent rate.
+
+ Although R0 resection could be achieved in most advanced gastric cancer(AGC) patients without metastasis, age-standardized 5-years survival rate was no more than 27.
+
+4%.
+
+ Peritoneal metastasis accounts for 50% of the recurrent case and remain to be the most fatal recurrence pattern.
+
+ Hyperthermic intraperitoneal perfusion chemotherapy ( HIPEC ), has been proved as one of the most efficient approach against peritoneal carcinomatosis from gastric cancer and recommended in the guideline for gastric cancer published by the health committee of china.
+
+ However, its role as prophylactic treatment after curative has never been determined.
+
+ HIPEC works by delivering heat and cytotoxic drug to the cancer cell and is more effective on the tumor with small size.
+
+ As present study suggest that Peritoneal metastasis is related to lymph node dissection during surgery while opening lymphatic channels and spreading viable cancer cells into the peritoneal cavity, HIPEC might be a reasonable approach to destroy the remaining cancer cells after curative surgery.
+
+ Thus this research aim to explore the efficacy and safety of combining HIPEC (hyperthermic intraperitoneal perfusion chemotherapy) with post-neoadjuvant chemotherapy D2 resection.
+
+.
+
+ Perioperative Chemotherapy Combined With HIPEC for High-risk Advanced Gastric Cancer@highlight
+
+The investigators intend to conduct a randomized controlled study to find if combining HIPEC (hyperthermic intraperitoneal perfusion chemotherapy) with post-neoadjuvant chemotherapy D2 resection could improve survival for patients with advanced gastric cancer, while comparing with the traditional approach of D2 resection after neoadjuvant chemotherapy.
+

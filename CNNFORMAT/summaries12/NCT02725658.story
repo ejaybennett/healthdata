@@ -1,0 +1,26 @@
+(thirdQuint)Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using DOSI.
+
+ There is considerable interest in developing imaging protocols to monitor and predict breast cancer response to neoadjuvant chemotherapy (NAC), which is chemotherapy given before surgical removal of the tumor, both prior to and as early as possible during the course of treatment.
+
+ The efficacy and practicality of conventional imaging approaches in the NAC setting varies and identifies the need for alternate functional imaging strategies.
+
+ Diffuse optical spectroscopic imaging (DOSI) is an experimental imaging method that allows patients to be followed before and during treatment with a cost-effective, bedside, handheld scanning probe.
+
+ DOSI is a non-invasive technology developed at the University of California, Irvine Beckman Laser Institute.
+
+ Studies will be performed at seven clinical sites on approximately 200 suspected breast cancer patients, of which 150 are expected to undergo neoadjuvant chemotherapy (NAC).
+
+ As a primary aim, the investigators will evaluate whether DOSI can predict NAC pathologic complete response (pCR), which is defined as no tumor cell left in the resected tissue at surgery) by the mid-point of the therapy regimen.
+
+ As non-invasive DOSI is obtained rapidly with no risk/discomfort, this experimental imaging modality could be used as an indicator of pathologic response which has been an established indicator of long-term survival.
+
+ The investigators long-term goal is to provide oncologists with a relatively simple, risk-free bedside tool that can be used to help inform medical decisions on chemotherapy regimen, duration, and timing of surgery, thereby maximizing therapeutic response and minimizing unnecessary toxicity.
+
+.
+
+ Monitoring and Predicting Breast Cancer Neoadjuvant Chemotherapy Response Using DOSI@highlight
+
+The purpose of this research study is to help us learn if an experimental imaging device called Diffuse Optical Spectroscopic Imaging (DOSI) can monitor tumor shrinkage during chemotherapy treatment and can predict if the tumor will respond to chemotherapy before the end of the treatment.
+
+ This study will also help us understand the biological reason for how DOSI works.
+

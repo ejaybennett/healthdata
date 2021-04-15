@@ -1,0 +1,24 @@
+(thirdQuint)Safe Use of New Oral Anticoagulants in Ablation for Atrial Fibrillation.
+
+ Use of new oral anticoagulants (NOAC) in patients before and after radiofrequency ablation with pulmonary vein isolation (PVI) is still controversial.
+
+ Experience is reported from consecutive patients ablated with PVI for atrial fibrillation and treated with dabigatran, rivaroxaban, or apixaban from Nov 2011 until Dec 2014.
+
+ Patients paused their NOAC treatment for 24 hours before ablation.
+
+ Patients were routinely followed up after 3 months with a standard formular focused on possible adverse events (major bleeding complications or thromboembolic events) to NOAC treatment.
+
+ Adverse events related to the use of NOAC were registered during treatment or during 3 months of follow-up.
+
+.
+
+ Safe Use of New Oral Anticoagulants in Ablation for Atrial Fibrillation@highlight
+
+Use of new oral anticoagulants (NOAC) in patients before and after catheter based pulmonary vein isolation (PVI) is still controversial.
+
+ Experience is reported from consecutive patients ablated with PVI for atrial fibrillation and treated with dabigatran, rivaroxaban, or apixaban from Nov 2011 until Dec 2014.
+
+ Patients are followed for 3 month after ablation.
+
+ All complications possible being related to the use of NOAC are registered.
+

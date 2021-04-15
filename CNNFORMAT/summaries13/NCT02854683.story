@@ -1,0 +1,62 @@
+(fifthQuint)Reducing Orthostatic Intolerance With Oral Rehydration in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Patients.
+
+ We and others have shown that a majority of younger patients with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) have orthostatic intolerance (OI), the inability to tolerate orthostatic stress such as prolonged standing.
+
+ OI in ME/CFS comprises postural tachycardia syndrome (POTS) in which symptoms occur along with excessive upright heart rate, and neurally mediated hypotension (NMH) in which symptoms occur along with an upright fall in blood pressure.
+
+ The causes of OI are diverse but are clearly initiated by postural contraction of central blood volume (BV) by gravitational translocation of 500-800 mL of blood from the upper to the lower body.
+
+ Intravenous central BV expansion with isotonic saline is commonly and effectively used to reduce OI regardless of etiology, but has complications if used long term.
+
+ Usual forms of oral hydration fail to provide similar benefit.
+
+ Interestingly, a specific isotonic oral rehydration solution (ORS W.
+
+H.
+
+O.
+
+ formula), making use of co-transport of glucose and sodium, has been shown to efficiently rehydrate cholera patients suggesting an ability to increase central BV rivaling intravenous fluids.
+
+ Since the circulatory effects of saline or ORS BV expansion are incompletely understood, we propose to study the neurovascular physiology of fluid loading during orthostatic stress in ME/CFS patients with POTS or NMH, comparing results with healthy control subjects.
+
+ We hypothesize that equal volumes of ORS is not inferior and may be superior to intravenous saline infusion in increasing intravascular and interstitial fluid volume and improving orthostatic tolerance.
+
+ Using noninvasive measurements of heart rate and blood pressure by Finapres and oscillometry, cardiac output and peripheral arterial resistance by inert gas rebreathing, cerebral blood flow velocity by transcranial Doppler ultrasound, and regional fluid shifts by impedance and venous occlusion plethysmography, we have acquired preliminary data in ME/CFS patients with OI demonstrating superior restoration of orthostatic tolerance with ORS.
+
+ We will recruit patients aged 15-29 years who have confirmed ME/CFS with OI, including 15 with NMH and 15 with POTS, and compare them to 15 healthy volunteer subjects.
+
+ In Specific Aim 1 we will measure BV by Daxor iodinated albumin technique before orthostatic stress imposed by step-wise lower body negative pressure (LBNP) to measure the threshold for OI.
+
+ Relative changes in BV using serial hematocrits in OI patients will be compared to data from control subjects similarly tested.
+
+ In Specific Aim 2, all subjects will be randomized to receive saline or ORS in a cross over study.
+
+ On one day, total BV and neurovascular properties will be measured in patients and control subjects before and 1 hour after completing one liter administration of intravenous normal saline infusion or ORS.
+
+ On another day (separated by 1 week), we will repeat measurements using the other hydration route.
+
+ We will perform LBNP on each day following saline or ORS to determine whether orthostatic intolerance and circulatory physiology are improved similarly with equivolumic IV saline or ORS hydration.
+
+.
+
+ Reducing Orthostatic Intolerance With Oral Rehydration in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome Patients@highlight
+
+We and others have shown that many younger patients with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) have orthostatic intolerance (OI), i.
+
+e.
+
+, they can't tolerate prolonged standing.
+
+ OI in ME/CFS is often accompanied by either postural tachycardia syndrome (POTS) in which standing results in an excessive heart rate, and neurally mediated hypotension (NMH) in which standing causes a fall in blood pressure and fainting.
+
+ Intravenous fluids can alleviate these symptoms, but is difficult to administer; oral fluids fail to provide the same benefit.
+
+ We would therefore like to test the effectiveness of an oral rehydration solution (ORS, W.
+
+H.
+
+O.
+
+ formula) making use of co-transport of glucose and sodium, to reverse these symptoms in ME/CFS subjects with POTS or NMS, and will compare these results with healthy control subjects.
+

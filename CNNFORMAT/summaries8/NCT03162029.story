@@ -1,0 +1,20 @@
+(secondQuint)Assessment of Mandibular Osseous Changes in Patients With End Stage Renal Failure.
+
+ This study will be observational study.
+
+ The goal of this study is to evaluate the quality of mandible and to assess the correlation between the jaw bone quality in a sample of Egyptian patients with chronic renal failure and duration of dialysis using CBCT.
+
+ Twenty-six subjects will be included in this study.
+
+ These will comprise (13) CKD patients "the study group" and (13) healthy patients "the control group" recommended for CBCT imaging for implant placement.
+
+ The control group will be selected from the Prosthodontic department and Oral Medicine department of Faculty of Oral and Dental Medicine, Cairo University, the study group will be selected from Nephrology and the artificial kidney unit El Kasr -Al Ain Hospital, Cairo University.
+
+.
+
+ Assessment of Mandibular Osseous Changes in Patients With End Stage Renal Failure@highlight
+
+This study will be observational study.
+
+ The goal of this study is to evaluate the quality of mandible and to assess the correlation between the jaw bone quality in a sample of Egyptian patients with chronic renal failure and duration of dialysis using CBCT.
+

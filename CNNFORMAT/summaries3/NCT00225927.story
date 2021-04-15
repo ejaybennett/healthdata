@@ -1,0 +1,30 @@
+(secondQuint)Trial Comparing Radioactive Seed Localization to Standard Procedure for Non-palpable Breast Cancers.
+
+ Most breast cancers are removed by partial mastectomy/lumpectomy.
+
+ The most important factor in ensuring that the cancer does not return in the breast is to ensure that it is completely removed during surgery.
+
+ Complete removal is dependent on having a rim of normal tissue (clear margin) surrounding the cancer.
+
+ If the margin is positive, or the cancer recurs, more surgery or mastectomy is required.
+
+ Approximately one third of breast cancers are detected by mammograms or ultrasounds and cannot be felt by patients or physicians.
+
+ Accordingly, a localization technique is required to help the surgeon to find and remove the cancer.
+
+ The current technique (needle localization) has a higher chance of having cancer cells at the margin.
+
+ This is a study about a surgical technique.
+
+ The objective of this comparison study is to determine whether a new technique (radioguided seed localization) is a better way to remove nonpalpable breast cancers.
+
+ The main objective of this study is to determine if the new technique generates fewer positive margins compared to the standard technique.
+
+ An improved technique would benefit thousands of women every year.
+
+.
+
+ Trial Comparing Radioactive Seed Localization to Standard Procedure for Non-palpable Breast Cancers@highlight
+
+The purpose of this study is to determine whether a new surgical technique (radioguided seed localization) for localizing nonpalpable breast tumours is better than the standard technique (needle localization).
+

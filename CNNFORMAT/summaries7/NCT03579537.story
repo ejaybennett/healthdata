@@ -1,0 +1,9 @@
+(firstQuint)Effects of Exercise on Physical Fitness Among Hemodialysis Patients With Chronic Kidney Disease.
+
+ It has been observed that programs that combine aerobic and resistance exercise can increase muscular strength and endurance, functional capacity and quality of life of patients in Hemodialysis.
+
+ Aerobic exercise and muscular endurance during dialysis increase blood flow at the muscular level with an increase in capillary surface area, which dynamizes the flow of urea and toxins from the tissues to the vascular compartment, which could improve the effectiveness of dialysis In addition, moderate regular exercise can modulate the inflammatory response, which would be beneficial in patients with chronic kidney disease.
+
+ Effects of Exercise on Physical Fitness Among Hemodialysis Patients With Chronic Kidney Disease@highlight
+
+Regular physical exercise was adapted to the situation of the patient with hemodialysis to help improve the quality of life of the patient

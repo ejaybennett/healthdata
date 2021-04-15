@@ -1,0 +1,14 @@
+(secondQuint)Optimal Antithrombotic Therapy in Ischemic Stroke Patients With Non-Valvular Atrial Fibrillation and Atherothrombosis.
+
+ The Purpose of this open-label randomized controlled multicenter trial is to evaluate the efficacy and safety of mono-drug therapy with oral anticoagulant compared to combination therapy with antiplatelet drug, in ischemic stroke patients with non-valvular atrial fibrillation and atherothrombosis.
+
+ Target sample size is 400.
+
+ The primary outcome is a composite endpoint of ischemic cardiovascular events (cardiovascular death, ischemic stroke, myocardial infarction, systemic embolism, ischemic events requiring urgent revascularization) and major bleeding defined by the International Society on Thrombosis and Haemostasis(ISTH) criteria within 2 years after randomization.
+
+.
+
+ Optimal Antithrombotic Therapy in Ischemic Stroke Patients With Non-Valvular Atrial Fibrillation and Atherothrombosis@highlight
+
+The Purpose of this open-label randomized controlled multicenter trial is to evaluate the efficacy and safety of mono-drug therapy with oral anticoagulant compared to combination therapy with antiplatelet drug, in ischemic stroke patients with non-valvular atrial fibrillation and atherothrombosis.
+

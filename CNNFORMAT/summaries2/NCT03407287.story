@@ -1,0 +1,16 @@
+(secondQuint)Peripheral Venous Analysis (PIVA) for Predicting Volume Responsiveness and Fluid Status.
+
+ Intravascular volume status determination remains elusive.
+
+ Standard vital sign monitoring, including heart rate and blood pressure, fails to detect intravascular volume depletion and volume overload.
+
+ Likewise, invasive monitoring is fraught with risk including vascular injury and central line associated infections.
+
+ As such, a minimally-invasive mechanism to overcome the barriers of standard monitoring to detect volume status derangement, would be highly valuable.
+
+ The goal of the study is to perform a series of observational feasibility studies in healthy and hospitalized subjects to determine effects of fluid alternations, hemodynamic changes, mechanical ventilation, pharmacologic agents, positional changes, and comorbidities on the PIVA signal.
+
+ Peripheral Venous Analysis (PIVA) for Predicting Volume Responsiveness and Fluid Status@highlight
+
+The aim of this study is to determine the effects of fluid alternations, hemodynamic changes, mechanical ventilation, pharmacologic agents, positional changes, and comorbidities on the Peripheral Intravenous waveform Analysis (PIVA) signal.
+

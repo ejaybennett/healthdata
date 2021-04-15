@@ -1,0 +1,86 @@
+(thirdQuint)A Two Year Study of the Clinical Efficacy of the Combination of Emtricitabine, Tenofovir, and Nevirapine.
+
+ Description of study design This is an open-labeled clinical trial evaluating an antiretroviral treatment regimen in which the drugs have demonstrated in vitro activity in both, resting and activated mononuclear cells.
+
+ These drugs include: FTC 200 mg p.
+
+o.
+
+ qd, and Tenofovir 300 mg p.
+
+o.
+
+ qd, and Nevirapine 200 mg b.
+
+i.
+
+d.
+
+ Eligible patients must be at least 18 years of age, be referred by their primary HIV provider for antiretroviral therapy or if the patient is self referred, have a cluster of differentiation 4 (CD4) cell count of 5,000c/ml.
+
+ Eligibility requirement for women is that they must have a CD4 cell count of 250 cell/mm3.
+
+ The screening evaluation will take place the day the informed consent is signed.
+
+ During that screening evaluation, the patient will undergo a history and physical examination, and will have study labs drawn.
+
+ Within 60 days of the screening evaluation and meeting all eligible criteria, the patient will be placed on the study treatment regimen.
+
+ Patients will be evaluated at the clinic on Day 0 (therapy initiation), weeks 2, 4, 6, 8, 12, 16, and then every 8 weeks until 48 weeks and thereafter every 12 weeks through week 96.
+
+ At the end of the study, all patients may continue their current antiretroviral treatment regimen at the discretion of the patient and their primary care provider.
+
+ Pharmacokinetic Analysis Sub Study A pharmacokinetic evaluation will be performed in first 7 volunteers to assess the impact of FTC on Nevirapine and vice versa.
+
+ Pharmacokinetic analysis will be performed at end of week 2 ( day 14) during 200mg qd start up period.
+
+ Samples will be obtained at baseline and 1, 3, 6, 12 and 24 hours post Nevirapine dosing.
+
+ Pharmacokinetic analysis will be repeated at the week 8 visit.
+
+ Samples will be obtained at baseline and 1, 3, 6, 12 and 24 hours post Nevirapine.
+
+ Assignment of patients There will be 60 patients involved in this clinical trial.
+
+ This is an open-labeled study.
+
+ There are no placebos involved in this study.
+
+ Dose and dose selection The dosages of medications are those that are currently used as standard clinical practice: Nevirapine 200 mg b.
+
+i.
+
+d.
+
+ (1-200 mg tablet b.
+
+i.
+
+d.
+
+); Emtricitabine (FTC) 200mg po qd.
+
+(1-200mg capsule); Tenofovir 300 mg once-a-day (1-300 mg tablet qd).
+
+ Justification of study design All study patients require treatment for their HIV infection.
+
+ All of the drugs used in this study are FDA-Approved.
+
+ Tenofovir and FTC are approved as a once-a-day treatment medication.
+
+ Nevirapine (NVP) is approved for BID dosing.
+
+ NOTE: That whenever Nevirapine is being prescribed, there will be a lead-in period of 14 days in which Nevirapine will be prescribed as 200 mg once a day followed by 200 mg BID as is the recommended standard of care.
+
+.
+
+ A Two Year Study of the Clinical Efficacy of the Combination of Emtricitabine, Tenofovir, and Nevirapine@highlight
+
+Open label, two year study of the clinical efficacy of the combination of FTC, Tenofovir, and Nevirapine.
+
+ Sixty HIV infected patients without previous exposure to antiretroviral therapy will be enrolled.
+
+ Study will include a pharmacokinetic substudy to evaluate the interaction of FTC and Nevirapine.
+
+ Truvada may be used.
+

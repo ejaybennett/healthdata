@@ -1,0 +1,48 @@
+(fifthQuint)The Effect on EPCs by Successful Cardiac Occlusion Device Implantation.
+
+ The objective of this study is to assess the effect, if any, on EPC count and cardiac device implantation.
+
+ All patients awaiting LAA or PFO/ASD occlusion will firstly be reviewed in a cardiology clinic and assessed.
+
+ Suitable patients will then be placed on a waiting list for occlusion device implantation and therefore identified as potential participants in the study.
+
+ Patient-participants will be informed of the trial and given a chance to participate, this may be by face to face and or via invitation letter.
+
+ All patient-participants will be given a copy of the patient information sheet.
+
+ Formal consent to participate in the trial will occur on the morning of the procedure.
+
+ This will avoid repeated visits by patients that may have to travel some considerable distance.
+
+ The study will recruit 20 patients divided into; 10 patients undergoing PFO/ASD occlusion and 10 patients undergoing LAA occlusion.
+
+ EPC will be measured on the day of the device implantation, day 0 and prior to discharge on day 1, then on subsequent follow up appointments on days (3-4) and (7-8).
+
+ Blood samples of 3-5ml will be taken to allow flow cytometric analysis for EPCs.
+
+ Standard follow up for participants may include transesophageal echocardiography (TOE) at 3 months after implantation.
+
+ This will give a direct assessment of device related thrombus.
+
+ Currently TOE is not standard of care in PFO follow up.
+
+ If a TOE result is available for either group the investigators will use the results in our study.
+
+.
+
+ The Effect on EPCs by Successful Cardiac Occlusion Device Implantation@highlight
+
+All patients awaiting to have either a left atrial appendage closure (LAA) or patent foramen ovale (PFO) or Atrial Septal Defect (ASD) closure device as part of standard care will be identified and reviewed in cardiology clinics.
+
+ These patients will be placed on waiting list to undergo the procedure.
+
+ Patient-participants will be consented on the date of admission for device closure implantation.
+
+ The study will recruit 20 patients divided into; 10 patients undergoing PFO/ASD closure and 10 patients undergoing LAA closure.
+
+ EPC will be measured on the day of the device implantation, day 0 and prior to discharge on day 1.
+
+ Patient participants are admitted overnight after the device closure implantation.
+
+ Then on subsequent out patient cardiology research clinic follow appointments on days (3-4) and (7-8).
+

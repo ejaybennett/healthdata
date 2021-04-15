@@ -1,0 +1,38 @@
+(fifthQuint)Psychosomatic Effects of Implantable Cardioverter Defibrillator With Home Monitoring Function (QUANTUM).
+
+ Our study investigates the influence of automatic remote patient monitoring on quality of life (QOL), anxiety and depression in patients with implantable cardioverter-defibrillators (ICDs), and frequency of (un-)scheduled patient-physician contacts.
+
+ The study also evaluates monitoring-induced changes in patient mobility and in patients' perceptions of ICD therapy.
+
+ The patients will receive BIOTRONIK Lexos-T or Lumos-T ICD models, with the integrated Home Monitoring capability.
+
+ The latter allows wireless, everyday transfer of the essential status and therapy data from the ICD memory to a website accessible by the attending physicians.
+
+ The website is managed by BIOTRONIK Home Monitoring Service Center.
+
+ Patients will be randomised into: - Group 1: Home Monitoring is established from the outset.
+
+ - Group 2: Home Monitoring is introduced 9 months after ICD implantation.
+
+ Follow-up for both groups is 18 months.
+
+ Study Hypothesis: Home Monitoring improves the Hospital Anxiety Score in ICD patients.
+
+ Preoperatively, HADS (Hospital Anxiety and Depression Scale), Questionnaire on Type D personality (DS 14), and SF-12 Questionnaire will be applied.
+
+ At follow-up visits every 3 months, HADS, SF-12 Questionnaire, Shock Sensation Questionnaire, number of shocks since preceding follow-up visit, and medications (cardiovascular drugs, psychopharmacological drugs and barbiturates) will be evaluated.
+
+ Home Monitoring ICD Impact Questionnaire will be collected at the final 18-month follow-up.
+
+.
+
+ Psychosomatic Effects of Implantable Cardioverter Defibrillator With Home Monitoring Function (QUANTUM)@highlight
+
+Quality of life (QOL) and psychological well-being of patients with implantable cardioverter-defibrillators (ICDs) are significantly influenced by the experience of shock therapies.
+
+ A close therapeutic relationship between patients and physicians, resulting in short reaction times to ICD-treated arrhythmic events and, in an optimised antiarrhythmic therapy, may help the patients to deal with their situations in the best possible way.
+
+ The researchers investigate the influence of automatic remote patient monitoring on QOL, anxiety, and depression in ICD patients, and kind and frequency of (un-)scheduled patient-physician contacts.
+
+ They also evaluate monitoring-induced changes in patient mobility and in patients' perceptions of ICD therapy.
+

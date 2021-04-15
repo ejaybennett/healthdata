@@ -1,0 +1,16 @@
+(firstQuint)Nicotinamide in the Treatment of Psoriasis.
+
+ Current treatment strategies of psoriasis are not completely satisfactorily.
+
+ By inhibiting inflammatory cytokines, nicotinamide may enhance the effects of current topical treatments.
+
+ Preliminary studies have shown that nicotinamide, which is a vitamin B derivative, is effective in the treatment of psoriasis.
+
+ According to lack of data, we will investigate the beneficial effects of adding nicotinamide to calcipotriol for patients with mild to moderate psoriasis.
+
+.
+
+ Nicotinamide in the Treatment of Psoriasis@highlight
+
+This study will determine if combination of topical calcipotriol and nicotinamide is more effective than calcipotriol alone in treatment of psoriasis.
+

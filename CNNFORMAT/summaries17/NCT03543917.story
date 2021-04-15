@@ -1,0 +1,21 @@
+(thirdQuint)Post-Stroke Improvement of Motor Function.
+
+ Patients with cerebrovascular accidents (CVA), ischemic (including those with hemorrhagic transformation), are given a new combination of medications which aims to improve neuronal survival, stimulate mitochondrial genesis and the formation of new synapses.
+
+ This combination is given as an intravenous perfusion with a 2-hr duration and consists of vitamins B1, B6, B12, C, Actovegin, etc.
+
+ Before treatment a NIHSS score is given.
+
+ Each patient receives 3-4 such perfusions in 1 month and afterwards another NIHSS score is obtained.
+
+ Patients are monitored afterwards and those who show improvements receive more such treatments, and new NIHSS and Barthel scores are obtained.
+
+ Patients are grouped on the basis of the time interval between CVA occurence and first treatment: - Group 1: 0-35 days - Group 2: 36-100 days - Group 3: 101-360 days Improvement of motor function is compared using NIHSS scores between groups, and between literature and groups.
+
+ Post-Stroke Improvement of Motor Function@highlight
+
+Open-label clinical study where all new patients presenting with cerebrovascular accidents and consenting to treatment are given intravenously a new combination of medications.
+
+ Patients are evaluated neurologically with NIHSS scores before treatment administration and at 1 month after the first treatment.
+
+ Further evaluations at 6 months after treatment by NIHSS and Barthel scores are ongoing

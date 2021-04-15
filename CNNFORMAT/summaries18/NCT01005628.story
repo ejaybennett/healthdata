@@ -1,0 +1,16 @@
+(thirdQuint)Bortezomib (Velcade) - Regulatory Post Marketing Surveillance (PMS).
+
+ After the KFDA approval of a new drug, an annual report of the drug's safety and efficacy data must be reported to the Health Authority in 6 years.
+
+ In this Observational study, we will investigate the basic demographic, medical history, concomitant drug use, as well as dosing information of multiple myeloma patients using bortezomib (Velcade).
+
+ We will collect the response rate according to the EMBT (European Group for Blood and Marrow Transplant; a non-profit organization based in the Netherlands that promotes the transplantation of haemopoietic stem cells from all donor sources and donor types and related basic and clinical research, education, standardization, quality control, and accreditation for transplant procedures) or IMWG (the International Myeloma Working Group) criteria and the adverse events to assess the efficacy and safety.
+
+ Observational Study - No investigational drug administered.
+
+ Bortezomib (Velcade) - Regulatory Post Marketing Surveillance (PMS)@highlight
+
+After the KFDA (Korea Food and Drug Administration) approval of a new drug, an annual report of the drug's safety and efficacy data must be reported to the Health Authority in 6 years.
+
+ In this Observational study, we will investigate the basic demographic, medical history, concomitant drug use, as well as dosing information of multiple myeloma patients using bortezomib (Velcade).
+

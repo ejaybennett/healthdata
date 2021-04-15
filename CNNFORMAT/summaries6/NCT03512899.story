@@ -1,0 +1,28 @@
+(thirdQuint)Comparison Between Internal Jugular Vein Versus Axilar Vein for Implantable Ports.
+
+ Prospective and randomized trial comparing internal jugular vein versus via axilar vein with single-incision for placement of implantable ports in cancer patients.
+
+ Investigators are recruiting 240 patients and randomizing 120 for each arm in a single center study at AC Camargo Cancer Center.
+
+ Every surgery is assisted by ultrasound and radioscopic and the catheter is districath(R), 8.
+
+5 French.
+
+ Clinical assessment will be at 10 days and every 3 months after surgery.
+
+ Primary outcome is early complications, until 30 days and secondary outcome late complications, between 30 days and 6 months.
+
+ The follow-up is 12 months.
+
+.
+
+ Comparison Between Internal Jugular Vein Versus Axilar Vein for Implantable Ports@highlight
+
+Comparison between internal jugular vein versus via axilar vein with single-incision for placement of implantable ports in cancer patients.
+
+ Investigators are recruiting 240 patients and randomizing 120 for each arm.
+
+ Primary outcome is early complications, until 30 days and secondary outcome late complications, between 30 days and 6 months.
+
+ The follow-up is 12 months.
+

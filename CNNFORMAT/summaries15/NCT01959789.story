@@ -1,0 +1,23 @@
+(firstQuint)In-office Bleaching With a 2-day Interval Between Sessions: Tooth Sensitivity.
+
+ The in-office bleaching uses 35% hydrogen peroxide gel which is applied in 2 to 3 sessions usually with one week interval between sessions, without a scientific and plausible reason for this recommendation (.
+
+ The aim of this study was to evaluate the tooth sensitivity (TS) risk using a shorter interval between clinical sessions.
+
+ Methods: In this randomized, single-blind study, 40 young patients with color C2 or darker were selected and randomly divided in two groups.
+
+ In the 7-day group, two bleaching sessions with a 35% hydrogen peroxide gel (Whiteness HP Blue Calcium - FGM) were performed with a one-week interval and in the 2-day group, the same protocol was performed but with a 2-day interval.
+
+ TS was recorded on a 0-10 visual analog scale up to 48 h after bleaching.
+
+ The color evaluation was performed at baseline and 30 days after bleaching with a value-oriented shade guide and a spectrophotometer.
+
+ The absolute risk of TS (%) was evaluated by Fishers exact.
+
+ The TS intensity was evaluated by two-way repeated measured ANOVA and color changes (SGU and E) were evaluated by Students t-test (alpha = 5%).
+
+.
+
+ In-office Bleaching With a 2-day Interval Between Sessions: Tooth Sensitivity@highlight
+
+The calcium containing 35% hydrogen peroxide gel employed in this study can be re-applied 2 days after the first bleaching session without increasing the bleaching-induced tooth sensitivity

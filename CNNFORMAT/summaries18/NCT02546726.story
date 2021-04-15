@@ -1,0 +1,46 @@
+(fifthQuint)Heat & Aerobic Training (HEAT) Study.
+
+ Exercise has been associated with enhanced cognitive functioning.
+
+ Several physiological mechanisms of change have been proposed, including increased blood-flow, vascular functioning, and neurological changes.
+
+ Similar outcomes are also associated with partial-body and full-body heat therapy (e.
+
+g.
+
+ steam-room or dry-sauna).
+
+ The purpose of this study is to compare full-body HEAT treatments combined with exercise in a 14-week program to an exercise-only condition.
+
+ The exercise program will involve moderate-intensity aerobic exercise training.
+
+ All participants will also be asked to adhere to the American Heart Association's guidelines for reducing and controlling blood pressure, including increasing physical activity (at least 50 minutes, 3 times/week as part of our supervised training sessions), stopping smoking altogether, eating healthier (limiting sodium, eating fruit, veggies, low-fat dairy and lean protein, and reducing saturated fat and total fat), drinking less alcohol (1-2 drinks a day max) and achieving and maintaining a healthy bodyweight (striving for a body mass index between 18 and 25).
+
+ It is hypothesized that heat treatments combined with exercise will enhance the body's adaptive responses to exercise which in turn, should reduce blood pressure & blood flow, and improve cognitive functioning and related psychosocial outcomes (including anxiety and mindfulness).
+
+ A two-armed (parallel groups design) randomized controlled trial involving heat and aerobic training (HEAT) will be compared with an exercise only (ExOnly) control condition.
+
+ Therefore, the HEAT groups will receive 42 exercise classes each followed by a heat treatment involving 11-20 minutes of steam-room therapy.
+
+ Post-exercise time will be matched in the control condition by having participants sit in the lobby after each session.
+
+ The exercise interventions and assessments will be conducted by trained exercise staff.
+
+ The participants will be assessed at baseline and post-intervention.
+
+ Additionally, brief assessments will be administered at each session (pre and post) and logs will be administered to participants on a weekly basis.
+
+ Assessments will include (a) physical activity & biometric monitoring, (b) performance on neurocognitive tests, (c) endothelial function, (d) a battery of psychosocial questionnaires, and (e) functional performance measures.
+
+.
+
+ Heat & Aerobic Training (HEAT) Study@highlight
+
+This study is intended for inactive, middle-aged adults with untreated pre-hypertension who live in the Urbana-Champaign area, who are interested in a comprehensive program designed to enhance physical activity & reduce blood pressure.
+
+ All participants will be asked to engage in a program developed in accordance with American Heart Association's recommendations.
+
+ Specifically, the program will encourage and support lifestyle behavior changes such as quitting smoking, eating heart-healthy food, and reducing excessive alcohol, in addition to weekly exercise.
+
+ The exercise program will involve a 14-week aerobic training program (3 weekly sessions, scheduled at study participants' convenience), and 2 pre- and 2-post-testing sessions.
+

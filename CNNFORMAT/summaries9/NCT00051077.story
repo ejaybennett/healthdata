@@ -1,0 +1,38 @@
+(secondQuint)Treatment of Hepatitis in Patients Who Are Triple-Infected With HIV, Hepatitis B Virus (HBV), and Hepatitis C Virus (HCV).
+
+ The emergence of liver disease in HIV infected patients with coinfections of HBV and/or HCV has become increasingly important in disease progression in the post-HAART (highly active antiretroviral therapy) era.
+
+ The overall rate of HBV and HCV infection in HIV infected persons is 5% to 10%.
+
+ There is convincing evidence that HIV infection exacerbates the severity of viral hepatitis and the progression of liver disease.
+
+ Hepatitis treatment studies have generally excluded HIV patients with both HBV and HCV.
+
+ As such, the influence of HBV on HCV treatment in HIV infected patients is unknown.
+
+ This study will investigate the safety and anti-HBV efficacy of ADV + PEG-INF + RBV triple therapy in patients with HCV, HIV, and 3TC-resistant HBV.
+
+ The study will also evaluate the effect of HBV and HBV therapy on HCV and HIV disease progression.
+
+ Patients with documented HIV, 3TC-resistant HBV, and HCV will be randomized to one of two treatment regimens for 48 weeks.
+
+ Patients in both groups will receive daily oral RBV and weekly subcutaneous injections of PEG-INF.
+
+ Patients in Group A will receive daily ADV; patients in Group B will receive placebo.
+
+ After 48 weeks of study treatment, all study medications will be discontinued and patients will undergo liver biopsy.
+
+ Patients will then be followed for an additional 24 weeks.
+
+ Throughout the study, investigators will monitor numerous lab values and patients will be asked to complete multiple adherence questionnaires.
+
+ Subjects who have a confirmed 2 point increase in Child-Pugh-Turcotte liver disease prognosis score at any time during the study will permanently discontinue PEG-INF and RBV and register to Step 2 to receive open label ADV.
+
+.
+
+ Treatment of Hepatitis in Patients Who Are Triple-Infected With HIV, Hepatitis B Virus (HBV), and Hepatitis C Virus (HCV)@highlight
+
+This study will investigate the safety and effectiveness of using adefovir dipivoxil (ADV), pegylated interferon (PEG-INF), and ribavirin (RBV) in patients triple-infected with hepatitis B virus (HBV), hepatitis C virus (HCV), and HIV.
+
+ Patients in this study must be taking lamivudine (3TC).
+

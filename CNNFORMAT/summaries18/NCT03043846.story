@@ -1,0 +1,26 @@
+(secondQuint)Treat to Target Trial in Axial Spondylo Arthritis : The TICOSPA (Tight Control in Spondyloarthritis).
+
+ This study is reflecting the usual care either in accordance to the treating rheumatologist (arm: usual care) or in accordance to the international scientific recommendations (arm: T2T) The tight control means that as soon as a treatment is initiated in a patient, the time permitting to evaluate its potential efficacy/safety has to be determined.
+
+ In terms of safety, such time frame can be very short based on the occurrence of adverse events.
+
+ In terms of efficacy it is usually recommended to evaluate an NSAIDs after 2 to 4 weeks of treatment intake and the TNF blockers after 12 to 16 weeks.
+
+ The Treat to Target means that there is an a priori decision of the target to reach while initiating a treatment and more importantly an a priori decision to intensify the treatment in case such target is not achieved.
+
+ There will be 2 arms in the study (tight control and treat to target arm and usual care arm).
+
+ 160 patients (80 patients per arm) will be included during one year by 18 centers (10 in France, 4 in Belgium and 4 in Netherlands).
+
+ Patients will be followed during 1 year.
+
+.
+
+ Treat to Target Trial in Axial Spondylo Arthritis : The TICOSPA (Tight Control in Spondyloarthritis)@highlight
+
+This is a not interventional, pragmatic, prospective, randomized (cluster) study to evaluate the potential benefit of a Treat to Target approach in comparison to routine treatment (i.
+
+e.
+
+ usual care) in patients with axial spondyloarthritis.
+

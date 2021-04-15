@@ -1,0 +1,30 @@
+(fifthQuint)Electronic Cigarettes in Daily Dependent Smokers.
+
+ Many addiction models postulate stimuli to be linked with nicotine intake and reward after prolonged use.
+
+ As such, smoking becomes more heavily based in habit, initiated by cues.
+
+ Craving has been found to be a crucial component of continued smoking and relapse in response to various environmental and behavioral cues.
+
+ Electronic Cigarettes (e-Cigarettes) are new smoking products emerging in consumer markets that often mimic conventional tobacco cigarettes.
+
+ E-Cigarettes commonly include a cartridge, a heating element, a puff sensor, and a battery.
+
+ When a user draws on the device, the heating element is activated and the cartridge fluid is vaporized.
+
+ Users then inhale the aerosol containing droplets of the vaporized fluid.
+
+ This study will empirically assess the efficacy of e-Cigarettes in alleviating craving by replacing the behavioral component of smoking.
+
+ Using standardized questionnaires, intra-subject changes in cue- and withdrawal-induced craving after smoking an e-Cigarette without nicotine will be compared with that after either smoking a conventional cigarette, an e-Cigarette with nicotine, or taking a 4mg lozenge.
+
+.
+
+ Electronic Cigarettes in Daily Dependent Smokers@highlight
+
+The aim of this study is to measure nicotine cue- and withdrawal-induced craving in current smokers under four distinct conditions: after smoking a conventional cigarette, an electronic cigarette (e-Cigarette) containing nicotine, an e-Cigarette without nicotine, and after taking a nicotine lozenge.
+
+ Participants will be asked to attend four morning study visits after overnight smoking abstinence.
+
+ Standardized questionnaires will be used to assess changes under each condition, allowing for the investigation of the efficacy of e-Cigarettes in reducing craving by replacing the behavioral component of smoking with minimal risk of adverse effects.
+

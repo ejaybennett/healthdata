@@ -1,0 +1,18 @@
+(secondQuint)Metabolic Syndrome of Occupational Drivers.
+
+ Occupational drivers' health is essential for passengers' safety.
+
+ However, occupational drivers' health is damaged by long-term sitting and driving, lack of exercise, stress from traffic, and irregular diet.
+
+ The objectives of this study were to assess the health status of occupational drivers in Taiwan.
+
+ The measures included blood pressure, central obesity, fasting blood sugar, triglyceride, body mass index (BMI), anxiety scale scores, and metabolic syndrome, etc.
+
+.
+
+ Metabolic Syndrome of Occupational Drivers@highlight
+
+The purpose of this study is to discover the health status of occupational drivers.
+
+ The health status includes data collection of body mass index, blood pressure, central obesity, anxiety scale scores, smoking habit and related cessation therapy, etc.
+

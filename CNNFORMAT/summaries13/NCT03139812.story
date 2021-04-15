@@ -1,0 +1,14 @@
+(secondQuint)Daily Irrigation With Silicone Hydrogel Contact Lens Continuous Wear.
+
+ The purpose of this study was to determine whether daily irrigation with sterile saline solution during silicone hydrogel (SiH) contact lens 30-day continuous wear (CW) can mitigate increases in corneal epithelial permeability (Pdc) and reduce the risk of mechanical, contact lens-induced, inflammatory, and overall adverse events.
+
+ 161 non-contact lens wearers were fit with SiH contact lenses and randomized to either a treatment (n = 81) or control (n = 80) group for 30-day CW.
+
+ Subjects in the treatment group irrigated every morning and whenever dryness symptoms occurred; subjects in the control group did not.
+
+.
+
+ Daily Irrigation With Silicone Hydrogel Contact Lens Continuous Wear@highlight
+
+This study sought to determine whether daily irrigation with sterile saline solution during silicone hydrogel (SiH) contact lens continuous wear (CW) could improve ocular surface integrity and reduce the risk of adverse events.
+

@@ -1,0 +1,62 @@
+(fifthQuint)Effect of Physical Activity and Diet on the Treatment of Metabolic Syndrome.
+
+ The protocol is designed to determine which type of physical activity is the best to reduce metabolic syndrome parameters especially abdominal circumference.
+
+ 90 Metabolic syndrome (MS) Patients will be recruited by advertising and checked for MS criteria.
+
+ They will have a VO2max test in order to be sure they can perform physical activities safely.
+
+ After being checked, patients will have an eight day period to think about participation and to ask questions before signing consent.
+
+ They have to feel 3 questionnaires, one about regular physical activities, one about food intakes and a psychology one to measure reluctance to the program.
+
+ After written informed consent obtained, patients will be randomly assigned to one of 3 groups of physical activity Group 1 will perform mostly resistance activities, group 2 mostly endurance activities, and group 3 performing both activities at low level, serves as a control group for physical activities and also to determine the importance of food reduction and food equilibrium in the treatment.
+
+ All subjects will have the same restrictive diet (500- 700 kcal/d).
+
+ They will be followed for one year (at 3, 6 and 12 month), continuing at home the same program (diet and exercise training).
+
+ 30 healthy subjects will be recruited for cross-sectional comparison (They will not follow any intervention, but will have the same investigation, only once).
+
+ Measured parameters Before and after the 3-week program and at 3, 6 and 12 months, the following measurements will be made Level of physical activities quantifying heart rate in each activity during the training 3 weeks and estimated thereafter on the same parameter.
+
+ Physical capacities With the 6 minute walking test, Food intake and equilibrium measured by full week records before training, during training and monthly thereafter.
+
+ They will be quantified by a trained dietician using the reference French Cidal tables.
+
+ Metabolic syndrome factors Body composition including weight, height, abdominal circumference, total and torcular lean and total and abdominal fat mass measured by DXA Cardiac diastolic and systolic functions by means of standard, Tissue Doppler imaging and 2D-strain echocardiogram Vascular structure function in conduit and resistance arteries and microvascular reactivity Biological parameters with glycemic control : insulinemia and glaced haemoglobin Inflammatory syndrome and related cytokines: CRP, 1GPA, IL-6, TNF-, Il-12 and IL-10 blood protein: Albumine and transthyretin Appetite hormone: Leptine, adiponectin, Gremlin and CCK osteocalcin, BASP and CTx Statical analysis Subject numbers were calculated from the results of a pilot.
+
+ A statistical significance (p=0,05) may be reached with 22 subjects in group 1 and 2 for a difference of 0,6 kg of abdominal fat mass.
+
+ For cross-sectional comparison, healthy and MS subjects will be compared by unpaired Student test.
+
+ The 3 groups of patients will be compared using a repeated measure ANOVA.
+
+ If positive, a post-hoc test for mean comparison will be performed.
+
+ A correlation matrix will analyse relationships between studied parameters.
+
+ A principal component analysis will allow to determine the reciprocal weight of positive explicating factors.
+
+ The study is done applying French and international regulations.
+
+ Effect of Physical Activity and Diet on the Treatment of Metabolic Syndrome@highlight
+
+Metabolic syndrome has been defined as a group of associated risk factors for cardio-vascular diseases and diabetes.
+
+ It is usually treated with an association of restrictive diet, physical exercise and drugs.
+
+ Nevertheless the type of exercise associated to reduction in cardio-vascular risks is not yet fully defined.
+
+ Long term effects of such hygienic-diet programs are of great importance since it is well-known that compliance to such treatment are of short duration, namely when subjects return in routine life.
+
+ Metabolic syndrome volunteer subjects (n=90), aged 50 to 70 yrs will be randomly assigned to 3 groups of investigation.
+
+One group will perform mostly resistance activity, a second mainly endurance activity and the third one will be composed of subjects not exercising a lot.
+
+ All subjects will have the same restrictive diet (500-700 kcal/d) After the initial training (3 weeks), they will return home with diet and physical program advises (personal compliance).
+
+ They will be followed for one year (at 3, 6 and 12 months) Such a design may allow to find out the type of activity and power that are the best to reduce metabolic syndrome parameters and cardio-vascular risk factors.
+
+ The primary outcome variable is the reduction in abdominal circumference, which is the main criteria of MS.
+

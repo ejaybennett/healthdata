@@ -1,0 +1,18 @@
+(thirdQuint)Effect of Ezetimibe or Simvastatin or Both on Low Densitiy Lipoprotein -Subfractions in Patients With Type 2 Diabetes.
+
+ The selective cholesterol resorption inhibitor ezetimibe belongs to a new class of cholesterol lowering drugs.
+
+ It is of interest how ezetimibe alone or in combination with statin may influence atherogenic dense Low Density Lipoprotein (dLDL) in patients with type 2 diabetes mellitus.
+
+ The primary objective of this study will be whether there is a change of the concentrations of Apolipoprotein B (ApoB) in dLDL from baseline in each of the 3 treatment groups.
+
+ The comparison between treatment groups is exploratory due to insufficient power to detect any change between treatments.
+
+.
+
+ Effect of Ezetimibe or Simvastatin or Both on Low Densitiy Lipoprotein -Subfractions in Patients With Type 2 Diabetes@highlight
+
+It is of interest how ezetimibe alone or in combination with statin may influence atherogenic dense Low Density Lipoprotein (dLDL) in patients with type 2 diabetes mellitus.
+
+ The primary objective of this study will be whether there is a change of the concentrations of Apolipoprotein B (ApoB) in dLDL from baseline in each of the 3 treatment groups.
+

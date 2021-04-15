@@ -1,0 +1,34 @@
+(thirdQuint)Exercise in Patients With Glioblastoma.
+
+ Background: Glioblastoma (GBM) is the most common malignant glioma in adults, with a very poor prognosis, limited new treatment options, and neurological sequelae, including physical and cognitive decline that adversely affect quality of life (QOL).
+
+ Physical activity may be an intervention that attenuates the cognitive and physical decline associated with GBM.
+
+ However, few studies examine physical activity in brain tumor patients, perhaps due to challenges in trial design, measuring outcomes, and complexity of care.
+
+ Aims of this work are to develop and implement an individualized exercise intervention for GBM patients to support functional independence, and to delay tumor progression and cognitive decline.
+
+ Methods: GBM patients scheduled to be treated with concurrent radiation and chemotherapy will be recruited from the neuro-oncology clinic at the Princess Margaret Cancer Centre.
+
+ Participants will receive an individualized, home-based exercise program that includes aerobic and resistance training, tailored to prior level of fitness, current physical status, and individual interests.
+
+ They will undergo 1-hr standardized, validated assessments of physical and neurocognitive functions, mood, fatigue, and QOL, prior to radiation, and then 3, 6, 12, and 18 months later.
+
+ Significance: Identifying interventions that preserve or improve mobility and cognitive function will enhance QOL and may lengthen progression-free survival in brain tumor patients.
+
+ Moreover, finding ways to help patients maintain self-care will lessen the strain on the health care system (e.
+
+g.
+
+, fewer hospitalizations, delayed utilization of palliative care hospice).
+
+.
+
+ Exercise in Patients With Glioblastoma@highlight
+
+Patients with newly-diagnosed GBM will be given personalized exercise regimes during concurrent chemo-radiation and up to 3 months later.
+
+ Study aims are to investigate the feasibility and preliminary efficacy of the exercise program on progression free survival.
+
+ Secondary outcomes of interest include cognition, fatigue, and quality of life.
+

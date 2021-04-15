@@ -1,0 +1,18 @@
+(firstQuint)Lower Limb Flexibility in Duchenne Muscular Dystrophy: Effects on Functional Performance.
+
+ Thirty children whose functional levels were in 1 or 2 according to the Brooke Lower Extremity Functional Classification Scale were included in the study.
+
+ Flexibilities of hamstrings, hip flexors, tensor fascia latae, and gastrocnemius muscles were evaluated in dominant lower limb.
+
+ Popliteal angle test, hip flexor flexibility test, tensor fascia latae flexibility test and gastrocnemius flexibility test were used for flexibility asssessments.
+
+ Functional performance was assessed with 6 Minute Walk Test (6 MWT) and Timed Performance Tests.
+
+ The correlation between the flexibility of lower limb muscles' and performance tests were examined.
+
+.
+
+ Lower Limb Flexibility in Duchenne Muscular Dystrophy: Effects on Functional Performance@highlight
+
+The investigator investigated the effect of lower limb flexibility on functional performance of children with Duchenne Muscular Dystrophy.
+

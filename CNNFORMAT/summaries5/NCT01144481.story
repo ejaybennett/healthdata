@@ -1,0 +1,54 @@
+(fifthQuint)Risk Factors for Skeletal Related Events in Breast Cancer Patients Receiving Bisphosphonates for Bone Metastases.
+
+ Bone is the most common site of distant breast cancer recurrence, and 65-75% of women with advanced breast cancer will develop bone metastases during the course of their disease.
+
+ Bone metastases can significantly adversely impact on quality of life by causing pain and skeletal related events (SREs) such as pathological fractures, surgery/radiotherapy for pain/prevention of fractures, hypercalcemia, and spinal cord compression.
+
+ These complications of bone metastases may necessitate multiple medical, surgical, and radiation interventions.
+
+ Indeed, prior to the widespread use of bisphosphonates, over two thirds (2/3) of women with bone metastases developed at least one SRE.
+
+ Despite prolonged bisphosphonate use, many patients will continue to have progression of their bone metastases and develop SREs.
+
+ The most pressing problem in management of bony metastases today, is the inability to reliably identify patients at high risk for SREs despite standard bisphosphonate use.
+
+ Using a prospective, observational trial design, we will develop a prognostic model with baseline serum C-telopeptide (sCTx) as the predictor variable and SREs as the outcome variable.
+
+ 60 breast cancer patients with metastases to any site will be approached for participation in this prospective single centered study.
+
+ Baseline characteristics (and potential risk factors) will be recorded upon study enrollment, including clinical factors (prior fragility fracture, use of corticosteroids, age), bone mineral density, performance status, measures of quality of life and pain.
+
+ Novel markers such as sCTx and bone specific alkaline phosphatase (bALP) will also be assessed.
+
+ The WHO fracture risk assessment tool (http://www.
+
+shef.
+
+ac.
+
+uk) will be used to estimate baseline fracture risk according to osteoporosis guidelines and a calcium intake diet history will be taken.
+
+ In addition, assessment of vertebral fractures will take place using two novel techniques, bone densitometric vertebral fracture assessment (VFA) and high resolution quantitative CT (HR-pQCT).
+
+ Bone mineral density along with VFA will be performed at baseline and at one year of treatment.
+
+ Patients will be assessed every twelve weeks for twenty-four months with regards to: symptoms related to SREs, ECOG status, pain (using the BPI, a 7-point scale of analgesic use), and quality of life (using the FACT-BP, and FACT-BTSQ).
+
+ In addition to being measured at baseline, sCTx and bALP will be measured every twelve weeks for twenty-four months.
+
+ Calcium and 25-hydroxy vitamin D will be measured annually as part of regular clinical practice, and a CT scan of the thorax and abdomen as well as a bone scan will be preformed at least once yearly as part of regular clinical practice for patients with metastatic breast cancer.
+
+ Using the latest innovations both in imaging and medical biomarkers, this novel pilot project will develop a prospective risk model for predicting bone metastases, which will be able to identify patients who would most benefit from novel treatments, such as the multikinase inhibitor Zactima and the Src inhibitor, AZD0530.
+
+.
+
+ Risk Factors for Skeletal Related Events in Breast Cancer Patients Receiving Bisphosphonates for Bone Metastases@highlight
+
+Bone is the most common site of distant breast cancer recurrence, and 65-75% of women with advanced breast cancer will develop bone metastases during the course of their disease.
+
+ The most pressing problem in management of bony metastases today, is the inability to reliably identify patients at high risk for skeletal related events (SREs) (such as bone fractures, surgery/radiotherapy for pain or prevention of fractures, high calcium levels, and spinal cord compression) despite the standard use of bone medication (bisphosphonates).
+
+ Using the latest innovations both in imaging and blood tests, this novel pilot project will develop a risk model for predicting bone metastases, which will be able to identify patients who would most benefit from novel treatments, such as the multikinase inhibitor Zactima and the Src inhibitor, AZD0530.
+
+ Given that approximately 1/3 of patients with metastatic breast cancer and bony disease will sustain an SRE despite use of a bisphosphonate, there is an urgent unmet need in this large population to introduce effective bone protective agents.
+

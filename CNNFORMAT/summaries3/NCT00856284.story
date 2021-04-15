@@ -1,0 +1,18 @@
+(firstQuint)Efficacy and Safety of Alogliptin Plus Metformin Compared to Glipizide Plus Metformin in Patients With Type 2 Diabetes Mellitus.
+
+ For patients diagnosed with type 2 diabetes mellitus, metformin is the usual first-line therapy in addition to diet control and exercise.
+
+ For those patients with inadequate glycemic control with metformin monotherapy or experiencing serious side effects of metformin, sulfonylurea is a popular choice as a second-line oral antidiabetic treatment.
+
+ Alogliptin is a dipeptidyl peptidase-4 inhibitor currently being developed by Takeda for use in patients with type 2 diabetes mellitus.
+
+ This study is designed to further explore the durability of efficacy and safety of alogliptin compared to glipizide in type 2 diabetes mellitus patients whose blood sugar level is inadequately controlled with metformin therapy.
+
+ The duration of this study will be approximately 2 years.
+
+.
+
+ Efficacy and Safety of Alogliptin Plus Metformin Compared to Glipizide Plus Metformin in Patients With Type 2 Diabetes Mellitus@highlight
+
+The purpose of this study is to determine the safety and effectiveness of adding alogliptin, once daily (QD), compared to glipizide with metformin in diabetic patients.
+

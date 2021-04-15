@@ -1,0 +1,22 @@
+(secondQuint)Evaluation of the High Dose Vitamin D3 Supplementation Effect and Influence of Polymorphism VDR Gene on Oxidative Stress and Inflammatory Process in Elderly.
+
+ The high prevalence of hypovitaminosis D in the elderly can be identified as a risk factor for developing cardiovascular disease and consequent increase in oxidative stress and chronic inflammation.
+
+ Polymorphisms in the gene that encodes the vitamin D receptor (VDR) can influence the cellular responses supplementation of vitamin D.
+
+ The study objective is to evaluate the influence of supplementation of 200,000 in a single high dose of vitamin D3 in the inflammatory status and oxidative stress elderly and the influence of polymorphism of the VDR gene in this response.
+
+ One randomized, placebo-controlled clinical trial, designed with non-institutionalized elderly in northeastern Brazil will be held.
+
+ All volunteers will sign the Instrument of Consent and will undergo clinical, nutritional, anthropometric and biochemical evaluation.
+
+ The purpose is to produce new knowledge helping to unravel the beneficial effects of vitamin D3.
+
+.
+
+ Evaluation of the High Dose Vitamin D3 Supplementation Effect and Influence of Polymorphism VDR Gene on Oxidative Stress and Inflammatory Process in Elderly@highlight
+
+A vitamin D3 high dose would act as an antioxidant and anti-inflammatory improving markers of oxidative stress and inflammation in the elderly.
+
+ Seniors exhibiting polymorphism in the VDR gene would become non-responsive to supplementation.
+

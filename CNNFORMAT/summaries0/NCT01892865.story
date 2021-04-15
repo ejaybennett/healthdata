@@ -1,0 +1,14 @@
+(firstQuint)Use of Predictive Modeling to Improve Operating Room Scheduling Efficiency.
+
+ The goal of the proposed study is to address the efficacy of a scheduling methodology that uses a regression-based predictive modeling system (PMS) to calculate operative and anesthetic time length.
+
+ The investigators hypothesize that compared to the traditional scheduling system (TSS) that calculate operative length using historic means, case allocation in an operating room using the PMS will improve scheduling precision, increase operative volume and increase Operative Suite (OS) personnel satisfaction, without having adverse impact on patient outcomes.
+
+ The investigators will evaluate this hypothesis using a randomized block design in two operating rooms of a single surgical specialty for a total of 100 operative days per arm.
+
+.
+
+ Use of Predictive Modeling to Improve Operating Room Scheduling Efficiency@highlight
+
+This study compares two different methodologies of scheduling cases in the operating room.
+

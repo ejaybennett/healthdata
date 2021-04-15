@@ -1,0 +1,28 @@
+(thirdQuint)The Effect of High Intensity Interval Training on Cardiovascular Fitness in People With Progressive Multiple Sclerosis.
+
+.
+
+ This is a pilot trial to explore the cardiovascular of eight weeks of twice weekly high intensity interval training in people with progressive multiple sclerosis.
+
+ A control group of people with progressive multiple sclerosis will undergo continuous moderate intensity exercise, twice weekly for 8 weeks.
+
+ The training program will entail 6x1.
+
+5 minute intervals working at 80-95% heart rate max on a cycle ergometer.
+
+ Each interval will be interspersed with 1.
+
+5 minutes of working rest at a light resistance of the participant's choosing.
+
+ The continuous moderate intensity exercise program will entail 20 minutes on a cycle ergometer working at 60-70% heart rate max.
+
+.
+
+ The Effect of High Intensity Interval Training on Cardiovascular Fitness in People With Progressive Multiple Sclerosis.
+
+@highlight
+
+This is a pilot trial to explore the cardiovascular of eight weeks of twice weekly high intensity interval training in people with progressive multiple sclerosis.
+
+ A control group of people with progressive multiple sclerosis will undergo continuous moderate intensity exercise, twice weekly for 8 weeks.
+

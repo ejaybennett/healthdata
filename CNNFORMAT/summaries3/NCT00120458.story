@@ -1,0 +1,26 @@
+(secondQuint)Black Cohosh as Alternative Therapy for Treating Menopause-Related Anxiety.
+
+ During menopause, up to 90% of women will experience symptoms of anxiety, such as nervousness, irritability, fatigue, muscle aches, depression, and low libido.
+
+ Concern over the safety and effectiveness of hormone replacement therapy for relieving these symptoms has caused many women to seek alternative medical treatments.
+
+ Data suggest that black cohosh has a direct effect on the neurotransmitters and receptors involved in anxiety.
+
+ This study will determine whether black cohosh can effectively treat anxiety symptoms in menopausal women.
+
+ This study will last 12 weeks.
+
+ Participants will be randomly assigned to receive either black cohosh or placebo daily for the duration of the study.
+
+ Self-report scales will be used to assess participants' anxiety symptoms and quality of life at the beginning and end of the study.
+
+.
+
+ Black Cohosh as Alternative Therapy for Treating Menopause-Related Anxiety@highlight
+
+This study will determine the effectiveness of the herb black cohosh for treating menopause-related anxiety symptoms in women.
+
+ Study hypotheses: 1) Black cohosh will have a superior anti-anxiety effect compared to placebo.
+
+ 2) Black cohosh will have a comparable safety profile to that of placebo.
+

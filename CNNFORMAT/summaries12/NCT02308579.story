@@ -1,0 +1,30 @@
+(secondQuint)Centralized Reading Assessment of Chronic CerebroSpinal Venous Insufficiency (CCSVI) in Patients With Multiple Sclerosis and Other Neurological Diseases.
+
+ This study will retrospectively investigate doppler images from the second phase of the CTEVD trial.
+
+ 1.
+
+ To determine the prevalence of CCSVI in patients with MS, compared with the prevalence observed in a control population consisting of Other Neurological Diseases (OND) patients and Healthy Controls (HC) by using blinded, controlled centralized ultrasound reading assessment of 5 Venous Haemodynamic (VH) CCSVI CCSVI Doppler UltraSound (CDUS) criteria.
+
+ 2.
+
+ To investigate whether prevalence of CCSVI is different between centralized and local CDUS reading of 5 VH CCSVI CDUS criteria.
+
+ 3.
+
+ To investigate the prevalence of CCSVI in patients with MS, compared with the prevalence observed in a control population consisting of OND patients and HC, when bidirectional flow in the intracranial veins and sinuses CDUS criterion is not considered as part of VH CCSVI CDUS criteria.
+
+ 4.
+
+ To determine whether prevalence of CCSVI in patients with MS, compared with the prevalence observed in a control population consisting of OND patients and HC differs when using CDUS velocity and flow parameters in the Internal Jugular Veins (IJVs) and Vertebral Veins (VVs).
+
+ 5.
+
+ To determine the reproducibility of VH criteria by using of centralized and local blinded, controlled CDUS reading assessment.
+
+.
+
+ Centralized Reading Assessment of Chronic CerebroSpinal Venous Insufficiency (CCSVI) in Patients With Multiple Sclerosis and Other Neurological Diseases@highlight
+
+This a retrospective, blinded trial in which collaborators in Italy will review the doppler findings from the Combined Transcranial and Extracranial Venous Doppler (CTEVD) trial in an attempt to measure reproducibility.
+

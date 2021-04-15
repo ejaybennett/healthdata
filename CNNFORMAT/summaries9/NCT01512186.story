@@ -1,0 +1,28 @@
+(secondQuint)A Phase II Study Investigating Upfront Pazopanib In Metastatic Renal Cancer Renal Cancer (Panther).
+
+ This is a Phase II, open label study evaluating pre-operative pazopanib treatment in previously untreated patients with metastatic clear cell renal cancer.
+
+ This study follows a Simon 2 stage design Patients will take pazopanib for 14 weeks followed by a nephrectomy.
+
+ The drug will continue after nephrectomy until disease progression is documented.
+
+ Patients will come off study once disease progression occurs, where they will then be followed for survival.
+
+ Subsequent treatment at the discretion of the treating physician will be documented.
+
+ After surgery, all patients will be radiologically evaluated 8 weekly until progression.
+
+ Standard radical nephrectomy with lymph node dissection will be performed on those patients who are deemed operable.
+
+ The surgery can be laparoscopic or open.
+
+ Those not deemed suitable for nephrectomy after 14 weeks of treatment will be offered a repeat biopsy.
+
+.
+
+ A Phase II Study Investigating Upfront Pazopanib In Metastatic Renal Cancer Renal Cancer (Panther)@highlight
+
+The purpose of this study is to investigate if 14 weeks of pazopanib therapy prior to surgery (nephrectomy) is of benefit to patients with metastatic renal cancer.
+
+ Ninety-five patients will be recruited into his study.
+

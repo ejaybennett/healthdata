@@ -1,0 +1,26 @@
+(firstQuint)Dose Defining Study for the Administration of Vitamin K2 Supplements in Hemodialysis Patients.
+
+ During the past few years evidence is emerging for a role of Matrix Gla Protein (MGP) as one of the most powerful inhibitors of vascular calcification (Shurgers LJ et al.
+
+ Thromb Haemost 2008; 100: 593-603).
+
+ MGP is a Vitamin K dependent protein.
+
+ This means that he presence of Vitamin K2 is required to promote the gamma-carboxylation process turning MGP in its carboxylated and active form.
+
+ Recent data show that dp-uc MGP correlates well with Vitamin K status (Cranenburg CM et al.
+
+ Thrombosis and Haemostasis 2010; 104/4: 811-822).
+
+ It is widely recognized that patients with renal insufficiency treated with hemodialysis are prone to accelerated vascular calcification resulting in excess cardiovascular morbidity and mortality (Goodman WG et al.
+
+ N Engl J Med 2000; 342: 1478-1483).
+
+ Consequently, the administration of Vitamin K2 supplements may protect hemodialysis patients against accelerated vascular calcification by enhancing the gamma-carboxylation process of MGP.
+
+ However, the optimal dose of Vitamin K2 required to achieve these results remains to be defined.
+
+ Dose Defining Study for the Administration of Vitamin K2 Supplements in Hemodialysis Patients@highlight
+
+This study aims at finding the optimal dose of Vitamin K2 supplementation in hemodialysis patients.
+

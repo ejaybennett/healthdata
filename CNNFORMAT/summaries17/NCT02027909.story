@@ -1,0 +1,20 @@
+(thirdQuint)A Comparison of Rate Response Performance in Pacemaker Patients With an Indication of Sinus Node Dysfunction.
+
+ Medtronic pacemakers provide rate response pacing by utilizing dual zone programming to specify an "activities of daily living" (ADL) response rate and an "exertion" response rate.
+
+ There is much data to support the target heart rate for an exercise response but the data to support the programming of the ADL rate is lacking.
+
+ Unpublished Holter data from our center indicates that the ADL rate for most patients in our practice is between 50-70bpm rather than 95bpm.
+
+ Moreover, this increased ADL rate may impact diastolic filling times and adversely impact cardiac output.
+
+.
+
+ A Comparison of Rate Response Performance in Pacemaker Patients With an Indication of Sinus Node Dysfunction@highlight
+
+Providing ideal rate response to patients should improve their quality of life and ability to execute activities of daily living.
+
+ Medtronic pacemakers provide rate response pacing by utilizing dual zone programming to specify an "activities of daily living" (ADL) response rate and an "exertion" response rate.
+
+ There is much data to support the target heart rate for an exercise response but the data to support the programming of the ADL rate is lacking.
+

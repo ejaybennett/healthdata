@@ -1,0 +1,62 @@
+(fifthQuint)Atrial Fibrillation and Premature Atrial Complexes in Patients With Ischemic Stroke.
+
+.
+
+ Patients with atrial fibrillation (AF) have a five-fold increased risk of ischemic stroke compared to the general population.
+
+ Identifying AF can be challenging, but prolonged rhythm monitoring of ischemic stroke patients have shown to enhance detection rates of AF.
+
+ Therefore it is important to identify predictors of AF to allow targeted screening of patients after ischemic stroke and thereby reduce the recurrent stroke rate.
+
+ Few former studies have shown an association between excessive numbers of premature atrial complexes (PACs) and AF.
+
+ The study population of ischemic stroke patients will at admission undergo following examinations: 1.
+
+ ECG 2.
+
+ 48 hours inpatient cardiac telemetry (If not known AF) 3.
+
+ 24 hours holter monitoring (if not known AF) 4.
+
+ echocardiogram 5.
+
+ blood sample 6.
+
+ CT scan of carotid arteries with contrast made on Dual Energy CT scan.
+
+ In the follow-up period, patients will have two visits with 48 hour holter monitoring (after 6 and 12 months, respectively) It will be noticed if patients have any recurrent events, die og developing AF.
+
+ The study population will be divided into four groups as follows: 1.
+
+ patients with new AF at admission 2.
+
+ patients with known AF 3.
+
+ patients with frequent PACs 4.
+
+ patients without frequent PACs.
+
+ These groups will be compared on baseline characteristics and on outcome as mentioned.
+
+ The overall perspective is to make better strategies for detecting occult AF after ischemic stroke to improve secondary stroke prevention care.
+
+.
+
+ Atrial Fibrillation and Premature Atrial Complexes in Patients With Ischemic Stroke.
+
+@highlight
+
+The purpose of this study is to improve secondary prevention of ischemic stroke patients by 1.
+
+ Estimating prevalence and the prognostic significance of frequent premature atrial complexes in ischemic stroke patients in relation to death, recurrent stroke and atrial fibrillation.
+
+ 2.
+
+ Characterize ischemic stroke patients by 1.
+
+ Echocardiographic characteristics 2.
+
+ Biochemical markers 3.
+
+ Plaque composition in the carotid arteries - in order to improve risk stratification.
+

@@ -1,0 +1,44 @@
+(fifthQuint)Passive Mobilization and Vascular Function.
+
+ Normally, cardiovascular function declines with age.
+
+ Furthermore, cardiovascular function declines with immobility, promoting other adverse effects such as postural hypotension, impaired cardiac function, and thrombogenic events.
+
+ Bed rest, a condition normally used in the management of many chronic pathologies in elderly people, leads to significant functional decline, reduction in physiologic reserve of most of the organ systems, including further cardiovascular decline.
+
+ Fortunately, several studies have suggested interventions that may counteract immobility-induced cardiovascular dysfunction and ensure beneficial adaptations in the aging population.
+
+ For example, passive mobilization of the limbs has been shown to improve cardiovascular function in bedridden oldest-old.
+
+ However, the effect of passive mobilization on NO-mediated endothelial function have not been studied yet.
+
+ Thus, the main aim of the study is to determine whether passive mobilization is an effective strategy to counteract endothelial dysfunction in bedridden oldest-old.
+
+ For this purpose, bedridden individuals will be recruited and randomly assigned to two groups: one group will undergo passive mobilization treatment (PM) in addition to standard therapies, the other group (CTRL) will undergo standard therapies only.
+
+ On the basis of preliminary data on a subgroup of ten participants, a sample of eighteen individuals will be allocated in each group so to reach a statistical power >0.
+
+80 and an alpha <0.
+
+05.
+
+ The PM treatment will include knee flexion-extension and it will be performed for 30 minutes, 2 times a day, 5 days a week for 4 weeks.
+
+ Before, after the 4-week treatment, and 1 month after the end of the treatment NO-mediated endothelial function of all participants will be evaluated by means of flow-mediated dilation and passive limb movement tests.
+
+.
+
+ Passive Mobilization and Vascular Function@highlight
+
+With aging, vascular function (VF) declines.
+
+ Inactivity and sedentary life style have been shown to contribute to the worsening of VF.
+
+ Furthermore, bed rest, a condition commonly used for the management of many chronic conditions, has been proven to lead to even more deleterious consequences, including VF decline.
+
+ This study evaluates the effect of passive mobilization of the lower limbs on VF in bedridden oldest-old.
+
+ Half of the participants will undergo passive mobilization treatment in addition to standard therapies, while the other half will receive only standard therapies.
+
+ We hypothesize that passive mobilization may improve nitric oxide (NO)-mediated endothelial function.
+

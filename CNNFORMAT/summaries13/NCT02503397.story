@@ -1,0 +1,30 @@
+(secondQuint)Latent Iron Deficiency at Birth Influences Auditory Neural Maturation in Late Preterm and Term Infants.
+
+ Iron is an essential nutrient for brain development.
+
+ During early human development, iron is required for multiple neurodevelopmental processes.
+
+ To meet the iron requirements of a developing brain, active transfer of iron occurs across the placenta during the last trimester of pregnancy and therefore most term infants have iron replete status at birth.
+
+ However, maternal iron deficiency during pregnancy, a global health problem, can negatively affect the fetal iron status.
+
+ In addition, prematurity, maternal diabetes mellitus, preeclampsia, maternal smoking, and intrauterine growth restriction during pregnancy have also been associated with decreased iron transfer to the fetus often leading to in utero iron deficiency.
+
+ Cord serum ferritin (SF) level at birth provides a good measurement of fetal tissue iron storage concentration and is therefore often used to evaluate in utero iron status.
+
+ The absolute and interpeak latencies on auditory brainstem evoked response (ABR) are often used as surrogate outcome measures for neural maturation in the neonates.
+
+ The absolute latencies for each of these ABR waves and the interpeak latencies (IPL, I-III, III-V, and I-V) are influenced by the degree of myelination, neuronal development, synaptic function, and axonal growth in the auditory nervous system.
+
+ The absolute latencies and IPL decrease as the auditory neural system matures with age in neonates.
+
+ Although iron is essential for auditory neural maturation during the perinatal period, there is a paucity of data regarding the concomitant effect of in utero iron deficiency on auditory neural maturation in late preterm and term infants.
+
+ The present prospective study is planned with an objective to determine the association of in utero iron deficiency as evaluated by cord ferritin with auditory neural maturation at birth in 34 weeks GA infants.
+
+.
+
+ Latent Iron Deficiency at Birth Influences Auditory Neural Maturation in Late Preterm and Term Infants@highlight
+
+This study evaluates auditory neural maturation by auditory brainstem evoked response in late preterm and term infants with in utero iron deficiency compared with neonates with normal in utero iron status.
+

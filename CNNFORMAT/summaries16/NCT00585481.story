@@ -1,0 +1,28 @@
+(firstQuint)Incidence of Severe Respiratory Syncytial Virus Infections in Preterm Brazilian Children.
+
+ This is an epidemiologic study of the incidence of severe RSV LRTI among Brazilian children born <35WGA.
+
+ The study will enroll competitively 350 subjects from 3 sites in Brazil.
+
+ Preterm children will be identified after birth and up to 72 hours after hospital discharge and followed for one year after the enrollment.
+
+ Subjects will be seen monthly for the first 6 months and bimonthly until one year of follow-up.
+
+ At each visit, a medical and social history will be updated and a physical examination will be performed.
+
+ Legal representative will notify study personnel in the event of a respiratory illness or hospital admission at which time the subject will be seen by an investigator.
+
+ Children with LRTI diagnosed by physical examination will have viral diagnostic tests performed.
+
+ Subjects with a LRTI not requiring hospitalization will be followed by telephone weekly until illness resolution.
+
+ Hospitalized children with a LRTI will be followed daily while hospitalized and followed by telephone until illness resolution.
+
+ All medical interventions and outcomes will be recorded.
+
+.
+
+ Incidence of Severe Respiratory Syncytial Virus Infections in Preterm Brazilian Children@highlight
+
+The primary objective of this study is to determine the incidence of severe RSV LRTI requiring hospitalization among infants born < 35 weeks gestational age for one year of follow-up.
+

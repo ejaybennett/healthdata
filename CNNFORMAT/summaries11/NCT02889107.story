@@ -1,0 +1,20 @@
+(secondQuint)Auditory Rehabilitation in Stroke Patients With Auditory Processing Disorders.
+
+ Stroke can affect all levels of the auditory pathway.
+
+ Approximately one in five stroke survivors report severe difficulties when listening to speech-in-noise, despite normal hearing, attributed to abnormal processing of sounds within the brain, and these individuals are more likely to experience communication difficulties in poor acoustic environments, The patient with significant auditory deficits and functional limitations may require a range of rehabilitation and remediation approaches.
+
+ Several studies conclusively demonstrate substantial improvements in speech recognition in noise when using personal frequency-modulated (FM) systems.
+
+ These devices are used to improve speech perception in noise in adults with neurological disorders including stroke with good immediate benefits.
+
+ However, the long-term benefits of FM systems in stroke patients has not been studies.
+
+ In this research study the investigators aimed to investigate the long term benefits in speech reception in noise in non-aphasic stroke patients and measure the potential improvement in unaided speech in background noise performance after 10 weeks.
+
+.
+
+ Auditory Rehabilitation in Stroke Patients With Auditory Processing Disorders@highlight
+
+This study aimed to evaluate long term benefits in speech reception in noise, after daily 10 week use of an assisting listening device (personal frequency-modulates systems) , in non-aphasic stroke patients with auditory processing deficits.
+

@@ -1,0 +1,38 @@
+(thirdQuint)IL-17 Neutrophils in CF Lung Inflammation.
+
+ This study consists of two parts which will be conducted in parallel.
+
+ In the first part of the study, 14 subjects will be recruited for the Clinically Stable Cohort.
+
+ Subjects will be asked to provide 1 gm of expectorated sputum and 40-ml of blood.
+
+ A cell count and differential will be performed on the sputum followed by analysis for IL-17 PMNs by fluorescence-activated cell sorter (FACS).
+
+ IL-17 PMNs also will be isolated by running the remainder of the cell pellet through a column of magnetic beads designed for this purpose.
+
+ These neutrophils will be lysed and intracellular cytokines determined.
+
+ Sputum supernatants will be stored frozen until analyzed for the presence of IL-1, IL-6, IL-8, IL-17A, TGF-, TNF-, and neutrophil elastase.
+
+ Clinical data will be captured from the subject's clinical outpatient visit including lung function measures and clinical culture results.
+
+ IL-17 PMNs will be correlated with lung function measures and inflammatory mediators at baseline.
+
+ In the second part of this study, 10 subjects will be recruited for the Exacerbation Cohort.
+
+ Subjects will provide at least 1 gram of expectorated sputum and 40-ml of blood within 72 hours of hospital admission.
+
+ Sputum and blood will be processed and analyzed as described above.
+
+ Sputum and blood also will be obtained at the end of treatment (within 72 hours of completion of IV antibiotics) when the subject is at his or her baseline as determined by the managing physician.
+
+ Clinical data will be captured from the subject's hospitalization records including lung function measures and clinical culture results.
+
+.
+
+ IL-17 Neutrophils in CF Lung Inflammation@highlight
+
+The purpose of this study is to determine whether IL-17 polymorphonuclear leukocytes (PMNs) are central to the disease pathology in CF.
+
+ This will be determined by demonstrating that IL-17 PMNs are present in the CF airway, correlate with lung function measures, and decrease in patients being treated with IV antibiotics for a pulmonary exacerbation.
+

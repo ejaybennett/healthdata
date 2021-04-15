@@ -1,0 +1,24 @@
+(secondQuint)Tivozanib in Recurrent, Platinum-Resistant Ovarian, Fallopian Tube or Primary Peritoneal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the clinical activity of tivozanib in patients with platinum-resistant, recurrent ovarian, fallopian tube or primary peritoneal cancer.
+
+ SECONDARY OBJECTIVES: I.
+
+ Determining the potential survival advantage and characterizing the safety of single agent tivozanib in patients with platinum-resistant ovarian cancer.
+
+ OUTLINE: Patients receive tivozanib hydrochloride orally (PO) once daily (QD) on days 1-21.
+
+ Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months for 3 years.
+
+.
+
+ Tivozanib in Recurrent, Platinum-Resistant Ovarian, Fallopian Tube or Primary Peritoneal Cancer@highlight
+
+This phase II trial studies how well tivozanib works in treating patients with recurrent ovarian, fallopian tube, or primary peritoneal cancer.
+
+ Tivozanib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+

@@ -1,0 +1,16 @@
+(firstQuint)Safety Evaluation of the Vibrating Capsule.
+
+ Healthy volunteers will be followed for safety for 7 days after taking the capsule.
+
+ Constipated individuals will be first followed for 2 weeks and than they will use the capsule for 7.
+
+5 weeks period.
+
+ Safety and efficacy will be evaluated.
+
+.
+
+ Safety Evaluation of the Vibrating Capsule@highlight
+
+The study will assess the safety of the vibrating capsule in healthy volunteers first and than for constipation relief constipated individuals.
+

@@ -1,0 +1,30 @@
+(thirdQuint)Analgetic and Anxiolytic Effect of Preoperative Pregabalin.
+
+ The mechanism of development of postoperative pain is complex.
+
+ Central and peripheral sensitization are playing an important role and this can lead to postoperative hypersensitization.
+
+ Several studies have shown, that gabapentin can be effective to reduce sensitization and postoperative pain.
+
+ Pregabalin (S-aminomethyl-5-methylhexaninacid) is a further development of gabapentin.
+
+ Pregabalin has a fewer side-effects compared with gabapentin.
+
+ The purpose of this study is to compare the analgetic and anxiolytic effect of pregabalin and placebo used as premedication.
+
+ The hypothesis is that a single-dose pregabalin (150 mg postoperatively (p.
+
+o.
+
+)) gives significant better anxiolysis and analgesia than placebo.
+
+ The study is including patients undergoing surgery of the vertebral columna.
+
+.
+
+ Analgetic and Anxiolytic Effect of Preoperative Pregabalin@highlight
+
+The purpose of this study is to determine whether the use of oral pregabalin 150 mg as premedication reduces the amount and degree of postoperative pain.
+
+ Furthermore the purpose of this study is to determine whether the use of oral pregabalin 150 mg as premedication reduces anxiety prior to anaesthesia in these patients.
+

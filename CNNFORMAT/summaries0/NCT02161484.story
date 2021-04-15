@@ -1,0 +1,12 @@
+(secondQuint)Continuous Lumbar Plexus Block With and Without Parasacral Block in Patients Undergoing Total Hip Replacement.
+
+ This prospective study is intended to assess the efficacy of placing a parasacral (sciatic) nerve block in addition to a lumbar plexus block for postoperative analgesia following total hip arthroplasty.
+
+ Although the placement of a lumbar plexus block alone has become accepted as the standard of care at UPMC for postoperative analgesia following total hip arthroplasty, the addition of a parasacral (sciatic) nerve block may provide the advantage of blocking the superior gluteal nerve and nerve to the quadratus femoris which both supply small articular sensory branches to the posterior hip capsule.
+
+.
+
+ Continuous Lumbar Plexus Block With and Without Parasacral Block in Patients Undergoing Total Hip Replacement@highlight
+
+The purpose of this research study is to evaluate the analgesic efficacy of adding a single shot parasacral (sciatic) nerve block to a continuous lumbar plexus block in patients undergoing total hip replacement.
+

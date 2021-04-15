@@ -1,0 +1,24 @@
+(secondQuint)Detection of Plaque Inflammation by Positron Emission Tomography (PET)-Effects of Simvastatin on Plaque Inflammation.
+
+ There is increasing evidence that inflammation plays a role in progression and destabilization of atherosclerotic plaque.
+
+ However, currently, no non-invasive method is available for detecting plaque inflammation in clinical practice.
+
+ FDG-PET can visualize activated metabolic levels of not only tumor cells but also inflammatory cells.
+
+ Thus, it is possible that FDG-PET can detect atherosclerotic plaque inflammation and that, if so, FDG-PET can monitor the direct effect of statins on plaque inflammation.
+
+ Additionally, monitoring the plaque inflammation by FDG-PET may be useful for determining the risk stratification of atherosclerotic patients.
+
+ Originally, we sought to compare patients with FDG-positive plaque with patients with plaque but not with FDG uptake, patients with FDG-positive plaque receiving statin therapy, and patients with FDG-positive plaque receiving diet management therapy.
+
+ However, because patient number enrolled in the study was too small, the comparison was performed between FDG-positive patients with and without any statin therapy.
+
+.
+
+ Detection of Plaque Inflammation by Positron Emission Tomography (PET)-Effects of Simvastatin on Plaque Inflammation@highlight
+
+The purpose of this study is to determine whether FDG-PET is capable of detecting atherosclerotic plaque inflammation and monitoring the effects of statins on plaque inflammation.
+
+ The usefulness of FDG-PET in risk stratification is also investigated.
+

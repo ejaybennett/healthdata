@@ -1,0 +1,21 @@
+(secondQuint)Comparison of Quantiferon-TB Gold Assay With Tuberculin Skin Testing in Patients With Chronic Liver Disease.
+
+ Tuberculosis (TB) is an important cause of morbidity and mortality in organ transplant recipients.
+
+ Although the tuberculin skin test (TST) is recommended for screening of latent tuberculosis infection (LTBI) in all candidates for liver transplantation, the performance of the TST in this setting is less than optimal, due to a lack of specificity and a lack of sensitivity in a population that is relatively immunocompromised.
+
+ Recently, a new test named QuantiFERON-TB Gold (QFT-G) has been approved for the diagnosis of LTBI.
+
+ QFT-G is expected to be more specific than TST.
+
+ However, there are no studies defining the performance of QFT-G in a population of patients on a waiting list for liver transplantation.
+
+ We plan to estimate the usefulness of the QFT-G test for the diagnosis of LTBI in a cohort of patients with end-stage liver disease.
+
+ We hypothesize that the QFT-G test will correlate better with the risk of LTBI.
+
+.
+
+ Comparison of Quantiferon-TB Gold Assay With Tuberculin Skin Testing in Patients With Chronic Liver Disease@highlight
+
+The purpose of the study is to estimate the usefulness of the QuantiFERON(R)-TB Gold test for the diagnosis of latent tuberculosis infection in liver transplant candidates by correlating the test results with risk factors for LTBI

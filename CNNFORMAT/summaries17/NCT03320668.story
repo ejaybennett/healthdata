@@ -1,0 +1,36 @@
+(fifthQuint)Efficacy of the Otago Exercise Program Delivered as Group Training Versus Individually Tailored Training.
+
+ OBJECTIVES: To compare the effectiveness of the Otago Exercise Program (OEP) delivered as group training versus individually tailored training in community-dwelling adults between 65 and 80 years old, on the probability of falls, improved functional balance and muscle strength and, quality of walk in the 12 months follow up.
+
+ To compare the effectiveness of both interventions to improve dynamic and static balance and gait quality in the same population.
+
+ DESIGN: Non-inferiority clinical trial, multicentric, simple blind (blind analysis to prevent bias), with two interventions, implementation of group and individual OEP with random assign.
+
+ The follow-up period will be twelve months after the OEP training.
+
+ FIELD OF STUDY: 21 Primary Health Centers (PHC) belonging to the National Health System in 8 different regions: Andalucia, Asturias, Islas Baleares, Canarias, Cataluna, Comunidad de Madrid, Region de Murcia and Pais Vasco PARTICIPANTS: Subjects who belong to primary care centers in the same health area, 65 to 80 years of age, who are not institutionalized, independent for walk (the score of the first part of the Short Physical Performance Battery scale (SPPB scale) in relation to balancing must be different from zero in any assessed position) and provide informed consent to participate in the study.
+
+ VARIABLES OF STUDY: Principal Outcome: Percentage of falls (percentage of subjects falling) Other Outcomes: Safety of Intervention; Feasibility of interventions; Feasibility of the cascade training model based on the OEP; Economic analysis and added therapeutic value of both interventions.
+
+ DATA COLLECTION: Subjects will be selected from the health centers through active recruitment by the health professionals.
+
+ The recruitment will be consecutive among the patients in the agenda in the days between 10 to 19 of each month from September 2017-December 2018.
+
+ Data will be collected at month 0, 6 and 12.
+
+ Randomization will be performed by PHC and by subjects.
+
+ DATA ANALYSIS: A descriptive analysis of sociodemographic and fall variables will be performed.
+
+ The analysis to the comparative data between the two groups of the Randomize Clinical Trial will be done by protocol.
+
+ In addition, an analysis will be made for the incidence density of falls, using Poisson regression models.
+
+ For all a confidence level of 95% will be assumed, and the statistical software to be used to carry out the analysis will be Statistical Package for the Social Sciences version 22 (SPSS v22).
+
+.
+
+ Efficacy of the Otago Exercise Program Delivered as Group Training Versus Individually Tailored Training@highlight
+
+A non-inferiority controlled clinical trial using randomization for allocation at the level of general practice in 21 centers (in 8 Spanish regions), to compare a group Otago exercise program (OEP) [delivered by specifically trained instructors and supplemented by prescriptive recommendations for home exercising], with an individual OEP [also delivered by specifically trained professionals and supplemented by prescriptive recommendations for home exercising], with twelve months follow-up to determine the effectiveness of the OEP in terms of prevention of falls in a community-dwelling 65- to 80-year-old population.
+

@@ -1,0 +1,11 @@
+(firstQuint)Osteoarthritis Bedside Testing Kit.
+
+ Conduct a Focus group of subjects with painful osteoarthritis of the knee to evaluate potential kit for acceptability to subjects and investigators, and usability, clarity of instructions, appropriateness of the data capture, simplicity, subject and investigator burden, and overall impressions of the procedures.
+
+ Conduct a reliability and usability study with subjects with painful osteoarthritis of the knee to determine Intra-rater reliability, Inter-rater reliability, Kit reliability.
+
+.
+
+ Osteoarthritis Bedside Testing Kit@highlight
+
+Develop and test a bedside testing kit for evaluating pain and symptoms of osteoarthritis

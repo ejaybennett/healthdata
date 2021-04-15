@@ -1,0 +1,20 @@
+(thirdQuint)ENGAGED 2 Study: Experiences With Mammography Screening and Breast Density 2.
+
+ Along with better-known risk factors such as family history having dense breasts is one of the strongest breast cancer risk factors.
+
+ Extremely dense breast tissue affects about 10% of women, with an additional third having heterogeneously dense breasts.
+
+ Women in these categories have 3-6 times the risk of breast cancer as compared to women with least density.
+
+ Although breast density is measured on routine screening mammograms, it is not typically communicated to patients.
+
+ This is changing as a result of legal mandates and approaches need to be tested to effectively integrate this clinical information in care.
+
+ Therefore,we have developed an intervention to support decision making about cancer risk management (MRI and chemoprevention) for women at clinically elevated risk using a web-based intervention that will evaluate the efficacy of a web based intervention with personalized risk information communication versus usual care.
+
+.
+
+ ENGAGED 2 Study: Experiences With Mammography Screening and Breast Density 2@highlight
+
+This trial will test a decision support web based intervention for women at increased risk for breast cancer due to breast density and other risk factors (age, race/ethnicity, family history of breast cancer, history of prior breast biopsies), and to consider MRI and/or chemoprevention to manage their breast cancer risk.
+

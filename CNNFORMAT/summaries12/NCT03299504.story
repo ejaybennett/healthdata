@@ -1,0 +1,16 @@
+(firstQuint)Factors Predicting Success in Lung Transplant Recipients Who Have Undergone Intensive Post-operative Rehabilitation.
+
+ The Center of Life for Thoracic Transplant (COLTT) program is a daily (5 days per week) intensive rehabilitation program for patients who have undergone lung transplant.
+
+ Patients are enrolled in COLTT as part of standard care after hospital discharge.
+
+ This study is a retrospective review of seventy patients that measures the efficacy of the COLTT program and establishes predictors of patient success.
+
+This study will also measure the effect of functional outcomes on hospital readmission post COLTT discharge.
+
+.
+
+ Factors Predicting Success in Lung Transplant Recipients Who Have Undergone Intensive Post-operative Rehabilitation@highlight
+
+This is a retrospective review of the COLTT program outcomes and factors that predict recovery of functional status after lung transplantation.
+

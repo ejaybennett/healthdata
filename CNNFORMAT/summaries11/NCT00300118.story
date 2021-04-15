@@ -1,0 +1,36 @@
+(firstQuint)Oral Budesonide vs.
+
+ Oral Mesalazine in Active Crohn's Disease (CD).
+
+ Crohn's disease is often treated with glucocorticoids or mesalazine.
+
+ Both drugs are indicated for active Crohn's disease.
+
+ Treatment with mesalazine is indicated for the treatment of mildly to moderately active Crohn's disease.
+
+ Budesonide 9 mg/day or mesalazine 4.
+
+5 g/day are better than lower doses.
+
+ So far only one trial compares the efficacy and safety of budesonide and 5-ASA.
+
+ The result of this trial is that budesonide is more effective in inducing remission than mesalazine.
+
+ The primary objective of this trial is to confirm this result for other presentations of budesonide and mesalazine; i.
+
+e.
+
+ Budenofalk(R) capsules (9 mg/day) and Salofalk(R) tablets (Eudragit-L-coated oral mesalazine; 4.
+
+5 g/day) in moderately active Crohn's disease.
+
+ Mesalazine is used in this trial as a comparator.
+
+.
+
+ Oral Budesonide vs.
+
+ Oral Mesalazine in Active Crohn's Disease (CD)@highlight
+
+The purpose of this study is to determine whether mesalazine or budesonide is more active in the treatment of active Crohn's disease.
+

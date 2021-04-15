@@ -1,0 +1,36 @@
+(thirdQuint)Effect of Stimulation of the Prefrontal Cortex on Language Production in Aphasic Patients.
+
+ Background: Language processing is a complex brain function supported by a large network, including domain-specific language areas as well as domain-general cognitive-control networks (Friederici & Gierhan, 2013).
+
+ Noninvasive brain stimulation, such as transcranial direct current stimulation (tDCS), is increasingly being used as a promising therapeutic tool for psychiatric and neurological diseases (Tortella et al.
+
+, 2015; Floel, 2014).
+
+ In the language domain, several studies revealed that tDCS over languagespecific areas induces changes in cortical function that enhances the recovery of language abilities in patients with post-stroke aphasia (Torres, Drebing & Hamilton, 2013; Monti et al.
+
+, 2013).
+
+ Beneficial effects of tDCS have also been found for stimulation over more domain-general cognitive control regions.
+
+ Although research on non-invasive brain stimulation and aphasia reveals promising results, studies investigating the modulation of cognitive control-networks on lexical access are rare.
+
+ Given the importance of a successful interplay between prefrontal and domain-specific language areas, possible therapeutic effects of tDCS over the prefrontal cortex (PFC) in aphasia can be of high value for rehabilitation and basic research.
+
+ Procedure: A planned total of 30 patients will be included.
+
+ In a first visit, the severity of aphasia, the medical history as well as inclusion/exclusion criteria will be evaluated.
+
+ After this visit, patients will undergo two tDCS sessions (one tDCS and one S-tDCS session) with a one week interval between the sessions.
+
+ Each session consists of an online (during stimulation) and an offline assessment (within 30 minutes after stimulation).
+
+ Three language tasks and a nonverbal executive function task will be conducted online as well as offline in each of the two sessions (tDCS and S-tDCS).
+
+.
+
+ Effect of Stimulation of the Prefrontal Cortex on Language Production in Aphasic Patients@highlight
+
+The purpose of this study is to investigate whether transcranial direct current stimulation (tDCS) of the prefrontal cortex (PFC) influences lexical access and language production.
+
+ The experimental paradigm will assess the impact of prefrontal stimulation by tDCS versus sham tDCS (S-tDCS) over the PFC of patients with chronic post-stroke aphasia during three language production tasks and a nonverbal executive functions task.
+

@@ -1,0 +1,24 @@
+(secondQuint)Efficacy, Tolerability, PK of OZ439 in Adults With Acute, Uncomplicated P.
+
+Falciparum or Vivax Malaria Mono-infection.
+
+ This exploratory Phase IIa study aims to investigate the preliminary efficacy in terms of parasite reduction and clearance in malaria patients, and the tolerability of OZ439 administered as single dose regimen at 3 different doses in parallel cohorts of patients with either acute uncomplicated Plasmodium falciparum or Plasmodium vivax malaria mono-infection (10 patients per plasmodium species per dose level).
+
+ Treatment with OZ439 will be given as a single dose on Day 0, starting in the first cohort at a dose of 800 mg.
+
+ Established antimalarial therapy will be given at the latest at 36 hours post dosing.
+
+ The primary endpoint will be the derived parasite reduction rate (PRR) at 24 hours after study drug administration.
+
+ A review of each individual study cohort (dose/species) will be conducted with the Principal Investigator and the Sponsor and a decision will be reached on whether the dose for the next cohort should increase or decrease (within 200mg-1600mg range).
+
+ This decision will be based on parasite reduction rate over the first 24 hours following administration of OZ439, tolerability and exposure.
+
+.
+
+ Efficacy, Tolerability, PK of OZ439 in Adults With Acute, Uncomplicated P.
+
+Falciparum or Vivax Malaria Mono-infection@highlight
+
+A Phase IIa Exploratory, Open label, Single Dose Regimen, Multiple Dose Testing Clinical Study to Assess the Preliminary Efficacy, Tolerability and Pharmacokinetics of OZ439 in adult patients with acute, uncomplicated Plasmodium falciparum or vivax malaria mono-infection.
+

@@ -1,0 +1,22 @@
+(thirdQuint)Safety Study of EF-022 in Adults With Recurrent Respiratory Papillomatosis (RRP).
+
+ The etiology of RRP is associated with local immune suppression at disease-involved sites.
+
+ EF-022, a Vitamin D-Binding protein Macrophage Activating Factor, modulates the innate arm of the immune system to alleviate immune suppression.
+
+ The investigators hypothesize that EF-022 may modulate the immune response in a manner that might slow down or even prevent disease progression.
+
+ Adult subjects will be treated weekly with EF-022 for a period of 6 months by either intramuscular or subcutaneous administration.
+
+ The primary objective of the study is to evaluate the safety and tolerability of EF-022 administered to adult subjects with recurrent respiratory papillomatosis either IM or SC.
+
+ The main response assessment will be performed over the 6 months period by: - Evaluating lesion size and/or number of disease-involved sites by Coltera-Derkay score - Assessment of degree of voice disorder using the VHI-10 score - Symptomatic assessment of dyspnea/stridor.
+
+ Safety Study of EF-022 in Adults With Recurrent Respiratory Papillomatosis (RRP)@highlight
+
+This study evaluates the safety and tolerability of the investigational drug EF-022 in the treatment of adult patients with Recurrent Respiratory Papillomatosis (RRP).
+
+ Patients will be administered EF-022, either intramuscular or subcutaneous, for a period of 6 months.
+
+ Preliminary effect of the drug on the disease will be evaluated by following the number and severity of the lesions in the respiratory tract and the effect on voice changes.
+

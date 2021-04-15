@@ -1,0 +1,20 @@
+(firstQuint)Predicting the Severity of Post-cesarean Wound Infections Using Serum Procalcitonin Levels.
+
+ The serum procalcitonin levels are important during infections and sepsis.
+
+ Recent studies showed that serum procalcitonin levels are more sensitive than serum CRP levels.
+
+The investigators aimed to assess its predictive value in terms of post-cesarean wound infection.
+
+ The serum procalcitonin levels are aimed to measure in participants who had cesarean section and developed surgical site infection.
+
+ The investigators aimed to compare the serum procalcitonin levels between the patients who need secondary suture and the patients who did not need secondary suture.
+
+.
+
+ Predicting the Severity of Post-cesarean Wound Infections Using Serum Procalcitonin Levels@highlight
+
+The serum procalcitonin levels are important during infections and sepsis.
+
+ The investigators aimed to assess its predictive value in terms of post-cesarean wound infection.
+

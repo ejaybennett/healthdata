@@ -1,0 +1,45 @@
+(secondQuint)Hybrid Capture Test on Mobile Unit Program to Improve Cervical Cancer Screening in Brazilian Rural and Remote Areas.
+
+ Step1: Ambulatory samples First of all the careHPV cervical sample will be collected in specifically tubes, after this, make the cervical sample SurePath collect.
+
+ Each patient will have two cervical samples.
+
+ In this moment will be collected 2,000 samples at the Gynecology Department of Barretos Cancer Hospital and the women who be attended in the mobile unit of Barretos surrounding.
+
+ Sample1: careHPV The collect will be randomized where 1000 will be collected by the doctor and 1000 by self-sampling.
+
+ The patient will be oriented by nurse with illustrative material.
+
+ The self-sampling will be realized like the manufacturing protocol (Qiagen Inc.
+
+, Gaithersburg, MD).
+
+ The cervical sample to cytology (SurePath) will be realized by doctor like a complementary test.
+
+ The conditions to store the samples are 15C to 30C by 2 weeks; 2C to 8C by 4 weeks; or -20C by 2 months to research.
+
+ Sample2: SurePath(R) cytology The cervical sample will be realized like the manufacturing protocol, by doctor.
+
+ The lamina will be prepared like the equipment manufactory (Becton, Dickinson and Company).
+
+ The cytological findings will be classifieds like the Bethesda system.
+
+ The positives women in careHPV/cytology and the negative careHPV but positive cytology (ASC-US+) will be referred to do the colposcopy (or biopsy) at the Barretos Cancer Hospital.
+
+ Step2: Mobiles Unities Samples This step will be collected 3,000 samples to careHPV test and SurePath cytology like a complementary test.
+
+ The self-sampling won't be made in this step.
+
+ The samples will be analyzed in the own mobile unit, during the cities visited.
+
+ The units involved in the project are that attended Mato Grosso, Goias, Minas Gerais and Rondonia states, because the significantly number of population assisted.
+
+ Step3: HPV genotyping All the positives cases to careHPV test will be submitted to identify the HPV types, then realized at the Molecular Oncology Research Center in the Barretos Cancer Hospital.
+
+.
+
+ Hybrid Capture Test on Mobile Unit Program to Improve Cervical Cancer Screening in Brazilian Rural and Remote Areas@highlight
+
+This study evaluates the women cervical samples through molecular tests in order to: 1.
+
+ Deploy the test careHPV (hybrid capture test) in mobile unities of the Barretos Cancer Hospital to evaluate their performance;

@@ -1,0 +1,26 @@
+(thirdQuint)Safety, Tolerability and Pharmacokinetics Study of AIR DNAse Administered by Inhalation to Healthy Adult Volunteers.
+
+ This is a Phase I study to evaluate the safety, tolerability and pharmacokinetics of inhaled AIR DNase in healthy volunteers.
+
+ Up to 18 healthy males subjects (age 18 -55 inclusive) will be randomized to one of three dose cohorts (up to 6 subjects per cohort), receiving AIR DNase doses equivalent to 1.
+
+25 mg, 2.
+
+5mg or 5 mg or placebo in accordance.
+
+ Subjects randomized to one of the cohorts will receive either active of placebo as single dose, in continuation, following safety assessments, will receive multiple doses, once daily for 5 consecutive days.
+
+ Subjects will remain at the clinical center for 8 hours after the single administration of AIR DNase/placebo including PK sampling.
+
+ During the multiple dosing subjects will arrive at the clinical center daily for AIR DNase/placebo administrations and study procedures and remain at the site for 4 hours post dosing.
+
+ Follow up visits will be performed 72 days following single administration and 72 days following the last administration of the multiple phase.
+
+.
+
+ Safety, Tolerability and Pharmacokinetics Study of AIR DNAse Administered by Inhalation to Healthy Adult Volunteers@highlight
+
+This study will be performed to assess the safety, tolerability and PK of escalating inhaled AIR-DNase doses administered as a single dose followed by multiple doses for 5 consecutive days in healthy subjects.
+
+ A thorough review of safety data will be conducted after completion of each dose level per subject and prior to both, moving to the next dose level in Part 1 and commencement of the multiple dose Part 2.
+

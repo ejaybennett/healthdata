@@ -1,0 +1,32 @@
+(thirdQuint)The Influence of Seat Height on Hemiplegic-pattern Propulsion of Manual Wheelchairs.
+
+ Many people who have suffered a stroke require a wheelchair for mobility.
+
+ Hemiplegia is a common result of stroke.
+
+Many people with hemiplegia propel themselves using their sound-side arms and legs ("hemiplegic-pattern propulsion") in manual wheelchairs.
+
+Often people using this pattern are prescribed wheelchairs with a reduced seat height to facilitate foot propulsion.
+
+ Despite the seeming obviousness of the need to lower the seat height for people who use foot propulsion,there is little available evidence to help establish optimal wheelchair seat height.
+
+ The study objective is to test the hypothesis that there is an optimum wheelchair seat height (expressed as a percentage of the lower leg length) for hemiplegic-pattern wheelchair propulsion.
+
+ The investigators expect that the optimum seat height will be lower than that usually used for wheelchairs that are hand-propelled.
+
+ A single-subject design with able-bodied participants will be used to investigate 5 randomized seat heights.
+
+ The 5 seat heights will be set relative to the subjects leg length at a single 60 minute data collection session All measures will be obtained during one session.
+
+ The optimal seat height will be chosen based on wheelchair propulsion speed, push frequency and effectiveness over 10m going forward on smooth surface, and 5m going backwards over a soft surface.
+
+.
+
+ The Influence of Seat Height on Hemiplegic-pattern Propulsion of Manual Wheelchairs@highlight
+
+This study evaluates the effect of seat height on hemiplegic-pattern wheelchair propulsion.
+
+ Each subject will act as their own control and measures will be obtained in a one sixty minute session.
+
+ Five seat heights relative to the subject's leg length will be measured in a random order to see the effect on forward and backwards wheelchair propulsion.
+

@@ -1,0 +1,24 @@
+(thirdQuint)A COMbined progRamme of Exercise and Dietary ADvice in mEn With Castrate Resistant Prostate Cancer.
+
+ Although there have been advances in recent years, therapeutic options remain limited for men with castrate resistant prostate cancer (CRPC).
+
+ There is an unmet clinical need for interventions which can improve quality of life, functional capacity and cancer related fatigue.
+
+ Adjunctive exercise therapy could be a potentially effective treatment for these men.
+
+ A growing body of evidence has demonstrated numerous benefits in physiological and psychosocial outcomes in men with advanced prostate cancer.
+
+ Further, there is observational evidence linking physical activity with reduced disease specific mortality after a diagnosis of cancer.
+
+ Observational data also indicates that preserving skeletal muscle mass can improve responses to chemotherapy.
+
+ The proposed study will assess the feasibility of an exercise and dietary intervention in men with castrate resistant prostate cancer with secondary outcomes assessing improvements in physical functioning, fatigue, quality of life, and body composition.
+
+.
+
+ A COMbined progRamme of Exercise and Dietary ADvice in mEn With Castrate Resistant Prostate Cancer@highlight
+
+The proposed study will assess the feasibility of an exercise and dietary intervention in men with castrate resistant prostate cancer with secondary outcomes assessing improvements in physical functioning, fatigue, quality of life, and body composition.
+
+The study will have 2 arms, with one set of participants randomized to resistance exercise training intervention plus dietary advice and the other arm will be standard of care plus exercise advice.
+

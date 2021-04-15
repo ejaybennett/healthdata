@@ -1,0 +1,20 @@
+(secondQuint)Managing Cancer and Living Meaningfully (CALM): A Study to Evaluate the Effectiveness of a Psychological Intervention for Cancer Patients.
+
+ We have developed and pilot-tested a brief manualized individual psychotherapy, called Managing Cancer and Living Meaningfully (CALM), to reduce distress in patients with various types of cancer, including metastatic disease.
+
+ We propose to conduct a two-arm randomized controlled trial (RCT) to test the effectiveness of CALM against usual care (UC) for the reduction of distress in patients with various types of cancer, including metastatic disease.
+
+ Usual care at our center includes routine screening for depression and other distress in oncology outpatient clinics, communication of screening information to the medical treatment team, and referral as needed for non-standardized, and primarily instrumental, psychosocial care and psychiatric assessment and treatment.
+
+ The design will be an unblinded RCT consisting of two conditions (CALM and UC), with a baseline assessment and follow-ups at three and six months.
+
+ The trial will take place in Princess Margaret Cancer Centre, University Health Network, a comprehensive cancer center in Toronto, Canada.
+
+ Participants will be outpatients with various types of cancer, including metastatic disease.
+
+.
+
+ Managing Cancer and Living Meaningfully (CALM): A Study to Evaluate the Effectiveness of a Psychological Intervention for Cancer Patients@highlight
+
+The purpose of this study is to test the effectiveness of a brief manualized individual psychotherapy, called Managing Cancer and Living Meaningfully (CALM), to reduce distress and promote psychological well-being in patients with various types of cancer, including metastatic disease.
+

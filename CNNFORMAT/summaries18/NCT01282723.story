@@ -1,0 +1,28 @@
+(secondQuint)Multi-Reader Multi-Case Study to Identify Uterine Contractions Recorded From Laboring Patients by Practicing Clinicians.
+
+ The SureCALL(R) EMG Labor Monitor(R) (SureCALL(R))is a transabdominal electromyography monitor intended to measure intrapartum uterine activity.
+
+ It is intended for use on term pregnant women who are in labor, with singleton pregnancies, using surface electrodes on the maternal abdomen.
+
+ The device is intended for use by healthcare professionals in a clinical setting.
+
+ This multi-reader multi-case study was designed to evaluate the performance of SureCALL(R) to the predicate Tocodynamometer device (TOCO) using the performance of an Intrauterine Pressure Catheter device (IUPC) as the "gold standard".
+
+ This study involved 20 women at term, in labor, at three clinical sites.
+
+ Each study subject was instrumented with three technologies for measuring uterine activity: 1.
+
+ a tocodynamometer attached to the maternal abdomen 2.
+
+ a set of abdominal surface electrodes for uterine electromyography, and 3.
+
+ an intrauterine pressure catheter.
+
+ An assessment was obtained and quantified from masked, qualified clinical obstetrician readers for the evaluation of the equivalence of the three independent labor monitor devices by identifying in isolation the individual uterine contraction signals and the peak of each contraction signal produced by a full-term patient in term labor as independently collected by each labor monitor device.
+
+.
+
+ Multi-Reader Multi-Case Study to Identify Uterine Contractions Recorded From Laboring Patients by Practicing Clinicians@highlight
+
+This multi-reader multi-case study was designed to evaluate the performance of SureCALL(R) EMG Labor Monitor(R) (SureCALL(R))to the predicate Tocodynamometer device (TOCO) using the performance of an Intrauterine Pressure Catheter device (IUPC) as the "gold standard".
+

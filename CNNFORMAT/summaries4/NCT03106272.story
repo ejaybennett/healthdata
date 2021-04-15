@@ -1,0 +1,14 @@
+(firstQuint)Evaluating the AMH Levels During Natural Cycle.
+
+ The potential benefit would be using an automated assay for AMH, the dynamics of serum levels during the natural cycle and to check the inter-cycle variations.
+
+ Because of the many clinical decisions that are based on AMH levels alone the results of this study could bring reassurance to the continuous use of AMH in daily practice.
+
+ More importantly, no studies to date have been performed on the newer automated assays evaluating variability of AMH levels.
+
+.
+
+ Evaluating the AMH Levels During Natural Cycle@highlight
+
+To describe AMH serum levels dynamics during natural cycle using an automated assay.
+

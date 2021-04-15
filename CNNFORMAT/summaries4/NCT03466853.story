@@ -1,0 +1,43 @@
+(thirdQuint)Assessment by the CANS Score Versus Anthropometry and Impact on Early Neonatal Morbidities.
+
+ Within the 1st 48 hours of birth, all live born, singleton neonates with gestational ages between 28-40 weeks will be included in the study after obtaining an informed consent from their legal guardians.
+
+ Assessment of malnutrition within 48 hours of birth: 1.
+
+ Anthropometric indices: Weight (using the infant weighing scale).
+
+ Length (using the infant measuring board).
+
+ Head circumference (using non-metallic non-stretchable tape).
+
+ 2.
+
+ Proportionality indices: MAC/HC ratio (Calculation for each infant and value will be plotted on and compared with a standard curve).
+
+ Ponderal index Body mass index 3.
+
+ Clinical assessment of nutritional status (CANS) score: A total score <25 is considered as fetal malnutrition.
+
+ 3.
+
+ Detection of early neonatal morbidities within the first week of life (for those who will require NICU admission): 1.
+
+ Hypoglycemia (Random blood sugar) 2.
+
+ Polycythemia (Hematocrit level) 3.
+
+ Respiratory Distress Syndrome 4.
+
+ Neonatal sepsis (Clinically, Laboratory: CBC with diff.
+
+, CRP, C/S) 5.
+
+ Hyperbilirubinemia (Serum bilirubin level, Need of phototherapy or exchange transfusion) 6.
+
+ Feeding intolerance (Abdominal distension with prominent intestinal loops, Gastric residue more than 3ml/kg before feeding at least 2 times/ day).
+
+ Assessment by the CANS Score Versus Anthropometry and Impact on Early Neonatal Morbidities@highlight
+
+Assessment of malnutrition within 48 hours of birth through anthropometric indices as Weight, Length and Head circumference, Proportionality indices as MAC/HC ratio, Ponderal index and Body mass index, Clinical assessment of nutritional status (CANS) score.
+
+ Detection of early neonatal morbidities within the first week of life including Hypoglycemia ,Polycythemia, Respiratory Distress Syndrome, Neonatal sepsis, Hyperbilirubinemia and Feeding intolerance

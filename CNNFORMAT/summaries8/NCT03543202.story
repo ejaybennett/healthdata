@@ -1,0 +1,31 @@
+(thirdQuint)Unilateral TAP Block vs Trocar Insertion Sites Infiltration Anesthesia in Laparoscopic Cholecystectomy.
+
+ Patients will be randomly allocated by a computer generated random numbers list into three groups.
+
+ After general anesthesia induction and intubation patients will receive analgesia according to group allocation.
+
+ In group TAP (Group T) the transversus abdominis plane block will be commenced with ultrasound guidance while the patients is in the supine position with a subcostal approach using 20 mL 0.
+
+25% bupivacaine and 21 G block needle.
+
+ In group infiltration anesthesia (Group I) the trocar insertion sites will be infiltrated with 20 mL 0.
+
+25% bupivacaine: 7 mL for the 10 mm trocar insertion sites and 3 mL for the 5 mm trocar insertion sites.
+
+ The control group (Group C) will not receive any local anesthetic.
+
+ All patients will receive rescue analgesia with intravenous patient controlled analgesia with tramadol (20 mg bolus dose and 20 minutes lockout time) Postoperative pain will be assessed during resting and coughing with a Numeric Pain Scale (NRS) and nausea and vomiting with a Postoperative Nausea Vomiting Score at the postoperative 1, 3, 6, 12.
+
+ and 24 hours.
+
+ The amount of tramadol consumed in the postoperative period will be recorded.
+
+ Patient satisfaction will be assessed with the Likert scale at postoperative 24 hours.
+
+.
+
+ Unilateral TAP Block vs Trocar Insertion Sites Infiltration Anesthesia in Laparoscopic Cholecystectomy@highlight
+
+Laparoscopic cholecystectomy is a commonly performed operation in general surgery practice.
+
+ Peripheral nerve block methods commonly used for analgesia after this operation are: transversus abdominis plane block (TAP) and trocar insertion sites local anesthetic infiltration anesthesia In this study, we aimed to compare these methods in terms of postoperative analgesia, nausea-vomiting and patient satisfaction

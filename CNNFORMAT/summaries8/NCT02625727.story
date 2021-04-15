@@ -1,0 +1,22 @@
+(secondQuint)Effects of Hyaluronic Acid vs.
+
+ Hyaluronic Acid on Knee Osteoarthritis.
+
+ A total of 76 patients will be collected.
+
+ The participants will be randomized into two groups, including hyaluronic acid injection group and hyaluronic acid combined corticosteroid injection group.
+
+ Physical activity will be evaluated.
+
+ The hyaluronic acid group will receive three times of hyaluronic acid injection per week in three weeks; the hyaluronic acid combined corticosteroid group will receive hyaluronic acid combined corticosteroid injection in the first week, followed by hyaluronic acid injection at the second and third week.
+
+ Re-evaluation will be arranged at after one week of injection, after two weeks of injection, one week after injection, one month after injection, three months after injection, and six month after injection.
+
+.
+
+ Effects of Hyaluronic Acid vs.
+
+ Hyaluronic Acid on Knee Osteoarthritis@highlight
+
+Using double blind, randomized controlled design to study the immediate, short-term and intermediate-term therapeutic effects of ultrasound guided hyaluronic acid injection and hyaluronic acid combined corticosteroid injection to patients with knee osteoarthritis.
+

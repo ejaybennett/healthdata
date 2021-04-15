@@ -1,0 +1,22 @@
+(thirdQuint)Mental Health Assessment Project on the Thailand-Burma Border.
+
+ The study is part of an award by the USAID Victims of Torture Fund (USAID/VTF) to JHU to work with local and international organizations serving survivors of torture and systematic violence.
+
+ For this study, the intent is to assist in the design, implementation, monitoring, and evaluation of programming to understand and address the psychosocial needs of Burmese displaced across the Thai/Burma border who are living in the area of Mae Sot, Tak Province in Thailand.
+
+ Specifically this project involves collaboration with the Burma Border Projects (BBP), the Mae Tao Clinic (MTC), the Assistance Association for Political Prisoners (AAPP), and Social Action for Women (SAW), to help improve the quality and effectiveness of psychosocial and mental health programs.
+
+ The Common Elements Treatment Approach (CETA) is a transdiagnostic treatment approach developed for delivery by lay counselors in low and middle income countries (LMIC) with few mental health professionals.
+
+ CETA was designed to treat symptoms of common mental health disorders including depression, PTS, and anxiety, and to provide skills to deal with life stressors.
+
+ includes engagement, psychoeducation, anxiety management strategies, behavioral activation, cognitive coping/restructuring, imaginal gradual exposure, suicide/homicide/danger assessment and planning, and screening and brief intervention for alcohol.
+
+.
+
+ Mental Health Assessment Project on the Thailand-Burma Border@highlight
+
+The aim of the study is to determine the effectiveness of a transdiagnostic psychotherapy intervention - namely, Common Elements Treatment Approach (CETA) - in reducing the severity of mental health symptoms experienced by torture and violence survivors displaced from Burma into Thailand.
+
+ Specifically, the intervention seeks to measure reductions (if any) in symptoms of depression and trauma.
+

@@ -1,0 +1,34 @@
+(fifthQuint)Location-based Smartphone Technology to Guide College Students Healthy Choices.
+
+ Poor eating habits, sedentary behavior, and deficient sleep quality are problematic for many college students.
+
+ Surrounded by numerous unhealthy food choices and physical activity barriers, students are vulnerable to overweight and chronic diseases such as diabetes, heart disease, and cancer.
+
+ Today's college students are more technologically connected than previous generations positioning mobile devices as an ideal method for reaching this population with healthy lifestyle information.
+
+ In a Phase I Small Business Innovation Research (SBIR), our team developed Healthy Detours, an innovative mobile phone application (app) designed to assist college students make healthier choices about food and physical activity on and around their college campus.
+
+ Specifically, we (a) developed a comprehensive database to provide user-specific information through the use of location-based services (LBS) focused on healthy lifestyle choices; (b) conducted an online survey with a national sample of undergraduates which examined eating and physical activity preferences, interest in smartphone technology to monitor healthy lifestyle choices, and use of "check-ins" for health information; (c) conducted focus groups which demonstrated the prototype app's ability to provide the user with rudimentary aspects of the LBS database to facilitate real-time decision making for healthier choices; (d) conducted lab and field usability testing of the app for its accuracy in identifying user location and functionality; and (e) developed a specifications document to outline the Phase II development plan.
+
+ The results of the Phase I activities provided strong support for this project in which we propose to develop an interactive, mobile app that is guided by the Theory of Planned Behavior (TPB) and Social Cognitive Theory (SCT).
+
+ This project will produce a fully functional LBS smartphone app that will provide (1) immediate and relevant feedback at the point of decision-making to reinforce healthy lifestyle behaviors, (2) person- and location-specific tailored data, acquired through activity tracking, to provide users with necessary information to improve future decision-making, and (3) multiple health-tracking features that will aid in self-monitoring.
+
+ Healthy Detours will be evaluated in a randomized controlled trial (n=300) with students at a large 4-year university.
+
+ Primary outcomes include changes in dietary intake, physical activity behavior, sleep quality, and quality of life.
+
+ Overall, the proposed project has the potential to significantly impact college students' health and quality of life by providing them with real-time healthy choices.
+
+ Healthy Detours is one of the first comprehensive wellness apps offered to college students, and provides an opportunity via the SBIR funding mechanism to reach a large number of students as evidenced by the commercialization plan.
+
+.
+
+ Location-based Smartphone Technology to Guide College Students Healthy Choices@highlight
+
+College students are in a newly independent phase of life; many of whom encounter unhealthy dietary decision- making, barriers to physical activity, and poor sleep behaviors.
+
+ Healthy Detours is a location-based smartphone application tailored in real-time to a student's schedule and locale, and aims to guide students toward healthier eating, exercise, and lifestyle choices as a way to prevent the onset of damaging and costly health outcomes.
+
+ Through a randomized control trial, this Phase II project will test the effectiveness of an evidence-based smartphone application that will provide students with on-demand, location-specific information about healthy lifestyle choices.
+

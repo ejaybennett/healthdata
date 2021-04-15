@@ -1,0 +1,62 @@
+(fifthQuint)Closing the Loop for 36 Hours in Adolescents With Type 1 Diabetes.
+
+ The study is an open-label, randomised, 2-period crossover study comparing the closed-loop insulin therapy with the conventional insulin pump therapy in 12 adolescents with type 1 diabetes.
+
+ Subjects who consented to take part in the study will attend the Clinical Research Facility on two occasions, each lasting 36 hours.
+
+ Approximately 1-3 days prior to each Study Visit, a subcutaneous continuous glucose monitoring (CGM) device will be inserted.
+
+ On each Study Visit subjects will arrive between 17:30 and 18:00 and will stay in the clinical research facility for two nights.
+
+ Shortly after arrival the subjects will have Actiheart monitor fitted and a cannula inserted into a vein of one arm for blood sampling purposes.
+
+ Blood sampling for plasma glucose and plasma insulin will start at 18:30 and will be carried out at 30 minutes intervals during the day and at 60min intervals during the night throughout the study period.
+
+ Plasma glucose measurements will be done in real time every 30min during the day and every 60min during the night except when when plasma glucose < 3.
+
+5mmol/L or following treatment for hypoglycaemia, when the measurements will be carried out every 15 minutes.
+
+ On Study Visit 1 the subjects will be randomised on arrival to receive either the conventional insulin pump therapy or the closed-loop intervention.
+
+ At 18:30 subjects will perform 5 to 10 minutes exercise on a bicycle to determine the settings needed to achieve a heart rate of 140 bpm corresponding to an exercise level at 55%60% of peak VO2.
+
+ In the closed-loop intervention arm the insulin pump therapy will be driven by the computer-based algorithm from 19:30 until the end of the study.
+
+ The basal insulin infusion rate on the insulin pump will be adjusted manually at 15min intervals following the computer-based algorithm advice.
+
+ During the control arm, the subject will carry on with their usual insulin pump regimen.
+
+ In both groups CGM will be continued throughout the whole of the study period.
+
+ Subjects who completed Study Visit 1 will cross over to the alternative Study Visit schedule after an interval of 1 to 6 weeks.
+
+.
+
+ Closing the Loop for 36 Hours in Adolescents With Type 1 Diabetes@highlight
+
+High variability of blood sugar levels and high incidence of night-time hypoglycaemia (low blood sugar) in young people with type 1 diabetes (T1D) make achieving the treatment goals in this population extremely challenging.
+
+ Our ongoing research focuses on the development of a closed-loop glucose control in children and adolescents with T1D.
+
+ The three components of the closed-loop system are a continuous glucose monitor, an insulin pump, and a computer-based algorithm.
+
+ The studies performed thus far evaluated the efficacy and safety of overnight closed-loop glucose control.
+
+ The results showed that overnight closed-loop improved control of blood glucose and prevented nocturnal hypoglycaemia, as compared to the conventional insulin pump therapy.
+
+ The next objective is to evaluate the efficacy and safety of closed-loop insulin delivery over a prolonged time period, including the daytime, when normal living activities occur.
+
+ This will pave the way for a more comprehensive use of closed loop systems to control glucose levels in T1D.
+
+ The present study adopts an open-label, randomised, 2-period cross-over design whereby the safety and efficacy of closed-loop insulin therapy will be compared with the conventional insulin pump therapy in 12 adolescents with T1D.
+
+ Participants aged 12 to 18 years will be randomised for two 36 hour studies in a clinical research facility, during which glucose levels will be controlled by either the computer-based closed-loop algorithm (intervention arm) or by conventional insulin pump therapy (control arm).
+
+ During both studies participants will perform normal daily activities, i.
+
+e.
+
+ playing, reading, snacking and physical activity.
+
+ On both occasions, the Actiheart, a combined heart rate and movement sensor will be used to accurately quantify each subject's individual physical activity energy expenditure during the 36 hour study period and for 36 hours of free living during weekday.
+

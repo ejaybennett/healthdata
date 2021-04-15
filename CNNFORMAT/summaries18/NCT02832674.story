@@ -1,0 +1,48 @@
+(fifthQuint)Safety and Effectiveness Evaluation of the Device in Achieving Submental Lift.
+
+ This is an open-label, single-center, single-treatment prospective evaluation of the ThermiRF device in the treatment of submental skin laxity.
+
+ The purpose of this prospective study is to determine the effectiveness and safety of the ThermiRF device in achieving overall submental lift.
+
+ In this study, "Lift" is defined as a 20 mm2 lift of the submental area after the ThermiRF treatment.
+
+ A total of 70 male and female healthy volunteers between the age of 35 and 65 will be considered for this study.
+
+ Subjects who sign the informed consent form and meet all entry criteria will be enrolled in this study and will be assigned a unique number/code to preserve confidentiality.
+
+ A total of six study visits are planned as described below: - Visit 1: Screening visit - (Day 1) - Visit 2: Single Treatment visit - Visit 3: Day 30 safety assessment ( 7 to 14 days) - Visit 4: Day 60 safety and Image capture for validation exercise ( 7 to 14 days) - Visit 5: Day 90 safety and effectiveness follow-up visit ( 7 to 14 days) - Visit 6: Day 180 safety and effectiveness follow-up visit - ( 7 to 14 days) Photo images (2D and 3D) will be collected at Visits 1, Visit 4 (on first 30 subjects only), and at Visits 5 and 6 using a standard camera (2D) and the Vectra system (3D).
+
+ The purpose of the photos are to quantitatively and qualitative evaluate treatment effectiveness using objective and subjective assessments to measure physical changes to the skin's microstructure and aesthetic skin features over time.
+
+ A skin elasticity assessment using the Cutomer will be collected at Visits 1 (screening), 5 (Day 90) and 6 (Day 180) to assess if any biomechanical changes of the skin occurred as a result of the ThermiRF treatment.
+
+ Safety assessments will be collected using the Numerical Rating Scale (NRS) a 10-point scale, and adverse events reports (observed or reported).
+
+ The overall study duration is approximately 12 months (i.
+
+e.
+
+, 5-6 month recruitment period and 6 month study visits).
+
+.
+
+ Safety and Effectiveness Evaluation of the Device in Achieving Submental Lift@highlight
+
+A prospective evaluation of the ThermiRF device in treating skin laxity under the chin and neck.
+
+ Seventy male and female subjects between the age of 35 and 65 (inclusive) will be enrolled in this trial.
+
+ The first 30 subjects will have a total of 6 study visits while the remainder will have a total of 5 study visits.
+
+ All subjects will have a single treatment administered.
+
+ The first 30 subjects will have an extra visit at Day 60 intended to allow collection of photo images post treatment to be used for the validation of three blinded raters.
+
+ Photo images will be collected using 2D standard photography and 3D using the Vectra system.
+
+ The architecture of the skin in the affected area will be measured using the Cutometer, a suction like instrument that measures elasticity.
+
+ Sensory and safety will be measured using a 0-10 point numerical rating scale (NRS) and collection of safety reports.
+
+ The study duration is approximately 6 months.
+

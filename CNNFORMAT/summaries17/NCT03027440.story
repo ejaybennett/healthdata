@@ -1,0 +1,118 @@
+(fifthQuint)The Developmental Origins of Suicide Mortality.
+
+ Objective: The overarching objective of this study is to ascertain the vital status and cause-specific mortality of children born to participants in the Collaborative Perinatal Project (CPP) between 1959 and 1966 in order to investigate domains of vulnerability to suicide that are hypothesized to be established in early childhood.
+
+ This will be accomplished by linking existing data in the NICHD-CPP cohort to the National Death Index (NCHS National Center for Health Statistics).
+
+ This project does not involve direct contact with human subjects participants.
+
+ The rationale for this project is as follows.
+
+ Suicide rates are rising, from 10.
+
+43/100,000 in 2000 to 13.
+
+02/100,000 in 2013.
+
+ In 2013, suicide was the third leading cause of death among children ages 10-14 years and the second leading cause of death between ages 15 and 24.
+
+ Suicide accounts for 800,000 years of potential life lost annually.
+
+ In addition to an economic impact exceeding $40 billion per year, it has devastating personal impacts on survivors as well as the general public.
+
+ Although numerous risk factors have been identified, including prior attempts, traumatic or stressful life events, and sociodemographic, psychiatric, psychological, biological and family, and socioeconomic characteristics, accurate prediction of suicide remains elusive even in high-risk groups.
+
+ To date, epidemiologic studies of suicide have largely focused on proximal risk factors and developmental stages beyond the initial formation of vulnerability, despite growing evidence that frames psychiatric disorders as neurodevelopmental disorders.
+
+ Evidence is also increasing that adolescent and adult precipitants of suicide have roots in early childhood.
+
+ Study population: The study population consists of 52,966 children born to women who enrolled in the CPP and known to be alive at age 7 years.
+
+ The CPP involved the systematic and extensive observation and examination of 58,760 pregnancies, including collection of blood samples collected at the first and subsequent prenatal visits, and follow-up assessments of offspring through the first 7 years of life (Niswander and Gordon, 1972).
+
+ National follow-up rates for surviving offspring (96.
+
+7% of study births at age 7 years) were 88% at year 1, 75% at year 4, and 79% at year 7.
+
+ Design: This study consists of secondary analyses in which CPP offspring data will be linked to the National Death Index to determine vital status and cause(s) of death.
+
+ NICHD is the steward of personally identifying information from the CPP.
+
+ Data on offspring, including date (month, day, and year), name, father s surname, state of birth, and race/ethnicity will be submitted to the National Death Index (NDI) for a record search covering the years 1979 to 2016 (all years included within the NDI).
+
+ Results of the NDI linkage will be anonymized and then merged with existing CPP data for statistical analyses.
+
+ Hypotheses to be tested include the following: Examples of hypotheses to be tested include the following: 1.
+
+ Being born small for gestational age (SGA), low birth weight (LBW), and exposure to maternal metabolic (e.
+
+g.
+
+, gestational diabetes) and psychiatric conditions will be associated with an increased risk for suicide mortality.
+
+ 2.
+
+ Family socioeconomic disadvantage, residential instability, and family disruption during the first 7 years of life will be associated with an increased risk of suicide mortality.
+
+ 3.
+
+ Children whose behavioral profiles are characterized by low attention, conduct problems, and emotional withdrawal will have an elevated risk of suicide.
+
+ 4.
+
+ Children with lower scores on tests of intelligence at ages 4 and 7 will have an increased risk of suicide.
+
+ 5.
+
+ Neurological soft signs and neurological hard signs detected in clinical examinations during early childhood will be associated with later suicide risk.
+
+ 6.
+
+ There will be a systematic pattern of differences between 275 suicide cases and 550 matched controls selected from among the remaining CPP offspring, with cases exhibiting a pattern of biomarker concentrations consistent with a perturbation of the maternal immune system from what would be expected during a normal pregnancy.
+
+ Outcome measures: Suicide mortality.
+
+.
+
+ The Developmental Origins of Suicide Mortality@highlight
+
+Background: Suicide rates are rising.
+
+ In 2013, it was the third leading cause of death in children ages 10-14.
+
+ It was the second leading cause of death for ages 15-24.
+
+ Many risk factors for suicide have been found.
+
+ But it is hard to predict.
+
+ Evidence is growing that some factors that may make people vulnerable to suicide can be identified before birth or in early childhood.
+
+ Researchers want to study vulnerability to suicide.
+
+ They want to look at different kinds of development.
+
+ These include prenatal, social, behavioral, cognitive, and neurologic.
+
+ They will do this by linking data from the United States Collaborate Perinatal Project (CPP) to the National Death Index (NDI).
+
+ The CPP data are from about 50,000 children born to mothers who enrolled in the 1960s.
+
+ The CPP observed and examined about 60,000 pregnancies.
+
+ Then it followed the babies from when they were born through age 7.
+
+ The CPP collected data on things like family and medical history, economic status, and behavior.
+
+ The NDI has data on the date and cause of death.
+
+ Objective: To link data from the CPP to the NDI in order to study certain precursors to suicide.
+
+ Eligibility: Children born to women who enrolled in the CPP in 1959 1966 and known to be alive at age 7 Design: Data on children from the CPP will be submitted electronically to the NDI.
+
+ It will be encrypted and data from the NDI will be deidentified to protect confidentiality.
+
+ It will then be merged with existing CPP data.
+
+ Researchers will analyze the data.
+

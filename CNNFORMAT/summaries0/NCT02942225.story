@@ -1,0 +1,52 @@
+(fifthQuint)The Metabolome Profiling and Pathway Analysis of ADHD.
+
+ Because attention deficit hyperactivity disorder (ADHD) is an early onset and long-term impairing disorder with tremendous impact on individuals, families, and societies, detection and diagnosis are very important for ADHD.
+
+ Current diagnosis of ADHD relies mainly on clinical observation and interview tools that may involve a great subjective variability, and thus the investigation of objective biomarkers for ADHD is warranted.
+
+ Metabolomics is the study of a biologic process involving all metabolites that are end products of the cellular process in a whole organism.
+
+ Because metabolites represent the downstream expression of genome, transcriptome, and proteome, metabolomic profiles are more proximal to the behavioral phenotypes of ADHD.
+
+ Analyzing metabolic differences between children with ADHD and healthy controls will provide insight into underlying disease pathology.
+
+ To date, there has been no metabolomics study on ADHD.
+
+ In this 3-year project, the investigators will perform a metabolomics analysis of serum to identify potential biomarkers for the behavioral and neuropsychological deficits of ADHD.
+
+ This is a 3-year project.
+
+ After careful calculation of sample size, the investigators will recruit 35 drug-naive children with ADHD, aged 7-18, and 35 healthy controls with matched age, sex and BMI.
+
+ Using both liquid chromatography-mass spectrometry and gas chromatography-mass spectrometry, serum-based metabolomic profiling will be performed.
+
+ The behavioral measures include ADHDRS-IV, SNAP-IV, CBCL, CGI-ADHD-S, SAICA, and Family APGAR-C.
+
+ Neuropsychological testing, including CPT and CANTAB, will be performed.
+
+ Conditional logistic regression and partial least squares discriminant analysis will be applied to identify significant metabolites for ADHD.
+
+ Pathway enrichment and topology analyses will be conducted to evaluate the regulated pathways.
+
+ Using a matched study design, the investigators anticipate to identify specific metabolites that show significant differences between ADHD and control groups.
+
+ In addition, results of pathway analysis may offer more biological understanding in explaining the underlying metabolic regulation among children with ADHD.
+
+ This findings will significantly contribute to the knowledge of the pathophysiological mechanisms of ADHD, especially the metabolomic pathway related to the behavioral/neuropsychological deficits of ADHD.
+
+.
+
+ The Metabolome Profiling and Pathway Analysis of ADHD@highlight
+
+The purpose of this study is to understand the pathophysiological mechanisms of ADHD, especially the metabolomic pathway related to the behavioral/neuropsychological deficits of ADHD.
+
+ To identify specific metabolites that show significant differences between ADHD and control groups, both liquid chromatography-mass spectrometry and gas chromatography-mass spectrometry will be performed.
+
+ In addition, the behavioral measures include ADHDRS-IV, SNAP-IV, CBCL, CGI-ADHD-S, SAICA, and Family APGAR-C.
+
+ Neuropsychological testing, including CPT and CANTAB, will be performed.
+
+ Conditional logistic regression and partial least squares discriminant analysis will be applied to identify significant metabolites for ADHD.
+
+ Pathway enrichment and topology analyses will be conducted to evaluate the regulated pathways.
+

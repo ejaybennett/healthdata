@@ -1,0 +1,44 @@
+(fifthQuint)Selumetinib and Akt Inhibitor MK2206 or mFOLFOX Therapy Comprising Oxaliplatin and Fluorouracil in Treating Patients With Metastatic Pancreatic Cancer Previously Treated With Chemotherapy.
+
+ PRIMARY OBJECTIVES: I.
+
+ To assess overall survival in patients with metastatic pancreatic cancer treated with the combination of AZD6244 hydrogen sulfate (selumetinib) and MK-2206 (Akt inhibitor MK2206) compared to those treated with mFOLFOX.
+
+ SECONDARY OBJECTIVES: I.
+
+ To assess the frequency and severity of toxicity associated with the combination of AZD6244 hydrogen sulfate and MK-2206 compared to those with mFOLFOX in this patient population.
+
+ TERTIARY OBJECTIVES: I.
+
+ To assess progression free survival (PFS) in patients with metastatic pancreatic cancer treated with the combination of AZD6244 hydrogen sulfate and MK-2206 compared to those treated with mFOLFOX.
+
+ II.
+
+ To assess objective tumor response in the subset of patients with measurable disease (confirmed and unconfirmed complete and partial response) in patients with metastatic pancreatic cancer treated with the combination of AZD6244 hydrogen sulfate and MK-2206 compared to those treated with mFOLFOX.
+
+ III.
+
+ To bank tissue and blood for future translational medicine studies.
+
+ OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ ARM I: Patients receive oxaliplatin intravenously (IV) over 2 hours on days 1 and 15 and fluorouracil IV over 46-48 hours on days 1-2 and 15-16 (mFOLFOX).
+
+ ARM II: Patients receive Akt inhibitor MK2206 orally (PO) on days 1, 8, 15, and 22, and selumetinib PO daily on days 1-28.
+
+ In all arms, courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up every 6 months for up to 3 years.
+
+.
+
+ Selumetinib and Akt Inhibitor MK2206 or mFOLFOX Therapy Comprising Oxaliplatin and Fluorouracil in Treating Patients With Metastatic Pancreatic Cancer Previously Treated With Chemotherapy@highlight
+
+This randomized phase II trial studies how well selumetinib and Akt inhibitor MK2206 work compared to modified fluorouracil, leucovorin calcium, and oxaliplatin (mFOLFOX) therapy in treating patients with metastatic pancreatic cancer previously treated with chemotherapy.
+
+ Selumetinib and Akt inhibitor MK2206 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Drugs used in chemotherapy, such as oxaliplatin, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ It is not yet know whether selumetinib and Akt inhibitor MK2206 are more effective than oxaliplatin and fluorouracil in treating patients with metastatic pancreatic cancer.
+

@@ -1,0 +1,22 @@
+(fifthQuint)A Phase I Safety and Immunogenicity Trial of UBI Multivalent HIV-1 Peptide Immunogen in HIV-1 Seronegative Human Subjects.
+
+ Because there is considerable variation among HIV-1 virus strains from differing geographical locations worldwide, a multivalent peptide vaccine has been constructed to include prevalent and divergent isolates, potentially providing for wide coverage of geographically isolated epidemics.
+
+ Fourteen volunteers are entered at one of two dose levels of multivalent candidate vaccine.
+
+ At each dose level, 12 volunteers receive vaccine and two receive placebo.
+
+ At least eight volunteers at the low dose level must be monitored for 2 weeks before subsequent volunteers are entered at the high dose.
+
+ Intramuscular injections are given on days 0, 28, and 168, and patients are followed for a minimum of 48 weeks after the initial immunization.
+
+ Approximately 13 clinical visits are required.
+
+.
+
+ A Phase I Safety and Immunogenicity Trial of UBI Multivalent HIV-1 Peptide Immunogen in HIV-1 Seronegative Human Subjects@highlight
+
+To evaluate, in healthy adult volunteers, the safety and immunogenicity of multivalent HIV-1 peptide immunogen, a formulation of HIV-1 gp120 principal neutralizing domain (PND) branched synthetic peptides from 15 viral strains representative of diverse worldwide isolates.
+
+ Because there is considerable variation among HIV-1 virus strains from differing geographical locations worldwide, a multivalent peptide vaccine has been constructed to include prevalent and divergent isolates, potentially providing for wide coverage of geographically isolated epidemics.
+

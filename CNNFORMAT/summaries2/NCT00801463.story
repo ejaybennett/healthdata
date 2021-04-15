@@ -1,0 +1,24 @@
+(firstQuint)Prednisone Plus Tripterygium Wilfordii Treatment of Adult Patients With Idiopathic Focal Segmental Glomerulosclerosis.
+
+ Primary FSGS is a leading cause of end stage renal disease in adults, with complete loss of kidney function in 50% of patients over 10 years.
+
+ Steroids, which are currently used to treat the disease, are effective in part of patients.
+
+ Over the past decade, a number of studies have reported therapeutic efficacy for treatment with high-dose and over 6mo prednisone in patients with FSGS.
+
+ These studies show that the total effective rates were only around 50%.
+
+ But this therapy had taken some side effects of prednisone.
+
+ Except these studies, in recent studies suggest that Tripterygium Wilfordii may be effective for passive Heymann nephritis, podocyte injury in nephrosis rats induced y puromycin aminonucleoside, and so on.
+
+ FSGS is a podocytepathy.
+
+ There was no-data of Prednisone and Tripterygium Wilfordii treatment of Chinese adult patients with idiopathic FSGS.
+
+.
+
+ Prednisone Plus Tripterygium Wilfordii Treatment of Adult Patients With Idiopathic Focal Segmental Glomerulosclerosis@highlight
+
+The purpose of this study is to assess the efficacy of prednisone and tripterygium wilfordii in treated Focal Segmental Glomerulosclerosis (FSGS).
+

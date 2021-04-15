@@ -1,0 +1,38 @@
+(fifthQuint)Rapid Detection of Rifampin and Isoniazid Resistance by PCR Before Tuberculosis (TB) Treatment Initiation.
+
+ The impact of rapid detection of resistance with PCR has been poorly evaluated in low-endemic countries.
+
+ In France, primary resistance to isoniazid and rifampicin were estimated at, respectively, 5.
+
+2%, and 1.
+
+2 %.
+
+ Based on these estimates, French guidelines currently recommends to initiate a 4-drug containing regimen associating isoniazid (INH or H), rifampicin (RIFor RMP or R), pyrazinamide (PZA or Z) and ethambutol (EMB or E) pending the results of drug susceptibility testing (DST).
+
+ The rationale behind routine use of EMB is to prevent the emergence of resistance to rifampicin (RMP), in case of primary resistance to INH.
+
+ Hence, early detection of resistance to INH and RIF using molecular testing in Mycobacterium tuberculosis could allow early adaptation of antituberculosis treatment: i) start with a 3-drug containing regimen (i.
+
+e.
+
+ INH, RIF, and PZA), in patients with fully susceptible isolates (currently 95% of cases); ii) early enforcement of treatment when resistance is suspected, pending in depth susceptibility testings.
+
+ GenoType (R)MTB DR plus sensitivity for RIF and INH resistance detection has been estimated at 100% and 83%, respectively.
+
+.
+
+ Rapid Detection of Rifampin and Isoniazid Resistance by PCR Before Tuberculosis (TB) Treatment Initiation@highlight
+
+French guidelines currently recommend to initiate a 4-drug containing regimen associating isoniazid (INH or H), rifampicin (RIFor RMP or R), pyrazinamide (PZA or Z) and ethambutol (EMB or E) pending the results of drug susceptibility testing (DST).
+
+ The rationale behind routine use of EMB is to prevent the emergence of resistance to rifampicin (RMP), in case of primary resistance to INH.
+
+ Hence, early detection of resistance to INH and RIF using molecular testing in Mycobacterium tuberculosis could allow early adaptation of antituberculosis treatment: i) start with a 3-drug containing regimen (i.
+
+e.
+
+ INH, RIF, and PZA); ii) early enforcement of treatment when resistance is suspected, pending in depth susceptibility testings.
+
+ the duration of treatment is 6 months or 12 months.
+

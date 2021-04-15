@@ -1,0 +1,22 @@
+(secondQuint)Risk Stratification-directed Therapy for AML With t(8;21) /AML1-ETO+.
+
+ Acute myeloid leukemia with t(8;21) /AML1-ETO-positive (AE AML) is a heterogeneous disease entailing different prognoses.
+
+There were significant differences in the therapeutic effect between different subgroups of AE AML.
+
+ For example, patients with c-kit mutation had higher relapse rate and lower overall survival, compared with those without c-kit mutation.
+
+ Therefore, risk stratification-directed therapy is very necessary for AE AML.
+
+ The purpose of this study is to establish risk stratification-directed therapy for AE AML.
+
+.
+
+ Risk Stratification-directed Therapy for AML With t(8;21) /AML1-ETO+@highlight
+
+Acute myeloid leukemia with t(8;21) /AML1-ETO-positive (AE AML) is a heterogeneous disease entailing different prognoses.
+
+ There were significant differences in the therapeutic effect between different subgroups of AE AML.
+
+ Therefore, risk stratification-directed therapy is very necessary for AE AML.
+

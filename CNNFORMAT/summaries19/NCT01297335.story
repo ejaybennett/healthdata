@@ -1,0 +1,16 @@
+(secondQuint)Effect of Intrathecal Clonidine in Hypertensive Subjects With Poorly Controlled Blood Pressure.
+
+ Hypertension occurs commonly, is associated with major morbidity and mortality, and responds poorly to current therapies in a small minority of compliant patients.
+
+ The goal of this investigator-initiated study is to determine whether intrathecal administration of clonidine reduces blood pressure in hypertensive patients, focusing on a group who often achieve inadequate blood pressure control with multiple drug therapy.
+
+ After consent, pts will be screened and if qualified brought into center and intrathecal injection of clonidine given.
+
+ Patients will be closely monitored for 4 hours, while data is collected.
+
+.
+
+ Effect of Intrathecal Clonidine in Hypertensive Subjects With Poorly Controlled Blood Pressure@highlight
+
+The purpose of this study is to determine the acute efficacy of intrathecal clonidine to reduce blood pressure in hypertensive subjects with poor blood pressure control and describe its effects on cardiovascular function.
+

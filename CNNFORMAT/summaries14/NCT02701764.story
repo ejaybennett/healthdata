@@ -1,0 +1,17 @@
+(firstQuint)Can Pregabalin Reduce the Frequency and Severity of Dry Eye Symptoms After Laser-assisted in Situ Keratomileusis?.
+
+ Dry eye symptoms can occur after LASIK surgery.
+
+ They generally get better with time but in some patients, they can persist.
+
+ The investigators believe that in some individuals, dry eye symptoms after LASIK persist because the nerves in the cornea become hypersensitive.
+
+ The investigators wish to study if a medication, called pregabalin, can protect corneal nerves at the time of LASIK surgery and decrease the frequency and severity of dry eye symptoms 6 months after surgery.
+
+ This medication has been used in a similar way to reduce the frequency of uncomfortable sensations after other surgeries (knee, abdomen) but has never been studied in LASIK surgery.
+
+.
+
+ Can Pregabalin Reduce the Frequency and Severity of Dry Eye Symptoms After Laser-assisted in Situ Keratomileusis?@highlight
+
+Can Lyrica (Pregabalin) help prevent severe Dry Eye post LASIK surgery?

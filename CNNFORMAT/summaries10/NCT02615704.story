@@ -1,0 +1,27 @@
+(fifthQuint)"Me and My Heart" Study.
+
+ The target population are patients hospitalised with acute coronary syndrome (ACS) 18 years or older with access to an electronic device (compatible with the patient support tool), diagnosed with ST elevation myocardial infarction (STEMI), non-ST elevation myocardial infarction (NSTEMI), unstable angina pectoris (UA) and treated with twice daily Brilique (ticagrelor) co administered with low dose acetylsalicylic acid (ASA) according to the prescription recommendation, within 14 days following the diagnosis of the ACS event.
+
+ Patients will be randomised 1:1 into an active group receiving the patient support tool under investigation via electronic device application (APP) and a control group without patient support tool.
+
+ In addition, both active and control group will be randomised 1:1 to a group with or without use of a Medical Event Monitoring System (MEMS) for evaluation of treatment adherence.
+
+ Patient questionnaires for evaluation of lifestyle changes, and quality of life will be administered at the beginning (Visit 1) and end (Visit 2) of the observation period.
+
+ In addition, questionnaires for adherence, treatment attitudes, health care utilization and risk factors will be administered in monthly intervals This is a randomised investigation according to paragraph 23b of the German Medical Device Law examining the impact of the APP use on drug adherence, drug persistence and lifestyle changes in patients who have been prescribed Brilique (ticagrelor) as part of normal clinical practice in a 12 month timeframe after their ACS episode.
+
+ The device has a European Conformity Declaration (CE-mark).
+
+ In this study no investigational product will be dispensed to the study participants.
+
+ Patients will need to provide their own Brilique(ticagrelor) supply from the pharmacy, as in common clinical practice.
+
+ Further, assessments in this study will not be used for guiding the treatment of the patients participating in the study.
+
+.
+
+ "Me and My Heart" Study@highlight
+
+An electronic device application (APP) "Mein Herz und ich" has been developed specifically for acute coronary syndrome (ACS) patients who are prescribed to Brilique (ticagrelor) to increase adherence to treatment (medication and lifestyle changes) by a combination of reminders on medication intake, information on the importance of treatment, motivation by supportive messages, and visualisation of individual lifestyle choices' effect on cardiovascular risk.
+
+ The aim of this study is to evaluate the effectiveness of this patient support tool

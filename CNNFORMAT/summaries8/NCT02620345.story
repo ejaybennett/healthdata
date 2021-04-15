@@ -1,0 +1,20 @@
+(firstQuint)Fibroids in Women of Reproductive Age and Women Pregnancy.
+
+ Uterine fibroids are a very common finding in women of reproductive age.
+
+ But may fibroids grow in the first trimester pregnancy.
+
+ Clinically has shown that: Uterine fibroids are associated with an Heavy or prolonged menstrual periods.
+
+ Abnormal bleeding between menstrual periods.
+
+ Uterine fibroids are associated with an increased rate of spontaneous miscarriage, preterm labor, placenta abruption, malpresentation, labor dystocia, cesarean delivery, and postpartum hemorrhage, pain is the most common complication of fibroids during pregnancy.
+
+ Can usually be controlled by conservative treatment on Dydrogesterone Multivitamin nature.
+
+.
+
+ Fibroids in Women of Reproductive Age and Women Pregnancy@highlight
+
+Dydrogesterone Multivitamin Nature treatment of fibroids in women of reproductive age and women pregnancy to lost the size fibroids.
+

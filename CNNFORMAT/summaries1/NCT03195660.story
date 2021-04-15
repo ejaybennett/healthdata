@@ -1,0 +1,22 @@
+(secondQuint)Adherence to ASV Therapy in Heart Failure With Preserved Ejection Fraction Feasibility Study.
+
+ Cardiovascular Improvements with Minute Ventilation-targeted ASV Therapy in Heart Failure Study (CAT-HF) was a randomized controlled clinical trial in the United States and Germany.
+
+ It was designed to evaluate the effect of ASV in hospitalized heart failure (HFrEF and HFpEF) patients on a global rank endpoint of survival free from CV hospitalization and improvement in functional capacity measured by 6-minute walk distance.
+
+ Analysis of the 126 subjects that were randomized showed a neutral result for the primary endpoint; however, in the pre-specified analysis of the primary endpoint by LVEF strata, there was a favorable statistically significant difference in the HFpEF subgroup (p=0.
+
+036).
+
+ Although the CAT-HF study showed a positive signal in the HFpEF subgroup, these patients represented a small percentage of the randomized subjects in the study.
+
+ The current study aims to show that by applying newer technologies to support adherence, as well as focusing on the lessons learned in CAT-HF to identify and recruit HFpEF patients, acceptable adherence to ASV therapy can be achieved in HFpEF patients.
+
+.
+
+ Adherence to ASV Therapy in Heart Failure With Preserved Ejection Fraction Feasibility Study@highlight
+
+This study is designed to demonstrate feasibility of study conduct and that acceptable adherence to adaptive servo-ventilation (ASV) therapy can be achieved in recently hospitalized HFpEF patients with moderate to severe sleep apnea.
+
+ All subjects meeting the criteria will receive ASV therapy.
+

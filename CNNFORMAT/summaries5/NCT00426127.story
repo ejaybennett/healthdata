@@ -1,0 +1,28 @@
+(thirdQuint)Docetaxel and Liposomal Doxorubicin Chemotherapy With Enoxaparin in Patients With Advanced Pancreatic Cancer.
+
+ The objective of the study is to determine the safety and efficacy of the combination of docetaxel and liposomal doxorubicin chemotherapy combined with enoxaparin in patients with advanced pancreatic cancer.
+
+ Docetaxel (TAXOTERE) belongs to the group of anticancer drugs called mitotic inhibitors.
+
+ Liposomal doxorubicin (Doxil) is an anthracycline, and is thought to prevent nucleic acid synthesis that is needed to make DNA.
+
+ Enoxaparin (Lovenox) is an anticoagulant.
+
+ We are interested in combining chemotherapy with the blood thinner enoxaparin because there is a scientific link between blood clotting and malignancy.
+
+ This research is being done to improve on currently available chemotherapy treatments for advanced pancreatic cancer.
+
+ The main goal of the study is to find out if this combination chemotherapy and enoxaparin increases the number of individuals whose tumors shrink.
+
+ Another purpose of this study is to find out how this study treatment effects blood clotting levels in individuals.
+
+ We will also determine the incidence of elevated D-dimer and the effect of this regimen on the level of D-dimer, and collect safety data on this regimen.
+
+.
+
+ Docetaxel and Liposomal Doxorubicin Chemotherapy With Enoxaparin in Patients With Advanced Pancreatic Cancer@highlight
+
+The purpose of this study is to assess the effects of the treatment combination of the commercially available chemotherapy drugs, docetaxel and liposomal doxorubicin, and a blood thinner Enoxaparin on pancreatic cancer.
+
+ The main goal of the study is to find out if this combination chemotherapy and enoxaparin increases the number of individuals whose tumors shrink.
+

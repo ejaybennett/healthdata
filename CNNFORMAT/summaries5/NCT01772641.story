@@ -1,0 +1,48 @@
+(fifthQuint)A Smoking Intervention Study Using Scheduled Gradual Reduction With Varenicline to Help With Cessation.
+
+ Smoking remains an intransigent public health concern.
+
+ There is ample evidence that non-pharmacological factors, such as environmental triggers (e.
+
+g.
+
+, sight or smell of a cigarette), can give rise to strong classically-conditioned urges to smoke (termed 'cue-reactivity' [CR]), and that exposure to smoking cues can contribute to cessation failure.
+
+ One promising intervention that may address CR is scheduled smoking with gradual reduction (SGR).
+
+ Under SGR, individuals smoke only at fixed intervals, and over several weeks, systematically decrease their cigarettes consumed each day.
+
+ The approach is postulated to: 1) provide 'practice' coping with environmentally-triggered cravings that occur during the inter-cigarette intervals, yielding increased self-efficacy to quit, and 2) weaken the associations between cues and smoking.
+
+ Accumulating evidence has also shown that the smoking cessation drug, varenicline (VN), substantially ameliorates cravings and enhances cessation, significantly outperforming other drugs.
+
+ Interestingly, recent animal research suggests that VN may operate at least partially by dampening conditioned drug cravings.
+
+ A combination therapy consisting of SGR+VN might thus lead to significantly enhanced cessation, simultaneously attacking cravings using both pharmacological and non-pharmacological approaches.
+
+ Because the beneficial effects of SGR and VN may be at least partially due to enhanced management of conditioned cravings, it is possible that that they will be particularly efficacious for smokers with high levels of CR.
+
+ Using both laboratory experimental techniques and a prospective intervention design in this R34 application, we propose to provide initial data to: 1) test the hypothesis that a combination of SGR+VN will enhance cessation, 2) explore the possibility that SGR and VN might be particularly efficacious among smokers with higher levels of CR, and 3) explore potential mechanisms underlying treatment effects.
+
+ Findings from this study would set the stage for larger efficacy and effectiveness trials of SGR alone and in conjunction with VN, as well as efforts to target SGR and/or VN toward the subgroups that would benefit the most (e.
+
+g.
+
+, smokers with high levels of CR, carriers of specific smoking-related genotypes).
+
+.
+
+ A Smoking Intervention Study Using Scheduled Gradual Reduction With Varenicline to Help With Cessation@highlight
+
+This study has three main aims.
+
+ Aim 1: To provide initial data on the efficacy of combined Scheduled Gradual Reduction (SGR) and Varenicline (VN) for smoking cessation, by assessing abstinence and levels of smoking at 2 time points (4 and 12 weeks post quit).
+
+ Aim 2: To explore the possibility that SGR+VN will be particularly efficacious among smokers with higher background levels of Cue Reactivity (CR), as assessed at the start of the study, using a classic experimental smoking CR paradigm.
+
+ Aim 3: To explore possible mechanisms underlying the effects of SGR+VN, by assessing potential mediators (i.
+
+e.
+
+, self-efficacy, cue-induced cravings) of treatment effects.
+

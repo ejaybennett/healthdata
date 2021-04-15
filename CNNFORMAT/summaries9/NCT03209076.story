@@ -1,0 +1,18 @@
+(firstQuint)Robotic Versus Laparoscopic Low Anterior Resection for Rectal Cancer.
+
+ Prospective randomized trial comparing robotic versus laparoscopic Low anterior resection for rectal cancer.
+
+ The Aim of the study is to compare two surgical approaches (robotic versus laparoscopic) for rectal cancer treatment regarding functional outcomes (sexual and urinary dysfunctions), quality of life, post operative outcomes and oncologic outcomes.
+
+ Patients with the diagnosis of T3 mid and low rectal cancer will be randomized to robotic or laparoscopic procedure after neoadjuvant chemoradiation.
+
+ Quality of life questionnaires and Urodynamic test will be applied before and after the surgical procedures.
+
+.
+
+ Robotic Versus Laparoscopic Low Anterior Resection for Rectal Cancer@highlight
+
+Prospective randomized trial comparing robotic versus laparoscopic Low anterior resection for rectal cancer.
+
+ Primary endpoint: Compare urinary dysfunction between robotic and laparoscopic approach.
+

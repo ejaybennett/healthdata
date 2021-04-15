@@ -1,0 +1,40 @@
+(fifthQuint)Personalized Risk Estimator for Rheumatoid Arthritis Family Study.
+
+ A risk tool for rheumatoid arthritis (RA) was developed to provide personalized risk communication that includes biomarker, genetic and lifestyle RA risk factors.
+
+ This risk calculator is referred to as the Personalized Risk Estimator for Rheumatoid Arthritis (PRE-RA) which will be used in the PRE-RA Family Study.
+
+ A 3-arm randomized trial will be conducted among 222 RA first degree relatives that will be followed for one year.
+
+ Participants will be surveyed before and after RA education concerning (i) knowledge and attitudes about RA risk, (ii) decisional balance related to behaviors, and (iii) stage of behavior change concerning lifestyle risks.
+
+ At the initial study visit, participants will be randomly assigned to one of three arms.
+
+ Arm 1 participants will receive general education about RA (comparison group).
+
+ These participants will be followed to assess for willingness to change behaviors associated with RA risk.
+
+ Arm 2 participants will receive personalized risk by the personalized RA risk tool (PRE-RA).
+
+ These participants will be followed to assess for willingness to change RA risk behaviors.
+
+ Arm 3 participants will receive personalized risk by the online risk tool along with health education and counseling (PRE-RA Plus group).
+
+ These participants will be followed to assess for willingness to change RA risk behaviors.
+
+.
+
+ Personalized Risk Estimator for Rheumatoid Arthritis Family Study@highlight
+
+The purpose of this study is to understand how personalized risk factors for rheumatoid arthritis (RA) may impact willingness to change behaviors associated with RA.
+
+ The investigators have developed a personalized risk estimator for RA based on demographics, family history, biomarkers and behaviors related to RA risk.
+
+ Eligible participants have a first degree relative with RA but do not have RA themselves.
+
+ Participants who meet eligibility and consent to the study will be randomized to receive either standard information about RA, the online personalized RA risk tool, or the online personalized RA risk tool with guidance from a health educator.
+
+ Participants will be followed to measure willingness to change RA risk behaviors.
+
+ The investigators hypothesize that participants who receive the online personalized RA risk tool and health education will be more willing to change RA risk behaviors compared to participants that receive standard RA information.
+

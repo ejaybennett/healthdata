@@ -1,0 +1,24 @@
+(secondQuint)Quality of Life and Psychological Well-being in Patients With Malignant Melanoma.
+
+ Today, the consideration of the side effects of intensive treatment measures and their influence on quality of life are regarded as standard procedures in oncology.
+
+ Quality of life measurements have found their way into clinical studies as patient-reported outcomes.
+
+ In comparison to other tumor types, the field of dermato-oncology has had less research activity concerning quality of life.
+
+ However, in recent years more attention has been paid to health related quality of life in malignant melanoma patients, especially under adjuvant treatment with interferon-alpha.
+
+ Data about high dose IFN- treatment, especially from the USA, show that there are significant physical and psychological side effects, such as fatigue and depression, which often lead to dosage reduction or termination of treatment.
+
+ As yet, there are very few systematic studies about low dose IFN- treatment, especially in regard to the side effects during the course of the disease.
+
+ Concerning treatment side-effects it is known throughout various areas of oncology that specific psycho-oncological interventions assist in the patients' adaptation to the illness and handling of the side effects of therapy.
+
+.
+
+ Quality of Life and Psychological Well-being in Patients With Malignant Melanoma@highlight
+
+The purpose of this study is to analyse the physical and psychological side-effects in the course of treatment with IFN-alpha.
+
+ The effectiveness of a specific intervention for the management of these side-effects is evaluated.
+

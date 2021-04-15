@@ -1,0 +1,30 @@
+(thirdQuint)BReLLS: A Prospective Belgian Registry on Laparoscopic Liver Surgery.
+
+ During recent years we saw over the world a consistent growth of laparoscopic liver surgery (LLS), essentially due to progress of the surgical techniques, technology and diagnostic imaging.
+
+ During the Louisville conference on LLS (2008) the technique was thoroughly described and defined.
+
+ One of the most important statements was the promotion of national registries, taking into account the logistics and feasibility problems of randomized trials in this setting.
+
+ The main purpose to hold a Belgian national registry is to define the role of LLS in our country, looking for short and long-term outcomes, especially in case of liver tumors.
+
+ In Belgium approximately 1000 liver resections are performed each year, however, the rate and results of LLS are unknown.
+
+ The prospective data collection will highlight the role and incidence of LLS.
+
+ Eventually, the registry will serve as support for scientific projects on different topics.
+
+ The evolution of the national practice will be measured by looking to the ratio between laparoscopic and open procedures registered in the electronic CRF (eCRF) in a single center during a time period.
+
+ The registration of additional parameters (as per below) will be necessary for comparing outcomes between conventional and laparoscopic techniques.
+
+ The registered cases will be recorded prospectively and consecutively.
+
+.
+
+ BReLLS: A Prospective Belgian Registry on Laparoscopic Liver Surgery@highlight
+
+Setting up a Prospective Belgian National Registry of patients undergoing minimally invasive liver resections will allow the constitution of a national network able to get updated information on indication and results.
+
+ Data will be of great importance for additional scientific projects aimed to clarify the role of minimally invasive approach in surgical liver pathology, especially malignancies.
+

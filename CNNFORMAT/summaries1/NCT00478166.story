@@ -1,0 +1,18 @@
+(secondQuint)Posterior Cingulate Function in Persons With Risk Factors for Alzheimer's Disease.
+
+ The posterior cingulate is a key brain region suggested by recent studies to be affected in people at risk for Alzheimer's Disease (AD).
+
+ Because the PC is affected very early in the course of AD and the region may have reduced function even prior to the onset of symptoms, further understanding of its functional role and its relationship to other brain regions may be helpful in detecting AD earlier and in monitoring disease progression and treatment.
+
+ This project examines the role of the PC and its connections to other brain regions using functional magnetic resonance imaging (fMRI), a technique that allows us to examine the brain at work during tests of memory and decision-making.
+
+ The main goal is to see if functional connections between brain regions are modulated by risk for AD.
+
+.
+
+ Posterior Cingulate Function in Persons With Risk Factors for Alzheimer's Disease@highlight
+
+The purpose of this study is to use fMRI techniques to explore a certain part of the brain associated with Alzheimer's disease known as the posterior cingulate.
+
+ Determining the functionality of this brain region may help us diagnose AD more accurately, thus allowing earlier treatment.
+

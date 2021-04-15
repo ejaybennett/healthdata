@@ -1,0 +1,54 @@
+(fifthQuint)Gemcitabine With or Without Capecitabine in Treating Patients With Locally Advanced, Unresectable, or Metastatic Biliary Cancer.
+
+ OBJECTIVES: Primary - To compare overall survival (OS) rates in patients with locally advanced, unresectable or metastatic biliary tree cancer treated with combined gemcitabine hydrochloride and capecitabine vs.
+
+ gemcitabine hydrochloride alone.
+
+ Secondary - To compare progression-free survival (PFS) in this patient group.
+
+ - To compare response rates (complete response [CR] and partial response [PR]) in this patient group.
+
+ - To compare stable disease (SD) rates in this patient group.
+
+ - To compare rate of disease control (CR, PR and SD) in this patient group.
+
+ - To estimate and compare response duration in this patient group.
+
+ - To compare the effects of these treatments on measures of quality of life in this patient group using the EORTC QLQ-C30.
+
+ - To compare the nature, severity and frequency of toxicities between the two arms.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified according to tumour type (cholangiocarcinoma vs.
+
+ gallbladder or biliary unknown), ECOG performance status (0-1 vs.
+
+ 2), extent of disease (locally advanced vs.
+
+ metastatic), and treatment center.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I (Gemcitabine hydrochloride and capecitabine): Patients receive gemcitabine hydrochloride IV on days 1 and 8 and oral capecitabine twice daily on days 1-14.
+
+ Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ - Arm II (Gemcitabine hydrochloride alone): Patients receive gemcitabine hydrochloride IV on days 1, 8, and 15.
+
+ Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Quality of life is assessed at 12 weeks after randomization and 4 weeks after completion of study treatment.
+
+ After completion of study treatment, patients are followed at 4 weeks and then every 12 weeks thereafter.
+
+.
+
+ Gemcitabine With or Without Capecitabine in Treating Patients With Locally Advanced, Unresectable, or Metastatic Biliary Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as gemcitabine and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ It is not yet known whether gemcitabine is more effective when given together with or without capecitabine in treating patients with biliary cancer.
+
+ PURPOSE: This randomized phase III trial is studying giving gemcitabine together with capecitabine to see how well it works compared with giving gemcitabine alone in treating patients with locally advanced, unresectable, or metastatic biliary cancer.
+

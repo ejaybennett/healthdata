@@ -1,0 +1,30 @@
+(fifthQuint)Comparison Between Desarda and Lichtenstein's Technique for Inguinal Hernia Repair Under Local Anaesthesia.
+
+ Inguinal hernia is one of the most common treatable surgical conditions.
+
+ The synthetic prostheses most often used in the inguinal area may in some cases create new clinical problems, such as foreign body sensation in the groin, discomfort, and abdominal wall stiffness, surgical site infections, migration of mesh and may affect procreation and sexual function, The cost and availability of mesh prostheses in smaller towns and underdeveloped regions proves to be a major hindrance.
+
+ The requirement of the hour is to find a technique that is simple, cost effective, easy to perform, does not require extensive dissection or use of a foreign body, and also gives an acceptable recurrence rate without any major intra or post-operative complications and can be performed as a day care procedure to reduce the burden of cases in our community.
+
+ A possible option for this is the Desarda method, presented in 2001, which uses an undetached strip of aponeurosis of the external oblique muscle instead of a mesh and has shown to have promising results in studies conducted so far.
+
+ Several retrospective and randomized controlled trials have shown that local anaesthesia provides the best clinical and economic benefits to patients undergoing inguinal hernia repair.
+
+ As there have been no studies till date comparing the outcomes for patients operated by these methods under local anaesthesia only, hence this study has been planned to assess if Desarda's technique is suitable to be used as a day care procedure with early return to normal activities after surgery, less post operative discomfort and minimum dose of analgesics and acceptable recurrence rates.
+
+ This will help reduce the burden of the hospitals as these patients can be operated on a day care basis with minimal discomfort.
+
+.
+
+ Comparison Between Desarda and Lichtenstein's Technique for Inguinal Hernia Repair Under Local Anaesthesia@highlight
+
+Inguinal hernia repair is done by two methods.
+
+ The conventional method uses a prosthetic mesh for strengthening the defect but has been associated with complications.
+
+ Another new method uses a strip of the external oblique aponeurosis to do the same.
+
+There is a necessity to conduct studies comparing the two methods of hernia repair under local anaesthesia in terms of feasibility, economic benefits, faster ambulation with less complications.
+
+ The purpose of the study is to find a method that will lead to faster disposal of patients and early return to activities, thereby reducing the waiting list of patients that compromises their financial and social spheres and overwhelms the welfare system.
+

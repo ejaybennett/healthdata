@@ -1,0 +1,16 @@
+(firstQuint)Tumoral Circulating Cells and Colorectal Cancer Progression.
+
+ This study aims at allowing a better understanding of which circulating tumor cells (CTC) have the higher risk of metastasis of in the overall population of CTC.
+
+ Prospective monocenter open-label study.
+
+ In the frame of the management of the disease, blood samples will be collected at different times of treatment, regarding disease status (localized of stage II/III, metastatic non resectable, metastatic potentially resectable).
+
+ Tissue samples will be collected for patients scheduled for surgery.
+
+.
+
+ Tumoral Circulating Cells and Colorectal Cancer Progression@highlight
+
+Prospective research of circulating tumor cells as markers of progression risk in colorectal cancer.
+

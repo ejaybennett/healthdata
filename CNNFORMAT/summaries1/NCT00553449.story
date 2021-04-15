@@ -1,0 +1,28 @@
+(firstQuint)Open Label Study Evaluating Different Dosing Regimens of Rabeprazole in Gastro-esophageal Reflux Disease (GERD) Patients With Night-time Heartburn Symptoms.
+
+.
+
+ There is limited data regarding the estimate of patients who experience nocturnal symptoms despite adequate daytime heartburn control, the incidence and severity of nocturnal heartburn episodes after a minimum of 4 weeks of acid suppressive therapy with a Proton-pump inhibitor (PPI) or Histamine -2-receptor antagonist (H2RA), and the effect of instituting rabeprazole therapy after failure to control nocturnal heartburn symptoms with other acid suppressive therapy.
+
+ This is a multicentre, randomised (study medication is assigned by chance), controlled, parallel-group, open-label study in GERD patients.
+
+ Patients will be screened and enter a 2-week run-in phase to document heartburn symptoms while on their current therapy, during which they will complete a daily diary of symptoms and antacid use.
+
+ Patients who have troublesome nocturnal heartburn episodes, but adequate daytime heartburn symptom control (as defined) will enter an 8-week treatment phase where they are randomised to one of the rabeprazole regimens: 20mg once daily in the evening (dose administered 30minutes prior to the evening meal; "QPM" regimen), 10mg twice daily (dose administered 30minutes prior to the morning and evening meals; "BID/twice daily" regimen) or 20mg once daily in the morning (dose administered 30minutes prior to the morning meal; "QAM/every morning" regimen), plus antacids as required.
+
+ The study hypothesis is that after failure to control night-time heartburn symptoms with other acid suppressive therapy, instituting rabeprazole will have a beneficial effect.
+
+ Safety assessments include: physical examination and pregnancy test at screening, vital signs and weight at randomization and final visit, adverse event and concomitant medication reporting at every visit.
+
+ Rabeprazole 20mg once daily in the evening: one rabeprazole 20mg tablet daily in the evening, 30-60 minutes before dinner for 56 days OR Rabeprazole 10mg twice daily: one rabeprazole 10mg tablet in the morning, 30-60 minutes before breakfast, and one rabeprazole 10mg tablet 30-60 minutes before dinner for 56 days.
+
+ OR Rabeprazole 20mg once daily in the morning: one rabeprazole 20mg tablet daily in the morning, 30-60 minutes before breakfast for 56 days.
+
+.
+
+ Open Label Study Evaluating Different Dosing Regimens of Rabeprazole in Gastro-esophageal Reflux Disease (GERD) Patients With Night-time Heartburn Symptoms.
+
+@highlight
+
+The purpose of this study is to evaluate the effect of each of the rabeprazole treatment regimens on nocturnal heartburn symptoms.
+

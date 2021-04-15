@@ -1,0 +1,34 @@
+(secondQuint)Adjuvant Radiation Therapy in Treating Patients With Resected Desmoplastic Melanoma.
+
+ PRIMARY OBJECTIVES: I.
+
+ Assess the recurrence rates in patients with desmoplastic melanoma (DM) >= 1 mm deep treated with adjuvant radiotherapy after surgical resection.
+
+ II.
+
+ Assess recurrence rates in patients with locally recurrent DM treated with adjuvant radiotherapy after surgical resection.
+
+ SECONDARY OBJECTIVES: I.
+
+ Evaluate the impact of adjuvant radiation therapy after surgical resection on disease free and overall survival.
+
+ II.
+
+ Evaluate the immediate and long-term morbidity of the addition of radiotherapy to surgery.
+
+ OUTLINE: Within 8 weeks after surgical resection, patients undergo radiation therapy twice weekly over approximately 2.
+
+5 weeks for a total of 5 fractions in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed every 3 months for 2 years and then every 6 months for 3 years.
+
+.
+
+ Adjuvant Radiation Therapy in Treating Patients With Resected Desmoplastic Melanoma@highlight
+
+This phase II trial is studying how well adjuvant radiation therapy works in treating patients who have undergone surgery for desmoplastic melanoma.
+
+ Radiation therapy uses high-energy x-rays to damage tumor cells.
+
+ Giving radiation therapy after surgery may kill any tumor cells remaining after surgery.
+

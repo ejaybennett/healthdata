@@ -1,0 +1,24 @@
+(fifthQuint)SP-303T Applied to the Skin of Patients With Herpes Simplex Virus (HSV) Infection and AIDS Who Have Not Had Success With Acyclovir.
+
+ The lack of alternative treatments for herpes simplex virus infection in patients with AIDS and the development of resistance to acyclovir for patients requiring repeated treatment presents a therapeutic dilemma for physicians.
+
+ SP-303T has good in vitro activity against resistant strains and offers a convenient and inexpensive means of drug administration in comparison to the use of intravenous medication.
+
+ Patients receive 14 days (and up to 42 days) of treatment with topically applied SP-303T.
+
+ SP-303T is applied directly onto herpes simplex virus lesions three times daily in a quantity sufficient to thinly cover the entire lesion, which may then be covered with an appropriate dressing, if needed.
+
+ At the end of the treatment period, patients enter a follow-up period of 2 weeks.
+
+.
+
+ SP-303T Applied to the Skin of Patients With Herpes Simplex Virus (HSV) Infection and AIDS Who Have Not Had Success With Acyclovir@highlight
+
+To evaluate the safety and tolerance of topically applied SP-303T in AIDS patients.
+
+ To observe the effect of this drug on herpes simplex virus lesions in patients who have failed to heal in response to oral or intravenous acyclovir therapy.
+
+ The lack of alternative treatments for herpes simplex virus infection in patients with AIDS and the development of resistance to acyclovir for patients requiring repeated treatment presents a therapeutic dilemma for physicians.
+
+ SP-303T has good in vitro activity against resistant strains and offers a convenient and inexpensive means of drug administration in comparison to the use of intravenous medication.
+

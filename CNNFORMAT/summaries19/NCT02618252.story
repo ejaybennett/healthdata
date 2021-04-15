@@ -1,0 +1,38 @@
+(fifthQuint)Ultrasound vs Veinviewer in Patients With Difficulty IV Access.
+
+ Intravenous (IV) access is important for patient care in emergency medicine as an estimate of 78% of ED patients would require more than 3 ED resources such as blood tests, medication, contrast, fluid.
+
+ Care for patients with difficult intravenous access (DIVA) could be significantly delayed as it may take up to 120 minutes to establish IV access in patients with severe DIVA.
+
+ Many solutions for DIVA had also been established to avoid central venous catheter insertion, including using ultrasound or near-infrared imaging systems for peripheral IV insertion.
+
+ Using ultrasound in the ED has been shown to decrease the rate of central venous catheters (CVC) insertion.
+
+ However, the results from ultrasound-guided peripheral IV insertion (USGPIV) have been mixed.
+
+ Among patients with DIVA, Costantino reported USGPIV required less time to successful first cannulation and fewer punctures comparing to traditional approach of landmark and palpation.
+
+ However, other studies showed that USGPIV did not improve successful first attempts comparing to traditional IV insertion, and may have taken same or even longer time to successfully establish IV.
+
+ USGPIV success rate requires more training for nurses and ED technicians as it is operator - dependent.
+
+ Patients have difficulty with IV access because their veins' clinical accessibility is low, for example, they are less visible or less palpable.
+
+ The near-infrared imaging devices, such as Christie Digital's VeinViewer, improve this situation by using infra-red lights to make veins visible to the eyes.
+
+ Compared with routine IV insertion, near-Infra red imaging devices have been shown to increase first successful attempts and in less time in children with DIVA and improved visualization of peripheral veins.
+
+ However, it did not show higher rate of successful attempts nor faster time in non-selected adults.
+
+ The efficacy of these near-infrared devices has not been established among adult patients with DIVA.
+
+.
+
+ Ultrasound vs Veinviewer in Patients With Difficulty IV Access@highlight
+
+Patients with difficulty intravenous access frequently have delay of care in emergency departments because Emergency Department (ED) personnel could not establish intravenous (IV) access for diagnostic blood test or treatment.
+
+ The ultrasound machine or near-infrared devices have been used to improve this situation but no study has ever compared which machine is more efficient.
+
+ This study is designed to investigate whether the ultrasound or Vein Viewer, which is a near-infrared device, is more efficient.
+

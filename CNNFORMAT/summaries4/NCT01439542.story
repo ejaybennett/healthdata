@@ -1,0 +1,18 @@
+(thirdQuint)FASTR: Fairly Brief Androgen Suppression and Stereotactic Radiotherapy for High Risk Prostate Cancer.
+
+ Randomized controlled trials have established the improved efficacy (better biochemical control and disease free survival) of combined radical radiation (70-80Gy/7-8 weeks) combined with long term hormone therapy (2-3 years of adjuvant luteinizing hormone releasing hormone (LHRH) agonist) compared to a primary hormone therapy or radiotherapy alone in men with locally advanced/high risk disease.
+
+ While this approach may be tolerable in fit individuals, this combination may not be well tolerated by frail individuals or those who live at a distance who may find it difficult to attend for 7 weeks of radiation due to travel considerations.
+
+ Those individuals with co-morbidities such as diabetes, coronary artery disease or osteoporosis may have those conditions exacerbated by long term hormone therapy.
+
+ This pilot study will explore the combination of a stereotactic body radiotherapy (SBRT) approach (designed to be iso-effective for late effects for standard radiotherapy) combined with one year of LHRH agonist for older men with high risk disease who are less fit (Vulnerable Elderly Score > 3) or men unwilling to undertake conventionally fractionated therapy and three years of adjuvant hormone therapy.
+
+.
+
+ FASTR: Fairly Brief Androgen Suppression and Stereotactic Radiotherapy for High Risk Prostate Cancer@highlight
+
+The purpose of this study is to examine the safety of a shorter course of radiation treatments combined with one year of androgen deprivation therapy.
+
+ The study will test this treatment in men with high risk prostate cancer who have significant other illnesses or circumstances such that conventional long term radiotherapy and hormone therapy is not recommended by their physician or desired by the patient.
+

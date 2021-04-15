@@ -1,0 +1,30 @@
+(thirdQuint)Effect of PEEP on Intraoperative Hypothermia.
+
+ It is well known that intraoperative hypothermia is associated with postoperative adverse clinical outcomes in various study populations.
+
+ Intraoperative hypothermia has various adverse effects including impaired drug clearance, cold diuresis and hypovolemia, immunosuppression with increased infection risk, electrolyte disorders, coagulopathy with impaired platelet function, negative nitrogen balance, shivering, insulin resistance, and myocardial events.
+
+ Numerous methods have been introduced to prevent intraoperative hypothermia, such as warming of infusion fluid, forced-air warming, heat-pads, heated water mattress, and heated humidifiers.
+
+ However, in patients undergoing lumbar spine surgery in the prone position, these methods to prevent intraoperative hypothermia may partially effective because these methods, in clinical practice, have a significant limitation in their application.
+
+ Positive end-expiratory pressure (PEEP) reduces the venous return by increasing intrathoracic pressure.
+
+ This causes carotid unloading, which leads to a secondary peripheral vasoconstriction by increasing thermoregulatory vasoconstriction threshold and blunts intraoperative hypothermia.
+
+ Previous studies demonstrated that intraoperative PEEP significantly attenuated the extent of intraoperative hypothermia in patients undergoing tympanoplasty.
+
+ However, the beneficial effect of PEEP on thermoregulation is not investigated in patients with the prone position for spinal surgery.
+
+ The investigators hypothesized that PEEP can reduce the extent of intraoperative hypothermia via thermoregulatory modulation.
+
+ In this study, the investigators investigated the effect of PEEP on intraoperative core body temperature and the incidence of intraoperative hypothermia in patients undergoing spinal surgery.
+
+ Effect of PEEP on Intraoperative Hypothermia@highlight
+
+Intraoperative hypothermia is associated with many clinical adverse outcomes.
+
+ Many techniques were applied to prevent intraoperative hypothermia, and positive end-expiratory pressure (PEEP) has been known to blunt intraoperative hypothermia by increasing thermoregulatory vasoconstriction threshold.
+
+ The investigators assessed the effect of PEEP on the prevention of intraoperative hypothermia during spine surgery in prone position.
+

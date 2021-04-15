@@ -1,0 +1,10 @@
+(firstQuint)Safety and Efficacy Study of VM202 in the Treatment of Chronic Non-Healing Foot Ulcers.
+
+ A phase III, randomized, double-blind, placebo-controlled, multicenter, 7-month study designed to assess the safety and efficacy of intramuscular (IM) injections in the calf of VM202 in patients with chronic nonhealing foot ulcers.
+
+ Three hundred patients will be randomized in a 2:1 ratio of VM202 or placebo injections: - Active -VM202 + standard of care - 200 patients - Control - Placebo (VM202 Vehicle) + standard of care - 100 patients.
+
+ Safety and Efficacy Study of VM202 in the Treatment of Chronic Non-Healing Foot Ulcers@highlight
+
+This study will assess the safety and efficacy of using gene therapy via intramuscular injections of the calf for patients with chronic non-healing foot ulcers.
+

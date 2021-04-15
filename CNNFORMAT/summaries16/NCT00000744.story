@@ -1,0 +1,20 @@
+(fifthQuint)A Randomized, Prospective, Double-Blind Study Comparing Fluconazole With Placebo for Primary and Secondary Prophylaxis of Mucosal Candidiasis in HIV-Infected Women.
+
+ Fluconazole has been shown to be effective in preventing or suppressing candidiasis in HIV-negative women.
+
+ An increasing likelihood of oral and esophageal candidiasis in conjunction with progressive immunosuppression raises the question of the potential role of prophylactic antifungal therapy in high-risk persons.
+
+ Four hundred HIV-infected women are randomized to receive fluconazole or placebo weekly for up to 2 years.
+
+ Patients undergo follow-up every 3 months or more often if signs and symptoms of mucosal candidiasis occur.
+
+.
+
+ A Randomized, Prospective, Double-Blind Study Comparing Fluconazole With Placebo for Primary and Secondary Prophylaxis of Mucosal Candidiasis in HIV-Infected Women@highlight
+
+To compare the efficacy of fluconazole versus placebo for the prevention of Candida esophagitis and vaginal/oropharyngeal candidiasis, including a comparison of the development of clinical resistance.
+
+ Fluconazole has been shown to be effective in preventing or suppressing candidiasis in HIV-negative women.
+
+ An increasing likelihood of oral and esophageal candidiasis in conjunction with progressive immunosuppression raises the question of the potential role of prophylactic antifungal therapy in high-risk persons.
+

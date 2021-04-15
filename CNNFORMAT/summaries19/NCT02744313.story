@@ -1,0 +1,20 @@
+(firstQuint)MR Imaging of Fat Deposition in Adolescents With First Time Antipsychotic Use.
+
+ Atypical Antipsychotics (AAPs) are known to cause metabolic dysfunction, and adolescents are especially vulnerable to this effect.
+
+ The anthropometric measures routinely used to monitor these metabolic side effects may, in fact, underestimate risk in the pediatric population as they are not a good index of hepatic and visceral adipose tissue.
+
+ This study will measure fat accumulation over a 12 week period in adolescents and young adults taking an AAP for the first time.
+
+ MRI imaging will measure hepatic, and visceral adipose tissue at baseline and study end.
+
+ An Oral Glucose Tolerance Test will measure glucose resistance and insulin sensitivity.
+
+ In an exploratory fashion, investigators will also image the brain to assess for volumetric changes which may occur in association with AAP treatment and changes in metabolic indices.
+
+.
+
+ MR Imaging of Fat Deposition in Adolescents With First Time Antipsychotic Use@highlight
+
+This study will focus on a population of antipsychotic (AP) naive adolescents and young adults and will measure fat accumulation in relation to exposure to atypical antipsychotic medications.
+

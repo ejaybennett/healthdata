@@ -1,0 +1,14 @@
+(secondQuint)Pilot Trial Comparing Computerised Cognitive Exercises to Tetris in Adolescents With ADHD.
+
+ Objective: To examine the feasibility and efficacy of computerized cognitive exercises from Scientific Brain Training (SBT), compared to the computer game Tetris as an active placebo, in a pilot study of adolescents with Attention-deficit/hyperactivity disorder (ADHD).
+
+ Method: Eighteen adolescents with ADHD were randomized to treatment or control intervention for seven weeks.
+
+ Outcome measures were cognitive test, symptom and motivation questionnaires.
+
+.
+
+ Pilot Trial Comparing Computerised Cognitive Exercises to Tetris in Adolescents With ADHD@highlight
+
+The purpose of this study was to examine the feasibility and efficacy of computerized cognitive exercises from Scientific Brain Training (SBT), compared to the computer game Tetris as an active placebo, in a pilot study of adolescents with Attention-deficit/hyperactivity disorder (ADHD).
+

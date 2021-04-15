@@ -1,0 +1,18 @@
+(firstQuint)An eHealth Intervention for Obsessive Compulsive Disorder in Youth With Autism Spectrum Disorder.
+
+ The main objectives of this study is to evaluate the feasibility, acceptability and preliminary efficacy of internet-delivered Cognitive Behavioral Therapy (ICBT) for Obsessive Compulsive Disorder (OCD) in children and adolescents (7-17 years) with Autism Spectrum Disorders (ASD).
+
+ The study will an open trial with-in group mean comparison design (n=18).
+
+ The treatment is delivered over 16 weeks.
+
+ Study participants will be followed up at 3 (primary endpoint), 6 and 12 months after completed treatment.
+
+ ICBT is expected to decrease OCD-symptoms.
+
+.
+
+ An eHealth Intervention for Obsessive Compulsive Disorder in Youth With Autism Spectrum Disorder@highlight
+
+This study is a feasibility study of Internet-delivered CBT for OCD in children and adolescents (7-17 years) with comorbid Autism Spectrum Disorder.
+

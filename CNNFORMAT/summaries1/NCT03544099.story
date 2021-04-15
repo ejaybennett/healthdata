@@ -1,0 +1,62 @@
+(thirdQuint)Pembrolizumab for Nasopharyngeal Carcinoma Patients With Detectable Plasma Epstein-Barr Virus DNA.
+
+ This phase II study is aimed to prove the efficacy of adjuvant therapy with pembrolizumab for nasopharyngeal carcinoma patients with detectable plasma EBV DNA after curative chemoradiation.
+
+ Nasopharyngeal cancer was a malignancy related to Epstein-Barr virus infection.
+
+ It was a malignancy endemic in Southeast Asia, Taiwan, and China [1, 2].
+
+ The primary treatment was chemoradiation.
+
+ The three-year disease free survival was around 50-60% for locally-advanced (stage IVA, IVB) NPC[1, 3-5].
+
+ Adjuvant chemotherapy after curative chemoradiation is a strategy to improve disease control rate for advanced NPC.
+
+ However, two phase III trials in Taiwan (TCOG 1394) and China failed to prove its efficacy on improving disease control and overall survival [6, 7].
+
+ How to identify patients who are truly at risk is an important question for the therapy of advanced NPC.
+
+ Plasma EBV DNA copy number is a biomarker predicting the recurrent risk of nasopharyngeal cancer.
+
+ A higher level of plasma EBV DNA before chemoradiation is related to a poorer prognosis [5].
+
+ A detectable EBV DNA after chemoradiation, which is a hint for occult residual or metastatic disease, is a strong predictor for early recurrence [5, 8-12].
+
+ The relapse free survival at two years for patients with detectable plasma EBV DNA (> 0 copies/mL) was around 20%.
+
+ The results of other similar trials are summarized on table 1.
+
+ Cancer cells escaped from the immune surveillance by several mechanisms.
+
+ One of them is activating immune inhibitory pathway by "immune checkpoints" [13].
+
+ Programmed Death 1 (PD-1) and Programmed Death Ligand 1 (PD-L1) is one immune checkpoint axis to regulate immune response against cancer.
+
+ Pembrolizumab (MK-3475), an anti-PD-1 antibody, had a good activity against melanoma [14] and other types of cancers [15, 16].
+
+ The toxicity profiles were tolerable.
+
+ In the Keynote-028 phase Ib trial, pembrolizumab showed good clinical activity against recurrent or metastatic NPC [17].
+
+ The overall response rate is 22%, and the disease control rate is 77.
+
+8%.
+
+ This data is encouraging for further clinical trials of pembrolizumab for NPC.
+
+ PD-1/PD-L1 axis has an important role for the resistance of chemoradiation[18].
+
+ In patients refractory to chemoradiation, the expression of PD-1 and PD-L1 increased in the tumor.
+
+ In animal model, sequential administration of anti-PD-1 after radiation significantly improved the progression free survival in mice with tumors [19].
+
+ This concept supports the investigator's sequential design for high-risk NPC patients.
+
+.
+
+ Pembrolizumab for Nasopharyngeal Carcinoma Patients With Detectable Plasma Epstein-Barr Virus DNA@highlight
+
+This is a single-arm, multi-center, open-label, phase II trial to examine the efficacy of pembrolizumab for prolonging the one-year disease free survival in nasopharyngeal carcinoma patients with solely detectable EBV DNA after curative chemoradiation.
+
+ Sixty-three patients will be enrolled in the trial.
+

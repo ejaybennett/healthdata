@@ -1,0 +1,18 @@
+(secondQuint)Effects of Recoverben on Recovery After Exhaustive Exercise.
+
+ The aim of the study is to investigate a pre and post workout supplementation (15 days) with Recoverben(R) , a Aloysia citriodora extract on recovery after exhaustive exercise.
+
+ Effects will be investigated with 400mg Recoverben(R) and compared to placebo.
+
+ Targeted parameter will be determined at the beginning of the study and after supplementation, each.
+
+ Parameter include maximal strength (MVC), muscle soreness (VAS), pain sensitivity (Algometry) and biomarkers (CK, IL-6, glutathione peroxidase).
+
+.
+
+ Effects of Recoverben on Recovery After Exhaustive Exercise@highlight
+
+The aim of the study is to investigate a pre and post workout supplementation (15 days) with Recoverben(R) , a Aloysia citriodora extract on recovery after exhaustive exercise.
+
+ Effects will be investigated with 400mg Recoverben(R) and compared to placebo.
+

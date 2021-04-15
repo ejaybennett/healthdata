@@ -1,0 +1,18 @@
+(secondQuint)Confocal Laser Micro-endoscopy in Chronic Obstructive Pulmonary Disease (COPD) and Lung Transplant Recipients.
+
+ In early phases of COPD, changes in small airway characteristics may develop.
+
+ Elastin decay and matrix remodelling could be responsible for these changes.
+
+ Using CLME changes of in the bronchiolar wall and alveolar ducts can be visualized, described and measured.
+
+ In lung transplant recipients, CMLE will be performed to distinguish characteristics of distal airways in stabile patient in contrast to patients with bronchiolitis obliterans syndrome.
+
+ In both groups data will be correlated with CT findings, pulmonary function tests and anatomopathological results.
+
+.
+
+ Confocal Laser Micro-endoscopy in Chronic Obstructive Pulmonary Disease (COPD) and Lung Transplant Recipients@highlight
+
+Aspects of confocal laser micro-endoscopy (CLME) and morphometry in chronic obstructive pulmonary disease (COPD) and lung transplant recipients is described and will be correlated with clinical findings in order to described small airway remodelling in these patients.
+

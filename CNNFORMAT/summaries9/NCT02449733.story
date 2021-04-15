@@ -1,0 +1,12 @@
+(secondQuint)Comprehensive HIV Prevention Package for MSM in Port Elizabeth.
+
+ The objective of the Sibanye Health Project is to develop and evaluate a combination package of biomedical, behavioral and community-level HIV prevention interventions and services for men who have sex with men (MSM) in Africa.
+
+ Experience implementing the prevention interventions and preliminary data collected regarding the acceptability of the HIV prevention package will be used to develop a proposal to design a larger efficacy trial to test the combination HIV prevention package for MSM.
+
+.
+
+ Comprehensive HIV Prevention Package for MSM in Port Elizabeth@highlight
+
+The purpose of this study is to evaluate the acceptability and uptake of a combination package of biomedical, behavioral and community-level HIV prevention interventions and services for men who have sex with men (MSM) in South Africa.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Effects of Metformin Treatment on Myocardial Efficiency in Patients With Heart Failure.
+
+ Background: Heart failure (HF) is a common disease and diabetes/insulin resistance are present in approximately 50 % of HF patients.
+
+ Metformin is the most commonly prescribed oral anti-diabetic drug, and registry and experimental studies show beneficial effects of metformin in HF, but randomized trials are needed.
+
+ Objectives: To investigate if treatment with metformin in patients with HF has beneficial effects on myocardial efficiency, Design: A randomized, double-blind, placebo-controlled, single-center design.
+
+ 36 patients with systolic heart failure will be randomized to either metformin (N = 18) or placebo (N= 18) for 3 months.
+
+ Methods: Patients will undergo echocardiography at rest and during exercise along with [11C]-acetate PET.
+
+ Primary outcome parameter is changes in myocardial external efficiency from visit 1 to 3 months of therapy.
+
+.
+
+ Effects of Metformin Treatment on Myocardial Efficiency in Patients With Heart Failure@highlight
+
+The study evaluates the effects of metformin treatment on myocardial efficiency in heart failure patients.
+
+ 36 patients will be randomized to three months of metformin or placebo treatment in addition to their regular therapy.
+
+ Hypothesis: Treatment with metformin in patients with heart failure has direct or indirect beneficial effects on left ventricular myocardial oxidative metabolism, myocardial efficiency and contractile function.
+

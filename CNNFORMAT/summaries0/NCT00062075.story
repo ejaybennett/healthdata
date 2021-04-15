@@ -1,0 +1,28 @@
+(secondQuint)Romidepsin in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine the complete and partial response rate in patients with relapsed or refractory acute myeloid leukemia treated with FR901228 (depsipeptide).
+
+ II.
+
+ Determine the toxicity of this drug in these patients.
+
+ III.
+
+ Correlate clinical response with specific cytogenetic abnormalities in patients treated with this drug.
+
+ OUTLINE: Patients are stratified according to the presence of a specific chromosomal abnormality (t[8;21] vs inv 16 vs t[15;17] vs absence of these chromosomal abnormalities).
+
+ Patients receive romidepsin IV over 4 hours on days 1, 8, and 15.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+.
+
+ Romidepsin in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia@highlight
+
+This phase II trial is studying how well romidepsin works in treating patients with relapsed or refractory acute myeloid leukemia.
+
+ Drugs used in chemotherapy, such as romidepsin, work in different ways to stop tumor cells from dividing so they stop growing or die.
+

@@ -1,0 +1,20 @@
+(firstQuint)Left Atrial Appendage Closure With the LAmbre.
+
+ The study was to retrospectively analyse the efficacy and safety of percutaneous left atrial appendage (LAA) closure using the LAmbre (Lifetech Scientific Co.
+
+, Ltd.
+
+, Shenzhen, China) in our center from April 2014 to November 2015.
+
+ 89.
+
+4% has finished the 12-month esophageal ecllocardiogrhy (TEE) examination.
+
+ The average followup was 2-years.
+
+.
+
+ Left Atrial Appendage Closure With the LAmbre@highlight
+
+The study was to retrospectively analyse the efficacy and safety of LAA closure using the LAmbre in our center from April 2014 to November 2015.
+

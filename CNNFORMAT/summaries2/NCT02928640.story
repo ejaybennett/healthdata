@@ -1,0 +1,16 @@
+(secondQuint)ClariCore Optical Biopsy System Used in TRUS (Trans-Rectal Ultrasound)-Guided Prostrate Biopsy.
+
+ The purpose of this study is to collect information on prostrate tissue biopsies using the ClariCore System.
+
+ The ClariCore system is designed to improve how the tissue samples are being collected from the prostrate by using light sensors (fiber optics) that can see changes in the tissue.
+
+ Researchers will study the data collected from the light sensor (optical readings) to develop a method (like a mathematical equation) that can be used to tell the difference between normal and cancerous prostrate tissue during the biopsy.
+
+ What the researchers are hoping to learn from this study is if a light guided biopsy procedure can improve the accuracy of prostrate biopsy sampling.
+
+.
+
+ ClariCore Optical Biopsy System Used in TRUS (Trans-Rectal Ultrasound)-Guided Prostrate Biopsy@highlight
+
+The purpose of the study is to collect information on prostrate biopsy tissue for use in developing a method determining the difference in normal and cancerous prostrate tissue using the ClariCore System.
+

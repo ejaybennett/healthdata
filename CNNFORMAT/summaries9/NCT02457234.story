@@ -1,0 +1,208 @@
+(fifthQuint)Influence of Cultural Immersion on Willingness to Try Fruits and Vegetables Among Children in Guam: the Traditions Study.
+
+ A pre-post quasi-experimental design was used to observe outcomes (i.
+
+e.
+
+, willingness to try FV and FV intake) between three existing summer camp programs in Guam: cultural immersion camp (CIC), university day camp (UDC), and recreational sports camp (RSC).
+
+ This natural-setting, multi-arm parallel design was used as an alternative to a resource intensive infrastructure and the organizations were willing to incorporate activities to answer the research question.
+
+ The CIC and UDC programs were nearly matched for daily activities (e.
+
+g.
+
+, physical activity, cooking demonstrations/taste testing, crafts).
+
+ The same four Traditions lessons (Figure 1) were incorporated into CIC and UDC and delivered by the same educators.
+
+ These lessons featured local FV and promoted positive associations with eating FV.
+
+ In CIC, the context of Chamorro cultural traditions, practices, and values was tied to FV.
+
+ Chamorro is the language, culture, and ethnicity of Guam and the Marianas.
+
+ In UDC, consuming healthy foods was introduced within a context of nutrition and human physiology.
+
+ The four lessons were adapted with permission from a culturally-relevant Hawaiian nutrition curriculum to make them relevant to Guam and the Chamorro culture.
+
+ This curriculum complemented Hawaii and Guam Department of Education K-12 Content and Performance Standards.
+
+ The CIC activities perpetuated the Chamorro culture and language through song/chanting, dance, prayer, arts and crafts, cooking, outdoor activities, and gardening based on traditional and contemporary practices.
+
+ Chamorro was spoken about 80% of the time, including the delivery of key messages in the Traditions lessons.
+
+ All activities operated on indigenous values of respect, love, humility, reciprocity, and camaraderie.
+
+ The UDC activities focused on promoting healthful present-day recreational activities and global foods.
+
+ The activities were an extension of the Expanded Food and Nutrition Education Program mission.
+
+ RSC was exclusively physical activity.
+
+ Upon completion of the last assessments, educators provided one Traditions lesson for registrants at RSC.
+
+ Data collection occurred at two assessment periods: before ( 2 weeks) and after ( 1 week) each program.
+
+ The first assessment was completed at each camp setting.
+
+ The second was also completed at camp or at a pre-arranged location, such as the children's home or a child-friendly public space (e.
+
+g.
+
+, the mall).
+
+ Children completed the interview-administered Adapted WillTry tool, which measures children's willingness to try FV and was previously validated for children 3-11 years old in Guam.
+
+ FV intake was assessed using the mobile food record (mFR).
+
+ The mFR is an app that has been shown to be a useful method for dietary assessment with adolescents.
+
+ Only participants in CIC and UDC were asked to use the mFR due to a limited number of iPods.
+
+ Other Measures: Parents completed a questionnaire that included information about the child's age, sex, language spoken, religion, and birthplace.
+
+ Parent's cultural affiliation was determined using their responses reported on a cultural affiliation questionnaire, which assesses one of four modes of acculturation: traditional, integrated, assimilated, or marginalized.
+
+ The same scoring system was used as described by Kaholokula and others.
+
+ Anthropometric assessments were completed at a time designated as least disruptive to camp activities.
+
+ Height and weight were measured using a portable Seca scale and stadiometer (PE-AIM 101) using centimeters and kilograms, respectively.
+
+ These measurements were converted to body mass index (BMI) as [kg/(height, m)2].
+
+ Dose was assessed by recording attendance at camp and at each Traditions lesson.
+
+ For participation, all children were given a gift card, in $5 or $10 denominations, one before and one after camp assessments.
+
+ Remuneration varied due to the different types and lengths of involvement for participants depending on camp program.
+
+ Sample size was determined using estimates for the Adapted WillTry local novel and local common FV scores from data representing children similar to children recruited for this study.
+
+ The main outcomes, model 1 and model 2 were powered at 0.
+
+8 for a minimum detectable difference (MDD) of 0.
+
+43 for the local novel score and 0.
+
+41 for the local common score which corresponded to proposed sample sizes of n=60 for CIC, n=30 for UDC, and n=30 for RSC.
+
+ For Model 3, based on the UDC and RSC sample sizes MDD was 0.
+
+49 and 0.
+
+47 for local novel and local common, respectively.
+
+ For the secondary outcome, post-FV intake, the MDDs were 0.
+
+877, 0.
+
+3132, and 0.
+
+6265 per day dependent on the baseline FV consumption being 2, 1 or 1.
+
+5 which yielded sample sizes for CIC (n=60) and UDC (n=30).
+
+ Data were entered using a Microsoft Access (Microsoft Corp) tool specifically designed for this study.
+
+ Double-data entry procedures were used and PROC COMPARE in SAS 9.
+
+3 (SAS Institute, Inc.
+
+) was performed until both data entries achieved 100% matching.
+
+ A trained analyst examined images, identified all whole FV (e.
+
+g.
+
+, FV mixed dishes, fruits, vegetables), and amounts consumed.
+
+ FV (100%) juices were excluded.
+
+ FV intake was calculated by dividing the total FV by the total number of days eating occasions were captured using the mFR.
+
+ Categorical variables were examined using frequencies and for quantitative variables means and standard deviations were used.
+
+ Differences between camps in Adapted WillTry FV post-scores (i.
+
+e.
+
+ local novel, local common, and imported) were examined using univariate ANOVA adjusted for pre-scores.
+
+ To examine the previously observed incremental trend of the Adapted WillTry FV scores, where each score was statistically significantly different from one another, the paired t-tests for each pre- and post-assessment score in all camps were performed.
+
+ Analytical analyses were conducted using IBM SPSS Statistics version 21 (IBM Corporation, Armonk, NY).
+
+ Potential confounders were included in models using indicator variables for age (i.
+
+e.
+
+, 3-6y, 7-8y, 9-12y), ethnicity (i.
+
+e.
+
+, Chamorro, Chamorro Mixed, Other), and sex.
+
+ Categories of parent's cultural affiliation were analyzed as traditional and integrated.
+
+ In these models, children whose parents were categorized as marginalized (n=2) or assimilated (n=1) were eliminated due to small numbers.
+
+ Lesson and camp attendance dose for CIC and UDC were calculated using the sum of days participants attended lessons and camp days divided by the total possible lesson and camp days, respectively.
+
+ A dichotomous variable was created for high and low dose using the 50th percentile cut-point for lessons and camp dose.
+
+ BMI was modeled as a continuous variable.
+
+ To examine the primary hypothesis, indicator variables were created for each camp for relevant comparisons in Models 1, 2, and 3.
+
+ Multiple linear regression models for the three Adapted WillTry post-scores (dependent variables) were fit separately to examine whether and how much the Adapted WillTry scores differed by camp program accounting for potential confounders (i.
+
+e.
+
+, pre-scores, participant's age, sex, ethnicity, BMI, parent's cultural affiliation, and lesson and camp days dose).
+
+ The final model included Adapted WillTry pre-scores, sex, age, and ethnicity.
+
+ For whole FV intake, multiple linear regression models were used to examine differences in post-FV intake/day (dependent variable) between UDC and CIC.
+
+ The final model included pre-FV intake/day, age, ethnicity, and parent's cultural affiliation (independent variables).
+
+.
+
+ Influence of Cultural Immersion on Willingness to Try Fruits and Vegetables Among Children in Guam: the Traditions Study@highlight
+
+The purpose of the Traditions study was to examine the influence of cultural immersion on willingness to try fruits and vegetables among children, 3-12 y, in Guam.
+
+ The primary objective of this study was to examine willingness to try fruits and vegetables and fruit and vegetable intake among children attending three existing summer camp programs: a cultural immersion camp, a university day camp, and a recreational sports camp.
+
+ The primary hypothesis was that children attending the cultural immersion camp would have higher willingness to try fruits and vegetables (WillTry score) and a higher intake of fruits and vegetables compared to children attending both, the university day camp and recreational sports camp, without cultural immersion.
+
+ A pre-post, quasi-experimental design was used to evaluate 3 summer camps with different exposure levels of cultural immersion.
+
+ High, moderate, and zero (cultural) exposure was provided by a cultural immersion camp (CIC), a university-based day camp (UDC), and a recreational sports camp (RSC), respectively.
+
+ CIC delivered 4 culturally adapted nutrition lessons within the context of Chamorro cultural traditions as part of the cultural immersion camp activities.
+
+ The UDC delivered the same lessons within a physiology framework.
+
+ The RSC was without nutrition lessons and cultural immersion.
+
+ Children 3-12 years old registered in any of the three summer camp programs were eligible to participate.
+
+ Data collection was primarily administered at two assessment periods: before ( 2 weeks) and after ( 1 week) each summer camp program.
+
+ Children's willingness to try fruits and vegetables, the primary outcome, was assessed with the interview-administered Adapted WillTry tool.
+
+ The secondary outcome was fruit and vegetable intake as servings/day in the CIC to UDC only.
+
+ Fruit and vegetable intake was assessed using the mobile food record (mFR), which is an app running on an iPod Touch based on the technology assisted dietary assessment (TADA) protocols.
+
+ Outcomes examined Adapted WillTry post-scores for local novel and local common fruits and vegetables and fruit and vegetable servings/day using multivariate regression models adjusting for the relevant pre-score, sex, age, ethnicity, dose, BMI percentile, and parent's cultural affiliation.
+
+ Therefore, additional measures like sociodemographic information, anthropometry (i.
+
+e.
+
+ heights and weights), and parent's cultural affiliation were collected to account for potential confounders.
+

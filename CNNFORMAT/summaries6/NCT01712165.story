@@ -1,0 +1,28 @@
+(secondQuint)Micronutrient-supplemented Milk Study in Women of Childbearing Age.
+
+ Folic acid (~400 mu g/day) taken around the time of conception significantly reduces the risk of a neural tube defect (NTD)-affected pregnancy.
+
+ Strategies to reduce NTD with folic acid, include supplement use and food fortification.
+
+ An attractive strategy for NTD prevention is the use of fortified foods targeted for use by women planning a pregnancy.
+
+ Fonterra currently markets a fortified-milk (ANMUM Materna) in Asia, designed for use prior to and during pregnancy.
+
+ This milk product, if consumed as directed, provides ~400 mu g folic acid per day.
+
+ It is not known whether ANMUM Materna will reduce NTD rate.
+
+ However, in a case-control study the risk of NTD was inversely associated with maternal red blood cell (RBC) folate concentrations.
+
+ Accordingly, if ANMUM Materna increases RBC folate, it could be expected to decrease NTD risk.
+
+ In this study, the ANMUM Materna fortified milk will be tested against a standard control (unfortified) milk over a 12 week period.
+
+ The subjects will consume 75g of milk powder daily throughout the supplementation period.
+
+.
+
+ Micronutrient-supplemented Milk Study in Women of Childbearing Age@highlight
+
+The purpose of this study is to determine if consuming ANMUM Materna (a fortified milk product) over a 12-week period increases red blood cell folate concentrations in women of childbearing age in Singapore, compared to an equivalent amount of standard (unfortified) milk.
+

@@ -1,0 +1,19 @@
+(firstQuint)Prevention of Lymphorrhea by Lanreotide in Axillary Dissection for Breast Cancer.
+
+ Patients will be recruited among patient refered to our department for a breast cancer and needing an axillary dissection.
+
+ Enrolled patients will have an injection of Lanreotide or placebo the day before surgery when they arrive in their room.
+
+ The quantity of lymph in axillary drain will by daily noted until day 4.
+
+ The patient will be evaluated at D15, D30 and M6 for pain, lymphocele and adverse events.
+
+ Data will be compared in the 2 groups.
+
+.
+
+ Prevention of Lymphorrhea by Lanreotide in Axillary Dissection for Breast Cancer@highlight
+
+Injection the day before surgery of 90 mg of Lanreotide LP sub-cutaneously or placebo.
+
+ Evaluation of the lymphorrhea in the 2 arms of the study

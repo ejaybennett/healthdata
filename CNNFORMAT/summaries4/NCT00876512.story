@@ -1,0 +1,20 @@
+(fifthQuint)CYP2C19 Gene Alteration and Thienopyridine Resistance in Percutaneous Coronary Intervention Study.
+
+ We enrolled patients with stable effort angina who received dual-antiplatelet therapy with both aspirin (100mg) and clopidogrel (75mg).
+
+ We performed PCI 12-24 hours after 300mg loading dose of clopidogrel, or at least 7 days of 75mg clopidogrel treatment after 300mg initial loading dose.
+
+ We examined platelet adhesiveness, plasma biomarkers for platelet activation such as plasma VWF and ADAMTS13, CD40L, P-Selectin levels, and ADP-induced platelet aggregation using Light transmittance aggregometry (LTA) and VerifyNow P2Y12 assay system in those patients.
+
+ We also analyzed the CYP2C19 genetic polymorphism to examine the influence of this genetic variation on the several biomarkers for platelet activation.
+
+.
+
+ CYP2C19 Gene Alteration and Thienopyridine Resistance in Percutaneous Coronary Intervention Study@highlight
+
+Dual antiplatelet therapy with aspirin and thienopyridines decreases the rate of stent thrombosis in patients undergoing percutaneous coronary intervention (PCI).
+
+ However, despite intensified antiplatelet treatment, some of the patients undergoing PCI develop thrombotic stent occlusion, suggesting incomplete platelet inhibition due to thienopyridine resistance.
+
+ The present study is designed in order to clarify the influence of CYP2C19 genetic polymorphism on the several biomarkers for platelet activation in Japanese patients treated with thienopyridines undergoing elective PCI.
+

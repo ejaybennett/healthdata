@@ -1,0 +1,46 @@
+(secondQuint)The Use of an Anterior Chamber Maintainer as a Sole Fluid Source in Micro Incision Cataract Surgery as Compared to a Standard Phacoemulsification Procedure.
+
+ Three-port Micro Incision Cataract Surgery (Tri-MICS) is a technique suggested by Professor Assia.
+
+ The idea (principle) behind the Tri-MICS technique is the use of a sleeveless phaco needle which is introduced via a tiny incision (1.
+
+1mm).
+
+ An additional corneal incision is made for the introduction of a second surgical instrument, and a third for an ACM as an exclusive source for the infusion - this saves the need for an additional instrument.
+
+ The ACM that will be used in this study (AVI New York) is a small metal tube with an external diameter of 1.
+
+1 mm, and an internal diameter of 0.
+
+9 mm and was developed specifically for this use.
+
+ This type of ACM has been used in hundreds of surgeries and has been found to be both effective and safe.
+
+ This procedure has 4 clear advantages: 1.
+
+ The implementation of three corneal incisions, 1.
+
+1 mm wide with an angle of approximately 120 degrees between them - neutrality regarding astigmatism versus the Biaxial-MICS.
+
+ 2.
+
+ This procedure does not require any special medical instruments, for example; new phaco instruments which are specifically adapted for the MICS approach at the cost of tens of thousands of dollars.
+
+ 3.
+
+ This procedure allows a free use of the surgeon's second hand.
+
+ 4.
+
+ A fixed intraocular infusion keeps the intraocular pressure (IOP) and anterior chamber volume constant and stable.
+
+.
+
+ The Use of an Anterior Chamber Maintainer as a Sole Fluid Source in Micro Incision Cataract Surgery as Compared to a Standard Phacoemulsification Procedure@highlight
+
+The purpose of this study is to compare the use of an Anterior Chamber Maintainer (ACM) as the sole fluid source in phacoemulsification micro incision cataract surgery (using 1.
+
+1mm corneal incision) as opposed to conventional coaxial phacoemulsification (using 2.
+
+4mm corneal incision).
+

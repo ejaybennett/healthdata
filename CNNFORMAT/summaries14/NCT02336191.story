@@ -1,0 +1,11 @@
+(firstQuint)Monitoring Living Donor Liver Functions by Thromboelastometry.
+
+ This is a prospective observational study Includes 50 living donor liver transplant recipients performed in gastroenterology surgical center - Mansoura University liver transplantation program.
+
+ Study period: from June 2014 to May 2015 The early post-operative graft functions will be correlated with concomitant monitored thromboelastometric (TEM) parameters derived from a ROTEM Delt device TEM Samples will be collected at the following times: Pre-transplant 10 minutes post portal declamping at ICU admission Morning of Days from 1 to 7 Laboratory data relevant to graft functional status will be collected at the same times.
+
+.
+
+ Monitoring Living Donor Liver Functions by Thromboelastometry@highlight
+
+A prospective Observational study including 50 living donor liver transplant recipients to monitor the graft functions through thromboelastometry

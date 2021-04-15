@@ -1,0 +1,14 @@
+(firstQuint)Phase 1 Study Accessing the Safety and Tolerability of CBP-307.
+
+ This study will evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of CBP-307 following oral single and multiple escalating dose administration in healthy subjects.
+
+ The study will have two parts: Part 1 will assess 5 dose levels of the drug in single dosing; and Part 2 will evaluate 3 dose levels in 28-day repeat dosing.
+
+ The effect of food will also be evaluated in a single dosing study.
+
+.
+
+ Phase 1 Study Accessing the Safety and Tolerability of CBP-307@highlight
+
+This study will evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of CBP-307 following oral single and multiple escalating dose administration in healthy subjects.
+

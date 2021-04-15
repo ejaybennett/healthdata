@@ -1,0 +1,34 @@
+(thirdQuint)Radiation Therapy in Treating Patients With Bone Metastases From Breast or Prostate Cancer.
+
+ OBJECTIVES: - Compare the ability of a single fraction of radiation therapy vs multiple fractions to provide complete pain relief in patients with painful bone metastases from breast or prostate cancer.
+
+ - Determine the frequency and duration of pain relief and narcotic relief after these treatments in these patient populations.
+
+ - Compare the effect on quality of life of these two treatments in these patient populations.
+
+ - Compare the incidence of pathologic fracture within the treatment fields after these two treatments in these patient populations.
+
+ OUTLINE: This is a randomized study.
+
+ Patients are assigned to 1 of 2 treatment arms.
+
+ Arm I consists of radiation therapy delivered in 10 fractions over 2 weeks.
+
+ Arm II consists of a single dose of radiation therapy.
+
+ Any retreatment does not occur until at least 4 weeks after prior treatment unless there is an increase of 2 points on the pain score.
+
+ Patients are followed and quality of life is assessed at 2 and 4 weeks, then at 2, 3, 6, 9, and 12 months, every 6 months for the next 3 years, then annually until death.
+
+ PROJECTED ACCRUAL: This study will accrue 938 patients within 2 years.
+
+.
+
+ Radiation Therapy in Treating Patients With Bone Metastases From Breast or Prostate Cancer@highlight
+
+RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells.
+
+ It is not yet known which radiation therapy regimen is more effective for bone metastases.
+
+ PURPOSE: Randomized phase III trial to compare different radiation therapy regimens in treating patients who have bone metastases from breast or prostate cancer.
+

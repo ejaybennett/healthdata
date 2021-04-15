@@ -1,0 +1,26 @@
+(firstQuint)Oral Glucosestimulation After Gastric Bypass Surgery.
+
+ After gastric bypass many patients suffer from early and/or late dumping syndrome as a reaction to carbohydrate rich meals.
+
+ Gastric emptying after bypass is accelerated and nutrition enters the intestine faster, which leads to osmotically driven fluid shifts from the blood to the lumen.
+
+ Late dumping occurs 1-3 h after eating, and is caused by hyperinsulinemia and is therefore characterized by symptoms of hypoglycemia like weakness, sweating, and dizziness.
+
+ Many people have both types.
+
+ In most studies examining satiety hormones after oral glucose stimulation in non-operated patients, glucose loads of 50-75g are used.
+
+ For a measurable GLP-1 rise a threshold of 2 kcal/min.
+
+ at the intestine is needed.
+
+ After gastric bypass gastric emptying is accelerated and less glucose is necessary to reach this threshold.
+
+ The "threshold load" and "tolerable load without dumping symptoms" is not yet know.
+
+.
+
+ Oral Glucosestimulation After Gastric Bypass Surgery@highlight
+
+The objective of this study is to examine gastric emptying and satiety hormones after oral glucose stimulation in 2 different concentrations in morbidly obese patients after Roux-en-Y-gastric-Bypass.
+

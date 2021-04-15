@@ -1,0 +1,28 @@
+(fifthQuint)Myeloproliferative Neoplasms and Bone Structure.
+
+ This is a clinical study to evaluate the effect of CMPN to the bone.
+
+ Three individual cohorts are defined; a cohort consisting of 50 patients with Polycythemia Vera (PV), a cohort consisting of 50 patients with Essential Thrombocythemia (ET), and a cohort consisting of 25 patients with Primary Myelofibrosis (PMF).
+
+ Patients are recruited from the Department of Hematology, Odense University Hospital.
+
+ Interventions consist of: - Conventional DXA scan to measure Bone Mineral Density (BMD).
+
+ - Experimental HR-pQCT to assess geometry, strength and microstructure of the bone in 3 dimension.
+
+ - Blood-samples are collected and frozen for later analyses of Biochemical Bone Markers: 1-CTP, Ctx, ALP (alkaline phosphatase)and P1NP.
+
+ The outcome is compared to healthy control individuals.
+
+.
+
+ Myeloproliferative Neoplasms and Bone Structure@highlight
+
+This is a clinical study to evaluate the effect of CMPN (Chronic myeloproliferative neoplasm) to the bone.
+
+ The hypothesis is that patients with CMPN have a higher fracture-rate compared to the background population.
+
+ We expect to find a lower BMD using conventional DXA scan (dual energy x-ray absorptiometry), and a change in other parameters using HR-pQCT (high-resolution peripheral quantitative computerized tomography).
+
+Biochemical bone markers is measured to support the hypothesis.
+

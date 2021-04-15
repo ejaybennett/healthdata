@@ -1,0 +1,19 @@
+(thirdQuint)The Benefits of Intracytoplasmic Morphologically Selected Sperm Injection (IMSI) in Couples With Unexplained Infertility.
+
+ When routine infertility workup yields normal results in both partners, the couple is defined as suffering from unexplained infertility.
+
+ These couples present normal semen analysis.
+
+ It has been reported that even infertile patients with normozoospermic parameters can have higher values of DNA damage than fertile controls.
+
+ It has been proposed that the use of ''invisible damaged'' spermatozoa could result in fertilization failure, impaired normal embryo development, reduced implantation and pregnancy rates.
+
+ The motile sperm organelle morphology examination (MSOME) allows the detection of sperm vacuoles that seems to be related to sperm DNA damage.
+
+ The investigators hypothesized that couples with unexplained infertility could benefit from the injection of spermatozoa selected under high-magnification (x6600).
+
+ The Benefits of Intracytoplasmic Morphologically Selected Sperm Injection (IMSI) in Couples With Unexplained Infertility@highlight
+
+The (motile sperm organelle morphology examination) MSOME allows the detection of sperm vacuoles that seems to be related to sperm DNA damage.
+
+ The investigators hypothesized that couples with unexplained infertility could benefit from the injection of spermatozoa selected under high-magnification (x6600)

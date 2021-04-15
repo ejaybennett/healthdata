@@ -1,0 +1,16 @@
+(firstQuint)Intervention to Increase Physical Activity in Older Adults Using Citizen-science and Modern Technology.
+
+ The World Health organization recommends that all adults should aim for 30 minutes of moderate physical activity on at least five days of the week.
+
+ The importance of physical activity for promoting heath is complicated when considering inactive older adults and chronic conditions.
+
+ A problematic cycle emerges where physical inactivity increases the likelihood for developing chronic conditions, and, in turn, many chronic conditions are associated with symptoms that make physical activity more difficult.
+
+ The investigators aim to develop and implement a physical activity promotion intervention for older adults with or without chronic disease living in an urban environment that considers individual, interpersonal and environmental factors and makes use of a citizen-science approach and modern PA-monitoring devices.
+
+.
+
+ Intervention to Increase Physical Activity in Older Adults Using Citizen-science and Modern Technology@highlight
+
+To develop and implement a physical activity promotion intervention for older adults with or without chronic disease living in an urban environment.
+

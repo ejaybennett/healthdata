@@ -1,0 +1,20 @@
+(fifthQuint)Descriptive Study of Receptive Fields in Lower Limb Amputees.
+
+ It has been observed that patients subjected to amputations develop so called receptive fields, which time of occurrence and localization over time are yet not examined systematically.
+
+ A receptive field is defined as skin area anywhere on the same side of the body as the amputation, which when stimulated by others, causes phantom sensations in the amputated extremity.
+
+ This clinical trial aims to investigate the reliability in detecting these receptive fields as well as their incidence and changes over time.
+
+ Further it aims to evaluate the acute effect of the stimulating system ("Phantom Stimulator" (Cort X Sensorics, Spaichingen, Germany)) on selected gait parameters measured tough a gait analysis system ("OprtoGait" (Microgate, Bolzano, Italy)) as well as on phantom sensations measured through a questionnaire.
+
+.
+
+ Descriptive Study of Receptive Fields in Lower Limb Amputees@highlight
+
+It has been observed that patients subjected to amputations develop so called receptive fields, which time of occurrence and localization over time are yet not examined systematically.
+
+ This clinical trial aims to investigate the reliability in detecting these receptive fields as well as their incidence and changes over time.
+
+ Further it aims to evaluate the acute effect of a stimulating system ("Phantom Stimulator" (Cort X Sensorics, Spaichingen, Germany)) on selected gait parameters measured tough a gait analysis system ("OprtoGait" (Microgate, Bolzano, Italy)) as well as on phantom sensations measured through a questionnaire.
+

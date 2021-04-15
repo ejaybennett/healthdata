@@ -1,0 +1,38 @@
+(fifthQuint)Operative Treatment of Intra-Articular Distal Radius Fractures With Versus Without Wrist Arthroscopy.
+
+ Distal radius fractures account for 17% of all fractures seen at the emergency department.
+
+ Fifty percent of these fractures are intra-articular.
+
+ The past several years an increase in open reposition internal fixation (ORIF) for distal radius fractures has been observed.
+
+ This technique leads to a quicker resume of function the first 3 to 6 months compared to non-operative treatment.
+
+ However, some patients continue to have a painful and stiff wrist postoperatively.
+
+ Arthroscopically assisted removal of intra-articular fracture haematoma and debris may improve the functional outcomes following operative treatment of intra-articular distal radius fractures.
+
+ Moreover, during arthroscopy the quality of the reduction and the presence of associated ligamentous injuries can be assessed.
+
+ To our knowledge, no studies have been carried out to further examine the use of arthroscopy after internal plate fixation to remove fracture haematoma and debris on functional outcomes.
+
+ Therefore, the purpose of this randomised controlled trial is to determine the difference in functional outcome, assessed with the Patient-Rated Wrist Evaluation (PRWE) score, after internal plate fixation with an additional wrist arthroscopy and conventional fluoroscopically assisted internal plate fixation in adult patients with displaced complete articular distal radius fractures.
+
+ Secondary, we aim to determine the difference in functional outcomes with the Disability of the Arm, Shoulder and Hand (DASH) score, post-operative pain, range of motion, grip strength, complications, quality of life (SF-36), and cost-effectiveness.
+
+ Additionally, for patients undergoing additional wrist arthroscopy the quality of reduction, associated ligamentous injuries and cartilage damage will be assessed.
+
+.
+
+ Operative Treatment of Intra-Articular Distal Radius Fractures With Versus Without Wrist Arthroscopy@highlight
+
+Open reduction and internal fixation of intra-articular distal radius fractures leads to better functional outcomes the first 6 months compared to non-operative treatment.
+
+ However, some patients continue to have a painful and stiff wrist post-operatively.
+
+ Arthroscopically assisted removal of intra- articular fracture haematoma and debris may reduce pain and improve the functional outcomes following operative treatment of intra-articular distal radius fractures.
+
+ Moreover, during arthroscopy the quality of the reduction and the presence of associated ligamentous injuries can be assessed.
+
+ Therefore the objective of this study is to compare the functional outcome of internal plate fixation with additional wrist arthroscopy versus conventional fluoroscopic assisted internal plate fixation in adult patients with displaced intra-articular distal radius fractures.
+

@@ -1,0 +1,16 @@
+(firstQuint)Single-Dose Phase 1 Study of TAK-792.
+
+ This study will be double-blind and placebo-controlled to avoid subjective bias in the assessment of safety and tolerability of TAK-792.
+
+ Sentinel dosing will be used in the first cohort (cohort 1) to ensure adequate safety and tolerability evaluation prior to administering TAK-792 to the remainder of participants within the cohort.
+
+ The dose escalation to the next cohort for Cohorts 2 to 6 will occur after full review of safety and tolerability of the current cohort, and available pharmacokinetic data up to 24 hr in the preceding cohorts.
+
+ The planned dose levels are 30, 100, 250, 500, 750 and 1250 mg, to be administered in the morning after a fast of at least 10 hours.
+
+.
+
+ Single-Dose Phase 1 Study of TAK-792@highlight
+
+The purpose of this study is to characterize the safety and tolerability profile of TAK-792 when administered as a single oral dose in healthy Japanese and Caucasian male participants.
+

@@ -1,0 +1,26 @@
+(firstQuint)The Effect of Liberal vs.
+
+ Restrictive Transfusion Strategies on Rehabilitation After Hip Fracture Surgery.
+
+ The effect of liberal vs restrictive transfusion regimens after hip fracture surgery is unresolved.
+
+ Liberal transfusion regimens (transfusion trigger hgb.
+
+ 6.
+
+25 mmol/l) leads to an increased use of blood products but may impact positively on rehabilitation outcome, a restrictive transfusion trigger (hbg.
+
+ 5.
+
+0 mmol/l) saves blood products but may also impair postoperative rehabilitation and outcome.
+
+ the study randomizes 120 elderly patients with hip fractures to either a restrictive or a liberal perioperative transfusion therapy and measures postoperative rehabilitation outcomes within a well defined multimodal rehabilitation regimen.
+
+.
+
+ The Effect of Liberal vs.
+
+ Restrictive Transfusion Strategies on Rehabilitation After Hip Fracture Surgery@highlight
+
+To examine the effect of two different transfusion regimens on rehabilitation after hip fracture surgery.
+

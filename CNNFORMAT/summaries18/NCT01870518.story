@@ -1,0 +1,20 @@
+(thirdQuint)Neurocognitive Effects of Bilateral STN Versus GPi DBS in Parkinson's Disease Patients With MCI.
+
+ Deep brain stimulation (DBS) of the globus pallidus interna (GPi) or subthalamic nucleus (STN) has been accepted as the surgical treatment of choice for patients with advanced Parkinson's Disease (PD), demonstrating improvements in motor function that exceed those achieved by medical management alone.
+
+ Unfortunately, a paucity of data exist comparing non-motor outcomes between DBS of the available targets.
+
+ Specifically, a high prevalence of concurrent cognitive dysfunction or early dementia exists in PD patients, and it is unclear whether DBS target selection may have differential effects with regards to cognitive outcomes in PD patients with early evidence of mild cognitive impairment Previous studies indicate that stimulation of either the GPi or STN is associated with decrements in patients' verbal fluency, visuospatial memory, as well as overall cognitive decline, but those patients were randomized without consideration for baseline neurocognitive performance and it is unclear whether these effects are due to treatment or rather the natural history of these patients.
+
+ In addition to the clinical arm of this trial, another secondary goal is to evaluate several biomarkers obtained from blood and cerebrospinal in order to determine their utility if any as prognosticators of patient cognitive and motor outcomes.
+
+ Specifically, we will be evaluating levels of amyloid 1-42, total tau, phosphorylated tau 181, and brain derived neurotrophic factor in the cerebrospinal fluid as well as genotyping the apolipoprotein-E gene.
+
+ These proteins and genotypes are still currently under investigation as potential biomarkers for dementia as well as neuroplasticity.
+
+.
+
+ Neurocognitive Effects of Bilateral STN Versus GPi DBS in Parkinson's Disease Patients With MCI@highlight
+
+Purpose: This is a prospective single-center, randomized, patient and evaluator-blind clinical trial to compare the neurocognitive outcomes of globus pallidus interna (GPi) versus subthalamic nucleus (STN) deep brain stimulation (DBS) in Parkinson's disease (PD) patients with mild cognitive impairment (MCI).
+

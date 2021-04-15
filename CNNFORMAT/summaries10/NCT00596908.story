@@ -1,0 +1,40 @@
+(fifthQuint)123I-ALTROPANE Reference Image Acquisition in Subjects With Diagnostically Uncertain Tremor.
+
+ This is a prospective, multi-center, non-randomized, open-label, out patient clinical trial which will include up to 90 subjects, male or female, 40 years of age or older.
+
+ This study is designed to obtain an imaging training set that will be used to evaluate images in future trials.
+
+ Up to ninety subjects with upper extremity tremor for less than 2 years duration will be enrolled.
+
+ Of these, at least thirty Parkinsonian syndromes subjects and at least thirty non-Parkinsonian syndromes subjects as diagnosed by a MDS will be enrolled.
+
+ Subjects will participate in three study visits over the course of the study period.
+
+ The screening visit will include an assessment of eligibility as well as the collection of the MDS diagnosis.
+
+ The second visit, during which all subjects receive a single intravenous injection of 123I-ALTROPANE(R) followed by SPECT imaging, will include appropriate safety assessments before and after dosing.
+
+ The third visit will include follow-up safety.
+
+ The subjects' participation in the study will range between 30 and 40 days.
+
+.
+
+ 123I-ALTROPANE Reference Image Acquisition in Subjects With Diagnostically Uncertain Tremor@highlight
+
+This study is designed to obtain an imaging training set that will be used to evaluate images in future trials.
+
+ Currently, no radiopharmaceutical diagnostic imaging agent has been approved by the FDA in the U.
+
+S.
+
+ for use in diagnosing Parkinson disease and related Parkinsonian syndromes.
+
+ The diagnosis of Parkinsonian syndromes in the U.
+
+S.
+
+ is based on clinical criteria only.
+
+ The goal is to demonstrate that 123I-ALTROPANE(R) paired with SPECT imaging permits a more accurate early diagnosis of Parkinson disease than a clinical diagnosis by a general neurologist.
+

@@ -1,0 +1,18 @@
+(secondQuint)Efficacy of Ubiquitous SR-based Memory Advancement and Rehabilitation Training (U-SMART).
+
+ The Spaced Retrieval-based Memory Advancement and Rehabilitation Training (SMART) which consisted of 24 one-hour face-to-face sessions (Lee, Park et al.
+
+ 2009) was developed based on the spaced retrieval training (SRT), which was effective in improving memory retention span of very mild to mild Alzheimer's disease patients.
+
+ The Ubiquitous SMART (U-SMART) by transforming the current SMART to a self-administered program using an application working on IPAD was developed, and showed its feasibility and efficacy in the elderly individuals with mild cognitive impairment in the preliminary study.
+
+ (ClinicalTrials.
+
+gov ID: NCT01628653) To validate the efficacy of the U-SMART, an open-label, controlled, crossover design of clinical trial were planned in this study.
+
+.
+
+ Efficacy of Ubiquitous SR-based Memory Advancement and Rehabilitation Training (U-SMART)@highlight
+
+The purpose of this study is to examine the efficacy of the Ubiquitous Spaced Retrieval-based Memory Advancement and Rehabilitation Training (U-SMART) in the elderly individuals with mild cognitive impairment (MCI) by an open-label, controlled, crossover Trial.
+

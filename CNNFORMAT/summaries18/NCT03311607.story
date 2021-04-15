@@ -1,0 +1,20 @@
+(thirdQuint)Safety and Effectiveness of Short-course AmBisome in the Treatment of PKDL in Bangladesh.
+
+ The safety and effectiveness of AmBisome 15 mg/kg, given over 15 days in 5 biweekly infusions of 3 mg/kg on an outpatient basis, was evaluated in clinically diagnosed PKDL patients of 12 years and older in a highly endemic area in Bangladesh.
+
+ This was a prospective study, with the objective to assess final cure 12 months after treatment.
+
+ Clinical response was monitored at 1, 3, 6, and 12 months after treatment, and safety during and up until one month after treatment.
+
+ A total of 280 patients recruited between 8 April and 25 November 2014 received AmBisome.
+
+ Of these, 272 were assessed at 12 months.
+
+.
+
+ Safety and Effectiveness of Short-course AmBisome in the Treatment of PKDL in Bangladesh@highlight
+
+The safety and effectiveness of AmBisome 15 mg/kg, given over 15 days in 5 biweekly infusions of 3 mg/kg on an outpatient basis, is evaluated in clinically diagnosed PKDL patients of 12 years and older in a highly endemic area in Bangladesh.
+
+ This is a prospective study, with the objective to assess final cure 12 months after treatment.
+

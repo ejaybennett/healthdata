@@ -1,0 +1,36 @@
+(fifthQuint)Malignant Progression of Anal Intra-epithelial Neoplasia in a Cohort of Patients.
+
+ "Background : Incidence of anal carcinoma (AC) is considerably increasing, but no data on risk of AC in patient with anal AIN3 lesions are available, nor french recommendations about screening and treatment of anal AIN3 lesions.
+
+ Objective : Evaluation of the AC incidence in patient with anal AIN3 lesions, and factors associated with this AC.
+
+ Population : Patients with a diagnosis of anal AIN3 lesion will be included and followed for 3 years.
+
+ Patients with past history of AC won't be included.
+
+ Study design : Retrospective cohort study will be conducted from 2000 using diagnostic codes of anal AIN3 lesion in histo-pathology departments.
+
+ Then a prospective cohort study will be conducted with new diagnoses of anal AIN3 lesion.
+
+ Outcome : The main outcome is histology proven AC.
+
+ AC identification can be done either by using diagnostic codes of AC in histo-pathology departments (for retrospective cases), or prospectively.
+
+ Statistics : The incidence rate of AC will be calculated.
+
+ Factors associated with AC will be estimated using a multivariate Cox regression model.
+
+ Number of patients : 1000 Number of centers : 35 Length of follow-up: 3 years at least Length of study : 3 years of inclusion and 3 years of follow-up at least".
+
+ Malignant Progression of Anal Intra-epithelial Neoplasia in a Cohort of Patients@highlight
+
+Evaluation of the 3-years anal carcinoma (AC) incidence in patient with anal AIN3 lesions, and factors associated with this AC.
+
+ A retrospective cohort study will be conducted (2000-2013) followed by a prospective cohort study (starting in 2013) with new diagnoses of anal AIN3 lesion.
+
+ The main outcome is histology proven AC.
+
+ The 3-years incidence rate of AC will be calculated.
+
+ Factors associated with AC will be estimated using a multivariate Cox regression model.
+

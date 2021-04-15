@@ -1,0 +1,15 @@
+(firstQuint)Neoadjuvant Triplet Chemotherapy Regimen in Patients With Locally Advanced Rectal Cancer.
+
+ In this pilot phase II study, the investigators enrolled Chinese adults(age 18 to 70 years) with locally advanced stage II/III rectal cancer.
+
+ The neuadjuvant chemotherapy regimen is : oxaliplatin 85 mg/m2 and irinotecan 150 mg/m2, combined with 5FU 2,400 mg/m2 by 46 h infusion, repeated at 2week intervals for 5 cycles.
+
+ Total mesorectal excision was scheduled 4-5 weeks after completion of neoadjuvant treatment and followed by a further 7 cycles of mFOLFOX or 4 cycles of XELOX.
+
+ Primary outcome measures of this phase II trial were feasibility, safety, tolerance and efficacy of neoadjuvant treatment.
+
+.
+
+ Neoadjuvant Triplet Chemotherapy Regimen in Patients With Locally Advanced Rectal Cancer@highlight
+
+This study aims to investigate the feasibility, safety and efficacy of triplet regimen of neoadjuvant chemotherapy in patients with locally advanced rectal cancer

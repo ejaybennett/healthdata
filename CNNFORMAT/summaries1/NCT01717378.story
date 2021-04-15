@@ -1,0 +1,38 @@
+(fifthQuint)UCSF Research Participant Registry.
+
+ The UCSF Research Participant Registry (http://registry.
+
+ucsf.
+
+edu) is a secure, standalone database that actively collects and stores data from willing volunteers who visit its website.
+
+ The UCSF Registry is a cornerstone of the UCSF Recruitment Service (RS).
+
+ Both the Registry and the RS are among several initiatives implemented by the UCSF Clinical & Translational Science Institute.
+
+ The chief purpose of the RS is to facilitate the enrollment of research participants into UCSF clinical studies.
+
+ The primary function of the Registry is to expand the pool of potential clinical research volunteers.
+
+ The Registry stores self-reported identifiable health information in a searchable database that is compliant with the privacy requirements of the Health Insurance Portability and Accountability Act (HIPAA).
+
+ This information is then used by the RS for the future identification and recruitment of potentially eligible participants for specific UCSF studies.
+
+ Registry participants whose data matches the major eligibility criteria for a specific study will be sent recruitment materials about the study.
+
+ Contact information for the investigator or RS staff will also be included in the e-mailing.
+
+ Participants are then free to choose whether to respond or ignore the study recruitment information.
+
+.
+
+ UCSF Research Participant Registry@highlight
+
+The UCSF Clinical and Translational Science Institute (CTSI) Consultation Service provides recruitment services and facilitates the enrollment of research participants into UCSF clinical studies.
+
+ The Recruitment Services will be accessible to all researchers at UCSF and affiliated institutions and will address the common problems that investigators encounter in the recruitment process.
+
+ Recruitment Services considered and integrated Committee on Human Research (CHR) and HIPAA regulations for ensuring human subject rights, participant privacy, and data security into the recruitment workflow and data collection/extraction methods.
+
+ Recruitment Services, therefore, requests approval to implement these processes systematically for all studies that have already obtained CHR approval to begin recruitment activities.
+

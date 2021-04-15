@@ -1,0 +1,20 @@
+(thirdQuint)Metformin in Women With Type 2 Diabetes in Pregnancy Trial.
+
+ Type 2 diabetes in pregnancy is increasing in prevalence and these women continue to face increased rates of adverse maternal and fetal outcomes.
+
+ The investigators hypothesize that metformin use, as an adjunct to insulin, will decrease these adverse outcomes by reducing maternal hyperglycemia, high maternal insulin doses, excessive maternal weight gain and gestational hypertension/pre-eclampsia, all of which should reduce perinatal and neonatal mortality and morbidity.
+
+ In addition, since metformin crosses the placenta, metformin treatment of the fetus may have a direct beneficial effect on neonatal outcomes.
+
+ This study is an randomized controlled trial (RCT) that adds metformin to insulin, and is a double-blind, placebo-controlled RCT.
+
+ The investigators believe that neither metformin alone nor insulin alone will effectively treat this population, and therefore our design, which includes the addition of metformin to insulin, will be the most relevant to our patients.
+
+.
+
+ Metformin in Women With Type 2 Diabetes in Pregnancy Trial@highlight
+
+Insulin is the standard treatment for the management of type 2 diabetes in pregnancy, however despite treatment with insulin, these women continue to face increased rates of adverse maternal and fetal outcomes.
+
+ The investigators hypothesize that metformin use, in addition to treatment with insulin, will help with blood sugar control, lower the dose of insulin needed, lower weight gain, and improve baby outcomes.
+

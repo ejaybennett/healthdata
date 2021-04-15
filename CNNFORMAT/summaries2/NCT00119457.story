@@ -1,0 +1,14 @@
+(firstQuint)Factor IX Inhibition in Thrombosis Prevention (The FIXIT Trial).
+
+ FIXIT is the first Phase 2 study of TTP889.
+
+ The trial is a proof-of-concept study to determine the safety and antithrombotic efficacy of TTP889 in patients at risk for venous thromboembolism (VTE).
+
+ The study is a multi-center, randomized, double-blind, parallel-group evaluation of 300 mg TTP889 or placebo, administered orally once daily for three weeks, in patients who have undergone surgery to repair unilateral fracture of the upper third of either femur and who have completed 5 to 9 days of postoperative prophylactic treatment for VTE.
+
+.
+
+ Factor IX Inhibition in Thrombosis Prevention (The FIXIT Trial)@highlight
+
+The purpose of this study is to determine whether TTP889 prevents venous thromboembolism following surgery to repair hip fracture.
+

@@ -1,0 +1,11 @@
+(firstQuint)The Safety Of Combo Formulation In The Treatment Of Multiple Episodes Of Acute Migraine Over 12 Months.
+
+ The objective of this study is to assess the safety of a single-tablet dose of Combo Formulation for the treatment of moderate to severe migraines, with an optional second dose at least 2 hours following the first dose, if needed.
+
+ Combo Formulation will be administered on average at least twice per month for 12 months.
+
+.
+
+ The Safety Of Combo Formulation In The Treatment Of Multiple Episodes Of Acute Migraine Over 12 Months@highlight
+
+The objective of this study is to assess the safety of a single-tablet dose of Combo Formulation for the treatment of moderate to severe migraines

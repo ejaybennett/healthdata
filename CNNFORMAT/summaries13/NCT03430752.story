@@ -1,0 +1,30 @@
+(secondQuint)Comparing the Impact of Cancer on Quality of Life Between Survivors of Childhood Solid Tumors and Leukemia.
+
+ In general, cancer can be divided into two main categories: blood cancer and solid tumors.
+
+ Leukemia refer to the cancers in blood while solid tumors refer to the cancers which involve the formation of an abnormal mass without any liquid or cysts.
+
+ Patients suffer from leukemia are usually have better prognosis which result in better psychological well-being when compared with those suffer from solid tumors (Rodin et al.
+
+, 2010).
+
+ The development of solid tumors in children is different from that in adult.
+
+ Some of the solid tumors such as osteosarcoma, neuroblastoma, rhabdomyosarcoma, Wilms' tumor and retinoblastoma are exclusively found in children.
+
+ Other types of solid tumors such as brain tumor can also be found in children.
+
+ Yet, most of recent studies in Hong Kong have focused in general childhood cancer survivors or their family members but no study has been conducted to focus on the physical and psychological well-being of survivors of childhood solid tumors (Li, Lopez, Chung, Ho, & Chiu, 2013; Wills, 2009).
+
+ Therefore, the quality of life and psychological well-being of solid tumors survivors are always be overestimated.
+
+ The actual psychological needs of solid tumors survivors may be overlooked.
+
+ There is thus an imperative need to investigate the impact of cancer and treatment-related effects on the physical and psychosocial well-being and quality of life among Hong Kong Chinese survivors of childhood solid tumors.
+
+.
+
+ Comparing the Impact of Cancer on Quality of Life Between Survivors of Childhood Solid Tumors and Leukemia@highlight
+
+The aim of the study is to examine the impact of cancer and treatment-related effects on the physical and psychosocial well-being and quality of life among Hong Kong Chinese survivors of childhood solid tumors.
+

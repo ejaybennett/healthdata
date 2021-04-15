@@ -1,0 +1,16 @@
+(firstQuint)Apixaban Versus Warfarin in Patients With Left Ventricular Thrombus.
+
+ Current treatment for left ventricular thrombus is anti-coagulant or blood thinning agent known as warfarin.
+
+ Recently at least three novel oral anticoagulant agents were used in the treatment of atrial fibrillation, pulmonary embolism and deep vein thrombosis (DVT).
+
+ Novel oral anticoagulant drugs will require no blood taking for INR monitoring, hence less visit and more convenience to patients.
+
+ Latest studies also showed lesser rate of bleeding as compared to warfarin and hence relatively safer.
+
+.
+
+ Apixaban Versus Warfarin in Patients With Left Ventricular Thrombus@highlight
+
+The purpose of this study is to compare the novel oral anticoagulant apixaban with the standard therapy of warfarin on the size reduction or resolution of left ventricular thrombus over 6 months.
+

@@ -1,0 +1,66 @@
+(fifthQuint)Yoga and Physical Activity for Veterans.
+
+ Posttraumatic stress disorder (PTSD) is a chronic, debilitating condition with a broad negative impact on physical and mental health functioning.
+
+ Excellent, empirically-supported interventions for PTSD are readily available to Veterans, but the majority of patients who receive the best available treatments continue to have a diagnosable disorder after treatment.
+
+ This suggests that complementary interventions may be useful to fully restore functioning.
+
+ In addition, many patients seek alternatives to psychotherapy or pharmacotherapy.
+
+ This is evident in the increasing numbers of individuals with PTSD are turning to alternative approaches.
+
+ At present, however, the investigators lack a good evidence base from which to make recommendations about the use of complementary and alternative approaches.
+
+ Yoga is very popular practice, touted to enhance physical, mental and spiritual well-being.
+
+ Many Veterans with PTSD have turned to yoga as a part of their recovery plan, often seeking care outside the specialty mental health system.
+
+ Initial evidence suggests that the practice leads to clinically significant change in symptoms, but results are yet inconclusive, particularly in Veterans.
+
+ Thus, this project will provide additional data as to efficacy of yoga for Veterans PTSD.
+
+ One reason that the yoga literature is yet inconclusive may be the tremendous heterogeneity in the way in which the yoga is implemented.
+
+ By understanding the mechanisms by which yoga affects PTSD symptoms, universal change processes can be identified.
+
+ This project, therefore, will examine a set of candidate processes, which are known important determinants of PTSD symptomatology and potentially modifiable by yoga practice, in order to understand which are contributing to symptom change.
+
+ With 30 million Americans practicing yoga, dissemination of a specific protocol would not be practicable.
+
+ Nonetheless, guidelines for trauma-sensitive yoga, which focus primarily on acceptability of the practice for traumatized individuals, appear to be associated with better outcomes for those with PTSD.
+
+ This work would facilitate the extension of such guidelines to include practice features that maximize the impact of yoga on PTSD symptoms.
+
+ The proposed study is a randomized controlled trial involving 192 Veterans with PTSD from the San Diego area.
+
+ These Veterans will be randomized to receive a manualized hatha yoga intervention or a supportive physical activity control condition.
+
+ Both interventions will be delivered by trained instructors in a group setting over a 12-week period.
+
+ Assessment of clinical outcomes and methodological variables will take place before, during, immediately after, and 3-months after the intervention.
+
+ Analyses will focus on change in the intervention groups over time and the degree to which change is associated with the candidate mechanisms.
+
+ Results of this study have the potential to inform the way in which yoga is delivered to Veterans as well as to increase knowledge about the underlying processes by which PTSD can be ameliorated.
+
+ Given the high demand for yoga demand by individuals with PTSD and the degree to which the practice is already being provided in many clinical settings, findings from this study will be immediately relevant.
+
+ Findings may also guide future research in complementary and alternative approaches by demonstrating the principle of targeting different processes of change to create an integrative care plan.
+
+.
+
+ Yoga and Physical Activity for Veterans@highlight
+
+Posttraumatic stress disorder (PTSD) is a major health problem for the nation's Veterans, leading to significant physical and mental health morbidity and mortality.
+
+ Current empirically-supported interventions ameliorate symptoms but generally do not restore full functioning, so the development of alternative or complementary approaches is a critical need.
+
+ Large numbers of Veterans are seeking out yoga as a part of their recovery plans, but there is no standardization of yoga protocols.
+
+ Likely reflecting this heterogeneity, evidence of yoga's efficacy is highly variable.
+
+ This project aims to address this problem by elucidating the mechanisms by which yoga impacts PTSD, thereby guiding the development of standards for yoga for PTSD.
+
+ Ultimately, the goal of this research would be to contribute to integrative care planning, whereby multiple approaches can be applied in a synergistic manner to restore wellness for Veterans affected by PTSD.
+

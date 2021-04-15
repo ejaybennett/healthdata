@@ -1,0 +1,54 @@
+(fifthQuint)Naltrexone for Antipsychotic-Induced Weight Gain.
+
+ Persons with severe mental illness (SMI) die, on average, 25 years earlier than the general population1.
+
+ Most of this early mortality can be attributed to cardiovascular disease (CVD) and diabetes mellitus (DM), which are directly related to obesity.
+
+ Obesity is a leading cause of preventable death in the United States, second only to smoking.
+
+ The physical health of patients has become a major focus of schizophrenia care, as recent decades have seen immense gains in symptom control and community integration.
+
+ There is an urgent need for the development of interventions that address the obesity crisis in schizophrenia.
+
+ Patients treated with antipsychotic medications have been shown to have a preference for diets high in fat and sugar.
+
+ Patients with schizophrenia typically seek behaviors that increase dopamine mediated reward in the brain such as smoking and substance use, both of which occur more often in this group than the general population.
+
+ The system might require intact dopamine and opioid function.
+
+ Naltrexone is an oral agent that competitively antagonizes all known opioid receptors in the brain.
+
+ Human studies with naltrexone were completed in individuals with different illnesses, including schizophrenia, and have been shown to be a safe and easy agent to use.
+
+ It is shown to decrease craving in alcoholics and is approved by the FDA for the treatment of alcohol dependence.
+
+ Naltrexone is reported to decrease craving for other substances of abuse, like nicotine.
+
+ Furthermore, it has been shown to prevent secondary weight gain due to cessation of cigarette smoking at low (25mg and 50 mg), but not higher doses.
+
+ Naltrexone has been tested in human feeding studies, and has been shown to reduce both the quantity of food eaten and the choice of palatable foods.
+
+ Subjects will be randomized to either 25, 50 or 0mg of Naltrexone and will take the study medication daily for 52 weeks.
+
+ Subjects will be seen weekly for the first 4 weeks of the study, thereafter they will be seen on a bi-weekly (every other week) basis to be assessed (i.
+
+e.
+
+ weight, side effect check, paper questionnaires) throughout the remaining 48 weeks of treatment.
+
+ The purpose of this study is to determine the efficacy of two doses of naltrexone (25mg & 50mg) versus placebo for weight and health risk reduction in 144 obese individuals with severe mental illness treated with an antipsychotic medication.
+
+.
+
+ Naltrexone for Antipsychotic-Induced Weight Gain@highlight
+
+This study is designed to look at the effects of naltrexone on weight loss in individuals treated with antipsychotic medications.
+
+ Naltrexone is an FDA approved medication for the management of alcohol dependence and drug dependence, but has not been fully evaluated for its effect on weight loss in individuals with severe mental illness (i.
+
+e.
+
+ schizophrenia, schizoaffective disorder, bipolar disorder etc.
+
+) The purpose of this study is to find out how effective two different doses of oral naltrexone is on reducing body weight when compared to placebo (an inactive substance or "sugar pill").
+

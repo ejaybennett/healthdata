@@ -1,0 +1,20 @@
+(fifthQuint)Integrating Safer Conception Counseling to Transform HIV Family Planning Services.
+
+ Family planning (FP) services for people living HIV/AIDS (PLHA) focus on preventing unplanned pregnancies and mother-to-child-transmission (PMTCT), and currently provide no services to support safer conception, despite ~40% of HIV+ women in sub-Saharan Africa (SSA) becoming pregnant post HIV diagnosis.
+
+ Antiretroviral therapy (ART) greatly reduces the transmission risks associated with childbearing, but many PLHA are either not on ART or not adequately adherent; hence the need for using safer conception methods (SCM) such as manual self-insemination and timed unprotected intercourse.
+
+ This cluster RCT will compare (1) a comprehensive FP program that incorporates a structured, multi-component SCC intervention (SCC1) versus (2) an SCC training workshop for FP nurses (SCC2; mimics approach used by Ugandan MoH to integrate new services), and (3) existing FP services (usual care) at 6 HIV clinics operated by TASO Uganda.
+
+ The 3-arm design, together with the planned cost-effectiveness analysis, allows us to examine two models for integrating SCC into FP services that differ on level of intensity, thereby informing MoH policy and resource allocation.
+
+ Sixty clients in HIV serodiscordant relationships who express childbearing desires at recruitment will be enrolled at each site (n=360) and followed for 12 months or completion of pregnancy (if applicable).
+
+ The primary outcome is use of either SCM (for those trying to conceive) or dual contraception (those who decide against pregnancy).
+
+.
+
+ Integrating Safer Conception Counseling to Transform HIV Family Planning Services@highlight
+
+This 3-arm cluster randomized controlled trial (RCT) will compare (1) a comprehensive family planning (FP) program that incorporates a structured, multi-component safer conception counseling (SCC) intervention (SCC1) versus (2) a SCC training workshop for FP nurses (SCC2; less intensive and mimics approach used by Ugandan Ministry of Health (MoH) to integrate new services), and (3) existing FP services (usual care) at 9 HIV clinics (3 per arm) operated by The AIDS Support Organization (TASO) Uganda.
+

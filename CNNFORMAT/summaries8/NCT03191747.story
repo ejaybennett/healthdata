@@ -1,0 +1,18 @@
+(secondQuint)Masculine Norms and Skin Care Knowledge, Attitudes, and Behaviors.
+
+ This purpose of this study is to examine whether a man's adherence to traditional masculine norms correlates with his skin care attitudes or behaviors.
+
+ A stronger understanding of these associations may enable dermatologists to better understand their patient's perception of skin care.
+
+ The utility of this knowledge lies in creating outreach interventions and informing risk stratification.
+
+ The study also seeks to determine whether skin care knowledge varies by adherence to masculine norms.
+
+ This knowledge can be used to guide patient education in a clinical setting.
+
+.
+
+ Masculine Norms and Skin Care Knowledge, Attitudes, and Behaviors@highlight
+
+Examining whether men with greater Avoidance to Femininity subscores using the Male Role Norms Inventory - Short Form will demonstrate differences in skin care knowledge, attitudes, and behaviors, compared to men with lower subscores.
+

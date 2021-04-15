@@ -1,0 +1,22 @@
+(secondQuint)Randomized Evaluation of Anagliptin Versus Sitagliptin On Low-density lipoproteiN Cholesterol in Diabetes Trial.
+
+ Diabetes is a significant cause of cardiovascular and cerebrovascular events.
+
+ Especially, diabetic patients with cardiovascular risk factors were significantly higher risk for cardiovascular and cerebrovasculara event.
+
+ Therefore, several medical management strategies including anti-diabetic medications and statins were considered for those patients.
+
+ However, in spite of such treatment, still many patients have cardiovascular and cerebrovascular events.
+
+ One of the hypothesis is the residual risk such as elevated low-density lipoprotein cholesterol (LDLC) even with statin therapy.
+
+ Anagliptin, one of the dipeptidyl peptidase-4 (DPP4) inhibiors, was reported to reduce LDLC and may have pontential to decrease the cardiovascular and cerebrovascular risk for such patients on statins.
+
+ We, thus, conduct a randomized controlled trial to compare Anagliptin or Sitagliptin in terms of change of LDLC for 52 weeks as well as glycemic control.
+
+.
+
+ Randomized Evaluation of Anagliptin Versus Sitagliptin On Low-density lipoproteiN Cholesterol in Diabetes Trial@highlight
+
+The purpose of this study is to determine whether Anagliptin or Sitagliptin are effective in reducing the low-density lipoprotein cholesterol in patients with type 2 diabetes and cardiovascular risk factors on statin.
+

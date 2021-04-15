@@ -1,0 +1,28 @@
+(thirdQuint)Effect of a Pre Heparin Coated Dialysis Filter on Coagulation During Hemodialysis.
+
+ In the present study twelve chronic hemodialysis (HD) patients will be included.
+
+ Exclusion criteria are use of acetylsalicylic acid and/warfarin, clinical signs of infection and disseminated malignant disease.
+
+ For each patient four HD sessions will be investigated; alternating with use of the pre-heparin-coated filter or the conventional filter.
+
+ Dalteparin is reduced to 50% of the conventional dose and is given as one single bolus dose at start of HD.
+
+ The venous drip chamber will be visually inspected for evaluation of clot score during each HD session.
+
+ The filter will be visually inspected for clot score at the end of each session.
+
+ Blood specimens will be drawn systematically during each HD session to evaluate platelet and coagulation activity as well as anti Factor Xa activity, haematology and urea/creatinine to evaluate dialysis effect.
+
+ The antithrombogenic properties of the pre-heparin-coated filter and the conventional filter will be compared by means of statistical tests.
+
+ The hypothesis is that the pre-heparin-coated filter induces significantly less clot score in the extracorporeal system during hemodialysis and also significantly less intravascular activation of the coagulation system compared to the conventional filter.
+
+.
+
+ Effect of a Pre Heparin Coated Dialysis Filter on Coagulation During Hemodialysis@highlight
+
+The purpose of this study is to determine whether the heparin-coated dialysis filter is superior to a conventional filter during hemodialysis in twelve stable, chronic hemodialysis (HD) patients.
+
+ The antithrombogenic properties of the heparin-coated dialysis filter and of the conventional filter will be compared by means of statistical tests.
+

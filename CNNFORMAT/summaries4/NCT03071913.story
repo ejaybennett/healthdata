@@ -1,0 +1,36 @@
+(thirdQuint)Blood Brain Barrier Differences in Patients With Brain Tumors Undergoing Surgery.
+
+ PRIMARY OBJECTIVES: I.
+
+ To define the heterogeneity of blood brain barrier (BBB) permeability by assessing drug distribution in a population of patients with central nervous system (CNS) malignancy.
+
+ SECONDARY OBJECTIVES: I.
+
+ Establish correlation of BBB permeability with radiographic appearance for study patients.
+
+ TERTIARY OBJECTIVES: I.
+
+ To utilize tumor samples to investigate mechanisms for BBB heterogeneity.
+
+ OUTLINE: As part of pre-operative standard of care, patients receive levetiracetam by injection and cefazolin by injection.
+
+ Patients are also offered lorazepam in the pre-operative area.
+
+ At the time of surgery, patients undergo approximately 2 tissue biopsies from 3-4 tumor locations.
+
+ This tissue is removed as part of the planned surgery, but it is also tested for research purposes.
+
+ During surgery, a blood sample is collected every 20-30 minutes beginning at the time of skin incision until all of the research tumor samples have been removed.
+
+ A minimum of 3 blood samples are collected up to a maximum of 12.
+
+.
+
+ Blood Brain Barrier Differences in Patients With Brain Tumors Undergoing Surgery@highlight
+
+This pilot research trial studies blood brain barrier differences in patients with brain tumors undergoing surgery.
+
+ Studying samples of tissue and blood from patients with brain tumors in the laboratory may help doctors to understand how well drugs get into different parts of a brain tumor.
+
+ This may help them to determine which types of drugs may be best for treating brain tumors.
+

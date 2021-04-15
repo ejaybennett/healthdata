@@ -1,0 +1,18 @@
+(fifthQuint)Intermittent Therapy in HIV-1 Infected Patients With Successful Viral Suppression Under Highly Active Antiretroviral Therapy (HAART).
+
+ Although lifelong continuous therapy with HAART remains the standard of care of HIV infection, allowing to achieve undetectable plasma viral RNA, restore CD4 cell count and provide substantial decline in HIV-related morbidity and mortality, long-term toxicity associated with antiretroviral therapy is a real concern.
+
+ The purpose of this study is to compare an intermittent therapy (IT) strategy (8 weeks off / 8 weeks on) to a continuous treatment (CT) in patients with chronic and well controlled HIV-1 infection (CD4 over 450/ mu l and plasma HIV1-RNA below 200 cp/ml) under HAART, over a 96-week study period.
+
+ The study hypothesis is that intermittent therapy is not inferior to continuous therapy in maintaining a CD4 cell above 300/ mu l.
+
+ It will compare the proportions of and time to immunological failure (CD4 count below 300/ mu l confirmed by a retest 14 days later) in the IT and CT groups.
+
+.
+
+ Intermittent Therapy in HIV-1 Infected Patients With Successful Viral Suppression Under Highly Active Antiretroviral Therapy (HAART)@highlight
+
+Although lifelong continuous therapy with HAART remains the standard of care of HIV infection, allowing to achieve undetectable plasma viral RNA, restore CD4 cell count and provide substantial decline in HIV-related morbidity and mortality, long-term toxicity associated with antiretroviral therapy is a real concern.
+
+ The purpose of this study is to compare an intermittent therapy strategy to a continuous treatment in patients with chronic and well controlled HIV-1 infection.
+

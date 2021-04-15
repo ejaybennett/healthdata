@@ -1,0 +1,38 @@
+(fifthQuint)SALT: Alternative Donor Bone Marrow and Cord Blood Transplantation for High Risk Sickle Cell Disease.
+
+ Unfortunately, less than 1/4th of patients with severe SCD will have a matched sibling donor that can serve as a BMT donor.
+
+ This research protocol proposes to study the safety and usefulness of "alternate donor transplant" (using donors other than matched siblings).
+
+ We will offer this treatment to children with severe sickle cell disease that do not have a matched sibling BMT donor.
+
+ Alternative donors can be family members who are slightly less than completely matched, unrelated volunteer donors who are completely matched, and donated banked umbilical cord blood that is completely or nearly completely matched.
+
+ Alternative donor transplant has been performed commonly in patients with cancer, and also provides curative therapy for several non-malignant diseases (severe immunodeficiency, marrow failure and metabolic storage diseases).
+
+ Alternate donor transplants carry higher risks of complications, including graft-versus-host disease, infection, and graft failure.
+
+ Therefore, we will be selective about which patients are invited to participate, limiting eligibility to those patients that have had a severe SCD related problem (rather than those who are doing well and are likely to have few SCD related problems), but excluding patients who have such severe organ damage that they are more likely to die during transplant, and limiting eligibility to a young age group.
+
+ A multi-step review algorithm that includes internal, local and external expert review has been constructed to provide a thorough, safe and ethical accrual process.
+
+ We will treat patients using drugs and methods commonly used in alternate donor transplant for other diseases such as leukemia, and incorporate lessons learned from our previous experience in BMT for sickle cell by modifying supportive care measures.
+
+ Special attention will be given to evaluation of post-BMT effects in this population, as well as potential reasons for adverse effects (such as graft failure).
+
+ We think that Atlanta is a particularly good place to study this kind of transplant for several reasons.
+
+ One reason is experience: our program has transplanted more children with SCD than any other single institution in North America, with excellent outcomes.
+
+ Additionally, SCD patients in our area often have been treated on a special red cell transfusion program that limits the number of people donating the blood; we think this is likely to reduce the chance of graft failure.
+
+.
+
+ SALT: Alternative Donor Bone Marrow and Cord Blood Transplantation for High Risk Sickle Cell Disease@highlight
+
+We hope to gain valuable information about the safety, success of engraftment, and rates of complications using alternate donor transplantation for children with severe SCD.
+
+ Crucial information will be also collected about late effects from alternate donor BMT sickle cell, providing valuable information to clinicians and families making decisions among interventions for children with severe sickle cell disease.
+
+ If successful, alternate donor transplantation in this setting could pave the way to offering curative treatment to many more patients with severe SCD.
+

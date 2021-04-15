@@ -1,0 +1,16 @@
+(secondQuint)Exploratory Study of Relationships Between Malodor and Urine Metabolomics.
+
+ In this study, metabolite profiling analysis will be carried out on urine samples of individuals with malodor conditions related to metabolism inefficiencies.
+
+ Metabolic profiles will be identified using the metabolomics equipment located in the NMR, HPLC and MS facilities of the Metabolomics Innovation Centre (TMIC).
+
+ Multivariate statistical analyses will be used, as well as other approaches to mine complex data from heterogeneous sources.
+
+.
+
+ Exploratory Study of Relationships Between Malodor and Urine Metabolomics@highlight
+
+The purpose of this study is to identify metabolic signatures associated with malodor conditions.
+
+ The investigators will perform state-of-the art metabolomics tests and bioinformatic data mining to explore if conditions leading to malodor can be screened by metabolomic profiling of urine samples.
+

@@ -1,0 +1,22 @@
+(secondQuint)Effects of the Quantity of Repetitive Transcranial Magnetic Stimulation(rTMS) on the Recovery After Stroke.
+
+ Repetitive transcranial magnetic stimulation (rTMS) can modulate excitability of the brain via non-invasive methods.
+
+ In that sense, rTMS has been used to treat a variety of symptoms of stroke during last two decades.
+
+ Especially, improvement of upper extremity function has been proved by many studies.
+
+ However, it remains uncertain about the optimum amount of rTMS.
+
+ The aim of this multicentric double blind study (randomized study) is to demonstrate the relationship between the amount of rTMS and the efficacy in the treatment of upper extremity motor deficits of stroke patients.
+
+ Fifty-seven patients will be included with written consent.
+
+ After randomization, the subject will receive 3 different amount of treatment rTMS-rTMS, Sham-rTMS, Sham-Sham) in double blind methods.
+
+.
+
+ Effects of the Quantity of Repetitive Transcranial Magnetic Stimulation(rTMS) on the Recovery After Stroke@highlight
+
+The aim of this multicentric double blind study (randomized study) is to demonstrate the relationship between the amount of rTMS and the efficacy in the treatment of upper extremity motor deficits of stroke patients.
+

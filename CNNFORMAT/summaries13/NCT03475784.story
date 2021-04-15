@@ -1,0 +1,19 @@
+(secondQuint)Two Fluid Strategies for Prevention of Post-dural Puncture Headache.
+
+ In this study, the investigators will compare restrictive fluid therapy and liberal fluid therapy in prophylaxis against postdural puncture headache.
+
+ The restrictive group will not receive preoperative fluid loading, and will receive intraoperative crystalloids at rate of 10 mL/Kg/hour followed by postoperative crystalloids at rate of 2 mL/Kg/hour for hours.
+
+ The Liberal group will receive preoperative fluid loading of 5 mL/Kg, and will receive intraoperative crystalloids at rate of 10 mL/Kg/hour, followed by postoperative crystalloids at rate of 6 mL/Kg/hour.
+
+ Both groups will be compared regarding demographic data, total peri-operative fluids, incidence of postdural puncture headache, nausea, vomiting, and intraoperative hemodynamics (heart rate and systolic blood pressure) in addition to neonatal outcomes.
+
+.
+
+ Two Fluid Strategies for Prevention of Post-dural Puncture Headache@highlight
+
+Postdural puncture headache (PDPH) is a common complication after cesarean delivery (CD).
+
+ The role of peri-operative fluid therapy in prophylaxis against PDPH is unclear.
+
+ The aim of this work is to compare restrictive versus liberal fluid therapy in prophylaxis against PDPH after CD

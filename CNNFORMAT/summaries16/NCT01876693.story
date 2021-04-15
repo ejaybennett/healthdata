@@ -1,0 +1,22 @@
+(secondQuint)A Prospective Study of Prophylactic Gastrostomy in Head and Neck Cancer Patients Undergoing Chemoradiotherapy.
+
+ Nutritional status is one of the essential factor to determine outcome of chemoradiotherapy in head and neck cancer patients.
+
+ Almost all these patients develop mucositis during the treatment, which usually leads to treatment interruptions and affects the efficacy of the treatment.
+
+ Prophylactic gastrostomy has been accepted for these patients with improvement of quality of life.
+
+ However, there is no prospective study confirming superiority of such treatment.
+
+ The investigators enrolled head and neck cancer patients who had the plan of chemoradiotherapy.
+
+ The patients will be informed about both treatment arms and will decide the arm that they preferred.
+
+ The treatment interruptions, body weight and nutritional status will be assessed every 2 weeks during treatment period.
+
+.
+
+ A Prospective Study of Prophylactic Gastrostomy in Head and Neck Cancer Patients Undergoing Chemoradiotherapy@highlight
+
+The purpose of the study is to determine whether prophylactic gastrostomy leads to less treatment interruption and provide better quality of life in head and neck cancer patients receiving chemoradiotherapy.
+

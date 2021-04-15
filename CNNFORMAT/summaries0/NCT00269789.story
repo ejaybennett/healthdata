@@ -1,0 +1,32 @@
+(fifthQuint)A Comparative Effectiveness Study Evaluating OROS Methylphenidate HCl, Ritalin (Methylphenidate HCl), and Placebo for the Treatment of Attention Deficit Hyperactivity Disorder in Children.
+
+ Attention Deficit Hyperactivity Disorder (ADHD) represents the most common neurobehavioral disorder in children, affecting 3% to 5% of the school-age population.
+
+ This is a double-blind, double-dummy, randomized, placebo-controlled, active-controlled, crossover trial in children with ADHD, to compare the safety and effectiveness (onset of effect, time to loss of effect and overall efficacy) of OROS(R) Methylphenidate HCl with standard immediate-release Ritalin(R) and placebo.
+
+ During this study, patients receive each of the three treatments (OROS(R) Methylphenidate HCl 18, 36 or 54 milligrams per day, Ritalin(R) 5, 10 or 15 milligrams three times per day, or placebo) for 7 days, and are assigned to one of three dosage levels depending upon their prestudy methylphenidate dose and regimen.
+
+ The total study participation for each patient will be 21 days.
+
+ Since ADHD is manifested in a variety of settings and can affect attention and behavior, this study assesses efficacy in home, community school, and laboratory school settings using numerous assessments designed to evaluate various aspects of the disorder.
+
+ These assessments are completed by a variety of raters, including the parents/caregivers, community school teachers, laboratory school teachers and the laboratory school counselor.
+
+ The primary measure of effectiveness is the community school teacher's rating on the IOWA Conners Inattention/Overactivity subscale.
+
+ Additional measures of effectiveness include IOWA Conners (Inattention/Overactivity and Oppositional/Defiance subscale) ratings, SKAMP attention and deportment ratings, peer interaction and other behavioral ratings, global assessments, accuracy and productivity of independent assigned academic seatwork, and assessments of positive and negative social behaviors, classroom rule violations and disruptive behaviors.
+
+ Safety evaluations include the incidence of adverse events, vital signs, sleep quality, appetite, and the presence/severity of tics (hard-to-control, repeated twitching of any parts of the body or hard-to-control repeating of sounds or words).
+
+ Patients will be given oral doses of: OROS(R) (methylphenidate HCl) either 1, 2 or 3 of the 18 milligram tablets once daily, Ritalin(R) 5, 10, or 15 mg (encapsulated/single capsule) three times per day, or placebo.
+
+ There are three treatment groups, each group dosing for 7 days for a total of 21 days on study.
+
+.
+
+ A Comparative Effectiveness Study Evaluating OROS Methylphenidate HCl, Ritalin (Methylphenidate HCl), and Placebo for the Treatment of Attention Deficit Hyperactivity Disorder in Children@highlight
+
+The purpose of this study is to compare the effectiveness (onset of effect, time to loss of effect, and overall efficacy) of methylphenidate given as an OROSA(R) (methylphenidate HCl) formulation, compared to immediate-release RitalinA(R) and placebo for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in children using standardized attention and behavior scales, and other assessments.
+
+ Both OROSA(R) Methylphenidate HCl and RitalinA(R) contain the central nervous system stimulant, methylphenidate HCl.
+

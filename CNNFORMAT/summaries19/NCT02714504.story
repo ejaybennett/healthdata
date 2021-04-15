@@ -1,0 +1,31 @@
+(fifthQuint)Anti-mold Azole in the Prophylaxis for Invasive Fusariosis.
+
+ Patients admitted for autologous or allogeneic hematopoietic cell transplantation, induction-remission chemotherapy for acute myeloid leukemia, myelodysplasia or acute lymphoid leukemia, or to receive immunosuppressive therapy for aplastic anemia will be screened on admission.
+
+ Patients may be included more than once, provided that a new treatment is administered and >30 days elapses from one to other admission (episode).
+
+ Screening will consist of a thorough physical examination in the extremities.
+
+ In case of a skin lesion, direct exam and fungal culture will be performed.
+
+ Nail samples will be obtained by scrapping the nails with a curette, and samples from interdigital areas will be obtained using swabs.
+
+ In a first phase no intervention will be performed.
+
+ In a second phase, if direct exam and /or culture indicate the presence of Fusarium spp.
+
+, primary antifungal therapy with an anti-mold azole (voriconazole (200 mg BID) or posaconazole (200 mg TID) will be started.
+
+ Patients will be followed until discharge.
+
+ The primary endpoint is invasive fusariosis, comparing the observational period with the intervention period.
+
+.
+
+ Anti-mold Azole in the Prophylaxis for Invasive Fusariosis@highlight
+
+Patients admitted for autologous or allogeneic hematopoietic cell transplantation, induction-remission chemotherapy for acute myeloid leukemia, myelodysplasia or acute lymphoid leukemia, or to receive immunosuppressive therapy for aplastic anemia will be screened with dermatologic examination.
+
+ In the presence of any skin lesion in the extremities, direct exam and fungal culture will be performed.
+
+ If these exams indicate the presence of Fusarium species, patients will receive anti-mold azole prophylaxis

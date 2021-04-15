@@ -1,0 +1,24 @@
+(secondQuint)Clozapine and Olanzapine Treatment of Aggression.
+
+ Objective: The purpose of our study was the investigation of the effect of atypical antipsychotic agents on interpersonal violence and aggression.
+
+ We compared the efficacy of two atypical antipsychotic agents, clozapine and olanzapine with one another and with haloperidol in the treatment of physical assaults and other assaultive behaviors in physically assaultive patients with schizophrenia and schizoaffective disorder.
+
+ Method: The subjects were 110 physically assaultive inpatients diagnosed with schizophrenia or schizoaffective disorder.
+
+ They were randomly assigned to treatment with clozapine (N=37), olanzapine (N=37) or haloperidol (N=36) in a 12-week, double-blind trial.
+
+ Incidents of overt aggression were recorded and their severity was scored with the Modified Overt Aggression Scale (MOAS).
+
+ Psychiatric symptoms were assessed through the Positive and Negative Syndrome Scale (PANSS).
+
+ We also assessed various side effects and monitored vital signs and drew bloods.
+
+.
+
+ Clozapine and Olanzapine Treatment of Aggression@highlight
+
+This was a double-blind randomized study with three treatment arms: clozapine, olanzapine and haloperidol.
+
+ We compared these three medications in the treatment of aggressive behavior over a 12 week period.
+

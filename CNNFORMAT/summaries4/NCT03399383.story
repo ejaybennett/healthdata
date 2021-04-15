@@ -1,0 +1,22 @@
+(secondQuint)Adherence in Chronic Adrenal Insufficiency.
+
+ Patients with adrenal insufficiency (AI) require a lifelong replacement therapy with glucocorticoids (GC).
+
+ To avoid over- and under- replacement, an individual daily dose scheme and adequate dose adjustment during stressful events is essential.
+
+ Recent patient surveys revealed nonadherence to treatment, concerns about GC and dissatisfaction with the provided information.
+
+ The aim of this trial is to evaluate the adherence, concerns and satisfaction with information in German patients with primary and secondary AI (PAI/SAI) and the influence of a standardized education program.
+
+ Patients with AI on GC therapy will be assessed by questionnaire, including the Medication Adherence Report Scale* (MARS), Beliefs about Medicines Questionnaire* (BMQ, adapted for AI) and Satisfaction with Information about Medicines Scale* (SIMS).
+
+*(C)Professor Rob Horne.
+
+ The study includes one cross-sectional-analysis and one longitudinal study (patient survey before and after participation at the standardized education program in Germany).
+
+.
+
+ Adherence in Chronic Adrenal Insufficiency@highlight
+
+Adherence, concerns and satisfaction with information in German patients with adrenal insufficiency as well as the influence of a standardized education program will be assessed by a compared cross-sectional and longitudinal study.
+

@@ -1,0 +1,22 @@
+(fifthQuint)Preoperative Patient Warming for Prevention of Perioperative Hypothermia in Major Abdominal Surgery.
+
+ The aim of our study is to evaluate the performance of different durations of active preoperative skin-surface warming (prewarming) to prevent perioperative hypothermia in patients undergoing major abdominal surgery under combined general/epidural anaesthesia.
+
+ The investigators plan to enroll 99 patients in 3 groups.
+
+ Body temperature will be measured at the tympanic membrane.
+
+ The investigators hypothesize that active warming before starting the epidural anaesthesia will decrease the incidence of perioperative hypothermia.
+
+.
+
+ Preoperative Patient Warming for Prevention of Perioperative Hypothermia in Major Abdominal Surgery@highlight
+
+The study should evaluate how long patients undergoing major abdominal surgery under combined general/epidural anaesthesia have to be actively warmed preoperatively to prevent perioperative hypothermia and postoperative shivering.
+
+ 99 patients will receive forced-air skin-surface warming for different duration.
+
+ Body temperature will be measured at the tympanic membrane.
+
+ The investigators hypothesize that active warming before starting the epidural anaesthesia will decrease the incidence of perioperative hypothermia.
+

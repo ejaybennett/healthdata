@@ -1,0 +1,22 @@
+(thirdQuint)A Study of the Effect of Carbamazepine on the Pharmacokinetics of Paliperidone Extended Release (ER) in Patients With Schizophrenia or Bipolar I Disorder.
+
+ The current study is designed as an open-label, multiple-center, multiple-dose, 2 treatment, 2 period sequential drug interaction study.
+
+ It consists of 3 phases: a screening phase beginning within 21 days before the first study drug administration; an open label treatment phase consisting of 2 treatment periods (Period 1 and Period 2), during which patients will receive multiple oral doses of 6-mg paliperidone ER alone or in combination with multiple oral doses of carbamazepine, and end of study evaluations upon completion of all the study procedures in Period 2 or at early withdrawal.
+
+ There is no washout period between treatment periods.
+
+ Given the potential concomitant use of carbamazepine with antipsychotics, such as paliperidone ER, in the treatment of schizophrenia or bipolar I disorder, this study is designed to investigate the effect of carbamazepine on the steady-state pharmacokinetics of paliperidone ER.
+
+ Safety and tolerability will be monitored throughout the study.
+
+.
+
+ Period 1: 6 mg paliperidone ER once daily from Day 1 through Day 7, route oral; Period 2: 6 mg paliperidone ER once daily and carbamazepine 200 mg twice daily from Day 8 through Day 28, route oral.
+
+.
+
+ A Study of the Effect of Carbamazepine on the Pharmacokinetics of Paliperidone Extended Release (ER) in Patients With Schizophrenia or Bipolar I Disorder@highlight
+
+The purposes of this study are to evaluate the effects of a potent metabolic enzyme inducer, carbamazepine, on the steady-state pharmacokinetics of orally administered paliperidone ER and to evaluate the safety and tolerability of the treatments in clinically stable patients with a diagnosis of schizophrenia or bipolar I disorder.
+

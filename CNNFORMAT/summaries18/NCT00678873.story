@@ -1,0 +1,18 @@
+(secondQuint)Single Incision Laparoscopic Cholecystectomy.
+
+ Laparoscopic cholecystectomy is the standard approach for the treatment of gallbladder disease.
+
+ Laparoscopic cholecystectomy is now performed as an outpatient procedure and it commonly requires the use of 4 separate small incisions.
+
+ Single incision or single access trans-umbilical surgery may provide less pain, scarring and may improve patient's overall satisfaction.
+
+ In this phase I trial we aim to evaluate the safety, feasibility and short-term outcomes of Single Incision Laparoscopic Cholecystectomy for the treatment of symptomatic cholelithiasis (gallstones).
+
+.
+
+ Single Incision Laparoscopic Cholecystectomy@highlight
+
+The investigators aim to investigate the safety, feasibility and short-term outcomes of Single Incision Laparoscopic Cholecystectomy.
+
+ The investigators hypothesize that Single Incision Laparoscopic Cholecystectomy is safe and feasible.
+

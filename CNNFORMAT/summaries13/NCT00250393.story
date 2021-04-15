@@ -1,0 +1,14 @@
+(secondQuint)A Study of Istradefylline (KW-6002) for the Treatment of Parkinson's Disease.
+
+ To establish the efficacy of 40mg/d doses of istradefylline for the change in UPDRS part-III (Motor examination) score in patients with Parkinson's disease (PD).
+
+ Patients who meet entry criteria will be randomly assigned to receive study drug in 1 of 2 arms: Condition A (doses of 40mg/d istradefylline) in Period 1 followed by Condition B (matching placebo) in Period 2 (putting 4 weeks interval phase between two periods ) or Condition B in Period 1 followed by Condition A in Period 2(putting 4 weeks interval phase between two periods ).
+
+ Patients will be participated for 12 weeks and will have interim visits and end of treatment visit to assess the efficacy and safety of istradefylline.
+
+.
+
+ A Study of Istradefylline (KW-6002) for the Treatment of Parkinson's Disease@highlight
+
+To establish the efficacy of 40 mg/day doses of istradefylline for the change in Unified Parkinson's Disease Rating Scale (UPDRS) part-III (Motor examination) score in patients with Parkinson's disease (PD).
+

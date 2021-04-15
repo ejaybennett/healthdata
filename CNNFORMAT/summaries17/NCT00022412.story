@@ -1,0 +1,28 @@
+(secondQuint)Doxercalciferol Before Surgery in Treating Localized Prostate Cancer.
+
+ OBJECTIVES: - Determine whether doxercalciferol modulates intermediate endpoint biomarkers in the development of prostate cancer in patients with localized prostate cancer.
+
+ - Assess the toxicity of this drug in these patients.
+
+ OUTLINE: This is a randomized, open-label, multicenter study.
+
+ Patients are randomized to one of 2 arms.
+
+ - Arm I: Patients receive doxercalciferol once daily for 28 days.
+
+ Patients then undergo prostatectomy.
+
+ - Arm II: Patients undergo observation for 28 days.
+
+ Patients then undergo prostatectomy.
+
+ PROJECTED ACCRUAL: A total of 60 patients (30 per arm) will be accrued for this study within 18 months.
+
+.
+
+ Doxercalciferol Before Surgery in Treating Localized Prostate Cancer@highlight
+
+RATIONALE: Doxercalciferol may be an effective way to treat localized prostate cancer before surgery.
+
+ PURPOSE: Randomized phase II trial to study the effectiveness of giving doxercalciferol before surgery in treating patients who have localized prostate cancer.
+

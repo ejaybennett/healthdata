@@ -1,0 +1,16 @@
+(firstQuint)High Resolution 3D Diffusion-weighted Breast MRI.
+
+ The objective of this study is to assess the diagnostic accuracy of a new non-contrast MRI method for breast cancer detection.
+
+ The study design is a single arm observational study.
+
+ The new technique will be added on to the standard sequences that a women undergoes during a breast MRI.
+
+ The resulting images will be compared with her standard breast MRI images, and with results of subsequent pathology.
+
+.
+
+ High Resolution 3D Diffusion-weighted Breast MRI@highlight
+
+The purpose of this study is to determine how well a new MRI technique called "High resolution 3D diffusion-weighted breast MRI" detects breast cancer.
+

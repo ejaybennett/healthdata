@@ -1,0 +1,20 @@
+(secondQuint)Optimal Prophylactic Method of Venous Thromboembolism (VTE).
+
+ Venous thromboembolism (VTE) is common and often fatal complication in patients with cancer.
+
+ Gastric cancer is the most frequent cancer in Korea.
+
+ The incidence of VTE would be increased in patients with gastric cancer, especially associated surgery.
+
+ However, the incidence and optimal prophylactic method associated with cancer surgery are not well studied in Asian patients.
+
+ Most Korean surgeon concerns regarding the increased postoperative bleeding associated with low molecular weight heparin(LMWH)prophylaxis.
+
+ The incidence and adverse event will be examined to define the optimal prophylactic method of VTE in surgical patients with gastric cancer.
+
+.
+
+ Optimal Prophylactic Method of Venous Thromboembolism (VTE)@highlight
+
+This study is to define the optimal method of prophylaxis for patients with gastrectomy in Korea and the investigators hypothesized only mechanical method would be enough for preventing VTE on perioperative period.
+

@@ -1,0 +1,28 @@
+(fifthQuint)Scrub Typhus Infection Induced Cardiovascular Disease.
+
+ Scrub typhus is a zoonotic disease caused by Orientia tsutsugamushi confined to East Asia including South Korea.
+
+ It is characterized by fever, headache, rash, and eschar and the majority of patients without complications can recover with an early diagnosis and proper management with antibiotics.
+
+ However, the increasing mortality rate of scrub typhus has been recently reported in Southeast Asia.
+
+ Severe complications can be manifested by respiratory distress syndrome, renal failure, hepatic failure, and cardiovascular disease.
+
+ Especially, cardiovascular complications can lead to cardiogenic shock and sudden cardiac arrest.
+
+ Therefore, the association and predictors for scrub typhus induced cardiovascular disease should be investigated to provide a timely and appropriate diagnosis and to reduce the mortality rate of complicated scrub typhus infection.
+
+ Therefore, we prospectively investigate the association and predictors of cardiovascular disease in patients with scrub typhus infection admitted to 3rd referral centers in South Korea.
+
+.
+
+ Scrub Typhus Infection Induced Cardiovascular Disease@highlight
+
+Scrub typhus infection has been considered as seasonal and endemic infectious disorder with benign feature.
+
+ However, the increasing mortality rate of scrub typhus has been recently reported in Southeast Asia and cause of death could be a fetal complicating cardiovascular disease.
+
+ Therefore, the association and predictors for scrub typhus induced cardiovascular disease should be investigated to provide a timely and appropriate diagnosis and to reduce the mortality rate of complicated scrub typhus infection.
+
+ Therefore, we prospectively investigate the association and predictors of cardiovascular disease in patients with scrub typhus infection.
+

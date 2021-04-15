@@ -1,0 +1,30 @@
+(thirdQuint)Heavy Metal Exposure in Predicting Peripheral Neuropathy in Patients With Stage I-III Breast Cancer Undergoing Chemotherapy.
+
+ PRIMARY OBJECTIVES: I.
+
+ To describe the correlation, if any, of specific heavy metals with high grade symptoms of peripheral neuropathy, defined as grade >= 3 peripheral neuropathy, (utilizing the Common Terminology Criterial for Adverse Events [CTCAE] version [v.
+
+] 4.
+
+0) in a cohort of breast cancer patients undergoing (neo)adjuvant taxane chemotherapy.
+
+ SECONDARY OBJECTIVES: I.
+
+ To characterize the range of specific heavy metals in a cohort of breast cancer patients undergoing (neo)adjuvant chemotherapy treatment.
+
+ II.
+
+ To evaluate the reproducibility of sera and urine testing of heavy metal levels by inductively coupled plasma mass spectrometry (ICP-MS) testing in a cohort of breast cancer patients undergoing (neo)adjuvant taxane chemotherapy.
+
+ OUTLINE: Patients undergo serum and urine sample collection for heavy metal analysis by ICP-MS at baseline and at the completion of treatment.
+
+ Patients also complete neurotoxicity assessment questionnaire at baseline and at the completion of treatment.
+
+.
+
+ Heavy Metal Exposure in Predicting Peripheral Neuropathy in Patients With Stage I-III Breast Cancer Undergoing Chemotherapy@highlight
+
+This research trial studies heavy metal exposure in predicting peripheral neuropathy in patients with stage I-III breast cancer undergoing chemotherapy.
+
+ Studying samples of blood and urine in the laboratory for heavy metal exposure from patients receiving chemotherapy may help doctors find out whether side effects from chemotherapy are related to heavy metal exposure.
+

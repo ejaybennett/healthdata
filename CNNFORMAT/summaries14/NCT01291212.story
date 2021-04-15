@@ -1,0 +1,18 @@
+(thirdQuint)Efficacy of Luteinizing Hormone (LH) Activity in Low Responder Patients With Transdermal Testosterone.
+
+ Studies in macaques have indicated that androgens have some synergistic effects with follicular stimulating hormone (FSH) on folliculogenesis.
+
+ Our previous clinical studies demonstrated the usefulness of pretreatment with transdermal testosterone in low-responder IVF patients.
+
+ There is controversy on the usefulness of recombinant luteinizing hormone (LHr) added to FSHr in ovarian stimulation of low responder patients.
+
+ Thus, our present study has been designed to compare ovarian stimulation with FSHr alone versus LHr added to FSHr when transdermal testosterone pretreatment is used.
+
+.
+
+ Efficacy of Luteinizing Hormone (LH) Activity in Low Responder Patients With Transdermal Testosterone@highlight
+
+The investigators have previously demonstrated the utility of transdermal testosterone in in vitro fertilization (IVF) low responder patients.
+
+ Now, the investigators want to evaluate the efficacy of luteinizing hormone (LH) activity added to recombinant follicular stimulating hormone (FSHr) during ovarian stimulation in these patients.
+

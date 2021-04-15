@@ -1,0 +1,22 @@
+(fifthQuint)Communicating Veins Between Adjacent Hepatic Veins: an Intra-operative Ultrasound Study.
+
+ The search for communicating veins (CVs) between adjacent hepatic veins (HVs) has drawn its rationale from the need of reducing the risk of incomplete blood outflow in the medial portion of the hemiliver without the middle hepatic vein (MHV) in living donor liver transplantation (LDLT).
+
+ However, only 24% of patients seems having CVs based on the findings of color-Doppler intraoperative ultrasound (CD-IOUS) exploration.
+
+ On the other hand the safety of parenchymal sparing procedure despite HV resection let suppose that CVs are probably more frequent than expected.
+
+ Certainly, better in vivo knowledge of the rate of CVs and their direct detection would consolidate and probably further expand parenchymal sparing techniques.
+
+ Taking profit from new advancements in ultrasound technology we have carried out the present study with the aim of better estimating the rate of CVs in a consecutive series of patients in whom resection of one HV at caval confluence was needed.
+
+.
+
+ Communicating Veins Between Adjacent Hepatic Veins: an Intra-operative Ultrasound Study@highlight
+
+The search for communicating veins (CVs) between adjacent hepatic veins (HVs) has drawn its rationale from living donor liver transplantation (LDLT).
+
+ Parenchymal sparing procedures although HVs are resected suggest that probably their presence is underestimated.
+
+ Taking profit from new improvements in ultrasound technology the investigators aim to better estimate the rate of CVs in a consecutive series of patients in whom resection of one HV at caval confluence is needed.
+

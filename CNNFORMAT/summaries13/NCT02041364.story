@@ -1,0 +1,18 @@
+(secondQuint)Biomarkers of Fatigue Related to Adjuvant Chemotherapy for Breast Cancer.
+
+ Patients with breast cancer undergoing adjuvant systemic chemotherapy based on the use of anthracyclines will be screened before the start of chemotherapy.
+
+ Patients whose scores on the brief fatigue inventory (BFI) increase after having received the first cycle of chemotherapy will be considered as having manifested fatigue.
+
+ The patients whose fatigue won't worse following the first cycle of chemotherapy will be used as controls.
+
+ We will collect blood samples of both groups before and 21 days after the start of chemotherapy.
+
+ We will analyze the following biomarkers: IL2, IL10, TNF and TGFB-1 measured by amplification reaction; FSH, LH, estradiol, DHEA, DHEAS and cortisol hormones measured by chemiluminescent enzyme immunometric assay.
+
+ Biomarkers of Fatigue Related to Adjuvant Chemotherapy for Breast Cancer@highlight
+
+Fatigue is common in cancer patients receiving adjuvant chemotherapy.
+
+ To further understand the mechanism of fatigue and search for potential biomarkers, we will conduct a prospective study with breast cancer patients receiving adjuvant chemotherapy.
+

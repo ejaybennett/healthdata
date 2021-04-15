@@ -1,0 +1,22 @@
+(secondQuint)Cognitive Effects of Mint Essential Oil.
+
+ The volatile components of essential oils (e.
+
+g.
+
+ sage, lemon balm and rosemary)are found to exert a number of psychotropic effects and the monoterpenes in particular seem to be responsible for the cognitive and mood effects attributed to them.
+
+ The current study aims to investigate the cognitive and mood effects of mint essential oil in humans and to ensure the efficacy of the investigational product by conducting in vitro analysis on central nervous system receptor binding properties.
+
+ This will be achieved by analysing gamma-Aminobutyric acid A (GABAA), neuronal nicotinic and N-methyl-D-aspartate receptor (NMDA) glutamate receptor binding efficacy, acetylcholinesterase (AChE) inhibition, and gas chromatography-mass spectrometry (GC-MS) analysis will quantify % Limonene, % Carvone, % Menthone and % Menthol levels in the investigational treatment.
+
+ Cognitive and mood assessment will be via a randomised, placebo controlled, crossover design in 24, healthy adults aged between 18-35 yrs which will involve x1 training and x3 testing visits to the lab (placebo, 50 (micro Litre) 1/2L and 100 1/2L Mentha piperita essential oil).
+
+.
+
+ Cognitive Effects of Mint Essential Oil@highlight
+
+This study investigates the cognitive and mood effects of mint essential oils in a group of healthy, human adults.
+
+ The investigational product will also be tested in vitro to ensure a number of biological mechanisms.
+

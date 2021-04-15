@@ -1,0 +1,54 @@
+(fifthQuint)Evaluation of Laryngeal Ultrasonography Performance in Predicting Major Post Extubation Laryngeal Edema in Intensive Care Patients.
+
+ Definitions: Intubation is a traumatism for laryngeal mucous membrane.
+
+ Due to local inflammatory reaction, laryngeal edema occurs in nearly all intubated patients, but only some of them develop clinical symptoms, as post-extubation stridor or acute respiratory distress.
+
+ Stridor is commonly defined as a high-pitched sound produced by airflow through a narrowed airway, and accepted as a clinical marker of post-extubation laryngeal edema.
+
+ The main complication of post-extubation laryngeal edema is reintubation, defining major post-extubation laryngeal edema.
+
+ Early recognition of laryngeal edema is essential since these patients have the highest risk of evolving to respiratory distress and extubation failure.
+
+ Even before extubation, signs indicative of laryngeal edema may be present.
+
+ The search for a test that adequately identifies patients at risk for extubation failure is ongoing.
+
+ Trial Procedures: - At day 0: Selection of patients filling inclusion criteria.
+
+ Oral and written information of patient and his refer person, and collecting of non-opposition.
+
+ - At day 0: inclusion of patients ventilated with inspiratory assistance just before schedulded extubation.
+
+ Information of patient on procedure course.
+
+ - First ultrasonography of protocol: The patient is in the supine position, with the neck hyper-extended, and the probe is placed on cricothyroid membrane with a transverse view of the larynx.
+
+ The standard scanning plane is predetermined: it should contain several landmarks, including the vocal cords, false cords, thyroid cartilage and arytenoids cartilage.
+
+ The oral and laryngeal secretions are suctioned.
+
+ Ultrasonic air-leak volume is defined by difference between air-column width cuff inflated and air-column width cuff deflated.
+
+ Shape of air-column cuff inflated and cuff deflated is also recorded in observation notebook.
+
+ - Then the patient is extubated after spontaneous ventilation trial, according to unit protocol, by the physician in charge.
+
+ After extubation, surveillance of post-extubation stridor and acute respiratory distress occurrence during the first 24 hours.
+
+ - If the patient is reintubated for major post-extubation laryngeal edema, onset of 48 hours corticotherapy, and realization of second, third and fourth laryngeal ultrasonography, daily to next schedulded extubation.
+
+ - At discharge of intensive care unit, data collection about mechanical ventilation duration, intensive care hospitalization duration, occurrence of ventilation-acquired pneumopathy, mortality at 28 days.
+
+.
+
+ Evaluation of Laryngeal Ultrasonography Performance in Predicting Major Post Extubation Laryngeal Edema in Intensive Care Patients@highlight
+
+- For patient in intensive care unit, extubation failure is defined as the necessity of early reintubation after scheduled extubation, with Increased morbidity and mortality, so it seems important to quickly identify patients with high risk of post-extubation acute respiratory failure.
+
+ - Major post-extubation laryngeal edema is one of extubation failure causes, and its incidence vary in literature from 4 to 37%.
+
+ - We can't currently predict arising of a major post-extubation laryngeal edema.
+
+ However, a recent pilot study showed that laryngeal ultrasonography could help to identify patients with high risk of post-extubation stridor, measuring ultrasonic leak volume and cuff-deflated air-column width, of which we propose to assess diagnostic performance.
+

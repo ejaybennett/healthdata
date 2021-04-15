@@ -1,0 +1,14 @@
+(thirdQuint)Bone Level Tapered Multi-Center Study.
+
+ The primary objective is to demonstrate that the change in mean peri-implant marginal bone level changes (mesial and distal) from loading to 12 months post-loading of the test treatment will not be worse than the control treatments.
+
+ The secondary objectives of the study are to assess differences in clinical and radiographic outcomes between the test and control treatments at 12 months post-loading by looking at implant success and survival, buccal bone dimensional changes, implant stability, soft tissue changes, subject satisfaction, and adverse events.
+
+ An additional objective is to assess long-term differences in clinical and radiographic outcomes, as measured in the primary and secondary objectives, over the span of two, three, four, and five years.
+
+.
+
+ Bone Level Tapered Multi-Center Study@highlight
+
+The aim of this randomized, controlled, multi-center study is to assess the clinical and radiographic outcomes of using a Straumann(R) Bone Level Tapered implant for immediate implantation following extraction of a tooth in the pre-molar and anterior region of the maxilla and mandible (test) compared to the outcomes of placing this implant in healed sites (control).
+

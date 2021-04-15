@@ -1,0 +1,28 @@
+(fifthQuint)Effect of Probiotics on Sputum Inflammation and Pulmonary Infections in Patients With Cystic Fibrosis.
+
+ Patients with Cystic Fibrosis have multiple pulmonary infections and repeated antibiotic treatment.
+
+ These factors taken together with high sputum viscosity and slow motility of the gastrointestinal tract-may change the pathogenicity and consistency of the intestinal pathogens.
+
+ Part of the pulmonary infections in CF patients are due to intestinal pathogens.
+
+ A pilot study performed by the researchers using probiotics in CF patients showed a decrease in the rate of pulmonary infections.
+
+ Therefore,we planned a double-blind placebo-controlled trial to examine the effect of probiotics on pulmonary infections, sputum bacteria and sputum inflammatory markers in CF patients.
+
+ The study will be a cross-over study of probiotic and placebo arms.
+
+.
+
+ Effect of Probiotics on Sputum Inflammation and Pulmonary Infections in Patients With Cystic Fibrosis@highlight
+
+Patients with Cystic Fibrosis have multiple pulmonary infections and repeated antibiotic treatment.
+
+ These factors taken together with high sputum viscosity and slow motility of the gastrointestinal tract-may change the pathogenicity and consistency of the intestinal pathogens.
+
+ Part of the pulmonary infections in CF patients are due to intestinal pathogens.
+
+ A pilot study performed by the researchers using probiotics in CF patients showed a decrease in the rate of pulmonary infections.
+
+ Therefore,we planned a double-blind placebo-controlled trial to examine the effect of probiotics on pulmonary infections, sputum bacteria and sputum inflammatory markers in CF patients.
+

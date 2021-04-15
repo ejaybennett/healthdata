@@ -1,0 +1,36 @@
+(fifthQuint)The Efficacy and Safety of Retreatment With Transarterial Chemoembolization (TACE) for Patients Who Showed TACE-resistant: a Randomized Controlled Trial.
+
+ Transarterial chemoembolization (TACE) is considered the gold standard for treating intermediate-stage hepatocellular carcinoma (HCC).
+
+ However, intermediate-stage HCC includes a heterogeneous population of patients with varying tumour burdens, liver function (Child-Pugh A or B) and disease aetiology.
+
+This suggests that not all patients with intermediate-stage HCC will derive similar benefit from TACE, and that some patients may benefit from other treatment options.
+
+ Repetition of TACE is based on evidence suggesting that one cycle of TACE may not be sufficient for effective treatment of intermediate-stage HCC and repeating TACE prolongs survival.
+
+However, intermediate-stage HCC patients often have unsatisfactory clinical outcomes with repeated TACE and there is not sufficiently addressed by existing guidelines include the criteria for repeating TACE and recommendations about the number of TACE cycles to be repeated before switching to another or no treatment.
+
+The study,recently published in the journal of Hepatology shows the ART score of >=2.
+
+5 prior the second TACE identifies patients with a dismal prognosis who may not profit from further TACE sessions.
+
+In clinical practice,however, we also found some patients who showed TACE-resistant at the beginning of treatment may access to get objective response of retreatment with TACE.
+
+So we conduct this prospective,randomized controlled study to find out whether the patient who showed TACE-resistant can obtain survival benefit from retreatment with TACE.
+
+.
+
+ The Efficacy and Safety of Retreatment With Transarterial Chemoembolization (TACE) for Patients Who Showed TACE-resistant: a Randomized Controlled Trial@highlight
+
+Transarterial chemoembolization (TACE) is considered the gold standard for treating intermediate-stage hepatocellular carcinoma (HCC).
+
+ However, any treatment guidelines do not specify the criteria for repeating TACE.
+
+The study,conducted in Europe ,recently published in the journal of Hepatology shows the ART score of >=2.
+
+5 prior the second TACE identifies patients with a dismal prognosis who may not profit from further TACE sessions.
+
+ However,in clinical practice,we also found some patients who showed TACE-resistant at the beginning of treatment may access to get objective response of retreatment with TACE.
+
+So the investigators conduct this prospective,randomized controlled study to find out whether the patient who showed TACE-resistant can obtain survival benefit from retreatment with TACE.
+

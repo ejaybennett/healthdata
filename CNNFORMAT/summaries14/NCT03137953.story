@@ -1,0 +1,26 @@
+(secondQuint)Role of Imaging to Predict the Deep Surgical Margin in Gingivobuccal Complex Tumors.
+
+ The patients of buccal mucosa squamous cell carcinomas after histopathological confirmation are selected for the study.
+
+ As a routine computed tomography imaging/MRI with contrast will be done preoperatively.
+
+ The involvement of the skin is assessed by the palpation (skin pinch test).
+
+ In imaging, the distance between the base of the tumour and the skin of the cheek is measured.
+
+ If the distance between the base of the tumour and the skin is more than 5mm, then the skin is spared and the tumour is excised with 5 mm margin, if the distance is less than 5mm, then the skin is excised along with the tumour.
+
+ The specimen will be sent for histopathological examination, and the depth of invasion of the tumour is measured and the clearance of the deep surgical margin is assessed.
+
+ The difference between clinical examination and imaging and histopathological confirmation of the specimen in determining the number of cases where skin preservation is done is assessed.
+
+.
+
+ Role of Imaging to Predict the Deep Surgical Margin in Gingivobuccal Complex Tumors@highlight
+
+In gingivobuccal complex tumors, the skin margin is assessed by palpation (skin pinch test).
+
+ There is no objective method of assessment of skin margin.
+
+ This study is to evaluate the role of computed tomography/MRI with contrast in assessing the deep surgical margin.
+

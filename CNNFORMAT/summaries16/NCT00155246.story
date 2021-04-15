@@ -1,0 +1,17 @@
+(firstQuint)Efficacy of Pentoxifylline on Chronic Kidney Disease.
+
+ In patients with CKD and serum creatinine 1.
+
+3~6.
+
+0 md/gl, having taken losartan 100 mg/day for at least 3 months, with stable renal function, will be recruited to a randomized open-label trial.
+
+ Patients taking pentoxifylline or not will be compared for their spot urinary proteinuria, estimated glomerular filtration, spot urine tumor necrosis factor-/creatinine ratio, spot urine monocyte-chemoattractant protein-1/creatinine, and aldosterone concentration between groups in a 2-year study.
+
+ Add-on pentoxifylline in control group in the same dose as in treat group will be performed to observe the renoprotective effect if any protective potential is demonstrated in the end of maintenance 12 months.
+
+.
+
+ Efficacy of Pentoxifylline on Chronic Kidney Disease@highlight
+
+To study whether pentoxifylline has additive renoprotective effect in patients taking ARB

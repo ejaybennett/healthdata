@@ -1,0 +1,18 @@
+(secondQuint)Evaluation of Triathlon - A New Total Knee Prosthesis System - RSA Triathlon Cruciate Retaining - Cemented vs.
+
+ Uncemented.
+
+ The objective is to investigate the Clinical, Radiographic, Roentgen Stereophotogrammetric behaviour and patient outcome when using the Triathlon total knee prosthesis in a prospective randomized clinical trial.
+
+ The evaluation is carried out by a prospective randomised RSA-study with Triathlon CR cemented vs.
+
+ uncemented.
+
+.
+
+ Evaluation of Triathlon - A New Total Knee Prosthesis System - RSA Triathlon Cruciate Retaining - Cemented vs.
+
+ Uncemented@highlight
+
+The objective is to investigate the Clinical, Radiographic, Roentgen Stereophotogrammetric behaviour and patient outcome when using the Triathlon total knee prosthesis in a prospective randomized clinical trial.
+

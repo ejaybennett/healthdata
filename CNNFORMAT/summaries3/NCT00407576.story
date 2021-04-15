@@ -1,0 +1,26 @@
+(secondQuint)PET Imaging of Brain Amyloid Using [11C]MeS-IMPY.
+
+ Alzheimer's disease (AD) is characterized pathologically by the presence of beta-amyloid plaques in brain.
+
+ A substantial body of research indicates that the presence of increased beta -amyloid peptide is neurotoxic, and may initiate further pathology observed in AD including neurofibrillary tangles, synaptic loss and dysfunction, and neurodegeneration.
+
+ There are multiple binding sites available on beta-amyloid plaques.
+
+ Three clearly identified sites are Congo-red type, Thioflavin-T type, and FDDNP type.
+
+ Radioligands currently under development using positron emission tomography (PET) for studying beta-amyloid in clinical research or drug development are based on Thioflavin-T site, such as [11C]PIB and [11C]SB-13.
+
+ Though variously effective, these radioligands have one or more drawbacks with respect to measuring relative regional beta-amyloid densities.
+
+ Therefore, we have recently developed [11C]MeS-IMPY as an alternative radioligand for imaging beta-amyloid, which will allow a more accurate quantification of amyloid plaques in AD brain.
+
+ In the current protocol, we wish to evaluate [11C]MeS-IMPY in both healthy subjects and AD patients to determine the kinetics of brain imaging beta-amyloid plaques in AD patients.
+
+.
+
+ PET Imaging of Brain Amyloid Using [11C]MeS-IMPY@highlight
+
+Alzheimer's disease is associated with accumulation in the brain of a protein called amyloid.
+
+ The purpose of this study is to test the ability of a research drug to measure amyloid in brain using positron emission tomography (PET) and a research drug called [11C]MeS-IMPY.
+

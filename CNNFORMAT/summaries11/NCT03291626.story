@@ -1,0 +1,42 @@
+(fifthQuint)Postoperative Delirium: EEG Markers of Sleep and Wakefulness.
+
+ Postoperative delirium is a condition that can develop in some older patients after they have surgery and receive general anesthesia.
+
+ Patients that develop delirium have difficulty maintaining attention and thinking clearly.
+
+ Both of these issues can come and go throughout the day.
+
+ The incidence of postoperative delirium is greater than 25% and is associated with longer hospitalization and increased risk of persistent mental and physical decline.
+
+ It is thought that this disorder may be preventable, but there is no agreed upon way of identifying which patients are at risk for delirium prior to their surgery.
+
+ Additionally, patients with atypical delirium are often misdiagnosed or undiagnosed postoperatively.
+
+ Based on previous research, the researchers have hypothesized that delirium may be directly related to wakefulness and sleep problems, as shown on electroencephalography [EEG].
+
+ EEG is a test that records the electrical activity of brain through placement of small wires on a person's scalp.
+
+ In light of this, the purpose of this study is to evaluate sleep and wakefulness using EEG before, during and after surgery in order to discover any abnormalities of sleep or wakefulness that associate with postoperative delirium onset, severity, and length of recovery.
+
+ Subjects in this study will have preoperative at home sleep testing performed, using a device called the Sleep Profiler, and questionnaires administered to characterize their mental function and brain function prior to surgery.
+
+ When they arrive for their scheduled surgery, the subjects will be fitted with the Sleep Profiler to record brain activity during surgery and after surgery for 5 days.
+
+ Postoperatively, the subjects will be asked to do simple tasks like move toes and fingers and to answer questions that assess their mental state.
+
+.
+
+ Postoperative Delirium: EEG Markers of Sleep and Wakefulness@highlight
+
+Postoperative delirium is a condition in which patients develop temporary difficulties in maintaining attention and thinking clearly.
+
+ These new problems can appear after surgery and change throughout the day.
+
+ This confusion can last several days.
+
+ The overall purpose of this study is to measure brain activity during sleep and wakefulness to learn about their relationships to delirium after surgery.
+
+ While participants may not feel like their normal self during the study, they are in the best position to help us learn how to improve the recovery of brain function and sleep in others having surgery.
+
+ The investigators need to learn from those who have and have not become confused after their surgical procedure.
+

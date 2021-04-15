@@ -1,0 +1,20 @@
+(firstQuint)Single Dose Safety Study for Compound to Treat Anemia in Patients With Renal Impairment.
+
+ Compound 1278863A is a novel small molecule agent, which stimulates erythropoiesis through inhibition of hypoxia-inducible factor (HIF)-prolyl hydroxylases (EGLNs).
+
+ This compound is being developed for the treatment of anemia.
+
+ This study, PHI112843, will be the first administration of 1278863A to investigate the safety, tolerability, pharmacokinetics and/or pharmacodynamics of single oral doses of 50 mg and 150 mg in pre-dialysis subjects with moderate or severe renal impairment and 150 mg in hemodialysis-dependent subjects.
+
+ Four to eight subjects will complete each dose cohort.
+
+ Multiple blood samples for pharmacokinetic and/or pharmacodynamic analyses will be obtained post-dose in each cohort.
+
+ Safety will be assessed by measurement of vital signs, cardiac monitoring, collection of adverse event assessments and laboratory safety tests.
+
+.
+
+ Single Dose Safety Study for Compound to Treat Anemia in Patients With Renal Impairment@highlight
+
+The purpose of this study is to characterize the safety and tolerability of single doses of compound 1278863A in subjects with renal impairment.
+

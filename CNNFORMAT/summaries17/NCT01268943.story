@@ -1,0 +1,16 @@
+(secondQuint)Study of Postoperative Concurrent Chemo-radiation With Capecitabine in Elderly Rectal Cancer Patients.
+
+ For those "younger" locally advanced (stage II/III) rectal cancer patients (usually means patients less than 70), it is suggested that after radical surgery, patients should receive concurrent chemo-radiation.
+
+ Capecitabine is a widely used chemotherapy medicine under such condition.
+
+ Based on experience, the investigators think this modality can also be tolerated by patients over 70, and will increase local control rate as which has been proved in younger ones.
+
+ As the first step to test this hypothesis, we designed this phase I study to seek the proper dose of capecitabine, a widely used oral chemotherapy medicine, in postoperative concurrent chemo-radiation for stage II/III rectal cancer patients over 70, and to evaluate the safety of this modality in this group of patients.
+
+.
+
+ Study of Postoperative Concurrent Chemo-radiation With Capecitabine in Elderly Rectal Cancer Patients@highlight
+
+The purpose of this study is to seek the proper dose of capecitabine in post-operative concurrent chemotherapy for stage II/III elderly rectal cancer patients receiving radical surgery, and evaluate the toleration of this modality in such patients.
+

@@ -1,0 +1,12 @@
+(firstQuint)Influence of Bedrest and Hypocaloric Nutrition on Endothelium-Dependent Vasoreactivity.
+
+ In a randomized, four-phase cross-over study the effect of simulated microgravity (13 days of bed rest), energetic restriction (-25%, fat reduced), and their combination on endothelium-dependent and -independent vasodilation will be compared with ambulatory control conditions.
+
+ Using venous occlusion plethysmography cumulative intraarterial dose-response curves to endothelium-dependent (acetylcholine) and -independent (sodium nitroprusside) vasodilators will be constructed in 10 healthy male volunteers before and on day 13 of each of the four intervention periods.
+
+.
+
+ Influence of Bedrest and Hypocaloric Nutrition on Endothelium-Dependent Vasoreactivity@highlight
+
+Aim of the study is to assess the impact of the factors bed rest and hypocaloric nutrition on endothelium-dependent vasoreactivity in healthy volunteers.
+

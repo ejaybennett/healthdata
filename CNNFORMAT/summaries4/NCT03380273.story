@@ -1,0 +1,25 @@
+(secondQuint)AO Multicenter Intervention Trial for Prevention of Surgical Site Infection.
+
+ During the first phase of the study, 4,238 patients will be recruited and the baseline incidence of surgical site infection at each participating site will be determined.
+
+ At the beginning of the third year, the bundle will be implemented and data on 4,238 additional patients will be collected.
+
+ The incidence rate on surgical site infection before and after the intervention will be compared.
+
+ We hypothesize that this intervention will reduce the infection rate within the first 3 months after surgery from 6% to 4.
+
+5% (5% to 3.
+
+75% in closed fractures and from 10% to 7.
+
+5% in open fractures).
+
+.
+
+ AO Multicenter Intervention Trial for Prevention of Surgical Site Infection@highlight
+
+This study is designed to collect data from 8,476 fracture patients during a pre-and post-intervention phases of two years length each.
+
+ The intervention consists on the implementation of the AOT SSI Prevention Bundle.
+
+ D

@@ -1,0 +1,14 @@
+(firstQuint)Efficacy and Safety of Electroacupuncture and Acupuncture in Postmenopausal Women With Overactive Bladder.
+
+ The investigators targeted the patients of menopausal women with OAB.
+
+ After treatment in 2 groups - electroacupuncture treatment and acupuncture treatment - the investigators will compare the improvement of the urinary symptoms and the quality of life, and further the best treatment method.
+
+ In addition, the investigators are going to evaluate the safety of abnormal reaction during the treatment.
+
+.
+
+ Efficacy and Safety of Electroacupuncture and Acupuncture in Postmenopausal Women With Overactive Bladder@highlight
+
+The purpose of this study is to verify the efficacy and safety of electroacupuncture treatment of postmenopausal women with overactive bladder (OAB).
+

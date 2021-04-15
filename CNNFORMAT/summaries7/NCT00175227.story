@@ -1,0 +1,16 @@
+(thirdQuint)Prevention of Contrast-Induced Nephropathy.
+
+ Patients with pre-existing kidney disease are at high risk of acute renal failure when exposed to radio-contrast dyes, for example during a cardiac angiogram.
+
+ We hypothesize that an infusion of saline + furosemide + mannitol will reduce rates of contrast-induced nephropathy when compared with saline infusion controls.
+
+ We define an episode of contrast nephropathy using the conventional often published definition of a 25% relative increase in serum creatinine OR a 44 umol absolute increase in serum creatinine within 48 hours of contrast exposure.
+
+.
+
+ Prevention of Contrast-Induced Nephropathy@highlight
+
+Patients with pre-existing kidney disease are at high risk of acute renal failure when exposed to radio-contrast dyes, for example during a cardiac angiogram.
+
+ The investigators hypothesize that an infusion of saline + furosemide + mannitol will reduce rates of contrast-induced nephropathy when compared with saline infusion controls.
+

@@ -1,0 +1,12 @@
+(firstQuint)A Clinical Study to Evaluate the KeraKlear Keratoprosthesis in Patients With Corneal Opacity.
+
+ To evaluate the safety and probable benefit of the KeraKlear Non-Penetrating Keratoprosthesis when implanted in an eye with corneal opacity that is at high risk of complications with PK.
+
+ A prospective, multicenter, clinical trial, designed to demonstrate the safety and performance of the KeraKlear Non-Penetrating Keratoprosthesis.
+
+.
+
+ A Clinical Study to Evaluate the KeraKlear Keratoprosthesis in Patients With Corneal Opacity@highlight
+
+To evaluate the safety and probable benefit of the KeraKlear Non-Penetrating Keratoprosthesis when implanted in an eye with corneal opacity that is at high risk of complications with PK.
+

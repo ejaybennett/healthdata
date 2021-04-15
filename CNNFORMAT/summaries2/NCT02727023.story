@@ -1,0 +1,22 @@
+(secondQuint)Effect of OMM on Anandamide Levels in Saliva.
+
+ The Endocannabinoid System is a signaling system composed of: 2 G-Protein coupled receptors (CB1 and CB2), substances acting on the cannabinoid receptors, and the enzymes and proteins involved in regulating endocannabinoids in tissue and at the receptors.
+
+ The substances acting the cannabinoid receptors CB1 and CB2 are called endocannabinoids.
+
+ The present study examines the effects of Osteopathic Manipulative Lymphatic Pump Techniques on levels of anandamide, an endocannabinoid, in saliva samples of adult subjects.
+
+ Based on existing research, the investigators hypothesize that subjects who undergo osteopathic lymphatic treatment will have increased levels of anandamide.
+
+ Establishing the levels of endocannabinoids in these subjects will allow for a direct measure of the efficacy of the Osteopathic Manipulative Lymphatic techniques.
+
+ In addition to the quantification of endocannabinoid levels in saliva, a series of 16, 100 mm analog scales will be used to assess the cannabinomimetic effects in the subject pre and post OMM treatment/control and it will be correlated to changes in endocannabinoid levels.
+
+.
+
+ Effect of OMM on Anandamide Levels in Saliva@highlight
+
+The Investigators will be studying the effects of Osteopathic Manipulative Lymphatic Pump Treatment on levels of anandamide in Saliva.
+
+ A qualitative scale will also be used to measure the canabinomimetic effects of osteopathic treatment.
+

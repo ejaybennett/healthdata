@@ -1,0 +1,33 @@
+(thirdQuint)Fenretinide in Treating Patients With Recurrent or Metastatic Ovarian Epithelial or Primary Peritoneal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To evaluate the efficacy of fenretinide (4-HPR) in patients with recurrent ovarian cancer or primary peritoneal carcinoma.
+
+ II.
+
+ To assess the toxicity of this agent in this patient population.
+
+ III.
+
+ To evaluate molecular changes in normal and tumor cells induced by 4-HPR by studying: (a) the analysis of ceramide and glucosyleceramide levels before and after therapy, (b) intracellular levels of 4-HPR and 4-MPR, and (c) determinants of apoptosis (p53, p21, bcl-2, bax and terminal deoxynucleotidyl transferase [TdT] assay) in baseline tumor specimens, serial serum and tumor biopsy specimens where available, and surrogate in-vitro studies.
+
+ IV.
+
+ To evaluate the pharmacokinetics of fenretinide.
+
+ V.
+
+ To further investigate the antiangiogenesis effects of fenretinide in in-vitro assays using ovarian cancer cell lines and in vascular growth factor (VEGF, TGFb) plasma levels in patients.
+
+ OUTLINE: Patients receive oral fenretinide twice daily on days 1-7.
+
+ Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+.
+
+ Fenretinide in Treating Patients With Recurrent or Metastatic Ovarian Epithelial or Primary Peritoneal Cancer@highlight
+
+Phase II trial to study the effectiveness of fenretinide in treating patients who have recurrent or metastatic ovarian epithelial or primary peritoneal cancer.
+
+ Drugs used in chemotherapy, such as fenretinide, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing

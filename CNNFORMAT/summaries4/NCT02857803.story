@@ -1,0 +1,20 @@
+(thirdQuint)A Randomised Controlled Trial Comparing the Impact of Virtual Reality, Paper and Pencil and Conventional Methods on Stroke Rehabilitation.
+
+ Cognitive impairments after stroke are not always given sufficient attention despite its limitations in activities-of-daily- living (ADL's).
+
+ Current cognitive rehabilitation methods mostly rely on paper-and-pencil tasks targeting isolated domains, which is not consistent with everyday-life.
+
+ Besides limited ecological-validity, paper-and-pencil tasks are not accessible for most stroke patients whose dominant arm is paretic.
+
+ Virtual Reality (VR) has shown to be a solution for the development of accessible and ecologically valid systems, but, does it have more impact than a paper and pencil personalised intervention? Through a participatory design approach, with health professionals, the investigators have developed: - a motor-accessible and cognitive-personalized VR-based system, where conventional cognitive tasks were operationalized in meaningful simulations of ADL's (Reh@City) and; - a web tool which generates personalised paper and pencil tasks( Task Generator).
+
+ The investigators objective is to have a sample of 60 stroke patients between 40 and 70 years old, randomly allocated in three groups: the experimental group 1 were participants will perform 30 minutes of the VR training with Reh@City; the experimental group 2 were participants will perform 30 minutes of the paper and pencil training with the Task Generator, and the control group were participants will perform 30 minutes of conventional therapy (occupational therapy).
+
+.
+
+ A Randomised Controlled Trial Comparing the Impact of Virtual Reality, Paper and Pencil and Conventional Methods on Stroke Rehabilitation@highlight
+
+Virtual Reality allows the integration of both cognitive and motor rehabilitation in a more ecologically valid context.
+
+ The purpose of this study is to determine whether this methodology has more impact on stroke rehabilitation than a paper and pencil personalised program and conventional therapy, which is motor-focused.
+

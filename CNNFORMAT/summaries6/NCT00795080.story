@@ -1,0 +1,22 @@
+(thirdQuint)Dynamic MRI and Quantitative MR CSF Flow Studies in Craniovertebral Junction Anomalies.
+
+ In this study, subjects will have a dynamic cervical magnetic resonance imaging (MRI) of the craniovertebral junction (CVJ) coupled with CSF flow studies.
+
+ The studies will assess changes in CSF flow velocities that are associated with with changing position of the neck at the CVJ and aqueduct of Sylvius.
+
+ Eligible patients include those with Chiari 1 malformations and similar malformations to the CVJ.
+
+ This malformation lead to inherent instability in this region and symptoms such as headaches, dizziness, neck pain and other neurological problems.
+
+ This study will determine if there is any correlation of these MRI findings to clinical outcome.
+
+.
+
+ Dynamic MRI and Quantitative MR CSF Flow Studies in Craniovertebral Junction Anomalies@highlight
+
+The purpose of this study is to decide which position of the neck affects cerebral spinal fluid (CSF) flow between the spinal cord and the brain.
+
+ CSF is a fluid that flows up and down your spinal cord, around the brain and into the ventricles of the brain.
+
+ This study will be done with patients who have abnormalities of the neck, including Chiari 1 malformations.
+

@@ -1,0 +1,20 @@
+(secondQuint)Effect of Reminders on Adherence.
+
+ The investigators seek to increase medication adherence of subjects.
+
+ The investigators will send mailings to customers of an insurance company, asking them to predict or commit to a certain level of behavior.
+
+ The investigators will measure whether this increases medication adherence.
+
+ The investigators will send mailings to subjects once per month, and elicit responses via mail, phone, and web surveys.
+
+.
+
+ Effect of Reminders on Adherence@highlight
+
+The investigators seek to increase medication adherence of subjects.
+
+ The investigators will send mailings to customers of an insurance company, asking them to predict or commit to a certain level of behavior.
+
+ The investigators will measure whether this increases medication adherence.
+

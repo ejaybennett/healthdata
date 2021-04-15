@@ -1,0 +1,98 @@
+(fifthQuint)The Outcome and Cost Analysis of Home-care Physical Therapy for Postoperative Hip Fracture Patients.
+
+ Hip fracture from fall is the most important cause of disability of the aged.
+
+ Most of the victims receive surgery (internal fixation or arthroplasty) as the primary treatment.
+
+ However, during the hospitalization of post-surgery, not all the patients receive physical therapy (PT).
+
+ The program of PT during hospitalization and after discharge affects the functional recovery and the health-related quality of life (HRQL) significantly in our knowledge.
+
+ Therefore, the aims of this study are: 1.
+
+ To develop the disease-specific questionnaire for hip fracture.
+
+ 2.
+
+ To find the influences of PT on patients' function and HRQL.
+
+ 3.
+
+ To estimate the QALY of cases of hip fracture with or without PT program by quality-adjusted survival (QAS) method.
+
+ 4.
+
+ To perform CEA to evaluate the effectiveness of PT and as a base to compare with other health intervention program.
+
+ At the beginning of the study, we will develop the disease-specific questionnaire for hip fracture.
+
+ And, cases of hip fracture hospitalized in orthopedic wards of National Taiwan University Hospital (NTUH) and Chung-Hsing Hospital of Taipei from August 1, 1989 to July 31, 1999 are the study population of the first year in this study.
+
+ According to their receiving PT or not during hospitalization, the patients are assigned to PT or non-PT group.
+
+ Basic data such as ID number, age, sex, comorbidity, pre-injury physical status, operation date, operation type, length of hospitalization, complication, are extracted from their charts.
+
+ The identification (ID) numbers will be matched with the death certificate file of the Department of Health to make sure the survival status.
+
+ Furthermore, 30 cases per group per year will be randomly sampled to interview their HRQL and evaluate their function with the disease-specific questionnaire for hip fracture.
+
+ Combining the survival function and HRQL, the QALY could be estimated.
+
+ Cases of hip fracture admit to the orthopedic ward of NTUH and receive PT program from Jan.
+
+ 1, 2000 will be the second-year study population in this study.
+
+ They will be randomly assigned to group of follow-up PT (group I) or non-follow-up PT (group II).
+
+ The patients assigned to group I will have 4-time PT evaluation and treatment at home after discharge from hospital (1 week, 1-month, 3-month and 6-month after discharge).
+
+ All patients will be evaluated at discharge, 1-month, 6-month, and 1-year after discharge to follow their survival status, functional status and HRQL.
+
+ The patients younger than 65 years old will be further evaluated for their working capacity at the last evaluation.
+
+ In the third year of this study, medical cost and estimated QALY will be collected to perform the CEA for the effectiveness of PT program during hospitalization and after discharge.
+
+ The expected results of this study will be to develop the disease-specific questionnaire for hip fracture, to show the functional outcome of cases with hip fracture, to estimate the QALY of them and to perform a CEA to demonstrate the effectiveness of PT.
+
+.
+
+ The Outcome and Cost Analysis of Home-care Physical Therapy for Postoperative Hip Fracture Patients@highlight
+
+The aims of this study are: 1.
+
+ To develop a disease-specific questionnaire for hip fractures.
+
+ 2.
+
+ To find the influences of physical therapy (PT) on patients' function and health-related quality of life (HRQL).
+
+ 3.
+
+ To estimate the quality adjusted life years (QALY) of cases of hip fracture with or without the PT program by a quality-adjusted survival (QAS) method.
+
+ 4.
+
+ To perform cost effectiveness analysis (CEA) to evaluate the effectiveness of PT and as a base to compare it with other health intervention programs.
+
+ At the beginning of the study, the investigators will develop the disease-specific questionnaire for hip fractures.
+
+ Cases of patients with hip fractures hospitalized in orthopedic wards of the National Taiwan University Hospital (NTUH) and Chung-Hsing Hospital of Taipei from August 1, 1989 to July 31, 1999 are the study population during the first year of this study.
+
+ According to their receiving PT or not during hospitalization, the patients are assigned to a PT or non-PT group.
+
+ The identification (ID) numbers will be matched with the death certificate file of the Department of Health to verify the survival status.
+
+ Furthermore, 30 cases per group per year will be randomly sampled to interview their HRQL and evaluate their function with the disease-specific questionnaire for hip fractures.
+
+ Combining the survival function and HRQL, the QALY could be estimated.
+
+ Cases of hip fracture admitted to the orthopedic ward of NTUH and receiving a PT program from January 1, 2000 will be the second-year study population in this study.
+
+ They will be randomly assigned to a group of follow-up PT (group I) or non-follow-up PT (group II).
+
+ The patients assigned to group I will have a 4-time PT evaluation and treatment at home after discharge from the hospital (1 week, 1 month, 3 months and 6 months after discharge).
+
+ All patients will be evaluated at discharge, 1 month, 6 months, and 1 year after discharge to follow their survival status, functional status and HRQL.
+
+ The expected results of this study will be to develop the disease-specific questionnaire for hip fractures, to show the functional outcomes of cases of hip fracture, and to estimate the QALY of them.
+

@@ -1,0 +1,26 @@
+(secondQuint)Postoperative Adjuvant Chemotherapy With Bevacizumab and Maintenance Bevacizumab After Neoadjuvant Chemotherapy for Ovarian Cancer.
+
+ This study is designed to determine the feasibility of administering adjuvant carboplatin, paclitaxel, and bevacizumab without unacceptable significant AE in patients with epithelial ovarian cancer after neoadjuvant carboplatin/cisplatin, and paclitaxel and interval cytoreductive surgery, primary peritoneal cancer or fallopian tube cancer.
+
+ This study will also investigate progression free and to assess the quality of life.
+
+ A Simon minimax two-stage design is employed to determine permit early stopping when a moderately long sequence of initial adverse events occurs.
+
+ Under this two-stage design, 13 subjects are enrolled at the first stage.
+
+ If there are > 3 subjects discontinue treatment due to significant AE in the stage-1, then stop the trial.
+
+ Otherwise, the second stage is implemented by including the other 14 subjects.
+
+ The treatment safety will be evaluated and ensured by the occurrence rate of significant AE (or non AE).
+
+ In stage-1, postoperative adjuvant cycles 2-6 will be observed for defined significant AE.
+
+ Patients' or physicians' decision of discontinuation not because of the above-defined significant AEs or due to cancer progression should not be counted as an end-point event.
+
+.
+
+ Postoperative Adjuvant Chemotherapy With Bevacizumab and Maintenance Bevacizumab After Neoadjuvant Chemotherapy for Ovarian Cancer@highlight
+
+This study is to determine the feasibility of postoperative platinum-based chemotherapy plus adjuvant and maintenance bevacizumab after neoadjuvant chemotherapy followed by interval surgery in patients with extensive stage IIIC or IV ovarian, tubal, and peritoneal cancer.
+

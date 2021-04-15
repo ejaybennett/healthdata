@@ -1,0 +1,48 @@
+(fifthQuint)Low Dose Ketamine (LDK) Versus Morphine for Acute Pain Control in the Emergency Department.
+
+ Phase 1 is a randomized, controlled, double-blinded study comparing the use of low-dose ketamine (LDK) to morphine for acute pain control in emergency department patients.
+
+ A convenience sample of subjects will be enrolled from a population of patients aged 18-50 who present to the Brooke Army Medical Center Emergency Department with acute abdominal pain, flank/lumbar back pain and/or pain to the extremities.
+
+ To take part in the study, a need for opioid analgesia must be indicated by the treating physician in addition to the patient meeting all other study criteria.
+
+ The patient will then be randomized into one of the two treatment arms.
+
+ Prior to receiving either the study medication (ketamine) or the active control (morphine) the patient will be asked to rate their pain on a numeric rating scale (NRS) with 0 being no pain and 10 being the worst pain possible.
+
+ Their baseline vital signs (blood pressure, heart rate, respiratory rate and oxygen saturation) will also be documented.
+
+ These vital signs and the NRS will be reassessed at 5, 10 and 20 minutes post medication dosage.
+
+ At 20 minutes they will also document a Richmond Agitation Sedation Scale (RASS) score and will ask the patient if they require additional pain medication.
+
+ If the patient denies the need for a second dose of medication they will continue to be re-assessed every 20 minutes (vital signs, NRS, and RASS) until either inpatient admission, discharge home, transfer to the operating room or until a total of 120 minutes after initial dosing.
+
+ If at any time during the study the patient requires a second dose of pain medication, following the administration of the med, they will be assessed for vital signs at 5,10 and 20 minutes after the dose.
+
+ At 20 minutes, a RASS score and NRS score will also be documented.
+
+ They will then be re-assessed every 20 minutes (vital signs, NRS, and RASS) until either inpatient admission, discharge home, transfer to the operating room or until a total of 120 minutes after initial dosing.
+
+ If they require a third dose of pain medication at any time during the study, this is considered a treatment failure and the treating physician will be contacted to provide any further pain control.
+
+ The second phase of the study will be observational.
+
+ An anonymous satisfaction survey will be provided to the treating nurse, physician/PA of the patients recruited from part one of the study.
+
+ The purpose of conducting the survey is so that an observation point of view can be added to the data to provide a measure of how well the patient's pain was controlled.
+
+.
+
+ Low Dose Ketamine (LDK) Versus Morphine for Acute Pain Control in the Emergency Department@highlight
+
+The purpose of this study is to compare the safety and effectiveness of intravenous low dose ketamine to the industry standard of morphine in regards to controlling acute pain in the emergency department.
+
+ Both LDK and morphine have side effects.
+
+ The amount and character of these side effects will be compared.
+
+ Additionally, the degree of sedation or agitation will be specifically measured.
+
+ The aim of this current study is to make this comparison and shift the evidence for LDK use from the anecdotal to the scientific.
+

@@ -1,0 +1,24 @@
+(firstQuint)Effects of Vitamin D Supplementation on Strength, Bone Density, and Injury Risk in Collegiate Athletes.
+
+ Vitamin D is a hormone that is important for bone and muscle health.
+
+ As such, not having enough vitamin D in your body is associated with increased risk of injury and reduced health and athletic performance.
+
+ It is often recommended that individuals who have low levels of vitamin D take vitamin D supplements.
+
+ However, the effects of vitamin D supplementation on health and strength gains in collegiate athletes are not known.
+
+ The goal of this study is to determine whether vitamin D supplementation increases strength and bone density, while reducing the risk of injury in collegiate athletes.
+
+ Fasting vitamin D concentrations will be measured and athletes will be supplemented daily with Vitamin D for 8-12 weeks.
+
+ The amount of supplementation will depend on whether the athlete is categorized as sufficient (>30ng/ml), insufficient (20-35ng/ml), or deficient (<20ng/ml).
+
+ Vitamin D concentrations, strength, bone density, and injury risk will be assessed before and after the intervention period.
+
+.
+
+ Effects of Vitamin D Supplementation on Strength, Bone Density, and Injury Risk in Collegiate Athletes@highlight
+
+The goal of this study is to determine whether Vitamin D supplementation improves strength and bone density, and reduces the risk of injury in collegiate athletes.
+

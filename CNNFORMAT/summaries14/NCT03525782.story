@@ -1,0 +1,14 @@
+(firstQuint)Anti-MUC1 CAR T Cells and PD-1 Knockout Engineered T Cells for NSCLC.
+
+ This is a combined phase 1 and 2 clinical study.
+
+ The study is to assess the safety and efficacy of the anti-MUC1 CAR T cells and /or PD-1 knockout engineered T cells for patients with advanced non-small cell lung cancer.
+
+ The treatment outcomes will be compared.
+
+.
+
+ Anti-MUC1 CAR T Cells and PD-1 Knockout Engineered T Cells for NSCLC@highlight
+
+The study is to assess the safety and efficacy of the anti-MUC1 CAR T cells and /or PD-1 knockout engineered T cells for patients with advanced non-small cell lung cancer.
+

@@ -1,0 +1,24 @@
+(firstQuint)Safety and Efficacy Study of the DANUBIO Paclitaxel Eluting Balloon in Side Branches of de Novo Bifurcation Lesions (DEBSIDE).
+
+ The DEBSIDE clinical trial is a prospective, non-randomized, multicenter, interventional study evaluating the investigational Danubio Paclitaxel Eluting Coronary Balloon for the treatment of Side Branches (SB) of de novo bifurcation lesions with a side branch reference vessel diameter 2.
+
+0 mm and 3.
+
+0 mm.
+
+ During the procedure, a dedicated drug-eluting bifurcated stent will be implanted in the main branch.
+
+ The trial will allow the treatment of lesion of all Medina type except (0,0,1) in native coronary arteries with sequential predilatation of the main and side branch.
+
+ The DEBSIDE clinical trial will enroll 60 patients.
+
+ All patients will receive Quantitative Coronary Angiography (QCA) before and after Drug-Eluting Balloon (DEB) inflation and at 6 months follow-up.
+
+ All patients will have a clinical follow-up at 1, 6 and 12 months.
+
+.
+
+ Safety and Efficacy Study of the DANUBIO Paclitaxel Eluting Balloon in Side Branches of de Novo Bifurcation Lesions (DEBSIDE)@highlight
+
+The purpose of this study is to assess the safety and efficacy of the Danubio Paclitaxel Eluting Balloon for the treatment of side branches of de novo bifurcation lesions in native coronary arteries.
+

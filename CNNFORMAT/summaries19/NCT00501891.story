@@ -1,0 +1,26 @@
+(thirdQuint)Bevacizumab in Combination With Metronomic Temozolomide for Recurrent Malignant Glioma.
+
+ This is a phase II trial of the combination of Avastin and metronomic temozolomide in recurrent WHO grade IV malignant glioma patients.
+
+ Patients will receive up to 12 cycles of Avastin and temozolomide and cycles are continuous 28 days.
+
+ Patients will receive daily temozolomide at a dose of 50mg/m2 and will receive Avastin every other week at a dose of 10mg/kg.
+
+ Patients will be required to have a baseline MRI within 2 weeks of starting treatment and a repeat MRI every 8 weeks.
+
+ A total of 32 patients will be enrolled at Duke.
+
+ Patients with recurrent malignant gliomas have a very poor prognosis, so new therapies are needed.
+
+ Given the activity of metronomic temozolomide and the safety and activity of Avastin against malignant glioma, it is reasonable to study the combination in recurrent malignant glioma patients.
+
+.
+
+ Bevacizumab in Combination With Metronomic Temozolomide for Recurrent Malignant Glioma@highlight
+
+This is a phase II study of the combination of Avastin and metronomic temozolomide in recurrent malignant glioma patients.
+
+ The primary objective will be to determine the efficacy of Avastin (bevacizumab) and metronomic temozolomide in malignant glioma patients.
+
+ The secondary objective will be to determine the safety of Avastin, 10 mg/kg every other week, in combination with metronomic temozolomide in terms of progression-free survival.
+

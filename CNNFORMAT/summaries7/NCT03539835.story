@@ -1,0 +1,14 @@
+(thirdQuint)Resistance Training to Improve Fatigue and Physical Function in Postmenopausal Breast Cancer Survivors.
+
+ Interventions that reduce pro-inflammatory cytokines with resultant stimulation of kynurenine metabolism may be increasingly important in Breast Cancer Survivors (BCS) to prevent susceptibility to cancer associated fatigue, depression, and declines in muscle mass and function.
+
+ There is emerging evidence that supports exercise as a non-pharmacological therapy to prevent cancer recurrence, sedentary behaviors, and obesity during cancer survivorship .
+
+ It seems that interventions that include resistance training (RT) are most efficacious at reducing fatigue in BCS This study will begin to fill a knowledge gap by determine whether changes in kynurenine metabolism occur following RT and relate to reductions in inflammation and improved behavioral and physical function as this may identify potential targets for interventions to promote cancer recovery.
+
+.
+
+ Resistance Training to Improve Fatigue and Physical Function in Postmenopausal Breast Cancer Survivors@highlight
+
+This study will begin to fill a knowledge gap by determine whether changes in kynurenine metabolism occur following Resistance Training (RT) and relate to reductions in inflammation and improved behavioral and physical function as this may identify potential targets for interventions to promote cancer recovery.
+

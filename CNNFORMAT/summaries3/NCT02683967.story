@@ -1,0 +1,24 @@
+(firstQuint)The Impact of Acupuncture on the Success Rates of IVF (In Vitro Fertilisation) Treatments.
+
+ Failing to conceive naturally poses significant stress to the infertile couple.
+
+ It creates a feeling of failure and frustration.
+
+ It has been found that the use of complementary therapies makes women feel empowered, with a sense of regaining control of the body.
+
+ The popularity of acupuncture is increasing.
+
+ A significant proportion of couples having fertility treatment, especially IVF (In-Vitro Fertilisation) ask their clinician about using acupuncture and some patients undergo acupuncture privately without reporting to their clinicians.
+
+ The effectiveness of acupuncture on IVF has been extensively researched; however the results are varied and not conclusive.
+
+ This is due to previous studies varying significantly in their study design, acupuncture timing and the final outcome measure.
+
+ As a result of the difference in the studies it is not clear whether acupuncture is beneficial regarding IVF success rates and whether it should be offered to women undergoing IVF.
+
+.
+
+ The Impact of Acupuncture on the Success Rates of IVF (In Vitro Fertilisation) Treatments@highlight
+
+The trial aims to investigate whether acupuncture has an effect in increasing clinical pregnancy (pregnancy that is confirmed by a scan) and live birth rates on women undergoing IVF treatment.
+

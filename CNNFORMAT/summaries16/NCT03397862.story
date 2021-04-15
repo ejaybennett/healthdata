@@ -1,0 +1,19 @@
+(firstQuint)A Skin Irritation Assessment of Once-Weekly Corplex Donepezil Transdermal Delivery System.
+
+ This study is a multiple center, randomized, double-blind, vehicle-controlled, and multiple-dose study to assess skin irritation and skin sensitization in healthy subjects.
+
+ Subjects will be randomized prior to the first TDS application.
+
+ The total duration of the study from Screening to Follow-up is approximately 95 days for subjects participating in the Induction Phase and the Challenge Phase of the study and potentially up to 156 days for subjects requiring to complete Re-Challenge Phase.
+
+ Skin irritation will be monitored by visual scoring scales.
+
+ TDS adhesion will be assessed during TDS wear period.
+
+ Safety will be monitored throughout the study by clinical and laboratory evaluations.
+
+.
+
+ A Skin Irritation Assessment of Once-Weekly Corplex Donepezil Transdermal Delivery System@highlight
+
+A study to assess the skin irritation and sensitization potential of Corplex cent Donepezil Transdermal Delivery System (TDS)

@@ -1,0 +1,28 @@
+(secondQuint)Project HERO: Health Empowerment & Recovery Outcomes.
+
+ This study will establish the efficacy of a 12-week Body Mind Training (BMT) for reductions in fatigue (the study's primary outcome).
+
+ Secondary patient-reported outcomes include quality of life changes (e.
+
+g.
+
+ changes in sleep and perceived psychological distress), changes in the biomarkers of inflammation; including genome wide transcriptional factors, and expression of fatigue-related genes.
+
+ There are over 9 million cancer survivors that are 55 years of age or older.
+
+ Cancer survivors in this age group have unique challenges coping with late and long-term effects of having had a cancer diagnosis and treatment, coupled with age-related declines and comorbidities.
+
+ This may influence their ability to engage in lifestyle interventions because of slower post-treatment recovery, increased functional limitations, and other quality of life (QOL) impairments.
+
+ Fatigue is common, under-recognized, undertreated and correlated with impairments in psychological distress, social and functional well-being and health-related QOL in cancer survivors, including men with prostate cancer.
+
+ For prostate cancer survivors suffering from fatigue, body-mind training (BMT) may be more appealing because it is not overly physically exertive and is safe for people 55 years of age or older.
+
+.
+
+ Project HERO: Health Empowerment & Recovery Outcomes@highlight
+
+Project HERO is a 12-week study of the efficacy of Body Mind Training (BMT) for reducing fatigue in prostate cancer survivors.
+
+ This 3-arm randomized clinical trial will examine inflammatory biology and selected gene-expression pathways that are hypothesized to contribute to the intervention's effect.
+

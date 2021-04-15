@@ -1,0 +1,44 @@
+(fifthQuint)Stereotactic Radiation Therapy for Pediatric Sarcomas.
+
+ Pediatric patients with sarcoma who have limited metastases are still potentially curable with aggressive local therapy.
+
+ However, conventional moderate dose radiation is unlikely to provide durable local control.
+
+ Given the recent technologic advances in radiation delivery, it is now possible to deliver tumoricidal doses, using stereotactic radiation over a short time course with highly focal techniques.
+
+ Stereotactic radiation has proven efficacious in the intracranial setting and in multiple extracranial sites in adults.
+
+ It has not yet been well studied in the pediatrics population where there is a particularly strong rationale due to the ablative doses that can be delivered to tumor while simultaneously reducing high dose to normal tissues.
+
+ The proposed trial is a single arm phase II study to determine the efficacy of SBRT in pediatric sarcomas with surgically unresectable metastatic disease.
+
+ Oligometastatic sites eligible for treatment in this study include bony sites of disease.
+
+ SBRT will be delivered to each eligible site to a total dose of 4000 delivered in 5 fractions of 800 per fractions each day.
+
+ Following completion of SBRT, patients will undergo treatment response assessment with the use of diagnostic imaging, clinical examination, and completion of the Brief Pain Inventory to assess quality of life.
+
+ The primary objective of this study is to determine the efficacy of SBRT delivered to a dose of 4000 in 5 fractions of 800 each for patients greater than 3 years of age and < 40 years of age with metastatic disease of bone secondary to pediatric sarcoma.
+
+ The secondary objectives of this study include describing the toxicity of SBRT with this regimen; assessing clinical response rate of each target lesion; assessing long-term clinical outcomes; and assessing quality of life following completion of treatment.
+
+ For patients with potentially curable oligometastatic disease, surgical resection in conjunction with systemic therapy remains the standard of care.
+
+ Patients on this study will continue to receive chemotherapy outside of the 2 week window for SBRT.
+
+ Issues that may limit participation include our inability to assess late effects that may not develop till at least 10 years after therapy.
+
+ For this reason, we will limit the population in this study to patients who are surgically unresectable and would be otherwise incurable with current standard systemic therapies.
+
+.
+
+ Stereotactic Radiation Therapy for Pediatric Sarcomas@highlight
+
+The SBRT (stereotactic body radiation therapy) literature focuses on clinical outcomes in the adult population.
+
+ However, SBRT (stereotactic body radiation therapy) has a particularly strong rationale for application in pediatrics given that high biologically effective doses have been shown to increase control in histologies, such as sarcoma, which are common in the pediatrics population (11,25).
+
+ With stereotactic radiation therapy techniques, a reduction in normal tissue dose surrounding the target lesion of interest may also be accomplished resulting in lower toxicity.
+
+ Given that pediatric patients with sarcomas, presenting with limited metastases in lung and bone, are still considered to be a curable population with aggressive local therapy, SBRT could have a significant impact on outcomes in oligometastatic patients who may be otherwise unresectable (25-28).
+

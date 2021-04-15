@@ -1,0 +1,32 @@
+(thirdQuint)Encouraging Calcium Absorption and Bone Formation During Early Puberty.
+
+ Rapid increases in bone mass occur during calcium absorption and bone calcium deposition during puberty, and these increases can enhance peak bone mass and ultimately decrease the lifetime risk of osteoporosis.
+
+ However, dietary, hormonal, and genetic factors likely affect increased bone mass.
+
+ This study will examine if adding NDO to a pubertal diet allows more absorption of calcium by the body, producing stronger bones.
+
+ The study will also assess how the hormones produced by the body during puberty affect bone growth and whether genetic factors affect calcium absorption or bone growth.
+
+ This study will last 2 years.
+
+ At study entry, baseline pubertal hormone levels and bone mass will be assessed.
+
+ Both a dual-energy X-ray absorptiometry (DEXA) scan and a calcium stable kinetic study measuring calcium absorption will be performed.
+
+ Participants will then be randomly assigned to receive calcium fortified food with or without added NDO for 1 year.
+
+ Calcium absorption will be measured again at 2 months.
+
+ After the first year, calcium kinetic, hormonal, and DEXA studies will be performed and compared to baseline results.
+
+ A final DEXA scan will be performed at the end of 2 years.
+
+.
+
+ Encouraging Calcium Absorption and Bone Formation During Early Puberty@highlight
+
+Increasing bone mass during puberty can ultimately decrease the risk of developing osteoporosis, which causes bones to weaken and break more easily later in life.
+
+ The purpose of this study is to compare calcium absorption and bone growth in boys and girls on diets including either a nondigestible oligosaccharide (NDO) or simple sugar.
+

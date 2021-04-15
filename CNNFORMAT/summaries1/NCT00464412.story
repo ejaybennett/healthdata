@@ -1,0 +1,32 @@
+(secondQuint)The Effect of a Short Educational Program on Young Women's Knowledge and Beliefs About Osteoporosis.
+
+ Objective.
+
+ To determine the effect of a short osteoporosis educational program on young women's knowledge and beliefs about osteoporosis.
+
+ Methods.
+
+ Ten college physical activity classes enrolling 133 predominantly Caucasian women (age range 18 to 21 years) were randomized to an osteoporosis educational program or control.
+
+ Knowledge and beliefs about osteoporosis were assessed at baseline and at one week and three weeks following the intervention using the Multiple Osteoporosis Prevention Survey.
+
+ Knowledge was defined as the ability to identify correctly osteoporosis risk factors.
+
+ Beliefs were measured with the use of a five point Likert type scale.
+
+ The educational program was comprised of a lecture and printed materials developed by the National Osteoporosis Foundation.
+
+ Chi-square and analysis of variance evaluated for between group differences.
+
+ Alpha was set at 0.
+
+05.
+
+.
+
+ The Effect of a Short Educational Program on Young Women's Knowledge and Beliefs About Osteoporosis@highlight
+
+The purpose of the study is to determine the effect of a short educational program on young women's knowledge and beliefs about osteoporosis.
+
+ They hypothesis is that following the intervention women who receive the educational program will have greater knowledge and beliefs about osteoporosis.
+

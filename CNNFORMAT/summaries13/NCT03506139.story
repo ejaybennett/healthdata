@@ -1,0 +1,34 @@
+(secondQuint)Biologically-based Target Volumes to Treat Newly Diagnosed Glioblastoma.
+
+ This study evaluates if increasing radiation dose to at-risk areas impacts overall survival without causing a decrease in quality of life or an increase in radiation side effects.
+
+ Standard radiation dose for glioblastoma (GBM) is 60 Gray in 30 fractions, with patients receiving 1 fraction per day, Monday through Friday.
+
+ This trial will use a total of 75 Gray in 30 fractions, with participants receiving 1 fraction per day, Monday through Friday.
+
+ Participants will still receive the standard chemotherapy (temozolomide) at the standard dose (75 mg/m2, once daily, 7 days a week).
+
+ This study also uses a different imaging technique to identify the tumor target and the tissues at risk.
+
+ Normal imaging techniques will be used to define the standard target volume and will receive the standard radiation dose (60 Gray).
+
+ A special MRI sequence will identify at risk areas based on diffusion and perfusion abnormalities.
+
+ This area will receive the higher radiation dose (75 Gray).
+
+ Participants will also be asked to complete quality of life questionnaires and neurocognitive evaluations at specific time points.
+
+ This is to identify any side effects from the higher radiation dose.
+
+ Preliminary work done at University of Michigan suggests a lack of side effects from the higher dose of radiation.
+
+.
+
+ Biologically-based Target Volumes to Treat Newly Diagnosed Glioblastoma@highlight
+
+This clinical trial increases radiation to areas of the brain considered to be at risk for cancer.
+
+ The at-risk areas are identified by a biological MRI scan.
+
+ The study will look at side effects of the radiation and overall survival.
+

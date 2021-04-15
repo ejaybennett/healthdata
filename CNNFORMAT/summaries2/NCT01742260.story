@@ -1,0 +1,128 @@
+(fifthQuint)Cranial Reconstruction Using Mesenchymal Stromal Cells and Resorbable Biomaterials.
+
+ Background: Cranial bone defects are often left following brain surgery, usually to allow swelling of the brain to recover before subsequently re-implanting a protective covering of the brain at a later time (cranioplasty).
+
+ These procedures are performed anywhere over the cranial vault, either unilaterally or bilaterally.
+
+ The original piece of bone (autologous bone plate = bone flap) is placed in a sterile container and stored in a refrigerator at temperature of -40oC.
+
+ Weeks or months later, when the brain is relaxed, the scalp well healed and the patient's medical condition permits, the individual is taken back to the operating room and the bone is reimplanted (A procedure known as an autologous cranioplasty).
+
+ The aim of the procedure is to restore cosmesis and protection to the underlying brain and it can sometimes also improve neurological symptoms by unknown mechanisms.
+
+ Unfortunately these aims are not always achieved and whilst technically straightforward the procedure is known to be associated with a number of complications.
+
+ Two of the most significant of these are infection (such that the bone flap needs to be removed and replaced) and resorption (such that the protective function is compromised).
+
+ Overall 10% of autologous bone patients become infected, 10% require replacement due to resorption and 12% become significantly resorbed, then in 32% of case the autologous bone has failed.
+
+ In each case of cranioplasty failure the patient requires readmission, a second operation to remove the bone flap, prolonged antibiotic therapy (in the case of infection), and then a new custom-made plate and readmission for a third surgical procedure.
+
+ In most cases synthetic materials such as polymethylmethacrylate and titanium mesh are used for reconstruction.
+
+ Commonly reconstruction is carried out by the surgeon using such materials to sculpt the cranioplasty.
+
+ More recently, hydro formed titanium plates have been used.
+
+ This entails a process of CT scanning the defect, virtual reconstruction, 3D printing of moulds, pressing the plate and hand finishing.
+
+ Whilst highly successful in treating more than 150 patients, the titanium cranioplasty remains in the patient for life and, as a non-biological material, presents as a preferential site for infection (approximately 5% of cases).
+
+ In addition, medical CT images for assessment and treatment of neurological conditions are compromised for life due to metal artefacts arising from the plates.
+
+ Furthermore, interference with metal scanning equipment commonly used for security purposes also remains a life time issue.
+
+ The patients with an infected titanium cranioplasty require a fourth admission to remove the metal or polymer plate, extended antibiotic treatment and then a fifth surgical procedure to reinsert a new cranioplasty.
+
+ Mesenchymal stromal cells (MSC): MSC are multipotent adult cells capable of differentiating down multiple mesenchymal lineages.
+
+ They are adherent fibroblastoid-like cells with an extensive capacity for expansion.
+
+ They reside within the connective tissue of most organs and have been isolated from bone marrow, placenta, adipose tissue, umbilical cord, amniotic fluid, circulating blood, various foetal tissues, skeletal muscle synovia, dental pulp, liver, spleen, lung and dermis.
+
+ Most work has focussed on MSC derived from bone marrow, however, there are also some clinical reports using adipose tissue and placental derived MSC.
+
+ MSC from different sources may not be functionally equivalent or exhibit the same differentiation potential.
+
+ The main functions for bone marrow derived MSC with regards to the present study is the ability to differentiate down the osteogenic lineage.
+
+ It is this ability to differentiate that has seen them applied to bony non-union and the treatment of critical size bone skeletal deficits, and in particular the reconstruction of cranial voids.
+
+ In the current proposal Cell and Tissue Therapies W.
+
+A.
+
+ at Royal Perth Hospital have extensive experience and have applied for an TGA (Therapeutics Goods Administration, the Australian Government regulatory authority) licence to manufacture and provide MSC for patient treatment.
+
+ MSC are not immunogenic and escape recognition by alloreactive T cells and NK cells.
+
+ They have low level expression of HLA class I and no expression of HLA class II.
+
+ They do not express co-stimulatory molecules and are unable to induce T cell mediated immune response, and therefore can be used as universal donor cells.
+
+ Allogeneic cells have been widely used in clinical trials in both immune modulation and tissue repair.
+
+ The advantage of using allogeneic cells is that donor age can be controlled.
+
+ The literature indicates that MSC harvested from donors older than 40 years are inferior.
+
+ Since many of the patients being treated with a cranioplasty are greater than 40 years of age, the use of allogeneic cells in this study is preferable.
+
+ Clinical human trials and animal studies support the use of allogeneic cells.
+
+ Cranioplasty: The Department of Medical Engineering and Physics at Royal Perth Hospital is a world leader in providing custom made implants and has been supplying custom made titanium cranioplasties for fifteen years.
+
+ The basic methodology which has been used to treat over 150 patients includes the reconstruction of the void using advanced software based on the patients CT scan.
+
+ Once the void has been reconstructed a female mould is created to press the titanium plate.
+
+ The plate is then hand finished and checked for fitment on a premade defect model.
+
+ Bioceramic: Resorbable bioceramics such as hydroxyapatite and beta tri-calcium phosphate have been used in the treatment of bony deficit for many years.
+
+ For example, ChronOS (Synthes GmbH, Oberdorf) bone graft substitute is a fully synthetic and resorbable bone graft substitute consisting of beta-tricalcium phosphate with a compressive strength similar to that of cancellous bone.
+
+ The interconnected porosity acts as an osteconductive matrix for the ingrowth of bone cells and blood vessels.
+
+ Such materials are used for filling of bone defects after trauma, reconstruction or correction in non-load bearing indications and commonly these materials prescribe a method of perfusion of the granules in the operating room with the patient's own bone marrow.
+
+ Resorption of the bioceramics has been shown to occur over a period of 6-18 months (Buser 1998).
+
+ Polymer Scaffold: There are a myriad of polymer materials used for surgery including in the area of cranio-maxillofacial surgery.
+
+ The most common polymer is poly(lactic acid).
+
+ PLA such as 70:30 poly(L-lactide-co-D,L-lactide) are made from a amorphous biodegradable copolymer which will ultimately resorb in vivo.
+
+ The bioceramics and polymer materials are approved by the TGA for this indication.
+
+.
+
+ Cranial Reconstruction Using Mesenchymal Stromal Cells and Resorbable Biomaterials@highlight
+
+Formal study hypothesis: Cranial reconstruction using mesenchymal stromal cells and resorbable biomaterials, will result in the patient producing their own bone to fill the void which will reduce the risk of infection and resorption, lead to a better cosmetic result and obviate any long term consequence of having a synthetic material in vivo.
+
+ Introduction: There are several reasons that parts of the skull may need to be removed: - After trauma to relieve brain swelling - During brain surgery (for brain cancer) - After trauma where the bone is so badly fractured/fragmented it needs to be removed.
+
+ In all but the last case the bone flap is temporarily stored in a freezer and once the brain swelling has subsided it is reinserted.
+
+ This procedure is called "autologous cranioplasty"; autologous, because it originally came from the patient and cranioplasty, referring to the repair.
+
+ Although this is a straightforward procedure, there are a number of complications including infection and bone resorption that can occur.
+
+ This study: Stromal cells have a proven ability to aid in bony healing.
+
+ Furthermore stromal cells on a ceramic framework encased in a plastic scaffold have been shown in a small clinical trial to lead to healing of skull defects.
+
+ In the present study, it is proposed to add stromal cells from a suitable donor to medical grade ceramic granules, place them in between specially moulded plastic scaffolds and insert the sandwich into the skull.
+
+ Both the ceramic and plastic materials are medical grade and commonly used in reconstructive surgery, the ceramic for packing into bony defects due to trauma or removal of cancer and the polymer in bony reconstruction.
+
+ Both materials are approved by the TGA.
+
+ They are designed to dissolve away over time as the body's own blood vessels and cells populate the sandwich and create the patient's new bone.
+
+ It has been proven that without the encouragement of the cells and temporary scaffold materials, a hole in the skull will not heal.
+
+ Given the incidence of bone resorption/infection and metal plate infection using traditional methods, it would seem prudent to provide a construct that will allow controlled replacement with the patient's own bone, thus negating any adverse long-term complications with synthetic materials that remain for life.
+

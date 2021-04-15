@@ -1,0 +1,14 @@
+(firstQuint)Improving Human Ovarian Transplantation.
+
+ Ovarian tissue is removed by laparoscopy and only in patients facing premature ovarian failure due to chemotherapy.
+
+Tissue for research will consist either of a small portion (<10%) of the cortex for preservation for young women.
+
+ another source of ovarian tissue for research will be obtained following consent from family of patients who have died of the disease and have previously frozen ovarian tissue.
+
+.
+
+ Improving Human Ovarian Transplantation@highlight
+
+we will perform xenotransplantation and in vitro culture of ovarian tissue from patients undergoing ovarian cortex cryopreservation.
+

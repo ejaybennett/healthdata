@@ -1,0 +1,28 @@
+(secondQuint)Safety and Efficacy of Methylene Blue Combined With Artesunate or Amodiaquine for Malaria Treatment in Children of Burkina Faso: a Pilot Study.
+
+ Objectives: The primary objective of this trial is to study the safety of the combination methylene blue (MB)-artesunate (AS) and MB-amodiaquine (AQ) given over three days in 6-10 year old children with uncomplicated falciparum malaria in a malaria endemic area compared to the safety of a three days AS-AQ regimen.
+
+ Secondary objectives are to investigate the efficacy of MB-AS and MB-AQ.
+
+ Population: Children aged 6-10 years with uncomplicated malaria from Nouna town.
+
+ Sample size: N= 180 (n=60 for each group).
+
+ Treatment: The participants in the MB-AS group will receive orally twice daily 9mg/kg MB combined with once daily 4mg/kg AS over 3 days.
+
+ The participants in the MB-AQ group will receive orally twice daily 9mg/kg MB combined with once daily 10mg/kg AQ over 3 days.
+
+ The participants of the comparator group will receive a 3 day regimen of once daily oral AS (4mg/kg) combined with once daily AQ (10mg/kg).
+
+ Endpoints: The primary endpoint is the number of adverse events (AE) after drug intake until day 28.
+
+ Secondary endpoints are the number of serious adverse events (SAE), adequate clinical and parasitological response (ACPR) rate on day 28, clinical and parasitological failure rates on day 3, 7, 14 and 28, changes in haematocrit until day 28, and fever and parasite clearance time.
+
+.
+
+ Safety and Efficacy of Methylene Blue Combined With Artesunate or Amodiaquine for Malaria Treatment in Children of Burkina Faso: a Pilot Study@highlight
+
+The primary objective of this trial is to study the safety of the combination methylene blue (MB)-artesunate (AS) and MB-amodiaquine (AQ) in treating malaria among children compared to the safety of an AS-AQ regimen.
+
+ The secondary objective is to investigate the efficacy of MB-AS and MB-AQ.
+

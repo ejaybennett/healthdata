@@ -1,0 +1,36 @@
+(thirdQuint)Opioid Safety Program in Pain Clinics (Op-Safe):.
+
+ This 2-year prospective multi-centre cohort study will be conducted at chronic pain clinics at Women's College Hospital (WCH), Toronto Western Hospital (TWH), Toronto Rehab Institute (TRI), Mount Sinai Hospital (MSH) in Toronto, and St.
+
+ Joseph's Hospital (SJH) in London, Ont.
+
+ The primary aim is to develop and evaluate an Obstructive Sleep Apnea (OSA) screening algorithm against the results of polysomnography.
+
+The research assistants will approach all patients visiting chronic pain clinics for eligibility.
+
+ For recruited patients, a written informed consent will be obtained.
+
+ All recruited patients will undergo polysomnography at the Toronto Rehab Institute Sleep Lab or Toronto Sleep and Pulmonary Centre.
+
+ An overnight oximetry by an oximeter will be collected.
+
+ The sleep physician will review the polysomnography results.
+
+ All recruited patients will also complete the STOP-Bang questionnaire and Epworth Sleepiness Scale (ESS).
+
+ The thyromental distance, Mallampati classification, Friedman staging,neck circumference and oxygen saturation will be measured.
+
+ Demographic data, co-morbidities, medications and an overnight oximetry will be collected.
+
+ Patients will be assessed on their opioid-related knowledge via the Patient Opioid Education Measure (POEM) at the first visit.
+
+ They will be educated on knowledge of opioids via education sheet, pamphlet and video from ISMP-Canada, and then repeat Patient Opioid Education Measure (POEM) 6- 8 months later during pain clinic follow up visit.
+
+.
+
+ Opioid Safety Program in Pain Clinics (Op-Safe):@highlight
+
+In this vital study, the investigators will develop an innovative Opioid Safety (Op-Safe) Program for use in pain clinics.
+
+ The Op-Safe Program consists of two key components: Educating patients with an informative brochure and video developed by the Institute for Safe Medication Practices (ISMP) Canada, and a screening algorithm to identify unrecognized sleep apnea in patients taking opioids for chronic non-cancer pain.
+

@@ -1,0 +1,24 @@
+(secondQuint)FR901228 in Treating Patients With Myelodysplastic Syndrome, Acute Myeloid Leukemia, or Non-Hodgkin's Lymphoma.
+
+ OBJECTIVES: - Determine the pattern of adverse clinical experience in patients with myelodysplastic syndrome, acute myeloid leukemia, or intermediate-grade or follicular non-Hodgkin's lymphoma treated with FR901228 (depsipeptide).
+
+ - Determine the disease response in patients treated with this drug.
+
+ - Determine the pharmacokinetic and pharmacodynamic correlates of this drug, including measurement of serum plasma levels, H3 and H4 acetylation, apoptosis induction, differentiation, and multidrug-resistant (MDR) phenotype expression in these patients.
+
+ OUTLINE: Patients receive FR901228 (depsipeptide) IV over 4 hours on days 1 and 5.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients are followed monthly.
+
+ PROJECTED ACCRUAL: A total of 12 patients will be accrued for this study within 1 year.
+
+.
+
+ FR901228 in Treating Patients With Myelodysplastic Syndrome, Acute Myeloid Leukemia, or Non-Hodgkin's Lymphoma@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.
+
+ PURPOSE: Phase II trial to study the effectiveness of FR901228 in treating patients who have myelodysplastic syndrome, acute myeloid leukemia, or non-Hodgkin's lymphoma.
+

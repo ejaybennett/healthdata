@@ -1,0 +1,18 @@
+(secondQuint)Far Infrared Irradiation for the Management, Control and Treatment of Frontotemporal Dementia.
+
+ This disorder causes progressive destruction of nerve cells in the brain and causes tau proteins to accumulate into the "Pick bodies" that are a defining characteristic of the disease.
+
+ Tau proteins are microtubule-associated proteins that are abundant in neurons in the central nervous system and are less common elsewhere.
+
+ Observations from our research studies indicate that, far infrared rays provide energy to the body, improve the autonomic functions of the nervous system, restore the functions of the endocrine system, strengthen the immune system, improve blood circulation and increase the level of oxygen in the cells and promote the regeneration of muscle cells, nerves and brain cells.
+
+ It is hereby postulated that irradiation using far infrared, with wavelength between 5 to 20 microns, of the central nervous system, the endocrine system and the whole body could prevent, control, manage or possibly lead to complete rehabilitation of people who have FTD.
+
+.
+
+ Far Infrared Irradiation for the Management, Control and Treatment of Frontotemporal Dementia@highlight
+
+Pick's disease, also known as Pick disease,or FTD is a rare fronto-temporal neurodegenerative disease.
+
+ This study will investigate the use of far infrared radiation for the control, management and treatment of Pick's disease.
+

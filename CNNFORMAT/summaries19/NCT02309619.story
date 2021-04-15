@@ -1,0 +1,38 @@
+(fifthQuint)Lifting of Gastric Tube Through Trans-substernal Versus Trans-esophageal Bed Path in MIE.
+
+ 1.
+
+ Patients with esophageal cancer (EC) will be histologically proved by endoscopic biopsy, and staged by thoracicoabdominal computed tomography (CT), endoluminal ultrasonography and positron emission tomography (PET) before surgery.
+
+ The other crucial test including barium meal, pulmonary function tests, arterial blood gas analysis, cardiac ultrasonography, electrocardiogram and treadmill test, as well as blood biochemistry examinations will also be accomplished preoperatively.
+
+ 2.
+
+ Patients who meet clinical criteria will be asked to sign a consent form, and divided randomly into two groups - trans-substernal group and trans-esophageal bed group.
+
+ Patients in both groups will undergo a minimally invasive esophagectomy which consist of 4 steps: (1) thoracoscopic esophageal mobilization followed by mediastinal lymphadenectomy; (2) laparoscopic gastric mobilization followed by abdominal lymphadenectomy and gastric tube construction; (3) cervical esophageal mobilization and transection; (4) lifting of the gastric tube to the neck for gastro-esophageal anastomosis through trans-substernal or trans-esophageal bed path.
+
+ The operative procedure of the two groups is similar except step 4.
+
+ 3.
+
+ Patients in both groups will be followed-up regularly.
+
+ Intra- and post-operative status, morbidity and complications, nutrition status, as well as quality of life after surgery will be evaluated, and differences between the trans-substernal and trans-esophageal bed groups will be compared.
+
+.
+
+ Lifting of Gastric Tube Through Trans-substernal Versus Trans-esophageal Bed Path in MIE@highlight
+
+Esophageal cancer (EC) is the eighth most common cancer and the sixth leading cause of cancer deaths worldwide.
+
+ Minimally invasive esophagectomy (MIE) is regarded as a safe and effective management for resectable EC.
+
+ Gastric tube is considered to be an ideal substitute for the resected esophagus and can be lifted to the neck for anastomosis through two different paths - Trans-substernal and trans-esophageal bed routes.
+
+ However, the differences of operative outcomes between the two paths have not been systematically described.
+
+ In this study, clinical outcomes including intra- and post-operative status, morbidity and complications, nutrition status, as well as quality of life after surgery will be evaluated, and differences between the trans-substernal and trans-esophageal bed groups will be compared.
+
+ The study might help to individualization treatment for EC.
+

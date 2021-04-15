@@ -1,0 +1,16 @@
+(firstQuint)Combinatorial Therapy for Peristent Type 2 Diabetes After Gastric Banding.
+
+ Liraglutide and Orlistat improve glycemic control by increasing glucagon-like-peptide-1 (GLP-1) response and fat malabsorption, respectively but do not reverse type 2 diabetes.
+
+ Roux-en-y gastric bypass (RYGB) surgery reverses type 2 diabetes 84% of the time while the less invasive, reversible laparoscopic adjustable gastric banding (LAGB) procedure reverses type 2 diabetes 48% of the time.
+
+ Decreased caloric intake occurs after RYGB and LAGB but increased post-prandial GLP-1 response and fat malabsorption only occur after RYGB.
+
+ Since FDA-approved agents Liraglutide and Orlistat increase GLP-1 response and fat malabsorption, respectively, it is of significant clinical interest to determine if addition of Liraglutide and/or Orlistat can improve type 2 diabetes remission rates in the 52% of patients who have not achieved diabetes reversal after gastric banding.
+
+.
+
+ Combinatorial Therapy for Peristent Type 2 Diabetes After Gastric Banding@highlight
+
+The purpose of this study is to determine whether addition of 1 or 2 medicines after gastric banding can improve remission of type 2 diabetes.
+

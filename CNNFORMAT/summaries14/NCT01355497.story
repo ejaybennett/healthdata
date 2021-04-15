@@ -1,0 +1,14 @@
+(firstQuint)Effect of GTx-024 on Muscle Wasting in Patients With Non-Small Cell Lung Cancer (NSCLC) on First Line Platinum.
+
+ This is a randomized, double blind, placebo controlled, multicenter, multinational efficacy and safety study in subjects with non small cell lung cancer.
+
+ Subjects will be evenly randomized to placebo or GTx-024 prior to initiation of first line chemotherapy.
+
+ The primary efficacy analysis will be based on total Lean Body Mass (LBM) and physical function.
+
+.
+
+ Effect of GTx-024 on Muscle Wasting in Patients With Non-Small Cell Lung Cancer (NSCLC) on First Line Platinum@highlight
+
+The purpose of this study is to determine if the investigational drug GTx-024 can help patients with non small cell lung cancer increase physical function and maintain or gain muscle.
+

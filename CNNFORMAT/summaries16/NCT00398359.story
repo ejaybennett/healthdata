@@ -1,0 +1,58 @@
+(fifthQuint)Treatment of Childhood Obesity in Primary Care.
+
+ Overweight in children, adolescents and adults has increased dramatically during the last two decades in developed and developing nations, leading to a global epidemic.
+
+ Current trends in childhood overweight are a function of both poor nutrition and an increase in sedentary activities.
+
+ Pediatric health care providers are ideally situated to address this problem, especially since children are seen frequently for preventive care during the early years when intervention may be more likely to yield long-term change.
+
+ However, most pediatric providers do not have the needed training to manage obesity effectively.
+
+ This project will use the chronic care model to foster the effectiveness of an office-based intervention aimed at altering dietary intake and physical activity for children whose BMI reflects overweight and their parents.
+
+ With the support of the health care system (through new reimbursement strategies), office redesign (assignment of tasks to the health assistant, physician and behavioral interventionist), self-management techniques (patient training) and enhanced community resources, a successful program for improved nutrition and physical activity will be built.
+
+ Specific Aim 1 of this study is to increase physician use of counseling techniques that are effective in promoting positive behavior change regarding nutrition and physical activity in the pediatric primary care setting.
+
+ This aim will be accomplished by offering a training intervention for primary care pediatricians and health assistants.
+
+ The intervention will: 1.
+
+ Increase physician recognition of risk factors for overweight.
+
+ 2.
+
+ Teach physicians to use brief motivational strategies with parents and children that will assist them in taking steps toward healthier behavior as it relates to nutrition and physical activities, including but not limited to enrolling in a group behavioral treatment program.
+
+ Specific Aim 2 is to assess the effectiveness of implementing a pediatric primary care office-based nutrition/physical activity behavioral intervention for overweight and obese children and their parents.
+
+ In specific aim 2 we will employ trained behavioral interventionists to offer a family-based behavioral intervention targeting healthy eating and decreased sedentary behavior/increased physical activity to overweight/obese children ages 9-12 and their parents; and to evaluate parent and child adherence to attendance and behavioral intervention factors.
+
+ Self-monitoring reports of the child's behavioral changes (e.
+
+g.
+
+, decrease in number of "red foods"[foods high in calories and fat] consumed weekly and decreased time spent each week watching TV, using the computer, and playing video games) will be described, as will any changes in BMI.
+
+ Experienced behavioral interventionists will be trained in behavioral theory principles fundamental to the intervention that involve helping children and their parents to change behavior and maintain the changes by Dr.
+
+ Ewing (Co-Investigator).
+
+ Dr Ewing, who has completed Human Subjects and HIPAA training at the University of Pittsburgh will come to Madison, Wisconsin to do a training session for the behavioral interventionists and study coordinator.
+
+ In addition, she will provide instruction in principles of weight management, the role of healthy eating and physical activity in maintaining a healthy weight, and the empirical support for the intervention that will be offered.
+
+ Finally, the interventionists will receive training to conduct each of the individual sessions.
+
+ The American Academy of Pediatrics (AAP) recommends that overweight children be screened for fasting blood glucose, fasting blood insulin, and serum lipids.
+
+ Pre and post lab values that are available for participating children will be recorded.
+
+.
+
+ Treatment of Childhood Obesity in Primary Care@highlight
+
+This project will apply the concepts from the Chronic Care Model to the problem of pediatric obesity and proposes: 1) to assess the effectiveness of teaching primary care providers (in diverse practice settings) to use specific communication strategies with parents of overweight and obese children to help them take steps with their child toward healthy behavior change; 2) to offer core components of an efficacious evidence-based pediatric obesity treatment within the pediatric primary care setting to determine if participating children will achieve clinically meaningful weight loss (assessed as weight and BMI percentile changes at the end of treatment and at a six month follow-up); and 3) to assess the ability of trained, behavioral psychologists to offer the treatment so that desired child outcomes are achieved.
+
+ The primary project outcomes will include: 1) increase in self-reported physician confidence in use of counseling skills related to pediatric overweight; and 2) change in child's diet, physical activity, weight and BMI percentile at the end of treatment and at 6-month follow-up.
+

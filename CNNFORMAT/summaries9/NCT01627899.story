@@ -1,0 +1,11 @@
+(firstQuint)One Touch VerioIQ US Clinical Outcomes Study.
+
+ Evaluation of the clinical benefits of the One Touch VerioIQ system.
+
+ The system contains pattern alert technology and comes with educational material (Pattern guide) which provides additional support and insights to patients and health care providers to help them make more informed decisions during blood glucose management.
+
+.
+
+ One Touch VerioIQ US Clinical Outcomes Study@highlight
+
+Evaluation of the clinical benefits of One Touch VerioIQ system

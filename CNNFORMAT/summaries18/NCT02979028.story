@@ -1,0 +1,22 @@
+(thirdQuint)Transcutaneous Electrical Acupoint Stimulation (TEAS) on Aged Patients Undergoing Lower Extremity Arthroplasty.
+
+ The complications from patients accepted artificial joint replacement surgery will directly or indirectly affect the prognosis of the patients, resulting in patients with delayed recovery and increase the hospitalization time and cost.
+
+ Serious complications can lead to patients deaths during perioperative period.
+
+ It has been proved that the electroacupuncture application during perioperative period can reduce the dosage of anesthetic drugs, and has a good effect on the protection of the heart and brain.
+
+ At the same time, the electroacupuncture can also regulate the body's immune function, reduce allergy, reduce postoperative pain and so on.
+
+Compared with acupuncture, transcutaneous electric acupoint stimulation (TEAS) is a noninvasive technique that has similar effects to acupuncture.
+
+ The investigators hypothesize that TEAS before anesthesia and during surgery would decrease the morbidity and mortality of postoperative complications in 30 days after artificial joint replacement surgery.
+
+.
+
+ Transcutaneous Electrical Acupoint Stimulation (TEAS) on Aged Patients Undergoing Lower Extremity Arthroplasty@highlight
+
+This is a single center, randomized, double-blinded, controlled clinical trial.
+
+ The purpose of this study is to to determine whether treating by transcutaneous electrical acupoint stimulation (TEAS) during perioperative could alleviate the postoperative complications in patients undergoing artificial joint replacement surgery.
+

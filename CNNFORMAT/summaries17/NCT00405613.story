@@ -1,0 +1,15 @@
+(firstQuint)Aspirin Use and Postoperative Bleeding From Dental Extractions in a Healthy Population.
+
+ Aspirin is a common chronically administered preventive treatment for cardiovascular disease, but is often discontinued prior to invasive dental procedures because of concern of bleeding complications.
+
+ As the goal of aspirin is often to prevent MI and stroke, the risk of these CVD outcomes with discontinuation of aspirin must be weighed against the perceived adverse event of bleeding during or following an invasive dental procedure with continuation of aspirin.
+
+ The current study is a randomized controlled trial evaluating bleeding complications of aspirin vs.
+
+ placebo in healthy patients schedule for a single tooth extraction.
+
+.
+
+ Aspirin Use and Postoperative Bleeding From Dental Extractions in a Healthy Population@highlight
+
+The purpose of this study is to determine if aspirin is associated with bleeding complications following a single tooth extraction

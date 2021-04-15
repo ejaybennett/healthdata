@@ -1,0 +1,82 @@
+(fifthQuint)High Dose Ribavirin in the Treatment of Chronic Hepatitis C.
+
+ Background Prevalence and incidence of chronic hepatitis C (CHC) are rising worldwide.
+
+ Complications include chronic liver failure and hepatocellular carcinoma, and chronic hepatitis C is a major indication for liver transplantation.
+
+ Effective treatment is required to prevent these outcomes.
+
+ Current treatment consists of a combination of peginterferon (PegIFN) and ribavirin (RBV) given for 24 or 48 weeks depending on the viral genotype.
+
+ While genotypes 2 and 3 respond well to 24 weeks of PegIFN/RBV with approximately 80% viral clearance, genotype 1 infected patients only achieve about 40-50% sustained viral response (SVR) with 48 weeks of combination therapy.
+
+ RBV is a nucleoside analog with structural similarities to guanosine, which modulates RNA and DNA synthesis.
+
+ RBV reveals antiviral activity against respiratory syncytial (RS)-virus, influenza virus, Lassa virus uand others.
+
+ The exact mode of antiviral activity is yet unknown but believed to relate to reducing survival of HCV-infected hepatocytes thereby allowing for elimination of infected cells by interferon-stimulated immune mechanisms.
+
+ Generally, RBV is well tolerated.
+
+ With standard daily doses between 1.
+
+000 and 1.
+
+200mg, irritability, sleeping abnormalities, cough and pruritus.
+
+ The most prevalent and typical side effect of RBV is a dose-dependent hemolytical anemia which responds well to dose reduction or interruption of RBV therapy.
+
+ RBV-associated anemia impairs quality of life and, overall, 25-36% of patients require dose reductions and/or RBV cessation.
+
+ However, reduction/cessation of RBV is associated with a significant drop of SVR and measures to maintain RBV doses are clearly warranted.
+
+ Several recent studies have shown that erythropoetin can counteract RBV-induced hemolytic anemia, and improve quality of life.
+
+ The relevance of RBV dose with regard to therapeutic response to combination therapy is well-established and currently, RBV is dosed according to weight: patients with CHC genotype 1 are treated with 1.
+
+000mg if body weight is 65kg.
+
+ Retrospective studies have shown that relapsers and non-responders to antiviral treatment with RBV had lower RBV levels than those who had a SVR.
+
+ In a retrospective analysis of 4 studies investigating a total of 1105 patients treated with RBV, RBV plasma concentrations measured at 4 weeks of treatment correlated with viral clearance: SVR was 31.
+
+8% in those with RBV levels 4,000ng/ml.
+
+ A pilot trial from Sweden investigated whether dosing RBV according to a plasma level of 15mcmol/l (3.
+
+7mcg/ml) in 10 patients.
+
+ Median RBV dose was 2.
+
+540mg/day and all patients received erythropoetin.
+
+SVR was achieved in 9 of 10 patients.
+
+ So far, a randomized, controlled trial comparing weight-based RBV (standard) vs.
+
+ RBV dosed according to kidney function and plasma levels.
+
+ Objective Comparison of efficacy and tolerability of treatment with PegIFN-alpha 2a + RBV dosed according plasma concentrations vs PegIFN-alpha 2a + weight-based RBV in patients with chronic hepatitis C genotype 1 Methods Prospective, controlled, open label randomized human trial.
+
+ High Dose Ribavirin in the Treatment of Chronic Hepatitis C@highlight
+
+Treatment of patients with chronic hepatitis C infected with genotype 1 hepatitis C virus (HCV) consists of combined peginterferon/ribavirin for 48 weeks.
+
+ Approximately 50% of patients experience sustained virological response which equals cure.
+
+ All other patients either do not respond or experience recurrence of HCV virus and chronic hepatitis.
+
+ Important predictors of successful treatment are sustained dosing of both peginterferon and ribavirin.
+
+ With regard to the latter, clinical evidence indicates that higher ribavirin doses may in fact even improve treatment outcome.
+
+ However, high ribavirin doses cause hemolytic anemia which require dose reductions.
+
+ Recent clinical experience show that erythropoetic growth factors, including erythropoetin, can counteract hemolytic anemia caused by antiviral treatment in chronic hepatitis C patients.
+
+ Therefore, the current trial aims to test whether higher ribavirin doses adapted to a target plasma concentrations instead of a weight-based dosing result in better healing rates, and whether ribavirin-associated hemolytic anemia can be compensated by concommitant erythropoetin treatment.
+
+ Using a randomized, controlled, open-label design, the investigators hypothesize that patients with high ribavirin doses adapted to plasma levels experience better viral clearance than patients treated with standard weight-based ribavirin doses.
+
+ In addition, the investigators hypothesize that erythropoetin treatment will counteract hemolytic anemia induced by ribavirin thereby allowing maintenance of target plasma concentrations without ribavirin dose reductions.
+

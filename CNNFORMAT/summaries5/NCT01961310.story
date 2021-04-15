@@ -1,0 +1,36 @@
+(secondQuint)Evaluation of the Intestinal Microbiota and Bacterial Translocation in Patients With Rheumatoid Arthritis.
+
+ The secondary objectives of this study are : - A.
+
+ To compare between the two groups : - a.
+
+ The proportion of Proteus mirabilis in the intestinal microbiota; - b .
+
+ The proportion of species producing peptidyl arginine deaminase (PAD ) in the intestinal microbiota; - c .
+
+ The number of species found in the intestinal microbiota.
+
+ - B.
+
+ To evaluate bacterial translocation (from the digestive tract) in newly diagnosed RA patients with and healthy volunteers without RA.
+
+ (Bacterial translocation is a phenomenon in which live bacteria or a part of bacteria (e.
+
+g.
+
+ LPS teichoic acid) cross the intestinal barrier and reach the bloodstream.
+
+).
+
+ - C.
+
+ To describe the ecology of the intestinal microbiota of newly diagnosed RA patients (characterization of species found according to their respiratory metabolism, according to their bacteriological characteristics, and according to whether or not the species are found significantly more frequently in patients with RA than in individuals without RA).
+
+.
+
+ Evaluation of the Intestinal Microbiota and Bacterial Translocation in Patients With Rheumatoid Arthritis@highlight
+
+The main objective of this study is to compare the intestinal microbiota in newly diagnosed rheumatoid arthritis (RA) with that from individuals without RA.
+
+ The first analysis will compare the proportion of filamentous bacteria in the intestinal microbiota between the two groups.
+

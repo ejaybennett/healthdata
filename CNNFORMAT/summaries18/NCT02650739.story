@@ -1,0 +1,18 @@
+(secondQuint)Optical Coherence Tomography-based Positioning for Macular Hole Surgery.
+
+ The efficacy of macular hole (MH) surgery with the halting of prone positioning by monitoring the MH closure in the swept source optical coherence tomographic (SS-OCT) images was compared with the surgery by the surgeon's decision.
+
+ All eyes were treated by pars plana vitrectomy, internal limiting membrane peeling, and gas tamponade.
+
+ MH closure was defined as a connection of the edges of the sensory retina in the SS-OCT images.
+
+The macular hole closure and visual outcome were compared.
+
+.
+
+ Optical Coherence Tomography-based Positioning for Macular Hole Surgery@highlight
+
+The efficacy of macular hole (MH) surgery with the halting of prone positioning by monitoring the MH closure in the swept source optical coherence tomographic (SS-OCT) images was compared with the surgery by the surgeon's decision.
+
+ The macular hole closure and visual outcome were compared.
+

@@ -1,0 +1,30 @@
+(thirdQuint)Randomized, Double Blind Trial of the Quadrivalent HPV Vaccine to Improve Responses to LEEP Treatment of Cervical HSIL.
+
+ This is a single-center, randomized, double-blinded, placebo-controlled, phase II trial of the quadrivalent human papillomavirus vaccine (qHPV) in HIV-infected women to prevent occurrence of cervical HSIL after LEEP/LLETZ.
+
+ Participants will undergo colposcopy with directed biopsies, cervical cytology, and stored HPV testing prior to vaccination.
+
+ Participants will be randomized to the quadrivalent vaccine or saline placebo to be given at entry, week 4, and week 26.
+
+ Women will have LEEP treatment at week 4.
+
+ Participants will be seen in follow-up for cervical cytology, colposcopy with directed biopsies at weeks 26 and 52, and stored HPV specimens.
+
+ Treatment assignment will be unblinded after study follow-up is completed for the last study participant.
+
+ Women aged 45 or less randomized to placebo will be offered open label HPV vaccine after the study is concluded.
+
+.
+
+.
+
+ Randomized, Double Blind Trial of the Quadrivalent HPV Vaccine to Improve Responses to LEEP Treatment of Cervical HSIL@highlight
+
+Cervical cancer occurs commonly in HIV-infected women in South Africa.
+
+ These women have poor response to treatment of cervical cancer precursors.
+
+ This study will test whether giving the quadrivalent vaccine to women prior to surgical treatment of the cervical cancer precursor will improve outcomes.
+
+ We hypothesize that pre-treatment HPV vaccine will result in a reduced occurrence or cervical cancer precursors in follow-up.
+

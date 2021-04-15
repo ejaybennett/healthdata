@@ -1,0 +1,30 @@
+(thirdQuint)Laryngeal Preservation in Pyriform Sinus Carcinoma.
+
+ Objectives: To compare conventional radiotherapy with concurrent cisplatin to induction chemotherapy with cisplatin fluorouracil followed by conventional radiotherapy.
+
+ The primary end point was the preservation of the larynx.
+
+ The secondary end points included toxicity, causes of death and survival rates.
+
+ Design: Multicenter prospective randomized phase III trial.
+
+ Setting: Academic tertiary care center.
+
+ Patients: Seventy one adult patients with biopsy-proven previously untreated resectable T3 with fixed cord involvement squamous cell carcinoma of the pyriform sinus.
+
+ Main Outcomes Measures: Patients were evaluated for toxic reactions, and organ preservation and survival rates.
+
+ Statistical analysis of overall survival and event free survival was performed using the Kaplan Meier method.
+
+.
+
+ Laryngeal Preservation in Pyriform Sinus Carcinoma@highlight
+
+Patients were eligible if they had biopsy proven, previously untreated T3 with fixed cord involvement squamous cell carcinoma of the pyriform sinus.
+
+ The study compare conventional radiotherapy with concurrent cisplatin to induction chemotherapy with cisplatin fluorouracil followed by conventional radiotherapy.
+
+ The primary end point was the preservation of the larynx.
+
+ The secondary end points included toxicity, causes of death and survival rates.
+

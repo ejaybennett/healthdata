@@ -1,0 +1,18 @@
+(firstQuint)MRI of the Liver With Eovist.
+
+ Hepatocellular carcinoma (HCC), a form of liver cancer, is the seventh most common cause of cancer mortality in the US.
+
+ The incidence rate of HCC is increasing along with the incidence of Hepatitis B and C which are known to promote HCC.
+
+ Patients have a better prognosis (survival outlook) if HCC is found and treated at an early stage.
+
+ MRI is the best imaging modality for diagnosing HCC.
+
+ This study will compare standard MRIs and MRIs performed with a newly developed MR protocol to determine if it is possible to more confidently diagnose HCC.
+
+.
+
+ MRI of the Liver With Eovist@highlight
+
+The purpose of this study is to determine if a new magnetic resonance (MR) protocol is better at diagnosing liver lesions.
+

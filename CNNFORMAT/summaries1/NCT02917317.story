@@ -1,0 +1,12 @@
+(firstQuint)South China Prospective Cohort Study of Chronic Disease.
+
+ To investigate the risk factors and prediction biomarkers of chronic disease within adults aged 35-74 years in South China.
+
+ Following up the incidence of major chronic disease including stroke, coronary heart disease, cancer, chronic obstructive pulmonary disease, diabetes and hypertension.
+
+.
+
+ South China Prospective Cohort Study of Chronic Disease@highlight
+
+To investigate the risk factors and prediction biomarkers of chronic disease in adults aged 35-74 years.
+

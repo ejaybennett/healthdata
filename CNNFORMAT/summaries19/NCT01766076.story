@@ -1,0 +1,13 @@
+(firstQuint)Atorvastatin for HAART Suboptimal Responders.
+
+ The investigators have previously shown that up to 40% of HAART-treated adults have suboptimal CD4 recovery despite viral suppression.
+
+ The investigators have also shown that immune activation and exhaustion are significantly higher among patients that do not exhibit satisfactory rise in CD4 counts despite viral suppression (suboptimal responders); when compared with their counterparts with viral suppression and satifactory CD4 count recovery (optimal responders).
+
+ Given that atorvastatin changes immune activation in this pilot study, then larger studies can be done to understand its effect on CD4 count increase among suboptimal responders.
+
+.
+
+ Atorvastatin for HAART Suboptimal Responders@highlight
+
+We hypothesise that atorvastatin changes immune activation among HAART-treated adults with suboptimal cluster cell differentiation 4 (CD4) recovery by 25%

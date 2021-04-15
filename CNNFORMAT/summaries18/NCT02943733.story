@@ -1,0 +1,16 @@
+(secondQuint)Safety of TAS-102 in Combination With Temozolomide for Metastatic Pancreatic NETs.
+
+ The study is a two part phase 1B clinical trial consisting of three study periods: a screening period of 14 days or less, a treatment period, and a safety follow-up period 30 days after treatment discontinuation.
+
+ Part 1 is a dose finding phase with the objective to assess the safety and tolerability of the proposed drug combination and to identify the maximum tolerated dose (MTD) and a recommended phase 2 dose.
+
+ Part 2 is an open-label expansion study, which will enroll patients with metastatic pNETs who have not been previously treated with chemotherapy.
+
+ Part 2 will obtain further safety data of the proposed drug combination.
+
+.
+
+ Safety of TAS-102 in Combination With Temozolomide for Metastatic Pancreatic NETs@highlight
+
+The goal of this study is to establish maximum tolerated doses/recommended phase 2 dose (RP2D) of temozolomide (TMZ) and TAS-102 when these agents are used in combination and to evaluate the safety profile of this drug combination.
+

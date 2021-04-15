@@ -1,0 +1,14 @@
+(secondQuint)Global Registry: ExAblate Neuro MR Guided Focused Ultrasound (MRgFUS) of Neurological Disorders:.
+
+ A global, multi-center, open-label, observational registry to capture safety and effectiveness data related to ExAblate Neuro, an MRI guided focused ultrasound device designed to lesion tissue deep within the brain using sound waves without the need for craniotomy.
+
+ This registry includes certain regional and country specific approved thalamotomy and pallidotomy procedures using ExAblate Neuro for the treatment of various neurologic disorders such as essential tremor, Parkinson's movement disorders, and neuropathic pain.
+
+ Treatment targets/indications are country/region dependent based on approved labeling within that region.
+
+.
+
+ Global Registry: ExAblate Neuro MR Guided Focused Ultrasound (MRgFUS) of Neurological Disorders:@highlight
+
+A global post approval study to collect safety and effectiveness data related to ExAblate Neuro for the treatment of certain disorders such as Essential Tremor, Parkinson's Movement Disorders, or Neuropathic Pain within the thalamus and/or pallidum.
+

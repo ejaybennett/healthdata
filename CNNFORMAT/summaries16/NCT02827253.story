@@ -1,0 +1,26 @@
+(thirdQuint)Morphological Changes of the Brain by MRI in Chronic Kidney Disease.
+
+ There will be two groups: one in haemodialysis treatment and the other with chronic kidney disease patients in advanced stages (stages 4 and 5 defined by KDOQI guidelines).
+
+ Both groups will be evaluated with a MRI without contrast.
+
+ A second MRI to identify brains morphological changes will be performed in patients of the first group a year later and in patients of the second group that will have been begun haemodialysis six months after.
+
+ In a first transverse evaluation, eighteen haemodialysis sessions from the first group will be studied with a retrospective analysis.
+
+ The first three sessions of each month for six months before the MRI will be considered.
+
+ In each session the investigators will collect haemodynamic variables (systolic arterial blood pressure pre and post dialysis), intradialytic hypotension based on different definitions (Nadir90, Nadir100, Fall20, Fall30) and proper haemodialysis variables (KtV, convective transport).
+
+ In the first group and patients with CKD that will start haemodialysis, the investigators analyse the variables considered in the transverse evaluation until complete one year follow up.
+
+ Statistical analysis will be done with SPSS version 20.
+
+.
+
+ Morphological Changes of the Brain by MRI in Chronic Kidney Disease@highlight
+
+The purpose of this study is to describe brains morphological changes induced by chronic kidney disease (CKD) in advanced stages (stages 4 and 5 defined by KDOQI guidelines) and also by haemodialysis using MRI.
+
+ Based on the hypothesis that hypotension may cause damage in some organs including brain the investigators study if intradialytic hypotension (IDH) causes any type of changes in gray and white matter of the brain.
+

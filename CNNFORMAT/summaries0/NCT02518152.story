@@ -1,0 +1,20 @@
+(secondQuint)Platelet Rich Fibrin+1% Alendronate in Treatment of Chronic Periodontitis.
+
+ Background: Platelet-rich fibrin (PRF) is a second-generation platelet concentrate, act as reservoirs of growth factors and cytokines which are the key factors for regeneration of the bone and maturation of the soft tissue.
+
+ Alendronate (ALN), a potent member of bisphosphonate group is known to promote tissue regeneration by inhibiting osteoclastic bone resorption and promoting osteoblastogenesis.
+
+ The present study was designed to evaluate the combined efficacy of PRF and 1% ALN with open flap debridement (OFD) in treatment of intrabony defects in chronic periodontitis patients.
+
+ Methods: Ninety patients with single defects were categorized into three groups: OFD alone, OFD with PRF,OFD with PRF+1% ALN.
+
+ Clinical parameters; site specific plaque index (PI), modified sulcus bleeding index (mSBI), probing depth (PD), clinical attachment level (CAL) and gingival marginal level (GML) were recorded at baseline before surgery and 9 months post-operatively.
+
+ Percentage radiographic intra-bony defect depth reduction (IBD) was evaluated at baseline and 9 months.
+
+.
+
+ Platelet Rich Fibrin+1% Alendronate in Treatment of Chronic Periodontitis@highlight
+
+The present study is designed to evaluate the combined efficacy of Platelet Rich Fibrin (PRF) and 1% Alendronate (ALN) with open flap debridement (OFD) in treatment of intrabony defects in chronic periodontitis patients.
+

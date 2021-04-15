@@ -1,0 +1,26 @@
+(thirdQuint)Safety Study of Sorafenib Following Combined Therapy of Radiation and TACE for Liver Cancer.
+
+ Patients with solitary lesion (bigger than 5 cm in diameter) histologically or cytologically confirmed HCC receive TACE (1-3 cycles) plus 3DCRT/IMRT 4-6 weeks later.
+
+ Maintenance Sorafenib will be administered only for the patients with non-progression disease 4 to 6 weeks after the completion of radiotherapy.
+
+ The dose will be 400 mg, p.
+
+o.
+
+, twice a day.
+
+ Sorafenib will be continuously given for 12 months unless intolerable toxicities and/or tumor progression.
+
+ Hypothesis of the current study is that Sorafenib as a maintenance therapy after combined therapy of 3DCRT/IMRT and TACE is safe and superior to radiotherapy combined with TACE alone in terms of time to progression (TTP), progression-free survival (PFS) and overall survival (OS) in comparison to historical data.
+
+.
+
+ Safety Study of Sorafenib Following Combined Therapy of Radiation and TACE for Liver Cancer@highlight
+
+Patients with liver cancer will receive interventional therapy plus radiotherapy.
+
+ Maintenance Sorafenib will be taken after the completion of radiotherapy.
+
+ Hypothesis of the current study is that Sorafenib as a maintenance therapy is safe and superior to radiotherapy combined with interventional therapy in terms of survival in comparison to historical data.
+

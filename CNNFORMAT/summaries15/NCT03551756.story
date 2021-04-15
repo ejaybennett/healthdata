@@ -1,0 +1,11 @@
+(firstQuint)Assessment of Biomarkers in Patients With Decompensated Heart Failure and Underlying Coronary Artery Disease.
+
+ This is a cross-sectional, single center exploratory study of plasma biomarker levels in adults with decompensated heart failure and significant underlying coronary artery disease as compared with age-matched healthy controls.
+
+ Subjects will not receive a therapeutic treatment as part of this study and will undergo a single blood draw.
+
+.
+
+ Assessment of Biomarkers in Patients With Decompensated Heart Failure and Underlying Coronary Artery Disease@highlight
+
+Assessment of Biomarkers in Patients with Decompensated Heart Failure and Underlying Coronary Artery Disease

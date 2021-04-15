@@ -1,0 +1,86 @@
+(fifthQuint)Efficacy Study of "Imaginative Distention", a Self Managed Tool to Cope With Fatigue,Insomnia and Stress in pw Insomnia and pw MS.
+
+ Multiple sclerosis (MS) is a chronic neurological disorder with physical, emotional and cognitive symptoms.
+
+ The diagnosis and the unpredictable and variable nature of the disease have profound social and psychological impact on persons with MS (pw MS).
+
+ Fatigue, depression and disability are independent determinants of quality of life (QoL) and it is known that different kinds of stress may impact on disease activity.
+
+ The "Imaginative Distention" (ID) is a mind-body technique that combines relaxation, imagination and motor imagery.
+
+ ID derives from Progressive Muscle Relaxation Technique (PMRT) that was shown effective on fatigue in MS and in cancer patients, as well as cognitive behavioural psychotherapy, which includes relaxation.
+
+ Mind-body modalities appear safe.
+
+ ID can be easily learned and practised without any particular instrument and is also feasible in disabled pw MS.
+
+ The aim of our study is to evaluate the effectiveness of ID as supportive and integrative intervention to cope with MS.
+
+ We plan the first randomized controlled study (RCT) that will investigate the effectiveness of ID on fatigue (primary end point), disease specific QoL, insomnia, stress perception and physiological parameters.
+
+ The primary outcome is the change in fatigue recorded post-intervention.
+
+ Fatigue has a generically stress-related and a specifically disease-related component.
+
+ To estimate the effect of ID on the specific MS-related component of fatigue, we will also monitor two additional groups of subjects, one with insomnia (with fatigue and poor QoL but with lesser impact on health condition) and one under generic stress (health professionals, with fatigue and normal to poor QoL and limited if any impact on health condition).
+
+ Each study group - MS, insomnia, health professionals - will be randomised 1:1 to intervention or waiting list.
+
+ The design is therefore parallel, randomised, controlled vs.
+
+ no intervention, open, stratified by condition.
+
+ Enrolment is voluntary.
+
+ All participants will undergo a pre-evaluation visit which includes four self administered questionnaires (MFIS for fatigue, VRS Verbal Rating Scale for stress, ISI Insomnia Severity Index, MSQOL-54 Multiple Sclerosis Quality of Life), the EDSS Expanded Disability Status Scale and a brief cognitive screening for pw MS.
+
+ After randomization, ID is practiced in groups, once a week, for two months.
+
+ At the end, pw MS will be involved in focus groups to identify the agreement between investigator selected and patients-expected relevance of the outcomes used in the study, as well as other outcomes of relevance for the patients but not monitored in the study, to be possibly implemented in future trials.
+
+ Follow up evaluations at two, five and eight months will include EDSS and the self-administered questionnaires and, at five months, the cognitive screening.
+
+ If efficacy will be proved, ID could become a tool of empowerment to cope with MS, to reduce its negative impact on daily life and job performances and, possibly, to improve the adherence to pharmacological therapies.
+
+.
+
+ Efficacy Study of "Imaginative Distention", a Self Managed Tool to Cope With Fatigue,Insomnia and Stress in pw Insomnia and pw MS@highlight
+
+Imaginative Distention (ID) is proposed as supportive and integrative intervention to cope with fatigue, (principal end point), to cope with insomnia, stress perception and to improve QoL of pw MS, insomnia pw and health care personnel.
+
+ ID is safe and it can be easily learned and practised without of any particular instrument and also feasible in disabled pw.
+
+ This technique allows persons to experience the body as a source of well-being and not just fatigue, pain and disease.
+
+ ID can become a self managed tool of empowerment to cope with MS, to reduce its negative impact on daily life and job performances.
+
+ Adherence to pharmacological therapies could be improved using ID.
+
+ For pw MS ID could have specific and customizable rehabilitation implications to improve motor disability, as already seen in stroke patients.
+
+ The principal end point of the trial is verify ID efficacy on fatigue and its specificity on pw MS at the end of the training.
+
+ For this reason, ID efficacy will be tested in comparative terms too.
+
+ Among all possible comparison populations, we selected: pw insomnia, which is stress related disease and health personnel, because at risk of stress.
+
+ The control groups comparison permits to evaluate the specificity of ID on pw MS.
+
+ The three groups are randomised to intervention or waiting list.
+
+ The training is 8 weekly session long.
+
+ Self administered questionnaire are filled by participants before and after the training, and 3-6 months later.
+
+ The extent of change in outcome measure monitored in each exposed group vs.
+
+ unexposed will allow to separate the non-disease specific effect of ID from the MS-specific effect.
+
+ The difference in estimates will allow to determine the extent of the true effect of ID in pw MS.
+
+ All outcome measure will be compared among all groups mentioned and over time.
+
+ The study would identify also the most important outcome measures for MS patients questioning them in a focus group.
+
+ This aspect is very important because could differs from which clinicians and researchers think about.
+

@@ -1,0 +1,19 @@
+(secondQuint)Evaluation of Safety and Efficacy of the PrePexTM Device for Rapid Scale up of Adult MC Programs in Zimbabwe.
+
+ Models show that to have the highest impact on the HIV epidemic, circumcision of up to 80% of men in high prevalence countries, where MC rates are low, needs to be achieved (UNAIDS 2009; Manicaland HIV/STD Prevention Project, 2008; Bollinger, et al, 2009).
+
+ Hallett and colleagues in 2008 showed that for Zimbabwe specifically, HIV incidence could be reduced between 25% to 35% if about 50% of men are circumcised.
+
+ All modelings conducted show that MC programs must be part of a comprehensive HIV prevention package as MC alone will not tip the HIV epidemic into a terminal decline.
+
+ The PrePex Device offers hope for rapid scale up of adult male circumcision in resource limited settings.
+
+ Once the safety and efficacy have been established, it is important to conduct operations research to determine how best to implement both device and surgical circumcisions in the national program.
+
+ Thus, the Zimbabwe MOHCW is planning a three phase trial in order to determine the safety of the PrePexTM device, its performance and the ease of use in an implementation roll out.
+
+.
+
+ Evaluation of Safety and Efficacy of the PrePexTM Device for Rapid Scale up of Adult MC Programs in Zimbabwe@highlight
+
+The protocol, approved by the Medical Research Council, was issued to assess the safety and efficacy of the non-surgical device for applying it to the national scale up of adult male circumcision in Zimbabwe

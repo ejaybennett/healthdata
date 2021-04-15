@@ -1,0 +1,43 @@
+(fifthQuint)Comparison of Two Lower Limb Bypass Types : Prosthesis Versus Autologous Vein.
+
+ When medical treatments fail, critical ischemia of the lower limb often leads to surgery, i.
+
+e.
+
+ above knee femoro popliteal bypass.
+
+ This bypass can be performed with either DACRON or PTFE prosthesis or with the autologous saphenous vein.
+
+ The principle disadvantages of prosthesis are their prejudged worse permeability and the risk of infection.
+
+ Too few reliable randomised, multicentric studies in this indication comparing vein bypasses versus prosthesis bypasses have been conducted to firmly confirm the first argument.
+
+ Thus, the purpose of this multicentric, randomised, national study is to compare, 5 years after surgery, the permeability rate of above knee femoropopliteal bypass with vein versus prosthesis.
+
+ Primary and secondary permeability, permeability predictive factors, and leg salvage rate will also be assessed.
+
+ One hundred enrolled patients with II to IV level leg arteritis will randomly be assigned to one of the surgery groups : vein or prosthesis (50 each).
+
+ The recruiting period will last 3 years and a half, and the follow up 5 years for each patient.
+
+ The main primary outcome, bypass permeability, will be assessed through Doppler ultrasonography during five years.
+
+ Secondary endpoints, mortality and morbidity, will be evaluated during the clinical follow up.
+
+ Permeability predictive factors, primary and secondary permeability, leg salvage will also be recorded.
+
+ If the permeability rates are equivalent between prosthesis and vein, the use of prosthesis will be preferred as this surgery is easier and faster, and as it is important that the vein remains available for distal revascularisation (where it is more efficient) and for revascularisation of coronary arteries.
+
+ Comparison of Two Lower Limb Bypass Types : Prosthesis Versus Autologous Vein@highlight
+
+When medical treatments fail, critical ischemia of the lower limb often leads to surgery, i.
+
+e.
+
+ above knee femoro popliteal bypass.
+
+ This bypass can be performed either with DACRON or PTFE prosthesis or with the autologous saphenous vein.
+
+ Both technics are used but they have not been compared regarding bypass permeability and limb salvage.
+
+ Thus, this study will compare the permeability rate of above knee femoro popliteal surgery whether performed with autologous vein versus prosthesis

@@ -1,0 +1,12 @@
+(firstQuint)A Study to Evaluate the Pharmacokinetics of MEDI9929 (AMG 157) in Adolescents With Mild to Moderate Asthma.
+
+ The primary objective is to evaluate the PK profile of a single-dose of 140 mg subcutaneous (SC) administration of MEDI9929 (AMG 157) in adolescent subjects with mild to moderate asthma.
+
+ The secondary objective is to evaluate the safety and tolerability of MEDI9929 and to evaluate the immunogenicity of MEDI9929 (AMG 157).
+
+ The exploratory objective is to evaluate the effect of MEDI9929 (AMG 157) on pulmonary function.
+
+ A Study to Evaluate the Pharmacokinetics of MEDI9929 (AMG 157) in Adolescents With Mild to Moderate Asthma@highlight
+
+To evaluate the PK profile of a single-dose of 140 mg subcutaneous (SC) administration of MEDI9929 (AMG 157) in adolescent subjects with mild to moderate asthma.
+

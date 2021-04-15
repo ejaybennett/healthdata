@@ -1,0 +1,29 @@
+(secondQuint)Vaccine Therapy in Treating Patients With Recurrent Prostate Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ Determine the T-lymphocyte immune response in patients with recurrent adenocarcinoma of the prostate treated with prostate-specific antigen (PSA) peptide vaccine (PSA-3A; PSA: 154-163 [155L]) emulsified in Montanide ISA-51.
+
+ SECONDARY OBJECTIVES: I.
+
+ Determine the toxicity of this vaccine in these patients.
+
+ II.
+
+ Determine the effect of this vaccine on serum PSA level in these patients.
+
+ OUTLINE: This is a pilot study.
+
+ Patients receive prostate-specific antigen (PSA) peptide vaccine (PSA-3A; PSA: 154-163 [155L]) emulsified in Montanide ISA-51 subcutaneously once in weeks 0, 2, 4, 6, 10, 14, and 18 in the absence of disease progression* or unacceptable toxicity.
+
+ NOTE: *A rise in PSA alone is not considered disease progression.
+
+ After completion of study treatment, patients are followed at 1 and 4 weeks.
+
+.
+
+ Vaccine Therapy in Treating Patients With Recurrent Prostate Cancer@highlight
+
+This phase II trial is studying how well vaccine therapy works in treating patients with recurrent prostate cancer.
+
+ Vaccines made from peptides may help the body build an effective immune response to kill tumor cells

@@ -1,0 +1,18 @@
+(firstQuint)Effects of Narrative Writing Duration and Post-writing Processing Instructions on PTSD.
+
+ Previous research has established the potential for narrative writing about traumatic events to result in positive benefits for physical and psychological health.
+
+ Research has also provided evidence that written disclosure may reduce post-traumatic stress disorder (PTSD) symptoms.
+
+ Several mechanisms of action have been proposed to explain why written disclosure produces positive benefits, but all have focused on processes occurring during the writing session.
+
+ It has been suggested, however, that additional processing may occur after the writing exercises are over, yet no research has studied the influence of this processing on outcomes.
+
+ The current study proposes to directly measure how processing after participating in written disclosure affects physical and psychological outcomes.
+
+.
+
+ Effects of Narrative Writing Duration and Post-writing Processing Instructions on PTSD@highlight
+
+The current study proposes to directly measure how processing after participating in written disclosure about a traumatic life event affects physical and psychological outcomes.
+

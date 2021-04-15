@@ -1,0 +1,14 @@
+(secondQuint)Telemedicine Influence in the Follow up of the Type 2 Diabetes Patient.
+
+ The UKPDS study in type 2 diabetes and the DCCT in type 1, showed that intensive blood glucose control and the following HBA1c decrease were associated with a decrease of diabetic complications.
+
+ Introducing telecontrol elements in the real time follow up of the patients, should help to know continuously patient blood glucose profile and add if necessary immediately therapeutical variations, to maintain HbA1c levels as low as possible.
+
+ The study compares type 2 diabetes patients performing self monitoring of blood glucose, followed up by their family doctor in their primary care unit with the extra support of a real time teleassistance system with type 2 diabetes patients performing self monitoring of blood glucose, followed up by their family doctor in their primary care unit.
+
+.
+
+ Telemedicine Influence in the Follow up of the Type 2 Diabetes Patient@highlight
+
+The purpose of this study is to evaluate the impact of a a real time teleassistance system in the clinical evolution of type 2 diabetic patients on self monitoring blood glucose in the Public National Primary Care System.
+

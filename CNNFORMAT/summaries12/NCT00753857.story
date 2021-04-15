@@ -1,0 +1,16 @@
+(thirdQuint)The Drug Facts Box: Helping Consumers Understand Drugs for Risk Reduction.
+
+ This is a randomized study.
+
+ Participants are contacted by phone via random-digit dialing for initial interview using the computer-assisted telephone interviewing (CATI) system.
+
+ Eligible participants are then randomized to 1 of 2 intervention arms.
+
+ - Compare the effect of a prescription drug summary (one-page summary of drug information that includes a table with data on drug benefit and side effects) vs standard brief summary in direct-to-consumer advertisements on the comparisons of two drugs for the same indication, knowledge of drug efficacy and side effects of each drug, perceptions of drug efficacy and side effects of each drug - Comprehension of information contained in the drug facts box.
+
+ The Drug Facts Box: Helping Consumers Understand Drugs for Risk Reduction@highlight
+
+RATIONALE: The way in which information about a drug is provided may affect the ability of patients and doctors to understand how a drug works and the side effects of the drug.
+
+ PURPOSE: This randomized trial is studying how well a drug facts page works compared with a short drug summary in helping patients and doctors understand medical information.
+

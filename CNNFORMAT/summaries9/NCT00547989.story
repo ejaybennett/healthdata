@@ -1,0 +1,26 @@
+(firstQuint)Paravertebral Block, an Adjunct to General Anaesthesia for Breast Surgery?.
+
+ Usually breast tumour surgery in the Academic Hospital Maastricht is performed under general anaesthesia.
+
+ Perioperative pain management consists of paracetamol and naproxen preoperatively, opioids during surgery and local wound infiltration at the end of surgery with 10cc Bupivacaine 0.
+
+25%.
+
+ Postoperative pain management consists of paracetamol, occasionally combined with Naproxen, and if necessary Piritramide 0.
+
+2 mg/kg i.
+
+m.
+
+ Alternatively there is the possibility to perform breast surgery under a thoracic paravertebral block (PVB) with or without general anesthesia.
+
+ A PVB according to Eason and Wyatt (1) can be performed preoperatively with insertion of an end-hole catheter T3-T4.
+
+ With this technique we expect a better pain relief postoperatively.
+
+.
+
+ Paravertebral Block, an Adjunct to General Anaesthesia for Breast Surgery?@highlight
+
+Aim is to study if a paravertebral block as an adjunct to general anesthesia is a suitable technique for extended, one sided, breast surgery.
+

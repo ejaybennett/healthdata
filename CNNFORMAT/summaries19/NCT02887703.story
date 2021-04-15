@@ -1,0 +1,38 @@
+(fifthQuint)Augmenting Balance in Individuals With Cerebellar Ataxias.
+
+ Cerebellar ataxias are a group of degenerative neurological disorders, resulting in deficits in speech, limb control, balance, and gait.
+
+ Individuals with degenerative cerebellar ataxias are at a high-risk of falling and have progressive impairments in motor coordination resulting in unsteadiness in gait and posture.
+
+ No definitive treatment options are available for ataxia.
+
+ There is therefore a critical need to identify strategies to improve motor function and reduce falls in patients with ataxia.
+
+ Physical therapy has been demonstrated to improve motor function in subjects with cerebellar ataxia, but the gains in performance following balance training are modest.
+
+ Sensory augmentation is a technique of augmenting or replacing compromised sensory information.
+
+ In the context of sensory-based balance impairments, a sensory augmentation device provides cues of body motion that supplement an individual's remaining intact sensory systems.
+
+ The investigators hypothesize that sensory augmentation may improve the effectiveness of balance training in individuals with ataxia, and aid in greater improvement in motor function than traditional physical therapy alone.
+
+ Sensory augmentation has been shown to decrease body sway during real-time operation in a laboratory setting in individuals with vestibular deficits and peripheral neuropathy, and general age-related declines in balance performance.
+
+ Preliminary results suggest that persistent improvements in balance performance exist over time periods of hours to days following a small number of training sessions.
+
+ This study aims to characterize the effects of sensory augmentation in individuals with ataxia during static and dynamic balance exercises over a period of twelve weeks of in home balance training with and without vibrotactile sensory augmentation.
+
+.
+
+ Augmenting Balance in Individuals With Cerebellar Ataxias@highlight
+
+This study evaluates the effectiveness of a 12-week in home balance training program with and without sensory augmentation for individuals with ataxia.
+
+ Subjects wear a belt while performing balance exercises three times per week for 12 weeks.
+
+ The belt measures body motion and has small vibrating elements called tactors mounted inside that when turned on, feel like a cell phone set to vibrate.
+
+ The tactors provide information about body motion and indicate when and how to make a postural correction.
+
+ Subjects will receive six weeks of balance training with the tactors turned on and six weeks of balance training with the tactors turned off.
+

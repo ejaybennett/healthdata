@@ -1,0 +1,15 @@
+(firstQuint)Trial of Exemestane +/- MM-121 in Postmenopausal Women With Locally Advanced or Metastatic Estrogen Receptor Positive and/or Progesterone Receptor Positive Her2 Negative Breast Cancer.
+
+ The study is a double-blind, randomized Phase 2 trial of Exemestane +/- MM-121.
+
+ The trial is designed to demonstrate whether MM-121 + Exemestane is more effective than Exemestane alone in ER+ and/or PR+ and Her2 negative breast cancer patients that have failed first-line anti-estrogen therapy in the locally advanced or metastatic setting and patients that have progressed during (or within 6 months of completing) adjuvant treatment with a non-steroidal aromatase inhibitor (AI)and/or tamoxifen.
+
+ Patients will be treated until radiologic or clinical progression of their disease is documented.
+
+ Local radiologist and/or PI assessment is accepted.
+
+.
+
+ Trial of Exemestane +/- MM-121 in Postmenopausal Women With Locally Advanced or Metastatic Estrogen Receptor Positive and/or Progesterone Receptor Positive Her2 Negative Breast Cancer@highlight
+
+To determine whether the combination MM-121 + Exemestane in ER+ and/or PR+ breast cancer patients is more effective than Exemestane alone

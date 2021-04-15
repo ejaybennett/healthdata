@@ -1,0 +1,34 @@
+(thirdQuint)TXA in the EMS on the Helicopter and the Ambulance.
+
+ Coagulopathy in trauma increases mortality and morbidity.
+
+ Early administration of tranexamic acid (TXA) seems to improve survival and outcome; this was shown partially by the CRASH2 study, where patients received TXA in the emergency room.
+
+ Thus this study evaluates the administration of TXA on scene by the EMS or by the crew of a rescue helicopter in multiple trauma patients or isolated TBI.
+
+ Coagulopathy will be assessed by standard laboratory tests as well as thromboelastometry in 50 patients.
+
+ The results will be compared to a study published by Theusinger et al.
+
+ (Changes in Coagulation in Standard Laboratory Tests and ROTEM in Trauma Patients Between On-Scene and Arrival in the Emergency Department.
+
+Theusinger OM et al.
+
+ Anesth Analg.
+
+ 2014 Dec 24.
+
+ [Epub ahead of print] PMID: 25545751) where no TXA was administered on scene and only changes in coagulation between on scene and in the emergency department were assessed.
+
+.
+
+ TXA in the EMS on the Helicopter and the Ambulance@highlight
+
+Coagulopathy in trauma increases mortality and morbidity.
+
+ Early administration of tranexamic acid (TXA) seems to improve survival and outcome.
+
+ Thus this study evaluates the administration of TXA on scene by the emergency medical services (EMS) or by the crew of a rescue helicopter in multiple trauma patients or isolated traumatic brain injury (TBI).
+
+ Coagulopathy will be assessed by standard laboratory tests as well as thromboelastometry.
+

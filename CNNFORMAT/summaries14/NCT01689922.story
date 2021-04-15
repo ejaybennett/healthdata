@@ -1,0 +1,20 @@
+(secondQuint)The Effectiveness of Anti-Gravity Treadmill Training.
+
+ A prospective, randomized, parallel group controlled clinical study is proposed.
+
+ The patients will be divided into the two study groups according to the surgical procedure: 1.
+
+ patients undergoing one-level microdiscectomy for lumbar herniated disc 2.
+
+ patients undergoing one-level lumbar fusion for degenerative disc disease without notable spinal stenosis.
+
+ Each group will consist of 60 patients (see sample size calculations below) who will be randomized into the two equal groups to undergo: 1.
+
+ Standard postoperative rehabilitation program 2.
+
+ Standard postoperative rehabilitation program with addition of lower body positive pressure (LBPP) treadmill training.
+
+ The Effectiveness of Anti-Gravity Treadmill Training@highlight
+
+The primary objective of this study is to compare the effectiveness of standard for our practice postoperative physical therapy (PT) program to a PT program that incorporates lower body positive pressure (LBPP) treadmill training for the patients after lumbar discectomy and fusion surgeries.
+

@@ -1,0 +1,11 @@
+(secondQuint)Volar Locked Plating vs Bridging External Fixation in Distal Radius Fracture.
+
+ We have designed a randomized prospective study for comparison of volar locked plating versus Hoffman II bridging external fixation in patients with extraarticular dislocated distal radius fractures AO/OTA type A3.
+
+ On the basis of power analysis a total of 160 patients are to be included in this project.
+
+ The follow-up period is 1 year and evaluation is based on x-ray analysis, grip strength, range of motion, pain and satisfaction with the treatment ( PRWE, Quick-DASH).
+
+ Volar Locked Plating vs Bridging External Fixation in Distal Radius Fracture@highlight
+
+The purpose of this study is to evaluate function, pain and radiographic evaluation in patients treated with volar locked plating versus Hoffman II bridging external fixation in patients with extraarticular distal radius fractures, AO/OTA type A

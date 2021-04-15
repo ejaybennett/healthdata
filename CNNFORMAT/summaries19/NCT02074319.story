@@ -1,0 +1,16 @@
+(secondQuint)RCT of Methotrexate Added to Treatment As Usual in Schizophrenia.
+
+ The purpose of the study is to test the prediction that addition of methotrexate to treatment as usual (TAU) for patients with schizophrenia will result in following outcomes: - Primary: - improvement in negative symptoms - improvement in positive symptoms - Secondary: - improvement in social functioning - improvement in cognitive functions - acceptability and tolerability of methotrexate added to TAU A total 72 participants (36 participants in intervention group and 36 in control group) meeting inclusion criteria of the study will be recruited and randomized in study in two arms.
+
+ Research assistants and participating psychiatrists will assess participants for eligibility criteria.
+
+ After providing detailed information regarding study by using patient information sheet, written informed consent will be taken from participants.
+
+ Trained research assistant will asses participants at baseline, 2, 4, 6 and 12 weeks.
+
+.
+
+ RCT of Methotrexate Added to Treatment As Usual in Schizophrenia@highlight
+
+The aim of the this study is to evaluate the effectiveness of methotrexate added to treatment as usual on positive and negative symptoms, cognitive and social functioning and quality of life of patients suffering from schizophrenia.
+

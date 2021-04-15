@@ -1,0 +1,42 @@
+(thirdQuint)Safety and Acceptability of SPL7013 Gel (VivaGel) in Sexually Active Women.
+
+ Women continue to comprise a growing proportion of the new HIV infections around the world.
+
+ A growing body of data suggests that a safe and effective topical microbicide will be a real option of prevention for women in the future.
+
+ The purpose of this study is to assess the safety and acceptability of 3% SPL7013 Gel when administered intravaginally, twice daily for 14 consecutive days in healthy, sexually-active, HIV-uninfected women.
+
+ The expected duration of this study for each participant is 21 days.
+
+ Study participants will be randomly assigned to one of two arms.
+
+ Participants in Arm 1 will apply 3.
+
+5 g of SPL7013 gel intravaginally twice daily for 14 consecutive days.
+
+ Participants in Arm 2 will apply a placebo gel intravaginally twice daily for 14 consecutive days.
+
+ Starpharma produces SPL7013 gel (VivaGel) and will provide it for this study.
+
+ After enrollment, participants will attend three study visits.
+
+ These visits will occur on Days 7, 14, and 21.
+
+ A follow-up safety visit will occur if necessary.
+
+ Medical and menstrual history, targeted physical exam, urine and blood collection, cervical swabs, and vaginal smears will occur at all visits.
+
+ A colposcopy will occur at least once.
+
+ On Day 2, participants will take part in a phone assessment.
+
+.
+
+ Safety and Acceptability of SPL7013 Gel (VivaGel) in Sexually Active Women@highlight
+
+There is an urgent need for HIV prevention methods that women can initiate and control themselves.
+
+ Topical microbicides, substances that kill microbes, represent one such method.
+
+ The purpose of this study is to assess the safety and to evaluate the acceptability of 3% w/w SPL7013 gel, a topical microbicide, when administered intravaginally for 14 consecutive days in healthy, sexually active HIV uninfected women.
+

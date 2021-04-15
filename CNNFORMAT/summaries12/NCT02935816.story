@@ -1,0 +1,20 @@
+(thirdQuint)Localising Occult Prostate Cancer Metastases With Advanced Imaging TEchniques.
+
+ The investigators have developed and assessed the feasibility of performing whole---body multi---parametric MRI for staging metastatic disease.
+
+ The investigators hypothesize that a whole body multi---parametric MRI will be more sensitive and specific than conventional imaging staging for detection of metastatic disease in patients with biochemical failure following local therapies.
+
+ Investigators therefore propose a comparative trial of conventional imaging verses whole---body multi---parametric MRI within this population of men.
+
+ The investigators would further like to explore whether heterogeneity between metastases of multi---parametric MRI signals can predict men unlikely to respond to ADT.
+
+ The investigators aim to enhance the main study by exploratory work on exosome, pathway and genomic analysis, the results of which could lead to complimentary imaging / non---imaging biomarker combinations of clinical utility for patient stratification.
+
+ Finally the investigators will perform a health economic analysis to assess the cost---effectiveness of whole---body multi---parametric MRI for metastatic disease staging compared with conventional staging with computed tomography and bone---scans.
+
+.
+
+ Localising Occult Prostate Cancer Metastases With Advanced Imaging TEchniques@highlight
+
+The investigator prospectively compare diagnostic concordance of whole body multi---parametric Magnetic Resonance Imaging (MRI) with current conventional multi---modality reference standard imaging (CT scan, isotope bone scan +/--- PET---CT scan) for staging of prostate cancer patients with biochemical relapse following external beam radiotherapy or brachytherapy of locally advanced prostate cancer.
+

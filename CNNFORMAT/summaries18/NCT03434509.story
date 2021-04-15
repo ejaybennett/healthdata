@@ -1,0 +1,112 @@
+(fifthQuint)Ongoing Tai Chi Training for Children With ADHD.
+
+ Persistent poor outcomes for individuals with ADHD make it imperative to explore intervention approaches beyond medication, particularly interventions that could provide sustained improvements in control of hyperactive, impulsive and distractible behavior.
+
+ Two lines of evidence converge to support a movement-based mindfulness training intervention as a potential stand-alone or adjunct treatment for the treatment of ADHD symptoms.
+
+ First, decades of research, including from the CNIR, has established that many children with ADHD show impairments in motor control that parallel impairments in behavioral and cognitive control.
+
+ Second, there is mounting evidence that movement-based mindfulness interventions are effective for enhancing behavioral control in adults, although there has been limited examination in children.
+
+ Pediatric applications of mindful movement training remain under-utilized and under-investigated.
+
+ Critically, there is currently no solid evidence regarding the long-term effects of mindfulness-based approaches for children with developmental challenges.
+
+ By engaging in extended practice, the investigators expect to effect more readily quantified changes in motor system targets that mediate changes in cognitive ADHD symptoms.
+
+ These lines of evidence suggest an outstanding opportunity for development of long-term novel treatment approaches for ADHD through engagement of the motor system.
+
+ In this application the investigators propose to examine the efficacy of a specific movement-based mindfulness intervention for children with ADHD - Tai Chi.
+
+ This approach was chosen for a number of reasons: 1) extensive documentation in the research literature, 2) engagement afforded by a martial approach to mindful movement, and 3) scalability given the existing availability of Tai Chi instruction in the United States and the ease of performing gentle Tai Chi movements even in the presence of physical limitation.
+
+ The CNIR has evaluated the impact of Tai Chi training on specific motor behavioral (e.
+
+g.
+
+, motor overflow, motor impersistence) and physiologic (TMS assessment of SICI) measures, as well as direct measures of clinical severity.
+
+ Interestingly, while robust changes in ADHD symptoms have been observed, motor system targets have proven more challenging to characterize via laboratory methods in spite of obvious development of proficiency in tai chi movement skills.
+
+ The investigators will therefore engage in a follow-on intervention of greater duration that may help elucidate changes that were difficult to detect following an initial 8-week tai chi intervention.
+
+ By extending the intervention, markers useful in targeting and monitoring intervention may be better identified, with the overarching long-term goal of optimal use of Tai Chi and other movement-based approaches to help children with ADHD gain increased control of impulsive, hyperactive, and distractible behavior.
+
+ The results of this investigation will lay the groundwork for future clinical trials evaluating movement training as an effective intervention for ADHD that could bolster (supplement) or even replace current standard treatments.
+
+ Overview of intervention Tai Chi is a form of exercise with a variety of components and a strong cultural tradition.
+
+ In consultation with experienced teachers of Tai Chi, the investigators have received consistent feedback that "martial applications," and specifically push hands, will likely be a valuable component of training for children with high distractibility.
+
+ Central to the martial practice of Tai Chi is a collaborative game called "Push Hands," in which partners attempt to push one another off balance without the use of strong effort.
+
+ Push hands, and other Tai Chi inspired "games" will be used to motivate engagement in slower, more focused movement training: Tai Chi warm-up, postural and breathing exercises, and a section of a Tai Chi form.
+
+ These components are expected to collectively drive learning and development of behavioral control in the motor domain, with high potential for impact on other features of ADHD.
+
+ The mindful movement instructors have extensive experience with youth instruction, as well as a keen understanding of the relationships between Tai Chi and other mindful movement practices (i.
+
+e.
+
+ yoga).
+
+ An assistant instructor will additionally be engaged to assist with maintaining class focus.
+
+ All instructors will be certified for ethical treatment of human subjects, as well as standards for youth physical education.
+
+ Sessions will be held in an athletic facility on the Kennedy Krieger Institute (KKI) Greenspring campus.
+
+ The athletic facility was designed and equipped for children with a range of abilities as part of the LEAP Program (Life-skills and Education for Students with Autism and other Pervasive Behavioral Challenges).
+
+ It is advantageously located on a campus that is very convenient for most Baltimore area families.
+
+ The facility moreover has a high-impact floating rubber floor.
+
+ This environmentally friendly and slip-resistant flooring provides cushioning, which reduces fatigue and potential for injury to the participants during physical activities.
+
+ Recruitment and testing Participants will be recruited on a continuous and ongoing basis.
+
+ During the intervention training, children will participate in the movement-based Tai Chi training for one hour twice a week.
+
+ Up to ten students will participate per class.
+
+ Students' families will be allowed to participate in the Tai Chi training & will therefore cap the total amount of people at each class at 20.
+
+ It is expected that some students will be unable to successfully complete the study.
+
+ Enrollment procedures will be adapted if necessary.
+
+ As per the "intent to treat" approach, children will be included in primary analyses irrespective of adherence to protocol (i.
+
+e.
+
+, attendance).
+
+ However, children may be requested to leave the class if their absence becomes disruptive.
+
+ Pre-intervention data collection will occur at the start of participation in the intervention.
+
+ Further data collection will continue on a rolling basis with expected data collection every six months following at a Kennedy Krieger Institute facility.
+
+ In total, it is anticipated that 50 participants complete the training and data collection.
+
+.
+
+ Ongoing Tai Chi Training for Children With ADHD@highlight
+
+Attention Deficit Hyperactivity Disorder (ADHD) has tremendous individual and societal impact, and the effectiveness of current standard treatments is limited.
+
+ Thus, there are potential public health benefits for novel behavioral training programs that could remediate the core features of ADHD and contribute to sustained improvements in behavioral control.
+
+ There is mounting evidence that children with ADHD show difficulties with motor control, and that these motor deficits are strongly associated with the core behavioral features of ADHD.
+
+ Based on this information, the CNIR initiated a feasibility trial of a movement-based intervention, utilizing Tai Chi practice, targeting improved behavioral control through engagement of the motor system and results are highly promising.
+
+ The investigators therefore will employ an extension of our ongoing Tai Chi programs for children with ADHD, beginning with children who have already completed one of the previous Tai Chi sessions.
+
+ This program will provide the basis for studying the long-term effects of mindful movement, as well as creating a foundation for exploring the way that such interventions can be expanded into a more realistic support setting for the community.
+
+ Hypothesis: After participating in the ongoing Tai Chi program, children with ADHD will show improvements in behavioral measures of motor, cognitive, and attentional control.
+
+ The investigators further expect movement-based training will result in decreases in ADHD symptom severity.
+

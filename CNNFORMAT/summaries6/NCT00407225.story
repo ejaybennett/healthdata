@@ -1,0 +1,16 @@
+(firstQuint)Study of Difluprednate Ophthalmic Emulsion in the Treatment of Postoperative Inflammation.
+
+ The objective is to assess the efficacy and safety of 0.
+
+002% and 0.
+
+05% difluprednate ophthalmic emulsions in patients with postoperative inflammation after cataract surgery (implantation of intraocular lens).
+
+ In addition, the evaluation system for a future dose-finding phase III study of difluprednate ophthalmic emulsion will be established.
+
+.
+
+ Study of Difluprednate Ophthalmic Emulsion in the Treatment of Postoperative Inflammation@highlight
+
+The purpose of this phase 2 study is to determine if difluprednate ophthalmic emulsion is effective in the treatment of postoperative inflammation.
+

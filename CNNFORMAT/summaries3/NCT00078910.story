@@ -1,0 +1,34 @@
+(thirdQuint)Neoadjuvant Exisulind in Treating Patients Who Are Undergoing Radical Prostatectomy for Stage II or Stage III Prostate Cancer.
+
+ OBJECTIVES: Primary - Compare the effect of neoadjuvant exisulind vs no neoadjuvant treatment on apoptosis in patients with stage II or III prostate cancer undergoing radical prostatectomy.
+
+ Secondary - Determine the effect of this drug (preoperatively) on surrogate endpoint biomarkers (i.
+
+e.
+
+, prostate-specific antigen, high-grade prostatic intraepithelial neoplasia, MIB-1, and DNA ploidy) in these patients.
+
+ OUTLINE: This is a nonrandomized, controlled study.
+
+ Patients are assigned to 1 of 2 groups based on the treating physician.
+
+ - Control group: Patients undergo radical prostatectomy only.
+
+ - Treatment group: Patients receive oral exisulind once daily for 4 weeks.
+
+ Patients then undergo radical prostatectomy.
+
+ Patients are followed at 1 month.
+
+ PROJECTED ACCRUAL: A total of 130 patients (65 per group) will be accrued for this study within approximately 10-12 months.
+
+.
+
+ Neoadjuvant Exisulind in Treating Patients Who Are Undergoing Radical Prostatectomy for Stage II or Stage III Prostate Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as exisulind, work in different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Giving a chemotherapy drug before surgery may shrink the tumor so that it can be removed.
+
+ PURPOSE: This phase II trial is studying how well neoadjuvant exisulind works in treating patients who are undergoing radical prostatectomy for stage II or stage III prostate cancer.
+

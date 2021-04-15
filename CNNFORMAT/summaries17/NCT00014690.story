@@ -1,0 +1,46 @@
+(thirdQuint)ZD9331 With or Without Topotecan in Treating Patients With Refractory or Recurrent Epithelial Ovarian Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer.
+
+ OBJECTIVES: I.
+
+ Compare the efficacy of ZD9331 with or without topotecan in patients with refractory or recurrent ovarian epithelial, primary peritoneal, or fallopian tube cancer.
+
+ II.
+
+ Compare the tolerability of these regimens in these patients.
+
+ III.
+
+ Compare the objective tumor response rate, progression-free survival, and disease control in patients treated with these regimens.
+
+ IV.
+
+ Compare the quality of life of patients treated with these regimens.
+
+ OUTLINE: This is a randomized, open-label, multicenter study.
+
+ Patients are randomized to 1 of 3 treatment arms.
+
+ Arm I: Patients receive ZD9331 IV over 30 minutes on days 1 and 8.
+
+ Arm II: Patients receive a higher dose of ZD9331 IV over 30 minutes on days 1 and 8.
+
+ Arm III: Patients receive ZD9331 as in arm I and topotecan IV over 30 minutes on days 1-5.
+
+ All arms: Treatment repeats every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Quality of life is assessed at baseline, on the first day of each course, and then at study withdrawal.
+
+ Patients are followed at day 30, every 9 weeks until disease progression, and then every 6 months thereafter.
+
+ PROJECTED ACCRUAL: Approximately 130 patients will be accrued for this study within 5 months.
+
+.
+
+ ZD9331 With or Without Topotecan in Treating Patients With Refractory or Recurrent Epithelial Ovarian Cancer, Fallopian Tube Cancer, or Primary Peritoneal Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining two or more drugs may kill more tumor cells.
+
+ PURPOSE: Randomized phase II trial to study the effectiveness of different regimens of ZD9331 with or without topotecan in treating patients who have refractory or recurrent epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer.
+

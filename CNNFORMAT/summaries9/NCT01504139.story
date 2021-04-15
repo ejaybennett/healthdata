@@ -1,0 +1,12 @@
+(secondQuint)The Luteal Phase After GnRHa Trigger - a Proof of Concept Study.
+
+ The purpose of this study is to investigate levels of progesterone in the luteal phase after various stimulations in the follicular phase and treatment with GnRH antagonist protocol followed by GnRHagonist as induction of ovulation.
+
+ Furthermore the aim is to explore whether the luteal phase can be supported with small daily boluses of hCG without the administration of exogenous P, while maintaining good reproductive outcome.
+
+.
+
+ The Luteal Phase After GnRHa Trigger - a Proof of Concept Study@highlight
+
+The purpose of this study is to investigate levels of progesterone in the luteal phase after various stimulations in the follicular phase and treatment with GnRH antagonist protocol followed by GnRHagonist as induction of ovulation.
+

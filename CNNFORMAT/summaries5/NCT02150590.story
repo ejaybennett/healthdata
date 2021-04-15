@@ -1,0 +1,14 @@
+(firstQuint)Patients With Chronic Obstructive Pulmonary Disease at Altitude - Effect of Nocturnal Oxygen on Breathing and Sleep.
+
+ Patients with moderate to severe chronic obstructive pulmonary disease living below 800 m will be invited to participate in a randomized, cross-over field trial evaluating the hypothesis that nocturnal breathing and sleep during nights spent at moderate altitude are improved by oxygen therapy via a nasal cannula compared to room air (sham oxygen).
+
+ Outcomes will be assessed at low altitude (Zurich, 490 m, baseline), and during 2 study periods of 2 nights each spent at moderate altitude (St.
+
+ Moritz Salastrains, 2048 m) separated by a wash-out period of at least 2 weeks spent at low altitude (<800 m).
+
+.
+
+ Patients With Chronic Obstructive Pulmonary Disease at Altitude - Effect of Nocturnal Oxygen on Breathing and Sleep@highlight
+
+The purpose of this study is to investigate the effect of nocturnal oxygen therapy during a stay at moderate altitude on breathing and sleep of patients with chronic obstructive lung disease.
+

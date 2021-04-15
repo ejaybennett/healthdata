@@ -1,0 +1,28 @@
+(thirdQuint)Timing of Initiation of Continuous Glucose Monitoring in Established Pediatric Diabetes (The CGM TIME Trial).
+
+ REAL-Time Continuous Glucose Monitoring (RT-CGM) improves diabetes control in adults with type 1 diabetes.
+
+ However, studies of RT-CGM in children and adolescents have been mostly negative.
+
+ The lack of effectiveness in the pediatric population appears directly related to adherence to RT-CGM, i.
+
+e.
+
+, the willingness of children and teens to wear and use this technology.
+
+ Most previous RT-CGM studies have focused on experienced pump users or children with new-onset diabetes.
+
+ At the time of pump initiation, children and adolescents who have been living with diabetes (and their parents) are highly motivated to make changes in their diabetes management and to take on additional responsibilities to improve their diabetes control and lifestyle, the two primary reasons for initiating pump therapy in the pediatric population.
+
+ The investigators hypothesize that readiness for making changes in diabetes management will be greater at the time of pump initiation than at six months after the pump start.
+
+ Further, the investigators hypothesize that readiness for change at the time of RT-CGM initiation will predict future adherence to RT-CGM and its effectiveness.
+
+.
+
+ Timing of Initiation of Continuous Glucose Monitoring in Established Pediatric Diabetes (The CGM TIME Trial)@highlight
+
+The investigators hypothesize that REAL-Time Continuous Glucose Monitoring (RT-CGM) will be more effective if introduced in children and adolescents with established diabetes at the same time as they are starting pump therapy.
+
+ This randomized controlled trial will compare the effectiveness of simultaneous vs delayed introduction of RT-CGM in children and adolescents with type 1 diabetes who are starting insulin pump therapy.
+

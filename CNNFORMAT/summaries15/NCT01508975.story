@@ -1,0 +1,22 @@
+(firstQuint)Satiety Response of White and Brown Rice Compared to Glucose Control.
+
+ This study is an acute, randomized, repeated measures design with 20 subjects.
+
+ Subjects will consume 3 test breakfasts, white rice, brown rice, or glucose control, each containing 400 calories.
+
+ Treatments will be one week apart.
+
+ After consumption of the controlled breakfast, subjects will complete visual analogue scales (VAS) for satiety response.
+
+ Additionally, they will consume a pizza lunch and record food intake for the next 24 hours.
+
+ Breath gas samples will be collected to estimate fermentation of fiber in the large intestine.
+
+ Also, subjective data on gastrointestinal tolerance will be collected.
+
+.
+
+ Satiety Response of White and Brown Rice Compared to Glucose Control@highlight
+
+The investigators hypothesize that consumption of either white or brown rice will be more satiating than glucose control.
+

@@ -1,0 +1,16 @@
+(firstQuint)AMES Treatment of the Proximal Arm in Chronic Stroke.
+
+ This study seeks to determine whether 30 treatments with AMES, to the proximal affected arm of subjects with chronic stroke, will improve subjects' proximal arm active range-of-motion.
+
+ We hypothesize that the combination of assisted movement, torque biofeedback, and muscle vibration will reduce impairment (i.
+
+e.
+
+, increase strength and range-of-motion; decrease inappropriate patterns of muscle contraction) and, thereby, lead to more accurate reaching with the proximal arm.
+
+.
+
+ AMES Treatment of the Proximal Arm in Chronic Stroke@highlight
+
+Subjects will receive 30 treatments with AMES, to the proximal arm which has been affected by a chronic stroke.
+

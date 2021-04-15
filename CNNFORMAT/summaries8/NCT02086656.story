@@ -1,0 +1,13 @@
+(firstQuint)PERIOPERATIVE TREATMENT WITH COI-B (CAPECITABINE, OXALIPLATIN, IRINOTECAN AND BEVACIZUMAB) OF HIGH RISK OR BORDERLINE RESECTABLE COLORECTAL CANCER LIVER METASTASES.
+
+ Previous studies demonstrated a significant association between tumor regression grade of hepatic colorectal metastases (TRG1: complete pathological response; TRG2: major pathological response; TRG3: partial pathological response; versus TRG4-5 no pathological response) and outcome in terms of survival after neoadjuvant treatment.
+
+ In particular, retrospective data showed an association between oxaliplatin-based chemotherapy and improvement of grade and percentage of tumor regression; moreover, the addition of Bevacizumab seems to improve TRG over chemotherapy alone, conferring also a protection against liver damage due to chemotherapy-induced sinusoidal obstruction syndrome.
+
+ This is the rationale that induced us to carry out an evaluation and feasibility assessment of a perioperative approach with COI-B regimen in patients affected by high risk or borderline resectable colorectal liver metastases, with or without previous resection of primary tumor.
+
+.
+
+ PERIOPERATIVE TREATMENT WITH COI-B (CAPECITABINE, OXALIPLATIN, IRINOTECAN AND BEVACIZUMAB) OF HIGH RISK OR BORDERLINE RESECTABLE COLORECTAL CANCER LIVER METASTASES@highlight
+
+Capecitabine, oxaliplatin, irinotecan and bevacizumab as perioperative strategy of borderline and/or high risk resectable colorectal cancer liver metastases

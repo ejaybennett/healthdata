@@ -1,0 +1,42 @@
+(thirdQuint)Markers in the Diagnosis of TIA.
+
+ Rationale: A Transient Ischaemic Attack (TIA) does not cause permanent damage of brain tissue, but the risk of a subsequent ischemic stroke in the short term is high.
+
+ Timely recognition of TIA would result in early treatment and reduce the risk of ischaemic stroke, and other adverse cardiovascular events.
+
+ To improve the management of TIA adequate diagnosis is of imminent importance.
+
+ However the diagnosis is notoriously difficult, for both GP and neurologist.
+
+ Adequate biomarkers for brain ischaemia could improve the early diagnosis and thus the subsequent management of TIA.
+
+ Objectives: 1.
+
+ To assess the added diagnostic value of biomarkers beyond the clinical assessment (medical history, signs and symptoms) in patients suspected of TIA.
+
+ Secondary objectives 2.
+
+ To assess the prognostic value of biomarkers in patients with an established diagnosis of TIA.
+
+ 3.
+
+ To assess the time delay and factors related to delay in patients suspected of TIA.
+
+ Study population: 350 adult persons suspected of TIA from primary care.
+
+ Methods: Recruitment of patients will be performed at the general practices of 200 GPs in the vicinity of 4 to 5 participating hospitals.
+
+ During a home visit a research nurse collects a blood sample, and takes two health-related questionnaires.
+
+ Participants will be referred by their GP to the regional TIA outpatient clinic for additional investigations, including brain imaging.
+
+ The diagnostic accuracy of a set of biomarkers will be assessed with the 'definite' diagnosis of TIA by a panel of neurologists as the reference standard.
+
+.
+
+ Markers in the Diagnosis of TIA@highlight
+
+MIND-TIA is primarily an observational diagnostic study that aims to evaluate the role of novel biomarkers in the diagnosis of Transient Ischemic Attack (TIA)in primary care.
+
+ Rapid and adequate diagnosis of TIA is of great importance to enable a rapid start of treatment, and thereby decrease the risk of subsequent ischemic stroke.
+

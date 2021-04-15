@@ -1,0 +1,52 @@
+(fifthQuint)Optimizing Delivery of a Behavioral Cancer Pain Intervention Using a SMART.
+
+ The incidence of moderate to severe pain in cancer patients remains greater than 50%.
+
+ NIH guidelines recommend the implementation of behavioral cancer pain interventions into patient care.
+
+ Yet, implementation remains low.
+
+ Evidence on patient dose-response (i.
+
+e.
+
+, number of sessions, skills), intervention adaption based on initial response, and understanding personal characteristics related to differing dose-response can improve implementation by optimizing behavioral intervention delivery.
+
+ This trial is a sequential multiple assignment randomized trial (SMART), that will examine response to differing doses of a behavioral cancer pain intervention (Pain Coping Skills Training [PCST]) and subsequent response-based adjustments to doses.
+
+ Cancer patients with pain (N=327) will initially be randomized to receive either PCST-Full or PCST-Brief.
+
+ Participants who do not respond ( 30% pain reduction) to their initially assigned intervention will be re-randomized to either a maintenance dose or no further treatment.
+
+ Intervention responses will be (% reduction in pain) will be compared across conditions using a standard two-sided, two-sample t-test.
+
+ Techniques typically used for SMART studies will be used to compare intervention dosage sequences across PCTS that adjusts to initial dosage based on patient responses.
+
+ The risk and safety issues in this trial are low and limited to those common to a psychosocial intervention (e.
+
+g.
+
+, loss of confidentiality).
+
+.
+
+ Optimizing Delivery of a Behavioral Cancer Pain Intervention Using a SMART@highlight
+
+This trial is a sequential multiple assignment randomized trial (SMART), that will examine response to differing doses of a behavioral cancer pain intervention (Pain Coping Skills Training [PCST]) and subsequent response-based adjustments to doses.
+
+ Cancer patients with pain will initially be randomized to receive either PCST-Full or PCST-Brief.
+
+ Participants who do not report pain reduction to their initially assigned intervention will be re-randomized to receive either maintenance or an increased level of intervention.
+
+ Participants who report pain reduction to their initially assigned intervention will be re-randomized to either a maintenance dose or no further treatment.
+
+ Intervention responses will be compared across conditions using a standard two-sided, two-sample t-test.
+
+ Techniques typically used for SMART studies will be used to compare intervention dosage sequences across PCTS that adjusts to initial dosage based on patient responses.
+
+ The risk and safety issues in this trial are low and limited to those common to a psychosocial intervention (e.
+
+g.
+
+, loss of confidentiality).
+

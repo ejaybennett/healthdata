@@ -1,0 +1,24 @@
+(secondQuint)Efficacy of Pioglitazone/Metformin Combination Therapy in Subjects With Type 2 Diabetes Mellitus and Dyslipidemia.
+
+.
+
+ Insulin resistance is a major endocrinopathy preceding the development of hyperglycemia, diabetic dyslipidemia and cardiovascular disease in type 2 diabetes.
+
+ The most common pattern of dyslipidemia in patients with type 2 diabetes are elevated triglyceride levels, decreased hih-density lipoprotein cholesterol and a predominance of small dense low-density lipoprotein particles.
+
+ Each of these dyslipidemia features is associated with an increased risk of cardiovascular events.
+
+ Pioglitazone and Metformin are established drugs which can be used for the treatment of type 2 diabetes.
+
+ This study will investigate the effects of treatment with fixed Pioglitazone/Metformin combination therapy of Metformin and Glimepiride in Metformin-pretreated type 2 diabetic patients with dyslipidemia.
+
+ Total participation time in this study is anticipated to be approximately 24 weeks.
+
+.
+
+ Efficacy of Pioglitazone/Metformin Combination Therapy in Subjects With Type 2 Diabetes Mellitus and Dyslipidemia.
+
+@highlight
+
+The purpose of this study is to compare pioglitazone and metformin combination therapy, twice daily (BID), to glimepiride and metformin combination therapy for treating diabetic subjects with dyslipidemia.
+

@@ -1,0 +1,52 @@
+(fifthQuint)Hepatitis C Treatment in PWIDs: MAT or Syringe Exchange Assisted-therapy vs Standard of Care.
+
+ Hepatitis C has traditionally been treated in subspecialty health centers given the complexity of older pegylated interferon containing regimens, formerly the standard of care.
+
+ This model has persisted into the modern era of direct anti-viral agents (DAAs) despite their relative simplicity, creating a bottleneck of human resources necessary to fight the largest infectious epidemic in North America.
+
+ In addition, stigma and fear over cost has lead payers to restrict treatment in People Who Inject Drugs (PWIDs), even though a majority of new infections occur in this population.
+
+ This study evaluates the effectiveness of treatment of hepatitis C virus (HCV) with elbasvir-grasoprevir in people who inject drugs (PWIDs) in a real world, community health clinic setting.
+
+ There are two prospective cohorts of PWIDs of 25 patients each, both in primary care-based community health clinics in Portland, Oregon.
+
+ Cohort one is actively engaged with ambulatory medication assisted therapy with buprenorphine or extended released injectable naltrexone.
+
+ Cohort two maintains active injection drug use with needle exchange and risk reduction education.
+
+ These groups are compared to a 50 patient retrospective cohort of people with substance use disorders at tertiary care hepatology-based Academic Health Center.
+
+ All patients have genotype 1 or 4 HCV and are treated with elbasvir-grasoprevir for 12 weeks.
+
+ The investigators exclude patients who: are under the age of 18; have a history of liver transplant; have failed past treatment of HCV; have an AST Platelet Ratio Index (APRI) > 0.
+
+7 or APRI >0.
+
+7 but fibrosure/fibroscan of F2 or less; patients with genotype 1a and NS5a resistance RAVs; have clinical or radiologic evidence of cirrhosis; have aminotransferase levels >10x upper limit of normal; have a hemoglobin of less than 11g/dL, and are co-infected with hepatitis B or HIV.
+
+ The investigators hypothesize there is no difference in sustained viremic response at 12 or 48 weeks post-completion treatment (SVR 12, 48) when treating patients with a DAA in a community health clinic setting as compared to the standard-of-care subspecialty setting.
+
+.
+
+ Hepatitis C Treatment in PWIDs: MAT or Syringe Exchange Assisted-therapy vs Standard of Care@highlight
+
+hepatitis C virus (HCV) has traditionally been treated in subspecialty health centers given the complexity of older pegylated interferon containing regimens, formerly the standard of care.
+
+ This model has persisted into the modern era of direct anti-viral agents (DAAs) despite their relative simplicity, creating a bottleneck of human resources necessary to fight the largest infectious epidemic in North America.
+
+ In addition, stigma and fear over cost has lead payers to restrict treatment in People Who Inject Drugs (PWIDs), even though a majority of new infections occur in this population.
+
+ This study evaluates the effectiveness of treatment of HCV with elbasvir-grasoprevir in PWIDs in a real world, community health clinic setting.
+
+ There are two prospective cohorts of PWIDs of 25 patients each, both in primary care-based community health clinics in Portland, Oregon.
+
+ Cohort one is actively engaged with ambulatory medication assisted therapy with buprenorphine or extended released injectable naltrexone.
+
+ Cohort two maintains active injection drug use with needle exchange and risk reduction education.
+
+ These groups are compared to a 50 patient retrospective cohort of people with substance use disorders at tertiary care hepatology-based treatment program.
+
+ All patients have genotype 1 or 4 HCV and are treated with elbasvir-grasoprevir for 12 weeks.
+
+ The investigators hypothesize there is no difference in sustained viremic response at 12 or 48 weeks post-completion of treatment (SVR 12, 48) when treating patients in a community health clinic setting as compared to the standard-of-care subspecialty setting.
+

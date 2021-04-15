@@ -1,0 +1,34 @@
+(firstQuint)Home-HIT and Type 1 Diabetes.
+
+ This study aimed to use a multi-disciplinary approach to evaluate a home-based high-intensity interval training (Home-HIT) intervention in people with type 1 diabetes.
+
+ Eleven individuals with type 1 diabetes (4 men/7 women; age 303 years; BMI 27.
+
+11.
+
+2 kgm-2; V O2peak 32.
+
+42.
+
+1 mlkgmin-1; duration of type 1 diabetes 102 years) completed six weeks of Home-HIT.
+
+ The effect of Home-HIT on V O2peak, blood pressure, insulin dose and glycaemic profile was assessed pre and post-training.
+
+ Adherence and ability to meet target heart rate (HR) thresholds (compliance) were monitored using a HR monitor and mobile phone application.
+
+ Change in glycaemia was measured pre, post and 1h post exercise sessions throughout the six-week period.
+
+ A qualitative online survey was completed post-training.
+
+ This is the first study to combine physiological outcomes with a qualitative evaluation of a training intervention in people with type 1 diabetes.
+
+ Home-HIT resulted in high adherence alongside increased V O2peak and decreased insulin dose.
+
+ Because Home-HIT is time-efficient and removes barriers to exercise including fear of hypoglycaemia, it may represent an effective strategy to increase exercise participation in people with type 1 diabetes.
+
+.
+
+ Home-HIT and Type 1 Diabetes@highlight
+
+This study aimed to use a multi-disciplinary approach to evaluate a 6-week home-based high-intensity interval training (Home-HIT) intervention in people with type 1 diabetes.
+

@@ -1,0 +1,26 @@
+(secondQuint)Galectin-3 as a Biomarker in Patients With Chagas Disease.
+
+ Previous studies indicate that activated macrophages secrete Galectin-3, a molecule that is involved in the development of fibrosis and tissue rearrangement in the liver, kidney and the heart.
+
+ Its plasmatic levels are increased on patients with acute decompensated heart failure.
+
+ These observations suggest that measuring levels of Galectin-3 in patients with cardiac diseases can be useful to determine their prognosis.
+
+ To investigate the role of this new biomarker in Chagas Disease, we will study a Chagas Disease population (including patients with the indeterminate and cardiac form of the disease).
+
+ The assessment of the prognostic value of Galectin-3 will be done through the comparison between its plasmatic levels and each patients's clinical evaluation, disease severity, inflammatory biomarkers and cardiac function tests.
+
+ The patients included in the study must at first sign the written consent.
+
+ They shall be accompanied in the specialized outpatient clinics for Chagas disease - Hospital Sao Rafael - Centro de Biotecnologia e Terapia Celular.
+
+ They will be submitted to several tests, including: - Collection of Blood samples for biochemical analysis; - Electrocardiogram; - Holter Electrocardiogram; - Echocardiogram; - Treadmill Test; - X-Ray Imaging; - Magnetic Resonance Imaging; - Evaluation of the quality of life through the application of questionnaires (SF 36 and the Minnesota Living With Heart Failure Questionnaire).
+
+.
+
+ Galectin-3 as a Biomarker in Patients With Chagas Disease@highlight
+
+The purpose of this study is to analyze the efficacy of Galectin-3 as a biomarker on the Chagas Disease prognosis.
+
+ This analysis will be done through the correlation between the plasmatic levels of this molecule with functional and laboratory tests.
+

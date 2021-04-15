@@ -1,0 +1,70 @@
+(fifthQuint)Pain Management Support Study for Patients With Advanced Cancer.
+
+ This study addresses the public health problem of chronic pain as one of the most feared symptoms in people with cancer, with 70% to 90% of patients with advanced disease reporting pain.
+
+ Unrelieved pain remains a challenge in cancer care.
+
+ Insufficient relief from pharmacological treatments and the fear of side effects are important reasons for the growing use of complementary pain management approaches in people with cancer.
+
+ One such approach is music therapy.
+
+ Although efficacy of music therapy for pain has been established, there are no mechanistic studies clarifying how it works in clinical populations.
+
+ Thus, there is a lack of knowledge related to 1) therapeutic mechanisms that lead to improvement (mediator effects) and 2) the relationship between patient characteristics and treatment response (moderator effects).
+
+ Yet, it is well accepted that knowledge of mediators and moderators as well as a validated theory of action (i.
+
+e.
+
+, how the intervention activates the mediators) are needed to optimize psychosocial treatment interventions.
+
+ Therefore, the overarching goals of this study are to 1) examine mediators and moderators hypothesized to account for the pain-reducing effects of Interactive Music Therapy (IMT) in people with advanced cancer and chronic pain and 2) validate IMT's theory of action.
+
+ The mediation model to be tested in this study aligns with a biopsychosocial framework to palliation of chronic pain and is based on findings from a preliminary study.
+
+ The investigators postulate that anxiety, mood, self-efficacy and perceived support mediate the effects of IMT on pain outcomes (i.
+
+e.
+
+ pain intensity and pain interference).
+
+ In addition, the impact of several moderators on the hypothesized mediation model, namely adult playfulness, perceived musical competence, and treatment expectancy, will be tested.
+
+ This study uses a mixed methods intervention design in which qualitative data (i.
+
+e.
+
+ semi-structured follow-up interviews) are embedded within a randomized controlled trial.
+
+ A total of 100 outpatients with advanced cancer and chronic bone pain will be randomized to one of two 6-week treatments: 1) Interactive Music Therapy or 2) Verbal-based support.
+
+ The mediators and pain outcomes will be measured at baseline and after the fourth and sixth session using self-report measures as well as biomarkers (salivary cortisol, lachrymal dopamine content, serum oxytocin, and plasma -endorphins).
+
+ Follow-up interviews with a subsample of 30 participants will enable the investigators to examine the congruence between the hypothesized mediators and moderators and participant explanations of how IMT influences chronic pain management (i.
+
+e.
+
+ theory of action).
+
+ This study will contribute towards the optimization of music therapy for palliation of chronic pain in people with advanced cancer through a better understanding of the impact of mediators and moderators of IMT on chronic pain management.
+
+ The results of this study will provide estimated effects sizes of IMT on the mediators and preliminary effect size estimates for the pain outcomes.
+
+ This information will be instrumental in the development of a subsequent large-scale efficacy trial.
+
+.
+
+ Pain Management Support Study for Patients With Advanced Cancer@highlight
+
+Chronic pain is one of the most feared symptoms in people with cancer.
+
+ Insufficient relief from pharmacological treatments and the fear of side effects are important reasons for the growing use of complementary pain management approaches in cancer care.
+
+ On such approach is music therapy.
+
+ Although several studies have demonstrated that music therapy interventions can reduce pain in people with cancer, few studies have examined the therapeutic mechanisms that explain how music therapy interventions lead to improved pain management.
+
+ The purpose of this study is to examine whether an interactive music therapy intervention improves psychological and social factors that play an important role in chronic pain management in people with advanced cancer.
+
+ The findings will contribute towards the optimization of music therapy for palliation of chronic pain in people with advanced cancer.
+

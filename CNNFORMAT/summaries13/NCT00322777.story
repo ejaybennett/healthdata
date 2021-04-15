@@ -1,0 +1,32 @@
+(fifthQuint)Spirituality Teaching Program for Depressed Adults.
+
+ Major depression is a widely spread health problem in Canada with a life time prevalence of 11% in men and 16% in women.
+
+ A recent avenue of research suggests a role for religion/spirituality in the prevention of and recovery from depression.
+
+ It has been hypothesized that religion/spirituality acts as a coping resource in distressing life situations including illness and loss and may address the struggles of depressed patients of feeling separated from their surrounding world, as well as from their inner self.
+
+ Majority of the research conducted to date on this topic has been observational and focused on the religious denomination, primarily the Christian and Muslim faiths.
+
+ However, given the distinction between spirituality and religion and since a growing portion of the Canadian population identifies themselves as nonreligious but spiritual (10), it is pertinent to explore whether there is a role for a nondenominational spiritual intervention as a mental health resource.
+
+ Considering the burden of depression on an individual and social level and need for effective and accessible treatment options, evaluation of spirituality based approaches is highly relevant.
+
+ This study aims to assess whether nurturing spiritual coping resources in a non-faith based way may play a therapeutic role in recovery from major depression in adults.
+
+.
+
+ Spirituality Teaching Program for Depressed Adults@highlight
+
+Major depression is a widely spread health problem in Canada.
+
+ Recent research suggests a potential role for religion/spirituality in the prevention of and recovery from depression in adults.
+
+ The purpose this study was to assess the efficacy of a home-based Spirituality Teaching Program for adults in the treatment of major depression.
+
+ The objectives of the study were to determine: 1.
+
+ whether the Spirituality Teaching Program is efficacious in improving depression severity, response rate, and remission rate in adults, 2.
+
+ whether efficacy is maintained long term (over a 16 week period).
+

@@ -1,0 +1,26 @@
+(secondQuint)Irofulven in Treating Patients With Recurrent or Metastatic Gastric Cancer.
+
+ OBJECTIVES: - Determine the response rate of patients with recurrent or metastatic gastric cancer treated with irofulven.
+
+ - Determine the toxicity profile of this drug in these patients.
+
+ - Determine the overall survival of patients treated with this drug.
+
+ OUTLINE: This is a non-randomized, open-label, multicenter study.
+
+ Patients receive irofulven IV over 30 minutes on days 1 and 8.
+
+ Courses repeat every 3 weeks in the absence of disease progression, unacceptable toxicity, or static disease after 4 courses in the absence of clinical benefit.
+
+ Patients are followed for survival.
+
+ PROJECTED ACCRUAL: A total of 20-35 patients will be accrued for this study within 5-9 months.
+
+.
+
+ Irofulven in Treating Patients With Recurrent or Metastatic Gastric Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as irofulven, use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ PURPOSE: This phase II trial is studying how well irofulven works in treating patients with recurrent or metastatic gastric cancer.
+

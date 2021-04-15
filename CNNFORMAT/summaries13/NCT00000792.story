@@ -1,0 +1,28 @@
+(fifthQuint)A Pharmacologically Guided Phase I/II Study of Daily Orally Administered Synthetic Hypericin in HIV-Infected Subjects.
+
+ It is not known whether daily oral dosing will produce a tolerable prolonged exposure to therapeutic levels of hypericin.
+
+ Pharmacokinetic modeling studies have demonstrated that daily oral dosing should produce a trough level in a desired range without excessive peak levels.
+
+ Cohorts of six patients each receive escalating doses of oral hypericin daily.
+
+ Blood is sampled for peak and trough levels the second week of therapy.
+
+ A computer modeling algorithm will use these levels to determine the appropriate dose needed for each patient to achieve the desired trough level.
+
+ When three of six patients at a given dose have completed 3 weeks of therapy without evidence of dose-limiting toxicity, data will be reviewed to determine whether subsequent patients should be entered at the next higher dose.
+
+ The MTD is defined as the dose level immediately below that at which grade 3 or worse toxicity is seen in three or more of six patients.
+
+.
+
+ A Pharmacologically Guided Phase I/II Study of Daily Orally Administered Synthetic Hypericin in HIV-Infected Subjects@highlight
+
+To determine the safety and tolerance of daily oral hypericin when given to achieve target trough levels within defined cohorts.
+
+ To determine the responses of surrogate markers of HIV infection to daily oral hypericin.
+
+ It is not known whether daily oral dosing will produce a tolerable prolonged exposure to therapeutic levels of hypericin.
+
+ Pharmacokinetic modeling studies have demonstrated that daily oral dosing should produce a trough level in a desired range without excessive peak levels.
+

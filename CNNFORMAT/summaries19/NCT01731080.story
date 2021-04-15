@@ -1,0 +1,18 @@
+(secondQuint)Arterial Wall Calcium Load in Pseudoxanthoma Elasticum.
+
+ In a previous work we have observed that patients suffering from PXE, a soft-tissue calcifying inherited autosomal disease, exhibited specific structural and functionnal features within the peripheral arteries.
+
+ We now want to quantify and determine the preferential sites of the arterial wall calcification (Agatston score) between these patients compared to diabetics and patients with chronic renal insufficiency with mediacalcosis.
+
+ All variables will be collected from a cohort of PXE monitored in our PXE Health and Care centre at the university hospital of Angers.
+
+ Quantification of the arterial wall calcium load will be performed using helicoidal CT-scan.
+
+ These variables will be compared to the same measurements performed in type 2 diabetic and chronic kidney disease patients paired by age and gender.
+
+.
+
+ Arterial Wall Calcium Load in Pseudoxanthoma Elasticum@highlight
+
+Quantification and preferential sites of arterial wall calcification within the coronary and lower legs arteries will be comared between Pseudo-Xanthoma elasticum(PXE) atients and type 2 diabetics and Chronic Kidney disease.
+

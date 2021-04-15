@@ -1,0 +1,44 @@
+(fifthQuint)Impact of Epileptic Discharge on the Structural Connectivity of the Developing Brain.
+
+ Drug-resistant focal epilepsy is a debilitating disease as it is often accompanied by learning disabilities and behavioral disorders, that can be present at the disease onset and have ample repercussions on the child's quality of life.
+
+ Despite a focal onset of seizures, the dysfunction of the cerebral networks is diffuse.
+
+ Structural brain connectivity can be measured with diffusion tractography, which has shown evidence of widespread network pathology in focal epilepsy, probably explaining the associated learning disabilities.
+
+ Whether ongoing seizure activity further modifies network wiring and possibly generates abnormal pathways along the routes of seizure propagation is a matter of debate.
+
+ The study intends to probe the effect of seizures on cerebral connectivity, both on a local and on a global level.
+
+ Children who undergo presurgical evaluation to probe whether their epilepsy can be cured by surgery are recorded with implanted intracerebral electrodes for clinical purposes.
+
+ A diffusion Magnetic Resonance Imaging will be performed prior to implantation in order to relate tractography measures to seizure recordings.
+
+ On the local level, intracerebral electroencephalogram (EEG) will be analysed to quantify the intensity of epileptic discharge (the epileptogenicity index) on each electrode contact.
+
+ Loss of connectivity (or disconnections) is determined with diffusion tractography for each brain region.
+
+ Then correlation between the degree of epileptogenicity and with the number of disconnections will be studied.
+
+ On a global level, the study will quantify all white matter fibers within the language area (Broca's) in the left and the corresponding area in the right hemisphere.
+
+ The difference between hemispheres yields us the lateralization index.
+
+ The secondary outcome probes whether children with focal epilepsy have atypical language organization, as a measure of diffuse changes in brain wiring.
+
+.
+
+ Impact of Epileptic Discharge on the Structural Connectivity of the Developing Brain@highlight
+
+Focal epilepsy is associated with widespread alterations in structural brain connectivity, often present at the disease onset and related to learning disabilities.
+
+ Whether ongoing seizure activity contributes to network pathology is a matter of debate.
+
+ This study intends to measure the impact of seizures on structural connectivity on a local and on a global level.
+
+ In children examined with intracerebral electrodes to evaluate whether a surgical cure can be proposed, we combine intracerebral stereotactic electroencephalography (EEG) recordings with diffusion weighted imaging of white matter fibers.
+
+ On the local level, the study will quantify the number of deficient connections in the seizure onset zone.
+
+ On a global level, the study will compare the white matter fibers of the left and right hemisphere to probe whether physiological language lateralization is preserved.
+

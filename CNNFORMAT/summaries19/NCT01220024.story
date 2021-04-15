@@ -1,0 +1,26 @@
+(secondQuint)Safety and Efficacy of CollaRx Bupivacaine Implant in Men After Open Laparotomy Herniorrhaphy.
+
+ Inguinal herniorrhaphy is a common surgery; and common surgical methods used include laparoscopic and open placement of synthetic mesh.
+
+ The use of synthetic mesh can greatly reduce the risk of hernia recurrence regardless of the method used for its placement.
+
+ Managing postoperative pain and preventing morbidity after open mesh herniorrhaphy remain considerable medical challenges.
+
+ Bupivacaine is a local anesthetic (pain medicine) that has an established safety profile.
+
+ Collagen is a protein that is found in all mammals.
+
+ The CollaRx Bupivacaine implant is a thin flat sponge made out of collagen that comes from cow tendons and contains bupivacaine.
+
+ When inserted into a surgical site, the collagen breaks down and bupivacaine is released at the site but very little is absorbed into the blood stream.
+
+ The high levels of bupivacaine at the surgical site may result in less pain for several days after surgery.
+
+ This study will assess pain intensity after surgery in patients who receive either the CollaRx Bupivacaine implant or a plain collagen sponge.
+
+.
+
+ Safety and Efficacy of CollaRx Bupivacaine Implant in Men After Open Laparotomy Herniorrhaphy@highlight
+
+This study will assess pain intensity for the first 72 hrs after after aggravated movement (cough)following open laparotomy inguinal herniorrhaphy in patient who receive either the CollaRx Bupivacaine implant or a plain collagen sponge.
+

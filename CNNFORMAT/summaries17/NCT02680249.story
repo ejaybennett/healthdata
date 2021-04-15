@@ -1,0 +1,16 @@
+(firstQuint)Food Effect Study of CTP-656 in Healthy Male Volunteers.
+
+ This study will assess in healthy male subjects a solid oral dose formulation of CTP-656 under fasted and fed conditions.
+
+ Primary: cent To characterize the relative bioavailability and pharmacokinetic profile of a single 150 mg solid oral dose of CTP-656 in healthy volunteers under fasted, fed low-fat and fed moderate-fat conditions.
+
+ Secondary: - To characterize the pharmacokinetic profile of metabolites of CTP-656 following a single 150 mg solid oral dose of CTP-656 in healthy volunteers under fasted, fed low-fat and fed moderate-fat conditions.
+
+ - To assess the safety and tolerability following a single 150 mg solid oral dose of CTP-656 in healthy volunteers under fasted, fed low-fat and fed moderate-fat conditions.
+
+.
+
+ Food Effect Study of CTP-656 in Healthy Male Volunteers@highlight
+
+Three way crossover study to assess the bioavailability of 656 under fed and fasted conditions.
+

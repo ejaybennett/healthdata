@@ -1,0 +1,16 @@
+(firstQuint)Nab-paclitaxel as Second-line Therapy in Locally Advanced or Metastatic Squamous Lung Cancer.
+
+ Nanoparticle albumin-bound paclitaxel (nab-paclitaxel) is a novel, solvent-free, albumin-bound nanoparticle form of paclitaxel designed to avoid problems associated with solvents used in Taxol.
+
+ And albumin-bound paclitaxel was characterized with high tolerated doses with greater efficacy, and with greater concentration in tumor tissue compared with normal tissues.
+
+ A multicenter randomized controled trial (coded as CA031) showed that nab-paclitaxel in combination with carboplatin had higher response rate than traditional paclitaxel plus carboplatin, especially in squamous lung cancer.
+
+ This is a single center, non-randomized, open-label Phase II clinical study to investigate the efficacy and tolerability of nab-paclitaxel monotherapy in previously treated advanced or metastatic squamous lung cancer after failure of platinum-based doublet therapy.
+
+.
+
+ Nab-paclitaxel as Second-line Therapy in Locally Advanced or Metastatic Squamous Lung Cancer@highlight
+
+The purpose of this study is to determine the efficacy of nab-paclitaxel monotherapy in previously treated advanced or metastatic squamous lung cancer.
+

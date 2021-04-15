@@ -1,0 +1,28 @@
+(fifthQuint)Use of Sirolimus vs.
+
+ Tacrolimus For African-American Renal Transplant Recipients.
+
+ It has been repeatedly demonstrated that African-American renal allograft recipients have worse graft outcomes when compared with Caucasians.
+
+ This has been attributed to various immunologic and non-immunologic factors, including a greater rate of acute rejection, resistance to standard doses of calcineurin inhibitors (CNIs) and corticosteroids, different pharmacokinetic and pharmacodynamic profiles, and noncompliance.
+
+ It has therefore been suggested that quadruple immunosuppression, including antilymphocyte antibodies for induction, should be used in this high-risk population to improve graft survival.
+
+ CNIs are currently the mainstay of immunosuppressive regimens.
+
+ Tacrolimus has been shown to be significantly more effective than Cyclosporine A in preventing acute rejection.
+
+ As a result, Tacrolimus has become the CNI of choice in preventing acute rejection, and has produced similar graft survival rates at one year, with higher creatinine clearances.
+
+ However, there is no report examining the efficacy of Sirolimus in improving renal function and its side effect profile when compared with Tacrolimus in renal allograft recipients, particularly in African-Americans with immediate graft function in a steroid-free environment.
+
+.
+
+ Use of Sirolimus vs.
+
+ Tacrolimus For African-American Renal Transplant Recipients@highlight
+
+The purpose of this study is to evaluate the efficacy of Sirolimus (Rapamune) in improving the function of the transplant kidney, without any increase in the risk of acute rejection or adverse side effects, compared with Tacrolimus (Prograf).
+
+ We hypothesize that Sirolimus, as one component of a long-term steroid-free immunosuppressive regimen, will be effective in maintaining a low incidence of acute rejection and a short- and long-term graft survival comparable to Tacrolimus with better graft function in the high-risk African-American renal transplant population with immediate graft function.
+

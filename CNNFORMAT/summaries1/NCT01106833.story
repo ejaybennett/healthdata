@@ -1,0 +1,22 @@
+(fifthQuint)Chronic Graft-versus-Host Disease Treatment (BMT CTN 0801).
+
+ Background: Chronic GVHD is a medical condition that can become very serious.
+
+ Chronic GVHD is a common development after allogeneic transplant that occurs when the donor cells attack and damage tissues.
+
+ The primary purpose of this study is to compare treatment regimens that contain sirolimus without a calcineurin inhibitor to a comparator regimen of sirolimus with a calcineurin inhibitor and evaluate how well chronic GVHD responds to treatment.
+
+ The combinations of medications in this study are: - Sirolimus + calcineurin inhibitor + prednisone - Sirolimus + prednisone The goal is to select a treatment regimen for further comparison in the Phase III trial.
+
+ Design Narrative: The intent is to enroll subjects at the start of initial therapy for chronic GVHD, or before their chronic GVHD is refractory to glucocorticoid therapy, or is chronically dependent upon glucocorticoid therapy and multiple secondary systemic immunosuppressive agents.
+
+ Patients will be stratified by transplant center and will be randomized to one of two arms.
+
+.
+
+ Chronic Graft-versus-Host Disease Treatment (BMT CTN 0801)@highlight
+
+This study is designed as a combined Phase II/III, randomized, open label, multicenter, prospective comparative study of sirolimus plus prednisone versus sirolimus/calcineurin-inhibitor plus prednisone for the treatment of chronic GVHD.
+
+ Patients will be stratified by transplant center and will be randomized to an experimental arm of one of the two pre-specified experimental arms (sirolimus + prednisone or the comparator arm of sirolimus + calcineurin inhibitor + prednisone) in a 1:1 ratio.
+

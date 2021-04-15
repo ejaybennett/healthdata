@@ -1,0 +1,18 @@
+(secondQuint)Home Screening for Chlamydia Surveillance.
+
+ This is a phase III randomized controlled trial.
+
+ We enrolled 403 young women from a variety of clinical settings and neighborhoods in the Pittsburgh, PA region.
+
+ Women completed a baseline questionnaire and then were randomized to either an intervention group (receive home testing kit every six months) or to a control group (receive a letter suggesting a clinic visit for screening).
+
+ Participants were followed for 2 years, and medical chart abstraction was done to document tests done in clinical settings.
+
+ The final study end points were number of tests completed, number of screening tests completed, number of STDs detected, and incident cases of pelvic inflammatory disease.
+
+.
+
+ Home Screening for Chlamydia Surveillance@highlight
+
+This is a randomized controlled trial to determine whether a home screening test for chlamydia and gonorrhea will lead to increased use of screening tests and increased detection of sexually transmitted diseases.
+

@@ -1,0 +1,16 @@
+(firstQuint)The Effect of Anaesthesia Depth on Oculo-cardiac Reflex.
+
+ The oculo-cardiac reflex (OCR) is a trigeminovagal reflex which is started by the stimulus on the extra-ocular muscle and may lead to serious bradycardia or arrhythmia in the patients during strabismus surgery.
+
+ It is presumed that the depth of anesthesia is one of the influencing factor on the OCR.
+
+ But the clinical trials which are evaluating the relationship between the anesthesia depth and OCR are scarce.
+
+ The main objective of this study is to determine the impact of the depth of anaesthesia that is adjusted with the bispectral index (BIS) monitor on the incidence of OCR in pediatric patients undergoing strabismus surgery.
+
+.
+
+ The Effect of Anaesthesia Depth on Oculo-cardiac Reflex@highlight
+
+This study was designed to determine the effect of the depth of anesthesia on the oculocardiac reflex (OCR) during pediatric strabismus surgery.
+

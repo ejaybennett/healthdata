@@ -1,0 +1,11 @@
+(secondQuint)HEPSERA Post Marketing Surveillance.
+
+ This study is a post-marketing surveillance to monitor safety and efficacy of adefovir dipivoxil and identify SAEs, adverse drug reactions (ADRs), and unexpected AEs not described as precautions or warnings and to identify possible factors that have an effect on the AEs and to assess effectiveness of adefovir dipivoxil in real clinical practices after marketing.
+
+ The subjects are patients prescribed for adefovir dipivoxil by the investigators at the sites based on prescription information in normal clinical practices.
+
+.
+
+ HEPSERA Post Marketing Surveillance@highlight
+
+An open label, multi-centre, non-interventional post-marketing surveillance to monitor the safety and/or efficacy of adefovir dipivoxil administered in Korean CHB patients according to the prescribing information

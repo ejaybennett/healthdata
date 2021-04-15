@@ -1,0 +1,30 @@
+(secondQuint)Evaluation of the Safety and Efficacy of EXPAREL When Administered Into the TAP in Subjects Undergoing Cesarean Section.
+
+ There will be two groups of subjects with approximately 40 subjects per group.
+
+ Prior to the C-section, all subjects will receive single-shot spinal anesthesia (1.
+
+5 mL bupivacaine HCl 0.
+
+75% with dextrose 8.
+
+25%).
+
+ Subjects in Group 1 (Standard of Care) will receive intrathecal morphine injection (e.
+
+g.
+
+, Duramorph(R)) 0.
+
+2 mg in conjunction with the single-shot spinal anesthesia.
+
+ No TAP block will be administered.
+
+ Subjects in Group 2 (EXPAREL/TAP) will receive a bilateral TAP infiltration with a single 20 mL dose of EXPAREL 266 mg expanded in volume with 20 mL of normal saline for a total volume of 40 mL (20 mL infiltrated on each side of the abdomen).
+
+.
+
+ Evaluation of the Safety and Efficacy of EXPAREL When Administered Into the TAP in Subjects Undergoing Cesarean Section@highlight
+
+This is a Phase 4, multicenter, open-label study evaluating EXPAREL infiltration into the transversus abdominis plane (TAP) after bupivacaine hydrochloride (HCl) spinal anesthesia in subjects undergoing elective Cesarean section (C-section).
+

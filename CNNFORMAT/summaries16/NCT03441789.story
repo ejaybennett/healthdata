@@ -1,0 +1,26 @@
+(secondQuint)Efficacy and Safety of Enstilar Foam in Combination With Apremilast (Otezla) in Patients With Moderate Plaque Psoriasis.
+
+ Approximately 50 subjects from 4 sites will be enrolled in this investigator-blind study.
+
+ Subjects will be randomized 1:1 to Otezla plus Enstilar foam or Otezla plus vehicle foam and all adverse events and concomitant medications will be recorded.
+
+ Subjects will attend a screening visit/baseline visit and those with plaque-type psoriasis who have been started on commercial Otezla in the last 7 days will be randomized to study treatment as outlined above.
+
+ Enstilar or the vehicle will be initiated for the first 4 weeks and then Otezla will be continued as monotherapy for the next 8 weeks.
+
+ Enstilar or the vehicle will be reinitiated for the last 4 weeks of the study.
+
+ Total study period is 16 weeks and study visits will occur as follows: screening/baseline, week 1, 2, 3, 4, week 12, and week 16.
+
+ Study assessments at each visit will be PASI, BSA, PGA, Itch VAS, DLQI, and standard medical assessments.
+
+ There will be standard medication/treatment and washout periods.
+
+.
+
+ Efficacy and Safety of Enstilar Foam in Combination With Apremilast (Otezla) in Patients With Moderate Plaque Psoriasis@highlight
+
+This study seeks to show whether there is a benefit of prescribing Enstilar with Otezla in the treatment of patients with moderate plaque type psoriasis.
+
+ Subjects will be randomized to study treatment at a 1:1 ratio of Otezla plus Enstilar foam versus Otezla plus vehicle foam.
+

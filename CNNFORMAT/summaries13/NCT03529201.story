@@ -1,0 +1,30 @@
+(firstQuint)QLB After Nephrectomy.
+
+ Patients undergoing nephrectomy procedures will be allocated to one of the study arms.
+
+ At the end of an operation, still under general anesthesia, 50% patients will obtain QLB with ropivacaine.
+
+ Ultrasound-guided QLB will be performed on the side of surgery with 0.
+
+375% ropivacaine solution (0.
+
+2 mL per kg).
+
+ Every patient will get patient-controlled analgesia pump with oxycodone in the postoperative period.
+
+ Postoperative pain will be measured with VAS (visual-analogue scale) 2, 4, 8, 12 and 24 hours after the end of the operation.
+
+ 24 -hours period.
+
+ At the 1, 3, 6 months patients will be interviewed by phone to assess neuropathic pain.
+
+ Neuropathic Pain Symptom Inventory (NPSI) will be used.
+
+.
+
+ QLB After Nephrectomy@highlight
+
+Oxycodone consumption and postoperative pain intensity in patients undergoing nephrectomy procedures.
+
+ Of all study participants, 50% will obtain quadratus lumborum block (QLB).
+

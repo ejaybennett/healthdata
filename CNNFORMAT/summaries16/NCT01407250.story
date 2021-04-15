@@ -1,0 +1,18 @@
+(secondQuint)PhysioGlove Versus Clinic Electrocardiogram Comparison.
+
+ The correct performance of a 12 lead electrocardiogram depends on the correct placement of the electrocardiogram electrodes in internationally agreed upon anatomic locations on the patient's limbs and chest.
+
+ This process requires specific training and diligence on the part of the electrocardiogram performer.
+
+ The literature points towards a progressive quality degradation of the electrocardiogram performance probably due to the delegation of it's performance to lesser trained individuals.
+
+ This study is attempting to ascertain the quality of the electrocardiogram recordings performed in non-specialized out patient clinics.
+
+ For this purpose we will compare outpatient electrocardiograms of patients referred to a cardiological consultation with electrocardiogram's acquired using a conventional electrocardiogram cable as well as the PhysioGlove-ES by the well training cardiology clinic personnel.
+
+.
+
+ PhysioGlove Versus Clinic Electrocardiogram Comparison@highlight
+
+Comparison of the quality of the outpatient clinic electrocardiogram performed on patients sent to a cardiology consultation with a standard cable and the PhysioGlove-ES electrocardiograms performed in the cardiology clinic.
+

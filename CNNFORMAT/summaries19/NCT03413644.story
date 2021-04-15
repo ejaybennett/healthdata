@@ -1,0 +1,12 @@
+(firstQuint)Evaluation of ClearLLab Leukemia and Lymphoma Panels.
+
+ Multi-center study of specimens from subjects presenting for flow cytometry immunophenotyping as part of their standard of care for hematological diseases work-up.
+
+ Residual specimens will be tested using the ClearLLab Panels to determine the presence or absence of an abnormal phenotype and compare results to clinical impression (hematological malignancy or non-malignancy).
+
+.
+
+ Evaluation of ClearLLab Leukemia and Lymphoma Panels@highlight
+
+Multi-center study of specimens from subjects presenting to the flow cytometry laboratory as part of their standard of care for hematological diseases work-up.
+

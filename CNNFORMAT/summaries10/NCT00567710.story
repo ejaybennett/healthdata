@@ -1,0 +1,16 @@
+(firstQuint)A Six-week, Randomized, Double-blind, Placebo-controlled, Parallel Group, Multi-center, Phase II Study.
+
+ This study consists of a 5- to 14-day screening period to include antipsychotic medication washout, followed by a six-week double blind treatment period.
+
+ Patients completing the 6-week treatment period may continue double-blind treatment in an optional extension period of at least 6 weeks' duration.
+
+ Patients randomized to placebo during the initial 6-week period will be randomized to BL-1020 low or high dose during the extension treatment period.
+
+ Approximately 40 study centers in four countries will participate.
+
+.
+
+ A Six-week, Randomized, Double-blind, Placebo-controlled, Parallel Group, Multi-center, Phase II Study@highlight
+
+This is a prospective, six-week, randomized, double blind, placebo-controlled, multi-center study in patients with schizophrenia who are experiencing an acute exacerbation of psychosis.
+

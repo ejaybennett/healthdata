@@ -1,0 +1,56 @@
+(fifthQuint)Bioengineered Skin and Wound Healing.
+
+ BSC is a two-layered sheet made from purified beef tendon collagen, living human cells, and a substance that maintains the cells until they are grafted (removed).
+
+ We will obtain human cells from donors unrelated to the patient.
+
+ The human cells have been tested for the presence of infectious agents and found to be free of disease-causing organisms such as hepatitis virus, the AIDS virus, bacteria, and fungi.
+
+ We will randomly assign (randomize) study participants to either the bioengineered skin group or control group (compression therapy with a multilayered compression bandage).
+
+ Regardless of the group to which a patient is assigned, we expect participation in this study for 12 months following the start of study treatment.
+
+ We will examine each patient at the screening visit (2 weeks before randomization) and then again 3-4 days before the start of treatment to make sure the wound is free of any signs of infection.
+
+ After the initial randomization visit we will examine the wound once a week for 24 weeks or until the wound heals, whichever is earlier.
+
+ As soon as we have determined that the wound is completely healed, we will ask the patient to return once a month for 6 months to make sure it remains healed.
+
+ Bioengineered skin group: We will apply BSC to the wound and cover it with xeroform dressing, foam bolster, gauze dressing, and compression bandage.
+
+ If we do not note any improvement at the week 6 visit, we will apply BSC on the wound a second time.
+
+ Control group: We will place a multilayered compression bandage on the wound of participants assigned to this group.
+
+ Biopsies (small piece of skin tissue): At day 0 a biopsy will be taken from the thigh and leg ulcer.
+
+ The biopsy from the thigh will require sutures and will be removed in ten days.
+
+ Sometime between weeks 1 and 3, week 6, week 24 and week 48 (6 month follow-up) visits a biopsy will be taken from the ulcer (wound) if the ulcer has not healed.
+
+ If the ulcer is healed at the week 48 visit, a light scraping of the healed wound will be performed.
+
+ Study examinations: All study examinations will include observation, measurement, and photography.
+
+ We can only admit women of childbearing age to the study if they are not breast feeding, not pregnant, or have been surgically sterilized or are using effective birth control.
+
+ Because the effects of the proposed treatments on a fetus are unknown, we will remove from the study any woman who becomes pregnant while receiving BSC applications (day 0-week 3) and suggest another method of treatment.
+
+.
+
+ Bioengineered Skin and Wound Healing@highlight
+
+This study will look at whether a graft of bioengineered skin (BSC), known commercially as Apligraf, stimulates the healing process in a person's own skin at the edge of a wound (known as the edge effect).
+
+ The information from this study will provide a better understanding of the ways that grafts of bioengineered skin help the healing of chronic wounds.
+
+ We will assign study participants to either the bioengineered skin group or the control group.
+
+ People in the control group will receive compression therapy with a multilayered compression bandage.
+
+ We will examine each participant before starting treatment and then once a week for 24 weeks or until the wound heals.
+
+ On the first day of treatment (day 0) and at week 3, week 6, and week 24 (end of treatment) we will take a small tissue sample from the wound for a biopsy.
+
+ After the wound is completely healed, we will ask the patient to return once a month for 6 months to make sure the wound stays healed.
+

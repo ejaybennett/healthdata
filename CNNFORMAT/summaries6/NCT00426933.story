@@ -1,0 +1,26 @@
+(thirdQuint)Phase 2 Safety and Efficacy Study of Daptomycin in Complicated Skin and Skin Structure Infections.
+
+ multicenter, randomized (1:1), semi-single blind study comparing the safety and efficacy of HDSD daptomycin (10 mg/kg q24h for 4 days) with that of comparator (vancomycin +/- SSP for 7-14 days) in patients with cSSSI due to Gram-positive bacteria.
+
+ Patients will be randomized on a 1:1 basis to receive either daptomycin 10 mg/kg i.
+
+v.
+
+ q24h for 4 days or vancomycin 1 g.
+
+ q12h for up to 14 days.
+
+ The main criteria for evaluation will be: - Efficacy - Safety - Microbiologic eradication.
+
+ Phase 2 Safety and Efficacy Study of Daptomycin in Complicated Skin and Skin Structure Infections@highlight
+
+multicenter, randomized (1:1), semi-single blind study comparing the safety and efficacy of HDSD daptomycin (10 mg/kg q24h for 4 days) with that of comparator (vancomycin +/- SSP for 7-14 days) in patients with cSSSI due to Gram-positive bacteria.
+
+ Patients will be randomized on a 1:1 basis to receive either daptomycin 10 mg/kg i.
+
+v.
+
+ q24h for 4 days or vancomycin 1 g.
+
+ q12h for up to 14 days.
+

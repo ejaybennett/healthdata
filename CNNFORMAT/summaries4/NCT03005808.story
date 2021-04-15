@@ -1,0 +1,44 @@
+(fifthQuint)Choose the Best Concentration of Ropivacaine on TAP Block for Open Appendectomy in Children.
+
+ Blockage of the transverse abdomen (TAP) promotes excellent analgesia of the abdominal wall and the parietal peritoneum.
+
+ The meta-analyzes in adults demonstrate improved of postoperative pain and analgesics consumption.
+
+ There are few studies on TAP block in open appendectomies and laparoscopic in pediatrics, they show good results.
+
+ There is a consensus of the best anesthetic volume for good infiltration of the TAP block, but there are still doubts in the literature about the best concentration of local anesthetics of long duration.
+
+ The main objective of this prospective, randomly distributed and double-blind clinical trial is to evaluate two concentrations of 0.
+
+25% and 0.
+
+5% ropivacaine with a volume of 0.
+
+4 ml / kg in pain control and the analgesic consumption through 24 hours observation in open Appendectomy in children between 6 and 16 years.
+
+ 3 groups were being compared: the control group has received no blockade, the other two groups have received TAP blocks if ropivacaine 0,25% and 0,5% 0.
+
+4ml/kg.
+
+ All pacients patients received the same protocols (anesthesia and analgesia).
+
+ The provided analgesia was dipyrone every 6 hours and ketoprofen every 8 hours, and rescue analgesia was tramadol every 4hours if it were required.
+
+ The FACE pain scale was used to evaluate the postoperative pain.
+
+.
+
+ Choose the Best Concentration of Ropivacaine on TAP Block for Open Appendectomy in Children@highlight
+
+Blockage of the transverse abdomen (TAP) promotes excellent analgesia of the abdominal wall and the parietal peritoneum.
+
+ The TAP block could advange the postoperative pain of Appendectomy in children.
+
+ The world literature doesnt focus the best Ropivacaines concentration to improve postoperative pain in Appendectomy in children.
+
+ We propose a randomized trial that compares 3 groups children submitted Appendectomy in children between 6 and 16 years.
+
+ The control group has received no blockade, the other two groups have received TAP blocks if ropivacaine 0,25% and 0,5% 0.
+
+4ml/kg.
+

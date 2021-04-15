@@ -1,0 +1,20 @@
+(secondQuint)Evolution of Memory Related Activity.
+
+ The development of biomarkers is now especially critical, as there are a number of promising disease-modifying therapies entering early phase clinical trials, with additional novel therapeutic strategies in development.
+
+ It is essential to develop biomarkers that can detect a "signal of efficacy" over a relatively short time frame for use in Phase II trials.
+
+ Ideally biomarkers are needed that can reliably detect the earliest brain alterations due to AD pathology, perhaps at a point when there is synaptic dysfunction but not yet widespread neuronal loss.
+
+ Functional neuroimaging, in particular functional MRI (fMRI), has significant potential, having already shown promise in detecting regionally specific pharmacological effects on memory related neural activity, and as a sensitive marker of very early cognitive impairment.
+
+ This study, a parallel ancillary study of the Alzheimer's Disease Neuroimaging Initiative (ADNI), will first examine reproducibility of fMRI activation, using a face-name associative memory paradigm, and then the alterations in memory-related activation that occur over the course of MCI and mild AD.
+
+ The study will also examine the relationship of fMRI activation to clinical variables, memory task performance, genotype, and other imaging techniques cross-sectionally and longitudinally, sampling at multiple time points over a 3-year period.
+
+.
+
+ Evolution of Memory Related Activity@highlight
+
+The purpose of this study is to begin the process of validating fMRI (functional magnetic resonance imaging) as a biomarker for use in clinical trials and longitudinal studies of clinical progression in mild cognitive impairment (MCI) and Alzheimer's disease (AD).
+

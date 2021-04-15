@@ -1,0 +1,28 @@
+(firstQuint)The Role of Atorvastatin on Monocyte Function in Patients With Coronary Artery Disease and Hypercholesterolemia.
+
+ Hypercholesterolemia is one of the most important cardiovascular risk factors that significantly elevates the risk for the development and progression of arteriosclerotic diseases.
+
+ Statins such as atorvastatin have been shown to reduce atherogenic lipoprotein levels as well as cardiovascular morbidity and mortality in a large number of clinical trials.
+
+ It is suggested that statins have- apart from their lipid-lowering properties- other pleiotropic effects that are responsible for their anti-atheroslerotic and and cardioprotective potential.
+
+ Monocytes are crucially involved in the process of arteriogenesis (i.
+
+e.
+
+ the growth of preexisting arterioles).
+
+ Monocyte chemotaxis can be stimulated with arteriogenic molecules such as vascular endothelial growth factor A (VEGF-A).
+
+ In previous studies we could demonstrate that the VEGF-A- induced monocyte chemotaxis is severely impaired in hypercholesterolemic patients.
+
+ This reduced response to VEGF seems to be associated with a decreased ability to form functional collaterals.
+
+ Therefore we hypothesize that an intensified therapy with atorvastatin 40 mg once a day can significantly improve monocyte function in patients with coronary artery disease and hypercholesterolemia compared to patients who are only treated with a placebo.
+
+.
+
+ The Role of Atorvastatin on Monocyte Function in Patients With Coronary Artery Disease and Hypercholesterolemia@highlight
+
+The aim of this study is to determine, whether an intensified atorvastatin therapy can improve monocyte function in patients with coronary artery disease and hypercholesterolemia.
+

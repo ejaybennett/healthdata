@@ -1,0 +1,28 @@
+(thirdQuint)AD-4833/TOMM40_303 Extension Study of the Safety and Efficacy of Pioglitazone to Slow Cognitive Decline in Participants With Mild Cognitive Impairment Due to Alzheimer Disease.
+
+ The drug being tested in this study is called pioglitazone.
+
+ This study is designed to further evaluate the safety and effectiveness of pioglitazone on cognitive function in participants who have completed the AD-4833/TOMM40_301.
+
+ This study will look at the effectiveness of pioglitazone on cognitive decline in high-risk participants who have completed the AD-4833/TOMM40_301 study with a diagnosis of mild cognitive impairment (MCI) due to Alzheimer's Disease (AD).
+
+ The study is anticipated to enroll approximately 316 participants, but is dependent on how many decide to continue treatment in an extension phase after completing the main (301) study.
+
+ Participants will continue to receive the same study medication they received during the pivotal AD-4833/TOMM40_301 study, either: - pioglitazone 0.
+
+8 mg tablets or - placebo (this is a tablet that looks like the study drug but has no active ingredient).
+
+ All participants will be asked to take one tablet at the same time each day throughout the study.
+
+ This multi-centre trial, like its precedent pivotal trial, will be conducted worldwide.
+
+ The overall time to participate in this study is minimum 2 years and a maximum of 7 years depending on when subjects roll over from the 301 study.
+
+ Participants will make approximately 2 visits per year to the clinic, and will be contacted by telephone 3 months after each treatment visit for a follow-up assessment, and 2 weeks after the final visit.
+
+.
+
+ AD-4833/TOMM40_303 Extension Study of the Safety and Efficacy of Pioglitazone to Slow Cognitive Decline in Participants With Mild Cognitive Impairment Due to Alzheimer Disease@highlight
+
+The purpose of this study is to evaluate the effect of pioglitazone at 24 months compared with placebo on cognitive decline in high-risk participants who have completed the AD-4833/TOMM40_301 study [NCT01931566] with an adjudicated diagnosis of mild cognitive impairment (MCI) due to Alzheimer's Disease (AD).
+

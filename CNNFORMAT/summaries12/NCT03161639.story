@@ -1,0 +1,20 @@
+(firstQuint)Influence of Working Length Methods in the Performance of Pulpectomies in Primary Teeth.
+
+ Samples will be composed of children between 6 and 9 years of age, with the need for endodontic treatment in primary teeth.
+
+ They will be submitted to anamnesis, clinical and radiographic exams for identification of eligibility criteria for the study.
+
+ These patients will be divided randomly into 2 groups: G1 - pulpectomy with working length method performed through radiography (n=100) and G2 - pulpectomy with working length method performed with the aid of an apex locator (n=100).
+
+ Endodontic treatment will be done by a single trained operator.
+
+ After definite restoration and final radiography, an evaluation of the obturation quality will be performed by another blinded operator, who will evaluate the appropriate obturation length.
+
+ The clinical treatment success and the radiographies will also be analyzed during a period of 24 months through clinical and radiographic exams, also by a blinded operator.
+
+.
+
+ Influence of Working Length Methods in the Performance of Pulpectomies in Primary Teeth@highlight
+
+Verify, through a randomized double-blinded clinical trial, the influence in the performance of pulpectomies in primary teeth, based on two working length methods, electronic and radiographic.
+

@@ -1,0 +1,22 @@
+(firstQuint)Effect of Airway Integrated Nasal Packing With Different Material.
+
+ Nasal packing with integrated airway had been claimed to improve body oxygenation following septal surgery.
+
+ This randomized control study examined the effect of airway integrated with nasal packing, in terms of its improvement on oxygen saturation.
+
+ Sixty patients with septal deviation and hypertrophic turbinate were randomized into three groups.
+
+ Group 1 patients were packed with only nasopore@ after surgery.
+
+ Nasopore@ with integrated airway was used for group 2 patients; and Vaseline gauze integrated with airway for group 3 patients.
+
+ Hemodynamic parameters were sequentially checked.
+
+ Nasal pain sensation was recorded using visual analog scale.
+
+.
+
+ Effect of Airway Integrated Nasal Packing With Different Material@highlight
+
+The purpose of this study is to determine the effect of integrated airway in nasal packing material foe patients receiving nasal septoplasty surgery.
+

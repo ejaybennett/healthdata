@@ -1,0 +1,16 @@
+(firstQuint)Clinical Study of Extra-Corporal Life Support in Cardiogenic Shock Complicating Acute Myocardial Infarction.
+
+ Cardiogenic shock is a serious complication of a myocardial infarction.
+
+ Despite optimal treatment the mortality in patients with cardiogenic shock still exceeds 50% and surviving patients mostly suffer from severe heart failure due to an impaired cardiac function.
+
+ This study compares standard treatment plus Extra-Corporal Life Support (ECLS) versus standard treatment alone in patients with cardiogenic shock due to myocardial infarction.
+
+ The main study hypothesis is to explore if additional treatment with ECLS preserves cardiac function (left ventricular ejection fraction) in patients with cardiogenic shock complicating acute myocardial infarction.
+
+.
+
+ Clinical Study of Extra-Corporal Life Support in Cardiogenic Shock Complicating Acute Myocardial Infarction@highlight
+
+This study compares standard treatment plus Extra-Corporal Life Support (ECLS) versus standard treatment alone in patients with cardiogenic shock due to myocardial infarction.
+

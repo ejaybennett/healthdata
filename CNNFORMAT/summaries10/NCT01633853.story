@@ -1,0 +1,18 @@
+(secondQuint)Efficacy of Vitamin D2 to Treat Chronic Kidney Disease Mineral and Bone Disorder.
+
+ This study will enroll chronic kidney disease patients, stage 3 to 5, who have chronic kidney disease mineral and bone disease (CKD-MBD)as defined by Kidney Disease Improvement Global Outcome (KDIGO) Guidelines.
+
+ Patients in one center will be randomized to receive oral Vitamin D2 soft capsule or Rocaltrol.
+
+ A total of 200 patients will be enrolled, 100 in the Vitamin D2 group and 100 in the 1,25(OH)2 Vitamin D3 group.
+
+ Outcomes will be assessed as proportion of patients achieving target blood levels on calcium, phosphorus, parathyroid hormone, and 25 hydroxyvitamin D.
+
+ Other outcomes will also be assessed, which include secondary hyperparathyroidism (sHPT), vascular calcification, and cardiovascular diseases.
+
+.
+
+ Efficacy of Vitamin D2 to Treat Chronic Kidney Disease Mineral and Bone Disorder@highlight
+
+It is hypothesised that the efficacy and safety of Vitamin D2 soft capsule to treat the Chronic Kidney Disease Mineral and Bone Disease (CKD-MBD) are equal to 1,25(OH)2 Vitamin D3 (Rocaltrol) in the patients with CKD stage 3-5.
+

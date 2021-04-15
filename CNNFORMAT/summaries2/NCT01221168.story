@@ -1,0 +1,30 @@
+(secondQuint)Epidemiologic and Genetic Study on Familial Prostate Cancer.
+
+ The impact of genetic factors on the natural history of prostate cancer (PC) is shown schematically at two levels: 1.
+
+ first, at the constitutional level with germline alterations.
+
+ Family history is found in 20% of PC patients.
+
+ Different clinical entities associated with different modes of inheritance, susceptibility mutations or polymorphisms, define different evolutionary patterns.
+
+ Also, studies suggested that some genetic polymorphisms alter the response to some treatments (such as recurrence after prostatectomy or radiotherapy) or adverse effects of those above (such as toxicity of radiation therapy).
+
+ 2.
+
+ secondly, PC is characterized by the accumulation of genetic alterations (somatic alterations or acquired mutations).
+
+ These changes contribute in varying degrees to the aggressiveness of the disease (such as early metastatic potential) and treatment failure (such as resistance to radiation or hormone resistance).
+
+ The purpose of this study is to establish a register, with a follow up of cohort type and a collection of biological samples: - For men with known prostate cancer.
+
+ - For men with no prostate cancer after a screening procedure for this disease, so that their biological samples can be compared to those of men with prostate cancer.
+
+ The registry data and collected biological samples are used to identify genetic and molecular factors involved in susceptibility, genesis and evolution of prostate cancers.
+
+.
+
+ Epidemiologic and Genetic Study on Familial Prostate Cancer@highlight
+
+The aims of the study are: - to identify genetic and molecular factors (rare mutations, polymorphisms) involved in the natural history of prostate cancers and their response to treatment, - to evaluate and deduce their medical applications for screening and therapeutic management of these tumors.
+

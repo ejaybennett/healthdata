@@ -1,0 +1,16 @@
+(secondQuint)Safety and Efficacy Study of Enzalutamide Versus Bicalutamide in Men With Prostate Cancer.
+
+ This study is a multicenter phase 2, randomized, double-blind, efficacy and safety study of enzalutamide (160 mg/day) vs.
+
+ bicalutamide (50 mg/day) in patients with recurrent prostate cancer who have serologic and/or radiographic disease progression despite primary androgen deprivation therapy.
+
+ Throughout the study, safety and tolerability will be assessed by the recording of adverse events, monitoring of vital signs, physical examinations, and safety laboratory evaluations.
+
+ Following study unblinding, study patients receiving enzalutamide or bicalutamide at the time of unblinding and qualifying patients randomized to bicalutamide who discontinued prior to unblinding will be offered the opportunity to receive open label enzalutamide treatment.
+
+.
+
+ Safety and Efficacy Study of Enzalutamide Versus Bicalutamide in Men With Prostate Cancer@highlight
+
+The purpose of this study is to determine the safety and efficacy of enzalutamide vs bicalutamide in asymptomatic or mildly symptomatic patients with prostate cancer who have disease progression despite primary androgen deprivation therapy.
+

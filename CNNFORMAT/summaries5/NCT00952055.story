@@ -1,0 +1,34 @@
+(fifthQuint)Effects of Standard Treatment of Acute Coronary Syndromes on Macrophage Activity as Measured by Serum Neopterin.
+
+ The study is a prospective observational study focused on monitoring the effects of various treatment options for acute coronary syndrome (ACS) patients by measuring serum neopterin levels.
+
+ Serum neopterin is a marker for measuring macrophage activation.
+
+ Prior studies have illustrated that there are elevated serum neopterin levels in ACS.
+
+ The investigators' study focused on comparing different treatment arms with regard to their neopterin levels and correlating neopterin levels to the Thrombolysis in Myocardial Infarction (TIMI) risk score.
+
+ Patients enrolled are those with ACS.
+
+ Blood samples are drawn at presentation, and at 72 hours after admission, or at office visits and at 72 hours later.
+
+ Neopterin levels are measured via a commercially available assay.
+
+.
+
+ Effects of Standard Treatment of Acute Coronary Syndromes on Macrophage Activity as Measured by Serum Neopterin@highlight
+
+This is a prospective observational study focused on monitoring the effects of various treatment options for acute coronary syndrome (ACS) patients by measuring serum neopterin levels.
+
+ Serum neopterin is a marker for measuring macrophage activation.
+
+ Prior studies have illustrated that there are elevated serum neopterin levels in ACS.
+
+ Patients enrolled are those with ACS.
+
+ Blood samples are drawn at presentation, and at 72 hours after admission, or at office visits and at 72 hours later.
+
+ Neopterin levels are measured via a commercially available assay.
+
+.
+

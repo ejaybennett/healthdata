@@ -1,0 +1,26 @@
+(secondQuint)Canagliflozin-Mealtime Insulin Rescue.
+
+ The Canagliflozin Mealtime Insulin Rescue study will enroll up to 40 subjects at the Atlanta VA Medical Center.
+
+ Subjects will be screened and enter a 2-week run-in period during which they will switch to or continue on a diabetes treatment regimen of basal insulin before supper and aspart insulin before meals.
+
+ Run-in will be useful in evaluating compliance to treatment and self-monitoring.
+
+ After run-in, subjects will collect one week of baseline glycemic data with regular pre-meal and fasting glycemic levels using both finger stick testing and continuous glucose monitoring.
+
+ Subjects will be randomized at Visit 3 to 100 mg of canagliflozin or placebo.
+
+ If well tolerated, this dose will be increased to 300 mg of canagliflozin or placebo at Visit 4.
+
+ Diabetes management will be assured through regular contact with the study team (weekly calls and clinic visits at Weeks 4, 8, 16 and 24).
+
+ Management will be facilitated by diabetes management software.
+
+ Self-monitoring and continuous glucose monitoring will be repeated at the end of study participation.
+
+.
+
+ Canagliflozin-Mealtime Insulin Rescue@highlight
+
+24-week, randomized, double blind, placebo-controlled trial to evaluate safety and efficacy of canagliflozin as compared with placebo in reducing the need for mealtime insulin in subjects with type 2 diabetes currently using a basal-bolus insulin regimen.
+

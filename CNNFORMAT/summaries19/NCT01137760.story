@@ -1,0 +1,42 @@
+(fifthQuint)Galactooligosaccharide, Immune Strength, and Digestive Health.
+
+ A prospective, randomized, parallel, double-blind, placebo controlled design will be used.
+
+ Healthy full-time undergraduate students undergoing fall 2009 final academic exams will be recruited from the University of Florida.
+
+ Informed consent will be obtained.
+
+ All subjects will be consented for the main intervention study and a subgroup (n=25/group or 75 total) of these subjects will also be consented to provide two stool samples at baseline and two stool samples during the week of final exams (approximately week 4 of the intervention).
+
+ Subjects will be stratified based on gender and randomized (n=140/group) to receive 0 g, 2.
+
+5 g, or 5.
+
+0 g of the fermentable fiber, galactooligosaccharides, for eight weeks around the time of their fall final exams.
+
+ Subjects will complete daily online questionnaires asking whether they are experiencing any cold/flu symptoms.
+
+ Weekly online questionnaires will collect information regarding gastrointestinal symptoms over the past week.
+
+ The acute psychological stress associated with final exams will increase cold/flu symptoms.
+
+ It is anticipated that students consuming the galactooligosaccharides versus the placebo will have more healthy days (i.
+
+e.
+
+, days without cold symptoms) due to fiber induced changes in the beneficial bacteria within the colon, which reduces the burden on the immune system.
+
+.
+
+ Galactooligosaccharide, Immune Strength, and Digestive Health@highlight
+
+The purpose of this research study is to determine whether a functional fiber, galactooligosaccharide, can help maintain immune strength and digestive health in undergraduate students who are undergoing an academic stress (i.
+
+e.
+
+, final exams).
+
+ Subjects will be asked to consume the fiber or placebo each day for eight weeks.
+
+ Immune and gastrointestinal health will be evaluated via daily questionnaires obtained from 420 students and from the collection of fecal samples in a subgroup of students.
+

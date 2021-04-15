@@ -1,0 +1,14 @@
+(firstQuint)A Prospective Multicenter Study on Patients'Satisfaction With Angeliq Micro in Real Clinical Practice Conducted in Russia.
+
+ This non-interventional study is planned with the aim of obtaining information about the results of the product use in real clinical practice by means of the evaluation of the patients' satisfaction.
+
+ The study will be multicenter, non-interventional, prospective, cohort study in patients for whom their physicians have taken a decision about Angeliq Micro treatment, irrespectively of the fact of this study inclusion.
+
+ The absence of a control group (patients who receive another menopausal hormonal therapy medication, or do not receive menopausal hormonal therapy at all) is based on high risk of bias (heterogeneity of exposure in case of comparison of low-dosed and ultralow-doses menopausal hormonal therapy regiments, or in case of comparison with a group of patients for whom the menopausal hormonal therapy is not indicated).
+
+.
+
+ A Prospective Multicenter Study on Patients'Satisfaction With Angeliq Micro in Real Clinical Practice Conducted in Russia@highlight
+
+To evaluate the patients' satisfaction with Angeliq Micro in real clinical practice after 13 cycles of treatment.
+

@@ -1,0 +1,16 @@
+(secondQuint)Redirected Auto T Cells for Advanced Myeloma.
+
+ The primary objective of this study is to evaluate the safety and tolerability of autologous genetically modified T cells.
+
+ Genetic material is transferred into the subject's previously harvested autologous T cells to redirect them to target myeloma cells rather than their usual target.
+
+ Study subjects must have systemic or multifocal myeloma requiring autologous stem cell transplantation whose disease has relapsed or incompletely responded to prior therapy or have high-risk features.
+
+ Subjects must also have measureable disease on study entry, as defined by quantifiable or detectable levels of serum or urine paraprotein or elevated serum free light chains with an abnormal ratio.
+
+.
+
+ Redirected Auto T Cells for Advanced Myeloma@highlight
+
+The purpose of this study is to 1) evaluate the safety and tolerability of autologous genetically modified T cells transduced to express the high affinity NY-ESO-1c259 TCR in HLA-A2+ subjects and 2) measure the incidence of GVHD in patients following infusion of TCR modified autologous T cells.
+

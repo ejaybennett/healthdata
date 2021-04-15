@@ -1,0 +1,20 @@
+(secondQuint)Multicentre, Randomized, Controlled Trial of Qideng Mingmu Capsule in The Treatment of Diabetic Retinopathy.
+
+ The efficacy of Qideng Mingmu capsule is to nourish qi-yin and promote blood circulation.
+
+ It is used in patients with diabetic retinopathy who are differentiated as deficiency of Qi-Yin syndrome and blood stasis syndrome in traditional Chinese medicine(TCM).
+
+The manifestation of diabetic retinopathy(DR) mainly includes dim and dry eyes,shortness of breathe, fundus hemorrhage,etc.
+
+The experimental research indicated that the Qideng Mingmu capsule could improve the GK rats' quality of life,through reducing vascular endothelial growth factor(VEGF) level in vitreous of GK rats and inhibiting the expression of protein kinase C(PKC),therefore is capillary protective agent against retinal impairment in GK rat.
+
+The toxicology test has proved that the clinical dosage of Qideng Mingmu capsule is safe.
+
+Both acute and long-term toxicity tests has showed no toxicity.
+
+.
+
+ Multicentre, Randomized, Controlled Trial of Qideng Mingmu Capsule in The Treatment of Diabetic Retinopathy@highlight
+
+Objectives of study: To preliminarily evaluate the efficacy and safety of Qideng Mingmu Capsule in the treatment of patients with diabetic retinopathy (deficiency of Qi-Yin syndrome, blood stasis syndrome), to discuss the appropriate dose and period of treatment.
+

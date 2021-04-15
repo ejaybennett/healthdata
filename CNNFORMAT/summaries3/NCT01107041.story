@@ -1,0 +1,16 @@
+(firstQuint)Mobile Phone Sensing and Outreach as Adjuncts to Internet-Based Behavioral Intervention for Depression.
+
+ Investigators are evaluating the use of phone sensor data to estimate behavior, depression and anxiety.
+
+ Participants will include people who are high on depression, high on anxiety, hight on both depression and anxiety, and health controls.
+
+ Particpants will load software on their phones that collects phone sensor data, and obtains self report on sleep, mood, and social contacts.
+
+ Data will be collected for at least 6 weeks.
+
+.
+
+ Mobile Phone Sensing and Outreach as Adjuncts to Internet-Based Behavioral Intervention for Depression@highlight
+
+Investigators are evaluating the use of phone sensor data to estimate behavior, depression and anxiety.
+

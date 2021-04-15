@@ -1,0 +1,52 @@
+(fifthQuint)Strategies to Improve Home Exercise Compliance in Patients With Scoliosis: the Use of a Mobile Application.
+
+ Patients who have attended an intensive treatment course at Scoliosis SOS Clinic in London will be included in the study.
+
+ This will include patients finishing an intensive course after the start date of the study or patients who have completed an intensive course up to 11 years ago and are still attending check-up appointments at the clinic.
+
+ After a patient has completed this intensive course or when they come back for their next check-up appointment after the start date of the study, each patient will be randomised in to one of three groups: 1.
+
+ Control group, 2.
+
+ Diary group and 3.
+
+ Mobile application group.
+
+ The patients in the control group will be given their normal exercise schedule without any instruction to record their compliance at the time.
+
+ The diary group will be given a diary with a specific layout and instructed to note their exercise compliance, including the date, the amount of time and the exercises completed.
+
+ The mobile application group will be provided with a link to download the application onto their smart phone for free.
+
+ This group will be instructed to use this application whenever they complete their exercises at home.
+
+ The mobile application will include a copy of the patient's exercise schedule (they will also be provided with a hard copy of the exercise schedule), a picture list of all of the exercises present on their exercise schedule as well as a start/stop button which they will be advised to press once they begin their exercise and then again once they have finished exercising.
+
+ This information will log on their profile, which can be accessed by the researcher.
+
+ The patients will be enrolled on to the study on the day that they finish their intensive physiotherapy course or at their next check-up appointment after the study commences.
+
+ The patient will be given a full informed consent form, detailing every aspect of the study.
+
+ They will then be asked to sign the form as their way of agreeing to take part in the study.
+
+ Data will then be collected from each patient on the patient's first and second check-up appointments which usually occur once every three months for children below the age of 18 years old and once every six months for adults that are 18 years old and older.
+
+ If the patient does not attend a check-up appointment within their recommended time period, they will be contacted via telephone or email to provide the details about their compliance.
+
+.
+
+ Strategies to Improve Home Exercise Compliance in Patients With Scoliosis: the Use of a Mobile Application@highlight
+
+This is a second study in a series of 3 studies.
+
+ The first study assessed exercise compliance of scoliosis patients (adults and children).
+
+ This study will look at different strategies to improve exercise compliance after a patient has completed an intensive course of treatment at Scoliosis SOS Clinic.
+
+ It will be a randomised control trial.
+
+ The control group will receive the regular exercise schedule that is created for the patients at the clinic, there will be two intervention groups, one using the exercise schedule with a diary and one using the exercise schedule with a mobile application.
+
+ Compliance will be monitored through a questionnaire at their first and second check-up appointments which will take place every 3 months for a patient under the age of 18 and every 6 months for a patient who is 18 years old or over.
+

@@ -1,0 +1,30 @@
+(fifthQuint)End-Of-Life Decision Making and Preparedness Planning Among Heart Failure Patients Hospitalized for Advanced Disease.
+
+ This study will be a prospective pilot enrolling 10 patients with advanced disease admitted to the heart failure service at St.
+
+ Luke's Mid America Heart Institute and who are not candidates for advanced therapies such as heart transplant or mechanical circulatory support (left ventricular assist device).
+
+ Potential enrollees will be identified using a validated risk model that predicts death or poor quality of life in the six months after discharge from the hospital for heart failure exacerbation.
+
+ Enrolled patients will complete validated questionnaires while still hospitalized, regarding health-related quality of life, illness acceptance, prioritization of different life goals, and confidence in decision-making regarding their terminal heart failure.
+
+ Patients will then be given a paper exercise regarding delineation of an end-of-life plan and appointment of a surrogate medical decision-maker, to be completed after discharge.
+
+ At their regularly scheduled admission follow-up visit with seven days of discharge, participants will be asked to bring their medical decision maker and participate in a semi-structured supplemental palliative care/education session facilitated by a heart failure nurse practitioner trained in palliative care discussions.
+
+ Domains included in the intervention will include disease literacy and understanding, goals of care, legal issues for patients with terminal illness, symptom management, health-related quality of life, caregiver burden, patient autonomy, healthcare utilization, and establishment of end-of-life plans.
+
+ Outcomes to be measured after the intervention include repeated validated questionnaires and unstructured patient interviews at 1 month and, at 6 months, creation of a formalized end-of-life plan, change in code status, obtainment of an advanced directive, designation of a durable power of attorney, frequency of re-hospitalizations, emergency room visits and unscheduled clinic visits with providers, and death.
+
+ These will be obtained at the time of regularly scheduled heart failure clinic follow-up visits or over the phone.
+
+.
+
+ End-Of-Life Decision Making and Preparedness Planning Among Heart Failure Patients Hospitalized for Advanced Disease@highlight
+
+Heart failure is a chronic and frequently terminal illness associated with poor quality of life and high burden of morbidity, re-hospitalization, and cost.
+
+ Accordingly, recent guideline updates have highlighted the need for improved focus on end-of-life and palliative care of advanced heart failure patients, in whom symptom burden can be high and treatment options are often limited.
+
+ The aims of this study are to evaluate the feasibility of implementing a semi-structured, outpatient, nurse practitioner-led, educational supportive care intervention concerning multiple domains of end-of-life care not often included in regular, outpatient clinic visits.
+

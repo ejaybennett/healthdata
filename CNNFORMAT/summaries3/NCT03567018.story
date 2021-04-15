@@ -1,0 +1,26 @@
+(fifthQuint)Comprehensive Imaging of Perforator Vessels and Subcutaneous Vascular Network With No-Exogenous Contrast and Non-Ionizing-Radiation Magnetic Resonance Angiography.
+
+ The overall objective of this pilot study is to develop and optimize preoperative MRA imaging protocols for various perforators commonly used in flap surgery with phantoms and healthy volunteers and to obtain clinical validation of the optimized protocols with a group of patients receiving flap surgery at The OSU Wexmer Medical Center.
+
+ Data obtained in this study may also serve as the basis for statistical planning of future clinical trials.
+
+ Based on previous experience with other magnetic resonance imaging (MRI) techniques, the investigators hypothesize that optimal MRA images can only be obtained with a carefully selected combination of imaging hardware, acquisition, and postprocessing factors.
+
+ The main objective of this pilot study is to determine this optimal combination through the comparison of image between different combinations.
+
+ The secondary objective of this pilot study is to evaluate, both qualitatively and quantitatively, the quality of the optimized MRA images and compare them with clinical CTA images.
+
+ The primary hypothesis is that the quality of the optimized MRA images is at least comparable to that of the CTA images.
+
+ The quantitative measurements obtained from this pilot population will also serve as the preliminary data for future studies and be used in statistical calculations that determine their study population.
+
+.
+
+ Comprehensive Imaging of Perforator Vessels and Subcutaneous Vascular Network With No-Exogenous Contrast and Non-Ionizing-Radiation Magnetic Resonance Angiography@highlight
+
+In this study the investigators plan to enroll a total of 25 evaluable volunteers (volunteer population) for the development and optimization of perforator imaging protocols and 50 evaluable clinical patients receiving flap procedures at OSUMC for the clinical validation of the optimized protocol.
+
+ No extrinsic MR contrast agent will be injected.
+
+ Clinical patients' MRI images will be evaluated independently by radiologists and plastic surgeons and compared to the clinical CTA images.
+

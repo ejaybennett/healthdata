@@ -1,0 +1,38 @@
+(fifthQuint)Chemotherapy in Treating Children With Neuroblastoma.
+
+ OBJECTIVES: I.
+
+ Describe the toxic effects of combined chemotherapy with buthionine sulfoximine (BSO) and melphalan (L-PAM) in pediatric patients with progressive neuroblastoma.
+
+ II.
+
+ Determine the pharmacokinetics of BSO/L-PAM in pediatric patients.
+
+ III.
+
+ Assess the ability of BSO to deplete glutathione by at least 90% in tumor metastatic to bone marrow, in normal marrow, and in peripheral blood lymphocytes.
+
+ IV.
+
+ Estimate the response rate in these patients treated with BSO/L-PAM within the confines of a pilot study.
+
+ OUTLINE: The following acronyms are used: BSO Buthionine sulfoximine, NSC-326231 L-PAM Melphalan, NSC-8806 G-CSF Granulocyte Colony-Stimulating Factor, NSC-614629 Single-Agent Chemotherapy with Drug Resistance Inhibition.
+
+ L-PAM/BSO.
+
+ PROJECTED ACCRUAL: At least 18 patients will be entered to provide an adequate number of patients with marrow involvement; if the BSO dose is increased to achieve adequate GSH depletion in the marrow, an additional 12 patients will be entered.
+
+ If less than 50% of patients have tumor metastatic to marrow at entry, there will be a proportional increase in the total number of patients required.
+
+.
+
+ Chemotherapy in Treating Children With Neuroblastoma@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Some tumors become resistant to chemotherapy drugs.
+
+ Combining buthionine sulfoximine with chemotherapy may reduce resistance to the drug and allow more tumor cells to be killed.
+
+ PURPOSE: Phase I trial to study the effectiveness of melphalan, buthionine sulfoximine, and G-CSF in treating children with progressive neuroblastoma that has not responded to previous therapy.
+

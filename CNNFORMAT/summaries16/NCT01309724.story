@@ -1,0 +1,52 @@
+(fifthQuint)Hemodynamic Optimization By Non-Invasive Determination Of Cardiac Output In Critically Ill Patients.
+
+ Patients with life-threatening hypotension are commonly cared for in intensive care units (ICUs).
+
+ Pathophysiologic perturbations due to disease states such as sepsis, hypovolemia, and congestive heart failure may lead to tissue hypoxia, a critical development which precedes multi-organ failure and death.
+
+ Not only is it difficult to rapidly identify patients heading down this path, but the execution of effective hemodynamic resuscitation to slow or reverse this process is challenging.
+
+ A cornerstone of hemodynamic resuscitation is volume administration.
+
+ The goal of volume administration is to maximize cardiac output, and thereby systemic oxygen delivery, by optimizing cardiac preload.
+
+ Bedside clinical assessment is inadequate for judging whether or not this goal has been achieved.
+
+ Invasive techniques, such as central venous pressure (CVP) monitoring and pulmonary artery catheterization, carry risks, are costly and time-consuming, and may yield misleading data.
+
+ Doppler ultrasound-based technology has been developed that allows for instantaneous, non-invasive monitoring of key hemodynamic parameters, such as cardiac output.
+
+ This technology may facilitate determining the etiology of hemodynamic disturbances and assist the clinician in optimizing therapy based on changes in hemodynamic parameters.
+
+ This randomized, controlled trial was designed to determine the impact of a volume resuscitation protocol, guided by non-invasive Doppler ultrasound technology, on outcomes in medical ICU patients with vasopressor-dependent hypotension.
+
+ Materials and methods: Patient Population: Study participants were recruited between January 19, 2010 and December 26, 2010 from two medical ICUs at Barnes-Jewish Hospital, a 1252-bed urban teaching hospital.
+
+ The Washington University School of Medicine Human Research Protection Office approved the study, and informed consent was obtained from participants or their authorized representatives.
+
+ Inclusion criteria were age 18 years; administration of vasopressors, defined as a continuous infusion of norepinephrine at a dose >5 mcg/min, dopamine 5 mcg/kg/min or any dose of another vasopressor; and passage of 15%, the patient was deemed volume-responsive, and another 1 L NS bolus was administered.
+
+ This process was repeated until the SV did not increase by 15%, two hours had elapsed since study enrollment, or 4 L of NS had been infused, whichever occurred first.
+
+ With the exception of initial fluid management in the intervention group, as described above, use of all diagnostic and treatment modalities were at the discretion of the ICU physicians.
+
+ Subjects in the control group underwent no intervention; ongoing care was carried out at the discretion of the ICU physicians.
+
+ ICU physicians were unaware of subjects' group assignments and the USCOM data acquired in the intervention group.
+
+.
+
+ Hemodynamic Optimization By Non-Invasive Determination Of Cardiac Output In Critically Ill Patients@highlight
+
+Inadequate identification of and subsequent delayed therapy for patients with hypoperfusion (including hypovolemia, congestive heart failure and sepsis) is a common problem faced by physicians and intensivists caring for critically ill patients.
+
+ Bedside clinical assessment is notoriously inaccurate in diagnosing complex etiologies of hemodynamic disturbances and in deciding on the appropriate therapy.
+
+ Invasive techniques which are often required to guide diagnosis and therapy have significant risks associated with them, are costly, and are time consuming.
+
+ New technology has been developed that allows for instantaneous, noninvasive monitoring of key hemodynamic parameters, like stroke volume, peak velocity and cardiac output.
+
+ This new technology has the potential to improve recognition of the etiology of hemodynamic disturbances and assist the clinician in optimizing therapy based on changes in hemodynamic parameters.
+
+ There is significant potential for this to be translated into improved outcomes in critically ill patients, but this has never been studied.
+

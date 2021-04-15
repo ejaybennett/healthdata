@@ -1,0 +1,30 @@
+(fifthQuint)Trial of Drain Antisepsis After Tissue Expander Breast Reconstruction.
+
+ Surgical Site infection after breast surgical procedures occurs more frequently than for other clean surgical procedures.
+
+ Considering the large numbers of patients who undergo breast-related procedures per year and the increasing use of immediate breast reconstruction with placement of tissue expanders or immediate implant reconstruction, a surgical site infection involving the implant can result in its removal and a failed reconstruction.
+
+ The primary aim of the study is to determine if chlorhexidine disk application and irrigation of the drainage bulb with dilute Dakin's solution (buffered sodium hypochlorite solution)after tissue expander breast reconstruction or immediate implant reconstruction, effectively decreases rates of bacterial colonization in drain fluid compared to standard care.
+
+ Methods: Patients undergoing bilateral immediate reconstruction with tissue expander placement will have one surgical site treated with standard drain care and the other treated with a drain antisepsis regimen.
+
+ Drain antisepsis intervention will consist of two measures: 1) placement of a chlorhexidine sponge dressing at the drain exit site, and 2) twice daily irrigation of the drainage bulb with dilute Dakin's solution (buffered hypochlorite).
+
+ All patients will undergo semiquantitative cultures of the drain bulb at one week postoperatively.
+
+ This culture will be repeated at the time of drain removal, with simultaneous cultures of the fluid in the bulb as well as an internal segment of each removed drainage tube.
+
+ All patients will be evaluated for clinical signs of infection and for any adverse reactions to the drain antisepsis at the follow-up visits.
+
+.
+
+ Trial of Drain Antisepsis After Tissue Expander Breast Reconstruction@highlight
+
+Surgical site infection (SSI) after breast and axillary surgery occurs more often than for other clean surgical procedures.
+
+ Infection in the setting of a tissue expander can be devastating and can lead to early implant loss and failed reconstruction.
+
+ Surgical drains have been noted as a potential source for surgical site infections.
+
+ Hypothesis: Bacteria present in surgical drains after tissue expander reconstruction may be decreased by simple and inexpensive local antiseptic interventions.
+

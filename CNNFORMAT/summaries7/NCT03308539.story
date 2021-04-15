@@ -1,0 +1,17 @@
+(firstQuint)Prediction of Coronary Artery Disease Severity by Epicardial Adipose Tissue Thickness.
+
+ epicardial adipose tissue is defined as the adipose tissue between the visceral pericardium and the outer margin of the myocardium which can be considered an endocrine organ that secretes pro-inflammatory and anti-inflammatory cytokines and chemokines including adiponectin.
+
+as investigators know, inflammatory response is an important factor in the coronary atherogenesis.
+
+ Therefore,epicardial adipose tissue is likely to be connected with the severity of coronary artery disease.
+
+Recent studies showed that the thickness of the epicardial adipose tissue in patients with coronary artery disease was greater than that with normal coronary arteries.
+
+ epicardial adipose tissue will be assessed using transthoracic echocardiography and cardiac magnetic resonance which allows for an accurate volumetric quantification of epicardial fat.
+
+.
+
+ Prediction of Coronary Artery Disease Severity by Epicardial Adipose Tissue Thickness@highlight
+
+is to test the hypotheses that epicardial adipose tissue can be a marker of severity of coronary artery disease in myocardial infarction patients

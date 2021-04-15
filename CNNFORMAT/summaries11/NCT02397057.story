@@ -1,0 +1,26 @@
+(thirdQuint)Placebo-Controlled Study to Investigate the Efficacy & Safety of Injectafer in the Treatment of RLS.
+
+ This will be a Phase III, double blinded, multi-center, randomized, placebo-controlled study.
+
+ Eligible subjects will be randomized in a 1:1 ratio to receive Injectafer or Placebo on days 0 and 5.
+
+ All treated subjects will be followed for efficacy and safety for 12 months.
+
+ Subjects will visit the clinic on Days 0 and 5 for treatment, and then on Days 14, 42, 168, and 365.
+
+ In between the clinic visits subjects will be contacted remotely on Days 84, 126, 210, 252, 294, and 336.
+
+ The subject's participation in the study will be for approximately 1 year from Day 0.
+
+.
+
+ Placebo-Controlled Study to Investigate the Efficacy & Safety of Injectafer in the Treatment of RLS@highlight
+
+This will be a Phase III, double blinded, multi-center, randomized, placebo-controlled study.
+
+ Eligible subjects will be randomized in a 1:1 ratio to receive Injectafer or Placebo on days 0 and 5.
+
+ All treated subjects will be followed for efficacy and safety for 12 months.
+
+ The subject's participation in the study will be for approximately 1 year from Day 0.
+

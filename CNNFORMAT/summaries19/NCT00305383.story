@@ -1,0 +1,16 @@
+(thirdQuint)Viral Kinetic Study With Viramidine in Therapy-Naive Patients With Chronic Hepatitis C.
+
+ This Phase 2b multicenter study, which is being conducted solely in the United States, consists of a randomized, double-blind, monotherapy period, where patients will receive either viramidine or placebo for 4 weeks.
+
+ After the monotherapy period, all patients will receive viramidine plus peginterferon alfa-2b combination therapy for 48 weeks in an open-label fashion and will then participate in a 24-week follow-up period after completion of combination therapy.
+
+ The RVR at CT Week 4 between groups receiving a standard combination peginterferon alfa-2b/viramidine dosing regimen versus a cohort that receives 4 weeks of viramidine monotherapy prior to the start of peginterferon alfa-2b/viramidine combination therapy will be examined.
+
+ The differences in virological response during treatment and end of follow-up between African-Americans and Caucasians (non-Hispanics), as well as a correlation between duration of viral negativity (DVN) and sustained virologic response (SVR) based on race and dosing regimen, will also be assessed.
+
+.
+
+ Viral Kinetic Study With Viramidine in Therapy-Naive Patients With Chronic Hepatitis C@highlight
+
+The purpose of this study is to examine the rapid virologic response (RVR) at combination therapy (CT) Week 4 between groups receiving a standard combination peginterferon alfa-2b/viramidine dosing regimen versus a cohort that receives 4 weeks of viramidine monotherapy prior to the start of peginterferon alfa-2b/viramidine combination therapy.
+

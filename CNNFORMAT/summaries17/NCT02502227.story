@@ -1,0 +1,26 @@
+(fifthQuint)Mechanisms of Mindfulness Training and Stress Reduction.
+
+ There is a growing body of randomized controlled trial (RCT) evidence indicating that mindfulness training interventions may reduce stress and improve stress-related disease outcomes.
+
+ Yet little is known about the underlying active training mechanisms of mindfulness training.
+
+ Although it is generally believed that mindfulness training interventions foster a capacity to monitor and accept present moment experience, debate currently focuses on whether it is the capacity to both monitor and non-judgmentally accept experience that drives the salutary effects observed in mindfulness training interventions.
+
+ This project will test these putative active mechanisms by comparing two different types of mindfulness meditation training programs.
+
+ N=135 stressed community adults will be recruited and randomized to either two different types of 8-week Mindfulness-Based Stress Reduction (MBSR) programs or a No Treatment Control (assessment only) comparison condition.
+
+ Participants will complete 3 days of daily experience sampling (Ecological Momentary Assessment) immediately before and after the 8-week intervention period to measure attentional control and stress perceptions in daily life.
+
+ In order to measure psychological and HPA-axis stress reactivity to a controlled stressor, participants will also complete a standardized acute stress challenge task (the Trier Social Stress Test, TSST) immediately following the 3-day post-intervention assessment period.
+
+ This project provides the first dismantling study of mindfulness meditation training, it utilizes cutting-edge daily experience sampling of real life stress (using EMA) and stress biomarkers (salivary cortisol), and will provide important initial information for designing more effective (and efficient) mindfulness training interventions in at-risk stressed patient populations.
+
+.
+
+ Mechanisms of Mindfulness Training and Stress Reduction@highlight
+
+This study is a three-arm randomized controlled trial of a mindfulness stress reduction intervention, with the aim of dismantling the experience-monitoring and nonjudgmental-acceptance elements of mindfulness programs to determine the active treatment component.
+
+ In addition to enhancing understanding of mechanisms underlying the effects of mindfulness interventions, identifying the therapeutic constituent(s) could inform development of targeted interventions as well as provide strategies to optimize adherence.
+

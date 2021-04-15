@@ -1,0 +1,64 @@
+(fifthQuint)Female Orgasmic Disorder (FOD) and Wellbutrin XL.
+
+ Background: Female orgasmic disorder is characterized by a recurrent or persistent difficulty in achieving orgasm during sexual activity.
+
+ A study of sexual activity in a representative sample of the US population ages 18-59 found that 24% of US females complained of significant difficulty achieving orgasm in the preceding year (Laumann et al, 2000).
+
+ Epidemiological studies in Sweden and the United Kingdom have found similar rates of orgasm disorder.
+
+ Studies of drugs with actions of increasing genital vasodilation in response to sexual stimulation (eg alprostadil, sildenafil, or phentolamine) have generally been found to be unsuccessful or to have extremely limited efficacy in reversing female sexual dysfunction (Basson, 2001; Segraves, 2002).
+
+ High doses of androgen have been shown to increase various parameters of sexual interest and activity in women after hysterectomy and bilateral oophorectomy (Schifren et al, 2000) and there is some evidence that oral dehydroepiandrosterone may increase responsiveness to sexual stimuli in postmenopausal women (Hackbert & Heiman, 2002).
+
+ There have been fewer studies of pharmacological treatment for hypoactive sexual desire disorder in premenopausal women.
+
+ Extensive literature indicates that bupropion has a very low incidence of drug-induced sexual dysfunction (Clayton et al, 2002; Croft et al, 1999; Segraves & Balon, 2003) and that bupropion may reverse sexual dysfunction associated with serotonergic antidepressants (Rosen et al, 1999; Kennedy et al, 2002).
+
+ In addition one controlled study (Crenshaw et al, 1987) and several clinical series indicate that bupropion may have prosexual effects in non-depressed females (Modell et al, 2000).
+
+ A single blind study (Segraves et al, 2001) found that bupropion increased the frequency of episodes of sexual arousal and desire for sexual activity in women diagnosed with hypoactive sexual desire disorder.
+
+ A recent multicenter, double-blind, fixed dose study of females with global, acquired hypoactive sexual desire disorder found evidence that an exposure to 300 to 400 mg bupropion XL increased orgasm and pleasure as measured by the CSFQ-F.
+
+ In this pilot study, all women had total serum testosterone levels within normal limits and were in stable, non-conflictual relationships.
+
+ All patients had no evidence of psychiatric disorder and no evident etiology to their sexual complaint.
+
+ All were pre-menopausal.
+
+ The pilot study observed the effects of drug treatment for four months.
+
+ Significant change in measures of sexual orgasm occurred as early as day 28.
+
+ There are no currently approved pharmacological treatments for women with orgasmic disorder.
+
+ Specific Aims: The purpose of this study is to delineate the effects of bupropion XL in women with global orgasmic disorder, using double blind conditions in an 8 week flexible dose multisite comparison of bupropion XL and placebo.
+
+ It is hypothesized that bupropion XL will increase orgasm completion.
+
+ The primary objective of this study is to evaluate the effect of bupropion XL on the ease and frequency of achieving orgasm in sexual activity.
+
+ Secondary objectives will be to investigate the effects of bupropion XL on changes in sexual arousal and sexual pleasure.
+
+.
+
+ Female Orgasmic Disorder (FOD) and Wellbutrin XL@highlight
+
+A recently completed multi-site double-blind placebo-controlled study found that bupropion (Wellbutrin XL) increased female orgasmic function in a group of pre-menopausal women with a diagnosis of hypoactive sexual desire disorder.
+
+ The purpose of this study is to ascertain whether bupropion will improve orgasmic function in pre-menopausal women with a primary complaint of idiopathic orgasmic disorder who do not have hypoactive sexual desire disorder.
+
+ This will be a multicenter, placebo-controlled, double blind study of women with a diagnosis of female orgasm disorder.
+
+ During a baseline visit, psychiatric, medical, alcohol and drug, and sexual histories will be obtained.
+
+ Patients who continue to meet screening inclusion/exclusion criteria at their baseline visit will be randomly assigned to either placebo or bupropion XL for 8 weeks.
+
+ A flexible dosing paradigm will be used.
+
+ Sexual desire and activity will be assessed by patient diaries, investigator interview of sexual functioning every two weeks, and by standardized questionnaire every four weeks.
+
+ The primary endpoint will be the increase in orgasm completion as measured by the Changes in Sexual Functioning Questionnaire-F (CSFQ-F).
+
+ Secondary endpoints will be changes in sexual arousal, sexual desire, and sexual pleasure as assessed by the CSFQ-F.
+

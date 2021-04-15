@@ -1,0 +1,42 @@
+(fifthQuint)Evaluating the Effects of Foot Orthotics on Plantar Pressures in the Diabetic Population.
+
+ It is estimated that over 17 million people are affected with diabetes with more than 8 million remaining undiagnosed in the United States alone.
+
+ Of the total diabetic population, approximately 15% will develop foot ulcerations with 6% continuing onto some manner of foot or lower limb amputation.
+
+ While it has been widely recommended that therapeutic shoes and foot orthotics be utilized in the ongoing care of diabetics with insensate feet, there is limited scientific literature quantifying the actual effects.
+
+ If the early use of orthotic devices is able to decrease the risk or delay the onset of foot ulceration, this could be an essential treatment strategy for individuals with diabetes or peripheral vascular.
+
+ To evaluate the orthotic devices a repeated measure within subject study design is purposed.
+
+ There will be forty two diabetic subjects rated at Category 1 by the UTHSCSA Podiatry Scale (Peripheral neuropathy, no history of ulceration).
+
+ Each subject will receive three sets of foot orthotics and a pair of extra-depth athletic shoes.
+
+ The subjects will receive and wear the orthotics in a randomized order.
+
+ The orthotics to be tested will vary in materials and morphology.
+
+ They will be a custom molded trilaminar insert, a prefabricated trilaminar insert without any modifications, and an over-the-counter contoured shoe insert of Plastazote and polyurethane.
+
+ Plantar pressure measurements will be acquired at baseline and after four weeks of accommodation to each set of foot orthoses.
+
+ It is anticipated that a participant's involvement with the study will require five months.
+
+ This study will help to determine the efficacy of the three different types of foot orthotics and help to establish better guidelines for health care practitioners regarding optimal foot care in diabetes and to assist in collecting data for future grants.
+
+.
+
+ Evaluating the Effects of Foot Orthotics on Plantar Pressures in the Diabetic Population@highlight
+
+Foot orthotics or shoe inserts are currently utilized as a common conservative treatment option for a wide variety of foot disorders.
+
+ This treatment is used for both the relatively healthy active population and the more sedentary population with diabetes or peripheral vascular disease (dysvascular).
+
+ However, there is limited objective scientific data documenting the actual benefits or effectiveness of either customized or over-the-counter foot orthoses.
+
+ It is the aim of this study to determine the effects of three popular foot orthotics on plantar pressures in diabetic populations.
+
+ If foot orthoses can be utilized as a preventive treatment option to reduce the risk for foot ulceration by redistributing plantar pressures, then orthoses would be a cost effective solution to a high cost (mental and fiscal) medical impairment.
+

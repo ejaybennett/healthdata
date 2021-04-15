@@ -1,0 +1,38 @@
+(secondQuint)Green Tea Extract in Preventing Cancer in Former and Current Heavy Smokers With Abnormal Sputum.
+
+ OBJECTIVES: - Evaluate the efficacy and safety of defined green tea catechin extract (polyphenon E) in former smokers with abnormal sputum score using stringent, newly developed response criteria of combined nuclear morphometry and malignancy-associated changes as the primary surrogate endpoint.
+
+ - Evaluate if polyphenon E can modulate other surrogate endpoint biomarkers of aberrant methylation, cell cycle regulation, apoptosis, oncogene/tumor suppressor gene expression, as well as phase I and II enzyme regulation.
+
+ - Establish a library of in-vivo confocal micro-endoscopy and optical coherent tomography images of the bronchial epithelium with corresponding histopathology, nuclear morphometry, and other biomarker information to assess the potential of confocal micro-endoscopy as a non-biopsy method to assess the effect of chemoprevention agents.
+
+ OUTLINE: This is an open label, part 1 study followed by a randomized, double-blind, part 2 study.
+
+ - Part 1 (completed March 22, 2006): Patients receive oral defined green tea catechin extract twice daily in months 1 and 2 and inhaled budesonide twice daily in month 2.
+
+ Patients undergo autofluorescence bronchoscopy with biopsies, oral and bronchial brushing, and bronchoalveolar lavage at the end of months 1 and 2.
+
+ - Part 2: Patients are stratified by gender and randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients receive oral defined green tea catechin extract twice daily for 6 months.
+
+ - Arm II: Patients receive oral placebo twice daily for 6 months.
+
+ Patients who have progressive or stable disease at 6 months may receive open-label defined green tea catechin extract.
+
+ Patients undergo autofluorescence bronchoscopy with biopsies, oral and bronchial brushing, and bronchoalveolar lavage at the end of months 6 and 12.
+
+ Blood samples are collected periodically for biomarker studies.
+
+ After completion of study therapy, patients are followed periodically for 6 months.
+
+.
+
+ Green Tea Extract in Preventing Cancer in Former and Current Heavy Smokers With Abnormal Sputum@highlight
+
+RATIONALE: Chemoprevention is the use of certain drugs to keep cancer from forming.
+
+ Green tea extract may keep cancer from forming.
+
+ PURPOSE: This randomized phase II trial is studying green tea extract in preventing cancer in former and current heavy smokers with abnormal sputum.
+

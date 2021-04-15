@@ -1,0 +1,18 @@
+(secondQuint)Diclofenac Patch for the Treatment of Acute Pain Due to Mild to Moderate Wrist Sprain, Strain or Contusion.
+
+ This randomized, double-blind, placebo-controlled, parallel group study will be conducted in patients with a mild to moderate wrist sprain, strain or contusion.
+
+ Eligible patients will be randomized (in a 1:1 ratio) to receive double-blind treatment to either the diclofenac topical patch or a matching placebo patch to be applied once daily for 7 days.
+
+ Patients will return to the clinic for assessments on Day 3 and Day 7; a follow-up assessment will be conducted on Day 14.
+
+ Patients will complete an electronic diary in which assessments including pain intensity, pain relief and functional disability will be recorded twice daily.
+
+ Ratings of the quality of sleep will also be recorded in the diary each morning, and the use of study treatment and rescue medication will be recorded in the diary each day.
+
+.
+
+ Diclofenac Patch for the Treatment of Acute Pain Due to Mild to Moderate Wrist Sprain, Strain or Contusion@highlight
+
+The purpose of the study is to assess the effectiveness of once daily application of a diclofenac sodium topical patch in reducing acute pain due to mild to moderate wrist sprain, strain or contusion when applied to the painful area.
+

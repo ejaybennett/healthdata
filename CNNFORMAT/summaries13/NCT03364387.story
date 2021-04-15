@@ -1,0 +1,24 @@
+(secondQuint)Myocardial Infarction With Non-obstructive Coronary Arteries in Turkish Population.
+
+ Acute coronary syndrome is leading causes of death worldwide.
+
+ Although, >90% of these patients had of culprit coronary lesion, a significant proportion of them had no any angiographic evidence of obstructive coronary arteries.
+
+ Exact mechanism of the myocardial infarction remains unclear of these patients.
+
+ However, MI registries have reported that the 5% to %10 of MI patients have no evidence of obstructive coronary artery disease.
+
+ There is lack of any data regarding prevalence, demographics, patients' profile, management, and outcome of this clinical entity in Turkish population.
+
+ This registry aims to obtain these data in Myocardial Infarction with Non-obstructive Coronary Artery Disease patients in Turkish population.
+
+ Although there are huge data in this issue from different country and geographic areas, to date no any national data about prevalence, demographics, management and in-hospital outcomes of AF patients who admitting with cute coronary syndrome.
+
+ With this rationale the registry also aims to obtain demographics, clinical profile, management, and in-hospital outcome of AF in Turkish Acute coronary syndrome population.
+
+.
+
+ Myocardial Infarction With Non-obstructive Coronary Arteries in Turkish Population@highlight
+
+The objective of this study is to analyze the Demographics, Clinical Profiles, Management, in-Hospital and Long-Term Outcomes of Patients with Acute Coronary Syndrome Syndrome And Myocardial Infarction with Non-obstructive Coronary Artery Disease.
+

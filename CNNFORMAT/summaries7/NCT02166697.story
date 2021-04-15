@@ -1,0 +1,16 @@
+(thirdQuint)Blopress Tablets Specified Drug-use Survey "Hypertension: Survey on Patients With Metabolic Syndrome".
+
+ This survey was designed to investigate the treatment status of hypertensive patients with metabolic syndrome-related risk factors treated with candesartan cilexetil tablets (Blopress Tablets), as well as to assess relationships between risk factors (example, visceral fat accumulation) and the incidence of cerebrovascular/cardiovascular events in an exploratory manner.
+
+ For adults, 4-8 mg of candesartan cilexetil is typically administered orally once daily.
+
+ The dose is increased up to 12 mg, as necessary.
+
+ For patients with complications of renal damage, however, administration of candesartan cilexetil should be started at 2 mg once daily, and, as necessary, the dose increased up to 8 mg.
+
+.
+
+ Blopress Tablets Specified Drug-use Survey "Hypertension: Survey on Patients With Metabolic Syndrome"@highlight
+
+The purpose of this survey is designed to investigate the treatment status of hypertensive patient with metabolic syndrome-related risk factors treated with candesartan cilexetil tablets (Blopress Tablets), as well as to assess relationships between risk factors (example, visceral fat accumulation) and the incidence of cerebrovascular/cardiovascular events in an exploratory manner.
+

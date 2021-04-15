@@ -1,0 +1,20 @@
+(thirdQuint)A Clinical Trial of Dermacorder for Detecting Malignant Skin Lesions.
+
+ The Dermacorder is a non-invasive medical device that scans a probe over the skin about 200 microns away from it and detects the electric field in the skin using capacitative coupling.
+
+ Measurements of hundreds of malignant melanomas in mice indicated that these lesions generate an electric field that is easily detected.
+
+ One previous clinical trial at the VA Medical Center in Hampton VA indicated an 80% reliability in predicting malignant lesions by their electric field.
+
+ We have improved the Dermacorder over the past two years by enhancing its sensitivity and stability and must now determine if these improvements have improved its ability to detect malignant lesions.
+
+ If the Dermacorder provides a reliable diagnosis of malignant lesions, its use could dramatically reduce the number of biopsies performed and this would significantly improve the quality of life for hundreds of thousands of Americans seeking the advice of dermatologists regarding suspicious lesions each year.
+
+ A Clinical Trial of Dermacorder for Detecting Malignant Skin Lesions@highlight
+
+The Dermacorder measures the electric field in the skin.
+
+ Malignant skin lesions disrupt the skin's normal electric field and this abnormal electric field can be detected by the Dermacorder.
+
+ Therefore the investigators are testing the hypothesis that the Dermacorder can provide useful data to guide in the diagnosis of skin disease.
+

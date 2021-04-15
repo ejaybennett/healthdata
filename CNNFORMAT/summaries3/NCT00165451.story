@@ -1,0 +1,28 @@
+(secondQuint)A Trial of Thalidomide, Celecoxib, Etoposide and Cyclophosphamide in Patients With Relapsed or Progressive Cancer.
+
+ - Thalidomide will be given orally every evening and the daily dose will escalate until the patient reaches a dose on which they are comfortable and will given continuously for one year.
+
+ - Celecoxib will be given orally twice a day and escalated as tolerated for one year.
+
+ - Etoposide will be given orally once a day for 21 consecutive days.
+
+ This medication will alternate with oral cyclophosphamide and will continue for one year.
+
+ - Cyclophosphamide will be given orally once a day for 21 consecutive days and as stated above will alternate with etoposide for one year.
+
+ - During the treatment, blood tests will be performed every three weeks except during the first 3 week cycle in which testing is performed every 2 weeks.
+
+ Appropriate imaging studies will be performed every 9 weeks.
+
+ - The duration of treatment is one year unless the side effects are too harmful or the tumor grows.
+
+ Treatment may be continued past one year if the drugs are well tolerated and disease progression has not occured.
+
+.
+
+ A Trial of Thalidomide, Celecoxib, Etoposide and Cyclophosphamide in Patients With Relapsed or Progressive Cancer@highlight
+
+This study will use a combination of four oral drugs (thalidomide, cyclophosphamide, etoposide and celecoxib) to treat patients with relapsed or progressive cancer.
+
+ These drugs are expected to target the blood vessels that supply the tumors with what they need to grow.
+

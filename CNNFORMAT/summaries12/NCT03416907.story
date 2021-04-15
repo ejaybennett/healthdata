@@ -1,0 +1,20 @@
+(secondQuint)Informed Consent Formats by Information Preference and Priority.
+
+ The goal of this study is to investigate whether the same information can be communicated in different formats of an informed consent document in ways that improve participant understanding and confidence.
+
+ Participants will review one of several different versions of the same informed consent document, and will be asked to complete a survey after reading the documents.
+
+ The survey will ask participants their willingness to enroll in the clinical trial discussed in the document and their confidence in their decision.
+
+ The survey will also test participants recollection of information from the informed consent document.
+
+ Researchers will look at this data to see if there are ways to improve knowledge about the clinical trial and confidence in decisions without necessarily changing enrollment preferences.
+
+.
+
+ Informed Consent Formats by Information Preference and Priority@highlight
+
+This study will test whether different formats of medical informed consent documents can help improve understanding and confidence in decision-making for clinical trials.
+
+ The study will be primarily run through an online survey.
+

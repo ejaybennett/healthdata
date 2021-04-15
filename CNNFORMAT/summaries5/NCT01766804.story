@@ -1,0 +1,18 @@
+(secondQuint)Effect of Bovine Colostrum on Toxicity and Inflammatory Responses.
+
+ Acute lymphoblastic leukaemia (ALL) is the most common form of childhood cancers.
+
+ Cure rates are improving, but the intensity of treatment is limited by toxicity.
+
+ 2-5% of patients die of treatment related complications, mostly related to therapy-induced toxicity and immune suppression.
+
+ The aim of the present study is to evaluate the ability a colostrum containing diet to limit gastrointestinal toxicity including chemotherapy induced inflammation.
+
+ The study is based on patients treated according to the current NOPHO protocol.
+
+.
+
+ Effect of Bovine Colostrum on Toxicity and Inflammatory Responses@highlight
+
+The aim of the present study is to evaluate the ability a colostrum containing diet to limit gastrointestinal toxicity including chemotherapy induced inflammation in children treated for acute lymphoblastic leukemia.
+

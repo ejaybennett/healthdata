@@ -1,0 +1,22 @@
+(secondQuint)Safety and Acceptability of Cabotegravir in HIV Uninfected Women in KwaZulu-Natal, South Africa.
+
+ The CAPRISA 014 trial is designed to establish the safety and acceptability of cabotegravir LA in sexually active, at-risk HIV-uninfected women.
+
+ A total of 632 HIV uninfected women (18 to 30 years) from two sites in KwaZulu-Natal, South Africa will be enrolled.
+
+ The trial will be approximately 24 months, with an additional 12 months post-trial safety observation.
+
+ The study is divided into three periods: Period 1 - Clinical trial oral lead-in (up to 34 days) - Consenting participants will be randomized to receive daily oral cabotegravir (30mg tablets) or daily oral placebo for approximately 30 days, to assess safety and tolerability prior to exposure to the LA injectable formulation.
+
+ Period 2 - Clinical trial follow-up with injectable (approximately 48-96 weeks) - Participants who have successfully completed Period 1 will receive intra-muscular (IM) gluteal injections of cabotegravir LA (800 mg, administered as two 400 mg injections) or placebo every 12 weeks.
+
+ The end of Period 2 marks the completion of clinical trial follow-up.
+
+ Period 3 - Post-trial safety follow-up off-product (approximately 12 months) - During this post-trial safety observation period, participants will be followed up (off product) for approximately 12 months after completion of period 2.
+
+.
+
+ Safety and Acceptability of Cabotegravir in HIV Uninfected Women in KwaZulu-Natal, South Africa@highlight
+
+The CAPRISA 014 trial aims to assess the safety and acceptability of the long-acting (LA) injectable antiretroviral agent, cabotegravir LA (GSK1265744), in HIV uninfected women in KwaZulu-Natal, South Africa.
+

@@ -1,0 +1,22 @@
+(secondQuint)Stepwise Approach To sUbstrate Modification for Ventricular Tachycardia.
+
+ Sudden cardiac death due to VT (ventricular tachycardia) or VF (ventricular fibrillation) occurs at an estimated rate of 300,000 events per year in United States, accounting for 5.
+
+6% of annual mortality22.
+
+ A significant proportion of patients treated with ICDs (implantable defibrillators) will receive shocks due to recurrent VT, resulting in increased mortality8.
+
+ As a result, catheter-based ablation has emerged as an effective treatment for recurrent VT.
+
+ However, no study has assessed the impact of a step-wise approach on the outcome of catheter ablation of VT.
+
+ The investigators propose a prospective, multicenter, non-randomized, single-arm trial to evaluate the impact of a step-wise approach to catheter ablation on ventricular tachycardia recurrence.
+
+ Given the increasing use of catheter ablation in patients with recurrent ventricular tachycardia, this study will answer a critical question regarding the impact of a step-wise approach on the inducibility of VT at the end of the procedure and clinical recurrences of ventricular arrhythmias at 6 months.
+
+.
+
+ Stepwise Approach To sUbstrate Modification for Ventricular Tachycardia@highlight
+
+The goal of this trial is to test the impact of a step-wise approach for catheter ablation of recurrent ventricular tachycardia, (irregular heart rhythms that originate in the bottom chambers of the heart), in patients with a previous heart attack for whom catheter ablation is clinically indicated.
+

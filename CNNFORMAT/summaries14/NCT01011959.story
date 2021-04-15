@@ -1,0 +1,16 @@
+(firstQuint)A Multiple-dose Study of the Safety and Tolerability of REGN88(SAR153191) in Rheumatoid Arthritis Subjects.
+
+ This is a multi-centered, randomized, double-blind, placebo-controlled, ascending parallel-group study of the safety and tolerability of REGN88 in patients with rheumatoid arthritis who are receiving concomitant methotrexate.
+
+ This study will be conducted in 3 parts, and will include a total of 6 dose cohorts.
+
+ Part B will not begin until the safety of Part A has been assessed.
+
+ Part C will not begin until enrollment in Part B is complete.
+
+.
+
+ A Multiple-dose Study of the Safety and Tolerability of REGN88(SAR153191) in Rheumatoid Arthritis Subjects@highlight
+
+This is a randomized study of the safety and tolerability of multiple doses of REGN88 in rheumatoid arthritis patients who are receiving treatment with methotrexate.
+

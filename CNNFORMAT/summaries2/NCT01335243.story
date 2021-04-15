@@ -1,0 +1,24 @@
+(fifthQuint)Efficacy and Safety Study of Lumbar Interbody Fusion With MatriTMBONE Associated With Autologous Bone Marrow.
+
+ This clinical study corresponds to a TLIF surgery using a per-operating artificial substitute specific biomaterial: autologous osteoblasts punctured on iliac crest and put on a collagen support waxed with tri-calcium phosphate (which is osteoconductive) to perform a intervertebral body fusion.
+
+ Biomaterial MATRITM BONE: Device of class III, with marking IT in the indication of arthrodesis.
+
+ It will be administered during the lumbar interbody fusion's procedure.
+
+ The material is a matrix of collagen mineralized containing a homogeneous mixture of collagen cleansed of type I+III and an osseous biphasic substitute HA / TCP.
+
+ The proportion of both constituents is 90 % of osseous substitute for 10 % of collagen en masse.
+
+ The collagen is reduced in approximately 1 month and the osseous substitute leads to an osseous reshaping in 6 - 9 months approximately.
+
+ The follow up will last 12 months with 2 visits (6 and 12 months after surgery), 2 CT scan slides before inclusion and at 12 months, classical X-rays before inclusion and at 6 and 12 months, questionnaires (visual analogic scale for pain, and quality of life with OSWESTRY and SF36 scales) before inclusion and at 6 and 12 months, and biological exams (CRP/VS, for inflammation) at each visit.
+
+.
+
+ Efficacy and Safety Study of Lumbar Interbody Fusion With MatriTMBONE Associated With Autologous Bone Marrow@highlight
+
+The main objective of this clinical study is the estimation of the rate of intersomatic fusion observed 12 months after lumbar interbody fusion by posterior approach with PEEK interbody cage of fusion in PEEK performed with autologous bone of decortication and osseous substitute with a biomaterial (MatriBONE associated with the autologous bone marrow), associated with a posterolateral bone graft performed with MatriBone waxed with bone marrow.
+
+ Indication is dedicated for patients by painful degenerative osteoarthritis, by narrow lumbar canal and\or spondylolisthesis.
+

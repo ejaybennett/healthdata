@@ -1,0 +1,20 @@
+(thirdQuint)Bioavailability of Chemopreventive and Nutritional Compounds in Broccoli.
+
+ Background Glucosinolates (sulphur-containing compounds) are hydrolyzed by the plant enzyme myrosinase to ITC, which have chemopreventive properties.
+
+ No information has been reported about the metabolic fate of ITC in the kailan-hybrid broccoli, which physicochemical characteristics could greatly influence that metabolic fate.
+
+ Previous studies have shown that cooking process of vegetables may vary the human absorption of the correspondent nutritional and bioactive compounds.
+
+ Research Methods & Procedures A cross-over-design study of 7 subjects after ingestion of 200-g raw or microwaved kailan-hybrid broccoli was conducted.
+
+ Total ITC equivalents in the vegetable, urine and blood samples were determined by HPLC as the cyclocondensation product of 1,2-benzenedithiol.
+
+.
+
+ Bioavailability of Chemopreventive and Nutritional Compounds in Broccoli@highlight
+
+The aim of this study was to determine the absorption of isothiocyanates (ITC) after ingestion of kailan-hybrid broccoli through the analysis of the correspondent urinary biomarkers.
+
+ Furthermore, the effect of cooking (microwave) on the mentioned metabolic fate of these ITC was studied comparing to the uncooked vegetable.
+

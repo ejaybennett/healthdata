@@ -1,0 +1,16 @@
+(secondQuint)Sentinel Lymph Node Biopsy in Patients With Breast Cancer After Neoadjuvant Therapy.
+
+ The main object of the study is to evaluate, whether sentinel lymph node biopsy (SLNB) at women with breast cancer after neoadjuvant therapy is a method with a high false-negative rate.
+
+ Patients will be classified into groups according to histological findings during SLNB, clinical and ultrasonography (USG) findings in the axilla.
+
+ The aim of this study is to create clear indications for SLNB or axillary dissection (AD).
+
+ In case of extension of SLNB indications, there will be a decrease in morbidity after surgical therapy when compared to AD, which will mean a profit for the patients.
+
+.
+
+ Sentinel Lymph Node Biopsy in Patients With Breast Cancer After Neoadjuvant Therapy@highlight
+
+The aim of this study is to create clear indications for Sentinel Lymph Node Biopsy (SLNB) or Axillary Dissection (AD) in women with breast carcinoma after neoadjuvant therapy by studying the false negative rate of SLNB.
+

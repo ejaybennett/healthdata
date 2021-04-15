@@ -1,0 +1,11 @@
+(firstQuint)Gene Regulation by Thiazolidinediones.
+
+ The primary aim of the study is to examine the effect of rosiglitazone (Avandia) on gene regulation in colonic epithelium in the absence of pathologic acute and chronic intestinal inflammation.
+
+ The secondary aims are to determine the effect of rosiglitazone (Avandia) therapy on T cell activation and cytokine expression in the absence of pathologic acute and chronic intestinal inflammation.
+
+.
+
+ Gene Regulation by Thiazolidinediones@highlight
+
+The purpose of this study is to determine the effect of rosiglitazone on the genes of the colon

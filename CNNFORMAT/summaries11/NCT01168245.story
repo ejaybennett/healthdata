@@ -1,0 +1,20 @@
+(secondQuint)TMS Stimulation and Cognitive Training in Alzheimer Patients.
+
+ The current available pharmaceutical treatment for Alzheimer Disease (AD) is only partially and temporary effective.
+
+ Therefore, new approaches are needed.
+
+ rTMS is a non-invasive technique which generates a small electric current that induces a modulation in cortical excitability.
+
+ In addition, cognitive training was suggested to improve cognitive functions in Alzheimer patients.
+
+ In this study we intend to treat mild to moderate AD patients with rTMS interlaced with cognitive training (rTMS- COG).
+
+ Patients with probable AD will be treated with rTMS-COG daily for 6 weeks followed by maintenance sessions for additional 3 months.
+
+.
+
+ TMS Stimulation and Cognitive Training in Alzheimer Patients@highlight
+
+The aim of this study is to examine if combined treatment with TMS and cognitive training (CoTra) for several weeks can produce a sustained improvement in cognitive and behavioral symptomatology of mild to moderate Alzheimer's disease (AD) patients.
+

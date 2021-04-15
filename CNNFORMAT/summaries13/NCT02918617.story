@@ -1,0 +1,22 @@
+(thirdQuint)Clinical Efficacy in Relieving Dentin Hypersensitivity of Nanohydroxyapatite-Containing Toothpastes and Cream.
+
+ This is a double-blind, randomized, controlled, parallel group, outpatient clinical trial, involving a total of 270 patients diagnosed with dentin hypersensitivity, who will be randomly assigned to nine treatment groups of 30 patients each.
+
+ Males or females of age 18 to 80 years will be enrolled.
+
+ The nine groups will be randomly assigned to use one of the nine test products: (1) toothpaste containing nano-HAP (high concentration); (2) toothpaste containing nano-HAP (low concentration); (3) toothpaste containing nano-HAP and potassium nitrate (KNO3); (4) toothpaste containing NovaMin; (5) standard fluoride toothpaste with 1500 ppm MFP; (6) toothpaste containing nano-HAP (medium concentration); (7) placebo toothpaste; (8) cream containing nano-HAP; (9) placebo cream.
+
+ Subjects will be instructed to use the study toothpaste as their sole oral hygiene product for the 8 weeks treatment duration while the cream will be applied with a retainer tray for 5 minutes before bed at night.
+
+ For those using toothpastes, subjects will be instructed to brush their teeth twice daily for 2 minutes, morning and last thing before bed, applying on each occasion a one-inch strip of their assigned toothpaste on a wetted commercially available soft-bristled toothbrush.
+
+ Dentin hypersensitivity examination, which will include air blast sensitivity and cold thermal sensitivity combined with visual analog scale and Dental Pain Scale, will be conducted at baseline, 2, 4, 6, and 8 weeks.
+
+ Subjects will be screened for adverse effects on every visit, and all observed adverse events will be recorded when they occur.
+
+.
+
+ Clinical Efficacy in Relieving Dentin Hypersensitivity of Nanohydroxyapatite-Containing Toothpastes and Cream@highlight
+
+This study will investigate the effectiveness of nanohydroxyapatite (nano-HAP)-containing toothpastes and cream to relieve dentin hypersensitivity, comparing it with those of a commercial desensitizing dentifrice containing calcium sodium phosphosilicate (Novamin(R) technology) and a standard fluoride dentifrice containing 1,500 ppm fluoride as sodium monofluorophosphate (MFP).
+

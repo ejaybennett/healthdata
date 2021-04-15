@@ -1,0 +1,20 @@
+(secondQuint)POETRY: Study of Estrogen Replacement Therapy in Postmenopausal Women With Parkinson's Disease.
+
+ POETRY is an 8-week study of 30 post-menopausal women with Parkinson's disease (PD) who will be enrolled at six clinical sites in the United States.
+
+ The study is designed to measure the safety and tolerability of estrogen replacement therapy (ERT).
+
+ The study will also measure how ERT affects thinking and behavior, movement and activities of daily living, as well as motor fluctuations and dyskinesias.
+
+ Although we know there are gender differences in PD, no studies have assessed their impact on symptom management.
+
+ Women with PD usually require less levodopa, are more likely to experience drug-related dyskinesia, and commonly report changes of their symptoms with menstruation, menopause and use of hormones, implying that hormonal changes may impact PD symptoms.
+
+ All perimenopausal women face the decision whether or not to use estrogen replacement therapy (ERT) and for women with PD, information about estrogen's effects in PD may facilitate decision-making.
+
+.
+
+ POETRY: Study of Estrogen Replacement Therapy in Postmenopausal Women With Parkinson's Disease@highlight
+
+The primary objectives of the POETRY study are to assess the safety and tolerability of estrogen replacement therapy (ERT) in postmenopausal women with Parkinson's disease (PD) and to assess recruitment for a study of ERT in postmenopausal women with PD.
+

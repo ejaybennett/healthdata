@@ -1,0 +1,18 @@
+(firstQuint)Consumption of Dairy Yogurt Enhanced Immune Function.
+
+ A randomized, double-blind, placebo-controlled study was conducted on 120 nondiabetic and nonobese subjects.
+
+ Over an 8 week period, the test group consumed one pack (150ml) of dairy yogurt with 50mg probiotics and 100mg Korean citrus Hallabong peel polysaccharide (60% RG, 20% mono- and di-saccharide, 5% polyphenol) each day, whereas the placebo group consumed the same product without Korean citrus Hallabong peel polysaccharide.
+
+ NK cell activities (%) were measured based on the ratios of effector cells (E) (peripheral blood mononuclear cell, PBMC) from each participant to Target cell (T) (K562 cells) as 10:1, 5:1, 2.
+
+5:1 or 1.
+
+25:1.
+
+.
+
+ Consumption of Dairy Yogurt Enhanced Immune Function@highlight
+
+To investigate the impact of consumption of dairy yogurt with rhamnogalacturonan (RG) in Korean citrus Hallabong peel polysaccharide on Natural Killer (NK) cell activity and circulating cytokine levels.
+

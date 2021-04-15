@@ -1,0 +1,32 @@
+(thirdQuint)Plasmodium Immunotherapy for Lung Cancer.
+
+ In our study,30 patients with stage III/IV NSCLC will be enrolled to receive vaccination with an optimal concentration and amount of blood-stage P.
+
+ vivax to observe the infection time, rate and cycle; principal clinical symptoms such as fever and anemia; heart, liver and kidney function; changes in spleen morphology and function, and dynamic changes in the function of peripheral immune cells.
+
+ Moreover, the patient's tolerance to Plasmodium infection and changes in tumor-related parameters will be observed.
+
+ The duration of the planned treatment is 3-6 months, and successful infection will be indicated by microscopic observation of parasitemia in peripheral blood samples.
+
+ The treatment will last at least 12 weeks from the day of finding the Plasmodium from peripheral blood and will be terminated by chloroquine phosphate or Artemisinin compound preparation or Artesunate injection.
+
+ Each patient will be vaccinated with P.
+
+ vivax-infected red blood cells containing approximately 0.
+
+3-1*10^7 Plasmodium parasites.
+
+ After vaccination, the onset and duration of peripheral parasitemia and the infection rate; principal clinical symptoms such as Chills, fever, pain (headache, joint pain, etc.
+
+), digestive tract reaction;peripheral hemogram changes;heart, liver and kidney function; changes in lung function, and dynamic changes in the function of peripheral immune cells will be observed.
+
+ Moreover, the patient's tolerance to Plasmodium infection and changes in tumor-related parameters will be observed.
+
+.
+
+ Plasmodium Immunotherapy for Lung Cancer@highlight
+
+The objective of this study is to evaluate the safety and the effectiveness of Plasmodium immunotherapy (blood-stage infection of Plasmodium vivax) for advanced non-small cell lung cancer.
+
+The treatment will last 3-6 months from the day of successful infection and will be terminated by antimalarial drugs.
+

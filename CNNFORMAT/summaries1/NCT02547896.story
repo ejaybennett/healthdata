@@ -1,0 +1,20 @@
+(thirdQuint)Effectiveness of Diclofenac and Its Association to Codeine After Lower Third Molar Extraction.
+
+.
+
+ This research will evaluate the clinical efficacy of Diclofenac 50mg (NSAID) compared to its association with Codeine 50mg (opioid) administered in 50 patients aged less than 18 and requiring extraction of two third molars (with very similar positions, whose degree of difficulty is high).
+
+ It will be assessed the following parameters: 1) onset and duration of surgery after administration of local anesthetic, 2) open mouth prior to surgery, on the 2nd day after the operation and on the 7th day after surgery (removal points), 3) subjective assessment of pain using a visual analog scale, 4) measurement of facial edema in the second day after the operation and on the 7th day after surgery (as compared with the measurements obtained before surgery) and 5) the incidence, type and severity of adverse reactions.
+
+ The analysis comparative data, along with the proper application of statistical tests, provide the basis for an evaluation of both efficiency medications used.
+
+.
+
+ Effectiveness of Diclofenac and Its Association to Codeine After Lower Third Molar Extraction.
+
+@highlight
+
+It will be evaluated the clinical efficacy of Diclofenac 50mg (NSAID) compared to its association with Codeine 50mg (opioid) administered in 50 patients requiring extraction of two third molars.
+
+ After assessing the research parameters, a comparative data analysis, along with the proper application of statistical tests, will provide the basis for an evaluation of both efficiency medications used.
+

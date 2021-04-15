@@ -1,0 +1,14 @@
+(secondQuint)Methods of Weight Loss in Overweight Coronary Patients.
+
+ We hypothesize that a combination of high-caloric expenditure exercise and behavioral weight loss counseling would lead to a greater loss of fat mass and a greater improvement in cardiometabolic risk factors that standard (lower caloric expenditure) cardiac rehabilitation exercise plus counseling.
+
+ The study population consists of overweight (BMI >27) patients with established coronary heart disease.
+
+ The exercise and counseling program was of 4 months duration with extended follow up at 1 year.
+
+.
+
+ Methods of Weight Loss in Overweight Coronary Patients@highlight
+
+We hypothesize that a combination of high-caloric expenditure exercise and behavioral weight loss counseling would lead to a greater loss of fat mass and a greater improvement in cardiometabolic risk factors that standard (lower caloric expenditure) cardiac rehabilitation exercise plus counseling.
+

@@ -1,0 +1,20 @@
+(firstQuint)Efficacy of Use of Zinc in the Treatment of Acute Diarrhea in Infants.
+
+ Background: Acute Gastroenteritis is one of the most and frequent disease in the childhood, today exist strong evidence of beneficial effect of use of zinc in acute diarrhea in children over 6 months.
+
+ but there are not enough clinical trials to show this beneficial effect on children under 6 months.
+
+ Objectives: To evaluate the effect of zinc in the treatment of children under 6 months age with acute diarrhea.
+
+ Methods: A randomized clinical trial, controlled, double-blind.
+
+ The investigators will have two groups of patients : One group will receive zinc plus oral rehydration and the other one will receive placebo plus oral rehydration; the parameters of evaluation are going to be the duration of diarrheal episode, number of diarrhea stools by day, weight of stool, nutritional state.
+
+.
+
+ Efficacy of Use of Zinc in the Treatment of Acute Diarrhea in Infants@highlight
+
+The purpose of this study is to determine the effect of zinc in acute watery diarrhea in children.
+
+ The investigators will evaluate the effect of product versus placebo.
+

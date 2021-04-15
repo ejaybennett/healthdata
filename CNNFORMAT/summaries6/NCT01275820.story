@@ -1,0 +1,14 @@
+(firstQuint)A Study to Evaluate Glucose and Insulin Response to Nutralin.
+
+ The investigational food product has helped decrease the amount of insulin needed in treating diabetic dogs and has improved the dogs' longevity and quality of life.
+
+ Observational analysis by trained veterinarians has indicated that the natural fluctuations in blood glucose levels do not exist in dogs using the product.
+
+ The hypothesis for this study is that healthy human subjects will have an increase in insulin levels after consuming the investigational food product.
+
+.
+
+ A Study to Evaluate Glucose and Insulin Response to Nutralin@highlight
+
+The purpose of this study is to evaluate how an investigational food product affects a healthy person's blood sugar and insulin levels.
+

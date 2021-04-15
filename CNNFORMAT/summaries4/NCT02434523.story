@@ -1,0 +1,16 @@
+(firstQuint)Trial of the Treatment of Chronic Laryngitis With Amitryptiline.
+
+ The study will compare the effectiveness of amitriptyline versus placebo (inactive medication) in treating chronic laryngitis.
+
+ At the baseline visit, subjects will be assigned at random to amitriptyline or placebo which they will take for 8 weeks.
+
+ Subjects will be seen in the clinic at baseline and at 8 weeks.
+
+ Improvement will be measured using standardized symptom scales, and a self-reported subjective improvement percentage.
+
+.
+
+ Trial of the Treatment of Chronic Laryngitis With Amitryptiline@highlight
+
+The study will compare the effectiveness of amitriptyline versus placebo (inactive medication) in treating chronic laryngitis.
+

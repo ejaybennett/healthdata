@@ -1,0 +1,18 @@
+(secondQuint)Comparison of Sleep Study Results After Partial Intracapsular Tonsillectomy Versus Total Tonsillectomy.
+
+ Objectives: To demonstrate similar improvement in sleep-disordered breathing as determined by polysomnography (PSG) with microdebrider-assisted partial intracapsular tonsillectomy and adenoidectomy (PITA) versus Bovie electrocautery complete tonsillectomy and adenoidectomy (T&A).
+
+ Methods: In a retrospective cohort study children found to have Obstructive Sleep Apnea (OSA) by PSG who have undergone either PITA or T&A as treatment will be evaluated with repeat PSG.
+
+ The groups will be matched by age, sex, and severity of pre-operative Apnea-Hypopnea Indices (AHI).
+
+ The investigators performing and evaluating the PSG will be blinded to type of procedure and preoperative AHI.
+
+ Change scores will be computed for each participant and the change scores of the groups compared.
+
+.
+
+ Comparison of Sleep Study Results After Partial Intracapsular Tonsillectomy Versus Total Tonsillectomy@highlight
+
+The purpose of this study is to demonstrate similar improvements in sleep-disordered breathing as determined by sleep study with microdebrider-assisted partial intracapsular tonsillectomy and adenoidectomy versus total Bovie electrocautery tonsillectomy and adenoidectomy.
+

@@ -1,0 +1,45 @@
+(fifthQuint)Whole-body Vibration Physiotherapy in Kidney Transplantation.
+
+ Background The increasing incidence of muscular wasting, bone disease, falls and related fractures are the price for excellent survival rates in transplanted patients.
+
+ Kidney recipients loose significant amounts of muscle mass and skeleton minerals in the early post-transplantation period and suffer from increasing abnormalities of neuromuscular functions.
+
+ Recently, stochastic whole-body vibration (WBV) has received much attention as a potential muscle-anabolic and anti-osteoporotic intervention.
+
+ It is suggested that the randomized low-frequency signals produced during such training can activate otherwise high threshold afferent and efferent motor-neurons and thus may result in a considerable neuromuscular activation.
+
+ Additionally, there data supporting peripherally-induced central biochemical activation, that meaning the production of CNS modulators due to application of mechanical exercise such as stochastic WBV.
+
+ The result is a rapid (within minutes), transient force increase.
+
+ Due to the high number of stimuli-repetitions, it is possible to increase muscle strength using shorter training times ( 30 min).
+
+ Several experimental and clinical studies have shown that in addition to muscle function, WBV also improved body balance and bone mineral density.
+
+ Moreover, a population of renal transplant recipients has not yet been studied elsewhere.
+
+ WBV is a very appealing approach, foremost in subjects with limited physical activity; it represents a potentially simple and efficient training method for skeletal muscle and better functional performance, thus preventing falls and consequently fractures.
+
+ Objective Primary: - To determine the effect of post-transplantation stochastic WBV therapy on preservation of functional muscle strength.
+
+ Secondary: To assess a) the efficacy of post-transplantation stochastic WBV on body balance b) the efficacy of post-transplantation stochastic WBV on preservation of lean muscle mass determined by Magnetic Resonance Spectroscopy (MRS) c) the changes in bone turnover markers in renal transplant recipients under stochastic WBV therapy d) the short-term safety of stochastic WBV therapy in renal transplant recipients.
+
+ Methods Prospective, randomized, double-blinded, placebo-controlled setting.
+
+ Recruited individuals will be randomized in Group 1 (intervention) and in Group 2 (placebo).
+
+ All participants will be evaluated monthly for occurrence of falls and fractures, and treatment-associated side effects.
+
+ Testing will be performed upon study entry and at 3 and 6 months according to the following schedule: Visit 1 (Baseline): - Muscle strength measurement - Neuromuscular tests (SPPBT) - Magnetic resonance spectroscopy (MRS) - Turnover Markers (blood) Visits 2 and 3 (after 3 and 6 months respectively): Identical to visit 1.
+
+ Whole-body Vibration Physiotherapy in Kidney Transplantation@highlight
+
+Kidney recipients loose significant amounts of muscle mass and skeleton minerals in the early post-transplantation period and suffer from increasing abnormalities of neuromuscular functions.
+
+ Stochastic whole body vibration (WBV) therapy is a relatively new form of movement physiotherapy that is used for strength training.
+
+ Various clinical studies have shown that in addition to muscle function, WBV also improved body balance and bone mineral density.
+
+ To study the impact of stochastic WBV physiotherapy on musculoskeletal parameters after renal transplantation, kidney transplant recipients will be enrolled and undergo WBV.
+
+ The investigators hypothesize that WBV physiotherapy improves both maximum muscle strength and muscular performance

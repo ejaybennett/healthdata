@@ -1,0 +1,34 @@
+(firstQuint)The Influence of Probiotics in a Drinkable Yogurt on Skin Health.
+
+ This is a placebo-controlled, double blind, randomized, single center, human clinical trial aimed at assessing the influence of probiotics on skin health in healthy female subjects, when administered in a food matrix over a period of 5 months.
+
+ It will consist of five groups(40 subjects/group).
+
+ The first group (1) of subjects will receive acidified milk that does not contain bacterial strains.
+
+ The second group (2) will receive acidified milk that contains one specific probiotic strain.
+
+ The third group (3) will receive fermented milk that contains a standard mix of yogurt bacterial strains.
+
+ The fourth group (4) will receive fermented milk, containing the same standard mix of yogurt bacterial strains as in group 3 plus the same specific probiotic strain as in group 2.
+
+ Finally, the fifth group (5) will receive fermented milk, containing the same standard mix of yogurt bacterial strains as in group 3 and 4 plus the same specific probiotic strain as in group 2 and 4 plus a mix of antioxidants.
+
+ This study will address whether: A.
+
+The bioefficacy of a specific probiotic strain is influenced by a milk matrix.
+
+ B.
+
+Whether other bacterial strains impact the bioefficacy of this specific probiotic strain, and validate whether or not the bioefficacy is related entirely to the activity of this specific probiotic strain.
+
+ C.
+
+Whether nutritional supplements impact the bioefficacy of a specific probiotic strain.
+
+.
+
+ The Influence of Probiotics in a Drinkable Yogurt on Skin Health@highlight
+
+The aim of this study is to test if probiotics administered to healthy female subjects in a dairy format have any skin health benefits.
+

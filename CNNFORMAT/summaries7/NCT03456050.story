@@ -1,0 +1,28 @@
+(secondQuint)Effectiveness of 'Functional Range Conditioning' in Treating Patients With Chronic Non-specific Low Back Pain.
+
+ It will be a single blind two-arm randomized controlled trial.
+
+ Saudi men and women aged between 25 - 45 years with a diagnosis of chronic non-specific low back pain will be invited to participate in this study.
+
+ Subjects who will fulfill the study's criteria and who are willing to participate in this study will be asked to sign an informed consent form.
+
+ The primary outcome will be the active and passive range of motion (ROM) of the hip internal rotators and it will be measured using digital inclinometer.
+
+ The secondary outcomes in this study will be the maximum torque of the hip abductors (gluteus medius), concentric at a constant, low-speed, and high-speed.
+
+ The peak torque and strength will be measured using isokinetic dynamometry, pain intensity will be assessed using a visual analog scale and disability will be assessed using Oswestry disability index.
+
+ All participants will have their information taken by the principal investigator.
+
+ Subsequently, participants will randomly be assigned to either the FRC group or the conventional treatment group by the principal investigator.
+
+ Concealed randomization will be performed by means of a computer-generated table of random numbers.
+
+ Outcomes will be measured at baseline, week 4 and week 8 for all participants in both groups by an assistant researcher.
+
+.
+
+ Effectiveness of 'Functional Range Conditioning' in Treating Patients With Chronic Non-specific Low Back Pain@highlight
+
+The aims of this study are to examine the effectiveness of functional range conditioning in patients with chronic non-specific low back pain in terms of improving hip internal rotation and strength of the hip abductors, and reducing pain and disability.
+

@@ -1,0 +1,26 @@
+(thirdQuint)Pushing Spatiotemporal Limits for 4D Flow MRI and Dynamic MRA in the Brain at Ultra-High Field.
+
+ The hemodynamic factors responsible for hemorrhagic stroke, resulting in wide variations in the clinical management of underlying vascular lesions, especially when they are found in asymptomatic individuals or individuals with symptoms not related to the disease.
+
+ Therefore, there is an urgent need for the development of reliable biomarkers based on hemodynamic parameters, which can then enable improvements in risk assessment in patients presenting with these lesions.
+
+ This need can be met by non-invasive Magnetic Resonance Imaging (MRI) techniques that provide information on high resolution vascular anatomy, visualization of cerebral hemodynamics and quantitative information about blood velocity.
+
+ However, such techniques as presently employed at 1.
+
+5 or 3 Tesla are limited by spatial resolution and prolonged data acquisition times.
+
+ The primary goal of this proposal is to overcome these current limitations by exploiting Ultra-High Fields (UHF, i.
+
+e.
+
+ 7 Tesla (7T)) to attain significantly higher spatial resolution, faster acquisitions and increased lesion conspicuity utilizing - Qualitative exploration of intracranial blood hemodynamics, - Quantitative imaging of the spatiotemporally resolved blood velocity vector, - Derivation of hemodynamic parameters.
+
+.
+
+ Pushing Spatiotemporal Limits for 4D Flow MRI and Dynamic MRA in the Brain at Ultra-High Field@highlight
+
+This study aims at investigating the blood hemodynamics with high spatiotemporal resolution in patients with brain aneurysms and AVMs as well as in healthy controls.
+
+ Parameters such as peak blood velocity, wall shear stress and other derived parameters will be obtained from 4D flow MRI data acquired at ultra-high field strength (7 Tesla).
+

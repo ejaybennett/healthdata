@@ -1,0 +1,20 @@
+(secondQuint)Impact of a Process Intervention on Screening and Testing Outcomes for Common Hereditary Cancer Syndromes.
+
+ This is a prospective process intervention study that will compare historical pre-process intervention data to post-intervention data from study providers within participating community obstetrics and gynecology practices.
+
+ This study will begin with a process intervention at the participating practices during which Myriad Genetics personnel experienced in implementation of hereditary cancer risk assessment programs will provide training to practice providers.
+
+ The training will be followed by a 4-week practice period to allow for incorporation of the recommendations of the intervention process into the practice.
+
+ During a subsequent 8-week Observation period, women who present for an office visit (new patient visit, well women visit, or problem visit) will be screened for common hereditary cancer syndromes following the process established during the process intervention.
+
+ Patients who meet NCCN/ACOG testing guidelines will be offered genetic testing.
+
+ Patients and study providers will be surveyed about their satisfaction with the hereditary cancer risk assessment process.
+
+.
+
+ Impact of a Process Intervention on Screening and Testing Outcomes for Common Hereditary Cancer Syndromes@highlight
+
+A prospective, non-interventional study to evaluate the impact of a process engineering intervention on screening and testing outcomes for common hereditary cancer syndromes in community-based OB/GYN settings.
+

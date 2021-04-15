@@ -1,0 +1,18 @@
+(secondQuint)Pilot Study of Lychee Fruit Extract to Promote Cardiovascular Health.
+
+ Several large-scale epidemiologic studies have indicated that chronic consumption of flavonoid-rich foods appear to be associated with decreased risk for several chronic diseases including cancer, diabetes, cardiovascular disease, and stroke.
+
+ In humans, consumption of several flavonoid-rich foods and beverages, such as berries, teas, cocoa, and grapes have been reported to improve vascular endothelial function and decrease platelet reactivity.
+
+ Previous work at UC Davis by Dr.
+
+ Keen and colleagues has helped define the role of flavanols in vascular function, and has used a flavanol-rich cocoa extract as the test material.
+
+ In this proposed study, we seek to explore the role of a lychee fruit extract rich in flavanols, and its effects of vascular and metabolic parameters.
+
+.
+
+ Pilot Study of Lychee Fruit Extract to Promote Cardiovascular Health@highlight
+
+The investigators hypothesize that acute and short term consumption of a lychee fruit extract, particularly rich in low molecular weight dietary flavanols, will improve vascular function and reduce platelet reactivity.
+

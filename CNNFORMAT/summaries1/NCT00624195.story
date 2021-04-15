@@ -1,0 +1,42 @@
+(fifthQuint)Clinical Trial of CNS-targeted HAART (CIT2).
+
+ "HIV Neurocognitive Disorders: A Randomized Clinical Trial of CNS-targeted HAART" is a randomized, controlled clinical trial to assess the efficacy of a strategy for targeting highly active antiretroviral therapy (HAART) to the CNS in patients with HIV associated neurocognitive impairment (HNCI).
+
+ Contemporary cohort studies have consistently demonstrated that HNCI remains a prevalent disorder in patients receiving HAART.
+
+ HNCI is a significant burden to persons living with HIV infection, caregivers, and the healthcare system.
+
+ Thus the development of effective treatment strategies is of critical public health importance.
+
+ This study is based on findings from a previous study.
+
+ Briefly, among individuals with HNCI who initiated a new antiretroviral (ARV) therapy regimen, those receiving more highly CNS-penetrating ARV regimens were more likely to successfully suppress cerebrospinal fluid (CSF) viral load (VL), and those who achieved CSF suppression (VL < 50 c/mL) had better neurocognitive (NC) outcomes.
+
+ These findings suggest that NC outcomes of ART may be enhanced by the planned application of an ARV selection and clinical monitoring strategy designed to optimize the treatment of CNS infection.
+
+ In the future it will become increasingly important to consider CNS penetration issues in selecting ART regimens.
+
+ The randomized clinical trial proposed here would provide the level of evidence needed to formulate ART guidelines specific to HNCI.
+
+ Subjects eligible for this trial will be individuals with HNCI who anticipate initiation of a new ARV regimen or substitution of their existing regimen following contemporary treatment guidelines.
+
+ A total of 120 patients at 3 study sites will be randomized 1:1 to receive a CNS-targeted (CNS-T) ARV strategy versus a non-CNS-targeted (Comparison) strategy.
+
+ The primary outcome, change in global neuropsychological (NP) performance, will be assessed at 16 weeks.
+
+ CNS-T will comprise two components: 1) initial selection of agents to optimize CNS penetration of the overall regimen; and 2) modification of the regimen if an interim pharmacokinetic (PK) assessment determines that plasma ARV exposure is not appropriate (overdosing, underdosing).
+
+.
+
+ Clinical Trial of CNS-targeted HAART (CIT2)@highlight
+
+CIT2 is a strategy for targeting HAART (Highly Active Antiretroviral Therapy) to the CNS (Central Nervous System) in patients with HIV associated neurocognitive impairment (HNCI).
+
+ The primary goal of this study is to evaluate the effectiveness of CNS-targeted (CNS-T) as compared to non-CNS-targeted (non-CNS-T) HAART in treating HNCI globally and in different domains of functioning known to be affected by HIV.
+
+ It is hypothesized that participants in the CNS-T arm will have greater improvement in neurocognitive functioning than those in the non-CNS-T arm.
+
+ The secondary goal of the study is to compare participants assigned to CNS-T and non-CNS-T HAART on measures of CNS and systemic HIV suppression (undetectable CSF and plasma VL).
+
+ It is also hypothesized that although CSF viral suppression will be more frequent in the CNS-T arm, plasma viral suppression will be similar in the two treatment arms.
+

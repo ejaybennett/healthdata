@@ -1,0 +1,30 @@
+(fifthQuint)Sleep Disorders Managed and Assessed Rapidly in Transient Ischemic Attack (TIA) and In Early Stroke.
+
+ Every year, thousands of people in Canada either die or are permanently disabled after suffering a stroke.
+
+ This costs our society billions of dollars in physician services, hospital expenses, and decreased productivity.
+
+ Some individuals are slightly more lucky; instead of having a severe stroke, they have either a very mild stroke or temporary stroke symptoms, also known as a transient ischemic attack (TIA), and do not experience any loss of abilities.
+
+ However, mild strokes and TIA's can precede the onset of a more serious, disabling stroke.
+
+ Most of the significant strokes that happen after a mild stroke or TIA occur within days of the original event; there is a need for early interventions that could prevent such occurrences.
+
+ One of the goals of recent research has been to find ways to prevent major strokes after individuals have sustained a minor stroke or TIA.
+
+ Up until now, stroke doctors have focused on treating elevated blood pressures and cholesterol levels, scanning the blood vessels in the neck for significant narrowings, and searching for irregular heart rhythms, all of which are treatable conditions that put patients at risk for having a stroke.
+
+ Despite research which shows that sleep disorders such as sleep apnea (abnormal pauses in breathing during sleep) or restless legs syndrome (which can cause involuntary leg movements in sleep) are possible risk factors for stroke, these conditions are not routinely investigated by stroke doctors after a TIA or stroke.
+
+ The investigators hypothesize that the study patients, who will all receive an expedited sleep assessment and expedited treatment of their sleep disorders, will have at the 3-month follow-up assessment: (i) Significantly improved quality of life at 3 months compared to baseline measurements (primary outcome); (ii) Improved outcomes on measures of sleepiness, psychomotor vigilance, daily function, depressive symptoms, cognition, and blood pressure at 3 months (secondary outcomes).
+
+.
+
+ Sleep Disorders Managed and Assessed Rapidly in Transient Ischemic Attack (TIA) and In Early Stroke@highlight
+
+The aim of the investigators was to determine whether the immediate management of any detected sleep disorders can improve outcomes in patients who have had a transient ischemic attack (TIA) or minor stroke.
+
+ This group of patients is at high risk for having a recurrent stroke or TIA, and the investigators would like to investigate new ways of preventing potentially avoidable events.
+
+ The treatment of sleep disorders immediately after a stroke or TIA may prove to be a novel method of avoiding future strokes and improving outcomes.
+

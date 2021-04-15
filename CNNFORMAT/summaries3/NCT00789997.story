@@ -1,0 +1,26 @@
+(secondQuint)TNF-alpha Antagonists for AECOPD: A Randomized, Double-Blind, Placebo-Controlled Pilot Trial.
+
+ Acute exacerbations of COPD (AECOPD)are usually treated with steroids and antibiotics.
+
+ Currently this conventional therapy has significant side effects including osteoporosis, cataracts,and suppression of the immune system.
+
+ Studies have suggested that up to 24% of inpatients and 27% of outpatients fail this treatment by 4 weeks.
+
+ During an acute exacerbation of COPD, the inflammatory process increases.
+
+ Studies have shown the TNF-alpha cytokines appears to play a major role.
+
+ Etanercept is a TNF alpha inhibitor.
+
+ It inactivates TNF alpha cytokines by blocking their interaction with their cellular receptors.
+
+ This study will compare the treatment of acute exacerbations of COPD with: 1) Levofloxacin 750 mg daily for 10 days + prednisone 40 mg daily for 10 days, or 2) Levofloxacin 750 mg daily for 10 days + etanercept 50 mg subcutaneous given on the day of randomization and one week later.
+
+ Patients randomized to group 1 (the control group) will receive placebo subcutaneous injections, and patients randomized to group 2 (the experimental group) will receive placebo prednisone capsules.
+
+.
+
+ TNF-alpha Antagonists for AECOPD: A Randomized, Double-Blind, Placebo-Controlled Pilot Trial@highlight
+
+The purpose of this study is to determine whether treatment with antibiotics plus a TNFalpha antagonist will provide more effective treatment for acute COPD exacerbation compared to the current standard treatment of antibiotics plus prednisone.
+

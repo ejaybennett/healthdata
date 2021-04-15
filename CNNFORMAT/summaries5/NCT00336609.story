@@ -1,0 +1,14 @@
+(secondQuint)TRIAD Burden of Illness Mucositis Study.
+
+ This comprehensive, observational study will prospectively elicit the true incidence (risk) and health and economic burdens of mucosal toxicities associated with anti-cancer drug and radiation therapy.
+
+ This study will examine the burden of illness of gastrointestinal mucositis (defined as mucositis involving the mouth, esophagus, or small intestine) in the most significant regimens used to treat the most common types of cancers.
+
+ It is an international investigation in which 1600 patients being treated with specific regimens for cancers of the head and neck, breast, colon, lung (NSCLC)and Non-Hogkin's Lymphoma will be prospectively enrolled from centers throughout the US, Canada, Europe and Australia.
+
+.
+
+ TRIAD Burden of Illness Mucositis Study@highlight
+
+Observational (non-drug) study to look at the risks and burden of mucositis (sores) involving the mouth, throat and intestines in patients receiving chemotherapy and radiation therapy treatment for various cancer types.
+

@@ -1,0 +1,14 @@
+(secondQuint)Hematopoetic Stem Cell Transplant and Physical Function.
+
+ The researchers will quantify the decline in physical function of HSCT patients using valid and reliable tests aimed to mimic activities of daily living, quantify cardiovascular health, and quantify muscle power declines.
+
+ Also, patients will undergo a walking program during their hospitalization, which is designed to increase physical activity levels and maintain and improve physical function and quality of life.
+
+ Additionally, using valid and reliable questionnaires, the researchers will gauge perception of exercise, quantify current exercise levels, determine preference of exercise programs and counseling, and measure differences in quality of life before and after HSCT treatment.
+
+.
+
+ Hematopoetic Stem Cell Transplant and Physical Function@highlight
+
+This study will determine if a structured walking intervention will help maintain or improve physical activity levels, physical function and quality of life in hematopoietic stem cell transplant patients.
+

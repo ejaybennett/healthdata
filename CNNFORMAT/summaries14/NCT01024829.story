@@ -1,0 +1,48 @@
+(fifthQuint)Dose Escalation by Boosting Radiation Dose Within the Primary Tumor Using FDG-PET-CT Scan in Stage IB, II and III NSCLC.
+
+ A randomized phase II study will be conducted in patients with inoperable stage IB, II or III non-small cell lung cancer (NSCLC).
+
+ The patients will be randomized to receive the standard 66 Gy given in 24 fractions of 2.
+
+75 Gy with an integrated boost to the primary tumor as a whole (Arm A) or with an integrated boost to the 50% SUVmax area of the primary tumor (of the pre-treatment FDG-PET scan) (Arm B).
+
+ Both treatment arms may be combined with chemotherapy (concurrent or sequential).
+
+ Patients fulfilling the eligibility criteria will be registered in the study, and an initial radiotherapy treatment planning will be performed.
+
+ When an integrated boost to the primary tumor as a whole up to 72 Gy is not possible because of dose constraints, the patient will receive 66 Gy or lower according to the normal tissue tolerance (see below).
+
+ They will not be randomized, but will be followed in the trial.
+
+ As such, it will be clear which proportion of patients can receive an integrated boost and what the outcome is when dose-escalation is not possible.
+
+ Stage IB-II patients receive radiotherapy alone, and stage III patients combined chemotherapy and radiation.
+
+ The patients may have received induction chemotherapy up to two cycles before registration in this trial.
+
+ The statistical calculations have been performed to deal with this patient heterogeneity.
+
+ The primary objective of this study is to determine the local progression-free survival (LPFS)at 1 year.
+
+ Secondary objectives will be - Toxicity as a function of radiotherapy dose and volume of the tissue irradiated.
+
+ - Overall survival.
+
+ - Quality of life Furthermore: - PET imaging of hypoxia using [18F]HX4, single injection and then PET CT scanning two and four hours post injection.
+
+ - Dynamic Contrast-Enhanced CT imaging.
+
+ Dose Escalation by Boosting Radiation Dose Within the Primary Tumor Using FDG-PET-CT Scan in Stage IB, II and III NSCLC@highlight
+
+Increasing ("boosting") the radiation dose for patients with non-small cell lung carcinoma to the individual maximal dose which can safely be given.
+
+ The question is if patients should receive this boost on the whole tumor on part of the tumor.
+
+ Therefore patients are randomized for one of these two treatment options.
+
+ All patients will receive 24 radiations.
+
+ Dose increasement will be enabled by a so called integrated boost.
+
+ Furthermore: - PET imaging of hypoxia using [18F]HX4, single injection and then PET CT scanning two and four hours post injection.
+

@@ -1,0 +1,12 @@
+(firstQuint)Impact on Outcome of Early Endoscopic Extraction of Bile Duct Stones in Biliary Pancreatitis.
+
+ Impact on outcome of early endoscopic extraction of bile duct stones in biliary pancreatitis: a prospective multicenter randomized controlled study.
+
+ Main objective: to test the interest of early bile duct decompression by endoscopic sphincterotomy after early non invasive diagnosis by endosonography or MR cholangiography.
+
+ Prospective multicenter randomized controlled study with direct patient benefit.
+
+ Impact on Outcome of Early Endoscopic Extraction of Bile Duct Stones in Biliary Pancreatitis@highlight
+
+Impact on outcome of early endoscopic extraction of bile duct stones in biliary pancreatitis: a prospective multicenter randomized controlled study.
+

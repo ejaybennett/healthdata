@@ -1,0 +1,38 @@
+(fifthQuint)Ventilation Efficacy of Size 3 or Size 4 I-gel in Female Patient Weighing 50 to 60 Kilograms.
+
+ With the introduction of the laryngeal mask, it has been widely used for the management of airway during general anesthesia.
+
+ Compared to the endotracheal tube, it has the advantages of easier and faster placing, reducing the proportion of a sore throat and other benefits.
+
+ The i-gel(R) is a second-generation of the laryngeal mask.
+
+ Compared to the classic laryngeal mask, it provides higher sealing pressure and better airway protection to reduce respiratory complications.
+
+ Choosing an appropriate size laryngeal mask is an important issue.
+
+ Trauma during placing or positive ventilation failure may occur if the wrong size is selected.
+
+ Currently, the main method for selecting an i-gel(R) size is based on the body weight recommendation (30-60 kg for size 3 and 50-90 kg for size 4) according to the manufacturer's recommendation.
+
+ However, there is an overlapping in size selection in people weighing between 50 and 60 kilograms.
+
+ Laryngeal mask airways are widely used for breast surgery, and this patient cohort is often weighed between 50-60 kilograms in National Taiwan University Hospital.
+
+ Therefore, in this randomized clinical trial, the investigators will compare the ventilation efficacy of size 3 and size 4 i-gel(R) in anesthetized, paralyzed female patients weighing 50 to 60 kilograms who undergo breast surgery.
+
+ Also, the investigators will record any side effects of size 3 and size 4 i-gel(R) in this cohort.
+
+ Keywords: Airway management; laryngeal mask airway; breast surgery.
+
+ Ventilation Efficacy of Size 3 or Size 4 I-gel in Female Patient Weighing 50 to 60 Kilograms@highlight
+
+Currently, the main method for selecting an i-gel(R) size is based on the body weight recommendation (30-60 kg for size 3 and 50-90 kg for size 4) according to the manufacturer's recommendation.
+
+ However, there is an overlapping in size selection in people weighing between 50 and 60 kilograms.
+
+ Laryngeal mask airways are widely used for breast surgery, and this patient cohort is often weighed between 50-60 kilograms in National Taiwan University Hospital.
+
+ Therefore, in this randomized clinical trial, the investigators will compare the ventilation efficacy of size 3 and size 4 i-gel(R) in anesthetized, paralyzed female patients weighing 50 to 60 kilograms who undergo breast surgery.
+
+ Also, the investigators will record any side effects of size 3 and size 4 i-gel(R) in this cohort.
+

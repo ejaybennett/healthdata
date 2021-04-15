@@ -1,0 +1,13 @@
+(firstQuint)Single Versus Multiple Visits Endodontic Treatment.
+
+ Patients with necrotic teeth with apical periodontitis will be selected according to the eligibility criteria and patients are then randomized to either single visit or multiple visit using triple paste intracanal medicament.
+
+ Postoperative pain will then assessed using numerical rating scale after 1, 2, 3 and 7 days post-instrumentation.
+
+ Radiographic healing will be assessed every 3 months up to one year.
+
+.
+
+ Single Versus Multiple Visits Endodontic Treatment@highlight
+
+Healing rate after single visit or multiple visit endodontic treatment using triple paste intracanal medicament will be assessed both clinically and radio-graphically for follow-up period up to one year

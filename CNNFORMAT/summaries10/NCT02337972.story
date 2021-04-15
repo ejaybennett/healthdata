@@ -1,0 +1,30 @@
+(secondQuint)Conjunctival Flora Patterns After Serial Intravitreal Injections in Diabetic Patients.
+
+ The study is designed to enroll patients with Diabetes Mellitus over 18 years of age with diagnosis of diabetic retinopathy and diabetic macular edema, who were determined by their treating physician to require at least 3 serial injections with an anti-VEGF agent.
+
+ After signing an informed consent, conjunctival cultures will be performed from the participants' both eyes at baseline and at each subsequent injection.
+
+ Prior to each injection and the use of povidone-iodine drops, a conjunctival culture will be taken by swabbing the inferior fornix.
+
+ Another culture will be taken twenty minutes after the injection.
+
+ We will culture the swab samples on blood and chocolate agar plates.
+
+ All patients will be asked to complete a questionnaire regarding their signs and symptoms after the injection (like burning sensation, itching, discharge, tearing etc).
+
+ The following routine procedure will be used in all intravitreal injections: local anesthesia using Oxybuprocaine hydrochloride, ocular surface and eyelids sterilization with topical povidone-iodine 4%.
+
+ Intravitreal injection of 3.
+
+5 mm will be performed posterior to the limbus in pseudophakic patients and 4 mm injection will be performed posterior to the limbus in phakic patients using a 30 gauge needle.
+
+ The exclusion criteria will consist patients who had received a prior intraocular injection in either eye, current use of contact lenses, chronic use of any ophthalmic medication, ocular surgery within the past 6 months, use of systemic antibiotics within the past 6 months and known allergy or contraindication to povidone-iodine or proparacaine.
+
+ The study is planned to enroll 50 patients.
+
+.
+
+ Conjunctival Flora Patterns After Serial Intravitreal Injections in Diabetic Patients@highlight
+
+The aim of this study is to investigate the conjunctival bacterial flora and antibiotic resistance patterns following serial intravitreal injections of anti-VEGF in diabetic patients, using a povidone-iodine preparation without preinjection or postinjection topical antibiotics.
+

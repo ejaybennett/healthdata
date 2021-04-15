@@ -1,0 +1,26 @@
+(secondQuint)Chest CT With Iterative Reconstruction as an Alternative to Conventional Chest X-ray Prior to Heart Surgery.
+
+ During heart surgery the aorta is clamped to initiate cardiopulmonary bypass.
+
+ This may crush aortic calcifications causing them to embolize to the brain causing a stroke which is a devastating complication for the patient.
+
+ A chest X-ray is routinely performed prior to heart surgery.
+
+ It provides no information about aortic calcification.
+
+ Imaging by a chest computed tomography (CT) scan provides detailed information on aortic calcification but has higher radiation exposure and thus is not used routinely.
+
+ Recently iterative reconstruction (IR) techniques have become available that allow chest CT to be performed at markedly reduced dose with retained image quality.
+
+ Routine use of low dose chest CT with IR prior to heart surgery may identify patients with a severely calcified aorta in which the surgery may subsequently adapted to minimize or avoid aortic manipulation which may reduce stroke rate.
+
+ In this multicenter randomized controlled clinical trial the effect of preoperative chest CT on postoperative stroke is investigated.
+
+ In total 1724 patients will be included of whom 862 patients will receive an additional CT to standard care and 862 patients will receive routine care.
+
+.
+
+ Chest CT With Iterative Reconstruction as an Alternative to Conventional Chest X-ray Prior to Heart Surgery@highlight
+
+To assess if information about aortic calcification obtained from routine preoperative ultra low-dose chest CT lowers the postoperative stroke rate in patients undergoing heart surgery by optimizing surgical strategy compared to the normal work-up with a conventional chest X-ray.
+

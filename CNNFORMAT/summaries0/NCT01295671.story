@@ -1,0 +1,28 @@
+(secondQuint)Beverages and Societal Health.
+
+ Consumption of sugar sweetened beverages (SSB) has been linked to obesity and, independent of body weight, risk for diabetes and cardiovascular disease.
+
+ With rising public health awareness of these potential adverse effects, consumption of artificially sweetened beverages (ASB) has increased dramatically.
+
+ These low-calorie products are marketed as "diet," with the implication that they promote weight loss and improved health.
+
+ However, there are no long-term experimental studies of ASB and body weight or any other health outcome.
+
+ Several recent prospective observational studies have linked intake of ASB to increased risk of the metabolic syndrome, type 2 diabetes, and obesity.
+
+ In the proposed clinical trial, 270 young adults who habitually consume SSB will be randomly assigned to one of three groups: 1) to continue consuming habitual levels of SSB; 2) to substitute ASB for SSB; or 3) to substitute unsweetened beverages for SSB.
+
+ Each group will receive home delivery of the targeted beverage for 1 year, using methods that build upon previous successful work.
+
+ Careful attention will be given to assuring treatment fidelity, equivalence of treatment intensity, and avoidance of experimental confounders.
+
+ The primary study endpoint will be the ratio of serum triglyceride to HDL-cholesterol concentrations.
+
+ Secondary endpoints will include changes in other cardiovascular disease risk factors, body weight, dietary quality, and taste preferences.
+
+.
+
+ Beverages and Societal Health@highlight
+
+The overall aim of the study is to compare the effects of three types of beverages - sugar-sweetened (SSB), artificially sweetened (ASB), and unsweetened (USB) - on cardiovascular disease (CVD) risk factors and body weight among young adults.
+

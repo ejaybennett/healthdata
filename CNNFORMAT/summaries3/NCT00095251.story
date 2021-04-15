@@ -1,0 +1,28 @@
+(fifthQuint)MENDS Study: Trial in Ventilated ICU Patients Comparing an Alpha2 Agonist Versus a Gamma Aminobutyric Acid (GABA)-Agonist to Determine Delirium Rates, Efficacy of Sedation, Analgesia and Discharge Cognitive Status.
+
+ Delirium occurs in 60-80% of ventilated Intensive Care Unit (ICU) patients and is independently associated with prolonged hospital stay, higher cost, a 3-fold increased risk of dying by six months and ongoing neuropsychological dysfunction.
+
+ Hypothesis: Based on our preliminary work, we hypothesize that standard use of GABA agonist sedatives such as lorazepam and propofol may contribute to ICU delirium and its attendant untoward clinical outcomes.
+
+ An alternative sedation strategy targeting alpha2 receptors and sparing GABA receptors (dexmedetomidine) might reduce delirium, provide adequate sedation, reduce analgesic requirement, and concurrently improve cognitive performance.
+
+ Long-term objective: To standardize and compare different strategies of sedation and analgesia for ventilated ICU patients in order to optimize their clinical outcomes focusing on delirium and the long-term neuropsychological dysfunction of ICU survivors.
+
+ Specific Aims: - to study prevalence and duration of delirium in critically ill patients using differential exposure to alpha2 vs.
+
+ GABA receptor agonists while evaluating efficacy of sedation and analgesia; - to compare clinical outcomes including duration of mechanical ventilation, ICU length of stay and severity of neuropsychological dysfunction at hospital discharge; and - to develop pharmacokinetic and pharmacodynamic models for dexmedetomidine and lorazepam when used for up to 5 days in ICU patients.
+
+ Relationship to anesthesiology: We will study whether the adverse clinical outcomes associated with ICU delirium including long-term neuropsychological dysfunction can be modified by the choice of psychoactive agents frequently used by anesthesiologists and intensivists.
+
+ Design: A blinded, randomized controlled trial of adult mechanically ventilated patients using a sedation strategy of dexmedetomidine fentanyl versus lorazepam fentanyl, with relevant outcomes and safety monitoring.
+
+.
+
+ MENDS Study: Trial in Ventilated ICU Patients Comparing an Alpha2 Agonist Versus a Gamma Aminobutyric Acid (GABA)-Agonist to Determine Delirium Rates, Efficacy of Sedation, Analgesia and Discharge Cognitive Status@highlight
+
+Delirium has recently been shown as a predictor of death, increased cost, and longer length of stay in ventilated patients.
+
+ Sedative and analgesic medications relieve anxiety and pain, but may contribute to patients' transitioning into delirium.
+
+ It is possible that modifying the paradigm for sedation using novel therapies targeted at different receptors, such as dexmedetomidine targeting alpha2 receptors and sparing the GABA receptors, could provide efficacious sedation yet reduce the development, duration, and severity of acute brain dysfunction (delirium).
+

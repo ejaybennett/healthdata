@@ -1,0 +1,36 @@
+(thirdQuint)ALGRX 4975 in the Treatment of Tennis Elbow.
+
+ Lateral epicondylitis (tennis elbow) is a painful condition that affects 4 to 7 adults per 1000 annually and tends to involve the subject's dominant side.
+
+ It typically results from repetitive arm movement with over use of muscles leading to small tears in the tendons attaching muscles of the forearm to the epicondyles that may progress to tendonitis.
+
+ Pain on or around the lateral epicondyle may radiate down the subject's arm.
+
+ Gripping or extending the wrist often intensifies the pain.
+
+ More than 40 possible treatments have been proposed, reflecting a lack of consensus about optimal management.
+
+ Non-steroidal anti-inflammatory drugs (NSAIDs) are commonly used to treat tennis elbow, but there are no trials to date that have compared them with other painkillers and one study found no clinically important benefit over placebo.
+
+ Use of corticosteroid injections provides mixed results in relief of pain and at times insufficient evidence to support their use.
+
+ Although complications associated with steroid injection are relatively uncommon, when a complication does occur, it can result in severe and disabling consequences for the subject.
+
+ A small proportion of subjects fail to respond to only one injection of corticosteroid and some subjects who initially improved at four weeks had worse symptoms by six months.
+
+ This study has been designed to evaluate the safety and efficacy of a single soft tissue injection of ALGRX 4975 at a dose of 100 mu g in comparison to placebo in subjects with acute LE.
+
+.
+
+ ALGRX 4975 in the Treatment of Tennis Elbow@highlight
+
+Tennis elbow is a painful condition that results from repetitive arm movement with overuse of muscles, e.
+
+g.
+
+ when playing tennis.
+
+ A single injection of ALGRX 4975 has the potential to reduce pain for a period of weeks to months.
+
+ This study will test the efficacy and safety of ALGRX 4975 in the treatment of patients with tennis elbow.
+

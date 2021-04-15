@@ -1,0 +1,12 @@
+(firstQuint)"Medikidz Explain JIA Comic Book- Hebrew".
+
+ We believe, that the results of this study will show that children learn from the comic book about their disease, and are now more aware and less frightened about it, and increase their compliance.
+
+ If so, it may promote the use of comic books or other fun educational tool in teaching children various other diseases.
+
+.
+
+ "Medikidz Explain JIA Comic Book- Hebrew"@highlight
+
+We believe, that the results of this study will show that children learn from the comic book about their disease, and are now more aware and less frightened about it, and increase their compliance.
+

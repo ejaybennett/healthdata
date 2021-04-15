@@ -1,0 +1,12 @@
+(firstQuint)PK Intravenous Lidocaine Infusion.
+
+ This study will address the working hypothesis that intravenous lidocaine may be administered as a bolus followed by an infusion with reliable and safe blood levels of lidocaine.
+
+ Serial blood draws will be obtained to determine safety of lidocaine doses used in this study by measuring blood levels of lidocaine and its metabolites.
+
+.
+
+ PK Intravenous Lidocaine Infusion@highlight
+
+To determine safe concentration level of lidocaine infusion in children.
+

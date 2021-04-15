@@ -1,0 +1,15 @@
+(thirdQuint)GO PRP: Assessing the Efficacy of Intra Articular Injection of Platelets Rich Plasma for Gonarthrosis Treatment in Routine Care.
+
+ The main objective is to get a 50% proportion of responders defined by answers "absent" or "light" in the KOOS questionnaire on questions about pain and difficulty walking on flat ground.
+
+ Secondary objectives include the safety validation of the use of PRP (prepared standardized manner by means of a given medical device) as second-line standard of care for osteoarthritis by the introduction of a systematic monitoring; and the feasibility of the health care system dedicated to the treatment of knee osteoarthritis by autologous PRP.
+
+ Furthermore, the secondary objectives are to monitor and follow the evolution of pain (VAS) and the knee function (KOOS score) at 1 month, 3 months, 6 months.
+
+ Evaluation of MRI will be performed within 15 days prior (inclusion visit) injection and 6 months to assess the cartilage thickness and visualize a regenerative effect.
+
+.
+
+ GO PRP: Assessing the Efficacy of Intra Articular Injection of Platelets Rich Plasma for Gonarthrosis Treatment in Routine Care@highlight
+
+This monocentric protocol is designed to evaluate the efficacy of therapeutic management of symptomatic knee osteoarthritis (resistant to medical first-line treatment) by intra-articular injection of autologous PRP prepared in the same procedure and using a dedicated CE marked medical device and a validated and reproducible method of preparation

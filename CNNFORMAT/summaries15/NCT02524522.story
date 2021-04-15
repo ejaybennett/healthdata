@@ -1,0 +1,24 @@
+(thirdQuint)Perioperative Mechanical Ventilation and Postoperative Monitoring of IPI.
+
+ The outcome of elective off-pump coronary artery bypass grafting (OPCAB) can be significantly compromised due to early postoperative pulmonary complications.
+
+ The risk of pulmonary complications including acute respiratory distress syndrome (ARDS), atelectases, and early ventilator-associated pneumonia remains inappropriate.
+
+ Therefore, the maneuvers improving pulmonary aeration and the early restoration of spontaneous breathing activity can be of clinical value.
+
+ Protocol-driven liberation from mechanical ventilation (CMV) can decrease the duration of CMV as well as the number of pulmonary complications.
+
+ INTELLiVENT-Assisted spontaneous ventilation (INTELLiVENT-ASV) is a new approach, that may be as effective as conventional protocol-driven liberation from CMV.
+
+ In parallel, the thorough postoperative monitoring of pulmonary function during both postoperative mechanical ventilation and spontaneous breathing is also of a great value.
+
+ One of the novel approaches to respiratory monitoring is Integrated Pulmonary Index (IPI).
+
+ The Integrated Pulmonary Index merges four vital parameters including end-tidal carbon dioxide (EtCO2), respiratory rate, pulse rate, and oxygen saturation (SpO2) measured by capnography and pulse oximetry into a single index value utilizing fuzzy logic model .
+
+.
+
+ Perioperative Mechanical Ventilation and Postoperative Monitoring of IPI@highlight
+
+This study evaluates the influence of alveolar recruitment maneuver, protocolized liberation from respiratory support and monitoring of Integrated Pulmonary Index on the duration of the mechanical ventilation and the number of pulmonary complications in the early postoperative period after cardiac surgery.
+

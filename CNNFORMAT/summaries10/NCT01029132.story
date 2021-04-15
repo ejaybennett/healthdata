@@ -1,0 +1,16 @@
+(firstQuint)Characteristics of Treatment Responders to Galantamine.
+
+ The purposes of this study are: 1.
+
+ to investigate the characteristics of treatment responders to galantamine by examining the clinical response of galantamine in patients with mild to moderate AD for 52 weeks.
+
+ 2.
+
+ to examine the specific cognitive sub-domains that are more sensitive to galantamine administration.
+
+.
+
+ Characteristics of Treatment Responders to Galantamine@highlight
+
+To investigate the characteristics of treatment responders to galantamine.
+

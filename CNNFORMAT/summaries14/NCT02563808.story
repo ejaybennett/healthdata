@@ -1,0 +1,25 @@
+(fifthQuint)Impact of Anticipated Regret Incorporation Into Patient Decision Aids.
+
+ Participants will be recruited through the Wharton Behavioral Lab.
+
+ Upon arrival males will be provided with two decision aids focusing on prostate cancer, while females will be provided with two decision aids focusing on early breast cancer.
+
+ One of these decision aids will be a standard version, and one of these will be the anticipated regret-augmented version.
+
+ Participants will be randomized to which version they receive first to minimize the effect of presentation order.
+
+ After reviewing the materials, participants will immediately complete a computerized survey at their work stations that will ask them to answer questions based on the materials presented as well as how any hypothetical treatment decisions they would be asked to make would have been influenced by them.
+
+ Because these are healthy subjects participating in a hypothetical decision-making process for sole purpose of research, the intervention can neither be categorized as experimental or as the standard of care.
+
+.
+
+ Impact of Anticipated Regret Incorporation Into Patient Decision Aids@highlight
+
+The purpose of this study is to investigate the impact of incorporating "anticipated regret " into standard patient decision aids.
+
+ Participants in the Wharton Behavioral Lab will be administered a standard patient decision aid and an "anticipated regret" augmented decision aid.
+
+ Participants will complete a computerized survey about their experiences with each version, and their answers will be assessed for potential differences associated with the incorporation of "Anticipated Regret.
+
+"

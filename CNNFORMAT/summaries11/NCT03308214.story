@@ -1,0 +1,23 @@
+(firstQuint)The Analysis of Factors Influencing the Vd of Imipenem in Septic Shock Patients.
+
+ Severe sepsis and septic shock are major causes of mortality in intensive care unit(ICU) patients.
+
+Correct and adequate antibiotic coverage is essential but can be complex as a result of fluid resuscitation, hypoalbuminemia, organ dysfunction, the application of extracorporeal support modalities and the impact of critical illness on pharmacokinetics(PK).
+
+Such changes will significantly distort the normal anti-biotic PK profile, resulting in drug exposure that is markedly different from the 'healthy volunteer.
+
+'The apparent volume of distribution is one of important PK parameters.
+
+Vd determines the loading dose.
+
+ This review article considers these issues in detail, summarizing the key changes in antibiotic Vd in the critically ill, and providing general suggestions how to optimization of antibiotic dosing to manage Vd challenges.
+
+50 patients who receives the theapy of imipenem are included in this study.
+
+Whether hypoalbuminemia, organ dysfunction, the application of extracorporeal support modalities and the impact of critical illness on Vd will be evaluted.
+
+.
+
+ The Analysis of Factors Influencing the Vd of Imipenem in Septic Shock Patients@highlight
+
+The study measures the plasma concentrations of imipenem in septic shock patients and non-septic shock patients and observes hypoalbuminemia and the impact of the severity of critical illness on Vd

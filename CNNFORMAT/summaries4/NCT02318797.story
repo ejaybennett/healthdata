@@ -1,0 +1,70 @@
+(fifthQuint)Optimizing Behavioral Health Homes for Adults With Serious Mental Illness.
+
+ The combination of high medical need with difficulty accessing quality medical care makes adults with serious mental illness (SMI) one of our nation's most medically vulnerable populations.
+
+ While evidence-based interventions exist for managing and/or preventing high rates of chronic medical conditions in this population, information is needed to understand their impact on outcomes that matter most for patients, particularly in community mental health centers (CMHCs) where most adults with SMI receive their care and rural areas where availability of and access to health care services is limited.
+
+ Building on the work of a multi-stakeholder collaboration in rural Pennsylvania, the UPMC Center for High-Value Health Care and our patient, provider, and payer partners will evaluate two promising interventions-patient self-directed care and provider-supported integrated care-for promoting the health, wellness, and recovery of adults with SMI.
+
+ We will address four questions that patients have identified as important to them: 1.
+
+ Given my mental and physical conditions, what should I expect will happen to my overall health, wellness, and recovery when I engage in the new services offered by my CMHC? 2.
+
+ If I choose to participate in these services, what are the potential advantages or disadvantages to me? 3.
+
+ In what ways can I become more active in managing my own health and health care? 4.
+
+ Which of the services that my CMHC could make available to me will impact outcomes that I care about and help me make the best decisions about my health and care? Our aims compare the effectiveness of the interventions on patient-centered outcomes and explore the moderating role of patient characteristics and the mediating role of engagement in the interventions.
+
+ By demonstrating which interventions improve outcomes for whom under what circumstances, we will inform positive patient heath choices and key stakeholder decision making to support these choices, thereby advancing health system improvement efforts to avoid early mortality and comorbidity in this population.
+
+ We have enrolled 1,229 Medicaid-enrolled adults who have or are at risk for chronic medical conditions and receive care at rural and suburban CMHCs.
+
+ Using a cluster randomized design with a mixed-methods approach, we randomly assigned 11 CMHCs to one of the two interventions.
+
+ Quantitative (self-report, claims, process) and qualitative (interviews) data will be gathered across multiple time points from baseline through the end of the two-year intervention.
+
+ Descriptive and multivariate analyses will be used to examine the impact of the interventions on outcomes over time and explore the roles of moderating and mediating variables.
+
+ Qualitative results will be used to understand patient and other stakeholder perspectives and promote dissemination and sustainability.
+
+.
+
+ Optimizing Behavioral Health Homes for Adults With Serious Mental Illness@highlight
+
+Adults with serious mental illness (SMI) frequently have unmet medical needs which place them at risk for adverse health outcomes.
+
+ While there are proven ways to manage and/or prevent serious medical conditions common among this population, information is needed to understand their impact on outcomes that matter most for patients, particularly in community mental health centers (CMHCs) where most adults with SMI receive their care and rural areas where locating and receiving health care services can be challenging.
+
+ The investigators will test two promising ways for promoting the health, wellness, and recovery of adults with SMI.
+
+ One way will help patients manage their health and health care through self-management strategies, including the use of a web portal, and peer support (patient self-directed care) and the other through interactions with nurses during clinic visits (provider-supported integrated care).
+
+ The investigators will compare the two interventions on three primary patient-centered outcomes (i.
+
+e.
+
+ patient activation in care, health status, engagement in primary/specialty care).
+
+ The investigators hypothesize that: 1.
+
+ Patient self-directed care will result in improvement in patient activation.
+
+ 2.
+
+ Provider-supported integrated care will result in greater improvement in frequency in primary/specialty care visits.
+
+ 3.
+
+ Both interventions will result in significant improvements in the three primary outcomes.
+
+ The investigators will collect information from patients, caregivers, and clinic staff at different points in time during the study.
+
+ Patients will be asked to complete questionnaires and additional data on their service use will be gathered.
+
+ Some patients and providers will also be interviewed about their experiences with care.
+
+ The investigators will examine these data to learn if, how, and why the new services improve outcomes over time.
+
+ This information will help us understand patient and other stakeholder views about the services and, if appropriate, ensure their continued and/or expanded availability.
+

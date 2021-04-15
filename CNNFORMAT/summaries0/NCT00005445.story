@@ -1,0 +1,16 @@
+(firstQuint)Epidemiology of Pediatric Asthma Hospitalization.
+
+ BACKGROUND: Recent research has shown that asthma admission rates for children vary widely across geographic areas and have increased nationally for the past decade.
+
+ The results from these studies will have direct relevance to the clinical care and development of public policy for children with asthma.
+
+ DESIGN NARRATIVE: Specific hypotheses regarding these factors which influence pediatric asthma hospitalization were tested in two different data sets: ecologic studies of trends and area variations of the children residing in the contiguous states of Maine, New Hampshire, and Vermont for 1980 - 1994; retrospective cohort analyses of children enrolled at a staff model HMO, Group Health Cooperative of Puget Sound for 1977 - 1994.
+
+ These studies utilized detailed information regarding area and individual 'exposure' to differing systems of health care and asthma medications, controlling for socioeconomic status.
+
+.
+
+ Epidemiology of Pediatric Asthma Hospitalization@highlight
+
+To study three possible, but yet unproven, influences on pediatric asthma hospitalization rates - diagnostic substitution, different systems of medical care, and asthma medication use.
+

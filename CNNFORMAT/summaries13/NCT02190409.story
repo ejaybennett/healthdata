@@ -1,0 +1,28 @@
+(firstQuint)An Invivo Study to Compare the Stability of Dental Implants With or Without Platelet Rich Fibrin Application.
+
+ Objectives:Achieving accelerated implant osseointegration could provide immediate or early loading of implants.
+
+ Platelet-rich fibrin (PRF) is widely used to accelerate soft and hard tissue healing.
+
+ Activated platelets in PRF release growth factors resulting in cellular proliferation, collagen synthesis and osteoid production.
+
+ The aim of this study was to compare the stability of dental implants inserted with one-stage surgical protocol with or without PRF application.
+
+ Design: Non-randomized, Active Controlled Trial.
+
+ Material and Methods: Twenty healthy patients (n=10 test group, n= control group) with adequate alveolar bone, having 2 or more adjacent missing teeth, extracted at least 6 months ago were included in this study.
+
+ Minimum two tapered implants (Ankylosis, DentsplyFriadent) were placed to each patient.
+
+ After surgical preparation of implant sockets, PRF that was prepared preoperatively was placed randomly to one of the sockets (PRF+).
+
+ Acellular plasma portion of PRF was used to wet the implant placed into the PRF-coated socket.
+
+ Resonance frequency measurements were made by Osstell ISQ after placement of implants, at 1 week and one month postoperatively.
+
+ Key Words: Dental implant stability, Platelet Rich Fibrin, Resonance frequency analysis.
+
+ An Invivo Study to Compare the Stability of Dental Implants With or Without Platelet Rich Fibrin Application@highlight
+
+The purpose of this study was to evaluate the effects of (Platelet Rich Fibrin) PRF application on implant osseointegration in the early phase of healing.
+

@@ -1,0 +1,16 @@
+(firstQuint)Robotic Versus Abdominal Surgery for Endometrial Cancer.
+
+ Hypothesis: Robotic assisted laparoscopy (RAL)is equal in terms of oncologic and surgical safety as conventional abdominal surgery (AS) for high risk endometrial cancer (EC).
+
+ Methods: Women with high risk EC (defined as high grade endometrial, clear cell or serous) are randomized to either RAL or AS.
+
+ Both groups will undergo complete surgical staging (hysterectomy, bilateral salpingoophorectomy, pelvic and paraaortal lymphadenectomy) Primary endpoint: Number of harvested lymph nodes per station Secondary endpoints: Recurrences up to 3 year after surgery.
+
+ Lymphatic side-effects, quality of life, cost, surgical morbidity.
+
+.
+
+ Robotic Versus Abdominal Surgery for Endometrial Cancer@highlight
+
+This study is intended to explore differences in oncologic and surgical safety between robotic assisted laparoscopy and conventional abdominal surgery for high risk endometrial cancer.
+

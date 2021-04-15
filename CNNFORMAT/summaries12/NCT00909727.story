@@ -1,0 +1,24 @@
+(fifthQuint)Study of Ivacaftor in Cystic Fibrosis Subjects Aged 6 to 11 Years With the G551D Mutation.
+
+ This is a Phase 3, 2-part, randomized, double-blind, placebo-controlled, parallel group multicenter study of orally administered ivacaftor in subjects with cystic fibrosis (CF) 6 to 11 years of age who have the G551D-CFTR mutation and a forced expiratory volume in 1 second (FEV1) between 90% and 105% predicted (using Knudson standards).
+
+ Based on in vitro studies and pharmacologic, pharmacokinetic (PK), and safety profiles, ivacaftor was selected for clinical development as a possible treatment for patients with CF.
+
+ Patients with the G551D mutation were the targeted population for this study because ivacaftor is a potentiator of the gating effect of the CFTR protein, and the most prevalent mutation with a gating defect in CF is the G551D mutation.
+
+ This study was conducted in 2 parts.
+
+ Part A was conducted to analyze the PK properties of ivacaftor and to determine the most appropriate dose to administer to subjects in Part B of this study.
+
+ Part B explored the safety and efficacy of ivacaftor over long-term treatment in subjects 6 to 11 years of age.
+
+.
+
+ Study of Ivacaftor in Cystic Fibrosis Subjects Aged 6 to 11 Years With the G551D Mutation@highlight
+
+The purpose of this study was to evaluate the efficacy and safety of ivacaftor in subjects with cystic fibrosis aged 6 to 11 years who have the G551D mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene.
+
+ Ivacaftor is a potent and selective potentiator of wild-type, G551D, F508del, and R117H forms of human CFTR protein.
+
+ Potentiators are pharmacological agents that increase the chloride ion transport properties of the channel in the presence of cyclic adenosine monophosphate (AMP)-dependent protein kinase A (PKA) activation.
+

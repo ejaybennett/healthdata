@@ -1,0 +1,20 @@
+(thirdQuint)Modafinil in Opioid Induced Sedation.
+
+ Sedation is a common side effect of opioid analgesics.
+
+ In patients where this remains a dose limiting toxicity, stimulants (caffeine, methylphenidate, ephedrine, amphetamine) have been the primary class of agents used to counteract sedation.
+
+ Modafinil is a novel stimulant that is FDA approved for the treatment of narcolepsy and has a very different side effect profile than traditional stimulants.
+
+ The potential role of this agent in the treatment of opioid induced sedation remains undefined.
+
+ This study, which utilizes a prospective, randomized, blinded, cross-over design, will collect daily information on sedation (Epworth Sleepiness Scale), pain, opioid consumption, and adverse effects in 90 patients suffering from opioid induced sedation within the Johns Hopkins Medical Institutions.
+
+.
+
+ Modafinil in Opioid Induced Sedation@highlight
+
+- The primary objective of this study is to evaluate the efficacy of modafinil in the treatment of opioid induced sedation as measured by the Epworth Sleepiness Scale (ESS).
+
+ - The secondary objective is to estimate the frequency and severity of toxicity associated with Modafinil (400mg) in patients with opioid induced sedation.
+

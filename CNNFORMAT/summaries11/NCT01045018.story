@@ -1,0 +1,24 @@
+(thirdQuint)A BE Study Comparing Mesalamine 400 mg to ASACOL 400 mg in Patients With Mild To Moderately Active Ulcerative Colitis.
+
+ This was a multi-center, randomized, parallel-groups comparison of two mesalamine products for treatment of ulcerative colitis.
+
+ Patients were randomly assigned in an optimized 2:2:1 ratio to MDRT 2.
+
+4 g/day, Asacol 2.
+
+4 g/day, or placebo.
+
+ The study was partially blinded due to the difficulties associated with creating placebo that matched both MDRT and Asacol; the placebo matched the MDRT formulation.
+
+ Placebo groups served as control in the parallel group comparison between MDRT and Asacol.
+
+ Patients were treated for 6 weeks after randomization and followed through Day 56, which was considered of sufficient length to accommodate any safety issues and to assess efficacy based upon prior clinical trials of mesalamine in patients with mild to moderate active UC as described in the introduction.
+
+ A BE Study Comparing Mesalamine 400 mg to ASACOL 400 mg in Patients With Mild To Moderately Active Ulcerative Colitis@highlight
+
+The objectives of this bioequivalence study in patients with ulcerative colitis (UC) were: - To establish the therapeutic equivalence of mesalamine delayed release tablet (MDRT) and Asacol Delayed Release Tablets 2.
+
+4 g per day (800 mg three times daily) and - To evaluate the safety of MDRT 2.
+
+4 g per day (800 mg three times daily) compared to placebo.
+

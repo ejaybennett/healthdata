@@ -1,0 +1,24 @@
+(firstQuint)Kava Kava for the Treatment of Generalized Anxiety Disorder (GAD).
+
+ Kava kava (KAV) is a plant-derived treatment widely used in Europe to treat anxiety disorders.
+
+ Several studies suggest that KAV may be effective in reducing anxiety symptoms; however, trial data are limited.
+
+ This study will compare KAV, the drug venlafaxine-XR (VEN), and placebo for the treatment of GAD.
+
+ This study will last 10 weeks.
+
+ Participants will be randomly assigned to receive KAV, VEN, or placebo for 8 weeks.
+
+ Participants will then undergo a 1-week tapering of their medication followed by an additional week of observation.
+
+ Self-report scales and questionnaires will be used to assess the anxiety, depression, and functional impairment of participants.
+
+ Side effects, vital signs, and laboratory measures will be monitored throughout the study.
+
+.
+
+ Kava Kava for the Treatment of Generalized Anxiety Disorder (GAD)@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of the herbal medicine kava kava for the treatment of generalized anxiety disorder (GAD).
+

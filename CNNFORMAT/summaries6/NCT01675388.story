@@ -1,0 +1,44 @@
+(fifthQuint)Hypothermia During ECMO to Decrease Brain Injury.
+
+ Term and late preterm neonates with severe hypoxemic respiratory failure [NHRF] receive extracorporeal membrane oxygenation (ECMO), a modified form of cardiopulmonary bypass, when maximal conventional therapy fails.
+
+ Although ECMO significantly improves survival and decreases disability, 15-50% of survivors nevertheless have poor neurodevelopmental [ND] outcomes due to hypoxemia and cerebral hypoperfusion occurring prior to and during ECMO.
+
+ Hypothermia [HYP] (33 deg-34 deg C for 48-72 hours) has been shown to improve ND outcomes and following neonatal hypoxic-ischemic encephalopathy [NE].
+
+ Whether the addition of hypothermia to ECMO for severe NHRF will improve ND outcomes is unknown.
+
+ Long-term evaluation of ND outcomes is the gold standard for determining the full spectrum of developmental disabilities as neonatal clinical findings; biochemical and electrophysiological tests; and cranial sonography have limited predictive value.
+
+ Conventional magnetic resonance imaging [MRI] has a predictive accuracy of > 0.
+
+8 for death and disability following NE.
+
+ MR abnormalities in infants undergoing ECMO for NHRF differ from those seen in NE and there are no systematic reports on the ND implications of MR abnormalities seen in NHRF treated with ECMO.
+
+ Given the societal and economic costs associated with poor long-term ND outcomes and the challenges of neurologic assessment in critically ill neonates receiving ECMO for NHRF, there is an urgent need for (i) neuroprotection pre-/during ECMO to decrease brain injury and (ii) innovative diagnostic modalities to enable early diagnosis and intervention.
+
+ Our goal is to improve the treatment and ND outcomes in neonates with NHRF.
+
+ The overall objectives of this proposal are to establish the neuroprotective role of hypothermia during ECMO for NHRF as evaluated by ND assessment at 18-22 months [mo] of age and to validate the use of conventional and advanced MR techniques as biomarkers of brain injury.
+
+ The central hypotheses are that (i) HYP to 33.
+
+5C during the 1st 72 hours of ECMO in NHRF will reduce the extent and severity of brain injury as evaluated by Bayley Scales of Infant Development (BSID-III) cognitive scores at 18-22 mo and proportion of normal MRI studies in the neonatal period and at 18-22 mo; and (ii) conventional and advanced MR techniques in the neonatal period and at 18-22 mo will be biomarkers of brain injury allowing prediction of ND outcomes, and monitoring of post-injury brain growth and plasticity.
+
+ The specific aims are to evaluate: 1.
+
+ Safety and efficacy of hypothermia combined with ECMO for NHRF in improving neurodevelopmental outcomes at 18-22 months of age 2.
+
+ MR abnormalities in the neonatal period and at 18-22 months of age and their predictive accuracy for neurodevelopmental outcomes at 18-22 months of age following hypothermia during ECMO for NHRF MRI will be obtained in the neonatal period as part of routine clinical care; MRI will be repeated at 18-22 mo of age on an outpatient basis if funding is available to assess longitudinal changes in brain structure and metabolite profile following ECMO for NHRF and to correlate these with ND outcomes at 18-22 mo of age.
+
+.
+
+ Hypothermia During ECMO to Decrease Brain Injury@highlight
+
+Newborn infants with severe respiratory failure are treated with extracorporeal membrane oxygenation (ECMO), a modified form of cardiopulmonary bypass.
+
+ These infants as at risk for brain injury as a result of hypoxia and blood flow changes in the brain prior to and during ECMO.
+
+ The investigators propose a clinical trial of a novel treatment (cooling during ECMO) and novel diagnostic tool (advanced MRI techniques) that will lead to improved outcomes, early diagnosis and intervention for brain injury, decreased cost and duration of clinical trials, decrease in the burden of chronic neurologic disease and disability in society, thus improving the health and quality of life of these infants as they progress through childhood into adulthood.
+

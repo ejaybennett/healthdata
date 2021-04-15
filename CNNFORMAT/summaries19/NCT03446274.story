@@ -1,0 +1,16 @@
+(firstQuint)An Open Label, Single-Dose Study of 14C-NW-3509 in Healthy Male Subjects.
+
+ This is a single-center, open-label, non-randomized, single dose study in a single cohort of 6 healthy male subjects, including up to 2 cytochrome P450 (CYP)2D6 poor metabolizer subjects.
+
+ Each subject will receive a single oral administration of 14C-NW-3509 capsule in the fasted state.
+
+The screening period and study admission to completion is estimated to be up to 43 days.
+
+ The following data will be analyzed urine and feces data for total radioactivity, plasma and whole blood data for total radioactivity and plasma concentration data for NW-3509.
+
+.
+
+ An Open Label, Single-Dose Study of 14C-NW-3509 in Healthy Male Subjects@highlight
+
+This is a single-center, open-label, non-randomized, single dose of 14C-NW-3509 capsule study in 6 healthy male subjects.
+

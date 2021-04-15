@@ -1,0 +1,12 @@
+(secondQuint)VenaSeal Sapheon Closure System Pivotal Study (VeClose).
+
+ The purpose of the VeClose study was to demonstrate safety and effectiveness of the VenaSeal SCS as being both 1) non-inferior to RFA therapy in achieving anatomical closure of lower extremity superficial truncal veins in patients with venous reflux through endovascular transcatheter embolization with coaptation of the GSV at 3 months, and 2) superior in the reduction of intraprocedural and post procedural pain and symptoms as compared to treatment with RFA.
+
+ The study was designed to demonstrate safety of the VenaSeal SCS by follow-up visits that evaluated, via duplex ultrasound and physical exam, the presence of deep vein thrombosis and/or pulmonary embolus.
+
+.
+
+ VenaSeal Sapheon Closure System Pivotal Study (VeClose)@highlight
+
+The VeClose pivotal study was a controlled, randomized, prospective, multicenter, pivotal study in which patients with venous reflux in the great saphenous vein (GSV) were treated with either the VenaSeal closure system (VenaSeal SCS) or radiofrequency ablation (RFA) therapy.
+

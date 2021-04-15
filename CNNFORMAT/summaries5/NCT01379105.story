@@ -1,0 +1,72 @@
+(fifthQuint)Electromyographic Responses by Static Stretching and Neural Mobilization.
+
+ This study was approved by the Committee for Ethics in Research with Humans of the Faculty of Medical Sciences (FACIME) (protocol number 145/09).
+
+ The group included students with the absence of neural, muscular and skeletal-associated problems and who were non-obese, according to established body mass index (BMI) criteria.
+
+ Participants were excluded if they had metabolic disease or neuro-musculo-skeletal problems, practiced certain physical activities, presented pain during maintenance of the position for electromyographic response collection or otherwise did not fulfill the terms of the agreement with the researcher.
+
+ In the first stage, the researcher conducted an anamnesis of the individuals to obtain information about their dietary habits (Vasconcelos, 1995), medicines being used, pathological history and physical activity, according to the Baecke Questionnaire (Florindo, Latorre, 2003).
+
+ In the second stage, the subjects' heights and body mass were measured for body mass index (BMI) evaluation using a Filizola 0-150 kg clinical scale (with a precision of 0.
+
+1 kg) and a mechanical 0-190 cm stadiometer (with a precision of 0.
+
+5 cm), following the recommendations of the International Society for the Advancement of Kinanthropometry (Marfell-Jonnes et al.
+
+, 2006).
+
+ For the electromyography measurements, the subject was positioned in dorsal decubitus on a Sao Paulo Institute (ISP) model 4040 couch, and the researcher performed hip flexion and knee extension until tissue resistance, at which point the volunteer reported the sensation of "discomfort combined with pain'' by pressing a trigger button, and the signal was recorded for 2 seconds after this point.
+
+ The speed with which the movements were made was slow and gradual, because, according to reports from Tanaka and Farah (2007), for the same degree of the range of motion, a greater stretching speed generates a higher impulse frequency in the afferent fibers near the terminal, such that a more intense reflex response is promoted.
+
+ The electrical activity of the femoral bicep muscle of the right thigh was recorded by a four channel EMG system with using superficial bipolar active electrodes (pre-amplified) with acquisition software and signal processing.
+
+ The sampling frequency was 2,000 Hz, and the amplifier had a high-pass filter at 20 Hz and a low-pass filter at 500 Hz; a 12-bit analogical converter and computer completed the system.
+
+ In both interventions (SSG and NMG), the perception of strength was evaluated using the Perceived Strength and Flexibility Scale (PERFLEX)which presents five levels of intensity, varying from 0 to 110, with five corresponding verbal descriptors, so that the evaluated individual can point to the description of their perception corresponding to the amplitude of movement performed.
+
+ In the SSG group, the subject was positioned in dorsal decubitus, and the researcher performed hip flexion with the knee extended passively and held for 30 seconds; this type of stretching corresponds to the maintenance of increased amplitude posture, without surpassing the maximum movement limit, three times with an interval of 10 seconds between the repetitions (Nelson and Bandy, 2005).
+
+ In the NMG group, the subject was positioned in dorsal decubitus, and the researcher performed hip flexion with the knee extended passively and performed 30 oscillations of plantar-to-dorsal flexion for one minute.
+
+ In the SSG group, the subject was positioned in dorsal decubitus, and the researcher performed hip flexion with the knee extended passively and held for 30 seconds; this type of stretching corresponds to the maintenance of increased amplitude posture, without surpassing the maximum movement limit, three times with an interval of 10 seconds between the repetitions (Nelson and Bandy, 2005).
+
+ In the NMG group, the subject was positioned in dorsal decubitus, and the researcher performed hip flexion with the knee extended passively and performed 30 oscillations of plantar-to-dorsal flexion for one minute.
+
+.
+
+ Electromyographic Responses by Static Stretching and Neural Mobilization@highlight
+
+The objective of this experimental study was to compare the electromyographic responses of sedentary youth with and without the administration of static stretching and neural mobilization.
+
+ The sample was composed of sedentary students, divided, randomly, into neural mobilization practitioners (NMG; n=15; age=223 years), static stretching practitioners (SSG; n=15; age=234 years) and a control group (CG; n=15; age: 244 years).
+
+ For this evaluation, an electromyograph (EMG; a four channel system) was used to monitor electrical activity in the femoral bicep muscles).
+
+ In neural mobilization, hip flexion was conducted passively with the knee extended, and 30 plantar-to-dorsal flexion oscillations were completed per minute.
+
+ For the static stretching, hip flexion with was completed passively with the knee extended and held for 6 seconds.
+
+ The perception of effort was evaluated using the Perceived Force in Flexibility Scale.
+
+ The statistical significance level was p<0.
+
+05.
+
+ Descriptive statistics such as the average, standard deviation, median, standard error and absolute change within groups (post-test - pretest) were calculated.
+
+ The sample normality was evaluated using the Shapiro-Wilk test.
+
+ For the response variable analysis, the paired Student's t-test (paired) or Wilcoxon test (nonparametric) was used for intragroup analysis.
+
+ For the intergroup analysis, the multivariate analysis of variance (ANOVA) test was used, followed by the Tukey Post-Hoc test.
+
+ A p<0.
+
+05 significance level was adopted for the statistical evaluations.
+
+ Microsoft Excel and the Statistical Package for Social Science (SPSS) version 14.
+
+0 were used for evaluation of the results.
+

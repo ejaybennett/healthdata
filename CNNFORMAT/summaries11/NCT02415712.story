@@ -1,0 +1,14 @@
+(firstQuint)Specified Drug-use Survey of Fomepizole Intravenous Infusion (All-case Surveillance).
+
+ Clinical studies for fomepizole intravenous infusion have not been conducted in Japan, and there are few reports of data on drug-use, including in the literature, in Japanese patients; therefore, an evaluation of the safety and efficacy of fomepizole intravenous infusion is required.
+
+ This specified drug-use survey for fomepizole intravenous infusion (Fomepizole Intravenous Infusion 1.
+
+5 g "Takeda," hereinafter referred to as "the drug") was planned to evaluate the safety and efficacy of the drug in patients with ethylene glycol and methanol poisoning in daily medical practice.
+
+.
+
+ Specified Drug-use Survey of Fomepizole Intravenous Infusion (All-case Surveillance)@highlight
+
+The objective of this survey is to evaluate the safety and efficacy of fomepizole intravenous infusion in Japanese patients with ethylene glycol and methanol poisonings in daily medical practice.
+

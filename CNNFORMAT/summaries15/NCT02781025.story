@@ -1,0 +1,24 @@
+(secondQuint)Culture of Circulating Tumor Cells Isolated From Cancer Patients With Metastatic Disease.
+
+ There are currently very few practical or reproducible model systems which recapitulate the metastatic process well.
+
+ CTCs are important for the development of metastases and there is interest in isolating and culturing them ex vivo to better characterize their biology, metastatic potential, and response to different therapies.
+
+ The investigators have previously demonstrated efficient capture and enumeration of CTCs in 4 unique patient cohorts (metastatic prostate and locally advanced rectal, cervical and head and neck cancers) in the investigators prospective clinical study, LCCC 1408 (Investigation of Circulating Tumor Cells from Cancer Patients Undergoing Radiation Therapy).
+
+ However, CTCs are difficult to culture with conventional methods.
+
+ The investigators propose to culture CTCs using novel decellularized tissue matrices.
+
+ Blood will be collected from cancer patients with metastatic solid tissue tumors prior to starting definitive or palliative radiotherapy.
+
+ The investigators will then isolate CTCs and attempt to grow them on various decellularized matrices.
+
+ If this study is successful and feasibility is demonstrated, important pilot information will also be gathered which will then be used in power and sample size considerations for future CTCs studies.
+
+.
+
+ Culture of Circulating Tumor Cells Isolated From Cancer Patients With Metastatic Disease@highlight
+
+The purpose of this study is to investigate the feasibility of using novel decellularized tissue matrices to isolate and culture circulating tumor cells (CTCs) collected from patients with metastatic solid tumor malignancies.
+

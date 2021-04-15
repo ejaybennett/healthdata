@@ -1,0 +1,20 @@
+(firstQuint)The Impact of Anesthesia on the Absorption of Glycine in Operative Hysteroscopy: a Randomized Controlled Trial.
+
+ As a minimally invasive procedure, operative hysteroscopy has gained popularity in the past two decades and became a standard surgical treatment for abnormal uterine bleeding unresponsive to medical management.
+
+ Despite its increasing use, little information is known on the predictors of its potential complications.
+
+ The absorption of glycine has been reported as the most common complication of this procedure and it remains an unpredictable complication that may lead to life-threatening conditions.
+
+ This randomized controlled trial is conducted in two centers: a tertiary care center and in a community hospital over a period of 18 months.
+
+ This study aimed to compare two types of anesthesia on the absorption of glycine in operative hysteroscopy.
+
+ Eligible patients undergoing operative hysteroscopy for abnormal uterine bleeding are randomized in two groups: group general anesthesia and group local anesthesia with sedation.
+
+.
+
+ The Impact of Anesthesia on the Absorption of Glycine in Operative Hysteroscopy: a Randomized Controlled Trial@highlight
+
+This study aimed to compare two types of anesthesia (general anesthesia and local anesthesia with sedation) on the absorption of glycine in operative hysteroscopy.
+

@@ -1,0 +1,22 @@
+(thirdQuint)Evaluation of Somatostatin Receptor Imaging Using PET/MRI as a Novel Approach to Detecting Pathology in Pulmonary TB.
+
+ Granulomas, the hallmark of tuberculosis (TB) infection, have an increased density of somatostatin receptors.
+
+ Somatostatin analog PET tracers, such as 68Ga-DOTANOC, may be able to identify these pulmonary granulomas.
+
+ Although currently used for other medical indications, 68Ga-DOTANOC PET scanning has not previously been used to detect TB lesions.
+
+ This is a pilot study which aims to assess the ability of 68Ga-DOTANOC PET/MRI to detect pulmonary lesions in individuals with active pulmonary tuberculosis.
+
+ The 68Ga-DOTANOC PET scan and 'standard' 18F-fludeoxyglucose (FDG) PET scan will be compared to enable analysis of differences in uptake between these tracers in terms of number, size and distribution of lesions.
+
+ Demonstrating the clinical utility of 68Ga-DOTANOC in active pulmonary TB is necessary prior to using this PET tracer to further explore other potential uses in TB such as identifying individuals with latent TB who are at risk of progressing to active TB, measuring therapeutic response to TB treatment and identifying extrapulmonary lesions.
+
+.
+
+ Evaluation of Somatostatin Receptor Imaging Using PET/MRI as a Novel Approach to Detecting Pathology in Pulmonary TB@highlight
+
+Imaging using 68Ga-DOTANOC PET (positron emission tomography) has the potential to detect granulomas in pulmonary tuberculosis, leading to previously unexplored indications for this PET tracer, including identification of subclinical disease in latently infected individuals.
+
+ This study aims to assess the ability of 68Ga-DOTANOC PET/MRI to detect pulmonary lesions in individuals with active pulmonary tuberculosis.
+

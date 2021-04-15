@@ -1,0 +1,14 @@
+(firstQuint)Diffuse Type In-Stent Restenosis After Drug-Eluting Stent.
+
+ Despite a significant reduction of angiographic restenosis and the need for repeat revascularization after introduction of DES, post-DES restenosis still occur and the treatment for DES failure is challenging.
+
+ However, there have been little data for therapeutic strategy for post-DES restenosis, especially diffuse type ISR.
+
+ Therefore, we need the well-designed randomized trial to achieve the best therapeutic option for the treatment of diffuse type post-DES restenosis.
+
+.
+
+ Diffuse Type In-Stent Restenosis After Drug-Eluting Stent@highlight
+
+To evaluate the best therapeutic option for the treatment of diffuse type post-drug-eluting stent restenosis.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Electrophysiologic and Morphologic Assessment of the Substrate to Guide Implantation of Defibrillators in Dilated Cardiomyopathy.
+
+ A correct identification of patients at high risk of sudden cardiac death is crucial for a rational clinical management, since the demonstrated effectiveness of implantable cardioverter-defibrillators on the reduction of sudden cardiac death.
+
+ Basing on the results of multiple clinical trials, left ventricular systolic function, measured as ejection fraction, is currently the only recommended tool to identify patients at higher risk of sudden death that would benefit from a prophylactic defibrillator.
+
+ However, the systematic implementation of current recommendations results in a substantial number of inappropriate defibrillator implantations, while failing to prevent the majority of sudden deaths occurring in the general population.
+
+ Unfortunately, at present time we have no other way to identify patients at higher risk of sudden cardiac death, since other proposed risk markers have not been consistently demonstrated of incremental value.
+
+ Recent data suggest that several substrate markers, either assessed morphologically with magnetic resonance imaging, or electrophysiologically with invasive mapping procedures, may be helpful to identify subgroup of patients at higher arrhythmic risk.
+
+ However, previous studies have been largely conducted on few patients, most were retrospective or with short follow-up.
+
+ We will submit patients with dilated cardiomyopathy undergoing implant of an implantable cardioverter defibrillator to a morphologic and electrophysiologic substrate evaluation including cardiac magnetic resonance with gadolinium contrast-enhancement study, and electroanatomic mapping with bipolar electrogram voltage and morphological analysis.
+
+ The electroanatomic mapping and cardiac magnetic resonance will be repeated at the time of the first arrhythmic event.
+
+ We expect to define the role of anatomical and electrophysiological substrate abnormalities in determining malignant ventricular arrhythmias in patients with dilated cardiomyopathy, thus allowing a better risk stratification and prevention of sudden death.
+
+.
+
+ Electrophysiologic and Morphologic Assessment of the Substrate to Guide Implantation of Defibrillators in Dilated Cardiomyopathy@highlight
+
+With the present study the investigators intend to identify the morphologic and electrophysiologic substrate markers of increased arrhythmic risk in patients with dilated cardiomyopathy undergoing implantation of a defibrillator for the primary prevention of sudden cardiac death.
+
+ Moreover, the investigators also aim to identify if there is any electrophysiological substrate modification at the time of the first arrhythmic event in these patients.
+
+ To this aim, the investigators will prospectively correlate electroanatomic mapping and cardiac magnetic resonance findings with arrhythmic events, in order to identify substrate markers of increased arrhythmic risk in patients with dilated cardiomyopathy, who are therefore more likely to benefit from a defibrillator implantation.
+
+ Furthermore, electroanatomic mapping will be repeated at the time of the first arrhythmic event and compared with that at baseline, in order to evaluate any electrophysiological substrate changes.
+

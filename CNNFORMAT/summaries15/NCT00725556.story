@@ -1,0 +1,20 @@
+(firstQuint)The Development of Autistic Children Based on MothersResponse in Autism Behavior Checklist.
+
+ Aim: We evaluated the process of development of autistic children, in a direct and indirect intervention context from mothers response in Autism Behavior Checklist.
+
+ Method: The sample were composed of 11 mothers of children diagnosed with Autism (6) and Asperger Syndrome (5), according to the criteria established by the DSM IVtr (APA, 2002).
+
+ These children were randomly divided into two groups: Six were receiving both direct and indirect intervention (Therapy Group -TG), and five were receiving exclusively indirect intervention (Orientation Group - OG).
+
+ We used the Autism Behavior Checklist (Krug et al.
+
+, 1993), adapted to Portuguese on three occasions: at the beginning, six months later and 12 months later.
+
+ This is a list of nonadaptive behaviors (57), in the areas: Sensorial, Body and Object Use, Language, Social and Relating.
+
+.
+
+ The Development of Autistic Children Based on MothersResponse in Autism Behavior Checklist@highlight
+
+The purpose of this study is to evaluate the process of development of autistic children, in a direct and indirect intervention context from mothers response in Autism Behavior Checklist.
+

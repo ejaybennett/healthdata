@@ -1,0 +1,14 @@
+(firstQuint)Glycemic and Metabolic Responses of Frozen Yogurt Containing Saskatoon Berry Powder in Healthy Males and Females.
+
+ A single site, blinded, randomized, controlled study designed to examine the glycemic and metabolic response of frozen yogurt containing Saskatoon berry powder in healthy males and females.
+
+ Eligible participants will be asked to attend 4 in-person clinic visits for comparative testing of the frozen yogurt and frozen yogurt containing Saskatoon berry powder versus white bread.
+
+ Separate visits for screening and for a fasting blood sample will also be requested (total of 6 visits).
+
+.
+
+ Glycemic and Metabolic Responses of Frozen Yogurt Containing Saskatoon Berry Powder in Healthy Males and Females@highlight
+
+A single site, blinded, randomized, controlled study designed to examine the glycemic and metabolic response of frozen yogurt containing Saskatoon berry powder in healthy males and females.
+

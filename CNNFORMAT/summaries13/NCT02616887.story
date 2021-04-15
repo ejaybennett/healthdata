@@ -1,0 +1,14 @@
+(secondQuint)Study of Image-Guided SBRT for Vertebral Metastases.
+
+ This is a prospective, phase 2 study.
+
+ The main objectives are to assess acute and late side effects of single fraction SBRT for selected patients with vertebral metastases and to study the local control of disease in treated sites.
+
+ The schedule will be 1 fraction of 18 Gy delivered in one day with Volumetric Modulated Arc Therapy (VMAT) and Flattening filter-free (FFF) beams.
+
+.
+
+ Study of Image-Guided SBRT for Vertebral Metastases@highlight
+
+Based on the known efficacy of ablative single dose SBRT and VMAT technique in various solid tumors, investigators have designed this study to assess feasibility of SBRT in selected patients with spine metastases.
+

@@ -1,0 +1,12 @@
+(firstQuint)Surgical Treatment of Peri-implantitis With and Without Systemically Adjunctive Antibiotics.
+
+ This study will give the opportunity to draw scientifically based conclusions on the recommendations of the use of adjunctive systemic antibiotics in the treatment of peri-implantitis.
+
+ This study will also be able to determine the ecological impact on the oropharyngeal and intestinal microflora between different antibiotic treatments.
+
+ The lack of knowledge in this area has been highlighted by the Food and Drug Administration and The Swedish Council on Health Technology Assessment (SBU).
+
+ Surgical Treatment of Peri-implantitis With and Without Systemically Adjunctive Antibiotics@highlight
+
+The purpose of this study is to investigate if the use of systemic adjunctive antibiotics in the treatment of periimplantitis is needed.
+

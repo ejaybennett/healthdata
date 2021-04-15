@@ -1,0 +1,16 @@
+(firstQuint)Nerve Stimulator Versus Ultrasound-guided Infraclavicular Block.
+
+ Ultrasound (US)-guided peripheral nerve block has increased in popularity.
+
+ It has many advantages such as improved success rate, faster onset time, fewer needle passes, shorter performance time, and reduced procedural pain and vascular puncture.
+
+ However, there is no information about postoperative analgesia.
+
+ Therefore, the investigators tested whether ultrasound-guided peripheral nerve block enhanced the postoperative analgesia for upper extremity surgery compared with nerve stimulator (NS) guidance.
+
+.
+
+ Nerve Stimulator Versus Ultrasound-guided Infraclavicular Block@highlight
+
+The investigators compared the postoperative analgesia of nerve stimulator-guided and ultrasound-guided infraclavicular block for upper extremity surgery.
+

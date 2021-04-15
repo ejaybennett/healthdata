@@ -1,0 +1,26 @@
+(fifthQuint)Insulin-Glucose-Glucagon Network: Defining a Type 1 Diabetes Progression Index.
+
+ The goal of the proposed ancillary studies is to establish whether characterization of the insulin-glucagon-glucose (IGG) interactions in first and second degree relatives of patients with type 1 diabetes (T1D) can provide new information about the pathogenesis, prediction, and progression of the early stages of the disease.
+
+ The project will enroll individuals from the "Living Biobank" of the TrialNet Pathway to Prevention (PTP) study who are phenotyped with respect to a variety of risk factors, including immunological abnormalities.
+
+ To the best of available knowledge, the IGG relationships in general and the glucagon phenotype in particular have not been studied in this population.
+
+ It is known, however, that in T1D the release of glucagon is altered, which is manifested by abnormal postprandial suppression and defective response to hypoglycemia.
+
+ Several reports indicate that glucagon becomes dysregulated prior to the development of T1D, but comprehensive studies aiming to understand in detail the insulin-glucagon co-dynamics in people at risk for T1D have never been performed.
+
+ Thus, the goal now is to expand the investigators' existing methodology and transfer expertise in clinical testing and analysis of the IGG system to characterize the IGG interactions in individuals at risk for developing T1D.
+
+.
+
+ Insulin-Glucose-Glucagon Network: Defining a Type 1 Diabetes Progression Index@highlight
+
+The type 1 Diabetes (T1D) TrialNet Pathway To Prevention (PTP) Study assesses and recruits at-risk subjects into clinical trials aimed at preventing the development of full blown T1D.
+
+ Thousands of first and second degree relatives of persons with T1D are screened for autoimmune abnormalities and positive subjects are followed with metabolic and autoantibody tests.
+
+ The investigators' ancillary study us designed to test whether characterization of the insulin- glucose-glucagon (IGG) interactions in participants in the PTP study can provide new information about the early stages of the disease.
+
+ When completed, this study will improve the understanding of the pathogenesis of the early stages of T1D and provide new quantitative tools for prediction and evaluation of insulin-glucagon-glucose interactions relevant to individuals at risk for developing T1D, thereby enabling future preventive intervention trials.
+

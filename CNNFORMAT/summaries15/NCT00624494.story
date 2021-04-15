@@ -1,0 +1,14 @@
+(secondQuint)Single Transpulmonary Thermodilution and Continuous Monitoring of Central Venous Oxygen Saturation During Off-pump Coronary Surgery.
+
+ At the present time, there is an increasing tendency to perform off-pump coronary artery bypass grafting (OPCAB).
+
+ However, OPCAB poses a variety of challenges from the point of view of the anesthesiologist and the intensivist.
+
+ The aim of the present study was to evaluate the usefulness of an algorithm based on hemodynamic parameters obtained by single transpulmonary thermodilution (STD) combined with continuous monitoring of central venous oxygen saturation (ScvO2) for perioperative management of patients undergoing OPCAB.
+
+.
+
+ Single Transpulmonary Thermodilution and Continuous Monitoring of Central Venous Oxygen Saturation During Off-pump Coronary Surgery@highlight
+
+The aim of the present study was to evaluate the usefulness of an algorithm based on hemodynamic parameters obtained by single transpulmonary thermodilution (STD) combined with continuous monitoring of central venous oxygen saturation (ScvO2) for perioperative management of patients undergoing OPCAB.
+

@@ -1,0 +1,28 @@
+(firstQuint)AngioSculpt Coronary Bifurcation Study.
+
+ Background: Bifurcation lesions, which consist of a narrowing occurring at branch points of coronary arteries, typically involve both the main branch (parent vessel) and an adjacent side branch.
+
+ These lesions pose a particularly challenging situation for angioplasty procedures due to the difficulty of covering both branches with stents and a higher rate of recurrence (restenosis).
+
+ A new angioplasty scoring balloon catheter (AngioSculpt(R)) has recently been approved for the treatment of narrowings in coronary arteries.
+
+ The AngioSculpt(R) catheter incorporates a nitinol device that consists of spiral wires that wrap around the balloon catheter.
+
+ As the balloon inflates, the spiral wires score the lesion allowing the balloon to be more stable (avoid slippage) and may enlarge the narrowed sections of the artery with less pressure or risk of dissection (uncontrolled tearing of the inner lining of the artery wall commonly seen with conventional balloons).
+
+ Study Purpose: To demonstrate the safety and efficacy of the AngioSculpt(R) used in conjunction with coronary stents (implantable wire mesh tubes for scaffolding blocked arteries) for the treatment of coronary artery bifurcation narrowings and to compare these results with the historical outcomes associated with the use of conventional balloons and stents in the treatment of bifurcation lesions.
+
+ Study Design: A prospective, multi-center, non-randomized, single-arm study with results compared to a literature search derived historical control for conventional balloon angioplasty (OPC - Objective Performance Criteria).
+
+ The intent of this study is to enroll and treat 100 patients at 8 U.
+
+S.
+
+ interventional cardiology programs with clinical follow-up planned at 30 days and 9 months following the procedure.
+
+.
+
+ AngioSculpt Coronary Bifurcation Study@highlight
+
+The purpose of this study is to evaluate a new angioplasty catheter, AngioSculpt(R) for the treatment of bifurcation lesions (blockages occurring at branch points) in coronary arteries.
+

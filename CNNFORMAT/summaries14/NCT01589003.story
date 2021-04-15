@@ -1,0 +1,14 @@
+(firstQuint)The Impact of Milk-products Differing in Their Glycaemic Properties on the Behaviour of Infants.
+
+ The current study proposes to investigate the impact of a low GI, fortified toddlers milkpowder on mood, behaviour and cognitive function in young children.
+
+ In choosing the tests it should be remembered that the investigators looking for short-term changes in functioning, such as the ability to sustain attention or improved mood.
+
+ As such the investigators are not looking for measures of general cognitive functioning, stage of development or general behaviour but rather measures that are capable of monitoring changes from hour to hour or day to day.
+
+.
+
+ The Impact of Milk-products Differing in Their Glycaemic Properties on the Behaviour of Infants@highlight
+
+The current study proposes to investigate the impact of a low glycaemic index (GI), fortified toddlers milkpowder on mood, behaviour and cognitive function in young children.
+

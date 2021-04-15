@@ -1,0 +1,12 @@
+(firstQuint)Rational Fluid Therapy in Germany.
+
+ The purpose of RaFTinG is the prospective documentation and evaluation of the demographic, diagnostic and therapeutic characteristics of unselected patients and their treatment in intensive care units (ICU) in Germany.
+
+ Documentation will not only include their stay in the ICU but a follow up query 90 days after discharge from the ICU.
+
+.
+
+ Rational Fluid Therapy in Germany@highlight
+
+The purpose of this observational study is the prospective documentation and evaluation of the status quo of volume therapy in German intensive care units.
+

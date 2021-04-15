@@ -1,0 +1,16 @@
+(firstQuint)Simulation Training as a Tool for Teamwork Improvement in Multidisciplinary Intensive Care Team.
+
+ Patient safety and the prevention of medical error are primary goals of healthcare organizations.
+
+ One of the means of reducing such errors is teamwork improvement.
+
+ Simulation training, using advanced patient simulators, has been shown to improve diagnostic, resuscitation and technical skills amongst physicians and nurses.
+
+ We intend to compare simulation training of a mixed team of physicians and nurses, using specifically designed scenarios based on real life experience, to frontal teaching sessions designed to enhance teamwork, by assessing teamwork, using accepted behavioral scales, during routine work, before and after both interventions.
+
+.
+
+ Simulation Training as a Tool for Teamwork Improvement in Multidisciplinary Intensive Care Team@highlight
+
+The purpose of the study is to check whether training mixed teams of physicians and nurses from intensive care units on patient simulators improves teamwork within the teams.
+

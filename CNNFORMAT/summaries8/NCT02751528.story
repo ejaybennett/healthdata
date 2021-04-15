@@ -1,0 +1,20 @@
+(firstQuint)QUILT-3.
+
+013: Study of Ad5 [E1-, E2b-]-HER2/Neu Vaccine (ETBX-021) in Subjects With Unresectable Locally Advanced or Metastatic HER2-Expressing Breast Cancer.
+
+ This is a Phase I trial in subjects with unresectable locally advanced or metastatic HER2-low expressing (IHC 1+ or 2+) breast cancer.
+
+ The study will be conducted in two parts: the first part will involve dose escalation using a 3 + 3 design, and the second part will involve the expansion of the MTD or HTD to further evaluate safety, preliminary efficacy, and immunogenicity.
+
+ In the first part, 3 to 6 subjects will be sequentially enrolled starting at dose cohort 1.
+
+ Subjects will be assessed for dose-limiting toxicities (DLTs).
+
+.
+
+ QUILT-3.
+
+013: Study of Ad5 [E1-, E2b-]-HER2/Neu Vaccine (ETBX-021) in Subjects With Unresectable Locally Advanced or Metastatic HER2-Expressing Breast Cancer@highlight
+
+The purpose of this study is to determine whether ETBX-021 is safe and effective in the treatment of unresectable locally advanced or metastatic HER2-low-expressing breast cancer.
+

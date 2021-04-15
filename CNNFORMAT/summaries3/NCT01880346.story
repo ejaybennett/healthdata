@@ -1,0 +1,22 @@
+(firstQuint)Comparison of Absorption of Vitamin D in Cystic Fibrosis.
+
+ The purpose of this study is to see how well two different forms of vitamin D work in Cystic Fibrosis (CF).
+
+ Patients with Cystic Fibrosis have a hard time absorbing certain foods and often have low vitamin D levels.
+
+ Studies show that vitamin D may help fight infections common in Cystic Fibrosis.
+
+ The investigators would like to see if a powder pill form of vitamin D will work better than a pill mixed with oil.
+
+ Each person will randomly receive either a powder pill or an oil based pill.
+
+ Blood will be tested while during a 3-4 day hospital stay.
+
+ The investigators plan to enroll no more than 24 patients with CF from Emory University Hospital for this study.
+
+.
+
+ Comparison of Absorption of Vitamin D in Cystic Fibrosis@highlight
+
+The investigators predict that a powder pill form of vitamin D will be more effectively absorbed than an oil form of vitamin D in people diagnosed with Cystic Fibrosis.
+

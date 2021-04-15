@@ -1,0 +1,26 @@
+(thirdQuint)Guatemala Internal Medicine Physicians' Knowledge of Non-communicable Disease Clinical Preventive Services.
+
+ A voluntary, anonymous, self-completed, cross-sectional survey was administered to all available internal medicine staff in Guatemalan teaching hospitals.
+
+ The questionnaire included: physician's demographics, work time dedicated to outpatients, knowledge of leading causes of death in Guatemala, guidelines used for non-communicable disease prevention, simulated cases asking for recommendation(s) on different preventive services for asymptomatic adults (i.
+
+e.
+
+ whether they recommended them or not, appropriate frequency and starting age, preferred screening method, and availability of the service(s) at their hospital).
+
+ The survey also assessed barriers faced in providing adequate services, and opinions on who should implement changes in national health care and in medical education.
+
+ The answers given by the internal medicine staff were compared with the United States Preventive Services Task Forces (USPSTF) Recommendations and Guatemalan Ministry of Health Guidelines.
+
+ Analysis compared recommendation practices within and between hospitals.
+
+.
+
+ Guatemala Internal Medicine Physicians' Knowledge of Non-communicable Disease Clinical Preventive Services@highlight
+
+A national cross-sectional survey was conducted to evaluate recommendations on clinical preventive services and additional information on non-communicable disease prevention.
+
+ Trained surveyors interviewed interns, residents and attendings of the Internal Medicine departments of all teaching hospitals in Guatemala.
+
+ Analysis compared recommendation practices within and between hospitals.
+

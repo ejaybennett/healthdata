@@ -1,0 +1,16 @@
+(firstQuint)Efficacy and Safety of Oral Encochleated Amphotericin B (CAMB) in the Treatment of Fluconazole-Resistant Vulvovaginal Candidiasis.
+
+ This is a single-center, open-label, pilot study to evaluate the efficacy of 14 days of CAMB dosing in subjects with fluconazole-resistant vulvovaginal candidiasis (VVC).
+
+ Approximately 16 women with fluconazole-resistant VVC will be randomized to either 200 mg or 400 mg oral CAMB for 14 days.
+
+ The primary objectives of this study are to assess the clinical cure rate, mycology eradication and responder outcome.
+
+ The secondary objective of this study is to evaluate the safety of 200 mg and 400 mg doses of oral CAMB.
+
+.
+
+ Efficacy and Safety of Oral Encochleated Amphotericin B (CAMB) in the Treatment of Fluconazole-Resistant Vulvovaginal Candidiasis@highlight
+
+This is a single-center, open-label, pilot study to evaluate the efficacy of 14 days of CAMB dosing in subjects with fluconazole-resistant vulvovaginal candidiasis (VVC).
+

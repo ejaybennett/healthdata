@@ -1,0 +1,44 @@
+(fifthQuint)Zinc Resistant Starch Project.
+
+ A total of 20 (10 M, 10 F) stunted rural Malawian children aged 36-60 months will be studied to determine if there is an effect of feeding RS on zinc homeostasis and environmental enteropathy.
+
+ These children are at high risk for zinc deficiency and environmental enteropathy by their demographic characteristics.
+
+ Children will first have a quantitative assessment of zinc homeostasis where each child is given 2 zinc stable isotopes, one by mouth and another intravenously, which is followed by a stool and urine collection of 4 days.
+
+ Zinc isotopes are quantified in the feces and urine, and these values are used to calculate the primary outcome, net zinc balance.
+
+ This is followed by an assessment of environmental enteropathy quantitatively measured using the non-invasive site specific sugar absorption test, where each child drinks 100 mL of a sugar solution and a urine collection follows.
+
+ The quantities of non-metabolizable sugars are measured, and the ratio of two of the sugars, lactulose and mannitol, is a measure of environmental enteropathy.
+
+ Then the children will receive a dietary supplement, corn starch that has been modified to reduce its dietary absorption, for 5 weeks, which they will add to their phala.
+
+ The RS is a standard food product that has been used safely in many millions of people for several decades.
+
+ After taking this RS for 4 weeks both the zinc stable isotope test and the dual sugar absorption test will be repeated on the children to see if they have improved.
+
+ These results will offer preliminary data as to whether RS might be used effectively on a large scale in the community to alleviate zinc deficiency and/or environmental enteropathy.
+
+.
+
+ Zinc Resistant Starch Project@highlight
+
+Broad - to examine the result of feeding RS to 3-5 year old rural Malawian children on zinc homeostasis and environmental enteropathy (EE).
+
+ Specific - 1.
+
+ To measure zinc status using a dual zinc stable isotope assay before and after administering resistant starch (RS) in 20 children.
+
+ 2.
+
+ To measure intestinal function using a site-specific sugar absorption test before and after administering RS in 20 children.
+
+ 3.
+
+ To determine the relationship between RS and zinc homeostasis.
+
+ 4.
+
+ To determine the relationship between RS and environmental enteropathy.
+

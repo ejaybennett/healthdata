@@ -1,0 +1,20 @@
+(firstQuint)Safety and Cognitive Function Study of EVP-6124 in Patients With Mild to Moderate Alzheimer's Disease.
+
+ This is a randomized, double-blind, placebo-controlled, parallel, 24-week, Phase 2 safety/efficacy study in which three dose levels of EVP-6124 or placebo will be evaluated.
+
+ Eligible for enrollment will be patients who meet clinical criteria for mild to moderate probable Alzheimer's disease who are either receiving treatment with AChEI medication at a stable dose or who are not presently taking any AChEI or memantine co-medication.
+
+ Patients will be randomized to one of the following groups: 0.
+
+3 mg, 1 mg or 2 mg or Placebo.
+
+ Approximately 400 subjects will be randomized to the 4 treatment groups.
+
+ Study drug will be supplied as capsules and will be orally administered once daily for a total of 24 weeks.
+
+.
+
+ Safety and Cognitive Function Study of EVP-6124 in Patients With Mild to Moderate Alzheimer's Disease@highlight
+
+This study is being conducted to determine the safety and effect on cognitive function of the investigational medication, EVP-6124, in individuals with mild to moderate probable Alzheimer's disease.
+

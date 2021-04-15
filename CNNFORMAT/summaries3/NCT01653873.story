@@ -1,0 +1,26 @@
+(secondQuint)Imaging Parameters to Predict Future Vertebral Fracture in Osteoporosis.
+
+ Vertebroplasty is considered one of the alternatives for the treating of spine compression fracture associated with pain especially for those patients with osteoporosis.
+
+ However, after vertebroplasty, the compliance of the bone becomes stronger than the adjacent vertebrae that is not treated.
+
+ So there is always a consideration of future fracture of the adjacent vertebral bodies after vertebroplasty done on certain body.
+
+ In this study, we try to follow the patients (5 years) to see if the adjacent vertebral bodies are prone to have fracture than the others away from the site of vertebroplasty.
+
+Then we try to find out the image biomarkers to predict the future fracture in the vertebral bodies.
+
+ The should be done with CT scan raw data, analysis with different algorithms.
+
+ Inclusion criteria; patients with osteoporosis and receiving vertebroplasty and with secondary fracture occurring in other spine exclusion criteria: No second vertebral body fracture occurred.
+
+ Primary measurement: the time and location of the 2nd fracture secondary measurement: the imaging biomarkers from CT scan.
+
+.
+
+ Imaging Parameters to Predict Future Vertebral Fracture in Osteoporosis@highlight
+
+After vertebroplasty, many patients will suffer from 2nd fracture in the vertebral column.
+
+ With analyzing of the images done right after the 1st vertebroplasty, we can define the parameters from different imaging and they can be predictors of the future fracture.
+

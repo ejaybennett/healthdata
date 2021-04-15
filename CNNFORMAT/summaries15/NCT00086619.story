@@ -1,0 +1,32 @@
+(thirdQuint)Parathyroid Hormone (PTH) for Osteoporosis in Postmenopausal Women.
+
+ In women with postmenopausal osteoporosis, PTH increases bone mineral density more than anti-resorptive agents, and its use markedly reduces the incidence of new spine and non-spine fractures.
+
+ Still, PTH is not a cure for osteoporosis in many patients because PTH-stimulated bone formation declines as PTH therapy continues.
+
+ Biochemical analyses suggest that bone formation and resorption peak after 6 to 9 months of daily PTH therapy and then decline progressively.
+
+ The study will last 18 months.
+
+ Blood, urine, and bone density tests will occur at screening.
+
+ At the start of the study, participants will be randomly assigned to one of two PTH dose regimens.
+
+ Patients will go to Massachusetts General Hospital at Months 0, 3, 6, 9, 12, 15, and 18 for blood and urine collection.
+
+ In addition, bone density tests by DXA will be performed at Months 0, 6, 12, and 18, and by quantitative CT scans at Months 0 and 18.
+
+ Approximately 6 weeks after any change in PTH dose, each participant's blood calcium will be checked 4 to 6 hours after that day's PTH injection, and her 24-hour urine calcium excretion will also be checked.
+
+ Participants may enroll in optional substudies that will test whether reduced skeletal responses to long-term treatment with PTH are accompanied by changes in its absorption and/or destruction and whether reduced skeletal responses to long-term treatment with PTH are accompanied by parallel reductions in kidney responses to PTH.
+
+.
+
+ Parathyroid Hormone (PTH) for Osteoporosis in Postmenopausal Women@highlight
+
+Parathyroid hormone (PTH) increases bone formation and thereby improves bone density and bone strength in postmenopausal women with osteoporosis.
+
+ However, prolonged PTH treatment increases bone formation less and less over time.
+
+ This study will test whether increasing the daily dose of PTH sustains its ability to improve bone formation, and optional sub-studies will test several potential reasons why PTH's effects on bone formation decline over time.
+

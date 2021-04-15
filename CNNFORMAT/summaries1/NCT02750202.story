@@ -1,0 +1,60 @@
+(fifthQuint)Effectiveness Study of Human Papilloma Virus (HPV) Vaccines to Prevent Recurrence of Genital Warts.
+
+ Patient selection: Female patients referred or presenting with genital warts at each site will be eligible and evaluated against the inclusion and exclusion criteria.
+
+ Women who are clinically or severely immune-compromised will not be included into the study, but both HIV negative and HIV infected women will be included.
+
+ Seventy-five women with large or recurrent genital warts will be recruited for this study from 2 sites in South Africa.
+
+ Recruitment: Women with genital warts will be evaluated for inclusion into the study.
+
+ Those who fit the inclusion criteria and are without any of the exclusion criteria will be fully informed and invited to participate.
+
+ The first target will be to recruit the first seventy-five consecutive eligible patients who have signed written consent; recruitment for the study will be done for at least 24 months.
+
+ First clinical visit: - Evaluation genital lesions: On study entry tumour size and position will be documented graphically and photographically and viral typing from the vulva wart and cervix will be done using Roche Linear Array test.
+
+ - Evaluation immune status: HIV status and CD 4/CD 8 count will be recorded and tested and the serum will be collected for antibody testing.
+
+ Cervical disease of clinical significance will be excluded or treatment offered if relevant.
+
+ - Randomization: Patients will be randomized to receive either quadrivalent HPV or Hepatitis B vaccine.
+
+ - Vaccination: The participants assigned to the test group will be administered quadrivalent HPV vaccine in three doses as recommended by the manufacturer.
+
+ Participants assigned to the control group will receive Hepatitis B vaccine in three doses as recommended by the manufacturer.
+
+ Follow-up clinical visits: week 8, week 16 and week 24: - Evaluation genital lesions: Three follow up visits will be scheduled two months apart at which time the lesion size will be recorded.
+
+ - Evaluation immune status: After month 6 or the third visit, the serum will again be collected for antibody level testing.
+
+ - Treatment decision: According to the clinical response as measured at month six and onwards, locally destructive or surgical treatment will be allowed according to the preference of the clinician and as determined by clinical factors.
+
+ Follow up after treatment: - Follow up will be done at six monthly intervals.
+
+ - Evaluation genital lesions: At these visits lesion size will be determined and documented.
+
+ HPV typing on the cervical and vulval lesions will be repeated at least once.
+
+ - Further treatment of warts: If needed, repeat surgery and/or local destruction will be allowed and documented.
+
+ These will be around week 48 and week 72, or study exit Study exit: - Participants will exit the study in week 72.
+
+ - In the absence of harm as determined at interim analysis or suggested by participant disease history, researchers will be unblinded for participant status at study exit and alternative vaccines will be offered to each of these women.
+
+.
+
+ Effectiveness Study of Human Papilloma Virus (HPV) Vaccines to Prevent Recurrence of Genital Warts@highlight
+
+Large genital warts are frequently diagnosed in general gynaecology and oncology clinics in South Africa.
+
+ Medical and destructive therapy for small warts is generally very effective, however unique problems posed by large or extensive genital warts are not so easily solved and treatment of affected patients remains very challenging.
+
+ Recurrences are common especially among immune-compromised women.
+
+ This study will test whether giving the quadrivalent human papilloma virus (HPV) vaccine to women with extensive genital warts prior to surgical treatment will improve outcomes.
+
+ Investigators hypothesize that pre-treatment with HPV vaccine can play a role in the control of both malignant and benign HPV disease in women with and without HIV infection through stimulation of the antibody response.
+
+ In addition, HPV types and other associated diseases will be studied in women receiving HPV vaccine and placebo.
+

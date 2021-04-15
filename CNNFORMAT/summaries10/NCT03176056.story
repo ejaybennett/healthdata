@@ -1,0 +1,16 @@
+(firstQuint)The Effectiveness of Low Carbohydrate Diet in Reducing Polypharmacy for Patients With Type 2 Diabetes Mellitus.
+
+ Poorly controlled type 2 diabetic men and women, aged between 20 and 80 years, with HbA1c 7.
+
+5% (58mmol/mol) in the previous 3 months participated in this randomized controlled 18-month trial at a medical center.
+
+ Patients were randomly assigned to the interventional group and given a 90g/day low carbohydrate diet (LCD) or the controlled group, which maintained a standard calorie-restricted diet (CRD).
+
+ All patients received periodic educational intervention and were monitored for weight, body composition, waist girth, hip girth, thigh girth, pre- and post-prandial serum glucose, HbA1c, lipid profile, renal function, medication effect score and major cardiovascular events.
+
+.
+
+ The Effectiveness of Low Carbohydrate Diet in Reducing Polypharmacy for Patients With Type 2 Diabetes Mellitus@highlight
+
+This study determines whether an educational intervention with a 90 g/day LCD is safe, effective and has good compliance for poorly controlled type 2 diabetes patients.
+

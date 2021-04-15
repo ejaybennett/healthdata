@@ -1,0 +1,48 @@
+(fifthQuint)Nasal, Tracheal and Bronchial Mucosal Lining Fluid(MLF) Sampling From Patients With Respiratory Diseases.
+
+ Aim- To define the diagnosis, stratification and monitoring of IPF, sarcoidosis and TB, providing targets and biomarkers for new therapy.
+
+ The investigators will study asthma and COPD patients with inflammation of the airways, and to compare with healthy control subjects.
+
+ Characterising inflammation using upper airway sampling may eventually remove the requirement for invasive diagnostic bronchoscopy in these patients.
+
+ The investigators shall assess the presence of cytokines, chemokines, together with complement, coagulation and fibrosis.
+
+ The investigators propose to obtain opportunistic nasal, bronchial and tracheal mucosal samples from patients with IPF, sarcoidosis and TB.
+
+ The investigators will compare these samples with healthy controls and with patients with asthma and COPD.
+
+ Objectives: Determining biomarkers and molecular signatures in terms of cytokines and chemokines, coagulation, complement activation and fibrosis in the MLF from the range of lung diseases Study design: This is a pilot study and the investigators shall obtain our study group from patients attending the bronchoscopy suite, specialist respiratory clinics and those being admitted to the wards at St Mary's Hospital under the Respiratory team.
+
+ The investigators shall recruit patients with asthma and COPD,as well as age/ sex- matched healthy volunteers.
+
+ IPF, sarcoid and TB patients are usually undergoing bronchoscopy or endobronchial ultrasound(EBUS) and transbronchial needle aspiration(TBNA) for diagnostic purposes.
+
+ Their diagnosis may only be confirmed after sampling is done after the bronchoscopy.
+
+ The patients included in the study will represent the following groups: IPF at least 12 subjects Sarcoidosis at least 12 subjects TB at least 12 subjects COPD at least 12 subjects Asthma at least 12 subjects Healthy at least 12 subjects Study visits: Having identified patients suitable for this study, the study involves a single bronchoscopy, during which all airway sampling takes place.
+
+ The investigators will recruit patients with asthma, COPD and healthy volunteers and they will be reimbursed for their participation, since bronchoscopy is not routinely part of their normal clinical care.
+
+ They will be recruited by advertisements to the general public.
+
+ They will be given relevant participant information sheet regarding this study by email or post.
+
+ Participants with confirmed or suspected IPF, sarcoidosis and TB who are due for a bronchoscopy will be identified during their routine clinical care and as part of their diagnostic work-up, and will not receive compensation.
+
+.
+
+ Nasal, Tracheal and Bronchial Mucosal Lining Fluid(MLF) Sampling From Patients With Respiratory Diseases@highlight
+
+Nasal, tracheal and bronchial sampling of MLF in patients with idiopathic pulmonary fibrosis(IPF), sarcoidosis, tuberculosis(TB), asthma and COPD.
+
+ Similar sampling from healthy controls for comparative data.
+
+ Aim: To characterise the molecular basis of the upper and lower airway mucosa inflammatory response in different respiratory diseases.
+
+ To assess molecular biomarkers and signatures to see if these can aid diagnosis, stratification of these respiratory diseases.
+
+ To direct personalised medicine and rationalise therapy.
+
+ Outcome measures:Measurement of levels of inflammation, coagulation, complement activation and fibrosis in MLF, transcriptomics from nasal curettage and airway brushings and to assess the tolerability of absorption procedures in these patients.
+

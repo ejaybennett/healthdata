@@ -1,0 +1,22 @@
+(secondQuint)Relationship Between Endoscopic Ultrasound Staging and Degree of Stricture in Esophageal Cancer.
+
+ This will be an observational prospective study.
+
+ The investigators will aim to enroll 100 male and female adult patients (aged 19 years and over) of all ethnicities/races, who have been referred to Florida Hospital for Endoscopic Ultrasound staging of esophageal cancer.
+
+ All vulnerable populations will be excluded.
+
+ The investigators will be using a standardized data collection form to record presenting symptoms, endoscopy findings, Endoscopic Ultrasound features and final esophageal cancer staging.
+
+ This is an observational study in which standard of care is being practiced and also as the patients are not placed at additional risk from participating in this study.
+
+ However, as the investigators are collecting data prospectively, all participants will sign consent.
+
+ An attempt will be made to see if there is a correlation between stricture tightness encountered at endoscopy (EGD) with advanced disease stage diagnosed at Endoscopic Ultrasound.
+
+.
+
+ Relationship Between Endoscopic Ultrasound Staging and Degree of Stricture in Esophageal Cancer@highlight
+
+The primary objective of this study is to document all cases of EUS in patients with esophageal cancer and determine if the inability to advance the gastroscope beyond the tumor correlates with locally advanced disease stage at Endoscopic Ultrasound.
+

@@ -1,0 +1,44 @@
+(firstQuint)Autologous Bone Marrow and BMP7 Treatment in the Necrosis in the Femoral Head of the Adult.
+
+ Rationale and Objectives Epiphyseal necrosis are common in young adults (2000 new cases per year in the Nord Pas -de- Calais region) resulting in severe functional impairment and disability .
+
+ Drilling is the procedure most simple, but its effectiveness and safety are discussed ( fracture risk , long discharge period , success rates below 50 % until stage III).
+
+ However, it can be optimized in two ways: 1) reducing morbidity and discharge period by reducing the diameter of the channel and percutaneous achievement , 2 ) increase efficiency , including coverage contribution of stem cells and osteogenic hormone .
+
+ The purpose of this study is to test the effectiveness of the contribution of these elements to the healing necrosis .
+
+ Material, Method, and primary endpoint This is a prospective multicenter clinical trial randomized double-blind .
+
+ The effect of addition of autologous bone marrow stem cells and BMP7 on healing necrosis is assessed by magnetic resonance imaging ( NMRI ) and is the primary endpoint .
+
+ Patients are randomly assigned to two arms : 1 ) Group I: a simple drilling is practiced , 2 ) Group II : the drilling is completed by a joint supply of autologous marrow unconcentrated and recombinant BMP7 ( OP1 ) .
+
+ Necrosis of the femoral head with stage I to III are retained Ficat (only stage III with a recess of less than 3 mm are used , corresponding I-III according to Steinberg ) .
+
+ Forty patients are included in each arm .
+
+ A IRMN practiced preoperatively and at 6 months and 2 years.
+
+ Clinical evaluation will be continued up to 5 years in testing the survival rate ( criterion censorship = recovery by hip ) Expected results and possible implications In terms of radiological stabilization ( NMRI ) the effectiveness of single drilling necrosis stage I to III Ficat is 60 % ( non- stabilization or worsening of size).
+
+ The hypothesis tested is a gain stabilization ( and / or recovery) of 20 % .
+
+ The clinical efficacy of single drilling necrosis stage I to III Ficat is estimated at 50 % (50% recovery by prosthesis in 5 years) .
+
+ The assumption is a 20% improvement in the rate of success of the intervention .
+
+ Reducing morbidity due to technical modifications has been previously tested.
+
+ If the assumption of success is reached, the indications of drilling could be reinforced especially for patients with multiple visceral defects usually supported on the websites of University Hospital of Lille and Amiens and CH Roubaix ( organ transplant or tissue , ethyl , .
+
+.
+
+ ) .
+
+.
+
+ Autologous Bone Marrow and BMP7 Treatment in the Necrosis in the Femoral Head of the Adult@highlight
+
+The main objective of the study is to evaluate the effectiveness of the injection of bone marrow unconcentrated more R BMP 7 to repair necrosis of the femoral head with stage I-III classification FICAT.
+

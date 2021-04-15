@@ -1,0 +1,18 @@
+(secondQuint)An Observational Study to Evaluate the Efficacy of Biweekly Romiplostim in Adult Patients With ITP.
+
+ Regarding the determination of appropriate dose, it is well known that romiplostim resulted in dose-dependent increases in platelet counts, but required dose for raising platelet count is variable between individuals according to each patient's ability to eliminate serum romiplostim.
+
+ Because of this variability, after administration of initial 1mcg/kg of romiplostim, dose adjustment is recommended based on the platelet response to given dose of romiplostim.
+
+ However, the optimal dose interval of romiplostim has rarely been studied.
+
+ In pivotal studies, romiplostim was administered on a weekly schedule, and based on these studies, one dose at every week is being widely used.
+
+ In one study in which ITP patients received weekly subcutaneous doses of romiplostim at a range from 3 to 15mcg/kg, half life of romiplostim was estimated from 1 to 34 days, suggesting that lengthening the interval between doses more than a week can be potentially possible in some patients.
+
+.
+
+ An Observational Study to Evaluate the Efficacy of Biweekly Romiplostim in Adult Patients With ITP@highlight
+
+The aim of this study is to evaluate the efficacy of romiplostim administered at every other week in ITP patients who attained stable platelet counts 50 x 109/L for 4 consecutive weeks after weekly doses of romiplostim.
+

@@ -1,0 +1,22 @@
+(secondQuint)Evaluating the Efficacy and Safety of Dolutegravir-Containing Versus Efavirenz-Containing Antiretroviral Therapy Regimens in HIV-1-Infected Pregnant Women and Their Infants.
+
+ This study will compare the virologic efficacy and safety of three ARV regimens in HIV-1-infected pregnant women: dolutegravir (DTG) plus emtricitabine/tenofovir alafenamide (FTC/TAF), DTG plus emtricitabine/tenofovir disoproxil fumarate (FTC/TDF), and efavirenz/emtricitabine/tenofovir disoproxil fumarate (EFV/FTC/TDF).
+
+ The study will also compare the safety of these regimens for their infants.
+
+ At study entry, mothers will be randomly assigned to either receive DTG plus FTC/TAF (Arm 1), DTG plus FTC/TDF (Arm 2), or EFV/FTC/TDF (Arm 3) during pregnancy, through delivery, and for 50 weeks postpartum.
+
+ Mothers will complete study visits at study entry and every four weeks during pregnancy.
+
+ Study visits for mothers and their infants will occur at delivery and at 6, 14, 26, 38, and 50 weeks postpartum.
+
+ Visits for mothers and infants will include physical examinations and blood collection.
+
+ Select study visits may include breast milk collection from mothers who breast feed, hair and urine collection, ultrasound scans, and, for a subset of participants, dual energy x-ray absorptiometry (DXA) scans for mothers and their infants.
+
+.
+
+ Evaluating the Efficacy and Safety of Dolutegravir-Containing Versus Efavirenz-Containing Antiretroviral Therapy Regimens in HIV-1-Infected Pregnant Women and Their Infants@highlight
+
+The purpose of this study is to compare the virologic efficacy and safety of three antiretroviral (ARV) regimens in HIV-1-infected pregnant women and to compare the safety of these regimens for their infants.
+

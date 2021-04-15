@@ -1,0 +1,62 @@
+(fifthQuint)Subclinical Lymphedema Treatment Study.
+
+ Lymphedema is an accumulation of fluid in the interstitial tissues resulting from an impairment of the normal lymphatic drainage of the affected region.
+
+ Lymphedema is often a side effect of breast cancer treatments such as axillary lymph node surgery and radiation, as these procedures are damaging to the lymphatic structures.
+
+ Due to poor awareness of the condition, minimal education is given to patients about their risk for lymphedema as a result of cancer treatments.
+
+ With inconsistent diagnostic methods, many cases of breast cancer-related lymphedema are diagnosed after the condition has progressed to its irreversible and chronic form, i.
+
+e.
+
+ clinical lymphedema.
+
+ Bioimpedance spectroscopy (BIS) uses a low frequency electrical current to assess extracellular fluid of the limbs.
+
+ BIS has proven to be a sensitive and specific tool for detecting subclinical lymphedema (Stage 0) and has been validated in its use within a surveillance model.
+
+ Recent literature supports the use of a surveillance model to identify breast cancer-related subclinical lymphedema to allow for early intervention and improved patient outcomes.
+
+ Despite the growing body of evidence supporting the importance of early identification of lymphedema in the subclinical stage, there is limited evidence to guide treatment of this patient population.
+
+ Treatment parameters for subclinical lymphedema stem primarily from a study by Stout et al.
+
+ indicating that a short compression trial (mean duration of 4.
+
+4 weeks) of 20-30 mmHg garments effectively treated subclinical lymphedema identified by perometry by preventing progression to late-stage lymphedema.
+
+ Surveillance of arm volume will be performed using bioimpedance spectroscopy (BIS) testing with the Impedimed(R) L-dex U400.
+
+ Subjects will receive BIS testing (1) pre-operatively, (2) post-operatively at 6 weeks, (3) 3 months, (4) 6 months, (5) 12 months, (6) 18 months, (7) 24 months, and (8) 36 months.
+
+ The outcome measure will be the L-dex score.
+
+ Only subjects who have an abnormal result will be enrolled in the experimental portion of the study.
+
+ If an L-dex score is abnormal (defined by a change of +7 units from her pre-operative baseline), the subject is determined to exhibit subclinical lymphedema.
+
+ As a result, these subjects will be randomized into one of two intervention groups.
+
+ The group receiving only compression intervention will be referred to as the compression group (CG).
+
+ The group receiving Manual Lymphatic Drainage (MLD) and compression will be referred to as the therapy group (TG).
+
+ Subjects will be followed through screenings for a maximum of 3 years post-surgically.
+
+ The investigators hope that this study will take the next step in the surveillance model by answering questions about how patients with subclinical lymphedema should be clinically managed.
+
+.
+
+ Subclinical Lymphedema Treatment Study@highlight
+
+Primary Objective - To compare the effectiveness of 2 treatment protocols for patients with breast cancer-related subclinical lymphedema identified through bioimpedance spectroscopy, L-dex scores Secondary Objectives - To determine the necessary duration of intervention to reverse L-dex scores back to a normal range in patients with breast cancer-related subclinical lymphedema - To determine the time elapsed post-surgically to the development of subclinical lymphedema identified by bioimpedance spectroscopy, L-dex scores - To identify risk factors for the development of subclinical lymphedema in patients with breast cancer - To identify factors associated with the progression to clinical lymphedema following treatment of subclinical lymphedema as identified by bioimpedance spectroscopy, L-dex scores Women with breast cancer diagnoses and planned axillary lymph node procedures will receive pre-operative screening of arm volume with bioimpedance, which will capture baseline measurements.
+
+ Then, subjects will undergo periodic screenings for the first 3 years following surgery.
+
+ If a significant change in volume compared to baseline is detected with bioimpedance, subjects will be randomized to 1 of 2 treatment groups.
+
+ The outcomes of 2 treatment protocols will be compared.
+
+ Additionally, subjects will be screened each week during their treatment interventions to determine the necessary quantity of intervention before L-dex scores normalize.
+

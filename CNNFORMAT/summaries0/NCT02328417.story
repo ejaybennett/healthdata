@@ -1,0 +1,24 @@
+(secondQuint)Enhanced Recovery After Radical Cystectomy Study.
+
+ This is a prospective non randomized study of two cohorts, one defined by the usual protocol and the other one by the application of accelerated recovery protocol.
+
+ It's discarded a priori a prospective randomized trial, since it does not seem feasible to avoid byass of control group when synchronizing the active intervention and control.
+
+ Subjects surgery will be followed after discharge for a minimum of 90 days, and thereafter according to protocol of each center.
+
+ Patients will be provided with a satisfaction survey 90 days after surgery.
+
+ The degree of compliance with the protocol will be assessed through a checklist indicating compliance with each of the steps of the protocol in both groups.
+
+ All patients will sign an informed consent for the study authorizing the use of their clinical data for statistical analysis.
+
+.
+
+ Enhanced Recovery After Radical Cystectomy Study@highlight
+
+Prospective non randomized study of two cohorts: usual protocol and the application of accelerated recovery protocol.
+
+ F/up after discharge, 90 days and thereafter according to protocol of each center.
+
+ Compliance to be assessed.
+

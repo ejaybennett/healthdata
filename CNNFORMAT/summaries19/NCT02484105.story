@@ -1,0 +1,16 @@
+(firstQuint)Comforting Conversation During Colonoscopy: A Trial on Patient Satisfaction.
+
+ Does comforting conversation during colonoscopy improve on patient satisfaction, compliance and pain management.
+
+ A randomized controlled trial on comforting conversation or standard communication during colonoscopy.
+
+ Using a mixed methods model, a qualitative study will be conducted to clarify what patients deem as important or effective conversation during colonoscopy.
+
+ A randomized controlled trial will hereafter be conducted, where the results from the initial study will be utilized in the conversation during colonoscopy.
+
+.
+
+ Comforting Conversation During Colonoscopy: A Trial on Patient Satisfaction@highlight
+
+Does comforting conversation during colonoscopy improve on patient satisfaction, compliance and pain management.
+

@@ -1,0 +1,30 @@
+(thirdQuint)Obstructive Sleep Apnea and Endothelial Function in Patients With Resistant Hypertension.
+
+ Introduction: Obstructive sleep apnea (OSA) is considered an independent risk factor for cardiovascular disease.
+
+ There is evidence that individuals with OSA may have increased inflammatory mediators, changes in the metabolic profile, increased sympathetic activity with consequent elevation of blood pressure (BP) and endothelial dysfunction.
+
+ Resistant hypertension (RH) is defined as uncontrolled blood pressure (BP 140/90mmHg) despite the current use of three hypotensive drugs at full doses, including a diuretic, or the need for >3 medications to control BP.
+
+ OSA has been reported as the most common secondary cause of high blood pressure maintenance.
+
+ Objective: To determine the prevalence of OSA and associate it with the endothelial function behavior in patients with resistant hypertension comparing to those with BP controlled by medication.
+
+ Methods: A cross-sectional study involving 40 hypertensive patients (20 with resistant hypertension and 20 with controlled BP), irrespective of race or gender, with ages between 18 and 75 years.
+
+ BP was measured by oscillometric method on automatic device.
+
+ Endothelial function was assessed by peripheral arterial tonometry (PAT) by EndoPAT2000(R) and the OSA diagnosis also through PAT, using the portable device WatchPAT200(R).
+
+ Anthropometric evaluation was performed through measurements of waist, hip and neck circumference, body mass index, waist to height ratio (WHtR), and body composition assessed by bioelectrical impedance.
+
+ Statistical analyzes were performed by GraphPad Prism software.
+
+.
+
+ Obstructive Sleep Apnea and Endothelial Function in Patients With Resistant Hypertension@highlight
+
+The purpose of this study is to determine the prevalence of obstructive sleep apnea and associate it with the endothelial function behavior in patients with resistant hypertension.
+
+ Two groups will be evaluate, one presenting uncontrolled high blood pressure, and other, with controlled blood pressure by drugs.
+

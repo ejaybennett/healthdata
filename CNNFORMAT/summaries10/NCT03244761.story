@@ -1,0 +1,14 @@
+(firstQuint)Physiological Effects of High-Flow Tracheal Oxygen Via An Modified Interface.
+
+ Tracheostomy is often performed in patients after or anticipated prolonged mechanical ventilation, who are usually required oxygen therapy after discontinuation of mechanical ventilation.
+
+The high-flow tracheal (HFT) oxygen therapy in tracheostomized patients has been shown that can improve oxygenation,but can not induce positive end-expiratory pressure and elevation of end-expiratory lung volume.
+
+ A modified HFT system by increasing expiratory resistance might induce PEEP and consequently elevate EELV.
+
+.
+
+ Physiological Effects of High-Flow Tracheal Oxygen Via An Modified Interface@highlight
+
+Tracheostomy is often performed in patients after or anticipated prolonged mechanical ventilation, who are usually required oxygen therapy after discontinuation of mechanical ventilation.
+

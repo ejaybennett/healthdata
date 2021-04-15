@@ -1,0 +1,25 @@
+(thirdQuint)Trans-anal Hemorrhoidal Dearterialization (THD) vs.
+
+ Hemorrhoidectomy.
+
+ The THD technique involves using ultrasound equipment to identify the arteries that are feeding blood into the hemorrhoids.
+
+ Once located, stitches are placed around those arteries to cut off the blood supply to the hemorrhoids, which destroys them.
+
+ In the standard surgical excision technique, the hemorrhoids are removed by cutting them out with a scalpel.
+
+ Both techniques are widely used in many hospitals today.
+
+ However, there have been no formal studies comparing the two techniques regarding outcomes, particularly regarding pain after the procedure.
+
+ We plan to enroll 60 patients in this study here at Stony Brook; 30 patients will have THD and 30 will have the standard surgical excision of hemorrhoids.
+
+.
+
+ Trans-anal Hemorrhoidal Dearterialization (THD) vs.
+
+ Hemorrhoidectomy@highlight
+
+The purpose of this study is to compare the frequency and severity of postoperative( after surgery) pain between two surgical techniques for treating severe hemorrhoids.
+
+ The two techniques are called: transanal hemorrhoidal dearterialization (THD) and standard surgical excision (removal) of the hemorrhoids

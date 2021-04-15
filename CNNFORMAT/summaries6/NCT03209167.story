@@ -1,0 +1,16 @@
+(firstQuint)Comparing Patient Satisfaction of the Abdomen After DIEAP Procedure and Conventional Abdominoplasty.
+
+ 34 patients reconstructed with a DIEAP flap (DIEAP group) and 30 patients who had undergone a conventional abdominoplasty (AP group) were asked to complete two study-specific questionnaires.
+
+ One questionnaire covered general and specific aspects concerning abdominal outcomes and morbidity.
+
+ The other covered general outcomes such as satisfaction with surgery and change of body image, self-confidence, social and intimate relations.
+
+ In addition, all patients performed an abdominal muscle function test.
+
+.
+
+ Comparing Patient Satisfaction of the Abdomen After DIEAP Procedure and Conventional Abdominoplasty@highlight
+
+The purpose of this study was to specifically compare the long term patient satisfaction of the abdomen after DIEAP flap procedure with conventional abdominoplasty.
+

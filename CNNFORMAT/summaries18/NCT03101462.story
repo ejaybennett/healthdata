@@ -1,0 +1,34 @@
+(thirdQuint)Live Attenuated Influenza Vaccine (LAIV) Versus Trivalent Inactivated Influenza Vaccine in Healthy Adults 18-49 Years.
+
+ This Phase IV, randomized, open-label, single-site study at Saint Louis University will enroll approximately 40 subjects who are healthy, 18 to 49 years old.
+
+ Subjects will be randomized in a 1:1 fashion to receive either licensed trivalent FluMist (2010-2011 season appropriate), or licensed inactivated trivalent influenza vaccine (2010-2011 season appropriate) so that approximately 20 subjects will be randomized to receive LAIV, and 20 will receive TIV.
+
+ Subjects will receive 1 dose of FluMist or TIV in the Center for Vaccine Development on Day 0 and will return to the site on days 7 and 45 to assess immunogenicity.
+
+ Subjects will be asked to report any serious adverse events.
+
+ Blood samples and nasal washes for assessment of immune responses will be obtained at three time points: on Day 0 prior to dosing with FluMist or TIV, and at visits conducted 7 and 45-51 days post vaccination.
+
+ The study will be conducted just prior to and during the influenza season.
+
+ Subjects will receive a single dose of FluMist or TIV administered as instructed per package insert.
+
+ Two contacts will be made with subjects, either telephone calls or e-mail, to collect serious adverse events only, one at Days 28-35, and one at approximately Days 180-190 to conclude the subject's participation.
+
+ The duration of each subject's participation is approximately 6 months.
+
+ The primary immune studies conducted with collected samples will include serum hemagglutinin inhibition (HAI) antibody titers, nasal wash influenza-specific secretory immunoglobulin A (IgA) responses, peripheral blood interferon gamma (IFN-) ELISPOT assays and peripheral blood carboxyfluorescein succinimidyl ester (CFSE) dilution/intracellular cytokine staining flow cytometric assays.
+
+ In addition, frozen serum and peripheral blood mononuclear cells (PBMC) samples will be used in exploratory assays to determine the kinetics and nature of innate responses and the detailed molecular signatures of memory T cells induced by LAIV and TIV vaccinations.
+
+ Investigators will be performing genome-wide expression studies, but will not perform DNA sequencing and will not send anything other than coded samples outside of Saint Louis University.
+
+.
+
+ Live Attenuated Influenza Vaccine (LAIV) Versus Trivalent Inactivated Influenza Vaccine in Healthy Adults 18-49 Years@highlight
+
+This randomized, open-label, single-site study at Saint Louis University will enroll approximately 40 subjects who are healthy, 18 to 49 years old.
+
+ Subjects will be randomized in a 1:1 fashion to receive either licensed trivalent FluMist containing (2010-2011 season appropriate), or licensed inactivated trivalent influenza vaccine (2010-2011 season appropriate) so that approximately 20 subjects will be randomized to receive LAIV, and 20 will receive TIV.
+

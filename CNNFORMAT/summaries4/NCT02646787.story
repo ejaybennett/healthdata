@@ -1,0 +1,12 @@
+(firstQuint)Virtual Reality Water Friendly Wound Care.
+
+ Using virtual reality as a form of distraction during a painful burn wound care procedure in addition to pain medication.
+
+The aim of this study is to conduct a randomized controlled trial of Virtual Reality as a means to reduce pain during wound care in patients hospitalized for their burn injuries at Harborview Medical Center Burn Center, and Shriners Hospitals for Children in Galveston, Texas.
+
+.
+
+ Virtual Reality Water Friendly Wound Care@highlight
+
+Using virtual reality as a form of distraction during a painful burn wound care procedure in addition to pain medication.
+

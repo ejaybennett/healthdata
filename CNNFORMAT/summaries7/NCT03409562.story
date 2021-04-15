@@ -1,0 +1,18 @@
+(secondQuint)Efficacy of Pain Neurophysiology Education in Combination With Motor Control Training for Unspecific Low Back Pain.
+
+ Sixty-two subjects with unspecific low-back pain were randomly recruited for the present study.
+
+ The subjects were randomly allocated to a control group (which received only motor control training) and an intervention group (which underwent two pain neurophysiology education sessions prior to motor control training).
+
+ Primary outcome measures were pain (measured with the Visual Analogical Scale) and disability (measured with the Oswestry Disability Index).
+
+ Secondary outcome measures are kinesiophobia (Tampa Scale for Kinesiophobia), the global perceived effect (Global Perceived Effect Scale) and quality of life (SF-12).
+
+ These will be measured before the intervention, at the end of the intervention, and 3 and 6 months after ending the intervention.
+
+.
+
+ Efficacy of Pain Neurophysiology Education in Combination With Motor Control Training for Unspecific Low Back Pain@highlight
+
+The purpose of the present study is to evaluate whether the addition of two pain neurophysiology education sessions to motor control training may result in an improvement of the outcome measures of pain and disability, compared to motor control training alone.
+

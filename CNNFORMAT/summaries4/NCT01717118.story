@@ -1,0 +1,63 @@
+(fifthQuint)Evaluation of Immunogenicity Levels in Women With HPV Vaccine in Mexico.
+
+ Hypothesis Girls 9 and 10 years of age who are administered the amplified anti/HPV vaccination scheme (0-6-60), show immunogenicity levels against HPV antibodies that are not lower than those of 9-year-old girls and adult women who have been administered the traditional scheme (0-1/2-6).
+
+ The vaccination schemes for HPV traditional (0-1 / 2-6) and extended (0-6-60), are equivalent from the immunologically perspective and therefore the number of memory B and T lymphocytes as well as the structure of repertoire will be not different between schemes.
+
+ Objectives The main objectives are to monitor the levels of immunity induced by vaccination against HPV with two vaccination schemes with the quadrivalent vaccine: Traditional Extended (0-6-60 months) and traditional (0-2-6); Monitoring levels of immunity induced by vaccination against HPV with three vaccine schemes with bivalent vaccine: Extended (0-6-60 months), traditional (0-1-6) and two doses (0- 6); as well as evaluating the interchangeability of the bivalent and quadrivalent vaccines in the third dose of extended scheme.
+
+ The study design is to create a sentinel cohort of women vaccinated against HPV in the following comparison groups: - Women of nine years with extended vaccination scheme with three doses of quadrivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of the quadrivalent vaccine and the third dose with bivalent (0-6-60) - Women of nine years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women between 18 and 24 years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women of nine years with extended vaccination scheme with three doses of bivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of bivalent vaccine and the third tetravalent dose - Women of nine years with two vaccine doses scheme with the bivalent HPV vaccine (0-6) - Women of nine years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) - Women between 18 and 24 years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) - To monitoring HPV infections, at month 61 of follow-up, a group of 400 women aged 14-15 years, who have not been vaccinated against HPV, will be invited , in order to make the monitoring of occurrence of HPV infections in urine per month 61, 72, 96 and 120 post dose 0 in vaccinated groups Methodology Study design: Creating a sentinel cohort of women vaccinated against HPV in three comparison groups: - Women of nine years with extended vaccination scheme with three doses of quadrivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of the quadrivalent vaccine and the third dose with bivalent (0-6-60) - Women of nine years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women between 18 and 24 years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women of nine years with extended vaccination scheme with three doses of bivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of bivalent vaccine and the third tetravalent dose - Women of nine years with two vaccine doses scheme with the bivalent HPV vaccine (0-6) - Women of nine years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) - Women between 18 and 24 years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) Selecting the study population.
+
+ A fraction of the population of females will be invited to participate in the study proportionately, combining strategies in schools and the community.
+
+ A total of 2450 women will be recruited.
+
+ For the study purposes, they will be classified by vaccine type administered, (tetravalent and bivalent), as well as by age group and vaccination scheme.
+
+ Forming groups for evaluation.
+
+ Two groups of participants will be formed.
+
+ Participants will be classified by vaccine type received: 1.
+
+ Bivalent Vaccine.
+
+ This group will consist of a total of 2000 women.
+
+ Two thirds of them will be 9 to 10 years of age, and 500 will be 18 to 24 years of age.
+
+ In the first age group, 1000 of them will be administered the vaccine in the amplified scheme of 0, 6, 60 months.
+
+ Five hundred females from this age group will be administered the vaccine according to the traditional scheme of 0, 1, 6 months.
+
+ All females from the 18 to 24 age group will be administered the traditional scheme of 0, 1, 6 months.
+
+ 2.
+
+ Tetravalent Vaccine: A total of 450 females will participate.
+
+ The 9 to 10 year age group will include 300 women, and the 18 to 24 year age group will include 150 females.
+
+ The vaccination scheme will be conformed as follows: In the group of 9- to 10-year-olds, 150 of them will be administered the vaccine in the amplified scheme of 0, 6, 60 months, and the remaining 150 will receive the vaccine under the traditional scheme of 0, 2, 6 months.
+
+ The group of 18- to 24-year-old women will be conducted under the traditional scheme of 0, 2 and 6 months.
+
+ The vaccination scheme will be assigned according to number in the record and/or geographical location.
+
+ For quantification of immunological memory of B and T lymphocytes and characterizing lymphocytes B repertoire in women vaccinated against HPV, 60 participants for group, recruited for medical evaluation at month 60.
+
+ To evaluate the interchangeability of quadrivalent and bivalent vaccines a randomization will be performed in the group of girls aged 14-15 years who have been assigned at the beginning of the project with extended vaccination scheme (0-6-60) with the bivalent vaccine, so that one third of this group will receive the bivalent vaccine, another third will receive the quadrivalent vaccine and the remaining third will no longer receive additional doses.
+
+.
+
+ Evaluation of Immunogenicity Levels in Women With HPV Vaccine in Mexico@highlight
+
+In September 2009 the National Vaccination Council approved the policy for anti-HPV vaccination in 9-year-old girls with an extended scheme of 0, 6, and 60 months, under the following justification: - Antibody induction due to the vaccine is greater than that produced by natural exposure to the virus - Immune response in girls 9 to 11 years of age is similar to the response obtained after three doses in women 16 to 26 years of age - The third dose will be administered at the time when maximum protection is required, near the onset of sexual activity Thus the National Institute of Public Health was commissioned to monitor anti-HPV antibody levels in women who received the anti-HPV vaccine to determine non-inferiority of the extended scheme in 9-year-old girls compared with the traditional scheme of 3 doses in women 18 to 24 years of age.
+
+ To this end, a sentinel cohort will be formed to evaluate immunogenicity levels in 3 age groups, and stratified by vaccine type.
+
+ The hypothesis is that in 9-year-old girls who are administered the amplified HPV vaccination scheme (0-6-60) show immunogenicity levels that are not lower than those of adult women who have been administered the traditional scheme (0-1/2-6).
+
+ The main objectives are to monitor the levels of immunity induced by vaccination against HPV with two vaccination schemes with the quadrivalent vaccine: Traditional Extended (0-6-60 months) and traditional (0-2-6); Monitoring levels of immunity induced by vaccination against HPV with three vaccine schemes with bivalent vaccine: Extended (0-6-60 months), traditional (0-1-6) and two doses (0- 6); as well as evaluating the interchangeability of the bivalent and quadrivalent vaccines in the third dose of extended scheme.
+
+ The study design is to create a sentinel cohort of women vaccinated against HPV in the following comparison groups: - Women of nine years with extended vaccination scheme with three doses of quadrivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of the quadrivalent vaccine and the third dose with bivalent (0-6-60) - Women of nine years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women between 18 and 24 years with traditional vaccination scheme with the quadrivalent HPV vaccine (0-2-6) - Women of nine years with extended vaccination scheme with three doses of bivalent vaccine (0-6-60) - Women of nine years with extended vaccination scheme with two doses of bivalent vaccine and the third tetravalent dose - Women of nine years with two vaccine doses scheme with the bivalent HPV vaccine (0-6) - Women of nine years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) - Women between 18 and 24 years with traditional vaccination scheme with bivalent HPV vaccine (0-1-6) - To monitoring HPV infections, at month 61 of follow-up, a group of 400 women aged 14-15 years, who have not been vaccinated against HPV, will be invited , in order to make the monitoring of occurrence of HPV infections in urine per month 61, 72, 96 and 120 post dose 0 in vaccinated groups

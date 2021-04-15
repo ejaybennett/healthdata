@@ -1,0 +1,16 @@
+(secondQuint)Hepatitis B Virus Reactivation After Withdrawal of Prophylactic Antiviral Therapy in Lymphoma Patients.
+
+ All eligible patients received prophylactic antiviral therapy during and within 6 months after chemotherapy in previous sudy.
+
+ We did not assign specific interventions to the subjects in this study.
+
+ The primary endpoint of this study is the incidence of hepatitis B virus reactivation after withdrawal of prophylactic antiviral therapy.
+
+ The secondary endpoints include the incidence of hepatitis flare related to hepatitis B virus reactivation after withdrawal of prophylactic antiviral therapy, the tumor response rate, and overall survival rate.
+
+.
+
+ Hepatitis B Virus Reactivation After Withdrawal of Prophylactic Antiviral Therapy in Lymphoma Patients@highlight
+
+This study is a retrospective analysis to explore the incidence of hepatitis B virus reactivation after withdrawal of prophylactic antiviral therapy, the efficacy and safety of chemotherapy, and overall survival rate in lymphoma patients with hepatitis B virus infection.
+

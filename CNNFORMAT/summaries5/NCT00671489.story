@@ -1,0 +1,16 @@
+(firstQuint)Tachikawa Project for Prevention of Posttraumatic Stress Disorder With Polyunsaturated Fatty Acid (TPOP): TPOP-01 Study.
+
+ Accidental injuries, mostly motor vehicle accident, in civilian population are frequent events.
+
+ For instance, nearly one-third of injured patients appear to develop trauma-related psychiatric illness and the major diagnoses are post-traumatic stress disorder (PTSD) and depressive disorder.
+
+ Omega-3 Polyunsaturated Fatty Acid (Omega-3 PUFA) has some evidence of efficacy of treatment in patients with anxiety and mood disorders, but no evidence of preventing anxiety and mood disorders that occur subsequent to accidental injuries.
+
+ We evaluate efficacy and safety of Omega-3 PUFA for the secondary prevention of Posttraumatic Stress Disorder (PTSD) and related psychiatric illness in patients with accidental injury.
+
+.
+
+ Tachikawa Project for Prevention of Posttraumatic Stress Disorder With Polyunsaturated Fatty Acid (TPOP): TPOP-01 Study@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of Polyunsaturated Fatty Acid for the prevention of Posttraumatic Stress Disorder (PTSD) in patients with accidental injuries.
+

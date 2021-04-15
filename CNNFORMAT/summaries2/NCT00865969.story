@@ -1,0 +1,24 @@
+(firstQuint)Belinostat in Relapsed or Refractory Peripheral T-Cell Lymphoma.
+
+ This is an open-label, multicenter, single arm efficacy and safety study in patients with relapsed or refractory peripheral T-cell lymphoma, who have failed at least one prior systemic therapy.
+
+ Approximately 120 patients will be enrolled.
+
+ Patients will be treated with 1000 mg/m belinostat administered as a 30-minute IV infusion on days 1-5 of every 3-week cycle until there is disease progression or unmanageable treatment-related toxicities.
+
+ The primary study endpoint is objective response rate (ORR) based on the IHP revision IWG criteria.
+
+ Safety will be evaluated during the study and for 30 days after the last administration of study drug.
+
+ Adverse events and laboratory studies will be graded according to NCI-CTCAE v.
+
+ 3.
+
+0.
+
+.
+
+ Belinostat in Relapsed or Refractory Peripheral T-Cell Lymphoma@highlight
+
+The purpose of this study is to assess efficacy and safety of belinostat in patients with relapsed or refractory peripheral T-cell lymphoma (PTCL), who failed at least one prior systemic therapy.
+

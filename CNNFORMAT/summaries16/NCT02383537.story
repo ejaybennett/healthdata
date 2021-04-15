@@ -1,0 +1,26 @@
+(thirdQuint)Biological Changes in the Adipose Tissue Among Pregnant Women With Diabetes.
+
+ The aim of the research is to study the effect of miRNA, fat tissue and insulin resistance on the pathophysiology of diabetes during pregnancy.
+
+ During the study: 1.
+
+ fat tissue, Umbilical cord blood, placenta tissue and subcutaneous fat will be taken from pregnant diabetic woman over going a C-section.
+
+ 2.
+
+ Bloods will be analyzed for insulin, c-peptide, glucose and fat profile 3.
+
+ Placenta and fat tissue will be analyzed for miRNA and total RNA 4.
+
+ Clinical and anthropometric measurements will be taken from the mother 5.
+
+ Placenta status will be taken.
+
+ Biological Changes in the Adipose Tissue Among Pregnant Women With Diabetes@highlight
+
+The aim of the research is to study the effect of miRNA, fat tissue and insulin resistance on the pathophysiology of diabetes during pregnancy.
+
+ During the study fat tissue, Umbilical cord blood, placenta tissue and subcutaneous fat will be taken from pregnant diabetic woman over going a C-section.
+
+ Healthy pregnant women will serve as a control group.
+

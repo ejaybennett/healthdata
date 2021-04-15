@@ -1,0 +1,20 @@
+(secondQuint)The Effect of Various External Pressure on Blood.
+
+ Rapid infusion of blood is needed occasionally for control massive bleeding.
+
+ For rapid infusion, external pressure can be used which cause hemolysis and alteration of red blood cell.
+
+ The investigators will study correlation between variable external pressure and hemolysis and deformability of red blood cell.
+
+ Differ from previous study, the investigator will use scanning electron microscope for observation red blood cell.
+
+.
+
+ The Effect of Various External Pressure on Blood@highlight
+
+Rapid infusion of blood is needed occasionally for control massive bleeding.
+
+ For rapid infusion, external pressure can be used.
+
+ The investigators will study correlation between external pressure and hemolysis and deformability of red blood cell.
+

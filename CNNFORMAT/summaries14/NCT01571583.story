@@ -1,0 +1,14 @@
+(secondQuint)An Efficacy and Safety Study of Telaprevir in Patients With Genotype 1 Hepatitis C Infection After Liver Transplantation.
+
+ This is an open-label (all people know the identity of the intervention), multicenter study in genotype 1 chronic HCV infected liver transplant patients who will be treated for 12 weeks with telaprevir 750 mg every 8 hours given in combination with Peg-IFN-alfa-2a and ribavirin followed by 36 weeks of treatment with Peg-IFN-alfa-2a and ribavirin alone.
+
+ The total treatment duration will be 48 weeks.
+
+ Safety will be evaluated throughout the study and will include evaluations of adverse events, clinical laboratory tests, electrocardiogram, vital signs, and physical examination.
+
+.
+
+ An Efficacy and Safety Study of Telaprevir in Patients With Genotype 1 Hepatitis C Infection After Liver Transplantation@highlight
+
+The purpose of this study is to evaluate the effectiveness of telaprevir in combination with Peg-IFN-alfa-2a and ribavirin in stable liver transplant patients with chronic hepatitis C virus (HCV) genotype 1.
+

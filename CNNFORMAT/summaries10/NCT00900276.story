@@ -1,0 +1,34 @@
+(thirdQuint)Biomarkers in Patients With Kidney Cancer or Cancer of the Urothelium and in Healthy Participants.
+
+ OBJECTIVES: - Determine whether bone morphogenetic protein antagonist regulated in cancer (BARC) is present in urine and serum samples from patients with renal cell carcinoma or transitional cell carcinoma of the urothelium and from healthy participants and whether changes in BARC expression levels in these fluids correlate with various disease states.
+
+ - Evaluate BARC's utility as a biomarker of kidney cancer.
+
+ - Determine whether differences in BARC levels exist between patients with cancer vs non-cancer patients visiting the urology clinic.
+
+ - Determine whether differences in BARC levels exist among the different types of kidney cancers.
+
+ - Evaluate serum markers of iron metabolism and determine whether changes in BARC expression correlates with changes in these systemic iron markers.
+
+ - Determine whether the development of an enzyme-linked immunosorbent assay to detect BARC levels as a diagnostic procedure is feasible and desirable.
+
+ OUTLINE: This is a pilot study.
+
+ Blood and urine samples are collected.
+
+ Samples are evaluated by immunoblotting to detect bone morphogenetic protein antagonist regulated in cancer (BARC) and by mass spectrometry analysis to detect hepcidin levels.
+
+ Serum samples are further analyzed for serum iron, ferritin, and total-iron body capacity.
+
+ Histology of biopsy samples will be recorded for patients undergoing nephrectomy for renal cell carcinoma.
+
+ These patients will undergo a second collection of blood and urine samples 3 months post-nephrectomy.
+
+.
+
+ Biomarkers in Patients With Kidney Cancer or Cancer of the Urothelium and in Healthy Participants@highlight
+
+RATIONALE: Studying samples of blood and urine from patients with cancer and from healthy participants in the laboratory may help doctors identify and learn more about biomarkers related to cancer.
+
+ PURPOSE: This laboratory study is looking at biomarkers in patients with kidney cancer or cancer of the urothelium and in healthy participants.
+

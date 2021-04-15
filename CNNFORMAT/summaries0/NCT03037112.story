@@ -1,0 +1,68 @@
+(fifthQuint)Resetting the Default: Improving Provider-patient Communication to Reduce Antibiotic Misuse.
+
+ Significance: Antibiotic overuse and misuse contribute to the development of antibiotic resistant infections that kill at least 23,000 Americans and cause an additional 2 million infections annually.
+
+ If left unchecked, antibiotic resistant infections are estimated to cause 10 million deaths worldwide by 2050.
+
+ Antibiotic associated adverse drug reactions (e.
+
+g.
+
+, rash, diarrhea, nausea, and vomiting) also result in over 140,000 Emergency Department visits annually.
+
+ The majority of all antibiotic prescribing occurs in outpatient settings where children receive 49 million prescriptions annually.
+
+ Over 70% of these are for respiratory infections and nearly 8.
+
+5 million of these prescriptions are inappropriate (i.
+
+e.
+
+, either an unnecessary broad-spectrum antibiotic or to treat a viral illness).
+
+ There are many factors that lead to overprescribing, but chief among them is inadequate parent-provider communication.
+
+ Innovation: This study is the first US multi-site randomized controlled trial comparing the effectiveness an education vs.
+
+ communication skills provider intervention to stimulate high quality parent-provider communication and judicious use of antibiotics.
+
+ Approach: 1,600 eligible parents (or caregivers) of children between the ages of 1 and 5 will be enrolled and exposed to one of the interventions based on the provider they see for their visit.
+
+ English and Spanish speaking parents will be recruited from the Children's Mercy Hospital Primary Care Clinic (CMH PCC) in Kansas City, Missouri and the Heartland Primary Care Clinics in Kansas City, KS and Lenexa, KS.
+
+ Parents in both arms will receive identical brief negatively behavioral framed antibiotic education via tablet computers.
+
+ Providers will be randomized to the parent-provider education or communication skills intervention arm and trained accordingly.
+
+ Primary outcomes are parental ratings of shared decision-making and satisfaction.
+
+ Secondary outcomes are rates of inappropriate antibiotic prescribing, re-visits and adverse drug reactions.
+
+ Data will be collected via a tablet computer administered RedCap survey administered in the exam room prior and immediately following the child's visit.
+
+ Additional data will be garnered from the medical record (antibiotic prescribing) and a 2-week follow-up telephone call with parents (re-visits and adverse drug reactions).
+
+ Public Health Impact: This study could have significant public health implications and meet the goals outlined in the 2014 Executive Order on Combating Antibiotic Resistance, which seeks to slow the emergence of resistant bacteria and prevent the spread of resistant infections through the judicious and appropriate use of antibiotics.
+
+.
+
+ Resetting the Default: Improving Provider-patient Communication to Reduce Antibiotic Misuse@highlight
+
+Antibiotic overuse and misuse contributes to the development of antibiotic resistant infections and adverse drug reactions.
+
+ The majority of all antibiotic prescribing occurs in outpatient settings; most of which are for respiratory illnesses.
+
+ It is estimated that 50% of these prescriptions are unnecessary.
+
+ The most important factor that leads to overprescribing is inadequate parent-provider communication.
+
+ This study will recruit providers and eligible parents of children 1-5 years of age.
+
+ Parents in both arms will receive identical brief antibiotic education via tablet computers.
+
+ Providers will be randomized to the parent-provider education or communication skills intervention arm and trained accordingly.
+
+ Parent data will be collected via a tablet computer RedCap survey administered in the exam room prior and immediately following the child's visit.
+
+ Additional data will be garnered from the medical record (antibiotic prescribing) and a 2-week follow-up telephone call with parents (re-visits and adverse drug reactions).
+

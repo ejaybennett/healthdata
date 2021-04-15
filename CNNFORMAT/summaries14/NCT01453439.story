@@ -1,0 +1,44 @@
+(fifthQuint)Cognitive-Behavioral Therapy and Supportive Psychotherapy for Body Dysmorphic Disorder.
+
+ Body Dysmorphic Disorder (BDD) is a common and severe disorder in which a person is preoccupied by perceived defects in his or her appearance.
+
+ The purpose of this research study is to learn more about two different forms of therapy to help individuals with BDD: cognitive behavioral therapy (CBT), a promising new treatment for BDD, and supportive psychotherapy (SPT), the most commonly received therapy for BDD.
+
+ The investigators would like to find out which treatment is more effective for BDD.
+
+ The investigators will also examine patient characteristics that may predict response to treatment.
+
+ Participants will be randomly assigned (like the flip of a coin) to receive 22 sessions (over 24 weeks) of either CBT or SPT.
+
+ Both treatments teach participants about BDD.
+
+ CBT focuses on helping participants to develop more adaptive thoughts and beliefs and to gradually reduce avoidance and compulsive (repetitive) behaviors.
+
+ SPT focuses on relationships, feelings, and other factors that may affect BDD symptoms (e.
+
+g.
+
+, work, stress), and helps participants to cope with challenges in their life by improving self-esteem and positive coping.
+
+ For each participant, this study will last for 12 months.
+
+ CBT and SPT sessions occur for 22 sessions over 24 weeks.
+
+ The severity of participants' BDD-related symptoms and other symptoms will be assessed at the end of treatment (week 24), and at 3- and 6-months after treatment ends.
+
+.
+
+ Cognitive-Behavioral Therapy and Supportive Psychotherapy for Body Dysmorphic Disorder@highlight
+
+The purpose of this study is to learn more about two different types of psychotherapy to help individuals who have body dysmorphic disorder (BDD).
+
+ BDD is a severe, often chronic, and common disorder consisting of distressing or impairing preoccupation with perceived defects in one's physical appearance.
+
+ Individuals with BDD have very poor psychosocial functioning and high rates of hospitalization and suicidality.
+
+ Because BDD differs in important ways from other disorders, psychotherapies for other disorders are not adequate for BDD.
+
+ Despite BDD's severity, there is no adequately tested psychosocial treatment (psychotherapy) of any type for this disorder.
+
+ This study will compare the effectiveness of Cognitive Behavioral Therapy and Supportive Psychotherapy as well as predictors of improvement.
+

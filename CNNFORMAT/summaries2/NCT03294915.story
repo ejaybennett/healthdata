@@ -1,0 +1,20 @@
+(firstQuint)Effect of Resistant Starch on Insulin Sensitivity and Beta Cell Function in Subjects With Prediabetes.
+
+ In order to evaluate whether supplementation with green banana flour may improve insulin sensitivity of individuals with prediabetes, volunteers will be recruited by advertising on the web page of Hospital de Clinical de Porto Alegre.
+
+ After screening and selection, they will be submitted to a clinical, laboratory and nutritional standard evaluation, assessment of physical activity and body fat composition.
+
+The laboratory evaluation will include the oral glucose tolerance test (OGGT 75g), lipid profile, insulin, C-peptide, glycated hemoglobin and glycated albumin.
+
+ Insulin sensitivity and beta-cell function will be assessed by the hyperglycemic CLAMP before and after the intervention.
+
+Interim statistical analysis will be performed at the end of the participation of ten study volunteers.
+
+ Subjects will receive green banana flour or placebo for four weeks.
+
+.
+
+ Effect of Resistant Starch on Insulin Sensitivity and Beta Cell Function in Subjects With Prediabetes@highlight
+
+To compare the use supplementation based on green banana flour versus placebo in the insulin sensitivity on individuals who have prediabetes.
+

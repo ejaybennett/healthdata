@@ -1,0 +1,20 @@
+(secondQuint)Long-Term Extension of Previous rAvPAL-PEG Protocols in Subjects With PKU (PAL-003).
+
+ PAL-003 is designed to evaluate long-term treatment of subjects who are continuing to take rAvPAL-PEG.
+
+ Subjects'previous rAvPAL-PEG dosing will continue in PAL-003.
+
+ In PAL- 003, each subject's dose will be adjusted as needed to attain or maintain blood Phe concentrations of 60-600 mu mol/L.
+
+ rAvPAL-PEG dose will be based on either a subject's weight or will be a fixed dose (subjects who have maintained blood Phe levels to 60-600 mu mol/L for at least 2 consecutive weeks and who have maintained a stable rAvPAL-PEG dose for at least 2 consecutive weeks).
+
+ Doses will be evaluated on an individual basis.
+
+.
+
+ Long-Term Extension of Previous rAvPAL-PEG Protocols in Subjects With PKU (PAL-003)@highlight
+
+This study is an extension of previous rAvPAL-PEG studies.
+
+ Administration of rAvPAL-PEG will be continued to assess whether long-term dosing of rAvPAL-PEG is safe and can maintain reduced blood Phe concentrations in PKU subjects.
+

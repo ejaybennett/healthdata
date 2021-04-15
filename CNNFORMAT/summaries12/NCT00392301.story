@@ -1,0 +1,16 @@
+(secondQuint)Split-Thickness Skin Graft Donor Site Wound Healing Study.
+
+ Currently there is no standard treatment to promote wound healing for split thickness skin graft donor sites and healing is determined based on clinical observation of the graft donor site and clinical judgement.
+
+ Here we propose to use two instruments commonly used in skin research to measure wound healing.
+
+ This study will validate the use of these two instruments, one that measures transepidermal water loss and the other that measures skin pigmentation to determine healing.
+
+ To further validate the use of these instruments we will determine if these instruments can detect differences between two different wound dressing products that have been previously reported to heal skin graft donor sites at different rates.
+
+.
+
+ Split-Thickness Skin Graft Donor Site Wound Healing Study@highlight
+
+The purpose of this research study is to discover whether instruments widely used in skin research can be used to measure wound healing in split thickness skin graft donor sites and whether these instruments can detect differences in healing when two different dressing products are used.
+

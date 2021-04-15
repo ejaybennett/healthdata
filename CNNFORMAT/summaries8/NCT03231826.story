@@ -1,0 +1,48 @@
+(fifthQuint)Arrhythmias in Post-Myocardial Infarction Patients.
+
+ Patients with acute myocardial infarction have exceptionally high mortality rates exceeding 10% during the first year post-MI.
+
+ The incidence of sudden cardiac death after acute myocardial infarction is the same with ST-elevation and non-ST elevation myocardial infarction.
+
+ The risk of disabling stroke and sudden cardiac death is high especially during the first months after myocardial infarction.
+
+ Preventing these outcomes is of high priority, considering the fact that the quality of life can remain high in these patients, if serious adverse events can be avoided.
+
+ The high mortality and comorbidity rates among cardiac patients provide an opportunistic environment for testing the utility of of home monitoring by mobile devices, data integration and resulting mass data.
+
+ Long follow-up times are not required, which facilitates the linking of potential risk factors with outcome.
+
+ The prospective part of the MADDEC (MAss Data in Detection and prevention of serious adverse Events in Cardiovascular disease) project aims at exploring mechanism of sudden death in the first month after a myocardial infarction and at detecting arrhythmias heralding life-threatening arrhythmias.
+
+ Additionally, the project will define the incidence of new atrial fibrillation post myocardial infarction.
+
+ The main outcomes of the study are all cause mortality, cardiovascular mortality, rehospitalization due to any or cardiovascular causes.
+
+ Prospective home monitoring of patients after ST-elevation or non-ST elevation myocardial infarction will commence in May 2017 and continue until the end of 2019.
+
+ For arrhythmia detection, two different methods will be used: 12-channel Holter recording (GE Seer 12(R), GE Healthcare Finland) and the eMotion Faros(R) device (Bittium Biosignals Ltd/Mega Elec-troncs Ltd, Finland).
+
+ The aim is to record continuous 12-channel Holter data from 200-250 patients with ST-elevation myo-cardial infarction and 1-3 channel ECG signal data with the mobile Faros 360 device from 550-600 patients with any type of myocardial infarction.
+
+ Exclusion criteria are short life expectancy, unwillingness to participate and need for permanent insti-tutional care.
+
+ The first 24-48 hour recording will commence at hospital discharge or transferral to another health care unit.
+
+ The second recording will take place two weeks after the index event.
+
+ As a part of the protocol, the subjects will also perform simple tests measuring their functional status and possible disability at study enrollment.
+
+ All accrued ECG-data will be inte-grated into a research database for further analysis, linking it with outcome data.
+
+ The Faros 360 mobile device will also ena-ble recording patient activity, such as movement and respiratory rate, simultaneously using an accelerometer.
+
+.
+
+ Arrhythmias in Post-Myocardial Infarction Patients@highlight
+
+Patients are screened for significant arrhythmias and other possibly significant ECG-patterns directly after discharge and two weeks after myocardial infarction using wearable devices.
+
+ The home monitoring data will be linked with extensive data from electronic health records collected before, during hospital stay and after discharge.
+
+ The purpose of the study is to clarify whether home monitoring of continuous ECG-signals can be used to predict and prevent serious adverse events after myocardial infarction.
+

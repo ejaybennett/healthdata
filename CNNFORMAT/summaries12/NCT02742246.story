@@ -1,0 +1,11 @@
+(firstQuint)Efficacy and Mechanisms of CBT4CBT for Alcohol Use Disorders.
+
+ Evaluate the efficacy of CBT4CBT and clinician-delivered CBT relative to standard treatment for reducing alcohol use through an 8-week randomized trial with 6-month follow-up.
+
+ Our primary hypothesis is that either form of CBT will be more effective than standard treatment at increasing the percentage of days abstinent during treatment (8 weeks) and through the follow-up (6 months), assessed via Timeline FollowBack interviews.
+
+.
+
+ Efficacy and Mechanisms of CBT4CBT for Alcohol Use Disorders@highlight
+
+Evaluate the efficacy of CBT4CBT and clinician-delivered CBT relative to standard treatment for reducing alcohol use

@@ -1,0 +1,40 @@
+(thirdQuint)Evaluation of Sun Protection Education for Kidney Transplant Recipients.
+
+ Cognitive interview about the Sun Protection Strategies workbook will be performed with up to 25 kidney transplant recipients (KTR) who have participated in past surveys.
+
+ A second phase of the study involves 156 KTRs that will be asked to take part in a randomized controlled trial evaluating the fully developed sun protective strategies workbook.
+
+ Kidney transplant recipients (KTRs) are at risk to develop skin cancer.
+
+ Adequate sun protection after transplantation can reduce the risk of developing skin cancer.
+
+ In 2006, the National Kidney Foundation (NKF) found that sun protection education delivery and content varied among transplantation centers.
+
+ Clinicians rarely knew when to initiate education about skin cancer risks and prevention including timing and scope, and rarely demonstrated understanding of the importance of reminders for and repeated education of patients (National Kidney Foundation 2006).
+
+ Aims: 1.
+
+ To explore culturally sensitive use of terms describing ethnic cultural perceptions of sun burning, pigment darkening after sun exposure and description of skin color by the amount of photo-protective pigment in the skin.
+
+ 2.
+
+ To pilot test the sun protection workbook with English speaking KTRs representing the 3 ethnic groups: White, Black and Hispanic.
+
+ 3.
+
+ To assess the effectiveness of an education intervention encouraging the use of sun protection strategies.
+
+ 4.
+
+ To explore understanding of the importance of sun protection and the KTRs confidence in their being able to practice sun protection.
+
+.
+
+ Evaluation of Sun Protection Education for Kidney Transplant Recipients@highlight
+
+This study is being done to evaluate the effectiveness of a Sun Protection Strategies workbook for kidney transplant recipients.
+
+ Since the medication taken to preserve the kidney transplant puts kidney transplant recipients at an increased risk of developing skin cancer.
+
+ The program will help people learn about how to practice effective sun protection after the transplant.
+

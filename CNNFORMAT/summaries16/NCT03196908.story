@@ -1,0 +1,17 @@
+(firstQuint)Impact of Energy Drink Brands on Heart Rhythm.
+
+ Energy drinks are widely available and globally consumed.
+
+ There are many brands of energy drinks on the market, and there are differences in the ingredients included.
+
+ Previous studies have tried to evaluate the safety of energy drinks and have demonstrated a signal for some electrocardiographic (ECG) and hemodynamic effects.
+
+ However, product related differences need further exploration.
+
+ This study is designed to assess the effects of 2 different energy drink products on heart rhythm and blood pressure in healthy subjects.
+
+.
+
+ Impact of Energy Drink Brands on Heart Rhythm@highlight
+
+To assess the cardiac effects of energy drink brands in healthy volunteers

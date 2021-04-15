@@ -1,0 +1,42 @@
+(thirdQuint)An Evaluation of BioMime - Sirolimus Eluting Coronary Stent in a Multi- Centre Study.
+
+.
+
+ This is a multi centre, prospective observational study.
+
+ 250 patients will be enrolled in the study.
+
+ 10 patients per centre involving approximately 25 centres.
+
+ All the patients will be followed for twelve months post-procedure.
+
+ All patients will have a repeat angiography assessment at 8 months.
+
+ An additional clinical follow-up will be maintained for years 3 & 5 post-implant.
+
+ Approximately 250 patients with obstructive coronary artery disease with a vessel size between 2.
+
+5 to 3.
+
+5 mm in diameter by visual estimate and who meet all eligibility criteria will be treated with the Sirolimus Eluting Stent.
+
+ It is anticipated that the total length of the study will be 16 months: 4 months to complete patient enrollment and 12 months for angiographic follow-up.
+
+.
+
+ An Evaluation of BioMime - Sirolimus Eluting Coronary Stent in a Multi- Centre Study.
+
+@highlight
+
+This is a multi centre, prospective trial.
+
+ 250 patients will be enrolled in the study.
+
+(10 patients per centre involving approximately 25 centres).
+
+ Patients will be followed up clinically for twelve months post-procedure at 1 month, 6 months & 12 months.
+
+ All patients will have a repeat angiography at 8 months.
+
+ Clinical follow-up will be maintained for years 3 & 5 post-implant.
+

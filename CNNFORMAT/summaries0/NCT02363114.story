@@ -1,0 +1,18 @@
+(thirdQuint)DOC Utility: Screening of Depression, Obstructive Sleep Apnea and Cognitive Impairment.
+
+ The DOC screen will be routinely applied to all patients presenting to three high volume Regional Stroke Prevention Clinics (combined first visits >2,800 patients per year).
+
+ Data will be abstracted from the patient chart using methodologies developed and validated in the Registry of the Ontario Stroke Network.
+
+ The investigators have REB approval to collect this data and to link with administrative datasets through the Institute for Clinical and Evaluative Sciences (ICES).
+
+ The investigators will use regression models to determine whether DOC screen scores add to baseline clinical and demographic data to predict the main negative outcomes.
+
+ The investigators hope to identify which patients presenting to TIA/stroke prevention clinics are at highest risk of adverse long-term events so focused interventions can be developed to improve survival, outcomes and function of stroke prevention clinic patients.
+
+.
+
+ DOC Utility: Screening of Depression, Obstructive Sleep Apnea and Cognitive Impairment@highlight
+
+The primary objective of this study is to determine whether baseline DOC screening can add to clinical and demographic data to predict the occurrence of a composite negative outcome (any of: recurrent stroke, myocardial infarction, death, or admission to a long-term care (LTC) / complex continuing care (CCC) facility) within one year of screening, in stroke prevention clinic patients.
+

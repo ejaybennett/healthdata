@@ -1,0 +1,26 @@
+(secondQuint)Hemodynamic Effect of Lumbosacral Plexus Blockade Versus Spinal Anesthesia.
+
+ Patients for total hip replacement will be randomized for surgical anesthesia with either lumbosacral plexus blockade or continuous spinal anesthesia.
+
+ All patients will receive central venous, arterial and spinal catheters.
+
+ Hemodynamics will be monitored with transpulmonary thermodilution and pulse contour analysis.
+
+ Perineural injection of study medicine around the lumbar and sacral plexus will be performed guided by ultrasound and nerve stimulation.
+
+ Study medicine will be injected in divided doses in the spinal catheter.
+
+ Treatment will be blinded using double-dummy technique.
+
+ After the first intrathecal dose of study medicine, the hemodynamic response will be monitored for 60 minutes.
+
+ Patients will then be transferred to the operating room, where total hip replacement will be performed in lumbosacral plexus blockade or spinal anesthesia according to randomization.
+
+.
+
+ Hemodynamic Effect of Lumbosacral Plexus Blockade Versus Spinal Anesthesia@highlight
+
+The study evaluates the hemodynamic effect of lumbosacral plexus blockades versus spinal anesthesia for hip replacement.
+
+ Half of participants will receive lumbosacral plexus blockade and the other half will receive continuous spinal anesthesia.
+

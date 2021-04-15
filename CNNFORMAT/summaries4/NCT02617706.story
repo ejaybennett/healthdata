@@ -1,0 +1,14 @@
+(firstQuint)Transdermal Continuous Oxygen Therapy for Infection Prophylaxis in High- Risk Patients Undergoing Colon Surgery.
+
+ Anorectal procedures more often lead to surgical site infections.
+
+ Such infections are unfortunately frequent and can be difficult for the patient and the treating physician.
+
+ Wound hypoxia has been identified as a pathogenic mechanism behind wound infection and poor healing.
+
+ Transdermal oxygen delivery (EPIFLO) is intended to promote the healing process in chronic wounds as an adjunct to standard wound care in wound management and treatment.
+
+ Transdermal Continuous Oxygen Therapy for Infection Prophylaxis in High- Risk Patients Undergoing Colon Surgery@highlight
+
+EPIFLO(R) unit along with standard wound care vs only standard wound care for Surgical site infections (SSI).
+

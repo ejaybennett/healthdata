@@ -1,0 +1,18 @@
+(thirdQuint)Pilot Study: Urea Cycle Disorders Practice Patterns and Outcomes Assessment.
+
+ Participants enrolled in the RDCRN UCDC Contact Registry will receive an email inviting them to participate in the study.
+
+ Interested participants will be directed to the informed consent document.
+
+ After agreeing to participate, participants will be directed to the study web portal.
+
+ The study web portal will be developed and maintained by the Data Management and Coordinating Center at the University of South Florida (USF).
+
+ Participants will complete several questionnaires about their urea cycle disorder including diagnosis and treatment information and quality of life.
+
+.
+
+ Pilot Study: Urea Cycle Disorders Practice Patterns and Outcomes Assessment@highlight
+
+The purpose of this study is to determine if patients participating in "The Longitudinal Study of Urea Cycle Disorders" are different than participants in the Urea Cycles Disorders Consortium (UCDC) Rare Diseases Clinical Research Network (RDCRN) Contact Registry and to determine if patients are a good source of medical information.
+

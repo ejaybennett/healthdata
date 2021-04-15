@@ -1,0 +1,92 @@
+(fifthQuint)Evaluation of an Intensive 3-round MDA Strategy Towards Yaws Eradication.
+
+ In 2013 WHO piloted the yaws eradication MDA strategy in several countries, including PNG.
+
+ A study carried out on Lihir Island has shown that 1-round MDA with single-dose oral AZI reduced the prevalence of yaws by 90% at 12-months.
+
+ However, this did not suffice to stop transmission of infection.
+
+ At baseline, the estimated prevalence of PCR-confirmed active infection was 1.
+
+8% and greatly reduced to 0.
+
+4% at 6-months, and 0.
+
+1% at 24 months; but prevalence increased again to 0.
+
+4% at 42 months after MDA.
+
+ The relapse of untreated latent infections appeared to hinder elimination efforts in this community.
+
+ Almost half of subjects with newly identified active yaws cases during follow up targeted treatment programs reported having not been present for MDA.
+
+ T.
+
+ p.
+
+ pertenue may become resistant to macrolide antibiotics, as has occurred with T.
+
+ p.
+
+ pallidum (the causative agent of syphilis) in some developed countries, which necessitates close monitoring for the emergence of resistance.
+
+ The investigators recently reported the first documented genotypic macrolide resistance in T.
+
+ p.
+
+ pertenue infections in PNG.
+
+ A total of five clinical specimens, out of 208 samples tested during the post-MDA period of 35 years, demonstrated a T.
+
+ p.
+
+ pertenue strain carrying the A2059G point mutation.
+
+ There was only local spread of the resistant clone among relatives and friends and further spread was immediately stopped through the use of alternative (benzathine penicillin) antibiotic to treat the newly identified cases and contacts.
+
+ The eligible population will be people targeted for MDA treatment living in the three LLG study areas at time of implementation.
+
+ A new enumeration of all eligible population will be carried out before implementation, collecting also GPS coordinates of the village.
+
+ A unique identification (ID) number will be given to each person.
+
+ The 43 wards will be randomly assigned (1:1) to receive 1 vs 3 rounds of MDA using AZI.
+
+ All villages within a ward will receive the same intervention in an effort to minimize contamination between villages.
+
+ The intervention arm will receive 3 rounds (0, 6, 12 months) of MDA with AZI, each round known as total community treatment (TCT); control arm will receive 1 round (0 months) of MDA with AZI followed by total targeted treatment (TTT) (6 and 12 months).
+
+ During each MDA round all study participants will receive 30 mg/Kg (maximum 2 g) of AZI orally under direct observation.
+
+ As a primary outcome, examination of suspected yaws lesions during TCT and TTT is important for determining the prevalence of active yaws for research purposes, but also for ascertaining who needs a follow up visit 4 weeks later to ensure that treatment was effective and, in TTT rounds, to trigger the process of treating contacts or community.
+
+ The investigators will estimate the evolution of latent yaws prevalence measured as the proportion of children who are dually positive on the DPP test at two time-points (0, 24 months).
+
+Treatment of latent yaws is a crucial component of the WHO yaws eradication strategy to prevent relapse and the resulting transmission.
+
+ Single-dose AZI has been shown effective in participants with latent yaws in PNG on the basis of the decline in serological titres.
+
+ In this line, as the second primary outcome, the investigators plan to carry out 2 cross sectional surveys of asymptomatic children 1-9 years at baseline and for the outcome at 24 months to be able to more precisely estimate the impact of the two strategies of MDA.
+
+.
+
+ Evaluation of an Intensive 3-round MDA Strategy Towards Yaws Eradication@highlight
+
+The current principle of yaws eradication (the Morges strategy) is based on single round mass drug administration (MDA) of azithromycin (AZI) called total community treatment (TCT) followed by targeted treatment of active cases every 6 months to detect and treat cases and contacts called total targeted treatment (TTT).
+
+ Studies done in Papua New Guinea (PNG) show that 1 round of MDA will probably not suffice to stop transmission of infection.
+
+ It may be preferable to conduct 3 rounds of MDA prior to the switch to TTT because of high coverage requirements to achieve elimination, particularly of latent cases.
+
+ The investigators plan to determine whether 3 rounds of MDA are more effective for reaching yaws elimination.
+
+ This research is needed to guide national programmatic implementation and needs to be done as soon as possible to scale up the program in the country.
+
+ The aim of this proposal is to ascertain the number of rounds of MDA with AZI to be included in an improved strategy towards yaws eradication.
+
+ The study will be implemented in 43 wards of New Ireland Province (NIP).
+
+ The investigators will compare two different distribution strategies of MDA: (A) strategy with 3 biannual rounds of MDA and (B) a single mass treatment round of MDA followed by targeted treatment of cases and contacts.
+
+ The investigators will also monitor the risk of appearance of antimicrobial resistance in Treponema pertenue.
+

@@ -1,0 +1,18 @@
+(secondQuint)Delayed-Enhancement Cardiovascular Magnetic Resonance in Patients With Sarcoidosis.
+
+ In patients with sarcoidosis, cardiac death is a leading cause of mortality which may represent unrecognized cardiac involvement.
+
+ Cardiovascular magnetic resonance (CMR) can detect cardiac involvement including minute amounts of myocardial damage.
+
+ Therefore, the objective of this study was to determine the usefulness of CMR and compare it with standard clinical evaluation for cardiac involvement.
+
+ Patients with documented extracardiac sarcoidosis or clinically suspected cardiac sarcoidosis will be enrolled.
+
+.
+
+ Delayed-Enhancement Cardiovascular Magnetic Resonance in Patients With Sarcoidosis@highlight
+
+The primary objective of this study was to determine the ability of cardiac magnetic resonance (CMR) to identify cardiac involvement in patients with sarcoidosis.
+
+ Patients were to undergo CMR in addition to routine clinical evaluation.
+

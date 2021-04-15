@@ -1,0 +1,47 @@
+(fifthQuint)Gastrointestinal and Urinary Tract Microbiome After SCI.
+
+ Study 1 - Acute to first year after SCI: The investigators wish to recruit 4 types of SCI participants (~8 tetraplegic motor complete SCI participants, ~8 tetraplegic motor incomplete SCI, ~8 paraplegic motor complete SCI and ~8 paraplegic motor incomplete SCI).
+
+ This totals 32 participants.
+
+ The investigators will non-invasively collect small (<1 gram) stool and urine (<1 ml) samples from people who have suffered an acute SCI and have been admitted to their hospital for care and treatment of their injury.
+
+ The investigators will track changes in the microbiota, microbiome and metabolome within the gastrointestinal (GI) tract of people after acute spinal cord injury (SCI) through the non-invasive collection of a small stool sample during normal bowel routines at baseline (within the first week after SCI).
+
+ Subsequent samples would be obtained in the same non-invasive nature at approximately 1, 3, 6, and 12 months after SCI, as part of any daily (in-patient or at home, outpatient) bowel routine.
+
+ The stool samples will be processed for genomic analysis to identify GI bacterial species and any changes in an individual's GI microbiota and/or dysbiosis during the first year after SCI.
+
+ As SCI increases the incidence and prevalence of urinary tract infections (UTIs), the investigators will track alteration within the microbiota of the urinary tract to ascertain whether there are links in the bacterial taxa between the GI system and urinary tract.
+
+ Study 2 - Chronic: This study will attempt to recruit ~ 20 chronic SCI participants with or without recurrent infections (e.
+
+g.
+
+ UTI, skin or systemic) to ascertain whether there is a correlation between a dysbiotic microbiota presentation and recurrent infections.
+
+ A small stool or urine sample will be obtained at home by participants and subsequently collected for genomic analysis during a person's routine outpatient clinic visit.
+
+ All replicate data (3 samples per individual at 3 different time points - 1, 6 and 12 months post baseline visit) from chronic participants would be matched as much as possible for age, gender, diet, type of SCI, time since SCI, activity, and should only differ in terms of recurrent infections and antibiotic prescriptions.
+
+ The goal here would be to characterize any gut microbiota differences between the two disparate groups.
+
+ The data may guide the development of future studies to investigate treatment options.
+
+ During chronic SCI, many recurrent infections are UTIs; thus, the investigators will also monitor differences between the two group in the microbiota and metabolomics of the urinary tract.
+
+.
+
+ Gastrointestinal and Urinary Tract Microbiome After SCI@highlight
+
+Changes in the GI microbiota and/or metabolomics have been linked to evolving transformations in immune system function and infection rates in experimental SCI in animal models.
+
+ A recent study involving chronic survivors of SCI show distinct GI microbiome changes in comparison to healthy controls.
+
+ GI microbial metabolism of dietary components has been causally linked to various health conditions, such as cardiovascular disease, infections, which is an ongoing concern for chronic SCI survivors.
+
+ It is probable that alterations of GI microbiota are established acutely after SCI and could subsequently alter medical care and impact health outcomes for people living with SCI.
+
+ This project is a pilot study to describe any changes in the GI and urinary tract microbiota as they appear over the first year after SCI.
+
+ When available, data on factors, other than SCI, that may impact change in the gut microbiome after SCI will also be noted, including: - the level and severity of SCI, - the time since SCI, - the person's immune profile, - the antibiotic regimen of the individual and time since antibiotic administration, - the incidence and type of infections after SCI and - the person's diet or activities after SCI

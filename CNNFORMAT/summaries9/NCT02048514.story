@@ -1,0 +1,18 @@
+(secondQuint)The Nellix EndoVascular Aneurysm Sealing System for the Treatment of Infrarenal Abdominal Aortic Aneurysms.
+
+ This is a multicenter, multi-country prospective, single-arm, non-randomized clinical trial.
+
+ The comparative control arm is a combination of patient data drawn from the abdominal aortic aneurysms (AAA) open surgical control arms of four commercially approved AAA devices as part of the Society of Vascular Surgeons.
+
+ Patients enrolled in this study will be pre-screened and have a diagnosis of an infrarenal AAA with or without the need for treatment of iliac artery aneurysm, are candidates for endovascular repair, and meet the eligibility criteria.
+
+ Patients enrolled in the study will participate in follow-up visits 31 days, 6 months and at 1 year following the index procedure.
+
+ At the follow-up visits there will be a clinical assessment, blood collection, and abdominal CT imaging of the patient.
+
+.
+
+ The Nellix EndoVascular Aneurysm Sealing System for the Treatment of Infrarenal Abdominal Aortic Aneurysms@highlight
+
+The purpose of this clinical study is to evaluate the safety and device performance of the Nellix(R) EndoVascular Aneurysm Sealing System (Nellix System) for the treatment of infrarenal abdominal aortic aneurysms.
+

@@ -1,0 +1,12 @@
+(firstQuint)Green Laser Photocoagulation Study in Proliferative Diabetic Retinopathy.
+
+ Proliferative Diabetic Retinopathy is ocular pathology in poor glycaemic controlled Diabetic patient Characterized by micro-vascular pathology with capillary closure in the retina leading to hypoxia of tissue there by formation of immature vessels to provide better oxygenation of retinal tissue.
+
+ In this randomized double blinded study a convenient sample size of 24 eyes assigned to compare indigenously developed green laser with already available green laser.
+
+.
+
+ Green Laser Photocoagulation Study in Proliferative Diabetic Retinopathy@highlight
+
+To Demonstrate that indigenous green laser produces similar treatment effect on the retina when compared with already available green laser.
+

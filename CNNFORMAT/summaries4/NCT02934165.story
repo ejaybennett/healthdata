@@ -1,0 +1,20 @@
+(fifthQuint)Safety Skills Training For Parents of Preschool Children.
+
+ This project produced a comprehensive, interactive multimedia (IMM) program called Family Safety 123 to teach childhood injury prevention skills to parents of children 2 to 5 years of age.
+
+ The program contained 40 high-quality video clips, each 2 to 5 minutes in length, depicting injury prevention strategies in 13 content areas: supervision, preventing airway obstructions, poison awareness, preventing burns, preventing falls, firearm safety, motor vehicle safety, pedestrian awareness, sports, playgrounds, water safety, bike safety, and other safety concerns.
+
+ Each content area contained 1 to 6 videos comprised of short video presentations, modeling vignettes demonstrating desired behaviors, supportive testimonials, and suggestions for modifications to home and recreational environments.
+
+ Family Safety 123 video content is derived from The Injury Prevention Program (TIPP) sheets developed by the American Academy of Pediatrics, which recognizes injury prevention as a primary topic for parents.
+
+.
+
+ Safety Skills Training For Parents of Preschool Children@highlight
+
+As the leading cause of death and disability in children in America, unintentional injuries are a critical public health issue.
+
+ Most injuries can be prevented by parents implementing effective child safety practices.
+
+ This project produced an interactive multimedia (IMM) program delivered via Internet/Intranet that taught injury prevention skills to parents of children aged 2 through 5 years, with the ultimate goal of reducing mortality and disability from unintentional injury in this population.
+

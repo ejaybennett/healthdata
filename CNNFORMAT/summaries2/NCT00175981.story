@@ -1,0 +1,14 @@
+(firstQuint)Interaction Between Fluvoxamine and Sildenafil.
+
+ In a randomised, double-blind, placebo-controlled, cross-over study in healthy men we will assess the effect of oral fluvoxamine (50mg qd on day 1-3; 100mg qd on day 4-10) on sildenafil kinetics (single oral 50mg dose on day 11).
+
+ Sildenafil plasma concentrations will be determined by LC/MS.
+
+ We will also assess the effect of sildenafil on venodilation induced by a constant dose-rate of the NO-donor sodium nitroprusside (SNP) during preconstriction with phenylephrine (dorsal hand vein compliance technique).
+
+.
+
+ Interaction Between Fluvoxamine and Sildenafil@highlight
+
+Aim of the study is to assess the interaction between sildenafil and fluvoxamine and its effect on the venous response to sodium nitroprusside.
+

@@ -1,0 +1,20 @@
+(thirdQuint)Stem Cell Therapy in IschEmic Non-treatable Cardiac Disease.
+
+ The aim of the SCIENCE study is, in an international multicentre double-blind placebo-controlled study, to investigate efficacy of direct intra-myocardial injection of 100 mio.
+
+ allogeneic Cardiology Stem Cell Centre_adipose derived stem cells (CSCC_ASCs) in patients with reduced left ventricular EF (45%) and heart failure.
+
+ The primary objective is to investigate the regenerative capacity of direct intra-myocardial injection of 100 mio.
+
+ allogeneic CSCC_ASCs in patients with reduced left ventricular EF (45%) and heart failure in a double-blind placebo-controlled design.
+
+ A total of 138 patients with will be enrolled in the study and treated in a 2:1 randomization with either CSCC_ASC or placebo (saline).
+
+.
+
+ Stem Cell Therapy in IschEmic Non-treatable Cardiac Disease@highlight
+
+The aim of the SCIENCE study is, in an international multicentre double-blind placebo-controlled study, to investigate efficacy of direct intra-myocardial injection of 100 mio.
+
+ allogeneic Cardiology Stem Cell Centre_adipose derived stem cells (CSCC_ASCs) in patients with reduced left ventricular Ejection Fraction (EF) (45%) and heart failure.
+

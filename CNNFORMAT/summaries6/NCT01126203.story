@@ -1,0 +1,22 @@
+(thirdQuint)Randomized Prospective Study of Selective Laser Trabeculoplasty (SLT) Versus Argon Trabeculoplasty (ALT) in Patients With Pseudoexfoliation Glaucoma and Ocular Hypertension.
+
+ This study derives from a clinical observation that laser treated eyed with PXF glaucoma may have a similar long-term response rates when either ALT or SLT is performed.
+
+ Some authors have considered that there is a risk of IOP elevation in the immediate post laser period with ALT or SLT as a complication to be related to denser angle pigmentation (20,48).
+
+ (46) No long-term analysis comparing response rates of both laser treatments in these types of patients has been done.
+
+ Primary objective is to determine which laser therapy has more IOP lowering effect as primary or adjunctive treatment in eyes diagnosed with ocular hypertension and glaucoma associated to PXF.
+
+ Response rates will be compared between groups at long-term.
+
+ Secondary objective is to determine the relationship between the type of laser therapy performed and angle pigmentation, number of applications, and amount of energy used with age, number and type of medication used post laser and phakic status.
+
+.
+
+ Randomized Prospective Study of Selective Laser Trabeculoplasty (SLT) Versus Argon Trabeculoplasty (ALT) in Patients With Pseudoexfoliation Glaucoma and Ocular Hypertension@highlight
+
+Multi-center, prospective, randomized, controlled clinical trial to compare selective laser trabeculoplasty (SLT) and Argon laser trabeculoplasty (ALT) in pseudoexfoliation glaucoma and ocular hypertension patients.
+
+ IOP will be recorded, at baseline, 6 weeks, 6 months and 1 year after the laser procedure.
+

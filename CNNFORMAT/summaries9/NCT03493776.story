@@ -1,0 +1,24 @@
+(thirdQuint)Safety and Immunogenicity of Non-live, Recombinant Subunit Herpes Zoster Vaccine Before and After Lung Transplantation.
+
+ Solid organ transplant recipients receive lifelong immunosuppression and are at increased risk for reactivation of all herpesviruses including VZV.
+
+ Epidemiologic studies show the cumulative incidence in lung transplant recipients of reactivation to be 15-20%.
+
+ A non-live, recombinant subunit vaccine (Shingrix; GSK vaccines) was recently licensed for the prevention of shingles in people aged 50 years or older.
+
+ The investigators plan to study the immunogenicity of the vaccine before and after lung transplantation.
+
+ Patients (at least 50 years old) before and after lung transplantation will be enrolled.
+
+ The investigators hypothesize that the recombinant varicella-zoster subunit vaccine is able to induce cellular immunogenicity after transplantation.
+
+.
+
+ Safety and Immunogenicity of Non-live, Recombinant Subunit Herpes Zoster Vaccine Before and After Lung Transplantation@highlight
+
+The investigators plan to study the immunogenicity of the vaccine before and after lung transplantation.
+
+ Patients (at least 50 years old) before and after lung transplantation will be enrolled.
+
+ The investigators hypothesize that the recombinant varicella-zoster subunit vaccine is able to induce cellular immunogenicity after transplantation.
+

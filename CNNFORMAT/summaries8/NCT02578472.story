@@ -1,0 +1,24 @@
+(thirdQuint)Pilot Study to Evaluate the Duration of Effects on Simulated Car Driving and Cognitive Performance After a Single Dose of JNJ-42847922, Zolpidem and Placebo in Healthy Participants.
+
+ This is a single center, double-blind (neither Investigator nor participant knows which treatment the participant receives), randomized (study drug assigned by chance), 3-way cross-over (the same medications provided to all participants but in different sequence), pilot study in healthy male and female participants.
+
+ Participants will be randomly assigned to 1 of 6 treatment and planning sequences.
+
+ The study will consist of 3 parts: Screening Phase (between 21 days and 1 day prior to the first dose administration), a 3-way crossover double-blind, single dose treatment Phase and follow-up Phase (7 to 10 days after last dose administration).
+
+ The maximum study duration for each participant will not exceed 7 weeks.
+
+ The double-blind crossover treatment phase will consist of 3 treatment periods separated by a washout period of at least 3 days between dosing.
+
+ Participants will receive either Treatment A (2 capsules of 20 milligram [mg] JNJ-42847922), Treatment B (10 mg zolpidem and 1 placebo capsule) or Treatment C (2 placebo capsules) in each treatment period.
+
+ Driving performance will be assessed primarily by the mean difference of standard deviation of lateral position (SDLP) from an on road driving test.
+
+ Participants' safety will be monitored throughout the study.
+
+.
+
+ Pilot Study to Evaluate the Duration of Effects on Simulated Car Driving and Cognitive Performance After a Single Dose of JNJ-42847922, Zolpidem and Placebo in Healthy Participants@highlight
+
+The purpose of the study is to evaluate the effects of JNJ-42847922, compared to zolpidem and placebo, on driving performance as assessed by the mean difference of standard deviation of lateral position (SDLP) after forced awakening using a validated driving simulator test at 2, 4, 6 and 8 hours post-evening dose.
+

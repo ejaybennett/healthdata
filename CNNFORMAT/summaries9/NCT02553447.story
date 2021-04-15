@@ -1,0 +1,30 @@
+(thirdQuint)Cholecalciferol in Treating Patients With Newly Diagnosed Non-Hodgkin Lymphoma or Chronic Lymphocytic Leukemia With Vitamin D Deficiency.
+
+ PRIMARY OBJECTIVES: I.
+
+ To evaluate the 3 year progression-free survival (PFS), defined as time from the time of study entry of watch and wait or newly diagnosed non-Hodgkin lymphoma (NHL) or chronic lymphocytic leukemia (CLL) until relapse, progression, or death from any cause.
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate changes in the levels of serum vitamin D levels during therapy with daily oral vitamin D supplementation (cholecalciferol).
+
+ II.
+
+ To evaluate the overall survival (OS), defined as time from the time of study entry of watch and wait patients or newly diagnosed NHL or CLL until death from any cause.
+
+ OUTLINE: Patients with low levels of vitamin D are randomized to 1 of 2 arms and patients with normal levels are assigned to Arm III.
+
+ ARM I: Patients receive high-dose cholecalciferol orally (PO) daily for 3 years in the absence of disease progression or unacceptable toxicity.
+
+ ARM II: Patients receive low-dose cholecalciferol PO daily for 3 years in the absence of disease progression or unacceptable toxicity.
+
+ ARM III: Patients receive no intervention.
+
+.
+
+ Cholecalciferol in Treating Patients With Newly Diagnosed Non-Hodgkin Lymphoma or Chronic Lymphocytic Leukemia With Vitamin D Deficiency@highlight
+
+This randomized pilot early phase I trial studies how well cholecalciferol works in treating patients with newly diagnosed non-Hodgkin lymphoma or chronic lymphocytic leukemia with low levels of vitamin D (vitamin D deficiency).
+
+ Cholecalciferol may increase levels of vitamin D and improve survival in patients with non-Hodgkin lymphoma or chronic lymphocytic leukemia receiving standard of care chemotherapy.
+

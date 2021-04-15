@@ -1,0 +1,22 @@
+(firstQuint)Is it Helpful to Use Fitbits in a Family Based Weight Loss Program?.
+
+ Childhood obesity rates have tripled in the last 30 years, with as many as 50% of children in the US being obese or overweight.
+
+ High-intensity comprehensive behavioral family lifestyle intervention (CBFLI) programs have been shown to be among the most effective interventions for weight loss in children.
+
+ However, these programs are time- and resource-intensive with high rates of recidivism.
+
+ Personal activity trackers (PAT) provide objectively measured physical activity data and are more reliable than self-report.
+
+ These devices can also have a motivational impact.
+
+ The investigators intend to study the effects of these devices and their data on behavior change and weight loss for both parents and children enrolled in a CBFLI program.
+
+ The investigators will objectively measure the level of activity of both members of the parent-child dyad, explore the relationship between parent-child activity levels and its effect on each other, as well as on overall weight loss or weight maintenance.
+
+.
+
+ Is it Helpful to Use Fitbits in a Family Based Weight Loss Program?@highlight
+
+This study evaluates the role of personal activity trackers to help improve weight loss or weight maintenance for children and their parents enrolled in a comprehensive weight loss program.
+

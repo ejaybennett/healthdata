@@ -1,0 +1,34 @@
+(fifthQuint)Acupuncture for Chemical Therapy Induced Nausea and Vomiting.
+
+ This is an expertise-based randomized controlled trial.
+
+ The hypothesis of this study is that the differences in expertise of acupuncturist may impact clinical effect.
+
+ In this study, 102 patients will be randomly divided into 4 groups which separately receiving the treatment from senior acupuncturist(clinical experience> 15 years, considered in this trial as highly expertised), junior acupuncturist(clinical experience< 5 years, considered in this trial as lower expertised), junior acupuncturist only acupuncture Neiguan(P6), or not receiving the acupuncture.
+
+ All participants receive the cisplatin-based chemotherapy and 5-HT3 as antiemetic treatment will be included.
+
+ Acupuncture treatments are given once daily, the duration of treatment is from the first day receiving cisplatin until two days after cisplatin.
+
+ NCI and Rhode scale will be used to measure the control of nausea and vomiting.
+
+ only outcome assessors are blinded.
+
+ Generalized estimating equations will be used to compare the effects among groups.
+
+.
+
+ Acupuncture for Chemical Therapy Induced Nausea and Vomiting@highlight
+
+This is an expertise-based randomized controlled trial.
+
+ The hypothesis of this study is that the differences in expertise of acupuncturist may impact clinical effect.
+
+ In this study, patients will be randomized to 4 group, receiving the treatment from senior acupuncturist, junior acupuncturist, junior acupuncturist by only acupuncture Neiguan(P6), or not receive the acupuncture.
+
+ All patients receive the basic cisplatin chemotherapy.
+
+ The duration of treatment is from the first day receiving cisplatin until two days after cisplatin on each group.
+
+ NCI and Rhode scale will be used to measure the control of nausea and vomiting.
+

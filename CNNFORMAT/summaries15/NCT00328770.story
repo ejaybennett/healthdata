@@ -1,0 +1,14 @@
+(firstQuint)De Novo Sirolimus-based Immunosuppression After Liver Transplantation for Hepatocellular Carcinoma.
+
+ A total of 70 patients with HCC (mean age: 54.
+
+6 years, female/male: 12/58) received a liver transplant and were included in the study.
+
+ Immunosuppression included de novo sirolimus, low-dose calcineurin inhibitor for 6 to 12 months, with short-course (3 months) or no steroids.
+
+.
+
+ De Novo Sirolimus-based Immunosuppression After Liver Transplantation for Hepatocellular Carcinoma@highlight
+
+This study investigates whether sirolimus could decrease the rate of hepatoma recurrence after liver transplantation in high risk hepatoma patients.
+

@@ -1,0 +1,22 @@
+(firstQuint)Intraneural Facilitation as a Treatment for Carpal Tunnel Syndrome.
+
+ INF is a novel non-invasive therapy based on the principle of restoring vascular function at the capillary level in peripheral nerve.
+
+ his therapy has been shown to improve clinical function in patients with diabetic-associated polyneuropathy, a model for various forms of ischemic neuropathy.
+
+ CTS is a common condition where regional compression at the wrist results in ischemic focal demyelination of the distal median nerve.
+
+ This results in sensory dysfunction, pain, and eventually axon loss and weakness if the compression is sufficiently severe and prolonged.
+
+ Standard therapy for CTS includes wrist splints, regional lidocaine injections, ergonomic adjustments, various forms of occupation therapy, and ultimately surgical release of the carpal tunnel ligament.
+
+ However, all of these are either temporary in their effect or invasive.
+
+ The diagnosis of CTS relies on clinical, electrodiagnostic or NCS, and ultrasound methods.
+
+.
+
+ Intraneural Facilitation as a Treatment for Carpal Tunnel Syndrome@highlight
+
+We hypothesize that a standard course of INF can result in significant improvement in CTS as measured by clinical, electrodiagnostic, or ultrasound measures.
+

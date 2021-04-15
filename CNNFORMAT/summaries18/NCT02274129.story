@@ -1,0 +1,18 @@
+(secondQuint)Clinical Survey of Oticon Medical Healing Cap.
+
+ This study will primarily investigate the use of a new healing cap, Healing cap II.
+
+ The new healing cap has the same function as previous healing caps, but it soft instead of hard.
+
+ Due to this, the healing cap is anticipated to not fall off as easily, but at the same time does not risk transferring larger forces than previously to the implant.
+
+ Secondly, the patients will start using the sound processor 1-2 weeks after surgery.
+
+ The implant stability will be monitored before and after loading by the use of resonance frequency analysis, an established method to evaluate and monitor osseointegrated implants.
+
+.
+
+ Clinical Survey of Oticon Medical Healing Cap@highlight
+
+This study investigates the use of a new healing cap which, through altered design and choice of material, has been improved when it comes to minimizing the risk of it falling off as well as increasing patient comfort.
+

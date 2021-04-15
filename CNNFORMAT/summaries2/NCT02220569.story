@@ -1,0 +1,24 @@
+(secondQuint)PhysioFlow to Detect Cardiotoxicity in Chemo.
+
+ Our objective is to compare the PhysioFlow to the MUGA scan and see if the results are statistically the same using both techniques.
+
+ This is what is known as a non-inferior study.
+
+ The advantage of PhysioFlow is that it is non-invasive, fast and it is done at the bedside or while the patient is receiving his or her chemotherapy.
+
+ The patient will be tested with the MUGA scan, as per the standard of care, before chemotherapy is initiated and at every 3 months.
+
+ The patient will also be tested with the PhysioFlow at the same dates of the MUGA scan.
+
+ In addition to that, the patients will be tested at each chemotherapy cycle with the PhysioFlow.
+
+ Should the PhysioFlow indicate the patient has a cardiac toxicity as the patient is receiving chemotherapy, the results will be confirmed with the MUGA scan.
+
+.
+
+ PhysioFlow to Detect Cardiotoxicity in Chemo@highlight
+
+PULSE-ECCho will focus on trying to detect cardiotoxicity in cancer patients receiving chemotherapy early on in order to avoid irreversible damage.
+
+ In addition to that, we will test if the PhysioFlow is non-inferior to the conventional MUGA scan.
+

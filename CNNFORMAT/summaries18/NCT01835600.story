@@ -1,0 +1,20 @@
+(thirdQuint)Suspension of Mechanical Ventilation in Ureteroscopic Lithotripsy Under General Anesthesia.
+
+ For some upper ureteral and renal stones,ureteroscopic lithotripsy is often perdurbed by the patient's respiratory movement either under epidural anesthesia or general anesthesia with mechanical ventilation.
+
+ So intermittent suspension of mechanical ventilation under general anesthesia can ensure the surgery to be performed continuously and successfully.
+
+ But this could result in hypercapnia and hypoxia.
+
+ So far, there have been few studies focused on the change of the internal environment in blood as result of suspending breath.
+
+ In this study, the investigators hypothesize that 10 cmH2O PEEP added to the respiratory circuit with 1 L/min 100% oxygen might extend the time of ventilation suspension but have no effect on carbon dioxide retention in blood.
+
+.
+
+ Suspension of Mechanical Ventilation in Ureteroscopic Lithotripsy Under General Anesthesia@highlight
+
+For some upper ureteral and renal stones,ureteroscopic lithotripsy needs to be performed under general anesthesia with interrupted suspension of mechanical ventilation, which could result in hypercapnia and hypoxia.
+
+ In this study, the investigators hypothesize that 10 cmH2O PEEP added to the respiratory circuit with 1 L/min 100% oxygen might extend the time of ventilation suspension but have no effect on carbon dioxide retention in blood.
+

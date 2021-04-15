@@ -1,0 +1,20 @@
+(firstQuint)A Phase 2 Study of Eribulin Followed by AC as Preoperative Therapy for HER2-negative Inflammatory Breast Cancer.
+
+ This research study is a Phase II clinical trial.
+
+ Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.
+
+ "Investigational" means that the intervention is being studied.
+
+.
+
+ Eribulin works by interfering with cancer cell division, growth, and spread.
+
+ The goal of this research study is to evaluate inflammatory breast cancer's response to treatment with eribulin followed by AC chemotherapy when given as a preoperative chemotherapy treatment for participants with HER2 negative inflammatory breast cancer.
+
+.
+
+ A Phase 2 Study of Eribulin Followed by AC as Preoperative Therapy for HER2-negative Inflammatory Breast Cancer@highlight
+
+This research study is studying a drug called eribulin combined with standard treatment as a possible preoperative treatment for HER2 negative inflammatory breast cancer.
+

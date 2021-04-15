@@ -1,0 +1,12 @@
+(firstQuint)KAP Asynchrony Survey.
+
+ The investigators developed a survey, consisting of 25 multiple choice questions, and including snapshots of mechanical ventilator waveforms to assess the knowledge, attitudes and practice of physicians, nurses and respiratory therapists working in the ICU and caring for patients under mechanical ventilator about patient-ventilator asynchrony.
+
+ The survey is web-based and will be sent for health professionals working in the ICU of the participating centers.
+
+ All data will be treated anonymously with the intent of identifying knowledge gaps and inadequate practice that could be remediated by continuous medical education initiatives.
+
+ KAP Asynchrony Survey@highlight
+
+The investigators developed a web-based survey to assess knowledge, attitudes and practice of health care professionals about patient-ventilator asynchrony.
+

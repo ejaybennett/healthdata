@@ -1,0 +1,12 @@
+(firstQuint)Olanzapine for the Treatment of Refractory Chronic Nausea and Vomiting.
+
+ Patients will be identified who are seen in the Johns Hopkins Gastroenterology Clinic, suffer from chronic nausea and vomiting that is refractory to both prokinetic and antiemetic medications, and are being prescribed olanzapine for treatment of nausea and vomiting.
+
+ Patients who meet criteria will be enrolled and their gastrointestinal symptoms, quality of life, and psychological symptoms will be assessed by various questionnaires and followed over the course of 3 months.
+
+.
+
+ Olanzapine for the Treatment of Refractory Chronic Nausea and Vomiting@highlight
+
+Prospective, observational study evaluating the effect of olanzapine for the treatment of refractory chronic nausea and vomiting.
+

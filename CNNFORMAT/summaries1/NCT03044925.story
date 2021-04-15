@@ -1,0 +1,24 @@
+(firstQuint)Remote Magnetic Navigation-guided Ablation Versus Cryoablation for Persistent Atrial Fibrillation (RECREATION Study).
+
+ 1.
+
+ Compare the efficacy of remote magnetic navigation-guided ablation and cryoablation for patients with persistent atrial fibrillation.
+
+ 2.
+
+ Compare the safety of remote magnetic navigation-guided ablation and cryoablation for patients with persistent atrial fibrillation.
+
+ 3.
+
+ Compare the procedural parameters of remote magnetic navigation-guided ablation and cryoablation for patients with persistent atrial fibrillation.
+
+ 4.
+
+ Compare the effects of amiodarone on recurrence after these two different ablation procedures.
+
+.
+
+ Remote Magnetic Navigation-guided Ablation Versus Cryoablation for Persistent Atrial Fibrillation (RECREATION Study)@highlight
+
+Compare the safety and efficacy of remote magnetic navigation-guided ablation and cryoablation for patients with persistent atrial fibrillation.
+

@@ -1,0 +1,56 @@
+(fifthQuint)The HIP Impact Protection Program (HIP PRO).
+
+ The HIP PRO Study is a randomized, controlled trial of the efficacy of a trochanteric padding system in the reduction of hip fractures in nursing home residents over the age of 65 in up to 45 nursing homes in three regions: Boston, MA, St.
+
+ Louis, MO, and Baltimore, MD.
+
+ Eligible residents of these facilities will be screened and then evaluated during a two week run-in period during which a hip protection compliance rate of at least 67% will be required for enrollment.
+
+ Recruitment of all eligible residents entering each nursing home will continue throughout the 3.
+
+5 year follow-up period.
+
+ Each subject will be given a set of 4-6 protective underwear containing a single pocket and protective pad so that each resident becomes his/her own control.
+
+ The side to be protected will be based on the randomization of nursing home facilities to either right or left-sided hip protection.
+
+ The hip protection underwear is designed so that it may be worn during the day and while in bed at night.
+
+ Several types of underwear have been designed for residents with special needs (e.
+
+g.
+
+ incontinence, dementia).
+
+ Compliance and efficacy are monitored at least three times weekly across all three nursing shifts.
+
+ A hip fracture adjudication committee, blinded to the side of the fracture, will review all information (including hospital records and radiologists' reports or hip radiographs) and issue a decision on whether a fracture has occurred.
+
+ Primary analyses will be performed using an "intention to treat" approach.
+
+ Secondary analyses will investigate resident and nursing home factors associated with hip protection compliance and effectiveness.
+
+ An independent Data and Safety Monitoring Board (DSMB) has been convened and will review hip fracture rates and adverse event data at regular intervals.
+
+ Institutions participating in HIP PRO are: a Data Coordinating Center at Maryland Medical Research Institute in Baltimore, MD; three Clinical Centers at Washington University School of Medicine in St.
+
+ Louis, MO, the University of Maryland in Baltimore, MD with the University of North Carolina in Chapel Hill, NC, and the Hebrew Rehabilitation Center for Aged in Boston, MA.
+
+ The Data Coordinating Center will direct the overall administrative management of the trial.
+
+.
+
+ The HIP Impact Protection Program (HIP PRO)@highlight
+
+HIP PRO is a multicenter randomized, controlled trial of an energy absorbing and distributing padding system designed to reduce the incidence of hip fractures in 546 nursing home (NH) residents.
+
+ The trial is being conducted in three geographic regions of the US: Boston, St.
+
+ Louis, and Baltimore.
+
+ Non bed- or chair-bound residents over the age of 65 are given protective underwear containing a single pocket and hip pad so that each resident becomes his/her own control.
+
+ During the trial, hip fracture incidence will be compared in padded and unpadded hips using an intent to treat analysis.
+
+ A secondary aim is to identify resident and facility factors contributing to non-adherence with the use of the hip protector.
+

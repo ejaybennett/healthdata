@@ -1,0 +1,32 @@
+(secondQuint)BioCleanse Tibialis Tendon Anterior Cruciate Ligament (ACL) Study.
+
+ This is a single-arm, single site, pilot study in patients with a ruptured ACL.
+
+.
+
+ A total of fifty (50) subjects will be enrolled in this trial.
+
+ All patients will have been scheduled to undergo ACL reconstruction and will receive a BioCleanse Tibialis allograft as part of the normal standard of care practiced by the treating surgeon.
+
+ Follow up is for 2 years.
+
+ The age of the allograft donor will be divided into 2 groups: 1.
+
+ 18-45 years of age 2.
+
+ over 45 years of age.
+
+ However, there is no assignment of graft, specific to donor age, to the patients.
+
+ All treatment will follow standard of care and this study assumes that there will be a normal distribution of graft donor ages, from 18 to 65 years of age.
+
+ Patient outcomes will be compared between the 2 groups of tendon donor ages.
+
+ Neither the surgeon nor the patient will be aware of the age of the graft donor, per typical standard of care.
+
+.
+
+ BioCleanse Tibialis Tendon Anterior Cruciate Ligament (ACL) Study@highlight
+
+To compare the outcome of Anterior Cruciate Ligament (ACL) reconstruction performed using the tibialis allograft to historical outcomes of ACL reconstruction patients and to establish if any correlation exists between the age of the graft donor and the clinical outcomes.
+

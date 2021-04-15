@@ -1,0 +1,17 @@
+(firstQuint)Influence of Bilateral Arm Ischemic Postconditioning on Clinical Prognosis and Outcome in Acute Ischemic Stroke Patients.
+
+ In this study, we explore the influence of bilateral arm ischemic postconditioning (BAIPC) to patients with anterior circulation acute ischemic stroke.
+
+ Patients with anterior circulation acute ischemic stroke are enrolled and divided into control group and experimental group.
+
+ Patients in experimental group are administrated with BAIPC within 3 days from the occurrence of stroke.
+
+ The National Institute of Health stroke scale (NIHSS) will be evaluated at different time point to analyze the influence of BAIPC to acute ischemic patients.
+
+ The level of IL-4, IL-6,TNF- as well as the frequency of different sub-populations T cells in the blood at different time point will be detected to explore the possible mechanism of BAIPC protective function.
+
+.
+
+ Influence of Bilateral Arm Ischemic Postconditioning on Clinical Prognosis and Outcome in Acute Ischemic Stroke Patients@highlight
+
+Influence of bilateral arm ischemic postconditioning (BAIPC)on the injury and protective blood markers and the clinical prognosis and outcome in patients with acute ischemic stroke

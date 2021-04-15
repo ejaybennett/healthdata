@@ -1,0 +1,30 @@
+(thirdQuint)Gastric Emptying in Elderly With Hip Fracture.
+
+ Patients with hip fracture are submitted to prolonged fasting before surgery is undertaken.
+
+ This is deleterious for their metabolic condition and slows recovery after surgery.
+
+ A carbohydrate-rich beverage is taken immediately before surgery and gastric emptying rate is assessed in elderly (75-100 yo) women prior to surgery for acute hip fracture.
+
+ As comparator another two groups of women are used; one scheduled for elective surgery for hip replacement due to osteoarthritis; another healthy female volunteers.
+
+ On the day of surgery the primary study group of acute hip fracture is given a carbohydrate-rich beverage 400 ml, total 200 kcal in combination with paracetamol 1.
+
+5 g.
+
+ Blood samples are intermittently drawn during 180 minutes to measure recovery of paracetamol in plasma and gastric emptying rate calculated according to previously published principles.
+
+ In the same manner a group of women on waiting list for hip replacement surgery due to osteoarthritis are enrolled for estimation of gastric emptying rate.
+
+ In addition, another group of completely healthy women are enrolled for assessment of gastric emptying.
+
+.
+
+ Gastric Emptying in Elderly With Hip Fracture@highlight
+
+The gastric emptying of 400 ml 12.
+
+6% carbohydrate rich drink is investigated in elderly women, age 75-100, with acute hip fracture.
+
+ The emptying time will be assessed by the paracetamol absorption technique, and lag phase and gastric half-emptying time compared with two gender-matched reference groups: elective hip replacement patients, age 45-71, and healthy volunteers, age 28-55.
+

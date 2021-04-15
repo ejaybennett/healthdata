@@ -1,0 +1,30 @@
+(thirdQuint)Lung Cancer Early Molecular Assessment Trial.
+
+ In this prospective multicentre trial tumours of all patients presenting with NSCLC will be profiled upfront, irrespective of disease stage and pathology using both tissue and blood-based genetic testing.
+
+ A minimal molecular profiling is depicted but other targets will be included in due time.
+
+ The study is divided in two parts.
+
+ In the first part participating centres will have a run-in period of half a year in which molecular profiling is performed as is currently standard of care.
+
+ This period will be used to measure the impact of increased awareness on the diagnostic process.
+
+ During the second part of the study a comprehensive upfront profiling according to local standards will take place for all NSCLC patients.
+
+ Liquid (blood) biopsies will be included in order to increase the diagnostic yield for those patients where tissue biopsies are not adequate.
+
+ Patients will be treated according to standard of care, or included in clinical studies where appropriate.
+
+ Re-biopsies (both tissue and liquid) will be advocated at the time of establishing disease progression/disseminated disease, and personalized therapy will be initiated according to the existing data from the molecular profiling.
+
+.
+
+ Lung Cancer Early Molecular Assessment Trial@highlight
+
+The investigators hypothesize that an early molecular profiling, that includes both tissue and blood-bases analysis, for all NSCLC patients, including stage I-III, will increase diagnostic efficiency.
+
+ When molecular profiles are available at an earlier stage of disease, more patients will benefit from personalized therapy once needed.
+
+ This will result in both a better quality of life and outcome.
+

@@ -1,0 +1,22 @@
+(firstQuint)Race, Ethnicity, and Diffuse Parenchymal Lung Disease.
+
+ It is well known that both socioeconomic and biological factors may contribute to race- and ethnicity-based health disparities.
+
+ Black and Hispanic Americans have worse access to healthcare services and tend to receive care from physicians who cannot themselves access the same services for their patients that physicians who care for white patients can.
+
+ These factors may play important roles in the development and maintenance of health disparities.
+
+ In addition, biological differences may contribute to disparities.
+
+ We propose to identify factors that explain survival disparities in a group of lung diseases called diffuse parenchymal lung diseases (DPLDs), including a severe form of DPLD called idiopathic pulmonary fibrosis (IPF).
+
+ We will follow patients with DPLD at our center and measure both social and biological factors to try to identify the factors that lead to survival disparities between races.
+
+ Results of this study will be used to design clinical trials aimed at reducing these disparities.
+
+.
+
+ Race, Ethnicity, and Diffuse Parenchymal Lung Disease@highlight
+
+The purpose of this study is to identify factors that contribute to higher mortality rates among blacks and Hispanics with diffuse parenchymal lung disease.
+

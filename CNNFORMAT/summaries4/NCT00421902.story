@@ -1,0 +1,15 @@
+(secondQuint)Acupuncture Treatment for Hot Flashes Study.
+
+ Patients with prostate cancer who are / were treated with hormonal treatment and developed hot flashes as a side effect are offered Acupuncture as an investigational intervention.
+
+ The treatment is performed twice a week for four weeks, then once a week for the following six weeks.
+
+ Acupuncture was done according to specific guidelines and mapping.
+
+.
+
+ Acupuncture Treatment for Hot Flashes Study@highlight
+
+Patients with prostate cancer who are / were treated with hormonal treatment and developed hot flashes as a side effect are offered Acupuncture as an investigational intervention.
+
+ The treatment is performed twice a week for four weeks, then once a week for the following six weeks

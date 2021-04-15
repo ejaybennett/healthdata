@@ -1,0 +1,18 @@
+(firstQuint)Telephone Care Coordination for Smokers in VA Mental Health Clinics.
+
+ Smoking is the leading preventable cause of death in the United States and is a particular problem among VA users and among persons with a diagnosed mental illness.
+
+ The prevalence of smoking among VA mental health patients has remained high, in part because smoking cessation treatment rates have remained low.
+
+ Telephone-based counseling represents the most feasible approach to increasing smoking cessation treatment among VA patients.
+
+ The approach used in this study has been used very effectively in a primary care-based population that includes a large percentage of mental health patients.
+
+ This project would target the program specifically at patients seen in VA Mental Health Clinics.
+
+.
+
+ Telephone Care Coordination for Smokers in VA Mental Health Clinics@highlight
+
+The purpose of this study is to evaluate whether a smoking cessation telephone care coordination program is effective and feasible in VA Mental Health Clinics.
+

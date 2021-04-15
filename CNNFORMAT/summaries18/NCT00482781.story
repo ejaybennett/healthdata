@@ -1,0 +1,20 @@
+(secondQuint)DTaP and Apnea/Bradycardia in Preterm Infants.
+
+ The American Academy of Pediatrics (AAP) recommends the immunization of preterm infants at two months chronological age with the diphtheria-tetanus-acellular pertussis (DTaP) vaccine, regardless of birth weight and gestational age.
+
+ However, several investigators, employing historical controls and subjective observations, have reported an increased incidence in prolonged apnea and bradycardia in preterm infants following immunization.
+
+ Consequently, many primary care providers do not adhere to recommended AAP guidelines.
+
+ The purpose of this study is to reexamine the relationship between receipt of DTaP and the occurrence of prolonged episodes of apnea and bradycardia in preterm infants, while employing a random control study design and an objective assessment of cardiorespiratory events.
+
+ Ten participating hospitals will enroll infants 20 sec in duration or >15 sec in duration if associated with bradycardia for 5 sec) and prolonged bradycardia (heart rate 10 sec) in all infants.
+
+ The presence and number of episodes during the 48-hour period will be compared between the 2 groups.
+
+.
+
+ DTaP and Apnea/Bradycardia in Preterm Infants@highlight
+
+The purpose of this study is to examine the relationship between receipt of DTaP and the occurrence of prolonged episodes of apnea and bradycardia in preterm infants, while employing a random control study design and an objective assessment of cardiorespiratory events.
+

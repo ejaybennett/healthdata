@@ -1,0 +1,20 @@
+(thirdQuint)Efficacy and Safety of a Generic Rosuvastatin in a Real-world Setting.
+
+ An observational, multicenter, prospective study of Lebanese adult (18 years or older) hypercholesterolemic patients administered generic Rosuvastatin (Superstat(R)).
+
+ Eligible newly diagnosed hypercholesterolemic patients took generic Rosuvastatin as prescribed by their treating physician.
+
+ Assigning patients to generic Rosuvastatin was decided within the current practice and medical indication and was independent from the recruitment into the study.
+
+ Patients were followed-up at the clinic as per the standard practice of care.
+
+ Each patient was followed-up for a period of 2 months.
+
+.
+
+ Efficacy and Safety of a Generic Rosuvastatin in a Real-world Setting@highlight
+
+This study assessed the safety and efficacy of generic Rosuvastatin in reducing plasma low density lipoprotein (LDL) cholesterol in Lebanese adult patients (18 years or older) with dyslipidemia for both primary and secondary prevention based on their total cardiovascular risk.
+
+ No visits or interventions, additional to the routine clinical practice, were requested or performed.
+

@@ -1,0 +1,16 @@
+(thirdQuint)MenB Vaccine: Implementation Via Information, Empowerment and Accessibility.
+
+ Participants (parents of 16-23 year old teens and young adults, high school and college students 16-23 years old, and health care professionals for 16-23 year olds) will be asked to share their thoughts on the completeness of nationally recommended and publicly available MenB vaccine educational materials in addressing hesitations to receipt of the MenB vaccine.
+
+ There is no risk in discussing reactions to educational materials.
+
+ The biggest risk is disclosure of information provided in the study which will be reactions to health-promotion material.
+
+.
+
+ MenB Vaccine: Implementation Via Information, Empowerment and Accessibility@highlight
+
+As part of an effort to increase MenB vaccine uptake among adolescents and young adults, study teams will conduct qualitative research to maximize the effectiveness of nationally recommended MenB educational materials.
+
+ In this study, Study Teams will assess local barriers to MenB vaccination by conducting focus groups with parents, students, and health care professionals.
+

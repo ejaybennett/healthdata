@@ -1,0 +1,22 @@
+(secondQuint)Comparison Between Lidocaine, Dexmedetomidine, and Their Combined Infusion in Subjects Undergoing Coronary Artery Bypass Graft.
+
+ Lidocaine has been reported to have an antiarrhythmic and myocardial protective effect.
+
+ A previous study has reported that low-dose lidocaine infusion can decrease the incidence of ventricular fibrillation and tachycardia during the first 24 hours after coronary artery bypass graft (CABG).
+
+ A recent study also reported that the lidocaine infusion during CABG could decrease the myocardial injury by measuring the CK-MB and Troponin-I blood level.
+
+ Dexmedetomidine is an alpha-2 agonist and reduces the sympathetic tone and neuroendocrine stress response.
+
+ Dexmedetomidine was reported to have a cardioprotective effect by a previous animal study.
+
+ However, there was no clinical study evaluating the cardioprotective effect of dexmedetomidine.
+
+ Therefore, we are trying to evaluate and compare the antiarrhythmic and myocardial protective effect between lidocaine, dexmedetomidine, and their combined infusion in subjects undergoing coronary artery bypass graft.
+
+.
+
+ Comparison Between Lidocaine, Dexmedetomidine, and Their Combined Infusion in Subjects Undergoing Coronary Artery Bypass Graft@highlight
+
+The aim of the present study is to compare the antiarrhythmic and myocardial protective effect between lidocaine, dexmedetomidine, and their combined infusion in subjects undergoing coronary artery bypass graft.
+

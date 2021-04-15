@@ -1,0 +1,14 @@
+(secondQuint)Evaluation of the Effect of Root Canal Preparation by TF and M-Pro on Post-Operative Pain After Single Visit Endodontic Treatment.
+
+ Teeth with symptomatic irreversible pulpitis are selected according to the eligibility and exclusion criteria and patients are then randomized to receive treatment after using Twisted files or M-pro files.
+
+ The treatment is done in single visit.
+
+ The postoperative pain is then assessed using the Numerical Rating Scale 6,12, 24 and 48 hours post-instrumentation.
+
+.
+
+ Evaluation of the Effect of Root Canal Preparation by TF and M-Pro on Post-Operative Pain After Single Visit Endodontic Treatment@highlight
+
+A study to comparatively evaluate the post operative pain between root canal preparation by reciprocating file (TF) and full rotation file (M-Pro) in patients with single rooted teeth with acute irreversible pulpits.
+

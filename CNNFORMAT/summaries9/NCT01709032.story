@@ -1,0 +1,26 @@
+(firstQuint)Combination Deferasirox and Deferiprone for Severe Iron Overload in Thalassemia.
+
+ Death and disability from iron related damage to the heart remain the most serious issue facing transfusion-dependent patients with thalassemia.
+
+ However, over the past decade there have been several reports of improved survival and fewer cardiac complications.
+
+ This improvement may be related to the availability of three chelators and also the accurate measurement of iron stores in various organs (e.
+
+g.
+
+ heart and liver) with magnetic resonance imaging, which allows for personalized, tailored medical care for patients.
+
+ The chelator characteristics, side effect profiles, and ability to remove iron from specific organs differ among the chelators, suggesting that combination therapy may be beneficial.
+
+ Using two drugs at lower doses may be more tolerable than escalating doses of a single drug and may improve iron removal.
+
+ The combination of deferoxamine and deferiprone has been shown to be particularly beneficial for reducing cardiac iron, but it requires a painful injection/infusion, which hinders adherence.
+
+ This pilot study aims to investigate the safety of an oral-only combination chelator regimen (deferasirox and deferiprone) in individuals with thalassemia major with poorly controlled iron overload and to assess how well this chelator combination lowers iron stores over one year.
+
+.
+
+ Combination Deferasirox and Deferiprone for Severe Iron Overload in Thalassemia@highlight
+
+We hypothesize that the combination treatment with deferasirox and deferiprone will be well tolerated and will result in significant improvement in cardiac and liver iron levels.
+

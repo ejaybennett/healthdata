@@ -1,0 +1,16 @@
+(firstQuint)Effect of Azilsartan on Aldosterone in Postmenopausal Females.
+
+ The study is a randomized, placebo-controlled trial of post-menopausal females with stage 1 hypertension.
+
+ The goal is to randomize 40 post-menopausal females with stage 1 hypertension and assess whether azilsartan reduces urinary aldosterone levels.
+
+ We will compare subjects having azilsartan medoximil (treatment group) with placebo group.
+
+ Additionally, a small sub-study comparing pre-menopausal and post-menopausal female aldosterone levels was performed as well as the presence of aldosterone production in fat cell cultures of a subset of 3 patients in the randomized trial.
+
+.
+
+ Effect of Azilsartan on Aldosterone in Postmenopausal Females@highlight
+
+The purpose of the research is to evaluate the effect of azilsartan medoximil on blood pressure and urinary aldosterone levels in postmenopausal females.
+

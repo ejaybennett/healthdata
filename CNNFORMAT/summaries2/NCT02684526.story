@@ -1,0 +1,20 @@
+(firstQuint)Is Eovist Suitable for Arterial-Phase MR Imaging of Liver.
+
+ Researchers will review data from the Eovist MRI and compare the scan with previous MRI exams the patient had with the same or other contrast agents.
+
+ To determine the efficacy of Eovist contrast agent in producing MRI images of the liver.
+
+ We will monitor patients for any unusual symptoms (adverse events) when the contrast is given.
+
+ Patients are asked to hold their breath during an MRI scan.
+
+ Eovist may interfere with the "breath hold" which could result in more breathing artifacts (based on a qualitative scale) on arterial images when the patients are given Eovist vs.
+
+ other contrast agents.
+
+.
+
+ Is Eovist Suitable for Arterial-Phase MR Imaging of Liver@highlight
+
+To examine the quality of liver images produced when the contrast agent Eovist is used during MRI.
+

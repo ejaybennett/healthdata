@@ -1,0 +1,46 @@
+(fifthQuint)Penicillamine Chelation for Children With Lead Poisoning.
+
+ Approximately 300,000 children in the US have elevated blood lead levels (10 mcg/dl or greater).
+
+ Lead poisoning in children is unequivocally harmful, producing the neurodevelopmental consequences of cognitive losses, attentional difficulties and behavioral disturbances, including antisocial or delinquent tendencies.
+
+ Non-neurodevelopmental consequences of lead poisoning include impairment of heme synthesis, reduction in 1- hydroxylation of 25(OH) - cholecalciferol (the Vitamin D precursor) and renal injury that results in microproteniuria, an increased risk of hypertension and a greater likelihood of renal failure in adulthood.
+
+ Despite these well-defined toxicities, treatments for childhood lead poisoning have been inadequate.
+
+ Currently, chelation therapy is uniformly recommended only for children with severe lead poisoning (blood lead > 45 mcg/dl).
+
+ Approved chelating agents for severe plumbism are CaNa2EDTA and succimer.
+
+ For children with blood lead levels less than 45 mcg/dl treatment is fraught with difficulties including inconsistent recommendations by clinical experts, lack of proven benefit of chelation and the absence of a chelating agent approved for use in this range.
+
+ d-Penicillamine is a lead chelator that has been used off-label for almost 4 decades.
+
+ Several studies have suggested that d-penicillamine is both safe and effective in the treatment of low-level lead poisoning.
+
+ We propose to evaluate, in a Phase II/III randomized, placebo-controlled clinical trial, the effectiveness of d-penicillamine in 50 children aged 6 months to 16 years with blood lead levels 15-25 mcg/dl.
+
+ The d-penicillamine product will be a newly developed, IND-approved liquid formulation.
+
+ The study will be performed in the Pediatric Environmental Health Center of Children's Hospital Boston.
+
+ The primary outcome measure will be the ability of a 6-week course of d-penicillamine to produce sustained reductions in blood lead level.
+
+ Secondary outcome measures will be normalization of non-neurodevelopmental physiologic aberrations known to occur with lead poisoning, specifically abnormalities in heme and Vitamin D synthesis.
+
+ If this clinical trial demonstrates safety and efficacy, d-penicillamine will potentially provide another option among the limited treatment choices for lead-poisoned children.
+
+ This trial will also provide a basis for examining the drug's efficacy in improving neurodevelopment outcome in children exposed to harmful amounts of lead.
+
+.
+
+ Penicillamine Chelation for Children With Lead Poisoning@highlight
+
+Childhood Lead Poisoning is a widespread disease that has few effective treatments.
+
+ The specific aims of this proposed clinical trial are threefold: - To determine whether a six-week course of a newly formulated d-penicillamine suspension will effectively reduce blood lead level in children aged 6 months to 16 years with blood lead levels of 15-25 1/2g/dL.
+
+ - To determine whether d-penicillamine chelation produces a sustained reduction in blood lead level in comparison with succimer and other lead chelators which always produce a significant post-treatment "rebound".
+
+ - To determine whether chelation with d-penicillamine improves the physiologic disturbances that can be measured in children with blood lead levels in this range.
+

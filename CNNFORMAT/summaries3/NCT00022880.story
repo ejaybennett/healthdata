@@ -1,0 +1,16 @@
+(secondQuint)Safety and Efficacy Study of Iodine-131 Anti-B1 Antibody for Chronic Lymphocytic Leukemia.
+
+ The primary endpoint is to determine the maximum tolerated dose of Iodine-131 Anti-B1 Antibody in patients with CLL.
+
+ Secondary endpoints include assessment of response rate, duration of response, relapse free survival, time to treatment failure, safety, and survival.
+
+ The dose escalation will be started at 35cGy for patients with platelet counts > 100,000 cells/mm3 (Cohort A) and increased by groups in 10cGy increments until the maximum tolerated dose (MTD) is reached.
+
+ Subsequently, patients with platelet counts from 75,000-100,000 cells/mm3 (Cohort B) will be enrolled starting at 10cGy below the MTD reached in Cohort A and the dose will be escalated in 10cGy increments up to the MTD.
+
+.
+
+ Safety and Efficacy Study of Iodine-131 Anti-B1 Antibody for Chronic Lymphocytic Leukemia@highlight
+
+The purpose of this study is to test the safety of Iodine-131 Anti-B1 Antibody, to see what effects it has on patients with CLL and to determine the highest dose of Iodine-131 Anti-B1 Antibody that can be given without causing severe side effects.
+

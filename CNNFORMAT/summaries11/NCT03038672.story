@@ -1,0 +1,42 @@
+(thirdQuint)Nivolumab With or Without Varlilumab in Treating Patients With Relapsed or Refractory Aggressive B-cell Lymphomas.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the anti-tumor activity of combination therapy with CDX-1127 (varlilumab) and nivolumab as compared to nivolumab alone in patients with advanced aggressive B-cell non-Hodgkin lymphomas (NHL) based on the lymphoma response to immunomodulatory therapy criteria or LYRIC.
+
+ SECONDARY OBJECTIVES: I.
+
+ To assess the safety and tolerability profile of treatment with a combination of CDX-1127 (varlilumab) and nivolumab in patients with advanced aggressive B-cell NHL.
+
+ II.
+
+ To evaluate the duration of response, progression-free survival and overall survival.
+
+ TERTIARY OBJECTIVES: I.
+
+ To determine the effect of combination therapy with CDX-1127 (varlilumab) and nivolumab on the immune system as assessed by immunohistochemistry (IHC), mass cytometry (CyTOF), changes in serum cytokine profile and immunogenicity assays.
+
+ II.
+
+ To describe the pharmacokinetic profile of CDX-1127 (varlilumab) and nivolumab when used in combination.
+
+ OUTLINE: Patients are randomized to 1 of 2 groups.
+
+ GROUP I: Patients receive nivolumab intravenously (IV) over 60 minutes every 2 weeks for 4 months and every 4 weeks for a total of up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+ Patients may cross over to Group II at the time of disease progression.
+
+ GROUP II: Patients receive varlilumab IV over 90 minutes every 4 weeks for up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+ Patients also receive nivolumab IV over 60 minutes every 2 weeks for 4 months and every 4 weeks for a total of up to 2 years in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up for 100 days.
+
+.
+
+ Nivolumab With or Without Varlilumab in Treating Patients With Relapsed or Refractory Aggressive B-cell Lymphomas@highlight
+
+This randomized phase II trial studies how well nivolumab with or without varlilumab works in treating patients with aggressive B-cell lymphomas that have come back or do not respond to treatment.
+
+ Monoclonal antibodies, such as varlilumab and nivolumab, may work by stimulating the immune system to attack cancer tumor cells.
+

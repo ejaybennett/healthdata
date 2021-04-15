@@ -1,0 +1,22 @@
+(secondQuint)Treatment of Optic Neuropathies Using Autologous Bone Marrow-Derived Stem Cells.
+
+ Optic nerve atrophy (ONA) is a condition defined as a damage to the optic nerve that harmfully affects central and peripheral vision.
+
+ ONA may occur as a result of optic neuritis, compression by tumors or aneurysms, toxic and nutritional neuropathies, trauma, or as a secondary complication to other systemic diseases such as diabetes.
+
+ Symptoms of ONA vary diversely, but mainly include blurred vision and a reduction in optic sharpness and color visualization.
+
+ ONA is irreversible process, and current medical strategies focus on finding the underlying cause, and trying to prevent further vision loss and protect the other healthy eye.
+
+ This is a Single arm, Single Center trial to assess the safety and efficacy of purified adult autologous bone marrow derived CD34+, CD133+, and CD271+ stem cells through a 24 month follow-up period.
+
+ The combination of these three cell types was based on their diverse potentialities to differentiate into specific functional cell types to regenerate damaged optic nerves and supporting issues and vasculature, and the availability of clinical-grade purification system (CliniMACS) and Microbeads to purify the target cell populations in clinically-approved methods.
+
+ Anticipated outcomes of this study are defined in an overall improvement of vision, restoration of functions to damaged optic nerves, and improvement in quality of life of patients.
+
+.
+
+ Treatment of Optic Neuropathies Using Autologous Bone Marrow-Derived Stem Cells@highlight
+
+A single arm, single center trial to assess the safety and efficacy of restoring function in damaged optic nerves using autologous purified populations of bone-marrow derived stem cells (BM-SCs) through a 24 month follow up period.
+

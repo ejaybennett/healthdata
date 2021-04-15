@@ -1,0 +1,14 @@
+(firstQuint)Sacro-Spinous Ligaments Anterior Apical Anchoring.
+
+ Anterior-apical compartment mesh implants for pelvic floor reconstruction are frequently anchored to the Arcus Tendinous Fascia Pelvis (ATFP) rather than to the Sacro-Spinous (SS) ligaments commonly used for the posterior compartment reconstruction.
+
+ The SS ligament suspension for apical support mesh fixation is thought to yield higher and stronger anchoring point than the ATFP.
+
+ The authors presumed that anterior mesh fixation to the sacro-spinous ligament are both, feasible and effective.
+
+.
+
+ Sacro-Spinous Ligaments Anterior Apical Anchoring@highlight
+
+Anterior-apical compartment mesh implants for pelvic floor reconstruction are anchored here to the Sacro-Spinous ligaments and evaluated being a feasible and effective method.
+

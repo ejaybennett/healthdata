@@ -1,0 +1,40 @@
+(thirdQuint)Biomarker Qualification for Risk of Mild Cognitive Impairment (MCI) Due to Alzheimer's Disease (AD) and Safety and Efficacy Evaluation of Pioglitazone in Delaying Its Onset.
+
+ This study has two goals.
+
+ One of these goals is to see if a new genetic test can determine if participants are at risk of developing Mild Cognitive Impairment due to Alzheimer's Disease (MCI-AD) within the next five years.
+
+ The other goal is to evaluate the study drug called pioglitazone.
+
+ Pioglitazone is being tested to delay the onset of MCI-AD.
+
+ This study will look at the effectiveness of pioglitazone in delaying the onset of MCI-AD in cognitively-normal people who are at high-risk of developing MCI-AD, as idenfitied by the biomarker in the non-Hispanic/Latino Caucasian participants.
+
+ In addition, approximately 300 cognitively normal elderly participants will participate in a volumetric magnetic resonance imaging (vMRI) substudy at selected sites.
+
+ In the vMRI substudy, high-risk participants will be randomized (5:4) to receive either pioglitazone or placebo.
+
+ This multi-centre trial will be conducted worldwide.
+
+ The study will enroll approximately 3500 subjects.
+
+ Participants will be assigned to high or low risk groups for developing MCI- AD within the next five years, based on the results of the biomarker risk algorithm.
+
+ Participants in the high risk group will be randomly assigned to one of the two treatment groups-which will remain unknown to the participant and study doctor during the study (unless there is an urgent medical need): - Pioglitazone tablet - Placebo (dummy inactive pill) - this is a tablet that looks like the study drug but has no active ingredient.
+
+ Participants in the low risk group will be assigned to placebo.
+
+ The assignment of each participant to the high or low risk group, as well as the participant's treatment assignment, will remain undisclosed to the participants and study doctor during the study (unless there is an urgent medical need).
+
+ All participants will be asked to take one tablet at the same time each day throughout the study.
+
+ The overall time to participate in this study is approximately 5 years.
+
+ Participants will make up to 14 visits to the clinic, and will be contacted by telephone 3 months after each treatment visit for a follow-up assessment, and 2 weeks after the final visit.
+
+.
+
+ Biomarker Qualification for Risk of Mild Cognitive Impairment (MCI) Due to Alzheimer's Disease (AD) and Safety and Efficacy Evaluation of Pioglitazone in Delaying Its Onset@highlight
+
+The purpose of this study is to qualify the biomarker risk algorithm for prognosis of the risk of developing Mild Cognitive Impairment due to Alzheimer's Disease (MCI-AD), and also to evaluate the efficacy of pioglitazone compared with placebo to delay the onset of MCI-AD in cognitively-normal participants who are at high-risk for developing MCI within 5 years.
+

@@ -1,0 +1,18 @@
+(fifthQuint)Johns Hopkins Breast Cancer Program Hormone Therapy Longitudinal Database.
+
+ This research is being done to learn more about the side effects of breast cancer hormone therapy and if a person's genetic information may help us to develop a way to predict the side effects a patient may have and how best to treat them.
+
+ In addition, the investigators hope to look at how the side effects from hormone therapy influence a patient's willingness to continue hormonal treatment.
+
+ Men and women being prescribed hormone therapies including Tamoxifen, Raloxifene (Evista), Anastrozole (Arimidex), Letrozole (Femara), or Exemestane (Aromasin), by their oncologist for either prevention of breast cancer or treatment of breast cancer may join.
+
+ The decision of which hormone therapy to receive is the decision of the patient and physician, this study will collect samples and patient-reported outcomes during this routine, standard of care and will not direct any treatment decisions or interventions in any way.
+
+.
+
+ Johns Hopkins Breast Cancer Program Hormone Therapy Longitudinal Database@highlight
+
+The purpose of this project is to establish a repository of information and samples from breast cancer patients or those at high risk of developing breast cancer, who are initiating hormone therapy as part of standard clinical care or prevention.
+
+ This repository will include patient reported outcomes and other questionnaires, information on medication use, data about adherence to the hormone therapy and tumor characteristics, including prospectively collected samples.
+

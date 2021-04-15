@@ -1,0 +1,46 @@
+(fifthQuint)Family Eats:Cancer Prevention for Families.
+
+ Although the burden of cancer is high among individuals of all ethnicities, ethnic differences in cancer incidence and mortality exist.
+
+ African-Americans experience a higher incidence of certain cancers compared with the White population, with mortality rates at least 40% higher than other populations.
+
+ Obesity, high fat, and low fruit (F) and vegetable (V) intakes increase cancer risks.
+
+ Cancers may develop over a long period of time, with some possibly initiating in childhood; therefore, promoting FV and preventing excess weight gain during childhood could be cancer protective.
+
+ Families influence children's dietary behaviors by direct modeling of dietary behaviors, parenting skills around food, and controlling the home food environment.
+
+ However, few intervention studies have focused on family influences on dietary behaviors, particularly among ethnic minority groups which may differ in cultural and other aspects of family functioning.
+
+ Unfortunately, low participation rates for community-based family interventions suggest that alternate intervention delivery systems be investigated.
+
+ The internet provides family access within the convenience of the home.
+
+ In a previous R21 application, the Principal Investigator developed an eight-session interactive web-based program promoting a healthy home food environment for African-American families with 9-12 year old daughters (Family Eats).
+
+ Family Eats was evaluated for feasibility and changes in mediating variables were obtained.
+
+ This proposal will test the efficacy of the Family Eats web program to improve FV and dietary fat behavior and weight outcomes among 320 AA families with 8-12 year old children.
+
+ This important study will pioneer a new channel for behavior change intervention with African-American families and holds the promise of reaching large numbers of children and their families, enabling all to adopt healthy eating behaviors and achieve energy balance and reduce cancer risks.
+
+.
+
+ Family Eats:Cancer Prevention for Families@highlight
+
+Poor diets lead to weight problems, and may increase cancer risk.
+
+ Cancers may develop over a long period of time, with some possibly initiating in childhood.
+
+ Therefore, promoting healthy diets and preventing excess weight gain during childhood could be cancer protective.
+
+ Families influence children's dietary behaviors by their actions and controlling the home food environment.
+
+ The internet provides family access to interventions with the convenience of the home.
+
+ An eight-session interactive web-based program promoting a healthy home food environment for African-American families with 9-12 year old daughters (Family Eats) was previously developed and tested.
+
+ This study tests whether the Family Eats web program improves diet and weight outcomes among 320 African-American families with 8-12 year old children.
+
+ This important study will pioneer a new channel for behavior change intervention with African-American families and holds the promise of reaching large numbers of children and their families, enabling all to adopt healthy eating behaviors and achieve energy balance and reduce cancer risks.
+

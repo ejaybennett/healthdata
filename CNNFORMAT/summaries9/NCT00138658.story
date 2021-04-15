@@ -1,0 +1,26 @@
+(thirdQuint)A Study of OGX-011/Gemcitabine/Platinum-Based Regimen in Stage IIIB/IV Non-Small Cell Lung Cancer (NSCLC).
+
+ OGX-011 is an experimental drug that has been shown to increase the effectiveness of commonly used cancer therapies such as chemotherapy, radiation and hormone therapy in several kinds of cancer types in animals.
+
+ OGX-011 is being studied in the treatment of cancer patients in combination with chemotherapy.
+
+ In humans, OGX-011 in combination with hormone therapy has been shown to decrease the tissue levels of a protein called clusterin, which can be overproduced in cancer cells.
+
+ Clusterin has been found to block cell death and makes cells more resistant to cancer therapy.
+
+ Gemcitabine (GEM), cisplatin (CIS) and carboplatin (CARB) have been approved by Health Canada and the Food and Drug Administration in the United States for the treatment of patients with lung cancer.
+
+ OGX-011 was administered as a 2-hr intravenous (IV) infusion on Days -7, -5, and -3 prior to Cycle 1, then weekly on Days 1, 8, 15 of each 21-day cycle; GEM was infused IV after OGX-011 on Days 1 and 8; either CIS or CARB was infused IV after GEM on Day 1 of each cycle.
+
+ Six cycles of treatment were planned.
+
+ Most patients received OGX-011 at 640 mg, but 3 patients received OGX-011 at 480 mg dose; OGX-011 dose groups were combined due to the small number of patients who received 480 mg.
+
+.
+
+ A Study of OGX-011/Gemcitabine/Platinum-Based Regimen in Stage IIIB/IV Non-Small Cell Lung Cancer (NSCLC)@highlight
+
+This clinical study will help determine if giving OGX-011 (custirsen sodium) in combination with gemcitabine (GEM) and cisplatin (CIS) or carboplatin (CARB) is a safe and effective treatment for patients with lung cancer.
+
+ This study will help to assess the safety and anti-tumor effect of OGX-011 when given to patients in combination with GEM and CIS/CARB.
+

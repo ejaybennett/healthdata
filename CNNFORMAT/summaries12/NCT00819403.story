@@ -1,0 +1,20 @@
+(firstQuint)Simvastatin With or Without Ezetimibe and Atherothrombotic Biomarker Assessment.
+
+ 1.
+
+ To assess the ex vivo effects of ezetimibe/simvastatin (E/S) (Vytorin 10/40mg) and simvastatin (S) (Zocor 40mg) on platelet and inflammation biomarkers in patients with documented metabolic syndrome.
+
+ 2.
+
+ To compare platelet-related effects including PAR-1 receptor inhibition of E/S with those of the established anti-platelet agents including aspirin, clopidogrel, intravenous and oral glycoprotein IIb/IIIa inhibitors.
+
+ 3.
+
+ To determine whether the addition of ezetimibe will yield extra protection beyond lipid modulation in the reduction of inflammation and platelet activation.
+
+.
+
+ Simvastatin With or Without Ezetimibe and Atherothrombotic Biomarker Assessment@highlight
+
+To determine whether the combination of ezetimibe and simvastatin improves biomarkers of atherothrombosis compared to simvastatin alone in patients with the metabolic syndrome.
+

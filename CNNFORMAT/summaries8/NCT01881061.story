@@ -1,0 +1,20 @@
+(firstQuint)Lung Sonography in Patients With Acute Respiratory Distress Syndrome in Intensive Care Unit.
+
+ Acute respiratory distress syndrome (ARDS) is a clinical syndrome that often occurs in critically ill patients.
+
+ Patients with ARDS invariably require mechanical ventilation to improve oxygen transport.
+
+ An improvement in oxygenation can be obtained by an increase in positive end-expiratory pressure (PEEP).
+
+ In critically ill patients with ARDS, lung imaging is been held by the use of chest radiography and the "gold standard" technique, Computed Tomography (CT).
+
+ We designed an observational study in which we included patients under mechanical ventilation admitted in our ICU.
+
+ In all patients PEEP changes were applied and lung sonography was performed.
+
+.
+
+ Lung Sonography in Patients With Acute Respiratory Distress Syndrome in Intensive Care Unit@highlight
+
+The purpose of this study is to evaluate the role of lung sonography during different PEEP settings in ICU patients with ARDS.
+

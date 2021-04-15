@@ -1,0 +1,21 @@
+(secondQuint)Tocilizumab for Cytokine Release Syndrome Prophylaxis in Haploidentical Transplantation.
+
+ Cytokine release syndrome (CRS) is a common and potentially severe toxicity associated to haploidentical peripheral blood (PBSC) hematopoietic stem cell transplantation (Haplo-HSCT), which was described previously in the context of immunotherapies for acute lymphoblastic leukemia such as chimeric antigen receptor T-cells and blinatumomab.
+
+ CRS is characterized by immune system activation with a high level of circulating inflammatory cytokines including IL-6.
+
+ Haplo-HSCT recipients have a high incidence of post-transplant fever, with elevated IL-6 in absence of documented infection.
+
+ CRS occurs more frequently when using PBSC, and severe cases have been associated to delayed engraftment, increased transplant-related mortality and lower survival.
+
+ Tocilizumab an IL-6 receptor-targeted monoclonal antibody has been effectively used to treat CRS in several scenarios, including Haplo-HSCT.
+
+ Therefore, there is considerable interest for the development of a successful strategy for CRS prevention with tocilizumab, potentially eliminating complications.
+
+ However, it is currently unknown whether the use of this monoclonal antibody can adversely affect the outcome of Haplo-HSCT recipients.
+
+.
+
+ Tocilizumab for Cytokine Release Syndrome Prophylaxis in Haploidentical Transplantation@highlight
+
+Tocilizumab will be administered prior to transplantation in order to prevent the onset of cytokine release syndrome and its complications associated to peripheral blood haploidentical hematopoietic stem cell transplantation with post-transplant cyclophosphamide

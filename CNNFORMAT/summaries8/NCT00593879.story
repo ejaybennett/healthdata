@@ -1,0 +1,34 @@
+(secondQuint)Flexible Dose Titration Add-on Study to Treat Major Depressive Disorder.
+
+ This is a double blind, randomized, placebo controlled, parallel group, flexible dose titration, add-on study.
+
+ Male or female subjects aged 18-70 years suffering from Major Depressive Disorder according to DSM-IV, with a HAMD-17 score greater than 21 and a CGI-Severity of Illness score greater or equal to 4, will be started on open labeled citalopram treatment.
+
+ The dose of citalopram may be increased form 20mg to 40mg over a six week period, depending on investigator assessment of tolerability and efficacy.
+
+ At the end of this treatment, subjects with a HAMD-17 score greater or equal to 14 and a CGI-Severity of Illness score greater or equal to 4 will be considered as partial or non-responders and will be entered into the double blind phase of the study.
+
+ Subjects will be randomized to either mecamylamine or placebo for a further 8 weeks.
+
+ Citalopram medication will remain constant while mecamylamine (or placebo) can be increased from 5.
+
+0 to 7.
+
+5 to 10.
+
+0mg based on investigator assessment of tolerability and efficacy.
+
+ Plasma samples for citalopram assay will be collected at the start and end of the double blind phase to exclude any mecamylamine effect being due to a drug:drug interaction.
+
+ Approximately 500 subjects will be entered into the open-label phase of the study and approximately 160 into the double blind phase.
+
+ The study will be conducted in India and the USA.
+
+.
+
+ Flexible Dose Titration Add-on Study to Treat Major Depressive Disorder@highlight
+
+Depressed patients will receive 6 weeks of citaloprma (20-40mg) therapy.
+
+ Subjects who have an inadequate response (partial or non-responder) will be randomized to receive either mecamylamine (5-10mg) or placebo added to their citalopram for a further 8 weeks.
+

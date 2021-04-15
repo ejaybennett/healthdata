@@ -1,0 +1,19 @@
+(thirdQuint)Influence of the Vitamine E Coated Dialyzer on Inflammation and Anemia.
+
+ Coordinator : Pr JP.
+
+CRISTOL Montpellier hospital university Rational : The hemodialyzed patients are subject to inflammation due to their pathologies and to the technique.
+
+ The VIE dialyzer polysulfon coated to vitamin E has been shown to have a favourable action on inflammation and anemia.
+
+ The investigators want to highlight the influence of vitamine E graft using as controlled dialyzer a similar polysulfon from the same manufacturer without vitamin E.
+
+ Medical device : ViE High flux dialyzer -> vitamin E coated polysulfone membrane manufactured by Asahi Kasei Medical, with CE mark and intended for use in hemodialysis for the patient suffering from acute or chronic renal failure Controlled medical device : Leoceed H high flux dialyzer : polysulfone membrane manufactured by Asahi Kasei Medical, with CE mark and intended for use in hemodialysis for patient suffering from acute or chronic renal failure Objectives : To assess the benefits of a vitamin E coated polysulfone membrane on the micro-inflammatory state of chronic dialysis patients Primary end point : Evolution of the well-known inflammatory marker : High sensibility-CRP Secondary end point : Evolution of the following inflammatory markers : IL-6, TNFa, fibrinogen, antibodies anti- LDLox Evolution of Hemoglobin and ERI Evolution of Nutritional parameters : albumin and pre albumin Study design : Prospective multicenter controlled and randomized protocol study Duration : 12 months Number of patients : 120 patients : 60 patients per group 120 patients : 60 patients per group Adult ESRD patient, whatever the origin, treated by HD, thrice a week for about 4 hours and hemo dynamically well balanced Inclusion criteria : Dialyzed patient on synthetic high flux dialyzer for 3 months Patient with a vascular access allowing a blood flow rate 250 ml/min Patient with micro inflammation, i.
+
+e an average CRP between 5 and 20 mg/L on the two last check-up of CRP Patient informed of the study and having signed the inform consent.
+
+ Exclusion criteria : Underage patient Subjects who are pregnant or planning to become pregnant during the study Patient with an infection influencing the Hb level Patient with an Iron deficiency showed with : Transferin saturation mu g/L, Hemo transfusion in the last two months Patient treated by HF, HDF, biofiltration Patient with infectious risks Subjects who participated in a clinical study involving dialyzers in the last two months Criteria of exit : Patient wish Medical decision Hemo transfusion Departure for another dialysis center Transplantation Death.
+
+ Influence of the Vitamine E Coated Dialyzer on Inflammation and Anemia@highlight
+
+Evaluation of the effect of a vitamin E coated high flux polysulfone dialyzer on the inflammatory state of patients' end stage renal disease and its clinical benefits in terms of anemia Objectives : To assess the benefits of a vitamin E coated polysulfone membrane on the micro-inflammatory state of chronic dialysis patients Prospective multicenter controlled and randomized study Number of patients : 120 patients (60 patients per group)

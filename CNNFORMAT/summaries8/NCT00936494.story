@@ -1,0 +1,12 @@
+(thirdQuint)Inferior Turbinate Reduction in Pediatric Population Failing Surgery for Sleep Disordered Breathing.
+
+ The question proposed by this study is one of treatment: To what extent does treatment of nasal obstruction from enlarged inferior turbinates with cold ablation inferior turbinate reduction in infants, children, and adolescents improve symptoms of obstructive sleep apnea, sleep related breathing disorder, snoring, disturbed sleeping, open mouth breathing, and upper airway resistance syndrome in patients that continue to have symptoms after tonsillectomy and adenoidectomy.
+
+ The trial seeks to provide evidence that the treatment of inferior turbinates in patients with continued symptoms of obstructive sleep apnea, sleep related breathing disorder, snoring, disturbed sleeping, open mouth breathing, and upper airway resistance syndrome after tonsillectomy and adenoidectomy will improve these symptoms and should be included in the treatment paradigm for treatment of sleep related breathing disorders in infants, children, and adolescents.
+
+.
+
+ Inferior Turbinate Reduction in Pediatric Population Failing Surgery for Sleep Disordered Breathing@highlight
+
+This study will examine whether treatment of inferior turbinates in patients with continued symptoms of obstructive sleep apnea, sleep related breathing disorder, snoring, disturbed sleeping, open mouth breathing, and upper airway resistance syndrome after tonsillectomy and adenoidectomy will improve these symptoms and should be included in the treatment paradigm for treatment of sleep related breathing disorders in infants, children, and adolescents.
+

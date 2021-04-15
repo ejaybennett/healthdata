@@ -1,0 +1,34 @@
+(fifthQuint)Evaluation of a Transrectal Scintigraphic Detector(ProxiScanTM) for Detection of Primary Prostate Cancer.
+
+ This is a feasibility, exploratory, and proof-of-concept study to evaluate rectal probe scintigraphy device (ProxiScanTM) to detect PSMA specific radiopharmaceutical agent (ProstaScint(R)) in patients with suspected primary prostate cancer.
+
+ ProxiScanTM is a small cadmium zinc telluride (CST)-based compact gamma camera the size of a trans-rectal ultrasound (TRUS) developed by Hybridyne Imaging Technologies, Inc.
+
+ Due to its inherent small size, this camera is capable of potentially imaging of prostate cancer specific radiopharmaceutical uptake distributed within the prostate gland located closely adjacent to the camera head.
+
+In this study the investigators will enroll patients with a clinical suspicion and high likelihood of prostate cancer.
+
+ A scintigraphic rectal probe (ProxiScanTM) will be used to detect ProstaScint(R) uptake in the prostate gland, in comparison to TRUS and pelvis planar and SPECT/CT.
+
+ The incidence of biopsy positive prostate cancer in patients with suspected disease clinically can range from 25% to 40%; therefore up to 12 patients will be enrolled on this study.
+
+ To explore the adjunctive benefit/feasibility of PSMA distribution in the normal prostate versus prostate cancer gland utilizing TRUS and CT/SPECT hybrid imaging, biopsy negative patients will be considered as normal controls.
+
+ Prostate cancer sextant biopsy histology results will be correlated with ProxiScanTM, TRUS, and pelvis planar and SPECT/CT.
+
+ Our hypothesis is that it will be safe and feasible to utilize a rectal probe scintigraphy (ProxiScanTM) to detect PSMA specific ProstaScint(R) uptake in primary prostate cancer.
+
+.
+
+ Evaluation of a Transrectal Scintigraphic Detector(ProxiScanTM) for Detection of Primary Prostate Cancer@highlight
+
+This is a feasibility, exploratory, and proof-of-concept study to evaluate rectal probe scintigraphy device (ProxiScanTM) to detect PSMA specific radiopharmaceutical agent (ProstaScint(R)) in patients with suspected primary prostate cancer.
+
+ ProxiScanTM is a small cadmium zinc telluride (CST)-based compact gamma camera the size of a trans-rectal ultrasound (TRUS) developed by Hybridyne Imaging Technologies, Inc.
+
+To explore the adjunctive benefit/feasibility of PSMA distribution in the normal prostate versus prostate cancer gland utilizing TRUS and CT/SPECT hybrid imaging, biopsy negative patients will be considered as normal controls.
+
+ Prostate cancer sextant biopsy histology results will be correlated with ProxiScanTM, TRUS, and pelvis planar and SPECT/CT.
+
+ Our hypothesis is that it will be safe and feasible to utilize a rectal probe scintigraphy (ProxiScanTM) to detect PSMA specific ProstaScint(R) uptake in primary prostate cancer.
+

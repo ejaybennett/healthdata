@@ -1,0 +1,20 @@
+(secondQuint)Optimal Fecal Microbiota Transplant Dosing for Mild to Moderate Ulcerative Colitis.
+
+ This is a prospective open-label, randomized trial for the use of Fecal Microbiota Transplantation (FMT) for the treatment of Ulcerative Colitis (UC), in combination with or without antibiotic pretreatment.
+
+ This trial involves 11 study visits at UCSF in San Francisco, CA.
+
+ The routes of administration will be via colonoscopy for all subjects with maintenance therapy administered orally (i.
+
+e.
+
+ using encapsulated FMT) for half of the subjects and per rectum by enema in the other half of the subjects.
+
+ Additionally, the utility of pretreatment antibiotics will be assessed.
+
+.
+
+ Optimal Fecal Microbiota Transplant Dosing for Mild to Moderate Ulcerative Colitis@highlight
+
+This is a prospective unblinded, randomized trial for the use of Fecal Microbiota Transplantation (FMT) for the treatment of Ulcerative Colitis (UC), in combination with or without antibiotic pretreatment.
+

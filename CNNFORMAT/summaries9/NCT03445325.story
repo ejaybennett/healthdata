@@ -1,0 +1,58 @@
+(fifthQuint)Pre/Post Evaluation of Living Green and Healthy for Teens (LiGHT).
+
+ Living Green, Healthy for Teens (LiGHT v2) is an engaging online, individualized, gamified lifestyle management program for youth focused on initiating long-term behaviour-change in youth and their families in order to help them shift from an unhealthy lifestyle toward better health habits in three areas: physical activity, nutrition and sedentary behaviour.
+
+ The program aims both to treat and prevent childhood obesity, as well as to mitigate increased risk for metabolic and non-metabolic complications associated with obesity in the short and long-term.
+
+ Because parents have been shown to be of primary importance in treating childhood obesity, LiGHT v2 will educate and engage parents as well as youth.
+
+ Parents will receive separate but complementary content, intended to guide them as they shop for and prepare food and make behavioural changes within their families.
+
+ The content for parents will be delivered using the same social software that facilitates peer-to-peer conversations with teen users (forums), but the channels will be gated, so teens and parents each have their own space.
+
+ LiGHT v2's social features will help parents strategize and empathize with other families facing similar challenges.
+
+ The program will be evaluated using three separate study groups.
+
+ This protocol describes the first of the three.
+
+ A sample of 1400 families (one parent and one child) recruited by an online web panel will be screened for eligibility (i.
+
+e.
+
+, children aged 13-17 and their parents).
+
+ Of these, it is expected that approximately 500 will meet our eligibility criteria and express an interest in enrolling in the study, and of these, about 50% will actually enroll in the study.
+
+ This evaluation will use a prospective design that integrates pre- and post-evaluations.
+
+ All families will be given access to LiGHT v2.
+
+1 to use from their home computer and prospectively followed for 4.
+
+5 months.
+
+ Parents will complete questionnaires at baseline and after 4.
+
+5 months, which assess behaviours, sociodemographics, mediators of behaviour change, and satisfaction with the app.
+
+ Teens will complete questionnaires at baseline, and after 1 and 4.
+
+5 months, which assess behaviours, satisfaction with the app, mediators of behaviour change, and knowledge for recommendations for healthy behaviours.
+
+ Parent/child usage will also be monitored using web-analytic tools in order to understand how users interact with LiGHT.
+
+.
+
+ Pre/Post Evaluation of Living Green and Healthy for Teens (LiGHT)@highlight
+
+This study is the first of three sub-studies aimed at evaluating the outcomes of Living Green, Healthy for Teens (LiGHT v2.
+
+1), an app for 13 to 17 year -olds and their families that is intended to help them shift from an unhealthy lifestyle toward better health habits in three areas: physical activity, nutrition and sedentary behaviours.
+
+ This first evaluation has the following aims to: 1) describe reach; 2) determine utilization/adherence to strategies implemented in the app and predictors of utilization/adherence; 3) assess change in knowledge and lifestyles behaviours associated with obesity as well as assess mediators of behaviour change.
+
+ As this is a formative evaluation, it will prospectively follow 500 families for 4.
+
+5 months.
+

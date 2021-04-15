@@ -1,0 +1,20 @@
+(firstQuint)A Study to Evaluate the Effectiveness and Safety of a Topical Ointment to Treat Subjects With Atopic Dermatitis.
+
+ Atopic dermatitis is a disease mainly characterized by pruritic eczema, and patients with the disease experience repeated exacerbations and remissions.
+
+ .
+
+ Therapeutic guidelines for the disease, currently being developed in many countries, all recognize AD as chronic eczema that is accompanied by the physiological dysfunction of the skin and in which inflammation is caused by various nonspecific stimuli or specific allergens.
+
+ OPA 15406 is a type-4 phosphodiesterase (PDE4) inhibitor.
+
+ PDE4 inhibitors are thought to be useful for allergic inflammatory diseases.
+
+ This is a Phase 2 dose ranging study to evaluate the efficacy of two concentrations of OPA 15406 ointment compared to vehicle, when administered topically twice daily in subjects with mild to moderate AD.
+
+.
+
+ A Study to Evaluate the Effectiveness and Safety of a Topical Ointment to Treat Subjects With Atopic Dermatitis@highlight
+
+The purpose of this study is to investigate the effectiveness and safety of 2 concentrations of OPA-15406 compared to vehicle in subjects with atopic dermatitis.
+

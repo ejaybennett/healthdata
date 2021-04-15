@@ -1,0 +1,24 @@
+(secondQuint)ST-2; a Non-invasive Fibrosis Marker for Chronic Hepatitis B.
+
+ ST-2 is an IL-1 receptor family member and exists in both a membrane-bound isoform and a soluble (sST2) isoform.
+
+ It has a functional ligand (Interleukin-33) and via ST-2/IL-33 inflammation and immunity is regulated.
+
+ Hepatic over-expression of IL-33 has been recently linked to liver fibrosis.
+
+ ST-2 exerts pro-inflammatory effects of IL-33.
+
+ We aimed to determine ability of ST2 to predict fibrosis in chronic hepatitis B.
+
+.
+
+ ST-2; a Non-invasive Fibrosis Marker for Chronic Hepatitis B@highlight
+
+IL-33 is a recently identified number of the IL-1 family.
+
+ Hepatic over-expression of IL-33 has been recently linked to liver fibrosis.
+
+ ST-2 exerts pro-inflammatory effects of IL-33.
+
+ We aimed to determine ability of ST2 to predict fibrosis in chronic hepatitis B.
+

@@ -1,0 +1,20 @@
+(firstQuint)An Adjunctive Family Intervention for Individual Posttraumatic Stress Disorder Treatment.
+
+ The investigators will enroll pairs of Veterans and one adult family member who lives with them.
+
+ Veterans will be beginning a course of PTSD-focused treatment at the Boston VA; Veterans' treatment will not be limited or changed by their participation in this study.
+
+ Family members will receive or not receive (depending on which Phase of the study they are recruited in) the BFI.
+
+ The BFI consists of 2 sessions in which the family member meets one-on-one with a clinician to discuss PTSD, PTSD treatment, and how families can be most helpful to patients in treatment.
+
+ Veterans and family members will also be interviewed about their opinions and experiences regarding family-inclusive treatment for PTSD.
+
+ Clinicians will be recruited and enrolled to obtain their information and feedback (via qualitative interviews), and to deliver the intervention in Phase II.
+
+.
+
+ An Adjunctive Family Intervention for Individual Posttraumatic Stress Disorder Treatment@highlight
+
+This study aims to test a brief family intervention (the BFI) to enhance individually-delivered PTSD treatment for Veterans.
+

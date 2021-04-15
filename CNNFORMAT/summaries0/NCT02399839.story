@@ -1,0 +1,12 @@
+(firstQuint)Global Lomitapide Pregnancy Exposure Registry.
+
+ To evaluate the outcomes of pregnancy in women treated with lomitapide at any time within 30 days prior to first day of Last Menstrual Period (LMP) or during pregnancy.
+
+ The outcomes of primary interest are major congenital anomalies.
+
+.
+
+ Global Lomitapide Pregnancy Exposure Registry@highlight
+
+To evaluate the outcomes of pregnancy in women treated with lomitapide.
+

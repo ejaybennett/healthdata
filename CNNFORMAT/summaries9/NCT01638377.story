@@ -1,0 +1,26 @@
+(thirdQuint)Pharmacotherapy for Alcohol Dependence in Convicted Drinking Drivers.
+
+ Many individuals with Alcohol Dependence do not receive treatment, despite effective treatments being available.
+
+ A significant healthcare challenge is to find ways to bring people who have alcohol dependence into treatment programs.
+
+ Drinking drivers are a group that has been shown to have high rates of alcohol dependence.
+
+ In Ontario, all convicted drinking drivers who want to obtain a drivers license must complete Ontario's remedial program for convicted drinking drivers called Back on Track (BOT).
+
+ In this program, those with more serious alcohol-related problems are assigned to a group treatment program.
+
+ While it is likely that many of the individual in this group are experiencing alcohol dependence, currently there is no formal linkage to any medical services for these problems.
+
+ In this study, the investigators will provide those in the BOT treatment group with information about a 24-week study assessing the effectiveness of naltrexone vs.
+
+ placebo.
+
+ This study will also assess the feasibility and level of interest among this population to obtain treatment for alcohol dependence.
+
+.
+
+ Pharmacotherapy for Alcohol Dependence in Convicted Drinking Drivers@highlight
+
+This pilot study will explore the ways to link Ontario's remedial system for convicted drinking drivers to medical intervention, assess the receptiveness of the Back on Track client population to effective medical interventions, and assess the feasibility of a full-scale trial of pharmacotherapy for convicted drinking drivers.
+

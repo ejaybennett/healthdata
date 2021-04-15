@@ -1,0 +1,20 @@
+(firstQuint)Tumor Registry of Lymphatic Neoplasia.
+
+ The TLN is a prospective, longitudinal, nation wide cohort study with the purpose to record information on the antineoplastic treatment of lymphatic neoplasms in Germany.
+
+ The registry will follow patients for up to five years.
+
+ It will identify common therapeutic sequences and changes in the treatment of the disease.
+
+ At inclusion, data in patient characteristics, comorbidities, tumor characteristics and previous treatments are collected.
+
+ During the course of observation data on all systemic treatments, radiotherapies, surgeries, and outcome are documented.
+
+ The impact of nutrition (LyNut) and physical activity (LyNut) on the course of the adjuvant disease will be examined in patients with indolent and aggressive Non-Hodgin Lymphoma, as well as long-term effects of systemic treatment (LyTox) and quality of life (LyLife) in patients with multiple myeloma.
+
+.
+
+ Tumor Registry of Lymphatic Neoplasia@highlight
+
+The purpose of this registry is to record information on therapy reality of malignant lymphatic systemic diseases by office-based haematologists in Germany.
+

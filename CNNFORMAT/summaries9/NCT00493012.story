@@ -1,0 +1,33 @@
+(thirdQuint)Vitamin D Effects in Overweight Patients.
+
+ Obese patients are known to have low levels of vitamin D metabolites.
+
+ There is some evidence that vitamin D and/or dietary calcium may influence energy metabolism and body weight.
+
+ We therefore perform a prospective controlled trial with 200 overweight (Body mass index 27-29.
+
+9 kg/m2) and obese subjects (Body mass index >= 30 kg/m2) who are on a telemedically guided weight loss program.
+
+ Subjects randomly receive a daily vitamin D supplement or a placebo for 1 year.
+
+ Participants have to send their body weight data to the study office weekly.
+
+ In addition, a nutritionist at the study office has to be contacted weekly to receive further support concerning the weight loss program.
+
+ Dietary records have to be completed monthly.
+
+ Clinical parameters and blood samples are collected at baseline, and after 6 and 12 months.
+
+ It is the aim of the study to investigate the vitamin D effects on weight loss and body composition.
+
+ In addition, possible vitamin D effects on clinical and selected biochemical parameters should be assessed.
+
+ These parameters include heart rate, blood pressure, inflammation markers, and parameters of lipid and glucose metablolism.
+
+.
+
+ Vitamin D Effects in Overweight Patients@highlight
+
+The purpose of the study is to investigate in overweight patients who are on a telemedically guided weight loss program the influence of a daily vitamin D supplement on - weight loss and body composition, - selected inflammation markers and biochemical parameters of lipid and glucose metabolism .
+
+ - selected clinical parameters such as blood pressure, heart rate

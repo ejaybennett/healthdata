@@ -1,0 +1,20 @@
+(thirdQuint)Population Pharmacokinetics of Prolonged Infusion Meropenem in Cystic Fibrosis (CF) Children.
+
+ This study will be conducted at 7 pediatric hospitals in the United States (Columbia University Medical Center, New York, New York; University of North Carolina, Chapel Hill, North Carolina; St.
+
+ Christopher's Hospital for Children, Philadelphia, Pennsylvania, Connecticut Children's Medical Center, Hartford, Connecticut, Riley Hospital for Children, Indianapolis, Indiana, Nationwide Hospital for Children, Columbus, Ohio, and Children's Medical Center, Dallas, Texas).
+
+ Cystic Fibrosis children (age 6-17 years) admitted to one of these enrolling sites with an acute exacerbation of his or her pulmonary infection who require antibiotic therapy with meropenem will be eligible.
+
+ Meropenem will be administered as a 3 hour prolonged infusion and blood concentrations will be measured to determine the population pharmacokinetics in 30 patients, the safety of prolonged infusion meropenem, and the practicality as measured be treatment burden using a questionaire.
+
+ The population pharmacokinetic model developed will be utilized to determine the optimal dose of meropenem to administer to children with Cystic Fibrosis, and define an exposure response relationship for the drug in this population.
+
+.
+
+ Population Pharmacokinetics of Prolonged Infusion Meropenem in Cystic Fibrosis (CF) Children@highlight
+
+This study will determine the concentrations of the antibiotic meropenem when administered as a 3 hour prolonged infusion in children with cystic fibrosis who are hospitalized with an acute pulmonary exacerbation.
+
+ Safety and practicality of administering meropenem as a 3 hour infusion will be measured.
+

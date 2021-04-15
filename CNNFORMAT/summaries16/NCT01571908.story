@@ -1,0 +1,57 @@
+(fifthQuint)Rapid Sequence Intubation With Magnesium-rocuronium Compared With Succinylcholine - A Randomised Clinical Study.
+
+ Rapid sequence intubation (RSI) is the preferred method of endotracheal intubation in the emergency setting.
+
+ The aim of RSI is to achieve rapid unconsciousness and complete neuromuscular blockade which facilitates endotracheal intubation.
+
+ RSI is of particular importance in unfastened patients who are at risk of regurgitation and subsequent aspiration of stomach contents into the lungs during induction of anaesthesia.
+
+ Still today, succinylcholine is the neuromuscular blocking agent of choice for RSI.
+
+ However, unfortunately in 60 at 80% the intubations conditions not are excellent and there are contraindications for the usage of succinylcholine and numerous side effects.
+
+ Thus there is a need for alternative techniques that allow for rapid, high-quality and safe intubation conditions.
+
+ Magnesium has an impact on neuromuscular transmission; it reduces the amount of acetylcholine that is released at the motor nerve terminal.
+
+ It has been shown that an IV infusion of magnesium sulphate prior to a standard intubation dose of rocuronium enhanced the speed of onset of the neuromuscular block compared with rocuronium alone by about 35% and there was much less variability in onset times.
+
+ This makes the combination magnesium-rocuronium a potentially interesting alternative to succinylcholine for RSI.
+
+ The investigators objective is to compare in surgical patients during a standardized RSI procedure intubation conditions with rocuronium 0.
+
+6 mg kg-1 after pre-treatment with intravenous MgSO4 60 mg kg-1 (experimental intervention) with succinylcholine 1 mg kg-1 (control intervention) and to quantify any minor or major adverse event.
+
+ The investigators primary hypothesis is that with rocuronium 0.
+
+6 mg kg-1, after pre-treatment with MgSO4 60 mg kg-1, the rate of excellent intubation conditions will be higher (80%) compared with succinylcholine 1 mg kg-1 (60%).
+
+ This is a two centre (Division of Anaesthesiology, Geneva University Hospitals and Division of Anaesthesiology, University Hospital of Lausanne), stratified (male, female), randomized, double blinded study including 280 patients.
+
+ The investigators will compare in surgical patients during a standardized RSI procedure intubation conditions with rocuronium 0.
+
+6 mg kg-1 after pre-treatment with intravenous MgSO4 60 mg kg-1 (experimental intervention) with succinylcholine 1 mg kg-1 (control intervention).
+
+ Intubation conditions will be evaluated by the intubating anaesthesiologist following predefined criteria.
+
+ The intubating anesthetist will not be present at study drug administration to guarantee blinding.
+
+ Only two intubating anaesthetists will be identified per participating centre.
+
+ Rapid sequence intubation is a cornerstone of daily anaesthetic practice and succinylcholine is still the most frequently used neuromuscular agent in this context.
+
+ In some patients, succinylcholine is contraindicated and therefore alternatives to this very fast reacting neuromuscular blocker are needed.
+
+ If the investigators show that the investigators proposed magnesium-rocuronium regimen provides better intubation conditions as succinylcholine, the investigators study is likely to have an important impact on daily clinical practice.
+
+.
+
+ Rapid Sequence Intubation With Magnesium-rocuronium Compared With Succinylcholine - A Randomised Clinical Study@highlight
+
+Magnesium accelerates the reaction of rocuronium, a neuromuscular blocker used for muscle relaxation to ease the intubation during anaesthesia.
+
+ Succinylcholine is a very fast reacting neuromuscular blocker.
+
+ It is often used in emergency procedures, when rapid intubation is necessary.
+
+ We want to now if a perfusion of magnesium before anaesthesia accelerates to such an extent the reaction of rocuronium that intubation conditions are comparable or even better than with succinylcholine alone (prior perfusion of saline=placebo)

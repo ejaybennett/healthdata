@@ -1,0 +1,36 @@
+(firstQuint)BEFORE Study, Efficacy of Refigura.
+
+ Core data from the BEFORE study: Sponsor: Heilpflanzenwohl AG Product: REFIGURA(R) Title: BEFORE study: Demonstrating the efficacy of REFIGURA(R) through a double-blind, three-arm, randomized, monocentric study Study duration: 8 weeks (56 days) Study location: MIT Gesundheit GmbH, Stechbahn 20-22, 47533 Kleve CRO: MIT Health GmbH, Stechbahn 20-22, 47533 Kleve Number of study participants: 165 (55 patients per treatment arm) Summary: REFIGURA(R) (manufactured by KITOZYME, Parc Industriel des Hauts-Sarts, Zone 2, Rue de Milmort, 680, BE-4040 Herstal, Belgium, Distribution: Heilpflanzenwohlkraft GmbH), is an approved medical device containing a combination of chitosan (a polyglucosamine ) and glucomannan.
+
+ Chitosan is a vegetable fiber that binds fats in the intestinal lumen.
+
+ Both substances are already approved and show few side effects.
+
+ They are not absorbed into the body, but work directly in the intestine.
+
+ The investigational medicinal products are used to treat obesity (weight loss) and to control weight.
+
+ The effect is based on a reduction in caloric intake, by increasing the feeling of satiety and at the same time the appetite is reduced.
+
+ As a result, the amount of food consumed is reduced and excessive food (cravings attacks) is prevented.
+
+ It also reduces the intake of dietary fats.
+
+ The study compares three treatment arms: 1.
+
+ placebo 2.
+
+ Verum (in the normal, approved dose) 3.
+
+ Verum (in the double dose) The patients are weighed, their body fat content is measured and the body size is measured.
+
+ All measurement methods are non-invasive.
+
+.
+
+ BEFORE Study, Efficacy of Refigura@highlight
+
+The BEFORE study ((B) EFficacy Of REfigura) is designed to demonstrate the efficacy of REFIGURA(R).
+
+ It is a double-blind, randomized, monocentric study.
+

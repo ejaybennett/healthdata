@@ -1,0 +1,54 @@
+(thirdQuint)Effectiveness of Two Stretching Techniques on Healthy Volunteers With Shortened Hamstrings.
+
+ It is a double-blinded randomized clinical trial where subjects are healthy volunteers from the city of Zaragoza older than 18 years.
+
+ All subjects will be injury free at the time of the study and must not have a history of knee or hip surgery.
+
+ They must be physically active, but without engaging in competition-level sports, and must have flexibility deficits, as measured in the AKE test position and SLK test position ( AKE; SLK).
+
+ There will be an NMEE Group (Neuromuscular Electrical Elongation), an PNF Group (Proprioceptive Neuromuscular Facilitation) and a Control Group (No Invervention).
+
+ Intervention: NMEE technique will be performed by stretching the muscle till resistance and applying a bipolar interferential current to produce an involuntary contraction of the muscle which will be maintained 3 seconds.
+
+ After that, the subject will contract the antagonist muscle (quadriceps) actively until he feels resistance again .
+
+ Then, intensity of the electrical current is increased again.
+
+ This cycle will be repeated 4 times.
+
+ PNF technique will be performed by stretching the muscle till resistance is felt.
+
+ Then the patient will have to make an isometric contraction of the muscle (against resistance) during 3 seconds.
+
+ After that, the subject will contract the antagonist muscle (quadriceps) actively until he feels resistance again.
+
+ This contract-stretch cycle will be repeated 4 times.
+
+ Control group: This group will not receive a training program.
+
+ In case of shortening, the assigned intervention will be performed until the values considered normal with a maximum of 8 stretching sessions (2 per week).
+
+ Otherwise, if there is no shortening, the intervention will end at that moment.
+
+ Assessment: To assess the effectiveness of these techniques several tests will be performed on the subjects.
+
+ For hamstrings extensibility: - Active-Knee-Extension Test (AKE) results will bring information of the knee extension range of motion.
+
+ - Straight-Leg-Raise Test (SLR) results will bring information of the hip flexion range of motion.
+
+ For quadriceps extensibility: - Goniometric measure of knee flexion.
+
+ - Distance from heel to gluteus using a tape measure.
+
+ Viscoelasticity properties of hamstrings and quadriceps muscles: - Myotonometric measurement using a myotonometer to obtain frequency, decrement (elasticity) and stiffness.
+
+ For neural assessment: - The Slump Test is a neural tension test used to detect altered neurodynamics or neural tissue sensitivity.
+
+.
+
+ Effectiveness of Two Stretching Techniques on Healthy Volunteers With Shortened Hamstrings@highlight
+
+The main objective of this study is to compare the effect and the duration of the Neuromuscular Electrical Elongation (NMEE ) technique versus the PNF technique and versus a control group, on the extensibility of the hamstrings muscles.
+
+ Hypothesis: NMEE of shortened hamstrings muscles in healthy subjects, compared with PNF and control group produces a significant increase in hamstrings extensibility.
+

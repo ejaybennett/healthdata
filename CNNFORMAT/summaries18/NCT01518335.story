@@ -1,0 +1,18 @@
+(firstQuint)Use of Platelet Rich Plasma Therapy for Acute Ankle Sprains in the Emergency Department.
+
+ The intention of this research project is to study a new treatment for severe ankle sprains.
+
+This new treatment is called Platelet Rich Plasma (PRP) therapy and involves injecting concentrated platelet's from a patient's own blood into the site of injury to aid healing.
+
+ Platelets, aside from their clotting capabilities also serve a role in re-vascularization of tissue as well as collagen repair.
+
+ PRP therapy has been used in sports medicine for treatment of chronic injuries but has yet to be proven effective in acute injury of a joint.
+
+ The investigators are comparing treatment and placebo groups based on a subjective patient questionnaire and pain score administered on the day of injury and 2-3 days and 8-10 days follow up.
+
+.
+
+ Use of Platelet Rich Plasma Therapy for Acute Ankle Sprains in the Emergency Department@highlight
+
+This research study hopes to determine whether or not platelet rich plasma therapy improves healing time of moderate to severe ankle sprain in comparison to standard of care therapy.
+

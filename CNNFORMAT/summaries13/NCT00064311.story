@@ -1,0 +1,32 @@
+(thirdQuint)Ravuconazole in Preventing Fungal Infections in Patients Undergoing Allogeneic Stem Cell Transplantation.
+
+ OBJECTIVES: - Determine the safety and tolerability of ravuconazole for the prevention of invasive fungal infections in patients undergoing non-myeloablative allogeneic hematopoietic stem cell transplantation.
+
+ - Determine the pharmacokinetics and efficacy of this drug, in terms of frequency of breakthrough fungal infections and requirement for empirical antifungal therapy, in these patients.
+
+ - Determine the effect of this drug on concurrently administered cyclosporine in these patients.
+
+ - Determine the pharmacokinetics of this drug with and without cyclosporine in these patients.
+
+ OUTLINE: This is an open-label, dose-escalation study.
+
+ Patients receive oral ravuconazole once daily beginning within 48 hours of the chemotherapy preparative regimen and before the initiation of cyclosporine.
+
+ Treatment continues until blood counts recover in the absence of unacceptable toxicity.
+
+ Cohorts of 8 patients receive escalating doses of ravuconazole until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 8 patients experience dose-limiting toxicity.
+
+ Patients are followed at 4 weeks.
+
+ PROJECTED ACCRUAL: A total of 24 patients will be accrued for this study.
+
+.
+
+ Ravuconazole in Preventing Fungal Infections in Patients Undergoing Allogeneic Stem Cell Transplantation@highlight
+
+RATIONALE: Antifungals such as ravuconazole may be effective in preventing fungal infections in patients undergoing chemotherapy and stem cell transplantation.
+
+ PURPOSE: Phase I/II trial to study the effectiveness of ravuconazole in preventing fungal infections in patients undergoing allogeneic stem cell transplantation.
+

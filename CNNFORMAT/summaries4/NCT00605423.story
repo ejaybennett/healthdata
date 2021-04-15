@@ -1,0 +1,22 @@
+(thirdQuint)The MAP Study: Fluocinolone Acetonide (FA)/Medidur (TM) for Age Related Macular Degeneration (AMD) Pilot.
+
+ Treatment of exudative age-related macular degeneration has been significantly improved by the advent of Lucentis cent ( which provides improved vision rather than simply stabilization) is common; however, monthly injections may be required to maintain this effect.
+
+ The use of the glucocorticoids such as triamcinolone acetonide as adjunct treatment for exudative age-related macular degeneration has been reported to enhance the efficacy of photodynamic therapy with Visudyne(R) (verteporphin for injection).
+
+ It is hypothesized that sustained release fluocinolone acetonide will allow maintenance of the improved vision with fewer Lucentis injections.
+
+ This study is a pilot phase 2b study to test this hypothesis.
+
+ The safety assessments will continue through 36 months.
+
+This study will compare the safety 2 doses of FA/Medidur in conjunction with Lucentis (as needed) in patients with neovascular AMD who have have been treated with Lucentis for at least 6 months and have reached a plateau.
+
+.
+
+ The MAP Study: Fluocinolone Acetonide (FA)/Medidur (TM) for Age Related Macular Degeneration (AMD) Pilot@highlight
+
+Treatment of exudative age-related macular degeneration has been significantly improved by the advent of Lucentis cent ( which provides improved vision rather than simply stabilization) is common; however, monthly injections may be required to maintain this effect.
+
+ It is hypothesized that sustained release fluocinolone acetonide will allow maintenance of the improved vision with fewer Lucentis injections.
+

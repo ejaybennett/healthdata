@@ -1,0 +1,18 @@
+(fifthQuint)Individualized Optimal Therapy of Antipsychotics.
+
+ Schizophrenia is a serious mental disease that threaten human health, the lifetime prevalence rate of about 1%, the current Chinese schizophrenia patients nearly 10 million people, antipsychotic drugs is the main method in the treatment of schizophrenia, but the efficacy and safety of individual differences, about 1/3 in drug treatment of patients with no adverse reaction, patients with different drug reactions (such as extrapyramidal symptom(EPS), metabolic syndrome) with different susceptibility.
+
+ The investigators aim to set up an objective and reliable biological indicator system that accurately predicts the response of antipsychotic drugs, and effective strategies to prevent metabolic syndrome caused by psychotropic drugs.
+
+ The aim of this project is to establish individualized evaluation system for different kinds of schizophrenia commonly used antipsychotic drugs, and to build an optimized treatment plan that accords with individualized clinical indications, and to focus on solving the metabolic syndrome caused by antipsychotics.
+
+ The research content closely guide, relying on the National Center of clinical medicine research and clinical alliance resources, many domain experts combined with basic research, clinical research and technology, establish and improve the schizophrenia clinical information database and biobank patients, by evaluating the related genetic gene, psychopathology, neuropsychology, brain physiology and biochemistry the image indexes, and found 6 kinds of commonly used antipsychotics (olanzapine, risperidone, aripiprazole, ziprasidone, amisulpride, haloperidol) treatment response biomarkers and biomarker selection can predict antipsychotic efficacy and adverse reactions of schizophrenia, establish individual clinical disease commonly used antipsychotic drug treatment to optimal treatment for the disease, and further testing, validation and evaluation of biomarkers in clinical independent samples In order to promote the development of individualized treatment of antipsychotic drugs and improve the level of treatment, the investigators set up an optimized treatment plan based on the psychopathology neuropsychological, image, genetic, physiological and biochemical models, which is suitable for individualized clinical indications.
+
+ At the same time the needle syndrome is a serious threat to the health of adverse reactions in patients with antipsychotic medication induced metabolic syndrome, comprehensive intervention therapy and lifestyle intervention to construct the combination strategy, focused on solving the problem of antipsychotic induced metabolic syndrome and its treatment due to poor compliance, the schizophrenia clinical treatment compliance 5% above.
+
+ Individualized Optimal Therapy of Antipsychotics@highlight
+
+The aim of this project is to establish and improve the Chinese schizophrenia clinical information database and biobank patients, by evaluating the related genetic gene, psychopathology, neuropsychology, brain physiology and biochemistry the image indexes, and found 6 kinds of commonly used antipsychotics (olanzapine, risperidone, aripiprazole, ziprasidone, amisulpride, haloperidol) treatment response biomarkers and biomarker selection which can predict antipsychotic efficacy and adverse reactions of schizophrenia, establish individual clinical disease commonly used antipsychotic drug treatment to optimal treatment for the disease, and further testing, validation and evaluation of biomarkers in clinical independent samples.
+
+ At the same time, the investigator focus on solving the problem of antipsychotic induced metabolic syndrome.
+

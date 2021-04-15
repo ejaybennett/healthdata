@@ -1,0 +1,40 @@
+(fifthQuint)Training Effects on Skeletal Muscle Fatty Acid Metabolism.
+
+ We are interested in how skeletal muscle processes fat and its effect on insulin resistance.
+
+ This is an important question since insulin resistance predates and predicts type 2 diabetes.
+
+ We know that if pharmaceutical grade lipid is infused into people, they develop insulin resistance.
+
+ Thus, we would like to infuse pharmaceutical grade lipid into trained subjects, believing that trained subjects will develop less insulin resistance, less decline in muscle energy function, and less accumulation of fat metabolites than untrained subjects.
+
+ For comparing the effects of the pharmaceutical grade fat infusion, we will also have a group of trained and untrained subjects given a control (glycerol) infusion.
+
+ Glycerol is basically the same as pharmaceutical grade lipid infusion without the lipid component.
+
+ Three visits will be required.
+
+ The first visit will involve measurement of fitness.
+
+ A second visit will involve measurement of insulin resistance.
+
+ The third visit will involve an inpatient stay, with a six hour infusion either the lipid or glycerol.
+
+ Three muscle biopsies (before, during and after) will be take in conjunction with the infusion.
+
+.
+
+ Training Effects on Skeletal Muscle Fatty Acid Metabolism@highlight
+
+We are interested in how skeletal muscle processes fat and how this may affect insulin resistance.
+
+ This is an important question since insulin resistance predates and predicts type 2 diabetes.
+
+ We know that if pharmaceutical grade fat is infused into people, they develop insulin resistance.
+
+ Likewise, we would like to infuse pharmaceutical grade fat into trained subjects, believing that trained subjects will have less insulin resistance, less decline in muscle energy function, and less accumulation of fat metabolites than untrained subjects.
+
+ For comparing the effects of the pharmaceutical grade fat infusion, we will also have a group of trained and untrained subjects given a control (glycerol) infusion.
+
+ Glycerol is basically the same as pharmaceutical grade fat infusion without the fat component.
+

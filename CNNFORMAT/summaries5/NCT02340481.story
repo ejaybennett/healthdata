@@ -1,0 +1,18 @@
+(secondQuint)Efficacy and Safety Study of Loperamide Hydrochloride/Simethicone Chewable Tablet in Treatment of Acute Diarrhea With Abdominal Discomfort and Flatulence.
+
+ This is a randomized (the study drug is assigned by chance), double-blind (neither physician nor participant knows the treatment that the participant receives), parallel-group (each group of participants will be treated at the same time), multi-center (when more than one hospital or medical school team work on a medical research study) study.
+
+ All eligible participants will be randomly assigned to receive either a combination of loperamide hydrochloride and simethicone or loperamide hydrochloride.
+
+ The study includes Screening Visit (from -24 to 0 hours), Baseline Visit (at 0 hour) and Concluding Visit (within 48 to 96 hours following the start of the trial).
+
+ The timing of each bowel movement, stool characteristics and the degree and duration of abdominal discomfort caused by gastrointestinal gas accumulation will be recorded for each participant for 48 hours after the first trial drug administration.
+
+ Participants' safety will be monitored throughout the study.
+
+.
+
+ Efficacy and Safety Study of Loperamide Hydrochloride/Simethicone Chewable Tablet in Treatment of Acute Diarrhea With Abdominal Discomfort and Flatulence@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of combined loperamide hydrochloride and simethicone compared to loperamide hydrochloride monotherapy in treating acute diarrhea associated with abdominal discomfort caused by gastrointestinal gas accumulation.
+

@@ -1,0 +1,64 @@
+(thirdQuint)Combination Chemotherapy With or Without Colony-stimulating Factors in Treating Women With Breast Cancer.
+
+ OBJECTIVES: Primary - Compare the disease-free survival of premenopausal or early postmenopausal women with previously resected node positive or high-risk node negative stage I-IIIB breast cancer treated with cyclophosphamide, epirubicin, and fluorouracil vs cyclophosphamide, epirubicin, filgrastim (G-CSF), and epoetin alfa followed by paclitaxel vs cyclophosphamide and doxorubicin followed by paclitaxel.
+
+ Secondary - Compare the overall survival of patients treated with these regimens.
+
+ - Compare the rate of toxic effects of these regimens in this patient population.
+
+ - Compare the quality of life of patients treated with these regimens.
+
+ OUTLINE: This is a randomized, multicenter study.
+
+ Patients are stratified according to number of positive nodes (0 vs 1-3 vs 4-10 vs more than 10), type of prior surgery (total vs partial mastectomy), and estrogen receptor status (positive vs negative).
+
+ Patients are randomized to one of three treatment arms.
+
+ - Arm I: Patients receive epirubicin IV and fluorouracil IV on days 1 and 8 and oral cyclophosphamide on days 1-14.
+
+ Treatment repeats every 28 days for 6 courses.
+
+ - Arm II: Patients receive epirubicin IV and cyclophosphamide IV on day 1 and filgrastim (G-CSF) subcutaneously (SC) on days 2-13.
+
+ Patients with a hemoglobin < 13.
+
+0 g/dL also receive epoetin alfa SC once weekly beginning within 1 week after the start of therapy and continuing as needed.
+
+ Treatment repeats every 14 days for 6 courses.
+
+ Beginning 21 days after completion of epirubicin and cyclophosphamide, patients receive paclitaxel IV over 3 hours on day 1 and G-CSF and epoetin alfa as above.
+
+ Treatment repeats every 21 days for 4 courses.
+
+ - Arm III: Patients receive doxorubicin IV over 15 minutes and cyclophosphamide IV over 15 minutes on day 1.
+
+ Treatment repeats every 21 days for 4 courses.
+
+ Beginning 21 days after completion of doxorubicin and cyclophosphamide, patients receive paclitaxel as in arm II.
+
+ Treatment in all arms continues in the absence of disease progression or unacceptable toxicity.
+
+ All receptor positive patients receive oral tamoxifen or anastrozole (if tamoxifen is contraindicated) for 5 years after completion of chemotherapy.
+
+ Quality of life is assessed at baseline, day 1 of cycles 2, 3 4 and 6 (arm I), days 1 of cycles 3 and and day 1 of cycles 1 and 4 of paclitaxel (arm II), day 1 of cycles 2 and 3, day 1 of cycles 1 and 4 of paclitaxel, (arm III), 9 months, 12 months, and then annually thereafter until 5 years Patients are followed at 9 months, 12 months, every 4 months for 1 year, every 6 months for 3 years, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 2,100 patients (700 per treatment arm) will be accrued for this study within 4 years.
+
+.
+
+ Combination Chemotherapy With or Without Colony-stimulating Factors in Treating Women With Breast Cancer@highlight
+
+RATIONALE: 1.
+
+ .
+
+ To compare the effects on breast cancer of three different combinations of drugs which are commonly used to treat this disease.
+
+ 2.
+
+ .
+
+ It is not yet known which treatment regimen is most effective for breast cancer.
+
+ PURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy given with or without epoetin alfa in treating women who have undergone surgery for stage I, stage II, or stage III breast cancer.
+

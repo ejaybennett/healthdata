@@ -1,0 +1,30 @@
+(thirdQuint)Flexitouch Lymphedema System in Treating Stage II Lymphedema in Patients With Breast Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To quantitatively assess, by circumferential measurements and CT imaging techniques, the ability of the Flexitouch Lymphedema System to maintain reductions in limb volume after completion of the reductive phase of complex decongestive therapy in a population of patients with upper limb lymphedema secondary to the effects of breast cancer treatment.
+
+ SECONDARY OBJECTIVES: I.
+
+ To determine the drainage territory of the lymphatics of the affected arm and chest using CT and to determine whether these patterns are changed by treatment with the Flexitouch Lymphedema System/daytime garments versus Flexitouch Lymphedema System/daytime garments/nighttime bandaging versus standard self-care.
+
+ OUTLINE: Patients are randomized to 1 of 3 treatment arms.
+
+ Arm I: Patients undergo complex decongestive therapy comprising daily compression garment (sleeve and glove) use, daily manual lymphatic drainage (self-administered), and nighttime bandaging with low stretch Comprilan bandages.
+
+ Arm II: Patients undergo daily compression with garments (sleeve and glove), nighttime bandaging with low stretch Comprilan bandages, and daily Flexitouch treatment over 1 hour every evening.
+
+ Arm III: Patients undergo daily compression with garments (sleeve and glove) and daily Flexitouch treatment over 1 hour every evening.
+
+ In all arms, treatment continues for 3 months.
+
+.
+
+ Flexitouch Lymphedema System in Treating Stage II Lymphedema in Patients With Breast Cancer@highlight
+
+RATIONALE: The Flexitouch lymphedema system may lessen lymphedema caused by treatment for breast cancer.
+
+ It is not yet known whether the Flexitouch lymphedema system is more effective than complex decongestive therapy in treating lymphedema.
+
+ PURPOSE: This randomized clinical trial is studying the Flexitouch lymphedema system in treating stage II lymphedema in patients with breast cancer.
+

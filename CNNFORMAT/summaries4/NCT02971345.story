@@ -1,0 +1,20 @@
+(secondQuint)Endovascular Brachytherapy Combined With Stent Placement and TACE for HCC With Main Portal Vein Tumor Thrombus.
+
+ It is an open random prospective phase III clinical trial conducted by Principal Investigator Professor Zhi-ping Yan.
+
+Investigators in twenty-seven hospitals in China participate in.
+
+Patients with unresectable HCC with main portal vein tumor thrombus are enrolled.
+
+ The investigators propose to recruitment 253 patients who are randomly assigned into the combined group (treated with endovascular brachytherapy combined with stent placement and TACE) and the control group (treated with TACE alone).
+
+There are 127 patients in combined group and 126 patients in control group.
+
+ The criteria of inclusion and exclusion, and the methods of lab tests, imaging modality and treatment procedures are the same.
+
+.
+
+ Endovascular Brachytherapy Combined With Stent Placement and TACE for HCC With Main Portal Vein Tumor Thrombus@highlight
+
+It is a prospective and multi-center clinical research in China to compare the efficacy, safety and related impact factors between TACE alone and endovascular brachytherapy combined with stent placement and TACE for HCC with main portal vein tumor thrombus.
+

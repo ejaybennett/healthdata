@@ -1,0 +1,38 @@
+(thirdQuint)Evaluation Study of Fear of Cancer Recurrence: Detection, Measure and Risk Factors in Lymphoma Survivorship.
+
+ Indeed, in a recent work published by our team, several complication types in cancer survivorship has been identified: physical but also psychosocial disorders, which can lead to quality of life deterioration.
+
+ The FCR in lymphoma pathology isn't yet documented and only a few studies concern the risk factors determination (age, sex, disease stage, treatment type, level of education, co-morbidity, isolation (familial status), financial resources, character trait in others cancers.
+
+ Moreover, the FCR can be amplified by familial (young children) or professional responsibilities (self-employed profession).
+
+ The consequences of FCR are poorly evaluated and are, however, potentially manifold: psychologic disorders, psychotropic consummation, delay of return to work and quality of life deterioration.
+
+ So, FCR is an innovating research project, which studies the FCR incidence in the beginning of lymphoma After-Cancer (AC) M0 and also the associated risk factors we can class in three types: 1.
+
+ "Patient" factors (age, sex, habitat: rural/urban, familial status, level of education, financial resources, co-morbidity), 2.
+
+ "disease" factors: histological type, disease stage, risk factor, 3.
+
+ "treatment" factors : conventional versus intensified.
+
+ Moreover, we will study the consequences of FCR M0 upon quality of life and if there is a need of psychotherapy from the very beginning of after-cancer phase, for high intensity FCR.
+
+ This present study is based on an interventional (with an analysis of human blood sample) prospective cohort, treated with anthracycline-containing regimens.
+
+ This is a monocentric study which takes place in the Institut University du Cancer of Toulouse.
+
+ The evaluation uses the scale of Fear of Cancer Recurrence Inventory (FCRI).
+
+ The inclusion period lasts 2 years and patients will be followed during 2 years with a measure at M0, M12 and M24.
+
+.
+
+ Evaluation Study of Fear of Cancer Recurrence: Detection, Measure and Risk Factors in Lymphoma Survivorship@highlight
+
+Cancer survivorship has become an important aspect of oncology research due to the risk of physical and psychosocial complications.
+
+ These latter concerns 50 % of patients.
+
+ So, the aim of this research is to measure frequency and intensity of one of these issues: the fear of cancer recurrence (FCR) in the lymphoma survivorship beginning, at M0.
+

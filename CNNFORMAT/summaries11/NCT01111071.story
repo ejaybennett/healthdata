@@ -1,0 +1,32 @@
+(thirdQuint)Variation Between Hospitals in Short-term Mortality After Acute Coronary Syndromes: A CALIBER Study.
+
+ Several studies have looked at between-hospital variation in mortality following myocardial infarction but have lacked patient-level data.
+
+ Those with individual-level data have been limited by: - use of in-hospital mortality as an outcome measure, which can be affected by length of stay, - restriction to patients aged 65 and over, or otherwise selected patients, and - patient-level explanatory factors lacking clinical detail, particularly medications given in hospital.
+
+ MINAP patient-level data allow the investigation of hospital variation in mortality (in-hospital and 30-day) in a group of unselected patients, taking into account clinical details such as medication use in hospital, as well as features of the hospitals providing care.
+
+ The proposed study will establish the extent of variation between hospitals in England and Wales, whether this varies by ACS diagnosis, whether the variation has reduced over time and finally which patient-level or hospital-level factors explain any variation found.
+
+ A statistical analytic protocol for this study, dated 15.
+
+4.
+
+2010, is available on request.
+
+ This study is part of the CALIBER (Cardiovascular disease research using linked bespoke studies and electronic records) programme funded over 5 years from the NIHR and Wellcome Trust.
+
+ The central theme of the CALIBER research is linkage of the Myocardial Ischaemia National Audit Project (MINAP) with primary care (GPRD) and other resources.
+
+ The overarching aim of CALIBER is to better understand the aetiology and prognosis of specific coronary phenotypes across a range of causal domains, particularly where electronic records provide a contribution beyond traditional studies.
+
+ CALIBER has received both Ethics approval (ref 09/H0810/16) and ECC approval (ref ECC 2-06(b)/2009 CALIBER dataset).
+
+.
+
+ Variation Between Hospitals in Short-term Mortality After Acute Coronary Syndromes: A CALIBER Study@highlight
+
+We seek to investigate whether hospitals in England and Wales vary in their rate of mortality following admission for heart attack or unstable angina, the extent of such variation, whether discharge diagnosis affects the extent of variation, and whether such variation has changed over time.
+
+ Furthermore, we will investigate what individual- or hospital-level factors explain variation in mortality between hospitals.
+

@@ -1,0 +1,28 @@
+(secondQuint)Medical Nutrition Therapy or Standard Care in Treating Patients With Lung Cancer, Pancreatic Cancer, or Stage III or Stage IV Prostate Cancer.
+
+ In Part II of the study, patients are stratified according to tumor type (pancreatic vs lung vs prostate).
+
+ Patients are then randomized to 1 of 2 arms.
+
+ - Arm I (Medical nutrition therapy): intervention with a registered dietitian or nutrition professional.
+
+ MNT is a cyclical process which includes nutrition assessment, intervention, follow-up, and reassessment.
+
+ Patients will receive a total of three (3) visits with the dietitian over a six-week period with follow-up during weeks 2-3 and weeks 6-9 based on their treatment schedule.
+
+ - Arm II (standard care): Standard nutritional care includes the National Cancer Institute's booklet "Eating Hints for cancer patients: before, during & after treatment".
+
+ In both arms, patients' weight, fat free mass, and Patient Generated Subjective Global Assessment Score (PG-SGA) score will be assessed before, during, and after the intervention.
+
+ The PG-SGA includes a patient report of symptoms and a healthcare professional assessment of medical, metabolic, and physical parameters.
+
+.
+
+ Medical Nutrition Therapy or Standard Care in Treating Patients With Lung Cancer, Pancreatic Cancer, or Stage III or Stage IV Prostate Cancer@highlight
+
+This is a two-part study.
+
+ Part I is an observational study.
+
+ Part II is a randomized clinical trial to see how well medical nutrition therapy works compared with standard care in treating patients with lung cancer, pancreatic cancer, or stage III or stage IV prostate cancer.
+

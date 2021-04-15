@@ -1,0 +1,18 @@
+(fifthQuint)The Role of KL-6 in the Clinical Diagnosis of ILD.
+
+ As a multi-center, double-blind clinical study, the trial is divided into two parts.
+
+ Part 1: The purpose of this part is to evaluate the role of KL-6 as a biomarker in the clinical diagnosis of interstitial lung disease (ILD) by detecting serum KL-6 levels among patients with ILD, and comparing them to the clinical diagnostic criteria and other respiratory diseases, including pulmonary tuberculosis, pneumonia, bronchiectasis, chronic obstructive pulmonary disease and healthy control group.
+
+ Part 2: The purpose of this part is to study the value of KL-6 levels in terms of ILD treatment effect evaluation through the detection of serum KL-6 levels before treatment and 30-90 days after treatment.
+
+ Treatment includes anti fibrosis, anti-inflammatory and other conventional therapies.
+
+.
+
+ The Role of KL-6 in the Clinical Diagnosis of ILD@highlight
+
+The purpose of the study is to evaluate the significance of KL-6 as a biomarker in the clinical diagnosis of interstitial lung disease (ILD) by detecting serum KL-6 levels among patients with ILD, and comparing them to the clinical diagnostic criteria and other respiratory diseases.
+
+ In addition, the study discusses the value of KL-6 levels in terms of ILD treatment effect evaluation through the detection of serum KL-6 levels before treatment and after treatment.
+

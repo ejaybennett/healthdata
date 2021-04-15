@@ -1,0 +1,20 @@
+(firstQuint)A Study of Sativex for Pain Relief of Peripheral Neuropathic Pain, Associated With Allodynia.
+
+ This was a 15 week (one week baseline and fourteen weeks treatment period), multicentre, double blind, randomised, placebo controlled, parallel group study to evaluate the efficacy of Sativex(R) in subjects with PNP, associated with allodynia.
+
+ Subjects were screened to determine eligibility and completed a seven-day baseline period.
+
+ Subjects then returned to the centre for assessment, randomisation and dose introduction.
+
+ Visits occurred at the end of weeks two, six, ten and at the end of the study (treatment week 14) or earlier if they withdrew.
+
+ A follow up visit occurred 28 days after completion or withdrawal.
+
+ Subjects in this study were given the opportunity to be enrolled in an open label extension study.
+
+.
+
+ A Study of Sativex for Pain Relief of Peripheral Neuropathic Pain, Associated With Allodynia@highlight
+
+The purpose of this study is to evaluate the efficacy of Sativex(R) compared with placebo in relieving peripheral neuropathic pain associated with allodynia.
+

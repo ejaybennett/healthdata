@@ -1,0 +1,12 @@
+(firstQuint)A Chart Review to Evaluate the Safety and Efficacy of MeRT on Subjects With ASD.
+
+ This is a retrospective chart review of 200 consecutive charts of subjects ages 2-20 years old seen at the Brain Treatment Center between 2010 and 2015.
+
+ The review is designed to evaluate the safety and efficacy of Magnetic Electroencephalogram/Electrocardiogram(EEG/ECG)-Guided Resonance Therapy (MeRT) on subjects with Autism Spectrum Disorder (ASD).
+
+.
+
+ A Chart Review to Evaluate the Safety and Efficacy of MeRT on Subjects With ASD@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of Magnetic EEG/ECG-Guided Resonance Therapy (MeRT) on subjects with Autism Spectrum Disorder (ASD).
+

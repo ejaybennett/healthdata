@@ -1,0 +1,18 @@
+(firstQuint)Role of Oral Chlorhexidine Gel in Prevention of Ventilator Associated Pneumonia.
+
+ Ventilator associated pneumonia as the name suggests refers to pneumonia occurring in the setting of mechanical ventilation.
+
+ It accounts of 86% of nosocomial pneumonia and in contrast to other more common nosocomial infections is accompanied by a mortality rate of upto 76% in certain settings.
+
+ A number of preventive methods have been studied to reduce the rate of VAP but a consensus is lacking with regards to appropriate preventive strategies.
+
+ Studies in adults have shown a beneficial effect of oral mucosal application of chlorhexidine but similar studies in pediatric population are not available.
+
+ This research project aims at addressing the gap.
+
+.
+
+ Role of Oral Chlorhexidine Gel in Prevention of Ventilator Associated Pneumonia@highlight
+
+The purpose of this study is to determine if oral mucosal application of chlorhexidine gel will prevent the development of ventilator associated pneumonia in children.
+

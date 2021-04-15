@@ -1,0 +1,24 @@
+(firstQuint)Tai Chi and Physical Therapy for Knee Osteoarthritis.
+
+ Osteoarthritis (OA) causes pain and long-term disability, and the public health impact will increase as the population ages.
+
+ In addition to inconsistent effectiveness, current treatments such as nonsteroidal anti-inflammatory drugs, knee replacement, and physical therapy may be expensive, result in serious adverse effects, reduce physical function, and fail to improve mental well-being.
+
+ Finding effective treatments to maintain function and quality of life in OA patients is one of the national priorities identified this year by the Institute of Medicine.
+
+ We propose to conduct the first comparative effectiveness and cost-effectiveness trial of Tai Chi vs.
+
+ physical therapy (PT) in a large symptomatic Knee OA population.
+
+ A single-blind, randomized, controlled trial of Tai Chi vs.
+
+ Physical Therapy will be conducted in 180 patients who meet the American College of Rheumatology criteria for Knee OA.
+
+ Patients will be randomized to 12 weeks of treatment with Tai Chi (2x/week) or Standard Physical Therapy (2x/week for 6 weeks, followed by 6 weeks of rigorous supervised home exercise) with 24 and 52 week follow-ups.
+
+.
+
+ Tai Chi and Physical Therapy for Knee Osteoarthritis@highlight
+
+We will conduct a large randomized controlled trial comparing the effectiveness and cost-effectiveness of Tai Chi mind-body exercise and standard-of-care Physical Therapy for Knee Osteoarthritis.
+

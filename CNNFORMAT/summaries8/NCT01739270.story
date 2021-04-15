@@ -1,0 +1,18 @@
+(firstQuint)Dexamethasone Added to Levobupivacaine Improves Postoperative Analgesia.
+
+ Operations of upper extremities are often performed in regional anesthesia blocks.
+
+ Single-injection blocks are effective, but time limited.
+
+ Adding 4mg of dexamethasone to 0.
+
+5% levobupivacaine will significantly prolong duration of brachial plexus anesthesia and analgesia for fracture operations of upper extremity.
+
+ This effect will result in less opioid use postoperatively.
+
+.
+
+ Dexamethasone Added to Levobupivacaine Improves Postoperative Analgesia@highlight
+
+Adding dexamethasone to local anesthetic will significantly prolong duration of brachial plexus anesthesia and analgesia.
+

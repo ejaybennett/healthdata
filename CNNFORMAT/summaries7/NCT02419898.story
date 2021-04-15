@@ -1,0 +1,54 @@
+(fifthQuint)Oxfordshire Women and Their Children's Health.
+
+ The aim of this study is to recruit 300 women.
+
+ The investigators anticipate that a subset of recruits will become pregnant during the pilot study.
+
+ This is a feasibility study with two phases: - Phase 1: A detailed characterisation of nulliparous women who have an address in Oxfordshire or work in Oxfordshire - Phase 2: Detailed assessment of events during and immediately after a first viable pregnancy.
+
+ During the Phase 1 visit: - Participation is explained by a research nurse/midwife, any questions are answered and women, who agree, sign the consent form.
+
+ - A questionnaire covering medical and family history, socioeconomic information, behavioural factors and psychological measures will be completed.
+
+ - Baseline anthropometry - height, weight, hip/ waist ratio, USS measurement of fat (thigh and abdomen), bioimpedence.
+
+ - Cardiovascular - pulse and BP (peripheral / central), arterial stiffness, echocardiogram, carotid imaging and endothelial function (endo-check) tests are completed.
+
+ - Fasting venous blood sample (maximum 40 mls) including whole blood for maternal DNA.
+
+ - Urine sample - Salivette Once a participant has become pregnant she is eligible to enter phase 2 of the study.
+
+ Phase 2 involves 6 further visits at 7, 11-13, 18-20, 28, 34 weeks gestation and 3 months post-delivery.
+
+ During these visits repeated measurements of the above investigations will be carried out.
+
+ In addition, there will be a fetal ultrasound at 7 and 28 weeks and questionnaires at 7, 28 and 3 months post-delivery.
+
+ An acceptability questionnaire will also be given to participants following completion of the study.
+
+ The end of the feasibility study will be the date of the final phase 2 visit of the last participant becoming pregnant during the feasibility study.
+
+ By collecting the above data the investigators anticipate recording and reporting longitudinal data in relation to the following: cent Incidence of obstetric complications The incidence of pre-eclampsia, gestational diabetes, pregnancy induced hypertension, antenatal and postnatal depression and preterm birth.
+
+ cent Longitudinal variation in cardiovascular parameters Changes in longitudinal measures of blood pressure, carotid intima media thickness, pulse wave velocity, cardiac structure and function and endothelial function from pre-conception until 34 weeks gestation.
+
+ cent Longitudinal changes in socioeconomic factors By use of a questionnaire at pre-conception, 7 weeks gestation and 28 weeks gestation we will record employment and relationship status.
+
+ cent Longitudinal changes in behavioural factors By use of a questionnaire at pre-conception, 7 weeks gestation and 28 weeks gestation the investigators will record diet, weight control and perception, exercise, smoking, alcohol use and drug use.
+
+ cent Longitudinal changes in psychological factors By use of a questionnaire at pre-conception, 7 weeks gestation and 28 weeks gestation the investigators will record levels of anxiety, depression and quality of life and perceived health status.
+
+ cent Longitudinal changes in the health status of participant and their family By use of a questionnaire at pre-conception the investigators will record the participants' medical and family history, reproductive and sexual history and pain perception.
+
+ At 7 weeks gestation and 28 weeks gestation the questionnaire will enquire about any changes or additions to the participants' medical and family history as well as reproductive and sexual health and pain perception.
+
+.
+
+ Oxfordshire Women and Their Children's Health@highlight
+
+The aim of this feasibility study is to test recruitment of participants into Phase 1 of the study and then the re-recruitment and retention of participants in Phase 2 of the study.
+
+ The investigators will also be assessing the acceptability of recruitment strategy and data collection to participants.
+
+ The effect of pre-pregnancy factors (biophysical, genetic, socioeconomic, behavioural and psychological) on obstetric, cardiovascular, socioeconomic, behavioural and psychological outcomes will all be examined.
+

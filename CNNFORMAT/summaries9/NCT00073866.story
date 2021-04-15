@@ -1,0 +1,44 @@
+(fifthQuint)Combination Chemotherapy and Celecoxib in Treating Patients With Advanced Non-Small Cell Lung Cancer.
+
+ OBJECTIVES: - Determine the recommended phase II dose of docetaxel and irinotecan in combination with celecoxib in patients with advanced non-small cell lung cancer.
+
+ - Determine the toxic effects of this regimen in these patients.
+
+ - Determine the response rate of patients treated with this regimen.
+
+ - Determine the progression-free and overall survival of patients treated with this regimen.
+
+ - Determine the pharmacokinetics of this regimen in these patients.
+
+ - Correlate angiogenesis markers (intratumoral microvessel density and vascular endothelial growth factor [VEGF] expression and serum VEGF) and cyclooxygenase-2 expression with response and survival in patients treated with this regimen.
+
+ - Correlate UGT1A1 genotype and CYP3A4 activity with the toxic effects of this regimen in these patients.
+
+ OUTLINE: This is a dose-escalation study of docetaxel and irinotecan.
+
+ - Phase I: Patients receive docetaxel IV over 60 minutes and irinotecan IV over 30 minutes on days 1 and 8.
+
+ Patients also receive oral celecoxib twice daily beginning on day 2.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity Cohorts of 3-6 patients receive escalating doses of docetaxel and irinotecan until the recommended phase II dose is determined.
+
+ The recommended phase II dose is defined as the highest dose at which 0 of 3 or 1 of 6 patients experience dose-limiting toxicity.
+
+ - Phase II: Patients receive treatment as in phase I at the recommended phase II dose.
+
+ Patients are followed every 3 months until disease progression.
+
+ PROJECTED ACCRUAL: A total of 3-70 patients (3-36 for phase I and 16-34 for phase II) will be accrued for this study.
+
+.
+
+ Combination Chemotherapy and Celecoxib in Treating Patients With Advanced Non-Small Cell Lung Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Celecoxib may stop the growth of tumor cells by stopping blood flow to the tumor.
+
+ Combining celecoxib with combination chemotherapy may kill more tumor cells.
+
+ PURPOSE: This phase I/II trial is studying the side effects and best dose of irinotecan and docetaxel when given together with celecoxib and to see how well they work in treating patients with advanced non-small cell lung cancer.
+

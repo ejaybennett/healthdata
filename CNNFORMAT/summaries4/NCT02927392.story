@@ -1,0 +1,70 @@
+(fifthQuint)Brown Adipose Tissue Activity in Pre- and Postmenopausal Women.
+
+ Participants will be asked to perform studies to measure resting metabolic rate and activity of brown adipose tissue or brown fat.
+
+ Brown fat is different from regular "white fat" in that it produces heat and burns calories.
+
+ The investigators will measure how active brown fat is at normal room temperature and after participants have been exposed to cold.
+
+ The study will last 5-6 hours.
+
+ It will consist of measurements made in warm temperatures and then after a period of cold exposure.
+
+ For the cold exposure part of the study, participants will be asked to wear a cooling suit for 3 hrs.
+
+ Skin temperature is normally about 90 Fahrenheit.
+
+ The cooling suit will adjust the water temperature until your skin temperature is about 82 Fahrenheit.
+
+ The suit will cover the entire body except for the face, hands, and feet.
+
+ Participants may feel cold while wearing the suit and you may shiver some, but based on past studies, any shivering should be minor.
+
+ Before and after the cooling suit is turned on, body scans will be performed using a procedure called positron emission tomography (PET).
+
+ These scans do not use radiation.
+
+ Before the PET scans, the investigators will infuse radioactive tracer into an arm.
+
+ These tracers have a low dose of radiation and will show us where the brown fat is and how active it is.
+
+ One PET scan will be performed at room temperature, and the second scan will be performed after the cooling suit has been worn for 3 hours.
+
+ Two additional scans using computed tomography (CT) will be performed at end of the study.
+
+ CT scans are like an x-ray, and use radiation.
+
+ The radiation dose in the CT scan is much higher than the tracers.
+
+ When the CT scans are combined with the PET scans, we can separate brown fat from white fat.
+
+ 15 pre-menopausal women will be asked to volunteer for a follow up study.
+
+ For 5 months, pre-menopausal women in this study will receive monthly injections that contain a study drug (leuprolide) that reduces estrogen to postmenopausal levels.
+
+ This drug is approved by the FDA to reduce estrogen for the treatment of uterine fibroids and endometriosis, but is not approved for use in healthy women.
+
+ In this study, the drug is being used to decrease hormones to determine if this reduces brown fat activity.
+
+ 6 months after the first injection, these women will be asked to repeat the PET/CT studies.
+
+.
+
+ Brown Adipose Tissue Activity in Pre- and Postmenopausal Women@highlight
+
+The physiological relevance of brown adipose tissue (BAT) in humans is largely unknown.
+
+ The investigators have shown that suppressing ovarian function in premenopausal women reduces resting energy expenditure (REE), and this is prevented by adding back estradiol (E2).
+
+ The investigators preliminary data suggest that this may be due, in part, to reduced brown adipose tissue (BAT) activity.
+
+ The overarching hypothesis is that BAT activity in humans is modulated by E2.
+
+ To determine if natural declines in endogenous E2 contribute to changes in BAT activity, we will compare BAT activity in pre-and post-menopausal women.
+
+ The investigators will also explore whether suppression of ovarian hormones in pre-menopausal women impairs BAT activity.
+
+ BAT activity will be quantified using dynamic positron emission topography/computed tomography (PET/CT) imaging combined with 11C-acetate tracers.
+
+ We will assess the thermogenic response of BAT by measuring cold-induced changes in REE, shivering, and skin and core temperature.
+

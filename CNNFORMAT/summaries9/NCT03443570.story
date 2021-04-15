@@ -1,0 +1,18 @@
+(secondQuint)Rituximab Combining Bortezomib Versus Rituximab in Management of ITP.
+
+ The investigators anticipate to undertaking a parallel group, multicentre, randomised controlled trial of 100 ITP adult patients from 3 medical centers in China.
+
+ One part of the participants are randomly selected to receive rituximab (given with a fixed dose of 500 mg administered as an intravenous infusion every two weeks, for 2 times totally) combining with bortezomib (given subcutaneous injection at a fixed dose of 2.
+
+0 mg weekly, for 4 times totally), the others are selected to receive rituximab alone (given with a fixed dose of 500 mg administered as an intravenous infusion every two weeks, for 2 times totally).
+
+ Platelet count, bleeding and other symptoms were evaluated before and after treatment, adverse events are also recorded throughout the study in order to report the efficacy and safety of the combination therapy compared to rituximab alone therapy for the treatment of adults with ITP.
+
+.
+
+ Rituximab Combining Bortezomib Versus Rituximab in Management of ITP@highlight
+
+The project was undertaking by Qilu Hospital of Shandong University and other 2 well-known hospitals in China.
+
+ In order to report the efficacy and safety of rituximab combining with bortezomib for the treatment of adults with immune thrombocytopenia (ITP), compared to rituximab alone .
+

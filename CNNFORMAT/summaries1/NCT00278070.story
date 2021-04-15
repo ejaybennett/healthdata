@@ -1,0 +1,18 @@
+(secondQuint)Metronomic Oral Vinorelbine in Patients With Metastatic Tumors.
+
+ The purpose of this study is to define the biologically optimal dose of vinorelbine when administered at a metronomic dosing schema.
+
+ [Metronomic chemotherapy refers to the close, regular administration of minimally toxic doses of cytotoxic drugs, with minimal or no drug-free breaks, over prolonged periods].
+
+ Patients with recurrent or metastatic solid tumors are randomly assigned one of three different doses of oral vinorelbine (30 or 40 or 50 mg).
+
+ Treatment is administered three times a week (Monday, Wednesday and Friday) continuously until disease progression or unacceptable toxicity or to a maximum of 24 months.
+
+.
+
+ Metronomic Oral Vinorelbine in Patients With Metastatic Tumors@highlight
+
+Patients with recurrent or metastatic solid tumors receive oral vinorelbine at one of three different doses (30 or 40 or 50 mg).
+
+ Vinorelbine will be administered orally at a metronomic schedule three times a week: on Monday, Wednesday and Friday.
+

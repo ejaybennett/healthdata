@@ -1,0 +1,16 @@
+(secondQuint)Evaluation of Safety and Efficacy of Intravenous Sulbactam-ETX2514 in the Treatment of Hospitalized Adults With Complicated Urinary Tract Infections.
+
+ This study is a double-blind, randomized, placebo-controlled study to evaluate the safety and efficacy of IV ETX2514SUL in patients with cUTIs who are otherwise relatively healthy.
+
+ Patients with Acute Pyelonephritis may also be enrolled.
+
+ Approximately 80 patients will be randomized to receive either 1 g ETX2514/1 g sulbactam IV or matching placebo every 6 hours (q6h).
+
+ All patients will receive background therapy with 500 mg IV imipenem/cilastatin q6h.
+
+.
+
+ Evaluation of Safety and Efficacy of Intravenous Sulbactam-ETX2514 in the Treatment of Hospitalized Adults With Complicated Urinary Tract Infections@highlight
+
+This study is a double-blind, randomized, placebo-controlled study to evaluate the safety and efficacy of IV ETX2514SUL in patients with complicated urinary tract infections (cUTIs) who are otherwise relatively healthy.
+

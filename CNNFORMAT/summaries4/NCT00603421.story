@@ -1,0 +1,18 @@
+(firstQuint)Effectiveness of a 24 Hour Phone Line on the Rate of Suicide Attempts in Borderline Patients.
+
+ Borderline personality disorder is very frequent among psychiatric populations, and chronic suicidality is a major problem in clinical practice with borderline patients.
+
+ In a lot of countries, suicide prevention centers are available, but most of these centers are not supervised by professionals of mental health, and none is specifically oriented to the borderline population.
+
+ The main goal of this study is to assess the effectiveness of a 24 hour crisis phone line on the rate of suicide attempts in a clinical population of borderline patients (the effectiveness of this phone line access on the rate of self-injurious behaviours will also be studied).
+
+ In this multicentric controlled trial, 600 borderline patients (men or women, in or out-patients, between 18 and 40 years-old) are randomized in two arms : - one with treatment as usual - one with treatment as usual, PLUS one year of access to a 24 hour crisis phone line (with a team of psychiatrists specialized in borderline personality disorder).
+
+ All patients are assessed with standardized instruments (interviewers are blind to the patient's status), at entry (T1) and one year later (T2).
+
+.
+
+ Effectiveness of a 24 Hour Phone Line on the Rate of Suicide Attempts in Borderline Patients@highlight
+
+This randomized multicentric clinical trial assesses the effectiveness of 24 hour phone line on the rate of suicide attempts and self-injurious behaviors in borderline patients.
+

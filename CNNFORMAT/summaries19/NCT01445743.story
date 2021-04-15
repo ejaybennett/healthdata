@@ -1,0 +1,36 @@
+(fifthQuint)Immunogenicity and Safety of an Acellular DPT Vaccine During Pregnancy.
+
+ Type of Study: Clinical, randomized, double-blind, parallel control study.
+
+ Study Subjects: Pregnant women of 19-38years of age, gestational age of 12-24 weeks, low risk of obstetric complications (according to the Obstetric Risk Assessment Form), normal anatomic ultrasound performed in the second quarter of pregnancy and residence in Guadalupe, and Juarez cities in Nuevo Leon State.
+
+ The experimental group will receive acellular Tdap vaccine and the control group will receive a placebo consisting of saline (0.
+
+9% Sodium Chloride) solution, randomly assigned, which will be administered by the same route (intramuscular) and at the same dose (0.
+
+5 ml) that the vaccine by trained personnel.
+
+ For both groups, 6 blood samples will be taken.
+
+ Women: Before and at least 4 weeks after the vaccine or placebo were administered, at hospital admission for delivery.
+
+ Infant: collected at delivery (cord), 2, 4 and 6 months of age.
+
+ Immunogenicity will be compared in both groups by measuring the increase of three of the following antigen-specific antibodies: Pertussis toxin (PT), pertactin (PRN),and fimbriae 2 FIM 2).
+
+ Safety Assessment: Each pregnant will be observed at 30 minutes, 24 and 48 hours and one month after the application of the vaccine for side effects.
+
+.
+
+ Immunogenicity and Safety of an Acellular DPT Vaccine During Pregnancy@highlight
+
+That is a double-blind randomized trial with parallel control to demonstrate the safety and immunogenicity of acellular Tdap vaccine in pregnant mexican women.
+
+ The general objective is to determine the safety and immunogenicity of acellular Tdap vaccine.
+
+ The experimental group will receive acellular Tdap vaccine and the control group will receive a placebo consisting of saline 0.
+
+9% Sodium Chloride solution, randomly assigned, which will be administered by the same route (intramuscular) and at the same dose (0.
+
+5 ml) that the vaccine.
+

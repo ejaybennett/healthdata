@@ -1,0 +1,24 @@
+(fifthQuint)Telerehabilitation Upper Extremity for Neurological Disorders.
+
+ The objective of this pilot study was to assess the feasibility of using a therapeutic gaming system (REHAB@HOME), based on Kinect, to augment upper extremity neurorehabilitation services.
+
+ A secondary objective was to provide preliminary evidence of clinical efficacy of the approach in increasing arm activity and health related quality of life of persons post stroke or with multiple sclerosis (MS).
+
+ A pilot single-blind randomized controlled trial was carried out in an inpatient and ambulatory care at a rehabilitation center.
+
+ Twenty persons with multiple sclerosis (n=16) or chronic poststroke (n=4) receiving rehabilitation at the center, able to flex shoulder and elbow at least 45 degrees, participated in the study.
+
+ An intervention group received Serious Games-based upper extremity therapy for a total of 12 sessions (4-5 sessions, lasting 40 minutes, per week) and the control played the same amount of time with commercial exergames of the Wii.
+
+ Both groups received their usual rehabilitation services as well as game playing.
+
+.
+
+ Telerehabilitation Upper Extremity for Neurological Disorders@highlight
+
+The aims of the present study were to: - Investigate the feasibility of using a therapeutic gaming system (REHAB@HOME), based on Kinect, to augment upper extremity neurorehabilitation services.
+
+ - Provide preliminary evidence of clinical efficacy of the approach in increasing arm activity and health related quality of life of persons post stroke or with MS.
+
+ Main results suggest that the serious games approach was positively received in terms of user experience and motivation to use, with the participants showing also improvements in functional abilities of the treated arm.
+

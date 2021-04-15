@@ -1,0 +1,16 @@
+(secondQuint)Impact of Tight Glycaemic Control in Acute Myocardial Infarction.
+
+ We will randomise patients with acute myocardial infarction and blood glucose levels (BGLs) >=10mmol/L within 24 hours of pain onset, to either tight glucose control (aiming BGLs 4.
+
+5 - 7mmol/L) with an insulin infusion (for 24 hours) followed by subcutaneous insulin or standard control (BGL 6 - 12mmol/L) without the use of an insulin infusion.
+
+ Serial myocardial contrast echocardiography will measure changes in myocardial perfusion and function from baseline to 3 months between each group.
+
+ We will also measure changes in inflammatory and endothelial markers over this time to see whether tight glucose control improves these surrogate endpoints.
+
+.
+
+ Impact of Tight Glycaemic Control in Acute Myocardial Infarction@highlight
+
+To determine whether tight glycaemic control with insulin improves myocardial function and myocardial perfusion (measured by myocardial contrast echocardiography) and novel vascular risk factors in patients with acute myocardial infarction and hyperglycaemia.
+

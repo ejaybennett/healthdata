@@ -1,0 +1,23 @@
+(secondQuint)Fecal Microbiota Transplant National Registry.
+
+ This registry will prospectively enroll 4,000 patients who undergo FMT at 75 sites throughout North America.
+
+ Information on FMT methodology employed (e.
+
+g.
+
+, screening of donor and recipient, preparation, FMT delivery) will be collected from each site.
+
+ The indication for FMT as well as baseline information on recipient will also be collected.
+
+ Following FMT, patients will be followed at regular intervals up to 10 years post FMT.
+
+ This will include follow-up information from the patient's healthcare provider at 1 month, 6 months, 1 year, and 2 years after FMT as well as direct communication with patients at least annually up to 10 years after FMT.
+
+ Follow-up information collected will be designed to assess potential short-term and long-term safety and effectiveness.
+
+.
+
+ Fecal Microbiota Transplant National Registry@highlight
+
+A national data registry of patients receiving fecal microbiota transplantation (FMT) or other gut-related-microbiota products designed to prospectively assess short and long-term safety and effectiveness

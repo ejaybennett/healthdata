@@ -1,0 +1,16 @@
+(firstQuint)MRI Scanning of People With MR Safe Orthopedic Implants That Are Made of Metal.
+
+ The technology comprising Magnetic Resonance (MR) imaging systems and accessories is under continuous development in order to improve the quality of images, speed of acquisition, and usability of MR devices applied to image subjects with metallic orthopedic implants.
+
+ Collection of in vivo human data throughout the product development and maintenance lifecycle plays an important role in enabling the technology to be investigated, optimized, and validated.
+
+ This is a pre-market investigation involving commercially available devices, investigational devices, and commercial devices modified with investigational components.
+
+ The Study will be conducted for three years, over which time a number of endpoints will be collected for various devices under development.
+
+.
+
+ MRI Scanning of People With MR Safe Orthopedic Implants That Are Made of Metal@highlight
+
+The purpose of the study is to improve image quality, increase speed of scanning and to see how well certain products test by scanning people who have an orthopedic hip or knee metallic implant.
+

@@ -1,0 +1,34 @@
+(fifthQuint)Effects of Mother Position in Skin-to-skin Contact Newborn on Oxygen Saturation Levels.
+
+.
+
+ The early skin to skin contact between mother and child in the first two hours postpartum is essential for bonding and breastfeeding.
+
+ Coinciding with the widespread application of this procedure in hospitals have been described, in different countries, cases of children who have suffered episodes of apparent life threatening events (ALTEs) or early sudden deaths during the same procedure.
+
+ The cause of these events is unclarified, it is unknown whether the position of the mother during the first two hours of a child's life affects their stability.
+
+ The investigators's hypothesis is that the frequency of episodes of oxygen saturation less than 91% in the first 2 hours of life of the newborn is reduced by one third in children whose mothers are incorporated at 45 above the horizontal plane of the bed compared with children whose mothers are incorporated to 15.
+
+ This is a multicenter, randomized and controlled study in 10 Spanish hospitals with blind evaluation.
+
+ 5866 participants will be enrolled in this study (a total of 1275 children are required in each arm of the study).
+
+ Mother/child (defined as a dyad) will be randomized in two groups: Group A: head-of-bed elevated 15.
+
+ Group B: head-of-bed elevated 45.
+
+.
+
+ Effects of Mother Position in Skin-to-skin Contact Newborn on Oxygen Saturation Levels.
+
+@highlight
+
+The purpose of this study is to determine if the position of the mother in the first two hours after delivery, while she is in skin to skin contact with your child, influences the oxygen saturation and/or heart rate of the newborn.
+
+ In this way it could provide some useful information for the prevention of seemingly lethal episodes or sudden death of the child when, following current recommendations is skin to skin contact in the first hours of life.
+
+ These episodes are communicating in all developed countries and have caused great concern and interest in the scientific community.
+
+ So far we only have information from case series.
+

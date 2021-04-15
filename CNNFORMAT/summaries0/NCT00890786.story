@@ -1,0 +1,14 @@
+(firstQuint)A Study of Bevacizumab Therapy in Patients With Newly Diagnosed High-Grade Gliomas and Diffuse Intrinsic Pontine Gliomas.
+
+ Novel therapies are needed to improve the outcome of these children.
+
+ Recent studies have demonstrated very promising results of treatment with bevacizumab/irinotecan in patients with recurrent high grade gliomas.
+
+ Based on these promising results, and the tolerability of the irinotecan and bevacizumab in children with recurrent CNS malignancies both anecdotally and in a study conducted by the Pediatric Brain Tumor Consortium, we have designed a novel study incorporating concurrent radiation therapy with bevacizumab temozolomide followed by bevacizumab, irinotecan temozolomide in patients with newly diagnosed high-grade gliomas and diffuse intrinsic pontine gliomas.
+
+.
+
+ A Study of Bevacizumab Therapy in Patients With Newly Diagnosed High-Grade Gliomas and Diffuse Intrinsic Pontine Gliomas@highlight
+
+The outcome for children with high-grade gliomas and diffuse intrinsic brainstem gliomas remains poor despite the use of multi-modal therapy with surgery, radiation therapy and chemotherapy.
+

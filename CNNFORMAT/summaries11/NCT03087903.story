@@ -1,0 +1,16 @@
+(firstQuint)A Study of Grape Seed Extract in Asymptomatic Non-Metastatic Prostate Cancer Patients With Rising PSA.
+
+ Patients will take 150 mg of GSE product by mouth twice daily in the form of 75 mg capsule of Leucoselect Phytosome preparation; total oral dosage is 300 mg GSE per day for one year.
+
+ Patients will be evaluated every 6 weeks for 3 months, then every 3 months thereafter for up to one year.
+
+ PSA measurements will be obtained at these scheduled visits and patients must not have a doubling of their PSA (compared to baseline) by 3 months in order to continue on study.
+
+ Patients who meet criteria to continue on study will be treated until disease progression or for one year (whichever comes first).
+
+.
+
+ A Study of Grape Seed Extract in Asymptomatic Non-Metastatic Prostate Cancer Patients With Rising PSA@highlight
+
+Patients will take 150 mg of GSE product by mouth twice daily and will be evaluated every 6 weeks for 3 months, then every 3 months thereafter for up to one year.
+

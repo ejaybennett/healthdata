@@ -1,0 +1,34 @@
+(thirdQuint)An Safety and Efficacy Study of Abiraterone Acetate in Participants With Advanced Prostate Cancer Who Failed Androgen Deprivation and Docetaxel-Based Chemotherapy.
+
+ This is an open-label (all people know the identity of the intervention), single arm, multicenter (when more than one hospital or medical school team work on a medical research study) study to evaluate the anti-tumor activities and safety of abiraterone acetate in participants with cancer who have failed taxane (docetaxel)-based chemotherapy.
+
+ Abiraterone acetate 1000 milligram (mg) tablet or capsule will be administered orally (by mouth), once daily after an overnight fast until disease progression, lack of disease response after six 28-day cycles of treatment, or when unacceptable toxicity is encountered.
+
+ Participants will be treated for up to 12 cycles.
+
+ All participants will receive a concurrent low-dose glucocorticoid (such as prednisone 5 mg tablet twice daily/prednisolone 0.
+
+5 mg tablet once daily).
+
+ Treatment will be continued in responding participants until death, or disease progression, or end of the study (which is Week 148).
+
+ Efficacy will primarily be assessed through prostate specific antigen response according to Prostate Specific Antigen Working Group (PSAWG) criteria.
+
+ Participants' safety will be monitored throughout the study.
+
+ Participants who have completed 12 cycles of abiraterone acetate treatment, and continue to receive clinical benefit from such treatment, will be eligible to enter the extension study.
+
+ Participants who enter the extension study will continue taking abiraterone acetate at the dose they were receiving at the end of the main study together with low-dose glucocorticoid.
+
+ Efficacy and safety will be monitored throughout the extension study.
+
+ Study treatment will end when the patient dies, is lost to follow-up, withdraws informed consent, experiences sustained side-effects, has disease progression, or the sponsor discontinues the extension study.
+
+ After the end of study visit is completed for the extension study, participants will be followed every 12 weeks for survival for up to 3 years following entry into the extension study.
+
+.
+
+ An Safety and Efficacy Study of Abiraterone Acetate in Participants With Advanced Prostate Cancer Who Failed Androgen Deprivation and Docetaxel-Based Chemotherapy@highlight
+
+The purpose of this study is to assess the anti-tumor activities and safety of abiraterone acetate in participants with prostate cancer (a disease in which cells in the prostate gland [a gland in the male reproductive system found below the bladder and in front of the rectum] become abnormal and start to grow uncontrollably, forming tumors) who have failed taxane (docetaxel)-based chemotherapy.
+

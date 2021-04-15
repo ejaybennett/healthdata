@@ -1,0 +1,40 @@
+(thirdQuint)Efficacy Study of FK-506 and Cyclosporine in Vernal Keratoconjunctivits (VKC).
+
+ Background: Vernal keratoconjunctivitis (VKC) is a serious, sight-threatening ocular disease, occurring mainly in children.
+
+ Prolonged use of ophthalmic corticosteroids is usually required in severe cases which could lead to serious complications such as glaucoma and cataract.
+
+ Cyclosporine and tacrolimus are among newer treatments for VKC.
+
+ Objective: To compare the efficacy of 0.
+
+1% tacrolimus (FK-506) ophthalmic ointment with 2% cyclosporine eye drops in the treatment of VKC.
+
+ Methods: Twenty-four patients with VKC were recruited.
+
+ After a 2 week-washout period, they were randomized into 2 groups in a double-blinded, parallel fashion.
+
+ The first group received 0.
+
+1% FK-506 eye ointment with placebo eye drops and the second group received 2% cyclosporine eye drops with placebo ointment for 8 weeks.
+
+ Thereafter, all patients received an open-treatment with 0.
+
+1% FK-506 eye ointment for another 4 weeks.
+
+ Subjective ocular symptoms and side effects were scored by patients at the entry, and at the end of the 1st, 4th, 8th and 12th weeks.
+
+ Objective ocular signs were evaluated by an ophthalmologist (PK) at all follow up visits.
+
+.
+
+ Efficacy Study of FK-506 and Cyclosporine in Vernal Keratoconjunctivits (VKC)@highlight
+
+The study was a double-blind, parallel study to compare efficacy of 0.
+
+1% tacrolimus ophthalmic ointment vs 2% cyclosporine eye drops in children with vernal keratoconjunctivitis.
+
+ The duration of the blinded period was 8 weeks followed with 4 weeks of open-period of tacrolimus ointment.
+
+ The hypothesis was that tacrolimus was as effective as cyclosporine for the treatment of this condition.
+

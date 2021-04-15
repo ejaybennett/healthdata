@@ -1,0 +1,24 @@
+(firstQuint)Falls Prevention in Osteoporosis.
+
+ Falling is a major health problem in the elderly causing physical and psychosocial problems.
+
+ People with osteoporosis are at higher risk for fractures due to falling, because of decreased bone strength.
+
+ The 'Nijmegen Falls Prevention Program" (NFPP) (Weerdesteyn et al, 2006) has been shown to reduce fall incidence rates by 46% in healthy community-dwelling elderly.
+
+ This program was adapted in order to meet the specific demands and constraints of people with osteoporosis.
+
+ The contents of the program are an obstacle course, walking exercises, the practice of fall techniques, adjustment of gait abnormalities, weight bearing exercises and educational sessions.
+
+ The effectiveness of the program will be evaluated in a randomized clinical trial.
+
+ Primary outcome measure is fall incidence.
+
+ Additionally, laboratory assessments of gait and obstacle avoidance will be conducted in conjunction with questionnaires about balance confidence and activity level.
+
+.
+
+ Falls Prevention in Osteoporosis@highlight
+
+The purpose of this study is to determine wether a falls prevention program can reduce fall incidence in people with osteoporosis.
+

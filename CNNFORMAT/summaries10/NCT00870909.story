@@ -1,0 +1,22 @@
+(firstQuint)Transcranial Direct Current Stimulation (tDCS) and Hallucinations in Schizophrenia.
+
+ The project will investigate the use of a novel technique, transcranial direct current stimulation (tDCS) in the treatment of patients with schizophrenia.
+
+ tDCS permit the application of an extremely weak continuous electrical current to the brain through an anode and a cathode applied on the scalp.
+
+ Anodal stimulation appears to increase brain activity whereas cathodal stimulation has the opposite effect.
+
+ Using anodal & cathodal tDCS the investigators aimed to treat auditory hallucinations, a symptoms of schizophrenia.
+
+ The investigators plan to apply tDCS such that it can simultaneously increased activity in the frontal brain areas and reduce activity over temporoparietal cortex, 2 areas involved in the physiopathology of the disease.
+
+ Real active stimulation will be compare to a sham condition in 60 patients (30 in each group).
+
+ 30 patients will be included in a French center (Hospital le Vinatier, sponsor of the study) and 30 in Tunisia (laboratory "vulnerability to psychosis" (Pr Gaha) a Monastir).
+
+.
+
+ Transcranial Direct Current Stimulation (tDCS) and Hallucinations in Schizophrenia@highlight
+
+The purpose of this study is to determine whether trans Direct Current Stimulation (tDCS) is effective in the treatment of auditory hallucinations in schizophrenia.
+

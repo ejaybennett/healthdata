@@ -1,0 +1,12 @@
+(firstQuint)Tiemann Mounted Urodynamic Catheter Technique for Difficult Bladder Catheterization.
+
+ The urodynamic catheter is mounted on a 12F Coude tip Tiemann catheter, which then carries the tip of the urodynamic catheter beyond the obstruction site into the bladder.
+
+ The Tiemann catheter-mounted urodynamic catheter technique can serve as a suitable option to insert a urodynamic catheter into the bladder in all male patients in whom it fails due to kinking.
+
+.
+
+ Tiemann Mounted Urodynamic Catheter Technique for Difficult Bladder Catheterization@highlight
+
+A report of a technique for insertion a soft urodynamic catheter into the bladder, when urethral obstruction causes the catheter to bend and fold over itself at the resistance site.
+

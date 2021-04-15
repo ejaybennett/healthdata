@@ -1,0 +1,14 @@
+(secondQuint)Study of Multiple Myeloma Patients Relapsing or Progressing After Autologous Transplantation on Total Therapy 2.
+
+ A new drug (bortezomib [VelcadeTM PS-341]) has been shown in recent studies to be effective in subjects with advanced multiple myeloma.
+
+ There is also research that shows this drug may be even more effective when used in combination with other drugs that have been used to treat myeloma for many years (melphalan, thalidomide, and dexamethasone).
+
+ This study is being done to find out if the combination of VelcadeTM with melphalan and dexamethasone (VMD) will be as effective, or even more effective as it is in combination with thalidomide and dexamethasone (VTD).
+
+.
+
+ Study of Multiple Myeloma Patients Relapsing or Progressing After Autologous Transplantation on Total Therapy 2@highlight
+
+This study is being done to find out if the combination of VelcadeTM with melphalan and dexamethasone (VMD) will be as effective, or even more effective as it is in combination with thalidomide and dexamethasone (VTD).
+

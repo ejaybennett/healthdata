@@ -1,0 +1,12 @@
+(firstQuint)Acyclovir Therapy for Genital Herpes Ulcers in HIV Negative African Women.
+
+ This is a two-part study designed to measure the Area Under the Curve (AUC) from a single dose of acyclovir 400mg in 60 African HIV-negative heterosexual women who have a history of genital ulcer disease (GUD), are HSV-2 seropositive and HIV-1 seronegative.
+
+ The study will also examine the time to healing of genital lesion and duration of HSV shedding from GUD among 90 HIV negative African women who have a history of GUD and are Herpes Simplex Virus (HSV)-2 seropositive and HIV-1 seronegative randomized in a 2:1 ratio to receive episodic acyclovir or matching placebo.
+
+.
+
+ Acyclovir Therapy for Genital Herpes Ulcers in HIV Negative African Women@highlight
+
+This is a prospective study to evaluate the pharmacokinetics, clinical and virologic response to acyclovir episodic therapy for genital herpes ulcers in HIV negative African women.
+

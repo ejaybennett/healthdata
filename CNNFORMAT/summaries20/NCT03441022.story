@@ -1,0 +1,16 @@
+(firstQuint)Continuous Data Collection and Analysis for Stroke Prevention Using a Wearable Sensor.
+
+ The purpose of this study is to determine whether a wristband that detects your pulse can detect your heart rate and rhythm similar to electrocardiograms (ECG).
+
+ These wristbands detect your pulse based on a technique called "photoplethysmography," (PPG).
+
+ PPG is a common method in which an individual's pulse is detected based on a light signature interpreted by the wristband.
+
+ Most commercially available heart rate monitors use PPG to determine your heart rate, but the accuracy is variable.
+
+.
+
+ Continuous Data Collection and Analysis for Stroke Prevention Using a Wearable Sensor@highlight
+
+The purpose of this study is to determine whether a wristband that detects your pulse can detect your heart rate and rhythm similar to electrocardiograms (ECG).
+

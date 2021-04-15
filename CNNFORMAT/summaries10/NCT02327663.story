@@ -1,0 +1,18 @@
+(secondQuint)Emtricitabine for Naive Chinese Chronic Hepatitis B Patients.
+
+ Generic emtricitabine(FTC) has been approved for treatment of naive chronic hepatitis B(CHB) patients in China.
+
+ Yet data are limited for this agent.
+
+ The investigators design this trial to test the effect of FTC in Chinese CHB which including naive HBeAg positive and Negative CHB patients.
+
+ Response guided therapy strategy is adopted for patients who can not achieve HBV DNA negativity at week 24 FTC treatment, which means FTC and adefovir are combined for these patients.
+
+.
+
+ Emtricitabine for Naive Chinese Chronic Hepatitis B Patients@highlight
+
+This study evaluates generic emtricitabine(FTC) in Chinese naive chronic hepatitis B patients.
+
+ Patients were divided into 2 groups: HBeAg positive Chronic hepatitis B(CHB)group and HBeAg negative Chronic hepatitis B(CHB)group.
+

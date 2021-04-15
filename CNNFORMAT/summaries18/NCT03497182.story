@@ -1,0 +1,16 @@
+(firstQuint)Sepsis, Severe Sepsis and Septic Shock Detection by Breath Analysis.
+
+ Breath samples will be collected from patients suspected of sepsis that meet the criteria in the hospital's Sepsis Patient Management Protocol for blood lactate point of care testing.
+
+ The breath samples will be collected from the patient by the Respiratory Therapist (RT) at the time of blood sample collection for the blood lactate test.
+
+ The breath samples will be analyzed via gas chromatography-surface acoustic wave spectroscopy for detection of a pattern of volatile organic compounds (VOCs).
+
+ Multivariate analysis will be performed on breath sample data to determine feasibility of associating a unique VOC pattern with septic/severe septic/septic shock patients.
+
+.
+
+ Sepsis, Severe Sepsis and Septic Shock Detection by Breath Analysis@highlight
+
+Breath samples will be collected from patients suspected of sepsis/severe sepsis or septic shock according to hospital sepsis screening criteria in the Emergency Department.
+

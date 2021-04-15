@@ -1,0 +1,22 @@
+(secondQuint)A Pilot Study Investigating the Clinical Use of Tissue Engineered Vascular Grafts in Congenital Heart Surgery.
+
+ This investigation is a prospective, nonrandomized phase 1 clinical trial determining the safety of the use of tissue engineered vascular grafts as conduits for EC TCPC.
+
+ Primary end points of the study will include determination of graft failure rates and graft related morbidity and mortality.
+
+ Graft failure will be defined as any graft narrowing/occlusion or dilation/rupture requiring surgical or endovascular intervention.
+
+ Graft related morbidity and mortality will include any post-operative complication such as any thromboembolic or infectious event that requires treatment and is thought likely to be caused by the tissue engineered vascular graft as determined by the investigators and confirmed by the data safety monitoring board.
+
+ All appropriate patients requiring EC TCPC who meet study inclusion/exclusion criteria will be evaluated for enrollment in the clinical trial.
+
+ After obtaining informed consent from the patient's parents, patients with single ventricle cardiac anomalies will undergo EC TCPC using a tissue engineered conduit.
+
+ Post-operative care and monitoring will follow an established, standardized, clinical algorithm in which the patient's clinical status including complications and measurements of graft function will be serially evaluated and recorded over a three year period using physical examination, echocardiography, and MRA.
+
+.
+
+ A Pilot Study Investigating the Clinical Use of Tissue Engineered Vascular Grafts in Congenital Heart Surgery@highlight
+
+An initial feasibility and safety study evaluating the use of autologous tissue engineered vascular grafts as extra cardiac total cavopulmonary connection (EC TCPC) conduits in children with single ventricle anomalies.
+

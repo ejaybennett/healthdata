@@ -1,0 +1,40 @@
+(fifthQuint)Identifying the Anti-Blood-Clotting Compounds in Garlic.
+
+ Published studies indicate that various types of undefined garlic products display antiplatelet activity.
+
+ However, the compounds responsible for this antiplatelet effect have not been identified.
+
+ Acute studies.
+
+ In acute (one day) studies, healthy participants will consume several doses of "fresh garlic" (garlic powder added to ambient water; up to the equivalent of 12 grams fresh garlic or 52 mg allicin) as a paste in a tuna sandwich.
+
+ At 0, 2, 4, and 6 hours after consumption, the ability of platelets to aggregate in platelet-rich plasma (PRP) or in whole blood (WB), in response to a drug (collagen, ADP) that stimulates platelet aggregation, will be measured.
+
+ After establishing the optimum dose and optimum time of the antiplatelet effect for each person, and if the effects are sufficiently strong, the effects of cooked garlic (garlic powder added to boiling water, no allicin present) and seven extracted fractions (oil, protein, fructans, etc.
+
+) will be determined, using the fractions at the same dose as their abundance in the established optimum dose of crushed fresh garlic.
+
+ Chronic studies.
+
+ If only weak platelet effects are found for a high acute dose of "fresh" garlic, chronic studies will be conducted.
+
+ In chronic studies, participants will consume 8.
+
+0 grams of "fresh garlic" (2.
+
+7 grams garlic powder added to ambient water, allicin content = 35 mg) as a paste in a tuna sandwich every day for four weeks and 8.
+
+0 grams of "boiled garlic" (2.
+
+7 grams garlic powder added to boiling water) in a sandwich every day for an additional four weeks, after a 1-week washout.
+
+ The ability of platelets to aggregate in PRP and whole blood will be determined before and every week after garlic consumption begins and after the 1-week washout.
+
+.
+
+ Identifying the Anti-Blood-Clotting Compounds in Garlic@highlight
+
+This study will seek to identify the compound(s) in garlic that is (are) responsible for its ability to prevent the formation of blood clots (prevent platelet aggregation) and to determine the maximally effective dose and duration of the benefits.
+
+ This study will also determine whether "cooked" garlic (garlic powder added to boiling water, no allicin present) is as effective as "fresh" garlic (garlic powder added to ambient water, high allicin present) and, if more than one compound is involved, and whether their combined effects are more significant than the effects of each compound alone.
+

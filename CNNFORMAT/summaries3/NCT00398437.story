@@ -1,0 +1,38 @@
+(secondQuint)Magnetic Resonance Imaging for the Early Detection of CNS Metastases in Women With Stage IV Breast Cancer.
+
+ OBJECTIVES: Primary - Determine survival (without neurological symptoms due to CNS metastases) in women with HER2/neu-overexpressing stage IV breast cancer who undergo gadolinium-enhanced magnetic resonance imaging (MRI) of the brain once every 4 months vs once every 12 months for early detection of CNS metastases.
+
+ Secondary - Determine the total number of therapeutic procedures (i.
+
+e.
+
+, gamma-knife, radiotherapy, or surgery) required for the treatment of brain metastases in these women.
+
+ - Determine the total number of hospitalization days required in these women.
+
+ - Determine the overall survival of these women.
+
+ - Evaluate a cross-platform, manufacturer-independent MRI technique for diagnosis of brain metastases that could be used in future studies in the IRIS and ULB-Canceropole networks.
+
+ - Compare 2D-SE vs 3D-GE thin sections methods for post-contrast brain imaging in these women.
+
+ OUTLINE: This is a prospective, randomized study.
+
+ Patients are randomized to 1 of 2 arms.
+
+ - Arm I: Patients undergo gadolinium-enhanced magnetic resonance imaging (MRI) of the brain at baseline (to exclude CNS involvement) and then once every 4 months (or earlier if symptoms possibly related to CNS involvement develop) in the absence of the development of CNS metastases.
+
+ - Arm II: Patients undergo gadolinium-enhanced MRI of the brain at baseline (to exclude CNS involvement) and then once every 12 months (or earlier if symptoms possibly related to CNS involvement develop) in the absence of the development of CNS metastases.
+
+ Patients complete neurological symptoms questionnaires at baseline, every 6 weeks during study intervention, and at the completion of the study.
+
+ PROJECTED ACCRUAL: A total of 96 patients will be accrued for this study.
+
+.
+
+ Magnetic Resonance Imaging for the Early Detection of CNS Metastases in Women With Stage IV Breast Cancer@highlight
+
+RATIONALE: Diagnostic procedures, such as magnetic resonance imaging (MRI), may help doctors find CNS metastases and plan treatment.
+
+ PURPOSE: This randomized clinical trial is studying how well MRI finds CNS metastases in women with stage IV breast cancer.
+

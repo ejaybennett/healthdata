@@ -1,0 +1,30 @@
+(fifthQuint)Impact of Agalsidase Alfa Therapy on Cardiac funcTION in Patients With Fabry's Cardiomyopathy.
+
+ 1.
+
+ Objectives - The purpose of this study is to evaluate the impact of ERT with Agalsidase Alfa on LV diastolic function and flow in patients with Fabry's cardiomyopathy using LV 2D strain, diastolic stress echocardiography, LV vortex flow and CMR.
+
+ 2.
+
+ Primary / Secondary Endpoint 1) Primary endpoint: - Change from baseline in peak exercise E/E' by diastolic stress echocardiography, global longitudinal strain and LV vortex flow parameters at 1 year 2) Secondary endpoints: - Changes from baseline in extracellular volume by CMR (T1 mapping) at 1 year follow up - Changes from baseline in evaluation of the degree of the resting LV diastolic function - Changes from baseline in other echo-parameters; LV mass index, reduction of peak exercise E/E prime at 1 year follow up - Changes from baseline in quality of life using questionnaire Change from baseline in peak VO2, exercise time, AT by diastolic stress echocardiography at 1 year follow up Change in T1 baseline (myo, ms) & T1 baseline (blood, ms), T1 postcontrast (myo, ms) & T1 baseline (blood, ms) by CMR 3.
+
+ Study Methods 1) Study Design: This is an observational study.
+
+ No treatment or intervention will be assigned to the subjects.
+
+ All patients will receive full standard of care concomitant medication for the treatment of their cardiac condition.
+
+ 25 patients with genetically confirmed Anderson-Fabry disease who have a plan to start ERT with Agalsidase Alfa will undergo 2D strain, diastolic stress echocardiography, LV vortex flow analysis, and CMR at baseline and after 1 year of treatment with ERT with Agalsidase Alfa for follow-up.
+
+.
+
+ Impact of Agalsidase Alfa Therapy on Cardiac funcTION in Patients With Fabry's Cardiomyopathy@highlight
+
+Study Design: This is an observational study.
+
+ No treatment or intervention will be assigned to the subjects.
+
+ All patients will receive full standard of care concomitant medication for the treatment of their cardiac condition.
+
+ 25 patients with genetically confirmed Anderson-Fabry disease who have a plan to start ERT with Agalsidase Alfa will undergo 2D strain, diastolic stress echocardiography, LV vortex flow analysis, and CMR at baseline and after 1 year of treatment with ERT with Agalsidase Alfa for follow-up.
+

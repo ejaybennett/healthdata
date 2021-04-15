@@ -1,0 +1,26 @@
+(thirdQuint)Efficacy of Memantine add-on in the Treatment of Bipolar Disorder (Type I) Nonresponders or Partial Responders Patients.
+
+ Current evidence suggests that deregulation of brain glutamatergic neurotransmission is involved in the pathophysiology of bipolar disorder and that drugs that intervene in this transmission may be therapeutic weapons in addressing the symptoms and cognitive deficits of this pathology.
+
+ Among these drugs, particularly memantine is a strong candidate in view of their efficacy in antagonizing N-methyl-D-aspartate (NMDA) receptors, and their good safety and tolerability profile.
+
+ The principal aim of this study is to evaluate the efficacy of memantine association with treatment with a combination of two drugs, including quetiapine with lithium and quetiapine with aripiprazole in young patients with bipolar disorder type 1 non-responders or partial responders and evaluate the impact of this association cognitive functioning of patients.
+
+ An experimental study, randomized, double-blind, bipolar patients with type 1, of both sexes, aged 18 to 40, ambulatory or hospitalized, at any stage of the disease, seeking treatment in the Mood Disorders Program (GRUDA) of Institute os Psychiatry (IPq) of Sao Paulo University (FMUSP).
+
+ Patients will come from ARIQUELI Project (Missio, G.
+
+ et al, 2013 submitted Trial registration - ClinicalTrials.
+
+gov Identifier:.
+
+ NCT01710163).
+
+ The study will be conducted in two stages: I - initial administration of memantine or placebo for 8 weeks; II - Maintenance administration for more 4 months.
+
+.
+
+ Efficacy of Memantine add-on in the Treatment of Bipolar Disorder (Type I) Nonresponders or Partial Responders Patients@highlight
+
+The main goal of this study is evaluate the efficacy of memantine association on the treatment with a previous combination of two drugs, including quetiapine with lithium or quetiapine with aripiprazole in young patients with bipolar disorder type 1 non-responders or partial responders to that combination of drugs and evaluate the impact of this association at the cognitive functioning of the patients.
+

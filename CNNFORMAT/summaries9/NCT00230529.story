@@ -1,0 +1,16 @@
+(firstQuint)A Safety and Efficacy Study of Infliximab (Remicade) in Patients With Plaque Type Psoriasis.
+
+ The purpose of this study is to investigate the safety and possible usefulness of infliximab therapy for patients with severe plaque psoriasis.
+
+ In a previous small study of infliximab in 33 patients with psoriasis, about 80% of patients treated with infliximab showed improvement in their psoriasis symptoms after the first 3 infusions, while 20% of patients who received placebo showed improvement.
+
+ The patients will receive infusions of infliximab either 3 or 5 mg/kg or placebo at weeks 0,2,6.
+
+ Patients who have significant psoriasis at week 26 will receive an additional infusion.
+
+.
+
+ A Safety and Efficacy Study of Infliximab (Remicade) in Patients With Plaque Type Psoriasis@highlight
+
+The purpose of the study is to evaluate the effectiveness and safety of infliximab (Remicade) in patients with plaque-type psoriasis.
+

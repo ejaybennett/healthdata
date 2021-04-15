@@ -1,0 +1,14 @@
+(firstQuint)Fitting Evaluation of Hydrogel and Silicone Hydrogel Sphere Design Contact Lenses.
+
+ This is a 40-subject, double masked, randomized, bilateral, non-dispensing fitting trial comparing hydrogel and silicone hydrogel lens materials.
+
+ It is anticipated that this study will involve 2 visits for each lens pair, as follows: Visits: V1 (lens dispensing), V2 (1 hour post lens settling).
+
+ Each subject will be randomized to wear each pair bilaterally in a series of three short fitting comparisons.
+
+.
+
+ Fitting Evaluation of Hydrogel and Silicone Hydrogel Sphere Design Contact Lenses@highlight
+
+The aim of this non-dispensing fitting study is to evaluate the short term lens fit, vision performance of three monthly replacement sphere lenses.
+

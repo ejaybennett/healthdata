@@ -1,0 +1,25 @@
+(secondQuint)Enteric Immune-nutrition Formula (ANOM) for Patients Receiving Major Upper Gastrointestinal Surgery.
+
+ Background: Perioperative usage of immunonutrition can attenuate the pro-inflammatory cytokines and reduce postoperative infectious complications and length of hospital stay after major upper gastrointestinal surgery.
+
+ The aim of this study was to elucidate the effect of immunomodulating diets, ANOM(R), on surgical outcome in elective major upper gastrointestinal tract operations.
+
+ Material and Methods: Design: Prospective, randomized, controlled trial.
+
+ Participants: Seventy upper gastrointestinal tract cancer patients planned to undergo major upper gastrointestinal surgery in eesophagus,stomach,pancreas or duodenum, Interventions: Patients will be divided randomly into two groups to receive ANOM(R) or standard diet.
+
+ Before surgery, 800ml ANOM(R) or standard diet (SEN) will be given for 5 days by mouth.
+
+ After operation, 5% Distill water (D5W) combined with ANOM(R) or standard diet since the 2nd post-operation day (POD2) until day 14 (POD14) or until discharged day by enteric route using nasogastric tube(NG) tube or jejunostomy.
+
+ Postoperative parenteral nutrition will be given to maintain adequate nutrition.
+
+ Clinical Assessment: The preoperative and postoperative immunological parameters, infection complications, and hospital stay will be compared.
+
+.
+
+ Enteric Immune-nutrition Formula (ANOM) for Patients Receiving Major Upper Gastrointestinal Surgery@highlight
+
+Perioperative usage of immunonutrition (ANOM(R)) can attenuate the pro-inflammatory cytokines and reduce postoperative infectious complications and length of hospital stay after major upper gastrointestinal surgery.
+
+ (ANOM(R))immunonutrition product name

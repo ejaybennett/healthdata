@@ -1,0 +1,80 @@
+(fifthQuint)S.
+
+L.
+
+ Spray Solution and Difflam and AcularSpray for the Prevention of Postoperative Sore Throat.
+
+ This is a quasi-experimental study with purposive sampling.
+
+ Patients were distributed into the four groups (1.
+
+5mg / ml Benzydamine hydrochloride, 3.
+
+0mg / ml Benzydamine hydrochloride, 5%Ketorolac Tromethamine) by the operative room.
+
+ Research tools including pain scale (Numeric Rating Scale: 0-10), drugs and case data record sheet.
+
+ Collected information was managed by SPSS for Windows (version 21.
+
+0) statistical software package.
+
+ Both the descriptive and Inferential statistics were performed.
+
+ Sample homogeneity among the four groups were verified by F-test and chi-square test.
+
+ generalized estimating equation was selected to compare the throat pain in the four points of assessment.
+
+ The specific aims of this project are: 1.
+
+ Comparing the Efficacies Between the Spray of S.
+
+L.
+
+ Spray Solution and Difflam to Release Postoperative Sore Throat.
+
+ 2.
+
+ Acular spray for the prevention of postoperative sore throat.
+
+ 3.
+
+ Comparing the Efficacies Between the Spray of S.
+
+L.
+
+ Spray Solution and Difflam and Acular to Release Postoperative Sore Throat.
+
+.
+
+ S.
+
+L.
+
+ Spray Solution and Difflam and AcularSpray for the Prevention of Postoperative Sore Throat@highlight
+
+The purpose of intubation for patients under general anesthesia is to maintain their respiratory function.
+
+ However, this procedure does cause a postoperative sore throat.
+
+ Comfort of patients could be promoted if effective treatment could be found.
+
+ The specific aims of this project are: 1.
+
+ Comparing the Efficacies Between the Spray of S.
+
+L.
+
+ Spray Solution and Difflam to Release Postoperative Sore Throat.
+
+ 2.
+
+ Acular spray for the prevention of postoperative sore throat.
+
+ 3.
+
+ Comparing the Efficacies Between the Spray of S.
+
+L.
+
+ Spray Solution and Difflam and Acular to Release Postoperative Sore Throat.
+

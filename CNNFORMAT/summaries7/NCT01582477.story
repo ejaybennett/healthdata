@@ -1,0 +1,12 @@
+(secondQuint)TAP-patients With Robotic Assisted Lap Prostatectomy.
+
+ Assess the safety and efficacy of EXPAREL when administered via infiltration into the transversus abdominis plane (TAP) to provide prolonged postsurgical analgesia in men undergoing robot-assisted laparoscopic prostatectomy.
+
+ The primary endpoint is the duration of abdominal analgesia from the infiltration into the TAP as measured by the time to the subject's first postsurgical opioid administration.
+
+.
+
+ TAP-patients With Robotic Assisted Lap Prostatectomy@highlight
+
+The purpose of the study is to assess the safety and efficacy of EXPAREL when administered via infiltration into the transversus abdominis plane (TAP) to prolonged postsurgical analgesia in men undergoing robot-assisted laparoscopic prostatectomy.
+

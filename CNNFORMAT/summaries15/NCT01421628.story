@@ -1,0 +1,30 @@
+(secondQuint)Enhancement of Physical Fitness in Older Adults.
+
+ The ageing population leads to an increase of chronic disease and disability and to a decrease of physical activity and ADL performance.
+
+ This circle can be reversed by physical exercise to increase physical fitness.
+
+ The goal of this research is to establish the effects of a trainings program on ADL performance, physical fitness and nocturnal cramps.
+
+ Furthermore the characteristics from participants who benefit from the program will be investigated by the research.
+
+ The study design is a randomized intervention study.
+
+ Participants are elderly people, age 65 years and older, without cognitive impairment.
+
+ Intervention: The intervention is a physical trainings program.
+
+ The intensity is moderate, the frequency is daily and the total duration is 6 weeks.
+
+ The control group will be provided with an education program.
+
+ Main parameters are: physical fitness, nocturnal cramp severity and frequency.
+
+.
+
+ Enhancement of Physical Fitness in Older Adults@highlight
+
+Ageing is related to a decrease in physical fitness, disability and age related symptoms like nocturnal leg cramps (NLC).
+
+ Our research is focused on the enhancement of physical activity and mobility to increase physical fitness and decrease disability and nocturnal cramp in older adults.
+

@@ -1,0 +1,16 @@
+(firstQuint)The Effect of Gum Chewing on Bowel Motility in Post-operative Colon Resection Patients.
+
+ Post-operative colon resection patients experience decreased bowel motility, which may cause pain, nausea/ vomiting, impaired nutritional intake, and abdominal distention.
+
+ Return of bowel function is a strong determinant in length of hospital stay.
+
+ There are small studies that have shown that chewing gum post-operatively may enhance bowel motility thus minimizing complications and decreasing length of hospital stay.
+
+ The purpose of this research study is to determine the effect of gum chewing on bowel motility as measured by time to first flatus, bowel movement and length of stay in patients following a colon resection.
+
+.
+
+ The Effect of Gum Chewing on Bowel Motility in Post-operative Colon Resection Patients@highlight
+
+The purpose of this study is to determine if chewing mint-flavored sugarless gum after colon resection surgery decrease the time to first flatus, bowel movement and length of stay in the hospital.
+

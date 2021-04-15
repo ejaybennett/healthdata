@@ -1,0 +1,58 @@
+(fifthQuint)Pediatric Kidney Transplant Without Calcineurin Inhibitors.
+
+ Renal transplantation is widely recognized as the treatment of choice for children with end-stage renal disease (ESRD).
+
+ Although outcomes of renal transplantation in children have improved during the past decade, success has been limited by both non-specific tolerance and the complications associated with immunosuppressants.
+
+ Steroids and calcineurin inhibitors have the most toxic side effects.
+
+ Use of sirolimus for immunosuppression has not been associated with as many complications.
+
+ Recent studies from Europe have demonstrated that sirolimus can be combined with MMF and steroids to provide excellent graft survival in the absence of calcineurin inhibitors.
+
+ Steroid side-effects can be lessened by tapering the steroid dose to an every-other-day schedule.
+
+ This protocol tests whether immunosuppression by IL-2r antibody, sirolimus, MMF, and alternate-day steroids will provide comparable graft survival for living donor recipients, compared to current immunosuppression, but with reduced complications of calcineurin inhibitors.
+
+ Evaluations prior to transplantation include a complete history and physical examination, CBC, liver function tests, and antibodies for CMV, EBV, HIV, HbsAG, and HCV.
+
+ All appropriate vaccinations are provided before transplantation.
+
+ Transplant recipients receive immunosuppression therapy using antibody induction (daclizumab), corticosteroids, mycophenolate mofetil, and sirolimus.
+
+ Serum sirolimus levels are measured so that doses can be adjusted to maintain certain blood levels of the drug.
+
+ Bactrim and ganciclovir are given for infection prophylaxis.
+
+ If the patient has consistent high levels of fasting cholesterol, treatment with lipitor may be given.
+
+ A transplant biopsy is performed at the time of the transplant and at 3, 6, and 12 months post transplantation and at times when a rejection is suspected.
+
+ A radionuclide GFR is done at the same time points, and at 1, 24, and 36 months.
+
+ The protocol biopsies, blood, and urine samples will be analyzed by genomic methods to determine differences in gene expression post transplantation.
+
+ In the event of a first acute rejection, patients are treated with Solu-Medrol for 3 consecutive days.
+
+ A second rejection (at the discretion of the transplant center) or severe rejection (Banff Grade 3) is treated with antibody therapy and, after a second or severe rejection, the immunosuppressant regimen is changed.
+
+ Patients are followed for 36 months with routine physical examinations and laboratory assessments.
+
+.
+
+ Pediatric Kidney Transplant Without Calcineurin Inhibitors@highlight
+
+The purpose of this study is to see the effect of using drugs other than calcineurin inhibitors to improve the rate of kidney transplant failure.
+
+ Kidney transplantation can help children with end-stage kidney disease.
+
+ However, it has been difficult to find treatment for donor graft rejection that does not have a lot of side effects.
+
+ Researchers hope to find treatments (immunosuppressants) with fewer side effects.
+
+ One approach is to avoid using calcineurin inhibitors and to try a new drug known as sirolimus instead.
+
+ Another is to use steroids less often.
+
+ This study will test whether using sirolimus, fewer steroid treatments, MMF, and certain antibodies will improve long-term graft survival in children receiving kidney transplants from living donors.
+

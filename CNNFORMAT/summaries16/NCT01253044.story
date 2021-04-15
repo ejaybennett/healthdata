@@ -1,0 +1,36 @@
+(thirdQuint)Acceptance and Commitment Therapy (ACT) for OEF/OIF Veterans.
+
+ The proposed study is a randomized controlled trial (RCT) of Acceptance and Commitment Therapy (ACT) as compared to a control psychotherapy, Present Centered Therapy (PCT), for individuals with distress and impairment who deployed as part of Operation Enduring Freedom and/or Operation Iraqi Freedom (OEF/OIF).
+
+ ACT was selected for study because it has a number of advantages for this population.
+
+ It is not tied to any particular symptom constellation, so it can be applied to a variety of presenting concerns (Hayes, Luoma, et al.
+
+, 2006; Ost, 2008, Powers et al.
+
+, 2009), resulting in reduced training burden for clinicians and less need for applying sequential treatments to address co-morbidities.
+
+ ACT has good face validity (i.
+
+e.
+
+, "it makes sense") and conveys a compelling message to young Service Members and Veterans.
+
+ ACT asks individuals to move forward in accordance with one's values regardless of limitations rather than struggling against those limitations.
+
+ ACT appears to be acceptable to patients (mean attrition of 15.
+
+4% in 13 RCTs (Ost, 2008).
+
+ ACT is being widely disseminated without adequate evidence of its effectiveness for this important population.
+
+.
+
+ Acceptance and Commitment Therapy (ACT) for OEF/OIF Veterans@highlight
+
+This trial compares two psychotherapies, Acceptance and Commitment Therapy (ACT) and Present Centered Therapy (PCT), for veterans of the conflicts in Iraq and Afghanistan.
+
+ We hypothesize that ACT will be more effective than PCT at reducing emotional distress and improving functioning.
+
+ We further hypothesize that both interventions will be highly acceptable to participants.
+

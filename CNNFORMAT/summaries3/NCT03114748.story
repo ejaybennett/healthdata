@@ -1,0 +1,34 @@
+(fifthQuint)Electroencephalographic Monitoring in Patients Treated by Deep Brain Stimulation.
+
+ This protocol aims to understand how brain regions are modulated by deep brain stimulation using scalp electroencephalographic recordings.
+
+ This protocol covers many pathologies which are thought to relate to different brain networks impairements and are therefore complementary in the understanding of cortical activation and modulation of this activation by deep brain stimulation.
+
+ These diseases are motor (parkinson.
+
+.
+
+) and psychiatric (obsessive compulsive disorders, treatment resistant depression.
+
+.
+
+).
+
+ To activate brain networks of interest, either implicating brain regions dysfunctional in the diseases or brain regions stimulated by the electrode, the investigators can use cognitive task which are know to involve those networks, for instance motor task for motor diseases as clicking with a computer mouse when presented with a specific type of stimulus on the screen.
+
+ EEG recordings can then be processed to retrieve cortical activation and modulation of this activation with stimulation (using an ON DBS OFF DBS procedure) during task processing.
+
+ These data are also very precious to study brain dynamic networks and their modulation by DBS.
+
+ After analysis of these results, this protocol aims to be used in order to refine targeting, for instance when correlating cortical modulation with DBS and clinical improvement with electrode positions.
+
+.
+
+ Electroencephalographic Monitoring in Patients Treated by Deep Brain Stimulation@highlight
+
+This protocol aims to develop the use of behavioral and electroencephalographic measures during cognitive tasks in patients treated with deep brain stimulation during the stimulation parameters adjustments.
+
+ The main clinical goal of this protocol is to find behavioral and or electroencephalographic markers to evaluates the right targeting of stimulation electrodes.
+
+ On the more fundamental point of view, the study of those data can be used to understand better the action mechanisms of deep brain stimulation.
+

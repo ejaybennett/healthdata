@@ -1,0 +1,18 @@
+(secondQuint)A Randomized, Vehicle-Controlled Study of 2 Concentrations of A-101 for the Treatment of Seborrheic Keratosis.
+
+ The primary objective of this study is to evaluate the safety and effectiveness of 2 concentrations of A-101 compared to Vehicle for the treatment of 4 seborrheic keratosis (SK) Target Lesions on the trunk, extremities and face.
+
+ The secondary objectives of this study include duration of response of A-101.
+
+ During the study, the investigator will identify 4 eligible SK Target Lesions on each subject on the trunk, extremities and face.
+
+ For each subject, at least 1 SK Target Lesion must be on the face and at least 1 Target Lesion must be on the trunk or extremities.
+
+ The Target Lesions will be treated at a maximum of two treatment visits.
+
+.
+
+ A Randomized, Vehicle-Controlled Study of 2 Concentrations of A-101 for the Treatment of Seborrheic Keratosis@highlight
+
+The primary objective of this study is to evaluate the safety and effectiveness of 2 concentrations of A-101 compared to Vehicle for the treatment of 4 seborrheic keratosis (SK) Target Lesions on the trunk, extremities and face.
+

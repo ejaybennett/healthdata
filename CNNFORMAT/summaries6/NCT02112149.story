@@ -1,0 +1,20 @@
+(firstQuint)Effect of the LIVESTRONG at the YMCA Exercise Program on Cancer Related Outcomes in Cancer Survivors.
+
+ The proposed study is a randomized trial evaluating the impact of the 12-week LIVESTRONG exercise program vs.
+
+ waitlist control on cancer-related outcomes in 200 cancer survivors.
+
+ Participants will undergo baseline testing at Dana-Farber or Yale, including administration of questionnaires to assess quality of life and the presence of cancer and treatment-related symptoms, fasting blood draw, and evaluation of body composition (using dual energy X-ray absorptiometry (DEXA).
+
+ Participants will then take part in the 12-week LIVESTRONG Program or will be assigned to a wait-list control group.
+
+ All measurements will be repeated at Dana-Farber or Yale after the 12-week exercise program or control period.
+
+.
+
+ Effect of the LIVESTRONG at the YMCA Exercise Program on Cancer Related Outcomes in Cancer Survivors@highlight
+
+The proposed study is a randomized trial evaluating the impact of the 12-week LIVESTRONG exercise program vs.
+
+ waitlist control on cancer-related outcomes in 200 cancer survivors.
+

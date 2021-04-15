@@ -1,0 +1,16 @@
+(secondQuint)Dexamethasone for Postoperative Nausea and Vomiting.
+
+ More than half of the patients undergoing laparoscopic cholecystectomy will have postoperative nausea and vomiting (PONV).
+
+ PONV is related to surgical, anesthetic and patient factors.
+
+ We want to test the efficacy of these anesthetic antiemetic measures collectively with or without ondansetron or dexamethasone, in the prevention of PONV in patients undergoing laparoscopic cholecystectomy.
+
+ Three groups to be studied : (Group O) will receive 4 mg ondansetron, (Group D) will receive 8 mg dexamethasone and (Group P) will receive normal saline .
+
+.
+
+ Dexamethasone for Postoperative Nausea and Vomiting@highlight
+
+The investigators want to test the efficacy of these anesthetic antiemetic measures collectively with or without ondansetron or dexamethasone, in the prevention of postoperative nausea and vomiting (PONV) in patients undergoing laparoscopic cholecystectomy.
+

@@ -1,0 +1,28 @@
+(thirdQuint)Groin Injuries in Finnish Contact Sports.
+
+ The prevalence of chronic groin pain in athletes and physically active adults is between 5 and 10 %.
+
+ Common causes include adductor tendonitis, musculus rectus abdominis tendopathy, osteitis pubis (edema on MRI scans at pubic symphysis) or disruption of the posterior wall of inguinal canal or iliopsoas muscle.
+
+ This observational case-control study follows three contact sports team (male soccer, ice-hockey and bandy) for two years to find out prevalence of acute and chronic groin pain.
+
+ Adult (>18 years old) male athletes with acute or chronic groin pain during the study pediod are included.
+
+ Outcome measures are clinical examination, pain scores, exact diagnosis and repeated pelvic MRI (two times) are performed in each patients and three control atheletes in each team.
+
+ Hip and groin questionnaire (HAGOS) is used to determine the severity of groin injuries.
+
+ The end-points of study are prevalence of groin injuries and exact diagnosis.
+
+.
+
+ Groin Injuries in Finnish Contact Sports@highlight
+
+The prevalence of acute and chronic groin injuries in athletes is between 5 and 10 %.
+
+ This observational case-control study follows three contact sport teams (soccer, ice-hockey and bandy) for two years to find out the prevalence and reasons for groin pain.
+
+ Clinical examination, pain scores and pelvic magnetic resonance imaging (MRI) are performed.
+
+ Hip and groin questionnaire (HAGOS) is used to determine severity of groin injuries.
+

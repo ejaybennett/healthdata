@@ -1,0 +1,16 @@
+(firstQuint)Lacritin and Heparanase Levels in Human Tears After Laser Refractive Surgery.
+
+ Lacritin is a naturally occurring tear protein with antimicrobial activity that is capable of stimulating mitogenesis in human corneal epithelial cells and promoting production of tears in lacrimal gland acinar cells.
+
+ A recently developed immunoassay for lacritin may help characterize the lacritin response following refractive surgery with the possible development of recombinant lacritin as a novel therapeutic agent for wound healing.
+
+ Heparanase (HPSE) acts as a regulator for lacritin by cleaving heparan sulfate chains and allowing lacritin to bind.
+
+ We aim to measure both tear lacritin and HPSE pre- and post-operatively to elucidate lacritin and HPSE's response in patients undergoing PRK (photorefractive keratectomy) and LASIK (Laser-assisted in situ keratomileusis) at the Walter Reed Center for Refractive Surgery.
+
+.
+
+ Lacritin and Heparanase Levels in Human Tears After Laser Refractive Surgery@highlight
+
+The purpose of this study is to measure tear lacritin and heparanase levels before and following surgery using a minimal risk procedure to collect tears from patients undergoing PRK or LASIK.
+

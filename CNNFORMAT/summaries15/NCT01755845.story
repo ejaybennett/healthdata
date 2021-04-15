@@ -1,0 +1,28 @@
+(secondQuint)Trial of Postoperative Chemoradiotherapy With or Without Consolidation Chemotherapy for Cervical Cancer Patients.
+
+ Cervical carcinoma is one of the most common gynecologic cancers worldwide.
+
+ Early stage cervical cancer can be treated effectively with either radiotherapy or radical hysterectomy plus pelvic lymph node dissection.
+
+ However, several pathological risk factors, such as lymph node metastasis, the involvement of vaginal resection margin, and the parametrial invasion, have been identified to compromise the patient prognosis.
+
+ Concurrent radiotherapy with cisplatin-based chemotherapy has become the standard treatment for patients with cervical cancer.
+
+ However, many patients with pathological risk factors treated with concurrent radiotherapy plus single agent cisplatin still suffered from the local or distant relapse.
+
+ How to improve the treatment outcome of these patients is a very important issue and requires further clinical investigation.
+
+ Paclitaxel has been demonstrated to be a good radiosensitizer.
+
+ In addition, paclitaxel/cisplatin combination chemotherapy was demonstrated to have superior progression-free survival than platinum alone in some phase II studies.
+
+ In addition, it is not yet known whether chemotherapy and radiation therapy are more effective when given with consolidation chemotherapy in treating cervical cancer.
+
+ Therefore, the investigators are going to perform the efficacy and safety study of postoperative concurrent paclitaxel/cisplatin chemotherapy and radiotherapy with consolidation chemotherapy in high-risk patients with early-stage cervical cancer following radical hysterectomy.
+
+.
+
+ Trial of Postoperative Chemoradiotherapy With or Without Consolidation Chemotherapy for Cervical Cancer Patients@highlight
+
+The purpose of this study is to determine the efficacy and safety of consolidation chemotherapy with paclitaxel plus cisplatin (2 cycles per 3 weeks) following radical hysterectomy and adjuvant chemoradiation (2 cycles per 4 weeks) for high risk early stage cervical cancer.
+

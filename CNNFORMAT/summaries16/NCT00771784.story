@@ -1,0 +1,20 @@
+(firstQuint)Effects of Tracheal Intubation on Ventilation With a Laryngeal Mask During Percutaneous Dilatation Tracheostomy.
+
+ Percutaneous tracheostomy is routinely performed while patients are being ventilated with a laryngeal mask.
+
+ The efficacy of ventilation during tracheostomy may be affected by length of previous endotracheal intubation.
+
+ This is an observational and monocentric study aimed to evaluate the impact of length of endotracheal intubation on efficacy of lung ventilation with a laryngeal mask.
+
+ Two groups of patients who have to undergo elective percutaneous tracheostomy after either a short or long endotracheal intubation will be enrolled.
+
+ Data on the correlational effects of the endotracheal tube on the integrity of laryngeal structures and on ventilation will be collected.
+
+ Statistical analyses will use standard tests to compare the two groups of patients.
+
+.
+
+ Effects of Tracheal Intubation on Ventilation With a Laryngeal Mask During Percutaneous Dilatation Tracheostomy@highlight
+
+The length of tracheal intubation may affect the subsequent ventilation with a laryngeal mask during percutaneous tracheostomy.
+

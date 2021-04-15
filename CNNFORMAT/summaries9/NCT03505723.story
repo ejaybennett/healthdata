@@ -1,0 +1,12 @@
+(secondQuint)PeriOperative ISchemic Evaluation-3 Trial.
+
+ The POISE-3 study is a 10,000 patient, multicentre, international, non-inferiority randomized controlled trial of tranexamic acid (TXA) versus placebo and, using a partial factorial design, of a perioperative hypotension-avoidance versus hypertension-avoidance strategy.
+
+ The primary objective of the study is to determine; if TXA is superior to placebo for the occurrence of life-threatening, major, and critical organ bleeding, and non-inferior to placebo for the occurrence of major arterial and venous thrombotic event; and to determine the impact of a hypotension-avoidance strategy versus a hypertension-avoidance strategy on the risk of vascular death and major vascular events in patients who are followed for 30 days after noncardiac surgery.
+
+.
+
+ PeriOperative ISchemic Evaluation-3 Trial@highlight
+
+This study is a multicentre, international, randomized controlled trial of tranexamic acid (TXA) versus placebo and, using a partial factorial design, of a perioperative hypotension-avoidance versus hypertension-avoidance strategy.
+

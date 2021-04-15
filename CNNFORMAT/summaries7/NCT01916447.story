@@ -1,0 +1,20 @@
+(firstQuint)A Phase I Study of TAS-102 in Patients With Advanced Gastrointestinal Tumors.
+
+.
+
+ This is an open-label, non-randomized, dose-escalation, Phase 1 study of TAS-102 administered in combination with CPT-11.
+
+ The study will be conducted in 2 parts: a Dose Escalation Phase (Part 1) to determine the maximum tolerated dose and an Expansion Phase (Part 2) to further evaluate the safety, pharmacokinetics, and preliminary efficacy of the maximum tolerated dose.
+
+ Patients will be assigned to sequential dose-level cohorts with each cohort corresponding to a pre-specified dose of TAS-102 and CPT-11 combination.
+
+ Escalation to the subsequent dose level will occur only after the previous dose level is determined to be safe.
+
+.
+
+ A Phase I Study of TAS-102 in Patients With Advanced Gastrointestinal Tumors.
+
+@highlight
+
+The purpose of this study is to investigate the safety and determine the maximum tolerated dose of TAS-102 administered in combination with CPT-11 in patients with advanced gastrointestinal tumors.
+

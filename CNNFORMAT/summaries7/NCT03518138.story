@@ -1,0 +1,24 @@
+(fifthQuint)Safety/Efficacy of Q-122 in Breast Cancer Patients Taking Tamoxifen or Aromatase Inhibitor.
+
+ Vasomotor symptoms (VMS) are significant in postmenopausal women with the most effective medications for relief being hormonal preparations.
+
+ Non-hormonal medications have demonstrated efficacy but at a far lower level than estrogen replacement therapy.
+
+ For women with a history of breast cancer, hormone replacement therapy is often contraindicated and is not an option for women receiving endocrine therapy including tamoxifen (TAM) and aromatase inhibitors (AI).
+
+ Breast cancer survivors, and women receiving endocrine therapy in particular, have a high rate of problematic hot flashes.
+
+ In an open label Phase 1 study of the safety and activity of Q-122 in breast cancer patients taking TAM or an AI, 8 of 9 women who received at least 1 dose of 100 mg and 10 of 11 women who received at least 1 dose of 200 mg had a reduction in hot flashes of 2 or more per day, the FDA criteria for anti-VMS activity.
+
+ This study will define the effect of Q-122 versus placebo in a population of women with a history of or current breast cancer who have an average of 50 or more moderate to severe hot flashes per week.
+
+.
+
+ Safety/Efficacy of Q-122 in Breast Cancer Patients Taking Tamoxifen or Aromatase Inhibitor@highlight
+
+This is a Phase 2 proof-of-concept (POC) study designed to determine the effectiveness of Q-122 for the treatment of Vasomotor Symptoms (VMS) versus placebo.
+
+ Participants who meet all eligibility criteria following the Screening/Run-In period will be randomized to 1 of 2 treatment arms; blinded Q-122 or placebo for a period of 28 days.
+
+ All participants will be followed for a 2-week, drug-free, follow-up period after their last dose of blinded Q-122/placebo before termination from the study.
+

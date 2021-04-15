@@ -1,0 +1,16 @@
+(thirdQuint)the Influence of Sleep Improvement Through Different Methods on Patients in ICU.
+
+ In the research, we enroll 120 postoperative patients in the ICU and they will be assigned to four group: the eye patch group, the Dexmedetomidine(DEX) group, the eye patch+DEX group and the usual group.
+
+ The sleep quality would be evaluated by the EEG monitor and the metabolic level, the inflammation and nutrition status would be detected.
+
+ The research aims to confirm that the sleep quality could have a great influence on patients in the ICU and different interventions would make various changes.
+
+.
+
+ the Influence of Sleep Improvement Through Different Methods on Patients in ICU@highlight
+
+In the research, we enroll 120 postoperative patients in the ICU and they will be assigned to four group: the eye patch group, the Dexmedetomidine(DEX) group, the eye patch+DEX group and the usual group.
+
+ The sleep quality would be evaluated by the EEG monitor and the metabolic level, the inflammation and nutrition status would be detected.
+

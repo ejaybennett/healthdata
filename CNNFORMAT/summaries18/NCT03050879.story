@@ -1,0 +1,16 @@
+(firstQuint)Indocyanine Green Tracer Using in Laparoscopic Gastrectomy With Lymph Node Dissection.
+
+ Indocyanine Green Tracer is often applied in surgery for early gastric adenocarcinoma.
+
+ Its application in laparoscopic gastrectomy with lymph node dissection for gastric adenocarcinoma is at the stage of cases accumulation, method studying and clinical research.
+
+ There is no prospective studies to identify the clinical outcomes of Indocyanine Green Tracer using in laparoscopic gastrectomy with lymph node dissection for gastric adenocarcinoma.
+
+ On the basis of more than 3000 cases of laparoscopic gastrectomy with lymph node dissection for gastric adenocarcinoma, we want to apply the Indocyanine Green Tracer, a cheap, easy to operate and no radiation pollution way, to predict the positive lymph nodes in gastric adenocarcinoma, to guid the scope of laparoscopic lymph node dissection for gastric adenocarcinoma.
+
+.
+
+ Indocyanine Green Tracer Using in Laparoscopic Gastrectomy With Lymph Node Dissection@highlight
+
+The purpose of this study is to explore the clinical outcomes of Indocyanine Green Tracer using in laparoscopic gastrectomy with lymph node dissection for gastric adenocarcinoma(cT1-4a, N-/+, M0).
+

@@ -1,0 +1,18 @@
+(secondQuint)Lung Recruitment and Postoperative CPAP.
+
+ General anesthesia lowers FRC thereby promoting airway closure and absorption atelectasis.
+
+ Alveolar recruitment manoeuvers recruit collapsed alveoli, increase gas exchange, and improve arterial oxygenation.
+
+ However, the effect of recruitment manoeuvre is short lasting and does not extend to the post operative period.
+
+ Postoperative CPAP keeps the lung open and can improve oxygenation in the early postoperative period.
+
+.
+
+ Lung Recruitment and Postoperative CPAP@highlight
+
+General anesthesia lowers FRC thereby promoting airway closure and absorption atelectasis.
+
+ Alveolar recruitment manoeuvers recruit collapsed alveoli, increase gas exchange, and improve arterial oxygenation.
+

@@ -1,0 +1,42 @@
+(thirdQuint)Walnuts and Healthy Aging.
+
+ Epidemiological studies suggest that nutrients such as n-3 polyunsaturated fatty acid, antioxidants and B-vitamins may protect against age related cognitive decline.
+
+ Small human studies have shown beneficial effects of polyphenol rich foods on cognition and age related macular degeneration.
+
+ Walnuts are a rich source of n-3 polyunsaturated fatty acid, alpha-linolenic acid, antioxidants, polyphenols and other bioactive compounds.
+
+ A 2-year intervention will be conducted with healthy, elderly subjects to investigate the role of walnuts in preventing or slowing age related cognitive decline and age related macular degeneration.
+
+ 350 subjects, age 63 to 79 years, will be recruited at each of 2 sites, Loma Linda University in California and Hospital Clinic in Barcelona.
+
+ Participants will be randomly assigned to one of two groups: walnut group (habitual diet with 1 or 1.
+
+5 oz/d walnut supplement) or control group (habitual diet only).
+
+ At baseline and yearly, cardiometabolic risk factors, red blood cell membrane fatty acids, urinary polyphenols and biomarkers of inflammation and oxidation will be measured.
+
+ Eye exam, blood pressure and cognitive function tests will be measured at the beginning and end of 2 years.
+
+ At the Barcelona site only, participants will be given a brain MRI and carotid ultrasound.
+
+ Descriptive results will be reported as mean plus/minus standard deviation.
+
+ Primary analysis will be carried out on the basis of groups as randomly assigned.
+
+ Results will be presented as appropriate effect sizes with a measure of precision (95% CI).
+
+ Analysis of covariates gender, age, educational status will be conducted.
+
+.
+
+ Walnuts and Healthy Aging@highlight
+
+This will be a systematic investigation of the role of walnuts in preventing or slowing age related cognitive decline and age related macular degeneration.
+
+ 700 subjects will be recruited between 2 sites, Loma Linda University in California, USA and Hospital Clinic in Barcelona, Spain.
+
+ Participants will be randomly assigned to either the walnut group or the control group for a 2 year intervention.
+
+ Baseline and annual data will be collected and analyzed.
+

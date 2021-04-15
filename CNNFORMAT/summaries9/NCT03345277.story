@@ -1,0 +1,60 @@
+(fifthQuint)Continuous Temperature Measurement for Syndromic Surveillance.
+
+ Over 1.
+
+5 million people live in 16,000 nursing homes (NH) in the USA and experience an average of 2 million infections a year.
+
+ It is well known that NH residents are at risk of infection because of frequent hospital stays, advanced age, exposure to multiple courses of antibiotics, numerous comorbidities, diminished immune response, malnutrition, and cognitive impairment.
+
+ The most common are pneumonia, UTIs, diarrheal illnesses, and skin and soft tissue infections.
+
+ Infections in NH residents have been associated with adverse clinical outcomes, including high rates of morbidity and mortality, re-hospitalization, prolonged hospital stays and substantial healthcare expenses.
+
+ The identification of fever is a key component in the detection of infections.
+
+ Studies have shown that standard definition for fever, 100.
+
+5 degrees F, is not sensitive to identify infections in elderly populations.
+
+ The recommendation therefore is a fever of 99 degrees F or an increase of 2.
+
+4 degrees F from baseline.
+
+ These changes in temperatures are also a significant indication that infection is present.
+
+ The collection of episodic temperatures in nursing home residents is challenging.
+
+ The collection of baseline measurements for all residents is logistically unachievable.
+
+ The continuous measurement of body temperature in any mobile population would be nearly impossible by any clinically standard means.
+
+ With the advent of microelectronics, long battery life, and wireless transmission, it is now possible to continuously measure, record and report body temperature.
+
+ What remains unknown is the feasibility and clinical utility of obtaining these measurements.
+
+ Therefore it is proposed that for a period of three months, residents of a single, long-term care facility have a wearable, thermometer applied to their skin.
+
+ The medical-grade adhesive and thermometer will be changed every 2-3 days.
+
+ The thermometer will provide continuous temperature measurement that will be sent wirelessly via Bluetooth to access points positioned throughout the facility.
+
+ The temperatures are reported wirelessly every minute and stored in a secure server.
+
+ All participants and care providers are blinded to the temperature readings.
+
+ At the conclusion of the monitoring period, the temperature readings will be compared to the longitudinal healthcare record for each of the participants.
+
+ Particular attention will be toward hospitalizations, antibiotics, nursing records, and clinic visits to determine episodes of infectious illness.
+
+.
+
+ Continuous Temperature Measurement for Syndromic Surveillance@highlight
+
+Is it possible to detect infection before it is clinically apparent? Fever is one indicator of infection.
+
+ However, until recently, continuous temperature monitoring has not been feasible.
+
+ With the advent of microelectronics, long battery life, and wireless transmission, it is now possible to continuously measure, record and report body temperature.
+
+ For a period of 90 days, residents of a long-term care facility will have their body temperature monitored and then those measurements will then be compared against other available healthcare data such as other recorded vital signs, nursing notes, provider visits, antibiotics, and hospitalization records for correlation of underlying infection.
+

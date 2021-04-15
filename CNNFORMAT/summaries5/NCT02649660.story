@@ -1,0 +1,26 @@
+(thirdQuint)Lipidomics and Functional Analyses of Platelets in Fabry Disease.
+
+ Fabry disease (FD) is a severe X-linked inborn error of the lysosomal glycosphingolipid metabolism.
+
+ FD patients have significantly increased risks for cardiac and cerebrovascular events, which can also occur early and in absence of the typical FD symptoms.
+
+ However, the pathophysiological mechanisms leading to vascular occlusion and ischemia in FD are largely unclear.
+
+ Prevention of recurrent cerebrovascular events is usually based on empirical anti-platelet therapy.
+
+ Prothrombotic states and partially activated platelets have been reported for FD patients.
+
+ Platelets contain glycosphingolipids, including globotriaosylceramide (Gb3), and have lysosomal -galactosidase activity.
+
+ To investigate whether the lack of or the reduced -galactosidase enzyme activity present in Fabry disease affects platelet lipid metabolism the investigators plan to perform LC-MS-based lipidomics analyses of platelets and plasma in FD patients and healthy controls.
+
+ To assess whether platelets are functionally altered in FD, the investigators aim to determine the activation status, activability, aggregability and other parameters along with plasma markers of coagulation using flow cytometry, aggregometry and immunoassays.
+
+.
+
+ Lipidomics and Functional Analyses of Platelets in Fabry Disease@highlight
+
+This study aims to evaluate whether platelets are biochemically and functionally altered in Fabry disease (FD) and therefore possibly implicated in FD manifestations such as cerebrovascular events.
+
+ To test this hypothesis the investigators aim to compare platelet and plasma lipid profiles, as well as platelet function and coagulation parameters of FD patients and healthy controls.
+

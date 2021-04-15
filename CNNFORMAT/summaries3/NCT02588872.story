@@ -1,0 +1,40 @@
+(fifthQuint)Hyaluronic Acid vs Platelet Rich Plasma: Effects on Clinical Outcomes and Intra-articular Biology for the Treatment of Knee Osteoarthritis.
+
+ The objective of this double-blind prospective randomized clinical trial is to compare the effects of PRP to HA in patients with mild to moderate OA using biologic and clinical correlates of outcomes associated with the treatment of OA.
+
+ The investigators will test the null hypothesis that there are no differences in clinical outcomes as measured by validated clinical scoring systems for OA, nor is there any difference in intra-articular biology between groups of patients treated with HA and those treated with PRP over time.
+
+ This study was a prospective, randomized, double blind, comparative clinical trial with an allocation ratio of 1:1 that underwent IRB approval at the principal institution.
+
+ Between 2011 and 2014 patients will be screened for participation.
+
+ All comers with a diagnosis of osteoarthritis of the knee between 18 and 80 years of age will be screened.
+
+ Treatment and Evaluation Patients who meet inclusion criteria will be randomized via an electronic randomization process into two groups: one receiving intra-articular PRP and the other, intra-articular HA.
+
+ Non-clinical staff will perform randomization, clinical staff performed the injections, and results and analyses will be performed by the primary research team.
+
+ Patients and the primary research team performing analysis will be blinded to assignments.
+
+ All patients will undergo a 10 ml blood draw for PRP preparation and a 3 ml peripheral blood draw for a complete blood count with leukocyte differential.
+
+ This will be performed on patients who received HA to maintain patient blinding and to characterize the peripheral white blood cells (WBC) and platelet counts.
+
+ A complete blood count (CBC) will be completed on PRP prior to injection to evaluate the fold increase in platelet concentration and to confirm rarity of red white blood cells.
+
+ A synovial fluid aspirate of approximately 2cc will be performed under ultrasound guidance just prior to each PRP or HA injection for ELISA analysis of basal and post-treatment intra-articular environment.
+
+ After treatment, patients will be instructed to limit the use of the leg for at least 24 hours and use cold therapy/icing for discomfort.
+
+ During this treatment period rest or mild exertion activities (such as exercise bike, aquatic therapy) are recommended, followed by gradual return to sports or recreational activities as tolerated.
+
+.
+
+ Hyaluronic Acid vs Platelet Rich Plasma: Effects on Clinical Outcomes and Intra-articular Biology for the Treatment of Knee Osteoarthritis@highlight
+
+In this, prospective, double-blind study, patients with mild to moderate symptomatic knee osteoarthritis will be randomized to receive either a series of leukocyte poor, platelet-rich plasma or hyaluronic acid injections under ultrasound guidance.
+
+ Clinical data in the form of subjective outcome measures will be collected pre-treatment and at four time intervals across a 1-year period.
+
+ Synovial fluid will also collected for analysis of pro- and anti-inflammatory markers pre-treatment, and at 12 and 24 weeks.
+

@@ -1,0 +1,28 @@
+(secondQuint)The Role of Circulating Soluble CD74 in Acute Lung Injury.
+
+ Acute lung injury (ALI) or acute respiratory distress syndrome (ARDS) is a devastating cause of morbidity and mortality characterized by alveolar epithelial and endothelial injury.
+
+ Despite recent advances in pathogenetic mechanisms and therapy strategies of ALI, efforts to identify circulating factors that predict severity of ALI/ARDS patients have been unrevealing.
+
+ CD74 (also known as a major histocompatibility complex (MHC) class II invariant chain) is a type II transmembrane protein, recently found to be the high-affinity receptor of macrophage migration inhibitory factor (MIF).
+
+ MIF promotes neutrophil accumulation in alveolar space via binding to CD74 expressed on the cell surface.
+
+ Our previous study, consistent with others, has shown that MIF was highly expressed in acute lung injury (ALI).
+
+ In addition, we also detected highly CD74 expression in lipopolysaccharide (LPS)-induced ALI mouse model.
+
+ Recently, a circulating form of CD74 was discovered in autoimmune liver disease.
+
+ Similarly, we investigated the existence of soluble form of CD74 in serum and bronchoalveolar lavage fluid (BALF) in ALI mouse model and burn or trauma related ALI patients.
+
+ Based on these finds, we postulated that soluble CD74 might participate in regulating lung inflammation and be a potential novel ALI/ARDS biomarker.
+
+.
+
+ The Role of Circulating Soluble CD74 in Acute Lung Injury@highlight
+
+Efforts to identify circulating factors that predict severity of acute lung injury/acute respiratory distress syndrome(ALI/ARDS) patients is unrevealing.
+
+ The primary purpose of this study is to verify our hypothesis that soluble CD74 might be a potential novel ALI/ARDS biomarker.
+

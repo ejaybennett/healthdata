@@ -1,0 +1,24 @@
+(thirdQuint)Sensitivity of Project: EVO Monitor Cognitive Measurements to Pharmacological Agents.
+
+ This is a study in adults ages 40 to 55 to assess the sensitivity of Project: EVO Monitor cognitive measurements to two short-acting cognitively active pharmacological agents, methylphenidate (MPH) and triazolam (TRZ).
+
+ The participants will receive a placebo, MPH, and TRZ in a randomized order for three in-clinic study days.
+
+ All drug administration and cognitive testing will take place in the clinic under medical staff supervision.
+
+ During each study day in the clinic, the participants will use Project: EVO Monitor and do a short digit symbol substitution task (DSST) 8 times over the day.
+
+ A minimum of 48 hours will be needed between each study day.
+
+ The investigators plan to evaluate 18 participants in this study.
+
+.
+
+ Sensitivity of Project: EVO Monitor Cognitive Measurements to Pharmacological Agents@highlight
+
+This is a study in adults to assess the sensitivity of Project: EVO Monitor cognitive measurements to two short-acting cognitively active pharmacological agents.
+
+ The participants will receive a placebo, and two pharmacological agents in a randomized order for three in-clinic study days.
+
+ During each study day in the clinic, the participants will use Project: EVO Monitor and another cognitive task through the day.
+

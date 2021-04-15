@@ -1,0 +1,31 @@
+(secondQuint)Phase II Study of the CD38 Antibody Daratumumab in Patients With High-Risk MGUS and Low-Risk Smoldering Multiple Myeloma.
+
+ This research study is a Phase II clinical trial, which tests the effectiveness of an investigational drug.
+
+ Preliminary experience suggests that daratumumab may prevent or postpone SMM from becoming active multiple myeloma.
+
+ The purpose of this research study is to determine if the this drug may improve the rate of prevention of multiple myeloma.
+
+ Multiple myeloma is a cancer of the plasma cell, which is an important part of the immune system.
+
+ Patients with active multiple myeloma generally require treatment.
+
+ There are currently no approved therapies for smoldering multiple myeloma or Monoclonal Gammopathy of Unknown Significance.
+
+ Daratumumab is a drug that may kill or stop cancer cells from growing through a variety of mechanisms by attaching to the CD38 molecule, which is over-expressed in multiple myeloma cells.
+
+ This type of drug is called a monoclonal antibody.
+
+ The FDA (the U.
+
+S.
+
+ Food and Drug Administration) has not approved Daratumumab for the participant specific disease but it has been approved for use in active Multiple Myeloma.
+
+.
+
+ Phase II Study of the CD38 Antibody Daratumumab in Patients With High-Risk MGUS and Low-Risk Smoldering Multiple Myeloma@highlight
+
+This research study is studying a drug as a possible treatment for Monoclonal Gammopathy of Unknown Significance (MGUS) or Smoldering Multiple Myeloma (SMM).
+
+ The drug involved in this study is: -Daratumumab

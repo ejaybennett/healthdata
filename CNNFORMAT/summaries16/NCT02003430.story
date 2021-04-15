@@ -1,0 +1,16 @@
+(secondQuint)Radiation Adherence/Toxicity in Patients With Non-Ovarian Gynecological Cancers.
+
+ There are little data regarding the impact of functional age on tolerance to radiotherapy for gynecologic cancers.
+
+ A comprehensive geriatric assessment (CGA) tool which measures functional status (including the Instrumental Activities of Daily Living (I-ADL)), among many other important geriatric related conditions, was developed by Hurria and colleagues.
+
+ Geriatric assessment variables including functional status predicted for toxicity in older patients receiving chemotherapy and surgery for multiple cancer types.
+
+, 2 We hypothesize that I-ADL can be used to predict treatment tolerance in patients of all ages receiving pelvic and/or paraaortic region radiation therapy for gynecologic malignancies.
+
+.
+
+ Radiation Adherence/Toxicity in Patients With Non-Ovarian Gynecological Cancers@highlight
+
+The purpose of this study is to investigate the association between the Independent Activities of Daily Living (I-ADL) component of the Comprehensive Geriatric Assessment (CGA) and poor tolerance to radiation treatment in older and younger patients with non-ovarian gynecological cancers.
+

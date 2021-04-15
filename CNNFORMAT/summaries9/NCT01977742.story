@@ -1,0 +1,18 @@
+(firstQuint)Rest-exercise Transition Training to Improve Cardiac Vagal Tone.
+
+ Allocating in the admission for a supervised exercise program all subjects evaluated with low cardiac vagal tone (cardiac vagal index 1,30), it is expected that from a sample of almost 150 subjects (all over 18 years-old, ranging mostly from 40 to 50), we will compare 50 subjects that adhered to the supervised exercise program ( more than 65% of expected presence).
+
+ Patients with pacemaker on unable to exercise in the bicycle will be excluded from the study, as well as those who does not adhere to at least more than 65% of the expected presence in the supervised exercise program.
+
+ All the sample will be randomized to performed 8 weeks of a specific sudden rest-exercise training and after 8 weeks will discontinue the protocol, or will do the opposite ( 8 weeks of no specific protocol, followed by 8 weeks of specific sudden rest-exercise training).
+
+ The cardiac vagal will be evaluated at every 8 weeks to measure the cardiac vagal index between both phases.
+
+ During all the time, all clients will perform aerobic, strength and flexibility exercises as part of the supervised exercise program.
+
+.
+
+ Rest-exercise Transition Training to Improve Cardiac Vagal Tone@highlight
+
+Purpose: to investigate the hypothetical additive value of a sudden rest-exercise training over the cardiac vagal of cardiac patients in a supervised exercise program.
+

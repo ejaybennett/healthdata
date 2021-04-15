@@ -1,0 +1,38 @@
+(fifthQuint)Reducing Barriers to Behavior Change Among Youth With Pediatric Overweight and Obesity.
+
+ Pediatric overweight and obesity are significant public health concerns, and group based interventions incorporating behavioral, nutrition, and activity disciplines have showed modest success in improving youth health and weight status.
+
+ The role of financial rewards in encouraging attendance at weight management sessions and acquisition of healthy eating and activity habits is not well understood in the context of pediatric weight management, however.
+
+ Behavior theory suggests that positive reinforcement can increase the frequency of desirable behaviors.
+
+ As such, the primary goal of the study is to evaluate the role of different reinforcement systems in increasing healthy nutritional choices, increasing physical activity, and decreasing sedentary activity among youth participating in a multifamily group based pediatric overweight/obesity intervention program.
+
+ An additional aim of the study is to evaluate the role of different levels of rewards in decreasing BMI among youth participating in a multifamily group based pediatric overweight/obesity intervention program.
+
+ Participants will be randomly assigned to one of two different reward conditions: Condition A (rewards for attendance only) and Condition A+G (rewards for attendance and goal attainment).
+
+ Up to 80 participants will be recruited to participate.
+
+ Eligibility criteria include patient age 8-17 years, patient with public insurance managed by Children's Community Health Network, English speaking patient and parent, and patient body mass index at or above the 85th percentile for age and sex.
+
+ Exclusion criteria include: significant patient developmental or cognitive delay, or concurrent involvement in another formal weight management program.
+
+ Pre and post intervention assessments of anthropometric, psychosocial, nutritional, and physical fitness variables will be conducted, and participants will complete 8 weekly multi-family group-based weight management intervention sessions involving psychology, physical therapy, and dietitian disciplines.
+
+ Following this intensive phase, families will follow up on a quarterly basis for one year.
+
+ Families will receive financial rewards for attending program sessions (Conditions A and A+G) and for completing behavioral monitoring assignments (Condition A+G).
+
+.
+
+ Reducing Barriers to Behavior Change Among Youth With Pediatric Overweight and Obesity@highlight
+
+The purpose of the study is to examine the extent to which two different reward systems implemented in the context of a multi-family pediatric weight management group differentially promote adoption of healthy eating and activity habits among overweight and obese 8-17 year old youth.
+
+ Participants will be randomly assigned to one of two reward conditions: rewards for attendance only or rewards for attendance and goal attainment.
+
+ We hypothesize that all participants will demonstrate significant increases in healthy nutritional choices and physical activity and significant reductions in sedentary activity from pre-intervention to post intervention.
+
+ We expect that participants in attendance plus goal attainment reward condition will demonstrate significantly greater improvements than participants in the attendance only condition.
+

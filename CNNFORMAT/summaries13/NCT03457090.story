@@ -1,0 +1,30 @@
+(thirdQuint)Extracorporeal Membrane Oxygenation Evaluated by Transcranial Doppler.
+
+.
+
+ Venoarterial Extracorporeal membrane oxygenation (ECMO) is used in adult with refractory cardiac failure as a life-saving measure.
+
+ Adults treated with ECMO survived to hospital discharge in 21,8% to 65,4% of cases.
+
+ Neurologic complications such as intracranial hemorrhage, anoxia and ischemia are major causes of death and long-term disability in ECMO patients (7% to 14%).
+
+ Current neurological monitoring techniques are insufficient to predict which critically ill patient receiving ECMO therapy will suffer from neurologic injury.
+
+ Even after a clinical suspicion of neurologic injury, diagnosis can be difficult.
+
+ TCD is commonly used to monitor the CBFV of traumatic brain injury.
+
+ There are no reports that evaluate CBFV of patients requiring ECMO therapy.
+
+ Patient will have to do both echocardiography and TCD to evaluate cardiac output and CBFV.
+
+ We will repeat these dopplers every 24 hours until ECMO withdrawal and one day after explantation.
+
+.
+
+ Extracorporeal Membrane Oxygenation Evaluated by Transcranial Doppler.
+
+@highlight
+
+To determine how venoarterial extracorporeal membrane oxygenation (ECMO) affects cerebral blood flow velocity (CBFV) measured by transcranial doppler (TCD), to determine whether specific changes in cerebral blood flow velocity may be associated with neurologic injury and to determine modifications of CBFV after withdrawal of ECMO.
+

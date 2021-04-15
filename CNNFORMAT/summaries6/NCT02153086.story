@@ -1,0 +1,12 @@
+(secondQuint)Ramelteon 8 mg Tablets Specified Drug-use Survey: <Long-term Survey on Insomnia Accompanied by Difficulty Falling Asleep>  Transitional Survey From the Preceding Drug-use Survey .
+
+ This survey was designed to examine the safety and efficacy of long-term use of ramelteon tablets (Rozerem 8 mg Tablets) in participants with difficulty falling asleep associated with insomnia in daily medical practice.
+
+The usual dosage for adults is 8 mg of ramelteon administered orally once daily at bedtime.
+
+.
+
+ Ramelteon 8 mg Tablets Specified Drug-use Survey: <Long-term Survey on Insomnia Accompanied by Difficulty Falling Asleep>  Transitional Survey From the Preceding Drug-use Survey @highlight
+
+The purpose of this survey is to examine the safety and efficacy of long-term use of ramelteon tablets (Rozerem 8 mg Tablets) in participants with difficulty falling asleep associated with insomnia in daily medical practice.
+

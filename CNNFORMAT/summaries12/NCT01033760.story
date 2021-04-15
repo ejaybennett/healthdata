@@ -1,0 +1,18 @@
+(secondQuint)Optimisation of Primary HIV1 Infection Treatment(ANRS 147 OPTIPRIM).
+
+ Primary HIV-1 infection is characterized by a phase of intense replication, with a quick dissemination and early changes in the immune system.
+
+ During primary HIV-1 infection, damages to MALT and GALT promotes a chronic cell activation, which participates in a progressive decay of immune functions.
+
+ After HAART initiation, the magnitude and rapidity of cell-associated HIV-DNA decrease are significantly higher in patients with primary HIV-1 infection than in patients with chronic infection (Ngo Giang Huong, AIDS 2004).
+
+ We hypothesize that an early intervention at different levels of viral replication with potent and well-tolerated new drugs may have a greater impact on cell-associated HIV-DNA levels than conventional triple-drug HAART.
+
+.
+
+ Optimisation of Primary HIV1 Infection Treatment(ANRS 147 OPTIPRIM)@highlight
+
+The purpose of this trial is to assess the impact of raltegravir, maraviroc, darunavir/r, and Truvada(R) (emtricitabine/tenofovir) vs.
+
+ darunavir/r and Truvada(R) on cell-associated HIV-DNA levels in patients with primary HIV-1 infection.
+

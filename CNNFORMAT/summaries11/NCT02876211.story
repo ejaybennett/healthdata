@@ -1,0 +1,20 @@
+(thirdQuint)Paricalcitol Improves Anemia of Inflammation.
+
+ Anemia of inflammation and secondary hyperparathyroidism (SHPT) are two common clinical complications in patients with chronic kidney disease.
+
+ Eryptosis (accelerated red blood cell death) is a novel mechanism associated with renal anemia and several factors such us iron, erythropoietin and klotho (anti-aging hormone) deficiency have been associated with this process.
+
+ The use of the paricalcitol may inhibit pro-inflammatory cytokines expression, especially interleukine-6, which is one of the most important cytokine associated with the pathogenesis of the AI.
+
+ If the use of the paricalcitol for the SHPT control may exert direct influence on the erythropoiesis process is not known.
+
+.
+
+ Paricalcitol Improves Anemia of Inflammation@highlight
+
+Anemia of inflammation (AI) is a common comorbidity in hemodialysis patients.
+
+ Paricalcitol is a selective vitamin D receptor activator with potential benefits on anti-inflammatory cytokines expression.
+
+ The paricalcitol for the secondary hyperparathyroidism control may improve AI decreasing erythropoietin stimulating agents (ESAs) dosage.
+

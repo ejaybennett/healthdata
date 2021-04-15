@@ -1,0 +1,42 @@
+(thirdQuint)B-Cell Hematologic Malignancy Vaccination Registry.
+
+ This is a prospective registry study on the immunizations in patients with B-Cell Hematologic Malignancies at Aurora Health Care.
+
+ This observational study will consist of prospective medical record review of Aurora Health Care patients newly diagnosed B-Cell Hematologic Malignancies and will be used to characterize vaccination history, infection rate, and hospitalization rate.
+
+ This is the second study in the series of studies designed to provide important information about the best way and time to vaccinate patients with MM and similar cancers to flu and pneumonia and to gather additional information about immune function in this patient population.
+
+ The registry will include all adult patients who are newly diagnosed with the following B-Cell Hematologic Malignancies: Monoclonal gammopathy of undetermined significance (MGUS), Smoldering multiple myeloma (SMM), Multiple myeloma (MM), Waldenstroms Macroglobulinemia (WM), Monoclonal B-cell lymphocytosis (MBL), Chronic lymphocytic leukemia (CLL), or B-Cell Non-Hodgkin lymphoma (NHL).
+
+ The prevalence of newly diagnosed B-Cell Hematologic Malignancies at Aurora Health Care is approximately 1000 patients annually.
+
+ This registry will be ongoing to collect real time data, with no definite sample size planned; however, data will be collected for at least 10 years.
+
+ This time frame is based on Surveillance, Epidemiology, and End Results Program (SEER) data.
+
+ There is a 50% survival rate at 5 years after diagnosis for MM, so the 10 year time frame will be able to capture long term outcome in patients.
+
+ Medical record information will be obtained through electronic data capture by Aurora Health Care staff with access to the electronic medical records.
+
+ Data will be manually reviewed by the coordinator, Investigator and co-investigators for accuracy and completeness, to the extent available in the clinical medical record.
+
+ Additionally, a biostatistician will assist in data analysis.
+
+ Descriptive statistics such as counts, proportions or percentages for category variables and mean and standard deviation for continuous variables will be computed for the all the variables.
+
+ Depending upon the distribution of the category variables appropriate statistical tests such as chi-square and/or Fisher exact test will be used to find out the statistical significance.
+
+ For continuous variables an appropriate statistical test such as t-tests and/or F test will be used.
+
+ This registry will be used for this research study, and may be queried for internal quality improvement projects as well.
+
+ The principal investigator will be responsible for the overall monitoring of the data and safety of study participants/data integrity, with the assistance of other study team members.
+
+.
+
+ B-Cell Hematologic Malignancy Vaccination Registry@highlight
+
+The goal of this study is to develop a vaccination registry system for Aurora Health Care patients newly diagnosed with MM and other B-Cell Hematologic Malignancies in order to prospectively characterize vaccination history and outcomes such as infection in these patients at Aurora Health Care.
+
+ Additionally hospitalization rates, cost analysis, infection (influenza, pneumonia, other) related to vaccination in this patient population will be evaluated.
+

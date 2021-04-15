@@ -1,0 +1,18 @@
+(firstQuint)Regulation of Lipoprotein Transport in Metabolic Syndrome.
+
+ The metabolic syndrome (MetS) portends diabetes and cardiovascular disease (CVD).
+
+ Dyslipoproteinaemia, reflected by elevated plasma triglyceride and reduced high-density lipoprotein (HDL) concentrations, is a cardinal feature of MetS that independently predicts CVD and is accordingly a therapeutic target for risk reduction.
+
+ GW5015156 is a new PPAR-delta agonist that could be used to treat dyslipidemia in insulin resistance and obesity.
+
+ However, the precise mechanisms of action of this agent on lipoprotein kinetics in MetS subjects have not yet fully been investigated.
+
+ We therefore carried out a study to study the effect of GW5015156 on lipoprotein transport in subject with metabolic syndrome.
+
+.
+
+ Regulation of Lipoprotein Transport in Metabolic Syndrome@highlight
+
+The purpose of this study is to determine whether PPAR-delta agonist (GW5015156)had favorable effect on lipoprotein metabolism.
+

@@ -1,0 +1,24 @@
+(firstQuint)ApneaLink Air Home Sleep Testing (HST) Device Validation Study.
+
+ The current gold standard for sleep disordered breathing (SDB) diagnosis is in-laboratory polysomnography (PSG).
+
+ A barrier of acceptance of Home Sleep Apnea Testing (HSAT) devices as a diagnostic test is their inability to accurately measure total sleep time (TST).
+
+ A novel algorithm developed by ResMed, Ltd.
+
+ allows the AL device to accurately calculate TST, however, this algorithm has not yet been validated.
+
+ The ApneaLink Air (AL) device is a type III HSAT device.
+
+ The device is capable of recording up to four channels of data including: flow and snore via a nasal cannula attached to a pressure transducer, a respiratory effort belt, a pulse oximeter to measure pulse and oxygen saturation, and an actigraphy monitor to measure TST along with flow.
+
+ The AL device has been validated against PSG for AHI, and Cheyne-Stoke respiration detection .
+
+ Further validation of the effort belt is necessary to determine the accuracy of the AL ability to differentiate between obstructive and central apneic events.
+
+.
+
+ ApneaLink Air Home Sleep Testing (HST) Device Validation Study@highlight
+
+This study compares the diagnostic capability of a home sleep apnea testing device to polysomnography.
+

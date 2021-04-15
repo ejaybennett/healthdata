@@ -1,0 +1,40 @@
+(thirdQuint)Combination Chemotherapy in Treating Patients With Advanced Solid Tumors.
+
+ OBJECTIVES: I.
+
+ Determine the maximum tolerated dose of flavopiridol (alvocidib), irinotecan (irinotecan hydrochloride), and cisplatin in patients with advanced solid tumors.
+
+ II.
+
+ Determine the clinical pharmacokinetics of this regimen in these patients.
+
+ III.
+
+ Determine, preliminarily, the therapeutic activity of this regimen in these patients.
+
+ OUTLINE: This is a dose-escalation study.
+
+ Patients are stratified according to the number of prior treatment regimens (0 or 1 vs more than 1).
+
+ Patients receive irinotecan hydrochloride intravenously (IV) over 30 minutes followed immediately by cisplatin IV over 30 minutes followed 7 hours later by alvocidib IV over 1-4.
+
+5 hours weekly for 2 weeks.
+
+ Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+ Cohorts of 3-6 patients receive escalating doses of cisplatin, alvocidib, and irinotecan hydrochloride until the maximum tolerated dose (MTD) of each is determined.
+
+ The MTD is defined as the dose preceding that at which at least 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+ Once the MTD is determined, 12 additional patients are treated at the recommended phase II dose.
+
+.
+
+ Combination Chemotherapy in Treating Patients With Advanced Solid Tumors@highlight
+
+Phase I trial to study the effectiveness of combining alvocidib, irinotecan hydrochloride, and cisplatin in treating patients who have advanced solid tumors.
+
+ Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining more than one drug may kill more tumor cells.
+

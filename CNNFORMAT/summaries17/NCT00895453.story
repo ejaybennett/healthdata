@@ -1,0 +1,28 @@
+(secondQuint)Monthly Itraconazole Versus Classic Homeopathy for Treatment of Recurrent Vulvovaginal Candidiasis (RVVC).
+
+ Objective: Antimycotics effectively treat sporadic and recurrent vulvovaginal candidiasis (RVVC).
+
+ Classic homeopathy (CH) is also used to treat this condition.
+
+ We compared the efficacy of CH and itraconazole in reducing the frequency of RVVC episodes.
+
+ Design: Single-centre, prospective, randomized.
+
+ Sample: One-hundred-and-fifty patients with a history of RVVC and an acute episode of VVC.
+
+ Methods: Women were randomised into 3 groups: itraconazole with lactobacilli (group 1), itraconazole without lactobacilli (group 2) and CH (group 3).
+
+ Itraconazole treatment of acute infection was followed by a 6-months maintenance regimen with monthly single-day itraconazole (200 mg bid).
+
+ Thereafter, patients were followed without treatment for 6 months.
+
+ Women in group 1 were given additional vaginal lactobacilli for six days per month.
+
+ CH treatment was performed for 12 months.
+
+.
+
+ Monthly Itraconazole Versus Classic Homeopathy for Treatment of Recurrent Vulvovaginal Candidiasis (RVVC)@highlight
+
+A prospective study to evaluate the efficacy of classic homeopathic therapy compared to maintenance itraconazole therapy with and without additional exogenous lactobacillus for treatment of recurrent Candida vaginitis.
+

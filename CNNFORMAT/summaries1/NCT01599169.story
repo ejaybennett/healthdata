@@ -1,0 +1,20 @@
+(secondQuint)Evaluation of the Efficacy and Tolerance of B-Back on the Burnout Syndrome.
+
+ The burnout syndrome currently concern all the professional categories.
+
+ In 2010 the WHO estimated that the three countries with the most important work-related depression are Unites States, Ukraine and France.
+
+ The direct and indirect costs of work-related stress for the insurance program were not insignificant.
+
+ The purpose of this study is to determine the efficacy of the food supplement B-Back(R) proposed in order to improved the symptoms of the burnout syndrome : stress, fatigue, emotional imbalance, anxiety, sleep, etc.
+
+ The main objective is to determine the efficacy of B-Back(R) on the symptoms suggestive of the burnout syndrome by using the Burnout Measure Short version (BMS-10).
+
+ The others objectives were to evaluate the tolerance of the product, to evaluate the efficacy of B-Back(R) on the symptoms suggestive of the burnout syndrome by using the Maslach Burnout Inventory, depression, and the global quality of professional and family life, sleep,and fatigue (energy).
+
+.
+
+ Evaluation of the Efficacy and Tolerance of B-Back on the Burnout Syndrome@highlight
+
+The purpose of this study is to determine the efficacy and the tolerance of the food supplement B-Back(R), containing -casozepine, taurine, eleutherococcus senticosus and Extramel(R), on the burnout syndrome.
+

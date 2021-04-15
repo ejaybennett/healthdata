@@ -1,0 +1,38 @@
+(fifthQuint)Nicotine Replacement Therapy (NRT) and Bupropion Mechanisms of Effectiveness in Smokers.
+
+ The first aim of this revised proposal is to accurately assess the duration and trajectories of smoking abstinence symptoms and associated biobehavioral indices across 66 days of quitting smoking in 3 different treatment groups: 1) bupropion SR (BUP), 2) transdermal nicotine patch (TNP), and 3) placebo patch plus placebo pill.
+
+ Study sensitivity and accuracy will be maximized by using procedures designed to maximize abstinence and minimize study dropout.
+
+ The second aim is to characterize brain and psychological mechanisms by which BUP and TNP promote abstinence.
+
+ While the efficacies of BUP and TNP in promoting smoking abstinence have been repeatedly demonstrated, little is known about the mechanisms mediating this efficacy.
+
+ The final primary goal of this competitive continuation proposal is to characterize individual differences in psychological and brain mechanisms mediating the beneficial effects of BUP and TNP on smoking abstinence and withdrawal symptoms.
+
+ A secondary goal is to assess the ability of a battery of innovative brain and biobehavioral measures of attention and affect to predict relapse.
+
+ To achieve these goals, the effects of quitting smoking with or without the help of TNP and BUP will be assessed intensively across 66 days of abstinence.
+
+ Dependent measures will be mood, vigilance, attentional bias to smoking and emotional stimuli, and related physiological measures (resting EEG activation and activation asymmetry indices of affective states and traits, and event-related potential activity elicited by emotional and smoking stimuli).
+
+ Smokers will be randomly assigned to one of three immediate-quit groups (N = 60 per group): (1) bupropion + placebo patch, (2) placebo pill + nicotine patch, and (3) placebo patch + placebo pill; or to a fourth (control) group (N = 40) that will quit after the final experimental session (after the other subjects have completed their 66-day* abstinence period).
+
+ Subjects in the 3 treatment groups and the control group will have the same set of biobehavioral measures assessed during the experimental sessions at the same points in time.
+
+ It is hypothesized that BUP and TNP will have both common and unique mechanisms by which they reduce withdrawal symptoms and that gender and personality traits will moderate the effects of these treatments.
+
+ (Note.
+
+* To avoid final-session mood and arousal effects subjects will actually quit for 67 days, but biobehavioral measures will be collected on the 66th day of abstinence.
+
+).
+
+ Nicotine Replacement Therapy (NRT) and Bupropion Mechanisms of Effectiveness in Smokers@highlight
+
+The purpose of this study is to better characterize differences in mood, attention, brain activation patterns underlying the beneficial effects of pharmacological treatments previously demonstrated to be help individuals successfully quit tobacco smoking.
+
+ Smokers will be randomly assigned to one of three treatments: 1) bupropion sustained release (SR), 2) nicotine patch, or 3) placebo patches plus pills across a 45-day period with a 3-week intensive post-treatment follow-up.
+
+ In addition, 20 percent of the subjects will be randomized to a delayed-quit control group.
+

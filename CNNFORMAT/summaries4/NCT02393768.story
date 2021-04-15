@@ -1,0 +1,20 @@
+(secondQuint)Epigenetic Reprogramming of Monocytes in Patients With Coronary Atherosclerosis.
+
+ Rationale: The innate immune system plays a pivotal role in the development and progression of atherosclerosis.
+
+ Recently, it was reported that monocytes can develop a long-lasting immunological memory after stimulation with various microorganisms, which has been termed 'trained innate immunity'.
+
+ This memory is induced by epigenetic reprogramming.
+
+ We hypothesize that trained monocytes augment atherogenesis.
+
+ Objective: The main objective is to study whether patients with coronary atherosclerosis show specific epigenetic changes in the promoter regions of pro-inflammatory cytokines and chemokines and whether this correlates with the inflammatory phenotype of these cells.
+
+ Study design: Observational study Study population: Adult patients who have had computed tomography coronary angiography because of chest pain: 20 patients without atherosclerosis and 20 patients with severe atherosclerosis will be included.
+
+.
+
+ Epigenetic Reprogramming of Monocytes in Patients With Coronary Atherosclerosis@highlight
+
+In this study, the investigators will determine whether patients with documented atherosclerosis are characterized by specific epigenetic changes in circulating cells of the innate immune system, compared to patients without atherosclerosis.
+

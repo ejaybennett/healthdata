@@ -1,0 +1,64 @@
+(fifthQuint)Management of Endometrial Hyperplasia With a LNG-IUS: Multicenter Study: KGOG2006.
+
+ PURPOSE This prospective study aims to analyze the treatment efficacy of LNG-IUS in endometrial hyperplasia patients and to analyze the accuracy of office endometrial aspiration biopsy during the LNG-IUS is placed in uterus.
+
+ ENDPOINTS The primary endpoints of this study is response rate.
+
+ Secondary endpoint is to estimate the consistency of the results between office endometrial aspiration biopsy and dilatation and curettage (D&C) procedure.
+
+ STUDY SETTING AND PROTOCOL REVIEW This study is a single arm, prospective multi-institutional study.
+
+ Its protocol was approved by the Institutional Review Board of each clinical trial institution.
+
+ PLANNED CLINICAL TRIAL PERIOD Patient Selection and Enrollment: 12month after IRB approval of clinical trial Institution.
+
+ TREATMENT METHODS LNG-IUS is inserted into uterus of which patients are histologically confirmed as endometrial hyperplasia.
+
+ Office endometrial aspiration biopsy and transvaginal ultrasound is conducted every 3 months at outpatients with LNG-IUS inside in uterus.
+
+ At the first year of LNG-IUS insertion, D&C is performed under anesthesia after the endometrial aspiration biopsy with LNG-IUS inside in uterus and the biopsy findings are compared.
+
+ If the office endometrial aspiration biopsy shows exacerbation, treatment with LNG-IUS must be stopped and other specific treatment should be initiated.
+
+ INVESTIGATIONAL PRODUCT - General Name/Brand name: Mirena - Bayer Active ingredient: levonorgestrel 52mg cent Description: Mirena is a hormone-releasing T-shaped intrauterine system.
+
+ A removal thread is attached to a loop at the end of the vertical stem of the T-body.
+
+ PLANNED NUMBER OF SUBJECT 80 patients with biopsy proven endometrial hyperplasia (54 patients without atypical hyperplasia, 26 patients with atypical hyperplasia) STATISTICAL CONSIDERATIONS The primary objective of this study is to estimate the treatment efficacy of the LNG-IUS in endometrial hyperplasia patients with respect to the response rate.
+
+ We expect different response rate depending on the atypia status.
+
+ The atypia status will be determined by the office endometrial aspiration biopsy which will be performed before and three months after the LNG-IUS.
+
+ The expected response rate would be 70% for those with Atypia,, and 85% for those without Atypia.
+
+ Different estimation approach will be used depending on the Atypia status.
+
+ For those without Atypia, the response rate will be estimated with margin of error of 10%.
+
+ The sample size needed for this estimation would be 54 patients after considering 10% of follow-up loss.
+
+ For those with atypia, we will compare with the historical control where the expected response rate would be 40%.
+
+ The sample size needed for the comparison, a total of 26 patients will be needed after consideration of 90% power, 5% one-sided test type I error, and 10% follow-up loss.
+
+ The response rate with 95% confidence interval will be generated and the Z-test will be used for comparisons of the response rates.
+
+ The Secondary objective is to estimate the consistency of the office endometrial aspiration biopsy and D&C.
+
+ Kappa statistics will be used.
+
+ Management of Endometrial Hyperplasia With a LNG-IUS: Multicenter Study: KGOG2006@highlight
+
+A prospective multicenter trial has been started in Korea to investigate the treatment efficacy of Levonorgestrel-releasing intrauterine system (LNG-IUS) in endometrial hyperplasia (EH) patients.
+
+ The LNG-IUS is known as an alternative of oral progesterone agents without incurring the disadvantages of oral progestogens.
+
+ Therefore, it is hypothesized that if the therapeutic efficacy of LNG-IUS is similar or above oral progesterone, LNG-IUS would be a standard treatment for the EH patients who don't want hysterectomy.
+
+ LNG-IUS is inserted into uterus of which patients are histologically confirmed as endometrial hyperplasia.
+
+ Office endometrial aspiration biopsy and transvaginal ultrasound is conducted every 3 months at outpatients The primary endpoint is response rate.
+
+ Secondary endpoint is to estimate the consistency of the results between office endometrial aspiration biopsy and dilatation and curettage (D&C) procedure.
+

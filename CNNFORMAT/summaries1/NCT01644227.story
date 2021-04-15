@@ -1,0 +1,16 @@
+(thirdQuint)Dual Mobility Cup in Total Hip Arthroplasty Preventing Dislocation in Patients at Risk.
+
+ Retrospectively study reviewing 34 patients operated with dual mobility cups in total hip arthroplasty between January 2009 and June 2012 at Sundsvall Hospital.
+
+ Indications for surgery is recurrent dislocation or patients at risk for dislocation after total hip arthroplasty suffering osteoarthritis or femoral neck fracture.
+
+ Patients are followed recording complications, reoperations, functional outcome (Harris hip score and EQ5D) in june 2012.
+
+.
+
+ Dual Mobility Cup in Total Hip Arthroplasty Preventing Dislocation in Patients at Risk@highlight
+
+Retrospectively study reviewing 34 patients operated with dual mobility cups in total hip arthroplasty between January 2009 and June 2012 at Sundsvall Hospital.
+
+ Hypothesis: The dual mobility socket reduce the rate of dislocation in patient at high risk but increase the incidence of postoperative infection.
+

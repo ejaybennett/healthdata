@@ -1,0 +1,12 @@
+(firstQuint)Clinical Evaluation of a New Reduced Volume Bowel Preparation.
+
+ Open prospective pilot monocentric phase II clinical trial evaluating the therapeutic efficacy of a new "Low Dose Bowel Prep" formulation for gut cleansing prior to colonoscopy.
+
+ Thirty patients admitted to the hospital (inpatients) planned to undergo a complete colonoscopy will have gut cleansing with the "Low Dose Bowel Prep" using a one-step intake mode.
+
+.
+
+ Clinical Evaluation of a New Reduced Volume Bowel Preparation@highlight
+
+Monocentric, cleansing evaluation pilot study in patients undergoing colonoscopy.
+

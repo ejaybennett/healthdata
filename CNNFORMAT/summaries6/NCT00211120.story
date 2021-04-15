@@ -1,0 +1,30 @@
+(thirdQuint)Correction of Hemoglobin and Outcomes in Renal Insufficiency (CHOIR).
+
+ This is a prospective, open-label, randomized, multi-center study in patients with CKD.
+
+ Patients who meet the selection criteria will be randomly assigned to one of two treatment arms: GROUP A: PROCRIT(R) (Epoetin alfa) therapy directed at maintaining the hemoglobin level as close to 13.
+
+5 g/dL as possible (may be slightly higher or lower) or GROUP B: PROCRIT(R) (Epoetin alfa) therapy directed at maintaining the hemoglobin level as close to 11.
+
+3 g/dL as possible (may be slightly higher or lower).
+
+ Patients will receive weekly doses of PROCRIT(R) (Epoetin alfa).
+
+ Subsequent doses of PROCRIT(R) will be given weekly as needed with dose adjustments made to maintain the hemoglobin (Hb) as close to the target level as possible until the initiation of Renal Replacement Therapy (RRT) or 36 months, whichever comes first.
+
+ The purpose of this study is to compare the outcomes of patients with CKD randomly assigned to 2 treatment groups, which differ only in their targeted hemoglobin levels.
+
+ This study will test the primary hypothesis that the level of anemia correction with once weekly dosing of PROCRIT(R) (Epoetin alfa) in patients with chronic kidney disease will decrease mortality and cardiovascular morbidity.
+
+ Patients will receive a starting dose of PROCRIT(R) 10,000 Units (U) subcutaneously (SC) 1x / week.
+
+ After 3 weekly doses, subsequent doses and dosing intervals of PROCRIT(R), up to a maximum dose of 20,000 U for 36 months, will be adjusted based on an assessment of the two most recent hemoglobin values.
+
+.
+
+ Correction of Hemoglobin and Outcomes in Renal Insufficiency (CHOIR)@highlight
+
+The purpose of this study is to compare the outcomes of patients with chronic kidney disease (CKD) randomly assigned to 2 treatment groups, which differ only in their targeted hemoglobin levels.
+
+ This study will test the primary hypothesis that the level of anemia correction with once weekly dosing of PROCRITA(R) (Epoetin alfa) in patients with chronic kidney disease will decrease mortality and cardiovascular morbidity.
+

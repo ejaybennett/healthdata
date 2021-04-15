@@ -1,0 +1,22 @@
+(secondQuint)Preoperative Assessment of Aortic Valve Stenosis and Coronary Artery Disease.
+
+ Until now invasive coronary angiography has established itself for the assessment of symptomatic aortic valve stenosis.
+
+ Literature shows a good correlation between MSCT, MRI, TTE and TEE for evaluating the severity of the aortic valve stenosis.
+
+ The dual-source computed tomography (DSCT) is capable of assessing coronary arteries with a high sensitivity and specificity in term of relevant stenosis (>50%), due to its excellent spatial and temporal resolution.
+
+ This study includes the assessment of patients with symptomatic valve stenosis.
+
+ The severity of the aortic valve stenosis is being assessed by DSCT and TTE.
+
+ Significant coronary artery stenosis and its localisation are assessed by DSCT and invasive coronary angiography.
+
+ We examine the correlation between DSCT on one side and either TTE or invasive coronary angiography on the other.
+
+.
+
+ Preoperative Assessment of Aortic Valve Stenosis and Coronary Artery Disease@highlight
+
+We sought to determine whether the dual-source computed tomography assessment of aortic valve stenosis and coronary artery disease is equivalent to or even better than conventional invasive coronary angiography and transthoracic echocardiography.
+

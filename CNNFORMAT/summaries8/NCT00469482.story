@@ -1,0 +1,44 @@
+(thirdQuint)The SOMNUS Study: Sedative Optimization Via Monitoring Neurological Status.
+
+ Sedatives and analgesics are used to maintain comfort in almost all mechanically ventilated patients.
+
+ Unfortunately, these medications also have many deleterious effects.
+
+ Sedatives increase time on mechanical ventilation, have adverse hemodynamic effects, disturb sleep architecture, and have been determined to be an independent risk factor for ICU delirium.
+
+ Delirium is an independent determinant of longer hospital stay, higher costs, and higher mortality, and the presence of delirium is highly predictive of long-term neurocognitive deficits.
+
+ In consideration of these facts, better methods are needed to guide sedation, avoid oversedation, and possibly reduce delirium.
+
+ Current guidelines recommend titration of sedation to a goal level based on bedside evaluation using a validated assessment tool, e.
+
+g.
+
+ the Richmond Agitation and Sedation Scale.
+
+ These assessment tools, however, are underused and many ICU patients are oversedated with well described consequences.
+
+ A practical method by which to determine where a patient lies may prove beneficial in optimizing our delivery of sedatives and improving patient outcomes.
+
+ While conventional EEG monitoring is not practical in the ICU, bispectral index (BIS) monitoring may be easily used in this clinical setting.
+
+ BIS monitoring may provide a means to assess sedation level in unresponsive or paralyzed ICU patients and to decrease the total amount of sedatives/analgesics administered.
+
+ Additional benefits of a combined clinical sedation scale and BIS-monitoring approach could include a decreased incidence and/or duration of delirium as well as a decreased incidence and severity of ICU-associated prolonged neurocognitive deficits.
+
+ The specific aims of this study are as follows: Aim 1: To determine if sedative and analgesic medication delivery guided by clinical sedation scales and BIS monitor parameters of over-sedation will decrease time on mechanical ventilation.
+
+ Aim 2: To determine if sedative and analgesic medication delivery guided by clinical sedation scales and BIS monitor parameters of over-sedation will decrease the duration of delirium and coma when compared to the use of clinical sedations scales alone.
+
+ Aim 3: To determine if sedative and analgesic medication delivery guided by clinical sedation scales and BIS monitor parameters of over-sedation will decrease the incidence and severity of subacute cognitive impairment when compared to the use of clinical sedation scales alone.
+
+ Aim 4: To characterize polysomnography findings in critically ill patients at various BIS levels.
+
+ Aim 5: To determine if poor sleep quality is a factor in post critical illness neurocognitive dysfunction.
+
+.
+
+ The SOMNUS Study: Sedative Optimization Via Monitoring Neurological Status@highlight
+
+A combined strategy of Richmond Agitation and Sedation Scale (RASS) clinical targeting plus bispectral index (BIS) guided sedation in mechanically ventilated, critically ill patients will decrease time on mechanical ventilation, decrease the duration of intensive care unit (ICU) delirium and coma, and will improve subacute neurocognitive function when compared to sedation guided by RASS targeting alone.
+

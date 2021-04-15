@@ -1,0 +1,24 @@
+(fifthQuint)Improvement of Care for Outpatients With Type 2 Diabetes Through Self-Care Multidisciplinary Workshop for Diabetes.
+
+ Ninety-six patients with type 2 diabetes from our Diabetes Outpatient Clinic will be randomly assigned to maintain standard treatment or participate in the Self-Care Multidisciplinary Workshop for Diabetes.
+
+ The workshop consists of 15-minute individual meetings with each professional of a multidisciplinary team (nurse, pharmacist, nutritionist, physical educator and social worker) in which education and self-care topics will be approached aiming at the formation of knowledge and skills necessary for patient self-care.
+
+ The workshop will be offered in 3 different modules with 2 to 4 weeks difference between them.
+
+ Patients will be followed for 12 months.
+
+ The variation of glycated hemoglobin as well as aspects associated with self-care, adherence and treatment satisfaction will be evaluated at the study entry, 6 and 12 months later.
+
+.
+
+ Improvement of Care for Outpatients With Type 2 Diabetes Through Self-Care Multidisciplinary Workshop for Diabetes@highlight
+
+Ninety-six patients with diabetes will be randomly assigned to maintain standard treatment or participate in the Self-Care Multidisciplinary Workshop for Diabetes.
+
+ The workshop consists of individual meetings, with a multidisciplinary team (nurse, pharmacist, nutritionist, physical educator and social worker) in which education and self-care topics will be approached aiming at the formation of knowledge and skills necessary for patient self-care.
+
+ The workshop will be offered in 3 different modules with 2 to 4 weeks difference between them.
+
+ The variation of glycated hemoglobin as well as aspects associated with self-care, adherence and treatment satisfaction will be evaluated at the study entry, 6 and 12 months later.
+

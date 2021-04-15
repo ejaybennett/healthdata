@@ -1,0 +1,42 @@
+(secondQuint)Effectiveness of Arginine as a Treatment for Sickle Cell Anemia.
+
+ SCD is an inherited blood disorder.
+
+ Symptoms include anemia, infections, organ damage, and intense episodes of pain that are called "sickle cell crises.
+
+" SCD is caused by an abnormal type of hemoglobin, which is a protein inside red blood cells that carries oxygen.
+
+ In people with SCD, the abnormal hemoglobin distorts the shape of the red blood cells.
+
+ This causes the red blood cells to clump together, decreasing blood flow and oxygen delivery to the body's tissues.
+
+ The reduced levels of oxygen can lead to sickle cell crises and tissue damage.
+
+ Hemolysis, the destruction of red blood cells, is also a hallmark of SCD.
+
+ During hemolysis, hemoglobin is released into the bloodstream, where it removes nitric oxide (NO), a natural chemical in the body that expands blood vessels.
+
+ Arginase, another protein released during hemolysis, removes arginine from the bloodstream, which can also lead to decreased NO levels.
+
+ The lack of NO constricts blood vessels, further contributing to painful sickle cell crises.
+
+ Arginine supplementation may increase healthy hemoglobin and NO production and, in turn, prevent or reduce sickle cell crises.
+
+ The purpose of this study is to evaluate the effectiveness of arginine at increasing NO levels, improving red blood cell function, and reducing hospitalizations and pain medication use in people with SCD.
+
+ This study will enroll children and adults with SCD.
+
+ Participants will be randomly assigned to receive twice daily doses of either a low dose of arginine, a high dose of arginine, or placebo for 12 weeks.
+
+ Study visits will occur at baseline, three times during Month 1, and Weeks 8, 12, 14, and 16.
+
+ Each study visit will include an echocardiogram to measure heart activity, blood collection, and a medical history review to identify adverse events, pain medication usage, headaches, emergency department visits, and hospitalizations.
+
+.
+
+ Effectiveness of Arginine as a Treatment for Sickle Cell Anemia@highlight
+
+Sickle cell disease (SCD), also known as sickle cell anemia, is an inherited genetic disease that can cause intense pain episodes.
+
+ This study will evaluate the effectiveness of the nutritional supplement arginine at improving blood cell function and disease symptoms in people with SCD.
+

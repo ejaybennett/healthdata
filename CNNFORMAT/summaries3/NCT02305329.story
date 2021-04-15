@@ -1,0 +1,16 @@
+(firstQuint)Dosage Form Proportionality of Opicapone To-Be-Marketed Formulation.
+
+ Single-centre, open-label, randomized, two-sequence, two-way crossover study.
+
+ The study consisted of two consecutive single-dose treatment periods separated by a washout period of 10 to 14 days or more.
+
+ In Group 1 the volunteers received a single oral dose of 25 mg OPC.
+
+ In Group 2 the volunteers received a single oral dose of 50 mg OPC.
+
+ Dosage Form Proportionality of Opicapone To-Be-Marketed Formulation@highlight
+
+Single-centre, open-label, randomized, two-sequence, two-way crossover study.
+
+ The study consisted of two consecutive single-dose treatment periods separated by a washout period of 10 to 14 days or more.
+

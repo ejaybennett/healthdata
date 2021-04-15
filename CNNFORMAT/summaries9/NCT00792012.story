@@ -1,0 +1,28 @@
+(firstQuint)A Dose Per Fraction Escalation Trial of Hypofractionated IMRT With Temozolomide for Newly Diagnosed Glioblastoma.
+
+ Hypo-IMRT is given in fewer treatments than conventional radiation therapy.
+
+ This will be a dose per fraction escalation study.
+
+ A dose per fraction escalation study means that successive groups of patients will receive higher doses per fraction of radiation while keeping the total dose of radiation the same (60 Gy, Gy is a radiation unit).
+
+ The radiation dose per fraction will be increased and the numbers of radiation treatments will be decreased until a fraction dose is reached at which there are unacceptable side effects compared with possible benefit.
+
+ Which group subjects are assigned to will depend on what stage the study has reached at the time the subject decide to participate.
+
+ This research is being done because with current standard radiation therapy (A total dose of 60 Gy given 2 Gy a day over 6 weeks) the outcome is very poor.
+
+ New and more effective radiation therapy methods are desperately needed for patients with GBM.
+
+ In this study, radiation therapy is given together with chemotherapy of Temozolomide.
+
+ This study is also designed to monitor the level of some of the known cytokines (specific proteins in the blood) before and after radiation, and in meantime to screen unknown proteins in patients' blood before and after radiation therapy.
+
+ Hopefully, this will provide some clues for future study of monitoring radiation damage, and possibly new therapeutic approach for patients with GBM.
+
+.
+
+ A Dose Per Fraction Escalation Trial of Hypofractionated IMRT With Temozolomide for Newly Diagnosed Glioblastoma@highlight
+
+The purpose of the study is to find out the highest dose per fraction of hypofractionated Intensity-Modulated Radiation Therapy (Hypo-IMRT) that can be safely given with temozolomide chemotherapy.
+

@@ -1,0 +1,18 @@
+(firstQuint)A Study of Istradefylline (KW-6002) as Monotherapy in Parkinson's Disease (PD) Patients.
+
+ Parkinson's disease is a progressive disease which results in deterioration of motor function and is the result of dopamine depletion in specific brain structures.
+
+ Current therapeutic approaches include dopamine replacement and the use of dopamine receptor agonist drugs.
+
+ These therapies are effective but may be associated with unwanted complications like wearing off phenomena and involuntary abnormal movements (dyskinesia).
+
+ Istradefylline may provide a nondopaminergic approach to the treatment of Parkinson's disease.
+
+ This study will compare the efficacy of 40 mg per day of istradefylline in improving the symptoms of Parkinson's disease with placebo.
+
+.
+
+ A Study of Istradefylline (KW-6002) as Monotherapy in Parkinson's Disease (PD) Patients@highlight
+
+The primary purpose of this study is to evaluate the efficacy, safety, and tolerability of 40 mg per day of istradefylline (KW6002) as monotherapy in patients with Parkinson's disease.
+

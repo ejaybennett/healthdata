@@ -1,0 +1,16 @@
+(firstQuint)Hepatic Artery Infusion With FOLFOX in Liver Metastasis From Breast Cancer.
+
+ In this pilot study, the investigators will deliver oxliplatin and 5-FU via HAI to breast cancer patients with liver-only or liver-predominant metastases who have failed at least one line of systemic chemotherapy in metastatic setting.
+
+ The investigators hypothesize that HAI chemotherapy will be able to convert some patients to surgical resection candidates, or/and to overcome chemo-resistance of liver metastases to systemic i.
+
+v.
+
+ chemotherapy for some clinically fit, heavily pre-treated patients.
+
+.
+
+ Hepatic Artery Infusion With FOLFOX in Liver Metastasis From Breast Cancer@highlight
+
+Deliver oxliplatin and 5-FU via HAI to breast cancer patients with liver-only or liver-predominant metastases who have failed at least one line of systemic chemotherapy in metastatic setting.
+

@@ -1,0 +1,40 @@
+(fifthQuint)Mindfulness Group-based Intervention for Early Psychosis: A Pilot Study.
+
+ The purpose of this study is to determine whether the Mindfulness Ambassador Council (MAC), a 12-week facilitated group mindfulness based intervention specifically designed to promote mindfulness skills and the development of emotional and social competencies in youth, is an effective, feasible, and acceptable means of treating people in the early stages of psychotic illnesses.
+
+ We intend to randomly assign 30 patients being treated for psychotic illnesses in an early intervention program to an immediate treatment intervention or a delayed treatment intervention.
+
+ Participants assigned to the immediate treatment intervention will receive the MAC intervention at the onset of the study whereas those assigned to the delay treatment intervention will receive the MAC intervention after approximately 3 months in a treatment as usual control group.
+
+ Participants will be evaluated at baseline, immediately post-intervention and at 3-month post-intervention on a number measures.
+
+ MAC acceptability will be assessed through the Client Satisfaction Questionnaire and qualitative interviews, MAC feasibility will be assessed through recruitment, consent and completion rates, and MAC efficacy will be assessed with a number of clinical, social, cognitive, and mindfulness skill assessment tools as well as through changes in healthcare utilization before and after administration of the MAC intervention.
+
+ Although the current study is hypothesis generating in nature, based on previous findings of Mindfulness Based Interventions for psychoses, we are expecting that participation in the MAC intervention will result in improvements on clinical, cognitive, functional, and health service utilization parameters.
+
+ Additionally, we expect that the MAC intervention will be acceptable to participants and a feasible intervention for early psychotic disorders.
+
+.
+
+ Mindfulness Group-based Intervention for Early Psychosis: A Pilot Study@highlight
+
+Recent research has suggested that mindfulness-based interventions for psychosis may be effective in reducing the negative symptoms of schizophrenia (e.
+
+g.
+
+, social withdrawal, lack of motivation) and the distress associated with psychotic symptoms (e.
+
+g.
+
+, hearing voices) and could lead to improvements in functioning and quality of life.
+
+ However these findings are based on small studies that largely consist of patients with chronic illness.
+
+ Little is yet known about the use of mindfulness interventions for young people recovering from their first episode of psychosis.
+
+ The purpose of this study is to determine whether the Mindfulness Ambassador Council (MAC), a 12-week facilitated group intervention promoting mindfulness skills and the development of emotional and social competencies, is an effective, feasible, and acceptable means of treating youth in the early stages of psychotic illnesses.
+
+ Although the current study is hypothesis generating in nature, based on previous investigations of Mindfulness Based Interventions for psychoses (Chadwick, 2014), we are expecting that participating in the MAC intervention will result in improvements in clinical, cognitive, functional, and health service utilization parameters.
+
+ Additionally, we expect that the MAC intervention will prove to be acceptable to participants and a feasible intervention for early psychotic disorders.
+

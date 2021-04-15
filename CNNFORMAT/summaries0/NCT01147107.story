@@ -1,0 +1,20 @@
+(secondQuint)Hepatic Safety of Raltegravir Versus Efavirenz as HIV Therapy for Patients With HIV and HCV Coinfection.
+
+ The trial will recruit 80 treatment-naive HIV-infected patients with chronic hepatitis C coinfection from two HIV treatment centers in Vietnam.
+
+ Patients will be randomized to receive either raltegravir or efavirenz, both in combination of tenofovir and emtricitabine, as first-line HIV therapy over a period of 72 weeks.
+
+ The primary endpoint is the rate of alanine aminotransferase (ALT) elevation during the 72 week study period.
+
+ Secondary endpoints include rates of virological suppression, CD4 count change, numbers of AIDS events and death, rates of fasting glucose and cholesterol measures, neurocognitive function and levels of immune activation.
+
+ Patients will be followed monthly for the first 3 months and every 3 months thereafter.
+
+ At the end of the trial period, patients will be transferred to the National HIV treatment program for continuation of HIV therapy.
+
+.
+
+ Hepatic Safety of Raltegravir Versus Efavirenz as HIV Therapy for Patients With HIV and HCV Coinfection@highlight
+
+The main objective is to evaluate the hepatic safety of raltegravir when compared to efavirenz, both in combination with tenofovir and emtricitabine as first-line HIV treatment in patients with HIV and hepatitis C coinfection.
+

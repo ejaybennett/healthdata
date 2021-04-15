@@ -1,0 +1,20 @@
+(thirdQuint)Ultrabrief Right Unilateral and Brief Pulse Bitemporal Electroconvulsive Therapy.
+
+ Patients will be randomized to either bitemporal brief pulse electroconvulsive therapy ( 0.
+
+5 ms pulse width) or right unilateral ultrabrief pulse electroconvulsive therapy for the first six treatments.
+
+ If further treatment is necessary, electrode placement will be chosen by the treating psychiatrist.
+
+ All electroconvulsive therapy treatments will be performed with a Thymatron System IV instrument.
+
+ (Somatics, LLC, Lake Bluff, Illinois, USA) Pre- electroconvulsive therapy testing will occur within one week of beginning treatment.
+
+ Post-electroconvulsive therapy testing will occur within 48 hours of the 6th treatment.
+
+.
+
+ Ultrabrief Right Unilateral and Brief Pulse Bitemporal Electroconvulsive Therapy@highlight
+
+To evaluate the equivalent efficacy of ultrabrief pulsewidth right unilateral electroconvulsive therapy versus bitemporal brief pulse electroconvulsive therapy in the treatment of depression and to evaluate the cognitive effects of ultrabrief right unilateral electroconvulsive therapy versus bitemporal brief pulse electroconvulsive therapy.
+

@@ -1,0 +1,16 @@
+(secondQuint)Assuring Patient-centered Literacy Promotion for Underserved Children Study.
+
+ This is a randomized controlled trial aimed at assessing the effectiveness of an enhanced intervention consisting of a video and a series of text messages in promoting shared reading between parents and children.
+
+ Participants will be randomized to one of two study arms (1) the enhanced intervention consisting of a video in the waiting room, standard guidance on shared reading, and a series of text messages (2) regular care which includes standard guidance on shared reading.
+
+ The primary outcome will be shared reading occurrences.
+
+ Secondary outcomes will include receipt of intervention, measure of the cognitive home environment, developmental screening results, and measure of parent reading beliefs.
+
+.
+
+ Assuring Patient-centered Literacy Promotion for Underserved Children Study@highlight
+
+This study tests whether an enhanced primary cared based literacy promotion intervention consisting of a video and text message will increase shared reading occurrences between parents and children compared to the standard version.
+

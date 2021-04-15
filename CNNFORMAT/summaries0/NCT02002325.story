@@ -1,0 +1,36 @@
+(secondQuint)THrombolysis for Acute Wake-up and Unclear-onset Strokes With Alteplase at 0.
+
+6 mg/kg Trial (THAWS).
+
+ THAWS is an investigator initiated Japanese multicenter randomized controlled clinical trial of MRI based thrombolysis in patients with acute wake-up ischemic stroke and those having acute ischemic stroke with unknown time of symptom onset.
+
+ Intravenous thrombolysis with alteplase of 0.
+
+6mg/kg, different from 0.
+
+9mg/kg used in other countries, is available as effective and safe treatment of acute stroke within 4.
+
+5 hours of symptom onset in Japan.
+
+ However, time of symptom onset is unknown in about 25% of acute stroke patients.
+
+ These patients are currently excluded from intravenous thrombolysis with alteplase.
+
+ The objective of the THAWS project is to provide effective treatment options for acute stroke patients with unknown time of symptom onset.
+
+ The purpose of this study is to clarify efficacy and safety of MRI-based intravenous thrombolysis with alteplase of 0.
+
+6mg/kg for patients with acute wake-up ischemic stroke and those having acute ischemic stroke with unknown time of symptom onset.
+
+ Eligible patients will be selected based on MRI findings indicative of acute ischemic stroke less than 4.
+
+5 hours of age.
+
+.
+
+ THrombolysis for Acute Wake-up and Unclear-onset Strokes With Alteplase at 0.
+
+6 mg/kg Trial (THAWS)@highlight
+
+The purpose of this study is to clarify efficacy and safety of MRI-based intravenous thrombolysis with alteplase for patients with acute wake-up ischemic stroke and those having acute ischemic stroke with unknown time of symptom onset.
+

@@ -1,0 +1,20 @@
+(firstQuint)Safety and Tolerability of Memantine in Moderate to Severe Alzheimer's Disease.
+
+ Memantine is a moderate affinity, uncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist.
+
+ Pre-clinical studies have demonstrated that memantine can decrease the neuronal toxicity associated with excessive glutamate release and calcium overload in neurons.
+
+ Results from clinical trials in patients with moderate to severe Alzheimer's Disease (AD) have demonstrated memantine's efficacy and safety by showing positive treatment effects on cognitive, global and functional decline.
+
+ The purpose of this 24-week open-label extension study was to collect additional long-term safety and tolerability data on memantine in patients who completed the lead-in double-blind placebo-controlled Study 10158.
+
+ In agreement with Health Canada the study was prematurely terminated due to recruitment difficulties in the lead-in Study 10158.
+
+ Patients ongoing in the study when the decision to terminate was taken were allowed to complete it.
+
+.
+
+ Safety and Tolerability of Memantine in Moderate to Severe Alzheimer's Disease@highlight
+
+The primary objective of the study was to examine the safety and tolerability of memantine in outpatients with moderate to severe Alzheimer's Disease.
+

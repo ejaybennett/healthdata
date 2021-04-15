@@ -1,0 +1,18 @@
+(secondQuint)Efficacy of Volume Substitution and Insulin Therapy in Severe Sepsis (VISEP Trial).
+
+ Severe sepsis and septic shock have a high mortality.
+
+ Research has concentrated on adjunctive sepsis therapies; the role of supportive measures is comparatively unclear.
+
+ In Europe the use of colloids is widespread, but there is no evidence on the role of either crystalloid or colloid volume therapy in sepsis.
+
+ Recently, a higher incidence of kidney failure in sepsis was reported after administration of colloids.
+
+ In critical illness, a significant reduction in mortality was recently achieved by strict glycemic control, however it has to be determined whether this is true and safe for patients with sepsis as well.
+
+.
+
+ Efficacy of Volume Substitution and Insulin Therapy in Severe Sepsis (VISEP Trial)@highlight
+
+The purpose of this trial is to determine the influence of colloid versus crystalloid volume resuscitation and of intensive vs conventional insulin therapy on morbidity and mortality of patients with severe sepsis and septic shock.
+

@@ -1,0 +1,20 @@
+(secondQuint)Clinical Effectiveness of Embrace Wetbond and Clinpro as Pits and Fissure Sealants in Young Permanent Molars.
+
+ The aim of this study is designed to clinically evaluate the retention and development of caries when using self-priming (Embrace Wetbond) and conventional flowable composite (Clinpro) as pit and fissure sealant in young first permanent molars.
+
+ PICO: P: children aged 6-9 years old with high caries risk.
+
+ I: Embrace Wetbond.
+
+ C: Clinpro seal.
+
+ O: Primary outcome: Retention of sealant; Device of measurement: questionnaire; unit: binary.
+
+ Secondary outcome: Retention and development of caries; Device of measurement: Modified simonsen's criteria; Unit: scoring system (0-4) tactile and visual examination.
+
+.
+
+ Clinical Effectiveness of Embrace Wetbond and Clinpro as Pits and Fissure Sealants in Young Permanent Molars@highlight
+
+This study is designed to clinically evaluate the retention and development of caries when using self-priming (Embrace wetbond) and conventional flowable composite (Clinpro) as pit and fissure sealant in young first permanent molars.
+

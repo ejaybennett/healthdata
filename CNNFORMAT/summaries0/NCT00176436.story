@@ -1,0 +1,22 @@
+(secondQuint)Atomoxetine for Treatment of Weight Gain in Olanzapine or Clozapine Patients.
+
+ The study is a 6 month double-blind trial of atomoxetine in combination with a Weight Watchers group to help patients lose the weight they have gained taking olanzapine or clozapine.
+
+ All participants should have been on Olanzapine or clozapine for at least 6 months and gained 7% of baseline weight or have a BMI of 27 or greater.
+
+ In addition to the group support, participants are provided supervised exercise sessions and medical supervision.
+
+ Previous studies of the group process alone were successful in helping patients lose weight.
+
+ It is hoped that the addition of atomoxetine, which is known to cause appetite suppression, will be more effective in helping subjects lose weight.
+
+ All subjects will receive either atomoxetine or placebo during the 6 month study.
+
+.
+
+ Atomoxetine for Treatment of Weight Gain in Olanzapine or Clozapine Patients@highlight
+
+The study investigates the use of Atomoxetine in combination with exercise and a diet support group (Weight Watchers)to treat weight gain associated with Olanzapine or clozapine.
+
+ All patients must be adults who have been diagnosed with Schizophrenia or Schizoaffective Disorder.
+

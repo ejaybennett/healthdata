@@ -1,0 +1,14 @@
+(secondQuint)Clinical Trial of CAM2038, Long-acting Subcutaneous Buprenorphine Injections for Treatment of Patients With Opioid Dependence.
+
+ This is a Phase III, randomized, double-blind, double-dummy, active-controlled, parallel group multi-center trial, designed to evaluate the non-inferiority of CAM2038 compared to an existing standard of care (SL BPN) in initiation and maintenance treatment with BPN.
+
+ The trial will involve 4 phases: Screening, Phase 1 (weekly visits), Phase 2 (monthly visits), and Follow-up.
+
+ Approximately 380 subjects (190 subjects per arm) will be randomized.
+
+.
+
+ Clinical Trial of CAM2038, Long-acting Subcutaneous Buprenorphine Injections for Treatment of Patients With Opioid Dependence@highlight
+
+Phase III, randomized, double-blind, double-dummy, active-controlled, parallel group multi-center trial, designed to evaluate the non-inferiority of CAM2038 compared to an existing standard of care (SL BPN) in initiation and maintenance treatment with BPN.
+

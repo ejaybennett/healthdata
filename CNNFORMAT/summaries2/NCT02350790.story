@@ -1,0 +1,28 @@
+(secondQuint)Robotic Surgical Management of Endometriosis: Excision Versus Ablation.
+
+ Patients with known endometriosis based on prior surgical pathology or suspected endometriosis based on symptomatology who plan on undergoing diagnostic laparoscopy will be offered enrollment in the study.
+
+ They will complete preoperative pain assessments with the tools outlined above.
+
+ At the time of diagnostic laparoscopy, patients found to have endometriosis will be staged according to the American Society of Reproductive Medicine guidelines.
+
+ Patients with Stage 4 or deeply infiltrating endometriosis will be excluded from the study.
+
+ At that point, the patients will be randomized in the operating room to either laparoscopic excision of endometriosis or laparoscopic ablation with the argon beam coagulator.
+
+ Patients will be stratified according to the presence or absence of the Levonorgestrel-Intrauterine Device.
+
+ Pain assessments will be performed immediately postoperatively in the recovery area.
+
+ Pain assessments will again be performed at 4 weeks, 6 months and 12 months.
+
+ We will use the VAS pain scale and validated questionnaires.
+
+.
+
+ Robotic Surgical Management of Endometriosis: Excision Versus Ablation@highlight
+
+Patients who are planning to undergo laparoscopic surgery for endometriosis will be assigned to either ablation or excision of endometriosis.
+
+ The investigators think that patients who have excision of endometriosis will have greater relief of pain.
+

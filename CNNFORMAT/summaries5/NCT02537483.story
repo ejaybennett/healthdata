@@ -1,0 +1,12 @@
+(secondQuint)A Study Comparing the Efficacy and Safety of IDP-120 Gel in the Treatment of Acne Vulgaris.
+
+ This is a multi-center, randomized, double-blind, vehicle-controlled, 12-week study designed to assess the safety, tolerability, and efficacy of IDP-120 Gel in comparison with IDP-120 Component A, IDP-120 Component B, and IDP-120 Vehicle Gel at Weeks 2, 4, 8, and 12 in subjects with moderate to severe acne.
+
+ IDP-120 is a gel for the topical treatment of acne.
+
+.
+
+ A Study Comparing the Efficacy and Safety of IDP-120 Gel in the Treatment of Acne Vulgaris@highlight
+
+The primary objective of this study is to compare the efficacy, safety, and tolerability of IDP-120 Gel to IDP-120 Component A, IDP-120 Component B, and IDP-120 Vehicle Gel in subjects with moderate to severe acne vulgaris.
+

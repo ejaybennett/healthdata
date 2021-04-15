@@ -1,0 +1,18 @@
+(firstQuint)Impact of Ascorbic Acid on Post-Cardiothoracic Surgery Inflammation.
+
+ Atrial Fibrillation is a significant cause of morbidity following cardiothoracic surgery.
+
+ Despite prophylactic therapy with beta-blockers and amiodarone, post-operative atrial fibrillation occurs in approximately 22% of patients.
+
+ We believe that by reducing the inflammation that is caused during CTS, we can see further improvements without any negative effects on hemodynamics.
+
+ Ascorbic acid, a free radical scavenger has been found to lower inflammation mediators but never in a CTS population.
+
+ This study will help determine the affect of ascorbic acid on the inflammation associated with CTS.
+
+.
+
+ Impact of Ascorbic Acid on Post-Cardiothoracic Surgery Inflammation@highlight
+
+The purpose of this study is to see if ascorbic acid (Vitamin-C) therapy will reduce inflammation following heart surgery.
+

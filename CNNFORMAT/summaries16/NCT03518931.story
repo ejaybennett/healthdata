@@ -1,0 +1,20 @@
+(secondQuint)Understanding Fitness' Function in Determining Activity.
+
+ The Understanding Fitness Function in Determining Activity (UFFDA) Study was initiated at the 2014 and 2015 Minnesota State Fair to determine if measuring muscular strength and CRF would motivate individuals to increase their physical activity.
+
+ Eligible individuals consented to participate and were randomized in a 1:1 allocation to control or intervention groups.
+
+ All participants provided their current Exercise Vital Sign (EVS calculated by multiplying the number of moderate-vigorous exercise sessions/week by the average minutes/session).
+
+ The intervention group had VO2max estimated using a timed previously validated Step Test and muscular strength measured using a Hand Dynamometer.
+
+ Results with age appropriate normative data for both grip strength and a "good or superior" VO2max were provided to the intervention group.
+
+ Our hypothesis was participants who receive the intervention would increase physical activity (measured by EVS) compared to control participants.
+
+.
+
+ Understanding Fitness' Function in Determining Activity@highlight
+
+The purpose of the study is to determine how measuring strength (by squeezing a tool called a hand grip dynamometer) and cardiorespiratory fitness (by climbing stairs) and sharing the results with subjects impacts exercise.
+

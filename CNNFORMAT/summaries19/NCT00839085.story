@@ -1,0 +1,20 @@
+(firstQuint)Comparison of Ascorbic Acid and Grape Seed Extract in Oxidative Stress Induced by on Pump Heart Surgery.
+
+ This study aimed to compare the effect of grape seed extract and ascorbic acid in oxidative stress induced by on pump coronary artery by pass grafting surgery.
+
+ There are three groups in the study.
+
+ 75 candidate of coronary artery by pass grafting surgery were assigned random allocation on the groups (25 in each group).
+
+ 1.
+
+ Control 2.
+
+ GSE (100 mg/6h - PO, 24h before surgery) 3.
+
+ Vit C (25 mg/kg in pump circulation during surgery).
+
+ Comparison of Ascorbic Acid and Grape Seed Extract in Oxidative Stress Induced by on Pump Heart Surgery@highlight
+
+Study aimed to compare the effect of grape seed extract and ascorbic acid in oxidative stress induced by on pump coronary artery by pass grafting surgery.
+

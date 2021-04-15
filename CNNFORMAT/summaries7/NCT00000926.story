@@ -1,0 +1,30 @@
+(thirdQuint)A Study of Nonoxynol-9 (N-9) and HIV Infection.
+
+ Intravaginal application of N-9 may help protect women from HIV and other STD infection.
+
+ Low rates of condom use in sub-Saharan African populations, which constitute the majority of HIV infections, dictate the need for prophylactic methods women can control.
+
+ This trial will be conducted in Zimbabwe and Malawi.
+
+ The Phase III trial is preceded by a 2-week safety and acceptability pilot study to determine the extent of genital irritation caused by N-9 and the placebo.
+
+ Following the pilot study and prior to screening for enrollment in the Phase III trial, potential volunteers will participate in a 2-month behavioral counseling program that will encourage the use of condoms.
+
+ Only participants who decide they cannot or will not be consistent condom users are enrolled in the main study.
+
+ Study participants are given N-9 gel or placebo to use each time they have vaginal sexual intercourse for 18 to 36 months.
+
+ Participants have a follow-up evaluation once a month; a pelvic exam and blood tests are performed every third month.
+
+.
+
+ A Study of Nonoxynol-9 (N-9) and HIV Infection@highlight
+
+The purpose of this study is to see if nonoxynol-9 (N-9) gel used in the vagina can prevent the spread of HIV.
+
+ Most of the people with HIV in the world today live in southern Africa.
+
+ Because this population is not likely to use condoms, an HIV-prevention method that women can control is needed.
+
+ N-9 used in the vagina may help prevent the spread of HIV and other sexually transmitted diseases.
+

@@ -1,0 +1,16 @@
+(firstQuint)Safety and Effectiveness of CNDO 201Trichuris Suis Ova (TSO) for the Treatment of Moderate to Severe Plaque Psoriasis.
+
+ The purpose of this study is to evaluate the safety and effectiveness of CNDO 201Trichuris suis ova (TSO) for the treatment of moderate to severe plaque psoriasis.
+
+ Psoriasis is driven by T-cell infiltration in the epidermis.
+
+ The T-cells involved in psoriasis exhibit a Th17-like and a Th1-like cytokine secretion profile.
+
+ This excess Th17/Th1 response is thought to play a critical role in the development of psoriasis, and reducing Th17/Th1 activity would be a potential way of halting the inflammatory process leading to psoriasis.
+
+.
+
+ Safety and Effectiveness of CNDO 201Trichuris Suis Ova (TSO) for the Treatment of Moderate to Severe Plaque Psoriasis@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of CNDO 201Trichuris suis ova (TSO) for the treatment of moderate to severe plaque psoriasis.
+

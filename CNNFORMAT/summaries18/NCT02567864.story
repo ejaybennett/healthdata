@@ -1,0 +1,26 @@
+(thirdQuint)Development and Evaluation of the Healthy Beat Accupunch (HBA) Exercise Program for the Community Older Adults.
+
+ A three-year, longitudinal, triangulation research method was applied.
+
+ First Year (Phase I): A preliminary HBA exercise program, including hard copy descriptions and DVD demonstrations of each exercise, was mailed to the 16 experts in the Delphi advisory panel for their critique and evaluation.
+
+ First Year (Phase II): A quasi-experimental, one-group, pretest-posttest design was used to pilot-test the feasibility of the HBA exercise program on a group of 31 community-dwelling older adults in a community care station.
+
+ Second Year: A cluster randomized controlled trial was used to test the effects of a six-month, instructor-led HBA exercise program on the functional fitness (cardiovascular-respiratory function, body flexibility, muscle strength, and muscle endurance) of the community-dwelling older adults.
+
+ Through the use of convenience sampling strategy, eight community care stations with 232 older adults in Kaohsiung were recruited and randomly assigned based on their community care stations to a HBA experimental group or a wait-list control group.
+
+ Participants in the experimental group received the HBA exercise program led by trained and certified instructors, three times per week, 40 minutes per practice for six months; participants in the wait-list control group continued with their regular daily activities.
+
+ One pre-test and two post-tests, three months apart, were conducted.
+
+ Third Year: Using the same method as in the second year, participants from the second year continued practicing the HBA exercise program, but guided by a DVD, for another six months.
+
+ The feasibility, compliance, and effectiveness of the DVD-led HBA exercise program on the community-dwelling older adults were tested, and another two post-tests, three months apart, were conducted on the same outcome measurements as in the second year.
+
+.
+
+ Development and Evaluation of the Healthy Beat Accupunch (HBA) Exercise Program for the Community Older Adults@highlight
+
+The goals of this research project were: 1) to develop a senior-tailored Healthy Beat Accupunch (HBA) exercise program for community-dwelling older adults, 2) to test the effects of a six-month, instructor-led HBA exercise program, and 3) to evaluate the feasibility, compliance, and long-term effects of a six-month, DVD-guide HBA exercise program.
+

@@ -1,0 +1,24 @@
+(firstQuint)Intensive Medicines Monitoring Project of Palonosetron Hydrochloride Capsules (Ruo Shan).
+
+ Observe palonosetron hydrochloride capsules'(Ruo Shan(R)) safety and efficacy information in the real world using.
+
+ 1.
+
+ Observe the adverse effects of palonosetron hydrochloride capsules(Ruo Shan(R)) that we already known, and whether there is any new adverse effects.
+
+Observe the incidence and the situation of adverse effects.
+
+ Pay attention to the adverse effects in special groups, like pregnant women, children, elderly patients, and patients with liver and kidney dysfunction.
+
+ Observe other safety issues related to drug using method, drug packaging method and drug quality.
+
+ [Time Frame: A period between the first day of using Palonosetron Hydrochloride Capsules (Ruo Shan(R)) to the fifth day] Secondary Outcome Measures: 2.
+
+ Furtherly clarify the efficacy of palonosetron hydrochloride capsules, and the widely used population characteristics, and clinical using features of palonosetron hydrochloride capsules.
+
+ [Time Frame: A period between the first day of using Palonosetron Hydrochloride Capsules (Ruo Shan(R)) to the fifth day].
+
+ Intensive Medicines Monitoring Project of Palonosetron Hydrochloride Capsules (Ruo Shan)@highlight
+
+Observe palonosetron hydrochloride capsules'(Ruo Shan(R)) safety and efficacy information in the real world using.
+

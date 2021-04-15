@@ -1,0 +1,24 @@
+(secondQuint)Goal Directed Hemodynamic Management and Renal Outcome After Major Non-cardiac Surgery.
+
+ Acute kidney injury (AKI) is a common complication after major surgery.
+
+ Many studies showed that AKI is associated with different complications: higher mortality, renal replacement therapy and prolonged hospital stay resulting in higher health care costs.
+
+ Until now just a few studies are published on prevention or therapy of AKI after major surgery.
+
+ Most of these investigations are underpowered or show just marginal benefit.
+
+ There are no studies published investigating the impact of goal-directed hemodynamic management on renal outcome following non-cardiac major surgery, even though hemodynamic stability seems to be of paramount importance for the kidneys.
+
+ Aim of this study is to investigate the impact of a goal directed hemodynamic management on renal outcome after major non-cardiac surgery.
+
+ Therefore patients will be randomized in one of two groups, the PiCCO group with goal directed hemodynamic management and the Control group, where PICCO data will be collected but will not influence hemodynamic management.
+
+ In both groups the monitoring with transpulmonary thermodilution will be continued in the intensive care unit until 72 hours after surgery.
+
+.
+
+ Goal Directed Hemodynamic Management and Renal Outcome After Major Non-cardiac Surgery@highlight
+
+This study is designed to compare renal outcome of patients following major non-cardiac surgery with different perioperative hemodynamic managements: a goal directed hemodynamic management group (using PiCCO) and a control group.
+

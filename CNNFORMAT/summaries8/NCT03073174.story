@@ -1,0 +1,30 @@
+(fifthQuint)Dietary Intakes and Periodontal Health: A Follow-Up Study.
+
+ Periodontitis is a chronic oral infection that results in the breakdown of connective tissue and alveolar bone that support the teeth.
+
+ Bacteria and the body's own immune system mediate the severity of periodontitis, where teeth may become loose, fall out or have to be removed.
+
+ Sanative therapy is a non-surgical process involving mechanical debridement of bacterial biofilms on roots of teeth, below the gum line.
+
+ Participants in this present study previously underwent sanative therapy several years ago and have been attending the clinic for regular maintenance appointments to maintain periodontal health.
+
+ While significant associations were observed with higher intakes of fruits and vegetables and specific nutrients (vitamins C and E, beta-carotene, fish oils) within a few months after sanative therapy, this study will follow-up these findings to determine if such relationships persist during a period of relatively stable periodontal health.
+
+ Given new insights into a potential role of flavonoids in maintaining periodontal health, this aspect will also be studied.
+
+ The overall objective is to determine if higher intakes of foods, nutrients and supplements known to have osteogenic and immunomodulatory effects are associated with improved clinical outcomes in individuals who previously underwent sanative therapy.
+
+ At the regular maintenance appointment, clinical measures will be evaluated (clinical attachment loss, probing depth, bleeding on probing, plaque index).
+
+ As well, the following will be evaluated: dietary intakes of macronutrients and micronutrients using the Block 2015 food frequency questionnaire; intakes of fruit, vegetables and fiber using the Block Dietary Fruit-Vegetable-Fiber Screener; nutritional supplement use and tea intake using specially developed questionnaires and salivary markers of inflammation using biochemical assays.
+
+.
+
+ Dietary Intakes and Periodontal Health: A Follow-Up Study@highlight
+
+A previous study, on which this study is based, found that a diet higher in fruits and vegetables, beta-carotene, vitamin C, alpha-tocopherol, and fish oils (specifically eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)) was positively associated with periodontal healing after sanative therapy (NCT02291835).
+
+ The investigator's next step, in the present study, is to determine long-term benefits of sanative therapy in which patients have regular maintenance hygiene cleanings on periodontal health.
+
+ Specifically, the relationship between intakes of specific foods, nutrients and supplements with clinical periodontal outcomes will be studied.
+

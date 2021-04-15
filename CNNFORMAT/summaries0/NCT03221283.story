@@ -1,0 +1,17 @@
+(firstQuint)The Application of Music Therapy in Female Amphetamine Use Disorder.
+
+ Amphetamine addicts are often accompanied by severe emotional problems and are difficult to control and regulate negative emotions by themselves.
+
+And the emotional problems are high risk factors of addicts relapse.
+
+ Music therapy as the intervention is in order to improve amphetamine addicts' emotional status and the ability of emotion regulation.
+
+ Self-rating Depression Scale(SDS), Self-rating Anxiety scale(SAS) will be used to investigate the emotion of participants.
+
+ These methods will also be used to evaluate the efficacy of the intervention.
+
+.
+
+ The Application of Music Therapy in Female Amphetamine Use Disorder@highlight
+
+The group music therapy will be used to treat female amphetamine-type stimulant (ATS) addiction

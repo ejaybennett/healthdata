@@ -1,0 +1,31 @@
+(thirdQuint)The Prospective Cohort Study on the Benefit-risk of Antithrombotic or Anticoagulant Therapy in Patients With Unruptured Intracranial Aneurysms Associated With Ischemic Heart Disease or Ischemic Cerebrovascular Disease.
+
+ This is a registry study of the natural course of unruptured intracranial aneurysms (UIA).
+
+ In addition, the investigators will analyze the benefit-risk of antithrombotic or anticoagulant therapy in patients with unruptured intracranial aneurysms associated with ischemic heart disease or ischemic cerebrovascular disease.
+
+ The investigators aim to use research data to create a China national database of UIA.
+
+ This study is supported by a research grant from the Ministry of Science and Technology of the People's Republic of China.
+
+ The investigators will collaborate with the other 19 medical centers which locate in the different districts of China.
+
+ During the study period, all the patients included in this study will observe and treat in the collaborating medical centers.
+
+ Included patients will be followed-up for at least 1year.
+
+ Research data will represent the real natural course of UIA in China.
+
+ For this study, the investigators consulted and hired professional experts about data collection, data and methodology.
+
+ An intact systematic project steering committee, including Data Monitoring Committee, Data Management Committee, Project Academic Committee, Executive Group, Project Manager, Project Statistician, and Technical Support Center has been built up.
+
+ Scientific regulations have also been made.
+
+ The Prospective Cohort Study on the Benefit-risk of Antithrombotic or Anticoagulant Therapy in Patients With Unruptured Intracranial Aneurysms Associated With Ischemic Heart Disease or Ischemic Cerebrovascular Disease@highlight
+
+This is a registry study of the natural course of unruptured intracranial aneurysms (UIA).
+
+ In addition, the investigators will analyze the benefit-risk of antithrombotic or anticoagulant therapy in patients with unruptured intracranial aneurysms associated with ischemic heart disease or ischemic cerebrovascular disease.
+
+ The investigators aim to use research data to create a China national database of UIA

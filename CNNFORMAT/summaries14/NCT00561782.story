@@ -1,0 +1,12 @@
+(secondQuint)MR Spectroscopy as a Diagnostic and Outcome Measure in Pain and SCI.
+
+ This study investigates the differences in certain neurochemicals present in areas of the brain linked to pain processing in people with SCI and neuropathic pain, in people with SCI but no pain, and in able-bodied persons.
+
+ We will also investigate the relationship between these concentrations of neurochemicals and different aspects of chronic neuropathic pain, including the intensity of pain, quality of life issues, sensitivity changes in areas of the body that are both painful and non-painful, and neurological status.
+
+.
+
+ MR Spectroscopy as a Diagnostic and Outcome Measure in Pain and SCI@highlight
+
+The goal of this study is to compare the changes that occur in sensation and chemical properties of the brain following SCI between individuals that experience chronic pain and those that do not, and between those with SCI and the able-bodied.
+

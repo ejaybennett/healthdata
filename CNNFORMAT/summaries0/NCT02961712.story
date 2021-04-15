@@ -1,0 +1,28 @@
+(fifthQuint)Immunotherapy of Natural Killer(NK) Cells in Human T Lymphotropic Virus Type 1(HTLV-1) Associated Myelopathy(HAM).
+
+ HAM is a chronic disease of the spinal cord, caused by a virus called HTLV-I.
+
+ Natural Killer cells provide rapid responses to viral-infected cells, acting at around 3 days after infection, and respond to tumor formation.
+
+ In this trial, the investigators aim to study the therapeutic safety and the effect on HTLV-1 virus.
+
+ This in turn will improve the knowledge and understanding of the disease and should lead to better therapy.
+
+ In a single-center, one year open-label trial, 5 HAM patients will be treated with single intravenous injection of NK cells (0.
+
+9~1*10^9).
+
+ Then, the the clinical effect was evaluated by dynamic analysis of Osame's Motor Disability Score and other related physiological indices, such as HTLV-1 antibody titer in blood and cerebrospinal fluid.
+
+.
+
+ Immunotherapy of Natural Killer(NK) Cells in Human T Lymphotropic Virus Type 1(HTLV-1) Associated Myelopathy(HAM)@highlight
+
+HTLV-1 Associated Myelopathy is a chronic disease of the spinal cord, caused by a virus called human T lymphotropic virus type 1(HTLV-1).
+
+ Natural Killer cells provide rapid responses to viral-infected cells, acting at around 3 days after infection, and respond to tumor formation.
+
+ In this trial, the investigators aim to study the therapeutic safety and the effect on HTLV-1 virus.
+
+ This in turn will improve the knowledge and understanding of the disease and should lead to better therapy.
+

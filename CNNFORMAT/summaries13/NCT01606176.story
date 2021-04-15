@@ -1,0 +1,12 @@
+(firstQuint)A Study to Evaluate the Effects of Cannabis Based Medicine in Patients With Pain of Neurological Origin.
+
+ Patients with Multiple Sclerosis or other defect of neurological function with a qualifying symptom of chronic refractory pain, entered a seven day baseline period, followed by a 21 day randomised, double blind, parallel group comparison of GW-1000-02 with placebo, self-titrated to symptom resolution or maximum tolerated dose.
+
+ The ability of the cannabis based medicine extract to relieve chronic refractory pain was assessed by the change from baseline in pain score using Box Scale-11 (BS-11) scores recorded in the patients' daily diary.
+
+.
+
+ A Study to Evaluate the Effects of Cannabis Based Medicine in Patients With Pain of Neurological Origin@highlight
+
+To investigate the ability of a cannabis based medicine extract to relieve chronic refractory pain of neurological origin.
+

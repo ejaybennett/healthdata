@@ -1,0 +1,89 @@
+(fifthQuint)The IMPART Study: The Impact of Patient Education in Cardiac Rehabilitation.
+
+ BACKGROUND & RATIONALE: Cardiovascular disease, which includes coronary artery disease (CAD), is a leading cause of death in Canada and worldwide.
+
+ Cardiac rehabilitation (CR) is the gold standard intervention for tertiary prevention of CAD, and is associated with improvements in cardiovascular risk (e.
+
+g.
+
+, blood pressure, psychological distress) and with 26% reductions in mortality.
+
+ Despite these benefits, only 20-50% of eligible patients participate and even fewer attend all scheduled CR sessions.
+
+ CR consists of multicomponent risk reduction interventions including exercise training and patient education (PE).
+
+ An underlying assumption of PE is that imparting knowledge to patients will lead to changes in their adherence to health behaviours and, ultimately, influence cardiovascular outcomes.
+
+ Decades of research from behavioural science, however, demonstrates that changing health behaviours, such as CR participation, requires more than knowing "what" to do, but also favourable attitudes and self-efficacy about behaviour change.
+
+ PE has been demonstrated to enhance knowledge about CAD, but more work is needed to understand whether changes in knowledge translate into more positive attitudes, self-efficacy, and adherence to CR.
+
+ To date, only one Canadian PE curriculum within a CR setting has been empirically evaluated, and cardiac PE classes across settings are often poorly described and variable in duration and format.
+
+ To optimize adherence to CR and its associated survival benefits, there is a need to evaluate whether a well-described cardiac PE curriculum helps translate knowledge into favourable attitudes, self-efficacy, and CR attendance.
+
+ PRIMARY AIM: To determine the impact of a Calgary-based patient education curriculum delivered in a CR setting (i.
+
+e.
+
+, "Taking Charge of your Heart Health"; TCHH) on cardiac knowledge post-TCHH and at 12-week follow-up.
+
+ SECONDARY AIMS: - To examine the impact of cardiac education on attitudes toward CR, and self-efficacy for CR attendance from pre- to post-TCHH - To examine whether increases in CAD knowledge are associated with improvements in attitudes toward CR, self-efficacy for CR adherence from pre- to post-TCHH oTo examine whether increases in CAD knowledge from pre- to post-TCHH are associated with CR adherence HYPOTHESES: It is predicted that (1) knowledge about CAD will increase from pre- to post-TCHH, and knowledge gains will be maintained at 12-weeks, and; (2) increases in knowledge will be positively associated with improvements in attitudes toward CR, self-efficacy toward CR participation, and actual CR adherence.
+
+ METHODS: DESIGN: This is a prospective observational cohort study.
+
+ As the cardiac education intervention is a mandatory component of participation in the CR program, the present study will observe and measure changes in CAD knowledge, CR attitudes, and CR adherence among eligible CR patients who choose to participate.
+
+ CR PROGRAM: The CR program consists of four mandatory 2.
+
+5-hour group-based cardiac education classes (focused on physiology, risk factors, medications, nutrition, exercise, and stress management) followed by 12 weeks of supervised exercise training held twice weekly.
+
+ All patients enrolled in the CR program are required to complete the 4 education classes prior to starting CR exercise.
+
+ PROCEDURE: cent Patients will complete a baseline battery of validated questionnaires assessing CAD knowledge, CR attitudes, and CR self-efficacy, as well as baseline demographic and medical information prior to their first TCHH class (T1).
+
+ Measures of CAD knowledge, CR attitudes, and CR self-efficacy will be re-administered post-TCHH (T2), and after completion of CR exercise training (12-weeks; T3).
+
+ DATA ANALYSIS: To evaluate the impact of patient education on knowledge, a repeated-measures ANOVA will be performed with time as the independent variable (T1, T2, T3), and CAD knowledge as the dependent variable.
+
+ To evaluate the association between knowledge gains and CR attitudes, self-efficacy, and CR adherence, residualized change scores will be calculated for T1 to T2 knowledge, attitudes, and self-efficacy.
+
+ The investigators will conduct separate regression models with knowledge change scores as the independent variable, and with CR attitudes change scores and CR adherence as dependent variables.
+
+ IMPLICATIONS: This study will inform strategies to help increase knowledge, and translate knowledge into exercise adherence, among patients with CAD.
+
+ Given the link between CR attendance and morbidity/mortality, efforts to optimize patient education interventions and CR utilization have the potential to significantly improve cardiovascular health outcomes.
+
+.
+
+ The IMPART Study: The Impact of Patient Education in Cardiac Rehabilitation@highlight
+
+Background: Exercise-based cardiac rehabilitation (CR) is the gold-standard in tertiary prevention of coronary artery disease (CAD), yet average CR attendance is only 67%.
+
+ Patient education is commonly delivered during CR to impart information about CAD and its risk factors.
+
+ An underlying assumption is that knowledge will enhance patients' attitudes toward CR, promote better program adherence, and improve clinically relevant cardiovascular outcomes.
+
+ However, more formative work is needed to characterize the impact of patient education delivered in a CR setting on purported mechanisms-of-action in order to optimize efficacy.
+
+ Few cardiac patient education interventions have been empirically validated, and it is unclear whether knowledge gains from education translate to improved CR attitudes and program adherence.
+
+ Objective: This study aims to 1) examine the association between cardiac patient education and changes in knowledge about CAD, and; 2) explore whether changes in knowledge correspond to (a) improved attitudes about CR (perceived necessity, concerns about exercise, practical barriers, perceived personal suitability), and (b) increased CR adherence.
+
+ Hypothesis: It is expected that 1) knowledge will increase from pre- to post-patient education, and 2) knowledge gains will be associated with improved CR attitudes and better CR adherence.
+
+ Methods: 100 adults with CAD referred to outpatient CR will be recruited prior to attending four, mandatory 2.
+
+5-hour-long group-based education classes.
+
+ Patients will subsequently attend supervised CR exercise sessions twice-weekly for 12 weeks.
+
+ Validated questionnaires assessing knowledge about CAD and attitudes toward CR (i.
+
+e.
+
+, perceived necessity, exercise concerns, barriers, perceived suitability) will be completed pre- and post-cardiac education classes, and 12-weeks post-CR.
+
+ Adherence (# of CR exercise sessions attended) will be obtained by chart review.
+
+ Implications: This study will help identify whether patient education delivered in a CR setting impacts hypothesized treatment targets and inform future efforts to optimize behavioral interventions for increasing CR utilization

@@ -1,0 +1,12 @@
+(firstQuint)The Safety and Feasibility of Laparoscopic-assisted Gastrectomy for Advanced Gastric Cancer After Neoadjuvant Chemotherapy.
+
+ A prospective single-arm study designed to further evaluate laparoscopic-assisted gastrectomy for advanced Gastric Cancer after neoadjuvant chemotherapy will be performed, to evaluate the safety, feasibility, long-term and oncological outcomes.
+
+ The evaluation parameters are perioperative mobility and mortality, perioperative clinical efficacy, postoperative life quality, immune function and 3-year survival and recurrence rates.
+
+.
+
+ The Safety and Feasibility of Laparoscopic-assisted Gastrectomy for Advanced Gastric Cancer After Neoadjuvant Chemotherapy@highlight
+
+The purpose of this study is to explore the safety, feasibility, long-term and oncologicaloutcomes of laparoscopic-assisted gastrectomy for advanced Gastric Cancer after neoadjuvant chemotherapy.
+

@@ -1,0 +1,16 @@
+(secondQuint)Clinical Trial of Tensegrity Prosthetics K3 Promoter Foot Prosthesis.
+
+ Tensegrity Prosthetics' objectives are to test whether the K3 Promoter prosthetic foot affects walking efficiency or stability in trans-tibial unilateral amputees when compared to their current prostheses.
+
+ The primary objectives are to determine if the experimental foot changes Cost of Transport (ml O2/kg/meter) or Stride Time Variability compared to an amputee's current prosthesis.
+
+ Cost of Transport is an indicator of metabolic efficiency and Stride Time Variability indicates how likely a person is to fall.
+
+ Oxygen consumption and stride time will be collected on a treadmill at the Gait and Motion Lab at the University of Colorado in Boulder.
+
+.
+
+ Clinical Trial of Tensegrity Prosthetics K3 Promoter Foot Prosthesis@highlight
+
+The purpose of this clinical trial is to determine if the experimental Tensegrity prosthetic foot offers a reduction of the amount of oxygen used while walking, if stability is improved over current prosthetic feet, and whether the experimental device actually increases activity in amputees.
+

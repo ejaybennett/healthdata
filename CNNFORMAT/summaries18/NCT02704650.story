@@ -1,0 +1,60 @@
+(fifthQuint)Identification and Characterization of Ovarian Cancer and Endometrial Cancer Specific Biomarkers in Vaginal Fluids.
+
+ Initially, twenty vaginal fluid samples will be collected from ovarian cancer patients diagnosed with epithelial ovarian carcinoma at advanced diagnosis stage.
+
+ The samples will be used to identify specific biomarkers as describe above.
+
+ Biomarkers levels will be calibrated compared to their vaginal fluids obtained from healthy volunteers.
+
+ In addition, five milliliters of venous blood will be collected from same patients in order to compare biomarkers vaginal fluids levels vs serum levels.
+
+ All patients will sign a consent form which approve that their vaginal fluid samples will be utilized for research according to Helsinki approval.
+
+ At the second phase of the research, additional twenty vaginal fluids samples will be collected from patients diagnosed at different stages (five samples from each of main stages 1-4).
+
+ Sample will be used to calibrate biomarkers levels in various diagnosis stages and will be compare to serum levels from venous blood samples which will be also collected from the same patients.
+
+ All patients will sign a consent form following explanation on research goals.
+
+ Patient will be notified that participation in this research will have no implication on medical treatment plan.
+
+ Note that in all research phases there will be no returning of samples to the patients, all identification and characterization procedures will be performed in vitro for research properties only.
+
+ Methodology - Collecting vaginal fluids samples from ovarian cancer patients.
+
+ Vaginal fluids (at least 400 mu l, the investigators wish to have 1000 mu l) will be collected during surgery or during routine physical examination using specific applicator/cotton swab/syringe.
+
+ Samples will be shipped to GinaLife Diagnostics laboratory for analysis.
+
+ In addition, on the day of vaginal fluids collection 5 ml of peripheral blood samples will be drawn from each volunteer.
+
+ - Analyzing specific biomarkers in samples.
+
+ Vaginal fluids will be analyzed using commercial enzyme-linked immunosorbent assay (ELISA) kits to determine the presence and the concentrations of various proteins.
+
+ In addition, western blot analysis will be used in order to confirm ELISA assay results.
+
+ Specific nucleic acid will be determine using common molecular methods such as Reverse transcription polymerase chain reaction (RT-PCR) etc.
+
+ - Data analysis.
+
+ Identification and Characterization of Ovarian Cancer and Endometrial Cancer Specific Biomarkers in Vaginal Fluids@highlight
+
+The purpose of this study is to: 1.
+
+ Identification and characterization of ovarian carcinoma well-known biomarkers, carcinoma antigen 125 (CA125) and Human epididymis protein 4 (HE4) and other potential biomarkers in vaginal fluids obtained from ovarian cancer patients.
+
+ 2.
+
+ Quantification and calibration of identified biomarkers in vaginal discharge collected from ovarian cancer patients in comparisons to samples collected from healthy volunteers.
+
+ 3.
+
+ Comparison analysis of biomarkers levels in vaginal fluids vs.
+
+ serum.
+
+ 4.
+
+ Quantification and calibration of identified biomarkers in vaginal discharge collected from ovarian cancer patients diagnosed in various stages.
+

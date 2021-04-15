@@ -1,0 +1,46 @@
+(fifthQuint)The Safety and Effectiveness of Zidovudine in the Treatment of HIV-Infected Children With Mild to Moderate Symptoms.
+
+ AZT has been shown in the laboratory to inhibit the infection of cells by HIV.
+
+ AZT has been shown to decrease the mortality and the frequency of opportunistic infections in certain adult patients with symptomatic HIV infection.
+
+ It is, therefore, likely that symptomatic HIV-infected children may also benefit from specific antiviral therapy.
+
+ Children who participate in the study are evaluated at a hospital outpatient clinic and are under the care of a specialist in pediatrics.
+
+ Of the children who participate in the study, half receive AZT syrup and half receive a placebo (sugar solution).
+
+ The investigator does not know which medication each child receives as this is decided by a random process.
+
+ The children take the medication in a strawberry-flavored clear syrup every 6 hours (4 times a day), for a period of 2 years or 104 weeks.
+
+ The children are monitored on an outpatient basis while receiving therapy and the tests performed on admission to the study are repeated several times during treatment.
+
+ Blood samples are obtained once a week for the first 4 weeks, every other week for the next 4 weeks, and then monthly until the end of the study.
+
+ At certain sites, Cerebrospinal fluid (CSF) is collected by lumbar puncture every 52 weeks to evaluate infection involving the brain and nervous system.
+
+ An independent committee reviews the data collected on the children every 6 months.
+
+ The drug is stopped or the dose reduced if unacceptable side effects develop.
+
+ AMENDED: As of August 7, 1989 the study blind was broken, the placebo arm discontinued and the study closed to accrual as of September 25, 1989.
+
+ The 6 children enrolled in the study have been offered AZT.
+
+.
+
+ The Safety and Effectiveness of Zidovudine in the Treatment of HIV-Infected Children With Mild to Moderate Symptoms@highlight
+
+To determine the safety and usefulness of zidovudine (AZT) for the treatment of children 3 months to 12 years of age.
+
+ This study is designed to determine if children who are infected with HIV and who have a special type of lung disease called lymphocytic interstitial pneumonitis (LIP) or other early symptoms of HIV infection may derive benefit from treatment with AZT.
+
+ It is hoped that this drug will prevent children from developing additional symptoms and infections and will help resolve already existing symptoms.
+
+ AZT has been shown in the laboratory to inhibit the infection of cells by HIV.
+
+ AZT has been shown to decrease the mortality and the frequency of opportunistic infections in certain adult patients with symptomatic HIV infection.
+
+ It is, therefore, likely that symptomatic HIV-infected children may also benefit from specific antiviral therapy.
+

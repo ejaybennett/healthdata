@@ -1,0 +1,36 @@
+(secondQuint)Pazopanib in Treating Patients With Metastatic Urothelial Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ Assess the anti tumor activity and toxicity profile of pazopanib hydrochloride in patients with metastatic urothelial cancer.
+
+ SECONDARY OBJECTIVES: I.
+
+ Evaluate the pharmacokinetics of pazopanib hydrochloride in these patients.
+
+ II.
+
+ Evaluate pre- and post-treatment changes in circulating endothelial cells, monocytes and platelets, and angiogenesis-related factors in these patients.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive oral pazopanib hydrochloride once daily on days 1-28.
+
+ Treatment repeats every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients undergo blood collection periodically for correlative studies and pharmacological studies.
+
+ Samples are analyzed for vascular endothelial growth factor (VEGF) and soluble VEGF receptor II concentration via ELISA.
+
+ Circulating endothelial cells are also measured.
+
+ After completion of study treatment, patients are followed for 1 year.
+
+.
+
+ Pazopanib in Treating Patients With Metastatic Urothelial Cancer@highlight
+
+This phase II trial is studying the side effects and how well pazopanib works in treating patients with metastatic urothelial cancer.
+
+ Pazopanib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+

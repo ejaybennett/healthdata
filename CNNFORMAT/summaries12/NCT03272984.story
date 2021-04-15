@@ -1,0 +1,18 @@
+(firstQuint)ERAS for Patients Received Neoadjuvant Chemotherapy.
+
+ Before, most trials about the ERAS for radical gastrectomy demonstrated ERAS programs accelerate the postoperative rehabilitation of gastric cancer patients without increasing postoperative complications.
+
+ However, in most trials, patients who received neoadjuvant chemotherapy were excluded.
+
+ The investigators designed this trial for patients received neoadjuvant chemotherapy.
+
+ In this trial, patients received neoadjuvant chemotherapy with locally advanced gastric caner undergo the ERAS programs or the SC programs.
+
+ Finally, the investigators evaluated whether patients who receive neoadjuvant chemotherapy can be enrolled into the ERAS programs for locally advanced gastric cancer.
+
+.
+
+ ERAS for Patients Received Neoadjuvant Chemotherapy@highlight
+
+Patients received neoadjuvant chemotherapy with locally advanced gastric caner undergo the enhanced recovery after surgery (ERAS) programs or the standard cares (SC) programs.
+

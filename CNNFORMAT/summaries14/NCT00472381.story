@@ -1,0 +1,26 @@
+(secondQuint)Efficacy and Safety of Continuous Intravenous Versus Usual Subcutaneous Insulin in Acute Ischemic Stroke.
+
+ It is demonstrated that post-stroke hyperglycaemia is associated with poor outcome.
+
+ Yet, the efficiency of aggressive insulin serum glucose control is not established.
+
+ Furthermore the modalities of insulin administration are discussed since US and European guidelines recommend subcutaneous administration, whereas some groups use intravenous administration of insulin.
+
+ The purpose of this study is to compare the efficacy and the safety of a continuous intravenous insulin protocol versus classical subcutaneous administration of insulin.
+
+ The study will include carotid territory stroke at the acute stage (< 6 hours of onset) confirmed by MRI, and randomized in intravenous versus subcutaneous insulin.
+
+ The percentage of patients in the target range (mean capillary glycaemia within 24 hours < 7 mmol/l) is the primary outcome.
+
+ The secondary outcomes include comparison of Modified Rankin Scale at 3 months, rate of hypoglycaemic events and comparison of Infarct Growth as measured on MRI.
+
+.
+
+ Efficacy and Safety of Continuous Intravenous Versus Usual Subcutaneous Insulin in Acute Ischemic Stroke@highlight
+
+Hyperglycaemia is a frequent finding in acute ischemic stroke and associated with poor outcome.
+
+ But the modalities of glucose lowering are still debated.
+
+ This study will test the efficacy and safety of continuous intravenous insulin protocol versus usual subcutaneous insulin in acute ischemic stroke.
+

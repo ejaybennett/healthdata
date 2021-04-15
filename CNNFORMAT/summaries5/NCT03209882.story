@@ -1,0 +1,26 @@
+(secondQuint)Transcranial Infrared Laser Stimulation (TILS) of Prefrontal Cognition in Post-traumatic Stress Disorder (PTSD).
+
+ Post-traumatic stress disorder (PTSD) is often associated with cognitive impairments.
+
+ It has been indicated that hypoactivity of the prefrontal cortex plays a major role in the disrupted neural circuitry of mood and cognition.
+
+ Transcranial infrared laser stimulation (TILS) is a neural type of photobiomodulation that can elevate neuronal metabolism by exciting cytochrome c oxidase (CCO).
+
+ Veterans with PTSD will receive prefrontal TILS interventions once-per-week for six weeks.
+
+ They will also receive an additional sham intervention (laser power = 0) that will be randomly assigned into the first two sessions.
+
+ Broadband near-infrared spectroscopy (bbNIRS) will be used to directly assess the CCO changes during every TILS/sham session.
+
+ Veterans' prefrontal functions will be evaluated with three short-term memory tasks before and after each intervention.
+
+ The prefrontal activities will also be imaged by functional near-infrared spectroscopy (fNIRS) to objectively assess the functional changes due to TILS/sham interventions.
+
+.
+
+ Transcranial Infrared Laser Stimulation (TILS) of Prefrontal Cognition in Post-traumatic Stress Disorder (PTSD)@highlight
+
+This study evaluates the effects of transcranial infrared laser stimulation (TILS) on prefrontal metabolism and hemodynamics in veterans with post-traumatic stress disorder (PTSD).
+
+ The subjects will receive six TILS interventions and one sham intervention in a course of seven weeks.
+

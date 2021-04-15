@@ -1,0 +1,20 @@
+(secondQuint)Bioequivalence Study of Etodolac Capsules USP 300 mg Under Fasting Condition.
+
+ Objective of this pivotal study was to assess the bioequivalence between Test Product: Etodolac Capsules USP 300 mg of Ipca Laboratories Limited, India and the corresponding Reference Product: Etodolac Capsules USP 300mg of Taro Pharmaceutical Industries Ltd.
+
+, USA, under fasting condition in healthy, adult, human subjects in a randomized crossover study.
+
+ The study was conducted with 36 healthy adult subjects.
+
+ In each study period, a single 300 mg dose of either test or reference was administered to the subjects as per the randomization schedule in each study period with about 240 mL of water at ambient temperature in sitting position.
+
+ The duration of the clinical phase was approximately 15 days including washout period of 12 days between administrations of study drug in each study period.
+
+.
+
+ Bioequivalence Study of Etodolac Capsules USP 300 mg Under Fasting Condition@highlight
+
+This is a open Label, balanced, randomized, single dose, two-treatment, two-sequence, two-period, crossover pivotal study.
+
+ The purpose of this study is to assess the bioequivalence between Test Product and the corresponding Reference Product under fasting condition in healthy, adult human subjects.
+

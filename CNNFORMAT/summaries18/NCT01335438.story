@@ -1,0 +1,22 @@
+(firstQuint)Total Knee Arthroplasty Comparing Cementless to Cemented Fixation.
+
+ Out comes measures were to determine: 1.
+
+ whether the knee and function scores and the radiographic results of the knees with a Nexgen cemented knee prosthesis would be better than those with an Nexgen cementless prosthesis.
+
+ 2.
+
+ whether the patients with a Nexgen cemented knee prosthesis would have a better range of knee motion than those with an Nexgen cementless prosthesis.
+
+ 3.
+
+ whether patient satisfaction and preference would be better in the patients having a Nexgen cemented knee prosthesis than those of patients having an Nexgen cementless knee prosthesis 4.
+
+ whether complication rate would be less in the knees with a Nexgen cemented knee prosthesis than in the knees with an Nexgen cementless prosthesis.
+
+.
+
+ Total Knee Arthroplasty Comparing Cementless to Cemented Fixation@highlight
+
+The purpose of this study is to determine if there are any clinical or radiographic differences in cemented and cementless fixation in total knee replacement.
+

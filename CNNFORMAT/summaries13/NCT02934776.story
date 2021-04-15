@@ -1,0 +1,13 @@
+(firstQuint)Prospective Cohort Study of the Ability of MRI/DTI to Diagnose Prostate Cancer.
+
+ This is a prospective cohort study of the ability of MRI/DTI to diagnose prostate cancer in men undergoing prostate MRI.
+
+ Study design: Male adults who are scheduled to undergo MRI of the prostate, for clinical reasons, will be subjected to additional 10 minutes of image acquisition inside the MRI machine.
+
+ The added MRI/DTI acquisition does not involve injection of additional contrast material.
+
+ Investigators will compare between ability of the full mp-MRI images to diagnose prostate cancer to that of the MRI/DTI images.
+
+ Prospective Cohort Study of the Ability of MRI/DTI to Diagnose Prostate Cancer@highlight
+
+The purpose of this study is to examine if investigators can improve diagnosis of prostate cancer by using MRI/DTI?

@@ -1,0 +1,20 @@
+(secondQuint)The Effectiveness of Biofeedback Treatment in Constipated Patients With Idiopathic Parkinson's Disease.
+
+ The medical treatment of idiopathic Parkinson's disease (IPD) alleviates constipation symptoms due to the restoration of autonomic dysfunction.
+
+ However, additional laxatives are usually needed in these patients.
+
+ Other suppository treatments included stool softeners, dopamine-receptor agonists, botulinum toxins, and prokinetic medications such as tegaserod.
+
+ Biofeedback therapy (BFT) has been the gold standard for functional constipation with dyssynergic defecation or rectal hyposensitivity.
+
+ However, researchers have not tried to evaluate its usefulness in constipated IPD patients up to now.
+
+ The aims of our study are to characterize the nature of constipation in IPD and to evaluate the usefulness of BFT in constipated IPD patients.
+
+.
+
+ The Effectiveness of Biofeedback Treatment in Constipated Patients With Idiopathic Parkinson's Disease@highlight
+
+The aims of the investigators' study are to characterize the nature of constipation in idiopathic Parkinson's disease (IPD) and to evaluate the usefulness of biofeedback therapy in constipated IPD patients.
+

@@ -1,0 +1,24 @@
+(secondQuint)Extracorporeal Low-intensity Shockwave in Diabetic Nephropathy.
+
+ Diabetic nephropathy is the major contributor to end stage renal disease worldwide.
+
+ Extracorporeal shock wave treatments (ESWT) with low-intensity was reported to be beneficial in inducing cell regeneration and reducing inflammation and have been successfully used for bone fracture, cardiac ischemia, and erectile disorders.
+
+ In this study, sixty patients with stage III & IV (15<=estimated glomerular filtration rate (eGFR)<60 ml/min/1.
+
+73m2) will be recruited and allocated to control and experimental groups in a 1:1 ratio.
+
+ In experiment group, a total of 1200 shockwaves, with low energy density 0.
+
+1mj/mm2 and a frequency of 120 shocks/min, will be applied per kidney per treatment session.
+
+ The treatment will be given twice a week for 3 consecutive weeks, followed by 3 weeks of recess and an additional series of 6 sessions (totally 12 times).
+
+ Patients in each group will be evaluated with eGFR, urine protein-creatinine ration, blood pressure, and biochemistry data at the beginning (index day) and 12 months after starting of the therapy.
+
+ (Outcome time point: 12 months).
+
+ Extracorporeal Low-intensity Shockwave in Diabetic Nephropathy@highlight
+
+In the current study, we use extracorporeal low-intensity shockwave therapy (ESWT) to treat on patients with type 2 diabetes in stage 3-4 chronic kidney disease and see whether it can improve the proteinuria, renal function, and blood pressure compared to baseline and control group.
+

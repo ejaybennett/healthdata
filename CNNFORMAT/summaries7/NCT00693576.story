@@ -1,0 +1,22 @@
+(thirdQuint)The Effect of Simvastatin on Desensitization of Panel-Positive Kidney Transplant Candidates.
+
+ The presence of panel reactive antibodies (PRAs) in the sera of renal transplant candidates is associated with hyperacute or delayed humoral immune responses against the graft after transplantation .
+
+ In addition, these sensitized patients wait for a long time to find a cross-match negative kidney for renal transplantation .
+
+ As a result, some modalities have been used for desensitization including plasmapheresis and intravenous immunoglobulin (IVIG) in combination with immunosuppressive drugs .
+
+ However, recently, the use of statins such as simvastatin, pravastatin and etc.
+
+ has been proposed to be safer and more effective for desensitization .
+
+.
+
+ The Effect of Simvastatin on Desensitization of Panel-Positive Kidney Transplant Candidates@highlight
+
+Patients with panel reactive antibodies have many difficulties to find a crossmatch-negative kidney for transplantation and are at the risk of post transplantation rejection more than other transplanted patients.
+
+ We evaluated the effect of simvastatin on PRA and post transplant outcome of these sensitized patients.
+
+ We also performed a descriptive study.
+

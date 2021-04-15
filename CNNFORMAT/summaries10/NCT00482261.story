@@ -1,0 +1,28 @@
+(thirdQuint)A Study of Low Dose Lenalidomide and Dexamethasone in Relapsed/Refractory Myeloma in Patients at High Risk for Myelosuppression.
+
+ Lenalidomide has proven efficacy in myeloma.
+
+ In the Phase I studies with lenalidomide monotherapy, responses were observed at doses of 5mg, 10mg and 25mg.
+
+ The dose limiting toxicity of lenalidomide monotherapy was myelosuppression In the International MM-010 and MM-009 studies, lenalidomide was administered at 25mg d1-d21 (with pulse dexamethasone) of a 28 day cycle.
+
+ Although the overall response rate and time to progression were impressive, a significant toxicity was myelosuppression.
+
+ The average age in these 2 studies was approximately 63 years, some 7 years lower than the median age for myeloma.
+
+ The median number of prior therapies was 2.
+
+ Thus, if lenalidomide therapy is to be optimally applied in an older and/or more heavily pre-treated population, a simpler, less toxic regimen would be valuable.
+
+ Low dose (15mg) lenalidomide (Rev-Lite) with dexamethasone may achieve this goal Based on analysis of the MM009 and MM010 data the patients at highest risk for myelosuppression and subsequent dose reduction were those over the age of 60 years (approx 30% risk which increased to approx 50% by 70 years).
+
+It is hypothesized that patients with lower base-line platelets may also be at higher risk of lenalidomide-induced myelosuppression.
+
+ Little is known about lenalidomide tolerance in patients with impaired renal function, consequently patients with relatively poorer renal function will also be enrolled into this study.
+
+.
+
+ A Study of Low Dose Lenalidomide and Dexamethasone in Relapsed/Refractory Myeloma in Patients at High Risk for Myelosuppression@highlight
+
+The purpose of this study is to see whether combination of low dose lenalidomide(10mg)+ dexamethasone is equally effective in treating relapsed/refractory myeloma in the group of elderly patients and other patients at risk of myelosuppression, whilst producing less side effects, especially myelosuppression compared to the higher dose of lenalidomide of 25mg used in the MM-009 and MM-010 trials.
+

@@ -1,0 +1,18 @@
+(firstQuint)Matrix Metalloproteinase (MMP) in Heart Failure.
+
+ Myocardial fibrosis is observed in failing hearts and parallel to the progression of chronic heart failure (CHF) and myocardial remodeling.
+
+ Matrix metalloproteinases (MMPs) are considered markers of fibrosis.
+
+ Recently, circulating MMPs can be measured and are elevated in patients with CHF.
+
+ However, MMPs it is still unclear whether MMPs are produced in failing hearts.
+
+ Thus, the purpose of this study is to evaluate the production of MMP in failing hearts.
+
+.
+
+ Matrix Metalloproteinase (MMP) in Heart Failure@highlight
+
+The purpose of this study is to evaluate the production of MMP in failing hearts.
+

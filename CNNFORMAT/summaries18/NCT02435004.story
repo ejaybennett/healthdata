@@ -1,0 +1,24 @@
+(secondQuint)Dorsal Root Ganglion Stimulation for the Management of Painful Intractable Small Fibre Neuropathy:.
+
+ This study is a prospective, single-arm, mono-centre pilot study enrolling a maximum of 31 patients with SFN.
+
+ All enrolled patients will receive a trial neurostimulation (TNS) lasting from 3 to 30 days and only patients with a positive result in terms of pain intensity reduction will be eligible for the implanted neurostimulation (INS) phase.
+
+ The target number of patients eligible for INS is 10 and this population will be assessed for impact of DRGS on the neuropathic pain caused by SFN.
+
+ The expected duration of patients participation will be 14 months.
+
+ The rationale for this open label approach is that this is a novel technique for which pilot data with regard to applicability and efficacy have yet to be established.
+
+ Data gathered in the study will provide preliminary data required to assess the feasibility of this intervention, to be used for possible future studies with a more rigorous methodological approach (i.
+
+e.
+
+ controlled trial, randomized controlled trial).
+
+.
+
+ Dorsal Root Ganglion Stimulation for the Management of Painful Intractable Small Fibre Neuropathy:@highlight
+
+A prospective, single-arm, mono-centre pilot study to obtain preliminary information on the ability of Dorsal Root Ganglion Stimulation (DRGS) in alleviating the painful symptoms in patients with small fiber neuropathy (SFN).
+

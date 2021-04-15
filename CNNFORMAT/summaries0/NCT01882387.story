@@ -1,0 +1,46 @@
+(fifthQuint)Efficacy Study of a TXA127 to Reduce Graft-vs-Host Disease in Subjects Undergoing Allogeneic Peripheral Blood Stem Cell Transplantation.
+
+ Allogeneic hematopoietic stem cell transplantation (HSCT) is increasingly used as an effective treatment for malignant disease.
+
+ The three most common sources for stem cells used in HSCT are bone marrow (BM), umbilical cord blood (UCB), and peripheral blood stem cells (PBSC).
+
+ In a retrospective review of 1,525 adults with acute leukemia receiving allogeneic transplants between 2002 and 2006, UCB accounted for 10.
+
+8%, PBSC for 58.
+
+2%, and BM for 31% of the population (Eapen et al.
+
+, 2010).
+
+ PBSC as a source of hematopoietic stem cells for transplantation has advantages over bone marrow in terms of donation ease and comfort and over cord blood in terms of adequate cell dose.
+
+ However, PBSC transplantations are associated with an increased incidence of graft-versus-host disease (GVHD).
+
+ Based on current literature acute GVHD (aGVHD) is reported in 48-80% of PBSCT recipients (Eapen et al.
+
+, 2010, Ferrara et al.
+
+, 2009).
+
+ Additionally, the myeloablative conditioning regimens used for these transplants often result in mucositis which can be debilitating to patients.
+
+ TXA127 is pharmaceutically-formulated angiotensin 1-7, a non-hypertensive derivative of angiotensin II.
+
+ TXA127 has multilineage effects on hematopoietic progenitors in vitro and in vivo.
+
+ The hematopoietic properties demonstrated in preclinical and clinical studies support the investigation of TXA127 to reduce the incidence of aGVHD and mucositis in this patient population.
+
+.
+
+ Efficacy Study of a TXA127 to Reduce Graft-vs-Host Disease in Subjects Undergoing Allogeneic Peripheral Blood Stem Cell Transplantation@highlight
+
+The purpose of this study is to evaluate the efficacy of TXA127 to reduce the incidence (Grade II-IV) of acute Graft-vs.
+
+-Host Disease (aGVHD) in adult subjects undergoing allogeneic peripheral blood stem cell transplantation (PBSCT).
+
+ The study will also evaluate the effects of TXA127 on incidence, severity and duration of mucositis; neutrophil engraftment and platelet recovery; platelet transfusion requirements; immune reconstitution; and duration of corticosteroid use.
+
+ TXA127 has shown to be well tolerated by patients and appears to induce rapid production of neutrophils and platelets in the bloodstream, as well as increase the immune system components.
+
+ TXA127 has also been shown reduce the severity of chemotherapy-induced mucositis.
+

@@ -1,0 +1,14 @@
+(firstQuint)Evaluation of KX2-391 in Elderly Subjects With Acute Myeloid Leukemia (AML).
+
+ KX2-391 has been evaluated in a Phase 1 dose escalation study in patients with solid tumors using twice-daily dosing.
+
+ This study will employ the Storer's two-stage design to determine the maximum tolerated dose of KX2-391 mono-therapy,given as a once-daily oral dose,in elderly patients with acute myelogenous leukemia (AML) who are refractory to or have declined standard induction therapy.
+
+ The safety, tolerability, pharmacokinetics and activity of KX2-391 will be evaluated.
+
+.
+
+ Evaluation of KX2-391 in Elderly Subjects With Acute Myeloid Leukemia (AML)@highlight
+
+This Phase 1b study will determine the maximum tolerated dose of KX2-391 given as a once-daily dose, in elderly patients with acute myelogenous leukemia.
+

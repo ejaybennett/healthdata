@@ -1,0 +1,19 @@
+(firstQuint)A Phase 1 Study of the Pharmacokinetics of RDC5 in Healthy Volunteers.
+
+ This is an open-label, randomised, single dose, 3-way crossover study to characterise and compare the PK, safety and tolerability of RDC5 in 15 healthy male volunteers.
+
+ Eligible subjects will undergo 3 Treatment Periods, each separated by a washout period at least 14 days.
+
+ Subjects will receive a single dose of RDC5 during each of the three Treatment Periods in line with their randomized treatment sequence.
+
+ A total of 4 dose levels will be evaluated within the study, though each subject will only receive 3 doses.
+
+ A Data Review Team (DRT) will review the pharmacokinetic (PK) data from Treatment Periods 1 and 2 and select the doses to be evaluated in Treatment Periods 2 and 3.
+
+ Subjects will return for a follow visit 21 days after the last dose of RDC5.
+
+.
+
+ A Phase 1 Study of the Pharmacokinetics of RDC5 in Healthy Volunteers@highlight
+
+The purpose of this study is to characterise the pharmacokinetics, safety and tolerability of RDC5 given as a single dose to healthy volunteers at a number of different dose levels

@@ -1,0 +1,16 @@
+(firstQuint)Umbilical Cord Blood Transplantation From Unrelated Donors.
+
+ This study is a single-center treatment protocol with four possible preparative regimens, designed to validate the process of umbilical cord blood stem cell transplantation at our institution.
+
+ Enrolled patients will receive chemotherapy +/-total body radiation as a pre-transplant conditioning regimen.
+
+ Patients will then receive cord blood stem cells followed by GvHD prophylaxis that will include Tacrolimus and Mycophenolate Mofetil, or Cyclosporin A and Methylprednisolone.
+
+ Multiple data points will be collected prior to, during, and following transplantation to ensure safety of the process and to evaluate the stated objectives.
+
+.
+
+ Umbilical Cord Blood Transplantation From Unrelated Donors@highlight
+
+This study is a single-center, treatment protocol with 4 possible preparative regimens, designed to validate the process of umbilical cord blood stem cell transplantation at our institution.
+

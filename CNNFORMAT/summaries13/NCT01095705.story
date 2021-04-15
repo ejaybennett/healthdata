@@ -1,0 +1,20 @@
+(firstQuint)Hypnosis for Transesophageal Echocardiography.
+
+ TEE is a widely used diagnostic test in cardiovascular medicine.
+
+ However, the test may be a source of discomfort to the patient.
+
+ Patient intolerance of the echocardiography probe limits the duration of the procedure and therefore its diagnostic success.
+
+ Current strategies to reduce patient discomfort involve global anesthesia, which carries its own side effects and risks of adverse events.
+
+ Hypnosis may reduce patient discomfort without impairing alertness.
+
+ The main goal of this study is to determine the additive value of hypnosis to improve patient comfort during TEE.
+
+.
+
+ Hypnosis for Transesophageal Echocardiography@highlight
+
+The purpose of this study is to determine the additive value of hypnosis to improve patient comfort during transesophageal echocardiography (TEE).
+

@@ -1,0 +1,14 @@
+(firstQuint)Quality of Life Following Radical Prostatectomy.
+
+ To define impact on quality of life issues for patients undergoing radical prostatectomy.
+
+ This study will distribute a questionnaire to patients who are being scheduled for radical prostatectomy, both before and after surgery, to assess the impact on quality of life issues.
+
+ This will provide important information regarding the temporal return of issues pertaining to quality of life.
+
+.
+
+ Quality of Life Following Radical Prostatectomy@highlight
+
+This study will utilize the Expanded Prostate Cancer Index Composite questionnaire to learn what impact the surgery has upon the participant's sense of health, sexual and urinary quality of life.
+

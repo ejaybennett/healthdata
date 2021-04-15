@@ -1,0 +1,22 @@
+(thirdQuint)Obese Patient During RARP: the Role of a Preemptive Ventilator Strategy to Contrast Pneumoperitoneum and Trendelenburg Position.
+
+ RARP (robotic assisted radical prostatectomy) requires the induction of pneumoperitoneum and the trendelenburg position, causing increase in the intra-abdominal pressure and cephalic shift of the diaphragm, with consequent airway closure and collapse of the dependent regions of the lung.
+
+ Obese subjects present an increased risk of respiratory complications, caused not only by the surgical procedure itself, but also by the respiratory mechanics changes associated with the body mass.
+
+ In obese patients we can observe higher values of lung and chest wall elastance, with reduction in ventilation-perfusion ratio.
+
+ The partitioning between lung and chest wall elastance can improve ventilatory setting and mechanics parameters of ventilation.
+
+ In every patient we will place, after anesthesia induction, a catheter to get esophageal and gastric pressure that represent pleural and abdominal pressure.
+
+ Ventilation will be conducted with a tidal volume of 8-10 ml/kg (IBW) and a respiratory rate adequate to maintain a physiological level of Pa CO2.
+
+ The preemptive strategy involves recruitment maneuver and setting of 10 cmH2O PEEP before induction of pneumoperitoneum and trendelenburg position in the treatment group, while the current procedure provides it afterwards (control group).
+
+.
+
+ Obese Patient During RARP: the Role of a Preemptive Ventilator Strategy to Contrast Pneumoperitoneum and Trendelenburg Position@highlight
+
+Analysis of the specific elastance during general anesthesia in patients treated with RARP (robotic assisted radical prostatectomy), to evaluate the efficacy of the preemptive strategy, involving recruitment maneuver and setting of 10 cmH2O PEEP before induction of pneumoperitoneum and trendelenburg position.
+

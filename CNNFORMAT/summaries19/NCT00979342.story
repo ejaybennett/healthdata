@@ -1,0 +1,20 @@
+(thirdQuint)Comparative Sedation Study of the MyoSure Hysteroscopic Tissue Removal System.
+
+ Forty subjects will be enrolled in a randomized, controlled study conducted at four physician offices or day surgery settings.
+
+ Subjects will be randomized 1:1 to a local anesthetic group (Group #1 or Group #2).
+
+ Subjects will undergo a hysteroscopic tissue removal procedure to remove intrauterine polyps, type 0 fibroids, or type I fibroids.
+
+ Subsequent to the procedure, subjects will be randomized 1:1 within the local anesthetic group to a post procedure pain management group (Group A or Group B).
+
+ Subject self-reported pain scores (as rated on an 11 point scale)will be compared at three time points: Immediately post procedure, prior to discharge from the treatment facility, and at 48 hours post procedure.
+
+.
+
+ Comparative Sedation Study of the MyoSure Hysteroscopic Tissue Removal System@highlight
+
+The purpose of this study is to develop a recommended local anesthetic protocol and post-treatment pain management regimen, in order to assure patient comfort during office-based treatment with the MyoSure Hysteroscopic Tissue Removal Device.
+
+ Subject self-reported pain scores (as rated on an 11 point scale) will be compared at multiple time intervals between all treatment groups.
+

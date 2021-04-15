@@ -1,0 +1,22 @@
+(secondQuint)Topical Antibiotic Prophylaxis for Eyelids.
+
+ The use of prophylactic topical antibiotic therapy after eyelid surgery is widespread.
+
+ Due to increasing antibiotic resistance, antibiotic-related complications, and healthcare costs, the investigators wish to determine whether prophylactic post-operative antibiotic ointment is truly necessary.
+
+ After all, existing dermatology literature currently recommends against the routine use of antibiotic ointment after various surgical procedures (e.
+
+g.
+
+ Mohs surgery).
+
+ The investigators aim to perform a prospective randomized control trial at the University of California, San Francisco.
+
+ The investigators aim to recruit a total of 400 oculoplastics patients undergoing eyelid surgery or surgery involving peri-orbital incisions from 2017 through 2019.
+
+.
+
+ Topical Antibiotic Prophylaxis for Eyelids@highlight
+
+The investigators propose a prospective randomized control trial testing the hypothesis that routine topical antibiotic prophylaxis does not significantly reduce the rate of infection after eyelid surgery.
+

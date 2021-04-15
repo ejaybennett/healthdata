@@ -1,0 +1,48 @@
+(secondQuint)Bevacizumab in Reducing CNS Side Effects in Patients Who Have Undergone Radiation Therapy to the Brain for Primary Brain Tumor, Meningioma, or Head and Neck Cancer.
+
+ PRIMARY OBJECTIVE: I.
+
+ Determine to what extent bevacizumab can reduce active radiation toxicity to the CNS in patients who have undergone cranial irradiation for primary brain neoplasm, meningioma, or head and neck cancer.
+
+ SECONDARY OBJECTIVES: I.
+
+ Determine to what extent this drug can reduce dexamethasone dependence in these patients.
+
+ II.
+
+ Determine to what extent this drug can improve neurologic function in these patients.
+
+ III.
+
+ Determine to what extent this drug can improve quality of life of these patients.
+
+ OUTLINE: This is a randomized, placebo-controlled, crossover, double-blind study.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ ARM I: Patients receive bevacizumab IV over 30-90 minutes on day 1.
+
+ Treatment repeats every 3 weeks for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ ARM II: Patients receive placebo IV over 30-90 minutes on day 1.
+
+ Treatment repeats every 3 weeks for up to 2 courses in the absence of disease progression or unacceptable toxicity.
+
+ Patients in arm II who have failed to respond to treatment at 6 or 12 weeks may cross over to arm I and receive 2 courses of bevacizumab as in arm I.
+
+ Patients in arm I (including crossover patients) who have responded to treatment may receive 2 additional courses of bevacizumab.
+
+ Patients undergo MRI after courses 2 and 4.
+
+ Quality of life and neurologic function are assessed at baseline, periodically during study treatment, and at 12 and 24 weeks after completion of study treatment.
+
+ After completion of study treatment, patients are followed at 12 and 24 weeks.
+
+.
+
+ Bevacizumab in Reducing CNS Side Effects in Patients Who Have Undergone Radiation Therapy to the Brain for Primary Brain Tumor, Meningioma, or Head and Neck Cancer@highlight
+
+Bevacizumab may reduce CNS side effects caused by radiation therapy.
+
+ This randomized phase II trial is studying how well bevacizumab works in reducing CNS side effects in patients who have undergone radiation therapy to the brain for primary brain tumor, meningioma, or head and neck cancer.
+

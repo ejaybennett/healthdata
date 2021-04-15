@@ -1,0 +1,18 @@
+(firstQuint)Effects of GLP-1 on Chronic Heart Failure.
+
+ Heart failure (HF) is a major cause of morbidity and mortality world wide.
+
+ Glucagon-like peptide-1 (GLP-1) is an incretin hormone that regulates plasma glucose, and has direct effects on the cardiovascular system.
+
+ In our previous study, the GLP-1 analogue liraglutide could improve left ventricular function in patients with acute myocardial infarction.
+
+ However, the effects of GLP-1 on chronic heart failure patients with type 2 diabetes remain unclear.
+
+ The aim of this study was to evaluate the effects of liraglutide on left ventricular function in chronic heart failure patients with type 2 diabetes.
+
+.
+
+ Effects of GLP-1 on Chronic Heart Failure@highlight
+
+The investigators planned to evaluate the effects of liraglutide on left ventricular function in chronic heart failure patients with type 2 diabetes.
+

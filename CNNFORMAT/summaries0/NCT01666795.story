@@ -1,0 +1,14 @@
+(firstQuint)Autoantibody Specificity and Response to IVIG in ITP.
+
+ Immune thrombocytopenia (ITP) is a common autoimmune bleeding disorder, in which platelet surface GPIIb/IIIa and GPIb/IX are the two most frequently targeted autoantigens.
+
+ Our previous studies in animal models of ITP demonstrated that intravenous immunoglobulin G (IVIG) could protect against anti-GPIIb/IIIa-mediated thrombocytopenia but failed to ameliorate ITP induced by most anti-GPIb/IX antibodies.
+
+ The objective of this human study was to evaluate the association between the specificity of anti-platelet autoantibodies and response to IVIG treatment.
+
+.
+
+ Autoantibody Specificity and Response to IVIG in ITP@highlight
+
+The objective of this human study was to evaluate the association between the specificity of anti-platelet autoantibodies and response to IVIG treatment.
+

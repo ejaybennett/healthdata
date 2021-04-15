@@ -1,0 +1,52 @@
+(fifthQuint)Prospective Abuse and Intimate Partner Violence Surgical Evaluation.
+
+ Number of Participants: 250 Primary Research Objectives: Feasibility Secondary Research Objective: The secondary objectives are to determine: 1.
+
+ How a history of IPV affects injury-related complications; 2.
+
+ How a history of IPV affects return to pre-injury function; 3.
+
+ Incident cases of IPV after a musculoskeletal injury, if the injury was not the result of IPV; 4.
+
+ How a history of IPV affects health care and support service use after a musculoskeletal injury; 5.
+
+ How a history of IPV affects health-related quality of life after a musculoskeletal injury; 6.
+
+ How patterns of IPV change over time after a musculoskeletal injury; 7.
+
+ How abused women's stage of change changes over time after a musculoskeletal injury Diagnosis and Main Inclusion Criteria: The inclusion criteria are: 1.
+
+ adult females (at least 16 or 18 years of age depending on local ethics requirements); 2.
+
+ patients presenting to participating fracture clinics within 6 weeks of their musculoskeletal injury; 3.
+
+ patients presenting with a fracture or dislocation which is being managed with either surgical or non-surgical treatment.
+
+ The exclusion criteria are: 1.
+
+ unwilling to or unable to provide consent; 2.
+
+ unable to complete the study questionnaires in a private location, due to safety and confidentiality; 3.
+
+ unwilling or unable to follow the study protocol or their attending surgeon has concerns about their ability or willingness to follow study protocols; 4.
+
+ does not speak and write in English or the dominant language of the local clinic Study Outcomes: The primary outcome is feasibility.
+
+ Secondary outcomes are injury-related complications, return to function, incidence of IPV, quality of life, abuse type and severity, and stage of change.
+
+ Duration of Patient Follow-Up: Study participants will be followed for 12 months.
+
+ Prospective Abuse and Intimate Partner Violence Surgical Evaluation@highlight
+
+Intimate partner violence (IPV), also known as domestic abuse, is a leading cause of non-fatal injury in women worldwide.
+
+ 1 in 6 women attending surgical fracture clinics have a history of IPV in the past year.
+
+ Given the high prevalence and costs associated with IPV, there is a need to identify health outcomes associated with IPV, the incidence of new and worsening cases of IPV, and resource use among IPV victims.
+
+ This prospective cohort study of women with fractures and dislocations will assess differences in injury-related outcomes (time to fracture healing, injury-related complications, and return to pre-injury function) between abused and non-abused women.
+
+ This study will also determine whether a musculoskeletal injury can lead to new or worsening abuse by an intimate partner and how patterns of IPV change over time following musculoskeletal injuries.
+
+Finally, the proposed study will also inform the feasibility of a larger multinational cohort study.
+

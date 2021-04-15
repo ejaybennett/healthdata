@@ -1,0 +1,36 @@
+(secondQuint)Platelet-rich Plasma Injections for Persistent Medial Knee Pain After Total Knee Arthroplasty.
+
+ This study aims to investigate the efficacy of platelet-rich plasma (PRP) injections for the treatment of persistent medial knee pain after total knee arthroplasty (TKA).
+
+ The investigators hypothesize that PRP injections will provide meaningful pain relief and improved functionality for patients suffering from post-TKA residual pain.
+
+ The incidence of residual pain after TKA ranges between 10-34% (Beswick et al).
+
+ Many of these patients can be effectively managed by physical therapy, orthotics, and pes anserine bursa corticosteroid injections.
+
+ However, there remain a number of refractory cases that are frustrating for both the patient and physician.
+
+ With the advent of interventional pain management, advanced interventions for this clinical problem have focused on selective nerve blocks and ablations targeting the infrapatellar branch of the saphenous nerve (Shi et al).
+
+ More recently, attention has been paid to the role of patient biology and inflammatory mediators in the development of post-arthroplasty pain (including IL-6 and CRP) (Preston et al).
+
+ If individual patient biology is the foundation of post-TKA pain, then biologic interventions aimed at restoring the balance of these mediators (such as PRP), rather than ablative procedures, seems preferable.
+
+ Furthermore, while intra-operative PRP has been studied for its effects on wound healing, blood loss, and post-operative pain control, no study has investigated its utility in treating residual medial knee pain after TKA.
+
+ All injections will be performed by the same board-certified sports medicine and musculoskeletal ultrasound physician.
+
+ There will be no activity restrictions following the procedure.
+
+ Descriptive statistics will be used to report mean changes in outcome scores.
+
+ Data will be analyzed with a 2-sample t-test.
+
+.
+
+ Platelet-rich Plasma Injections for Persistent Medial Knee Pain After Total Knee Arthroplasty@highlight
+
+This study will investigate the potential effects of platelet rich plasma for the treatment of persistent medial knee pain after total knee arthroplasty.
+
+ All study participants will receive PRP injections and will be followed up to see if any benefit in regards to pain and/or function is achieved.
+

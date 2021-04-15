@@ -1,0 +1,30 @@
+(fifthQuint)Long-term Effects of Bariatric Surgery.
+
+ The primary goal of LABS-2 is to evaluate the efficacy and safety of bariatric surgery over a longer term than LABS-1, i.
+
+e.
+
+, more than 30 days.
+
+ Using a sample of the LABS-1 cohort, approximately 2,400 patients, will be recruited over 3 years.
+
+ LABS-2 will include clinical assessments and detailed interviews and questionnaires pre-operatively and at several post-operative time points (30 days, 6 months, 12 months following surgery, and annually thereafter) to assess risks of surgery, and changes in clinical, metabolic, and psychosocial characteristics in patients, and health care utilization following bariatric surgery.
+
+ Detailed data about the surgical procedure and peri- and post-operative care will also be collected to determine if components of the surgical procedure, and peri-operative and post-operative care as well as clinical/demographic patient characteristics are associated with post-operative risks and changes in patient status.
+
+ Patients enrolled in LABS-2 will provide blood specimens pre-operatively and post-operatively to address LABS-2 hypotheses and additional samples will be stored at the NIDDK tissue repository for serologic, pathologic and genomic testing of other hypotheses.
+
+.
+
+ Long-term Effects of Bariatric Surgery@highlight
+
+The primary objective of LABS-2 is to use standardized techniques and measures to assess the longer-term safety and efficacy of bariatric surgery by: 1.
+
+ comparing post-surgical outcomes to pre-operative status 2.
+
+ examining risks and benefits of surgery.
+
+ LABS-2 will determine the associations between clinical/demographic patient characteristics, components of the surgical procedure, and peri-operative and post-operative care with post-operative risks and changes in patient status.
+
+ Funds are not available to pay for the surgery for patients, only to address research questions.
+

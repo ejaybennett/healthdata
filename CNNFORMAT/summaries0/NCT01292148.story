@@ -1,0 +1,16 @@
+(secondQuint)Measurement of Core Temperatures During Therapeutic Hypothermia.
+
+ The guidelines of therapeutic hypothermia(TH)are rapid cooling, from normothermia to mild hypothermia(32~34 degree), maintenance, and slow rewarming phase.
+
+ If core temperature maintained below 32 degree during TH, som complications will be developed, such as arrythmia, hypotension, cold diuresis, coagulopathy, and so on.
+
+ Therefore correct measurement of core temperature during TH is very important process for successful post cardiac arrest care.
+
+ we will know that rectal or bladder temperature are really reflect the core temperature during TH for post cardiac arrest care, especially rapid cooling phase, maintenance phase, and slow rewarming phase, respectively.
+
+.
+
+ Measurement of Core Temperatures During Therapeutic Hypothermia@highlight
+
+The purpose of this study is to determine that the measurements of rectal and bladder temperature are correctly consistent with core temperature by using the pulmonary artery catheter during therapeutic hypothermia; rapid cooling, maintenance, and slow rewarming phase.
+

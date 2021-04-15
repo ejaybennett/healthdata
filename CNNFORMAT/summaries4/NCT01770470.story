@@ -1,0 +1,12 @@
+(firstQuint)Chitosan Chewing Gum Study in Dialysis Patients.
+
+ The impact of using salivary phosphate binders in ESRD patients is not fully known.
+
+ The purpose of the pilot study is to determine the impact of short-term administration of chitosan-containing chewing gum on phosphate levels in patients with elevated serum phosphate levels.
+
+.
+
+ Chitosan Chewing Gum Study in Dialysis Patients@highlight
+
+The purpose of the pilot study is to determine the impact of short-term administration of chitosan-containing chewing gum on phosphate levels in patients with elevated serum phosphate levels.
+

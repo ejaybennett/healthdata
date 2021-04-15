@@ -1,0 +1,44 @@
+(fifthQuint)Validation of Biomarkers of Diabetic Nephropathy in Type I Diabetic Children.
+
+ Once the type I diabetes is diagnosed, the speed of progression to a DN is very variable.
+
+ Thus, the discovery of biomarkers able to distinguish progressor patients from non-progressor since the appearance of a microalbuminuria, is crucial in order to take care of progressor patients the earlier and to slow down the disease progression.
+
+ The investigators have shown that urine is a biological sample extremely well suited for proteome analysis with the aim to identify biomarkers of renal damages.
+
+ Indeed, they were the first to analyze the urinary proteome of infant using capillary electrophoresis-coupled mass spectrometry.
+
+ This technic permits to analyse the entire urinary proteome of a person in one hour.
+
+ Several laboratories tried to identify other predictive urinary biomarkers of the development of a DN in diabetic patients, but with limited success and nowadays in the clinical practice they still use the measure of the microalbuminuria.
+
+ Contrary to precedent studies, the investigators develop an analysis without a priori and starting with early samples (without any signs of DN) associating the urinary peptide profile with the DN progression over 9-10 years.
+
+ This is a nested case-control study in a cohort of 317 patients constituting the urinary biological collection.
+
+ (The urinary samples of a type I diabetic cohort of 317 patients seen between 2004 and 2008 have been collected.
+
+) These patients will be contacted at the end of 2012 to obtain a number of participation of 180 patients authorizing the use aposteriori of their urinary samples.
+
+ Among this cohort, the investigators evaluate at 90 the number of patients with a DN defined by a dosage of microalbuminuria higher than 100 mg/L.
+
+ The primary endpoint of this study is therefore the identification of urinary biomarkers predictive of DN in type I diabetes pediatric patients.
+
+ The secondary endpoints are : - The estimation of sensibility and specificity parameters, and the Area Under the Curve (AUC).
+
+ - The identification of factors associated with the variability of biomarkers expression such as the age at the moment of the diagnosis, the time between the diagnosis and the urinary collection, the rate of microalbuminuria, and the type of insulin used by the patient.
+
+ - And in the subgroup of patients for whom two urinary samples have been collected, the investigators want to study the urinary proteome stability in patients with no DN in 2013.
+
+.
+
+ Validation of Biomarkers of Diabetic Nephropathy in Type I Diabetic Children@highlight
+
+About 30 to 40% of patients suffering from type I diabetes are at risk of developing a diabetic nephropathy (DN) leading more or less rapidly to an end-stage renal disease.
+
+ Nowadays, the microalbuminuria is the most often used clinical parameter for possible onset of DN.
+
+ However, it is a late (because it permits to detect a renal disease already present), non-specific and low sensitive biomarker.
+
+ Therefore the main objective of this study is to identify early urinary biomarkers predictive of DN in children with type I diabetes, before the appearance of a microalbuminuria.
+

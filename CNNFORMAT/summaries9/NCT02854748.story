@@ -1,0 +1,19 @@
+(firstQuint)Evaluate the Drug-drugs Interaction Between Lobeglitazone and Empagliflozin.
+
+ To healthy male subjects of 30, following treatments are administered dosing in each 3 period(Lobeglitazone or Empagliflozin or Lobe.
+
++Empa.
+
+) and wash-out period is a minimum of 7 days.
+
+ Test Drug 1: Lobeglitazone 0.
+
+5mg 1T Test Drug 2: Empagliflozin 25mg 1T Pharmacokinetic blood samples are collected up to 24hrs.
+
+ Safety, pharmacokinetic and the drug-drugs interaction are assessed.
+
+.
+
+ Evaluate the Drug-drugs Interaction Between Lobeglitazone and Empagliflozin@highlight
+
+This study is a randomized, open-label, multiple dosing, crossover study to evaluate the drug-drugs interaction between Lobeglitazone and Empagliflozin in healthy male volunteers

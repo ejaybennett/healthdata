@@ -1,0 +1,54 @@
+(fifthQuint)Improving Communication About Patient Priorities in Multimorbidity.
+
+ Patients with depression or anxiety in the context of multimorbidity (2 or more chronic conditions such as Diabetes, Heart Disease, Arthritis, COPD, Asthma) are often preoccupied with day-to-day concerns related to issues such as finances, safety and functional ability.
+
+ Determining which issues to discuss, and when to discuss it, is always difficult in the 15-minute primary care visit, but it is especially challenging when patients have multiple diagnoses, symptoms and concerns.
+
+ In this application the investigators will develop and test the feasibility of Customized Care, an intervention that capitalizes on decision technology and will be deployed in primary care waiting rooms.
+
+ The investigators will assess whether customized care will improve outcomes among patients with depression and/or anxiety in the context of multimorbidity.
+
+ Customized Care consists of two different components designed to improve health outcomes by improving patient-provider communication.
+
+ The first component is a computer-based discussion prioritization tool (DPT).
+
+ The DPT forces patients to make trade-offs between competing concerns to help them determine which are the most important to discuss.
+
+ The second component is a customized question prompt list (QPL) to help patients communicate their priorities to the PCP.
+
+ The QPL will be generated after patients use the DPT, and consists of question prompts tailored to the patients' priorities.
+
+ When patients express their day-to-day concerns, and PCPs become aware of these concerns, the patient-provider alliance can deepen.
+
+ In addition, patient motivation (perceived autonomy, competence) to manage those everyday concerns and engage in care for chronic disease and associated mental health conditions will increase.
+
+ This project will lay the ground work for a larger randomized trial to assess whether customized care can improve mental health outcomes among patients with multimorbidity.
+
+ The specific aims are: 1.
+
+ To assess usability of the Customized Care components (the DPT and QPL) 2.
+
+ To assess feasibility of Customized Care in primary care settings 3.
+
+ To conduct a pilot study of the effects of Customized Care on patient-PCP communication.
+
+ Improving Communication About Patient Priorities in Multimorbidity@highlight
+
+The goal of this study is to develop and test Customized Care, an intervention to help patients dealing with depression and/or anxiety in the context of multiple chronic conditions.
+
+ Customized Care is designed to help patients communicate about important issues, such as financial and safety concerns, with their primary care providers (PCPs).
+
+ The intervention will be delivered in patient waiting rooms prior to a routine follow-up visit with the PCP.
+
+ Phase 1 of the project will ensure that the main components of Customized Care are acceptable to patients and PCPs.
+
+ Phase 2 will include a pilot study to test the effects of Customized Care on patient-PCP communication.
+
+ Participants aged 40 years or older who have a diagnosis of two or more common chronic medical conditions will be recruited from primary care clinics.
+
+ Patients screening positive for either depression or anxiety will be randomized to Customized Care vs.
+
+ an active control.
+
+ The investigators hypothesize that the Customized Care will improve patient-Primary Care-Provider communication.
+

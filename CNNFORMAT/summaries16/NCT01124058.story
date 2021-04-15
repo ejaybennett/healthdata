@@ -1,0 +1,30 @@
+(secondQuint)Evaluation of Maintenance Dosing vs Loading Dosing Upon Restarting Warfarin Therapy: A Prospective Randomized Trial.
+
+ Patients will be identified via the University of Alberta Hospital Anticoagulation Management Service.
+
+ Following the receipt of written, informed consent, patients will be randomized to re-start warfarin at their "maintenance" dose or at a "loading" dose (1.
+
+5 times the maintenance dose for 3 days, then resumption of warfarin dosing as per the maintenance dose).
+
+ Randomization will be performed on-line through the EPICORE Centre.
+
+ Assuming Day 1 is the day warfarin is re-started, patients will have INRs done on day 3 and at least every 2 days thereafter until a therapeutic INR is obtained.
+
+ In addition, protein C, protein S and factor II levels will be obtained while the patient is on stable maintenance dosing of warfarin (i.
+
+e.
+
+, prior to holding warfarin for the procedure), 7 days after re-starting warfarin, and 14 days after re-starting warfarin.
+
+ Complete blood counts (CBCs) will be done with each INR if the patient is taking a low molecular weight heparin (LMWH).
+
+ Patients will have their anticoagulant therapy managed by the AMS for 6 weeks and will receive a telephone follow-up by the AMS at 90 days to determine if any bleeding or clotting complications occurred.
+
+.
+
+ Evaluation of Maintenance Dosing vs Loading Dosing Upon Restarting Warfarin Therapy: A Prospective Randomized Trial@highlight
+
+A prospective, randomized trial to compare the time taken to achieve a therapeutic INR upon re-starting warfarin at a "loading" dose (namely 1.
+
+5 times the "maintenance" dose for 3 days) compared to the known "maintenance" dose.
+

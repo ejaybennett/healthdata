@@ -1,0 +1,15 @@
+(firstQuint)Preoperative Corneal Thickness and Postoperative Visual Outcomes After Posterior Lamellar Corneal Transplant.
+
+ Patients underwent DSAEK or DMEK for endothelial dysfunction, from October 2013 to November 2016.
+
+ Patients aged > 18 years and with an indication for posterior lamellar graft surgery, such as Fuchs dystrophy, were included.
+
+ Exclusion criteria included a history of penetrating keratoplasty in the study eye and a need for a penetrating keratoplasty following endothelial graft failure.
+
+ Visual acuity, central corneal thickness (CCT) and graft thickness were measured preoperatively, and at postoperative day 7 and months 1, 3 and 6.
+
+.
+
+ Preoperative Corneal Thickness and Postoperative Visual Outcomes After Posterior Lamellar Corneal Transplant@highlight
+
+To evaluate the impact of preoperative corneal thickness on visual outcomes following Descemet's stripping endothelial keratoplasty (DSAEK) or Descemet membrane endothelial keratoplasty (DMEK)

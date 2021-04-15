@@ -1,0 +1,20 @@
+(secondQuint)Safety and Efficacy of Telbivudine on Liver Cirrhosis in Patients With Chronic Hepatitis B (CHB).
+
+ Antiviral therapy on CHB patients with liver cirrhosis is compulsory and effective.
+
+ Diseases development can be prevented or delayed if the virus is depressed successfully.
+
+ Lamivudine is often used and usually has good efficacy.
+
+ However, lamivudine resistance and virus mutation happens a lot.
+
+ Telbivudine, which is superior to lamivudine in the treatment of CHB,is considered to be appropriate for the antiviral treatment on CHB patients with liver cirrhosis.
+
+.
+
+ Safety and Efficacy of Telbivudine on Liver Cirrhosis in Patients With Chronic Hepatitis B (CHB)@highlight
+
+Antiviral treatment on Chronic Hepatitis B (CHB) patients with liver cirrhosis is compulsory and effective.
+
+ Telbivudine, which is superior to lamivudine in the treatment of CHB,is considered to be appropriate for the antiviral treatment on CHB patients with liver cirrhosis.
+

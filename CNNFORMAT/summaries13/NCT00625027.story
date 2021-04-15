@@ -1,0 +1,28 @@
+(thirdQuint)The Effect of Telehealth Ontario on Non-urgent Emergency Department Use at The Hospital for Sick Children.
+
+ Some studies have shown that certain telephone nursing advice lines are effective in reducing non-urgent emergency department use.
+
+ However, to my knowledge, no study has investigated the efficacy of Telehealth Ontario in particular.
+
+ There are important differences between Telehealth Ontario and other phone lines that have been evaluated, in terms of the method in which calls are handled, the diversity of the population served, and the place of the phone-in line within the health care system.
+
+ These studies, the results of which cannot be extrapolated directly to Telehealth Ontario, should not replace the direct study of the impact and utility of Telehealth Ontario.
+
+ Currently Telehealth Ontario receives over 3000 calls daily from residents of Ontario who are concerned about their health.
+
+ These callers rely on the advise of Telehealth nurses to direct the care they seek out for themselves and for their families.
+
+ The provincial government also relies on Telehealth Ontario - to provide a useful service within the health care system, relieving the pressure on over-crowded emergency departments by directing patients with non-urgent medical complaints to more appropriate avenues of treatment.
+
+ This will be the first study to examine the impact of Telehealth Ontario.
+
+ Although only a small aspect of Telehealth's impact will be examined - the impact on non-urgent emergency department use at Sick Kids - it is an important first step.
+
+ The results of this study may serve to guide modifications to Telehealth that will make it more accessible to specific groups within the community, more reliable in the advice it provides, and more effective in delivering its message to callers.
+
+.
+
+ The Effect of Telehealth Ontario on Non-urgent Emergency Department Use at The Hospital for Sick Children@highlight
+
+The purpose of this study is to compare the rate of non-urgent emergency department use between three groups of patients: those who were referred to the emergency department by Telehealth Ontario; those who were referred by a physician; and those who arrived without being advised by a nurse or a doctor.
+

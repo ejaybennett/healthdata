@@ -1,0 +1,45 @@
+(fifthQuint)Optimizing Fibromyalgia Self-management.
+
+ Fibromyalgia syndrome (FMS) is a common, chronic musculoskeletal disorder and a growing cause of disability and increased health care utilization.
+
+ Current treatment focuses largely on pharmacological interventions, which are often ineffective at improving symptoms and functional status.
+
+ Recent research suggests that disease self-management can be efficacious in the short-term at reducing symptom severity and improving function in persons with FMS.
+
+ The most common forms of FMS self-management are coping skills training (behavioral/education) and exercise.
+
+ Limited in number, most FMS self-management studies examine the short-term effects of one form or the other, with most using the coping skills training approach.
+
+ Little data exist to examine the long-term effects of these interventions, the potential additive effect of combining coping skills training with a comprehensive, group exercise program or an approach for promoting long-term compliance of these interventions.
+
+ The objective of this proposal is to identify the optimal approach to FMS self-management.
+
+ The study is a randomized, controlled trial comparing coping skills training (the Arthritis Foundation Fibromyalgia Self-Help Course (FSHC)) with two exercise programs - cardiovascular and flexibility training with and without strength training - and a combination (the FSHC plus the strength training exercise program).
+
+ Each intervention period will last 16 weeks and include group sessions led by trained personnel.
+
+ Subjects will be followed for 6 months after completing the intervention to evaluate the short-term effect of each program.
+
+ At 6 months, subjects will be randomized into two groups-one group will receive a 4 week refresher course of their original intervention every 6 months and the other group will receive no further intervention.
+
+ Long-term follow up will be for 24 months after completing the 16 week intervention period.
+
+ Subjects will include 200 women (four groups of 50), 25 to 65 years old with a confirmed diagnosis of FMS.
+
+ Participants will undergo blinded assessment at the Beth Israel Deaconess Medical Center's GCRC at five time points-baseline, completion of the 16-week intervention and 6, 12 and 24 month follow up.
+
+ We will assess health and functional status (FIQ, SF36), symptom severity (FIQ, SF36, Beck scales), self-efficacy (Arthritis Self-Efficacy Scale), fitness (muscle strength, cardiovascular fitness, flexibility) and health care utilization (direct and indirect costs).
+
+ The study will improve treatment outcomes for persons with FMS by identifying the optimal self-management program.
+
+.
+
+ Optimizing Fibromyalgia Self-management@highlight
+
+The overall objective of this work is to improve treatment outcomes for persons with fibromyalgia by optimizing the approach to self-management.
+
+ The purpose of this research project is to evaluate and compare, in a randomized, controlled trial involving 200 women, the short and long-term effectiveness of four approaches to fibromyalgia self-management for improving health and functional status, self-efficacy, and symptom severity.
+
+ Additionally, we will also examine the effect of each intervention on health care usage.
+
+ We will assess the following 16-week interventions: - cardiovascular and flexibility exercise - strength training, cardiovascular and flexibility exercise - Arthritis Foundation's Fibromyalgia Self-Help course - a combination of the Fibromyalgia Self-Help Course and strength training exercise interventions

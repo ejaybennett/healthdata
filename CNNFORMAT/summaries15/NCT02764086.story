@@ -1,0 +1,36 @@
+(fifthQuint)INTENSE: A Phase I/II Study of INhomogeneous Targeted Dose Escalation in Non-Small CEll Lung Cancer.
+
+ This is a prospective non-randomised Phase I/II cohort study; please see above for Radiation Therapy and Chemotherapy treatment details Each cohort will require a minimum of 6 and a maximum of 12 patients.
+
+ Once 6 patients have been treated in a cohort a two-month break is taken before toxicity is analysed.
+
+ - If 2 or fewer patients experience a grade 3 toxicity, the next cohort will be enrolled and will receive an escalated dose (an additional +5 Gy at each escalation up to a maximum of 75 Gy) - If 3 of the 6 patients experience a grade 3 toxicity, a further 6 patients will be recruited into that dose level - If 4 or more patients experience a grade 3 toxicity then the MTD is fixed at the dose level of the previous cohort If the cohort is extended to 12 patients, the following rules apply: - If 4 or fewer patients experience a grade 3 toxicity, the next cohort will be enrolled and will receive an escalated dose.
+
+ - If 5 of the 12 patients experience a grade 3 toxicity, then the MTD is fixed at that dose level and recruitment continues up to a total of 24 patients at that dose level.
+
+ - If 6 or more patients experience a grade 3 toxicity, then the MTD is fixed at the dose level of the previous cohort.
+
+ Once the maximum dose cohort is established, patients will continue to be recruited at that dose level up to a total of 24 patients.
+
+ There will be two treatment arms; one with patients who are planned to receive neo-adjuvant or no chemotherapy, and th eother with patients who are planned to receive concurrent chemotherapy.
+
+ The concurrent and neo-adjuvant /no chemotherapy arms will then be escalated independently of each other.
+
+ For each arm the following number of patients will be required: - Minimum number (if maximum dose level reached) = 36 (6 at 65 Gy, 6 at 70 Gy and 24 at 75 Gy) - Maximum number (if maximum dose level reached) = 48 (12 at 65 Gy, 12 at 70 Gy and 24 at 75 Gy) A maximum of 48 patients are required to complete each arm (neo-adjuvant or none /concurrent chemotherapy) of the trial.
+
+ Acute toxicity will be assessed weekly during treatment and at 2, 4 and 8 weeks post-treatment Late toxicities will be assessed at 3, 6, 9, 12, 18 and 24 months post-treatment and annually thereafter until disease relapse / patient withdrawal / patient death.
+
+.
+
+ INTENSE: A Phase I/II Study of INhomogeneous Targeted Dose Escalation in Non-Small CEll Lung Cancer@highlight
+
+This is a prospective non-randomised Phase I/II study with patients recruited to escalated dose cohorts.
+
+ Escalated dose to the iGTV (internal gross tumour volume), with 60 Gy to the conventional PTV (planning target volume), will be delivered to successive cohorts of participants (6-12 participants/cohort) until the maximum tolerated oesophageal dose is determined.
+
+ The minimum dose will be 60 Gy delivered via intensity modulated radiation therapy (IMRT) or volume modulated arc therapy (VMAT), planned on an Average Intensity Projection (AVIP) dataset.
+
+ Standard of care chemotherapy.
+
+ There will be two treatment arms; one with patients who are planned to receive neo-adjuvant or no chemotherapy, and the other with patients who are planned to receive concurrent chemotherapy.
+

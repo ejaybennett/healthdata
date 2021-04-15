@@ -1,0 +1,18 @@
+(firstQuint)Safety and Effectiveness of Agilus (Hyaluronic Acid) for Ankle Osteoarthritis.
+
+ The objective of this study is to compare the safety and effectiveness of Agilus to a saline injection (control) in the treatment of mild to moderate ankle osteoarthritis.
+
+ This is a multi-center, randomized, double blind, saline controlled, prospective study with two (2) treatment groups.
+
+ The active group will receive one injection of Agilus per week for three consecutive weeks for a total of three injections.
+
+ The control group will receive one injection of normal saline per week for three consecutive weeks for a total of three injections.
+
+ Follow up visits will occur at 4 weeks, 12 weeks and 26 weeks following the third injection.
+
+.
+
+ Safety and Effectiveness of Agilus (Hyaluronic Acid) for Ankle Osteoarthritis@highlight
+
+The purpose of this study is to determine whether Agilus is safe and effective in the treatment of mild to moderate ankle osteoarthritis.
+

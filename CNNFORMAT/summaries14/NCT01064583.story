@@ -1,0 +1,14 @@
+(thirdQuint)Cocoa Flavanols and Painfree Walking Distance.
+
+ 62 Type 2 diabetics according to the criteria of the American Diabetes Association suffering from PAOD with a pain free walking distance less than 250m will be enrolled.
+
+ Patients will twice daily receive either a flavanol-poor cocoa drink (13mg/dl)or a flavanol-rich cocoa drink (596mg/dl) over a period of 60 days.
+
+ The general condition, the pain free walking distance and the vascular function measured by Doppler Ultrasound will be determined before and two month after cocoa ingestion.
+
+ Cocoa Flavanols and Painfree Walking Distance@highlight
+
+To characterize potential vascular long-term effects of flavanols in patients with peripheral artery occlusive disease (PAOD), a placebo-controlled double-blinded randomized control study will be performed in 62 patients randomized in two groups.
+
+ Patients will twice daily receive either a flavanol-poor cocoa drink or a flavanol-rich cocoa drink over a period of 60 days months.
+

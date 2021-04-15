@@ -1,0 +1,18 @@
+(firstQuint)SSNB in Hemiplegic Shoulder Pain.
+
+ Shoulder pain is a common complication after a cerebrovascular accident.
+
+Hemiplegic shoulder pain has been shown to affect stroke outcome in a negative way.
+
+It interferes with recovery after stroke:it can cause distress and reduced activities and can markedly hinder rehabilitation.
+
+Suprascapular nerve block has been shown to be effective as an analgesic for different indications such as shoulder capsulitis.
+
+The purpose of this study was to evaluate the effectiveness of this technique conjunction with a rehabilitation program to reduce shoulder pain in hemiplegic patients.
+
+.
+
+ SSNB in Hemiplegic Shoulder Pain@highlight
+
+The purpose of this study is to compare suprascapular nerve block with therapeutic ultrasound in stroke patients who have shoulder pain in weak side.
+

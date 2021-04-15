@@ -1,0 +1,7 @@
+(secondQuint)Prospective, Multi-Center Clinical Evaluation of the Open Wedge Osteotomy and Low Profile Plate & Screw (LPS) System Compared to the Proximal Chevron Osteotomy for the Treatment of Hallux Valgus With an Increased Intermetatarsal Angle.
+
+ Is there a difference in radiologic outcomes of adult patients with moderate to severe hallux valgus with increased intermetatarsal angles treated with a proximal open wedge osteotomy with LPS system versus proximal wedge osteotomy? Is there a difference in surgical times or surgeon procedure preference in the treatment of adult patients with moderate to severe hallux valgus with increased intermetatarsal angles treated with a proximal open wedge osteotomy with LPS system versus proximal wedge osteotomy? Is there a difference in complication rates of adult patients with moderate to severe hallux valgus with increased intermetatarsal angles treated with a proximal open wedge osteotomy with LPS system versus proximal wedge osteotomy?.
+
+ Prospective, Multi-Center Clinical Evaluation of the Open Wedge Osteotomy and Low Profile Plate & Screw (LPS) System Compared to the Proximal Chevron Osteotomy for the Treatment of Hallux Valgus With an Increased Intermetatarsal Angle@highlight
+
+Is there a difference in clinical outcome measures as assessed by the AOFAS, SF-36 and Visual Analogue Scale of adult patients with moderate to severe hallux valgus with increased intermetatarsal angles treated with a proximal open wedge osteotomy with LPS system versus the proximal chevron osteotomy?

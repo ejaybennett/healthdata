@@ -1,0 +1,18 @@
+(secondQuint)Evaluation of Two Pharmacological Protocols for Pre-emptive Analgesia in Impacted Third Molar Surgery.
+
+ The surgery of third molar is usually associated with important post-surgical sequelae.
+
+ The damage caused to tissue and bone may result in considerable pain, edema and trismus.
+
+ The symptoms start gradually, peaking in 2 days after the extraction.
+
+ The use of medications such as dexamethasone and diclofenac associated to codeine may support the prevention of post-surgical pain.
+
+ This clinical trial aim compare the the pre-emptive effect of dexamethasone and diclofenac associated to codeine to prevent the pain, edema and limited mouth opening at the extraction of third molar.
+
+.
+
+ Evaluation of Two Pharmacological Protocols for Pre-emptive Analgesia in Impacted Third Molar Surgery@highlight
+
+The main aim of the study is to investigate the pre-emptive effect of dexamethasone and diclofenac associated to codeine to prevent the pain, edema and limited mouth opening at the extraction of third molar.
+

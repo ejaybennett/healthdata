@@ -1,0 +1,18 @@
+(firstQuint)Performance Evaluation of a New Daily Disposable Silicone Hydrogel Lens.
+
+ Part 1 of the study involved bilateral wear of three different types of marketed contact lenses.
+
+ Each type of lens was worn for three consecutive days of daily disposable wear.
+
+ Participants had been previously identified as symptomatic lens wearers or asymptomatic lens wearers, based upon their responses to a screening questionnaire.
+
+ Participants wore each lens type for as long as they were comfortable during the day, but lenses were removed before sleep.
+
+ After completion of Part 1, participants began Part 2, which included dispensing of the investigational study lens for up to one week of bilateral wear, with a single follow-up visit at the end of that period.
+
+.
+
+ Performance Evaluation of a New Daily Disposable Silicone Hydrogel Lens@highlight
+
+The purpose of this study was to compare a new daily disposable, silicone hydrogel contact lens to marketed daily disposable, silicone hydrogel contact lenses.
+

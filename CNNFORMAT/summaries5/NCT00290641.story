@@ -1,0 +1,50 @@
+(fifthQuint)Chemotherapy and Total-Body Irradiation Followed by Donor Umbilical Cord Blood Transplant, Cyclosporine, and Mycophenolate Mofetil in Treating Patients With Hematologic Cancer.
+
+ OBJECTIVES: Primary - Determine the engraftment potential of unrelated allogeneic umbilical cord blood (UCB) using nonmyeloablative conditioning comprising fludarabine, cyclophosphamide, and total-body irradiation followed by post-transplant immunosuppression comprising cyclosporine and mycophenolate mofetil in patients with hematologic malignancies.
+
+ Secondary - Determine the rate of neutrophil and platelet recovery and the completeness of donor cell engraftment in patients treated with this regimen.
+
+ - Determine the incidence and severity of acute and chronic graft-versus-host disease (GVHD) in patients treated with this regimen.
+
+ - Determine the incidence of malignant relapse in patients treated with this regimen.
+
+ - Determine the 1- and 2-year survival and event-free survival of patients treated with this regimen.
+
+ - Determine the phenotype and function of immune cells recovering after UCB transplantation in patients treated with this regimen.
+
+ - Determine the toxicity of this regimen in these patients.
+
+ OUTLINE: Patients are stratified according to HLA disparity (0-1 vs 2) and number of graft units (1 vs 2).
+
+ - Nonmyeloablative conditioning: Patients receive nonmyeloablative conditioning comprising fludarabine IV over 1 hour on days -8 to -6 and cyclophosphamide IV over 2 hours on days -7 and -6.
+
+ Patients undergo total-body irradiation twice daily on days -4 to -1.
+
+ - Unrelated allogeneic umbilical cord blood transplantation (UCBT): Patients undergo 1 or 2 unrelated allogeneic UCBTs on day 0.
+
+ - Immunosuppression: Patients receive cyclosporine orally or IV over 2 hours 2-3 times daily beginning on day -3 and continuing until day 100, followed by a taper in the absence of graft-vs-host disease (GVHD).
+
+ Patients also receive mycophenolate mofetil orally or IV twice daily on days -3 to 30, continuing beyond day 30 if no donor engraftment.
+
+ Patients also receive filgrastim (G-CSF) IV or subcutaneously beginning on day 1 and continuing until blood counts recover.
+
+ After completion of study treatment, patients are followed periodically.
+
+ PROJECTED ACCRUAL: A total of 100 patients will be accrued for this study.
+
+.
+
+ Chemotherapy and Total-Body Irradiation Followed by Donor Umbilical Cord Blood Transplant, Cyclosporine, and Mycophenolate Mofetil in Treating Patients With Hematologic Cancer@highlight
+
+RATIONALE: Giving low doses of chemotherapy, such as cyclophosphamide and fludarabine, and radiation therapy before a donor umbilical cord blood stem cell transplant helps stop the growth of cancer cells.
+
+ It also stops the patient's immune system from rejecting the donor's stem cells.
+
+ The donated stem cells may replace the patient's immune system and help destroy any remaining cancer cells (graft-versus-tumor effect).
+
+ Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells.
+
+ Giving cyclosporine and mycophenolate mofetil after the transplant may stop this from happening.
+
+ PURPOSE: This clinical trial is studying how well giving chemotherapy together with total-body irradiation followed by donor umbilical cord blood transplant, cyclosporine, and mycophenolate mofetil works in treating patients with hematologic cancer.
+

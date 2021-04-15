@@ -1,0 +1,24 @@
+(thirdQuint)Impact of a Personalized Video in Oral Hygiene Motivation.
+
+ The strategy studied is composite: - First, a personalized video of the patient's oral hygiene routine (toothbrushing and interdental hygiene) is recorded and made available to him-her via a cloud-based system.
+
+ The patient is instructed to view it with his-her smartphone and/or tablet when brushing his-her teeth.
+
+ - Second, the patient is registered in a text-based recall system.
+
+ This recall system will remind him-her the oral hygiene regimen suited to his-her personal situation and contains a link to his cloud-hosted video.
+
+ 12 text messages for each patient will be sent over the course of the study (8 weeks).
+
+ This is a two-way system as patients will be inquired about their compliance to oral hygiene.
+
+ If the patient declare compliance, he-she will be congratulated (positive reinforcement).
+
+ If the patient declares non-compliance, he-she will be informed he-she will be offered additional counselling at the next appointment.
+
+.
+
+ Impact of a Personalized Video in Oral Hygiene Motivation@highlight
+
+Impact of a personalized video in oral hygiene motivation: The study hypothesis is that the use of a personalized oral hygiene video, made available to the patient via a cloud-based system, in conjunction with a text-based two-way recall system will increase patient compliance, hence leading to improvement or oral hygiene.
+

@@ -1,0 +1,48 @@
+(fifthQuint)Visual Performance of Pseudophakic Patient With Different Intraocular Lenses.
+
+ Postoperative evaluation was performed at 3 months.
+
+ The uncorrected and corrected distance visual acuity were assessed using the 100% contrast Early Treatment Diabetic Retinopathy Study chart, uncorrected intermediate visual acuity at 70 cm, and uncorrected near visual acuity at 40 cm; a binocular defocus curve was constructed using the ETDRS chart at 4 m and adding to the patient's manifest refraction +2.
+
+50 to -5.
+
+00 D sphere in 0.
+
+50 increments.
+
+ The cylinder axis of the Intraocular lens (IOL) was measured at the slitlamp using the beam protractor after full mydriasis.
+
+ The mean of the absolute values of degrees the intraocular lens was off axis was determined.
+
+ Contrast sensitivity was measured using the CSV-1000 HGT instrument (VectorVision, Inc.
+
+), which presents a translucent chart divided into 4 cycles with spatial frequencies of 3, 6, 12 and 18 cycles per degree.
+
+ The background illumination of the translucent chart does not depend on room lighting.
+
+ All measurements were obtained under mesopic (5 cd/m2) and photopic (85 cd/m2) conditions.
+
+ The examinations were performed unilaterally at a distance of 2.
+
+5 m with Best-corrected visual acuity (BCVA) and an undilated pupil.
+
+ All measurements were performed under the same conditions.
+
+ Patient satisfaction and quality of life were assessed by a simple questionnaire.
+
+ Patients were interviewed 3 months postoperative.
+
+ Patients were asked about visual disturbances, visual lifestyle activities, spectacle use, and satisfaction with the procedure.
+
+.
+
+ Visual Performance of Pseudophakic Patient With Different Intraocular Lenses@highlight
+
+This retrospective study comprised patients with cataract, corneal astigmatism, and motivation for spectacle independence.
+
+ In all cases, a multifocal and monofocal Intraocular Lens was been implanted in the capsular bag.
+
+ Three months postoperatively, distance, intermediate, and near visual acuities; spherical equivalent; residual refractive astigmatism; defocus curve; and contrast sensitivity was evaluated.
+
+ A patient-satisfaction and visual phenomena questionnaire was also been administered.
+

@@ -1,0 +1,28 @@
+(thirdQuint)European Study on Three Different Approaches to Managing Class 2 Cavities in Primary Teeth.
+
+ At present, many materials and techniques are used to treat carious primary teeth.
+
+ All of these have their proponents who claim they provide the best performance in terms of longevity, aesthetics, bio-compatibility, etc (Qvist, 2010; Yengopal et al.
+
+, 2009).
+
+ However, despite the great variety of techniques and materials, there is no definite evidence for the most effective approach when dental caries in primary molars is concerned, as yet.
+
+ On the other hand, there is conclusive evidence that shows that glass-ionomer cement is an inappropriate material for class II restorations in primary teeth, due to its significant shorter longevity compared with other restorative materials like compomer and amalgam.
+
+ Recently, there is re-surging interest in more biological (less-invasive) techniques: such as the Non-Restorative Caries Treatment (Peretz & Gluck, 2006; Gruythuysen et al.
+
+, 2010) or stainless steel crowns with the advent of the Hall technique in Scotland (Innes et al.
+
+, 2007).
+
+ However, there is lack of comparative evidence from high quality clinical trials leading to uncertainty in the effectiveness of these techniques.
+
+ In addition, these techniques are rarely compared with standard fillings.
+
+.
+
+ European Study on Three Different Approaches to Managing Class 2 Cavities in Primary Teeth@highlight
+
+The purpose of this randomized clinical trial is to compare the clinical effectiveness of three treatments involving different caries management strategies (conventional restorations, Hall technique, and Non-Restorative Caries Treatment) to the management of class II carious primary molars in children (3-8 year-old).
+

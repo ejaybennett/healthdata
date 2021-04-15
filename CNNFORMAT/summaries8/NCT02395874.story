@@ -1,0 +1,30 @@
+(thirdQuint)tDCS and Speech Therapy to Improve Aphasia.
+
+ Approximately 25% of all patients after stroke suffer from aphasia.
+
+ The aphasia could be so severe, that the patient cannot produce any words at all, and so the communication ability is rather poor.
+
+ In that case speech therapy is the most common therapy, but the functional outcome for the patient is often not sufficiently.
+
+ The transcranial direct current stimulation (tDCS) might improve the outcome of speech therapy in patients with severe aphasia.
+
+ The patients will be randomized either to verum stimulation (group A) or sham stimulation (group B).
+
+ In group A they will receive every workday for 6 weeks 20min of tDCS with 2 mA in combination with a 30 min speech therapy.
+
+ In group B they will receive every workday for 6 weeks 20min of tDCS with 0 mA in combination with a 30 min speech therapy.
+
+ The anodal electrode will be placed in case of a total anterior circulation stroke on the homologous speech area on the right hemisphere and in case of a partial anterior circulation stroke perilesional on the left hemisphere.
+
+ The cathode will be positioned contralateral.
+
+.
+
+ tDCS and Speech Therapy to Improve Aphasia@highlight
+
+To study the effect of combined tDCS plus speech therapy compared to sham-tDCS plus speech therapy in subacute stroke patients suffering from moderate or severe aphasia.
+
+ The patients will be randomized by a computer-generated lot.
+
+ Assessment will be performed at study onset, after six weeks at the end of the specific intervention and 4 months after stroke onset for follow-up.
+

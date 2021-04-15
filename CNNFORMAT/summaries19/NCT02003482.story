@@ -1,0 +1,16 @@
+(firstQuint)Prospective Trial of Serial CT Imaging for Evaluation of Dosimetric/Volumetric Changes During IMRT for Head/Neck Cancer.
+
+ The investigator's hypothesis is that those patients with bulky head and neck cancers who undergo definitive radiation therapy with or without chemotherapy have changes in their dose distribution that lead to significant changes in dose to tumor and/or normal tissue.
+
+ It is possible for these dosimetric changes could occur in either those patients who undergo resection or not.
+
+ In this study those patients who have undergone a resection will be stratified separately for analysis, however, this study is not powered to detect a difference between the two groups.
+
+ The rational for stratification into an operated group of patients is that these patients will also lose weight in treatment and will provide us a detection of the magnitude of change in dose caused by weight loss independent of tumor shrinkage.
+
+.
+
+ Prospective Trial of Serial CT Imaging for Evaluation of Dosimetric/Volumetric Changes During IMRT for Head/Neck Cancer@highlight
+
+Anatomical changes that take place during Intensity modulated radiation therapy (IMRT) treatments for cancers of the head and neck cause significant dosimetric changes.
+

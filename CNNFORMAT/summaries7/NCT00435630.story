@@ -1,0 +1,22 @@
+(firstQuint)Documenting a Learning Curve and Test-retest Reliability of a Virtual Reality Training Simulator in Laparoscopic Surgery.
+
+ Developing objective methodology for assessing technical skill is paramount to superior surgical training.
+
+ Alternatives to the traditional apprenticeship model of surgical training are necessary in today's emphasis on cost containment and professional competency.
+
+ Metrics are widely employed in virtual environments and provide a yardstick for performance measurement.
+
+ The current method of defining metrics for medical simulation remains more an art than a science.
+
+ Many studies have demonstrated that trainees who practice laparoscopic skills in a simulated environment will improve their mastery of those skills when tested in that same environment.
+
+ Fewer studies have been able to document the learning curve for mastery of tasks in a virtual reality simulator.
+
+ This study will investigate the learning curve for tasks in a virtual reality laparoscopic simulator.
+
+.
+
+ Documenting a Learning Curve and Test-retest Reliability of a Virtual Reality Training Simulator in Laparoscopic Surgery@highlight
+
+The purpose of this study is to determine the learning curve for each of seven tasks in a virtual reality laparoscopic simulator by medical students.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Assessing the Efficacy of Intravenous Acetaminophen Versus the Oral Formulation for Perioperative Pain Treatment.
+
+ Intravenous acetaminophen has rapid onset and potent analgesic properties.
+
+ Recent studies have shown several advantages of using intravenous acetaminophen perioperatively.
+
+ However, due to its relatively high cost and limited clinical data concerning its efficacy compared with other agents, physicians are hesitant to use intravenous acetaminophen in the perioperative period.
+
+ 174 adult patients from the orthopedic surgeons undergoing total knee replacement with spinal anesthesia will be enrolled.
+
+ The study will be double blind, randomized; placebo controlled comparing oral and IV acetaminophen to each other and a control (placebo).
+
+ At the time patients arrive in the post-anesthesia care unit (PACU), Group 1 will receive IV 1 gram acetaminophen, and PO placebo; Group 2 will receive PO 1 gram acetaminophen and IV placebo; Group 3 will receive IV placebo and PO placebo.
+
+ The primary outcome that will be assessed is pain scores, which will be recorded by using the numeric rating scale 1-10 every 15 minutes.
+
+ Secondary outcomes include time to rescue analgesia (measured in minutes), time to PACU discharge (measured in minutes), and the total amount of hydromorphone (PO or IV) consumed within 6 hours postoperatively for adequate analgesia (total measured in milligrams) will be collected.
+
+ The difference in pain scores will be assessed by a chi-square test.
+
+ A multivariable regression model will be performed with the clinical and statistically significant variables to remove confounding.
+
+.
+
+ Assessing the Efficacy of Intravenous Acetaminophen Versus the Oral Formulation for Perioperative Pain Treatment@highlight
+
+To compare oral (PO) to intravenous (IV) acetaminophen with postoperative pain scores, and consumptions of opiates, among orthopedic surgery patients undergoing total knee replacement with spinal anesthesia.
+
+ Our hypothesis is that IV acetaminophen patients will have improved analgesia, less opioid consumption, a lower percentage of patients rescuing, or a longer time to first rescue with IV acetaminophen.
+
+ The investigators will compare the efficacies of oral and intravenous acetaminophen for postoperative pain control, and utilization of opiates as rescue agents.
+

@@ -1,0 +1,22 @@
+(firstQuint)Genetically Informed Smoking Cessation Trial.
+
+ The investigators' goal is to determine whether genetic markers can be used to optimize smoking cessation pharmacotherapy to enhance efficacy, medication adherence, and reduce side effects.
+
+ Smoking is a leading cause of preventable death and disability, and smoking cessation reverses the risk of mortality.
+
+ However, cessation failure is common despite available cessation medications, which are associated with different efficacy, side effects, adherence, use constraints, and costs.
+
+ This challenge can be addressed by improving current treatments via personalized medicine based on individual genetic markers to maximize efficacy and minimize side effects.
+
+ The investigators propose a prospective, genotype-based stratified randomization trial to compare two smoking cessation medications (combination NRT [patch and lozenge], varenicline vs.
+
+ placebo) for 3 months in 720 smokers with known genotypes.
+
+.
+
+ Genetically Informed Smoking Cessation Trial@highlight
+
+The investigators' goal is to identify the most appropriate smoking cessation treatments for smokers based on genetic information.
+
+ Smokers try to quit smoking but relapses are common.
+

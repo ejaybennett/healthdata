@@ -1,0 +1,14 @@
+(firstQuint)Effects of Sensory and Motor Deprivation on Brain Plasticity.
+
+ Investigation of changes in gray and white matter during immoblisation after injury of the right upper extremity via two MR Investigations of the brain at two different times.
+
+ Immobilisation at least 12 days.
+
+ Time between the 2 investigations: 12-14 d.
+
+.
+
+ Effects of Sensory and Motor Deprivation on Brain Plasticity@highlight
+
+Investigation of changes in gray and white matter during immoblisation after injury of the right upper extremity via two MR Investigations of the brain at two different times.
+

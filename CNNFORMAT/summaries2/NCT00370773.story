@@ -1,0 +1,20 @@
+(firstQuint)Comparison of Intraspinal Nerve Root Stimulation With Dorsal Column Stimulation.
+
+ This study will investigate the efficacy of subthreshold intraspinal nerve root stimulation (INRS) in treating back pain.
+
+ The efficacy of this strategy will be tested against dorsal column stimulation (DCS), the commonly-accepted technique for spinal cord stimulation.
+
+ DCS will be tested at subthreshold and suprathreshold (perceptible) amplitudes.
+
+ A substudy will involve patients who prefer suprathreshold DCS over INRS and subthreshold DCS.
+
+ Its purpose is to systematically assess the pain relief afforded by a number of programs with different pulse widths.
+
+ The overall purpose of this study is to investigate methods of making pain relief via electrical stimulation more comfortable by either using subthreshold amplitudes or by adjusting the pulse width of perceptible stimulation to a more pleasing range.
+
+.
+
+ Comparison of Intraspinal Nerve Root Stimulation With Dorsal Column Stimulation@highlight
+
+This study will systematically evaluate the programming parameters of the Precision Spinal Cord Stimulation Device to optimally relieve pain while minimizing any uncomfortable side effects.
+

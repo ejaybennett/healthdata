@@ -1,0 +1,14 @@
+(secondQuint)Study Evaluating the Impact of Mesh Pore Size on Chronic Pain After Lichtenstein Hernioplasty.
+
+ The aim of the present study is to determine whether usage of mesh with larger pores, compared with mesh with smaller pores, would result in decreased rate of chronic pain after open inguinal hernia repair.
+
+ The patients are randomized into two study gropus receiving mesh with different pore size.
+
+ Clinical follow-up examination will be performed 1 week, 1 month, 6 months and 3 years after the operation.
+
+.
+
+ Study Evaluating the Impact of Mesh Pore Size on Chronic Pain After Lichtenstein Hernioplasty@highlight
+
+The aim of the present study is to determine whether usage of mesh with larger pores, compared with mesh with smaller pores, would result in decreased rate of chronic pain after open inguinal hernia repair.
+

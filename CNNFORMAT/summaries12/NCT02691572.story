@@ -1,0 +1,16 @@
+(firstQuint)Transversus Abdominis Plane Block Versus Wound Infiltration for Postcesarean Analgesia.
+
+ This randomized, controlled, double-blind study will be conducted on ASA physical status II parturients with full-term singleton pregnancy undergoing elective cesarean delivery under spinal anesthesia.
+
+ Patients will receive either ultrasound-guided transversus abdominis plane block or wound infiltration at the end of surgery.
+
+ After delivery, all patients will receive standard analgesia (intravenous ketorolac and oral paracetamol) and patient-controlled analgesia with intravenous fentanyl.
+
+ Total fentanyl consumption at 24 h, pain scores at 2, 4, 6, 12, and 24 h, side effects, and patient satisfaction will be compared between the 2 groups.
+
+.
+
+ Transversus Abdominis Plane Block Versus Wound Infiltration for Postcesarean Analgesia@highlight
+
+The study will compare the analgesic efficacy of transversus abdominis plane block and wound infiltration in parturients undergoing cesarean delivery under spinal anesthesia.
+

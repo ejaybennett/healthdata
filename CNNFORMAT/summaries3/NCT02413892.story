@@ -1,0 +1,38 @@
+(fifthQuint)Impact of a Loading Dose of Caspofungin in Invasive Candidiasis in ICU Patients.
+
+ Invasive fungal infections are associated to a high mortality rate in ICU, partly because of a delayed treatment.
+
+ PK/PD targets for caspofungin are the peak concentration over minimal inhibitory concentration (MIC) ratio which should reach 10 and the area under the inhibitory curve (AUIC) which should be over 200.
+
+ High distribution volume in ICU patients and increase of MICs due to extensive use of antifungal agents make optimal concentration difficult to obtain.
+
+ High doses up to 150mg of caspofungin have been reported to be safe.
+
+ Thus, in our unit, a loading dose of 140mg of caspofungin is a standard practice but was never rigorously evaluated.
+
+ The aim of the present study is to measure the impact of a loading dose of 140mg of caspofungin on the pharmacokinetic parameters in the first 24 hours of treatment.
+
+ The AUIC and maximal concentration (CMax) / (MIC) according to the recovered yeasts will be measured.
+
+ The investigators also planned a Monte-Carlo simulation using MICs obtained from clinically relevant candida strains isolated in Bichat and Grenoble hospitals in order to evaluate the percentage of patients appropriately treated within the first 24 hours according to Candida species and previous use of antifungals.
+
+ Recovered strains from epidemiological studies will be used for PKPD modelling and will use s.
+
+ A second Monte-Carlo simulation will be done using data from the Amarcand 2 study.
+
+ All MICs will be determined using E-test ( Biomerieux(R) KIT's) without specifying any breakpoints as MICs and not breakpoints per se will be used.
+
+.
+
+ Impact of a Loading Dose of Caspofungin in Invasive Candidiasis in ICU Patients@highlight
+
+Echinocandins are the drug of choice in severe candida infections.
+
+ Efficacy of echinocandins is related to concentration and area under the curve (AUC) of the drug.
+
+ Available pharmacokinetic studies found that concentration of echinocandins mainly caspofungin is sub-optimal in severe candida infections in intensive care unit (ICU) patients.
+
+ Higher dose of caspofungin has been proven to be safe in critically ill patients but its impact on the ability to reach PK/PD target is unknown.
+
+ The aim of this study is to evaluate the impact of a loading dose of caspofungin on PK/PD parameters within the first 24-hours.
+

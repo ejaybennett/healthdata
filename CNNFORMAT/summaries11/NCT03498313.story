@@ -1,0 +1,20 @@
+(fifthQuint)Ovarian Hormones and Suicide Risk.
+
+ Previous work from our group demonstrates that perimenstrual worsening of suicidal thoughts in females is caused by normal perimenstrual withdrawal from the ovarian steroids estradiol (E2) and progesterone (P4), since perimenstrual stabilization of E2+P4 prevented the perimenstrual worsening of suicidal ideation observed under placebo.
+
+ In the present study, we follow up on that work with an additional mechanistic trial in which E2 and P4 will be stabilized in separate arms of the study.
+
+ 60 (30 completers) female outpatients, with past-month suicidal ideation but minimal imminent risk for attempt, will complete self-reports and clinical interviews measuring presence and severity of suicidal ideation in each of three conditions (A, B, C: order randomized across three menstrual cycles): (A) perimenstrual E2/P4 withdrawal (under placebo), (B) perimenstrual P4 withdrawal (exogenous stabilization of E2 only), and (C) perimenstrual E2 withdrawal (exogenous stabilization of P4 only).
+
+ A washout cycle will separate conditions.
+
+ Analyses will compare the perimenstrual trajectories of symptoms and suicidality across the three conditions.
+
+.
+
+ Ovarian Hormones and Suicide Risk@highlight
+
+This within-person, crossover, 3-condition, placebo-controlled study compares the impact of three perimenstrual conditions on severity of suicidal symptoms in females with past-month suicidality but minimal risk of imminent suicide attempt.
+
+ The three conditions are (1) perimenstrual withdrawal from estradiol only (during progesterone stabilization), (2) perimenstrual withdrawal from progesterone only (during estradiol stabilization), and (3) perimenstrual withdrawal from both estradiol and progesterone during placebo.
+

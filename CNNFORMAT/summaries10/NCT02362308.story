@@ -1,0 +1,18 @@
+(firstQuint)Glucose Metabolism in Subjects With Aldosterone-Producing Adenomas.
+
+ The week of each study period, subjects will be provided a standard 160mmol/d sodium diet for 6-8 days to control for inter-individual sodium intake.
+
+ In period 1, subjects will report after 5 days of controlled sodium diet for a hyperglycemic clamp study (to measure insulin secretion).
+
+ Subjects will continue the study diet, and then return for a hyperinsulinemic-euglycemic clamp study (to measure insulin sensitivity).
+
+ After completion of period 1 assessment, subjects will undergo adrenalectomy by our endocrine surgeons or initiate medical treatment, according to routine clinical care.
+
+ In period 2, the investigators will repeat the studies in the same manner as period 1, 3 to 12 months after adrenalectomy or initiation of medical treatment.
+
+.
+
+ Glucose Metabolism in Subjects With Aldosterone-Producing Adenomas@highlight
+
+The investigators will test the hypothesis that endogenous aldosterone impairs insulin secretion and insulin sensitivity in subjects with primary aldosteronism.
+

@@ -1,0 +1,18 @@
+(firstQuint)Melatonin in Relapsing-Remitting Multiple Sclerosis Patients.
+
+ Multiple sclerosis is an autoimmune chronic demyelinating disorder of the central nervous system, and the major cause of disability in the youngsters all over the world, still with no definitely known etiology and treatment.
+
+ Melatonin is a hormone secreted by pineal gland famous for its role in circadian rhythm regulation, and with known antioxidant effects.
+
+ It was shown that melatonin is lower in multiple sclerosis patients in the relapse phase in comparison to other diseases and is correlated with the Multiple Sclerosis Functional Composite score of the patients.
+
+ Melatonin is also suggested to have an immunomodulatory role.
+
+ Therefore, we hypothesize that melatonin can be effective in the treatment of relapsing-remitting multiple sclerosis patients.
+
+.
+
+ Melatonin in Relapsing-Remitting Multiple Sclerosis Patients@highlight
+
+The purpose of this study is to determine whether melatonin is effective in the treatment of relapsing-remitting multiple sclerosis patients as a supplement to the main disease-modifying drugs.
+

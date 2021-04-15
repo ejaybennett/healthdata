@@ -1,0 +1,54 @@
+(thirdQuint)Molecular Epidemiology of Lymphoma Patients.
+
+ This study will include individuals diagnosed with lymphoma and individuals with no history of cancer.
+
+ Half of the participants in this study will have lymphoma, and half will have no history of cancer.
+
+ Information from both groups will be compared to help researchers try to learn which factors may lead to the development of lymphoma.
+
+ If you agree to take part in this study, you will be asked to complete a questionnaire at M.
+
+ D.
+
+ Anderson.
+
+ In this questionnaire, you will be asked about your demographics (such as your age, sex, etc.
+
+), certain environmental exposures (such as pollution), your medical history, family history, diet, and your past and present smoking and alcohol use habits.
+
+ This questionnaire should take about 50 minutes to complete.
+
+ You will also have about 2 1/2 tablespoons of blood drawn for special tests.
+
+ These tests will look for any biologic factors (such as changes in your DNA) that may be linked to lymphoma.
+
+ You will not be informed of the results of any of the testing done with your blood samples.
+
+ Your participation will be over in this study once your blood has been drawn.
+
+ This is an investigational study.
+
+ Up to 800 participants will take part in this study.
+
+ All will be enrolled at M.
+
+ D.
+
+ Anderson.
+
+.
+
+ Molecular Epidemiology of Lymphoma Patients@highlight
+
+Primary Objectives: 1.
+
+ To enroll and obtain, through questionnaires, risk factor information on all study participants to develop detailed demographic, epidemiologic and behavioral profiles.
+
+ 2.
+
+ To assess the influence of relevant epidemiologic covariates such as age, gender, smoking and family history of cancer on the panel of susceptibility biomarkers.
+
+ 3.
+
+ To evaluate the role of genomic instability in development of lymphomas.
+

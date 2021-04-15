@@ -1,0 +1,74 @@
+(fifthQuint)Urinary Excretion of Acetylamantadine by Normal Healthy Volunteers.
+
+ A group of 20 female and 20 male normal healthy volunteers ages 18 to 69 will be recruited from the community by use of a general advertisement placed initially as posters.
+
+ We will tell the volunteers that we are conducting this study in healthy volunteers to determine how amantadine is eliminated from the body.
+
+ We will explain the pharmacology of amantadine and the potential side effects of a single dose before we obtain consent.
+
+ Volunteers will be told of the potential for concurrent alcohol ingestion to result in the presence of acetylamantadine in urine.
+
+ Volunteers will be required to abstain from alcohol consumption for at least one day prior to and including the time involved in the amantadine ingestion and urine collection.
+
+ Any previous adverse reaction to amantadine will exclude a person from volunteering from this study.
+
+ Subjects will be informed that side effects from this drug ingestion are highly unlikely because only a single dose will be administered.
+
+ Any side effects if they occur will be related to the effect of amantadine on the brain.
+
+ These effects may include insomnia, jitteriness, difficulty in concentrating and mental depression.
+
+ However, these are the side effects associated with chronic ingestion of amantadine and are highly unlikely to occur with ingestion of a single dose.
+
+ Once consent is obtained, the volunteers will ingest a therapeutic dose of amantadine (200 mg) in the morning, at least 2 hours before breakfast, and their complete urine will be collected over a period of 12 hours post dose.
+
+ A previous clinical study in our laboratory with collections of urine for a total of 8 hours demonstrated that this collection time was sufficient to collect all metabolically produced acetylamantadine in the urine.
+
+ The urine samples will also be analyzed for their content of creatinine as an indication of the completeness of the urine collection.
+
+ The urines will then be labeled with a code and frozen at -20C until analyzed.
+
+ The urine will be analyzed for acetylamantidine by our established gas chromatography method.
+
+ The technician analyzing the samples will not have access to any participant information other then the code on the label.
+
+ Saliva specimens will also be collected at 2 hour intervals after amantadine ingestion.
+
+ It should be noted that with the morning dose of amantadine collection of multiple saliva samples will be simplified and allow for the determination of the optimal time after dose for the urine analysis.
+
+ Furthermore, this design will identify the window of opportunity to give the best signal to noise ratio for acetylamantidine production.
+
+ Blood samples will be collected 1 hour prior to dosing and 2 hours post dose.
+
+ We will also collect the following data from each volunteer: their name, age, sex, body weight, height, any concurrent medication use, and a recent history of alcohol ingestion.
+
+ These data will be used for correlation analyses to determine any relationship of urinary acetylamantidine to the particular cancer diagnosis, sex, and/or the history of alcohol consumption.
+
+ All of these data will be coded by the principal investigator, and individually identifying information locked in a secure cabinet.
+
+ Access to the data by other than the principal investigator and/or their attending physician will not be allowed.
+
+ Exclusion criteria are anyone with a history of previous adverse reaction to amantadine as well as pregnant or lactating females will be excluded from volunteering for this study.
+
+ Cross validation of the finding will occur by high performance liquid chromatography (HPLC) of these urine samples for the presence of polyamines and metabolites, including N1-acetylspermidine.
+
+.
+
+ Urinary Excretion of Acetylamantadine by Normal Healthy Volunteers@highlight
+
+Amantadine appears to be a specific substrate for acetylation by spermidine/spermine N1-acetyltransferase (SSAT).
+
+ SSAT activity in cancer cells is higher by several-fold compared to normal cells.
+
+ Amantadine can be used to determine SSAT cellular activity, and may indicate the presence of cancer.
+
+ This study will provide additional information in conjunction with data from a previous study which include cancer patients and normal health age matched controls to determine whether urinary excretion of acetylamantadine is predictive for the presence of cancer, and if so whether excretion of this metabolite is associated with any particular site of the tumor.
+
+ Based on the results of the first study additional data in normal healthy volunteers is required.
+
+ The data from both studies will be analyzed to account for subject gender, stage of disease at time of testing, concurrent diseases, alcohol and tobacco use and occupational characteristics.
+
+ This is an important first step in validating a cancer detection method that can be implemented economically for screening of large numbers of people at sites remote from limited and expensive diagnostic instrumentation.
+
+ Thus there is a possibility that this design can be prognosis biomarker as well as a positive/negative indicator.
+

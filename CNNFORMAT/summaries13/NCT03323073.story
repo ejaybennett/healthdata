@@ -1,0 +1,42 @@
+(fifthQuint)Study of Functional Networks in Resting fMRI.
+
+ Study hypothesis: The investigators assume that connectivity within the DMR will be increased in unipolar patients compared to bipolar patients.
+
+ Similarly the investigators assume, in agreement with the results of our studies using N-Back (Harvey et al, 2005) and studies in self reference process in the unipolar depression (Grimm et al, 2009; and Lemogne al, 2009) that the DMR and frontoparietal networks connectivity (intraparietal cortex and dorsolateral prefrontal cortex) will be unusually positive in unipolar patients compared to bipolar patients.
+
+ Methods: Transversal, multicenter, comparative study evaluating unipolar and bipolar patients in depressive phase and controls group without psychiatric disorders.
+
+ The study involves one single assessment with fMRI, which is used to characterize a mono or bipolar major MDE.
+
+ The question is not to predict subsequent progression towards a unipolar or bipolar disorder.
+
+ Primary outcome : Comparison of unipolar and bipolar depressed patients in depressive acute phase and control subjects with fMRI resting task and an itself reference task and a diffusion tensor sequence.
+
+ Patients will be evaluated clinically by: the MADRS, the YMRS, the BDRS, the Mathys, the SCID.
+
+ Secondary outcome: verifying the RFR functional integrity in bipolar depression or unipolar by comparing the brain activity patterns of depressed patients than the control group; Experimental arm: patient with bipolar disorder type I or II and patient with unipolar disorder Control arm: subjects without psychiatric disorders assessed by the SCID Number of patients per arm : 40 Total number of patients : 123 Duration : inclusions 3 years.
+
+ Duration of inclusion per patient : 16 days Number of participating centres : 4 Statistical analyses: fMRI data analysis strategy The primary criterion is the variation of BOLD signal during resting state and during self-referential processing task in both groups of depressed patients compared to control group.
+
+ Functional connectivity within and between DMN (default mode network), CEN (central executive network) and SN (salience network) will be tested using a multivariate approach, independent component analysis (ICA).
+
+ This analysis simultaneously decomposes group fMRI data into modes describing variations across space, time per subject to identify independent functional spatial maps corresponding to coherent brain functional networks.
+
+ A between-group analysis of variance (ANOVA) will be performed to assess the difference of functional connectivity within and between DMN, CEN and SN comprising a between factor group (unipolar, bipolar, controls) for resting state data and data from the self-referential task.
+
+ Correlations: Correlations will be explored between fMRI parameters (in default mode and central executive network) and clinical criteria (e.
+
+g scores in MATTIS, MADRSn, YMRS).
+
+.
+
+ Study of Functional Networks in Resting fMRI@highlight
+
+The primary purpose is to compare with resting fMRI the functional networks of rest (RTS) in unipolar depression and in bipolar depression.
+
+ Hypothesis : the main objective of this work is to compare with the rest fMRI the Rest Functional Networks (RFN) in the unipolar depression and in the bipolar depression in order to identify specific biomarkers for each affection.
+
+ The general hypothesis of this work is that intra- and inter RFN connectivity is different between bipolar patients and unipolar patients.
+
+ Specifically the investigators assume that connectivity within the default mode network (including ventral mediofrontal cortex, subgenual cingulate cortex, inferior parietal cortex, posterior cingulate cortex) will be increased in unipolar patients compared to bipolar patients.
+

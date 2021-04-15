@@ -1,0 +1,16 @@
+(firstQuint)The CZT Dynamic Myocardial Perfusion Imaging.
+
+ Absolute myocardial blood flow (MBF) and myocardial flow reserve (MFR) provide incremental diagnostic and prognostic information over relative perfusion alone.
+
+ Recent development of dedicated cardiac SPECT cameras with better sensitivity and temporal resolution make dynamic SPECT imaging more practical.
+
+ The potential roles of myocardial perfusion in subjects with cardiovascular risks and heart failure warrant further investigations.
+
+ The present project aims to develop and validate the noninvasive measurement of MBF and MFR by using dynamic imaging with a CZT camera, and evaluate the diagnostic and prognostic implications.
+
+.
+
+ The CZT Dynamic Myocardial Perfusion Imaging@highlight
+
+To develop and validate the noninvasive measurement of MBF and MFR by using dynamic imaging with a CZT camera, and evaluate the diagnostic and prognostic implications in various heart disease.
+

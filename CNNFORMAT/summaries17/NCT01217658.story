@@ -1,0 +1,32 @@
+(fifthQuint)Measuring and Reducing Excessive Infant Crying.
+
+ Hypotheses: The soothing techniques taught to study parents 2-3 wks after birth augment parental soothing skills and reduces infant crying at night (primary outcome) and parental sleep loss, distress, & depression assessed in the home by a masked nurse at 8 wks.
+
+ Methods: Term singleton infants with EIC (> 3 hrs/24h) recruited through a program offered to parents at our hospital (4,700 births/yr) will be seen in our clinic 2-3 wks after birth.
+
+ Consenting families (n=178) will be randomized to standard colic counseling (American Academy of Pediatrics) or to the intervention (adding nurse instruction plus a video and pamphlets).
+
+ At 8 wks a study nurse will assess parental sleep and distress (Brief Symptom Inventory-18), place dosimeters in rooms where the infant sleeps and spends most time, and apply the actigraph at the ankle.
+
+ She will collect the devices 5 days later, perform a physical exam at a usual feeding time (when EIC is likely), record infant & maternal behaviors during crying/feeding for the next 15 minutes using unobtrusive, validated methods (Tyson, 1992), and provide maternal support if desired.
+
+ Standard statistical tests will be used (alpha=0.
+
+05; beta = 0.
+
+20; effect size =0.
+
+5 SD, power = .
+
+90).
+
+.
+
+ Measuring and Reducing Excessive Infant Crying@highlight
+
+Excessive infant crying (EIC) is likely to increase the risk of child abuse.
+
+ The investigators propose a randomized trial using an intervention based on recommendations of Karp.
+
+ The investigators will systematically identify 170 term infants with EIC and conduct assessments in the home at 6-8 weeks age to test the hypothesis that the intervention reduces mean infant hours of night-time crying, increases maternal soothing behaviors and improves parental anxiety and depression.
+

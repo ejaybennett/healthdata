@@ -1,0 +1,12 @@
+(firstQuint)The Medtronic CoreValve Evolut R CE Mark Clinical Study.
+
+ The study objectives are to assess the safety and clinical performance of the CoreValve cent Evolut R cent System in patients with severe symptomatic aortic stenosis who are considered at high through extreme risk for surgical aortic valve replacement.
+
+ These objectives will be accomplished by a prospective clinical study involving up to 60 implanted subjects among up to six study centers.
+
+.
+
+ The Medtronic CoreValve Evolut R CE Mark Clinical Study@highlight
+
+To assess the safety and clinical performance of the CoreValve cent Evolut R cent System.
+

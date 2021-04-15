@@ -1,0 +1,20 @@
+(secondQuint)Environmental Factors and the Gut Microbiome - Endocannabinoid Axis.
+
+ The gut microbiome and the endocannabinoid system (ECS) could be interacting together and influence local enteric and peripheral metabolic functions and mental health.
+
+ The association of some host environmental factors (e.
+
+g.
+
+ age, metabolic status, dietary habits) with gut microbiota composition and function has been investigated but, to our knowledge, little is known about their influence on the ECS.
+
+ There is also a need to better understand the influence of these factors and the interplay between the gut microbiota and the ECS and their relationship with intestinal, metabolic and mental health.
+
+ The investigators therefore propose to fill this knowledge-gap in the general population of adults with various body composition, dietary habits and daily physical activity levels.
+
+.
+
+ Environmental Factors and the Gut Microbiome - Endocannabinoid Axis@highlight
+
+The general objective of this project is to investigate the interplay of the gut microbiome - endocannabinoid axis with host environmental factors and intestinal, metabolic and mental health status in free-living adults with various metabolic statuses and lifestyles.
+

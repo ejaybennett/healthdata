@@ -1,0 +1,36 @@
+(fifthQuint)Supporting Traumatic Brain Injury (TBI) Caregivers.
+
+ Traumatic brain injury (TBI) has long-term and often devastating impacts on a family.
+
+ The spouse or partner caring for an individual with TBI experiences significant emotional distress, and psychological and physical morbidity.
+
+ Clinical experience indicates that patients with strong family support progress further than those without family involvement.
+
+ There is strong evidence that support provided to caregivers improves their well being, as well as that of the care recipient.
+
+ The trial was designed to lessen her morbidity, improve her support for the TBI partner, and improve recovery of the TBI person.
+
+ The effectiveness of a newly developed Trauma Recovery Support System (TRSS) was evaluated using a randomized controlled experimental design.
+
+ Sixty-four patient/caregiver pairs were recruited, and those (randomly) assigned to the experimental group received access to the centralized TRSS via a personal computer in their homes including access via Internet to special modules and communication services to help them cope with their new roles as caregivers and with accompanying social isolation.
+
+ Modules consist of an on-line discussion group, an "ask an expert questions" function, a database of previously asked questions with answers, a database of community resources, and a reference library.
+
+ Controls received standard care.
+
+ All participants (experimental and control) were interviewed at 0, 3, and 6 months from time of patient discharge, initially in person and later by phone to evaluate the status of the caregiver (quality of life and health status) and TBI patient recovery.
+
+ Sociodemographic and other background data was collected.
+
+.
+
+ Supporting Traumatic Brain Injury (TBI) Caregivers@highlight
+
+This randomized trial tested a 6 month intervention of computer network vs a control group (standard care) to improve quality of life and health status for traumatic brain injury (TBI) patients and their caregivers.
+
+ The network, termed the Trauma Recovery Support System (TRSS), consisted of a central computer system connected via modem to a personal computer in the caregiver's home.
+
+ Users could access via the Internet special modules and communication services to help them cope with their new roles as caregivers and with accompanying social isolation.
+
+ These modules were an on-line discussion group, an "ask an expert questions" function, a database of previously asked questions with answers, a database of community resources, and a reference library.
+

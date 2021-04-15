@@ -1,0 +1,40 @@
+(fifthQuint)Real-Time Contrast-Enhanced Ultrasonography and Shear Wave Elastography in Predicting Treatment Response in Patients With Soft Tissue Sarcoma.
+
+ PRIMARY OBJECTIVES: I.
+
+ To investigate whether two different radiologists can reliably interpret the following quantitative criteria regarding the maximally enhancing portion of a soft tissue sarcoma (STS), on sequential contrast-enhanced ultrasound (CEUS) exams performed before, during, and after neoadjuvant chemotherapy (NAC): change in peak enhancement (decibels), change in slope of enhancement curve, and change in area under the curve.
+
+ II.
+
+ To evaluate CEUS as a potential early response assessment biomarker by comparing the CEUS rating result to computed tomography (CT)/magnetic resonance imaging (MRI) rating results.
+
+ (Exploratory) III.
+
+ To examine the agreement between CEUS versus CT/MRI determined treatment response within each radiologist rater.
+
+ (Exploratory) IV.
+
+ To examine the agreement between CEUS versus CT/MRI determined treatment response based on the consensus rating result from the two radiologist raters.
+
+ (Exploratory) V.
+
+ To explore potential quantitative biomarker from all possible parameters that can be extracted from CEUS data for assessing an early treatment response to neoadjuvant therapy (NAT) in sarcoma using receiver operating characteristic (ROC) curve when predicting radiologists rated binary outcome: responders versus non-responders.
+
+ (Exploratory) VI.
+
+ To collect preliminary data for shear wave elastography (SWE) in the same patient population.
+
+ (Exploratory) OUTLINE: Patients undergo real-time CEUS and SWE at baseline, 6 weeks after initiation of neoadjuvant therapy, and 9 weeks after initiation of neoadjuvant therapy (prior to surgery).
+
+ After completion of study, patients are followed up at 24 hours.
+
+.
+
+ Real-Time Contrast-Enhanced Ultrasonography and Shear Wave Elastography in Predicting Treatment Response in Patients With Soft Tissue Sarcoma@highlight
+
+This pilot clinical trial studies real-time contrast-enhanced ultrasonography and shear wave elastography in predicting treatment response in patients with soft tissue sarcomas.
+
+ Ultrasonography and elastography are diagnostic imaging tests that use sound waves to make pictures of the body without using radiation (x-rays).
+
+ Real-time contrast-enhanced ultrasonography and shear wave elastography may help measure a patient's response to treatment given before surgery in patients with soft tissue sarcoma.
+

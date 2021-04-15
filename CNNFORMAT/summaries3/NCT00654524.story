@@ -1,0 +1,16 @@
+(firstQuint)Randomized Study of Gonadotropin-releasing-hormone Agonist (GnRH-a) or Expectant Management for Endometriosis.
+
+ In order to decrease endometriosis recurrence and enhance pregnancy rate after surgical therapy, it has been proposed to use a post-surgical gonadotropin-releasing-hormone agonist (GnRHa) treatment.
+
+ Data on the short-term recurrence of advanced endometriosis is rare.
+
+ Although operative treatment has resulted in increasing pregnancy rate comparing non surgery management for moderate to severe endometriosis, very few data of spontaneous pregnancy rate are available comparing GnRHa treatment or expectant management after surgery treatment.
+
+ In this situation, the investigators conduct a prospective, randomized, controlled study to determine whether postoperative GnRHa (goserelin acetate) therapy for advanced endometriosis is effective in reducing endometriosis recurrence rate and improving reproductive outcome.
+
+.
+
+ Randomized Study of Gonadotropin-releasing-hormone Agonist (GnRH-a) or Expectant Management for Endometriosis@highlight
+
+The purpose of this study is to identify the recurrent rate and pregnancy rate of advanced endometriosis after laparoscopic surgery plus GnRHa goserelin acetate treatment.
+

@@ -1,0 +1,20 @@
+(secondQuint)Effect of Antipsychotics on Appetite Regulation.
+
+ Severe weight gain and glucose dysregulation are serious problems in patients treated with second-generation ('atypical') antipsychotics (SGA).
+
+ These side effects frequently interfere with medication compliance and necessitate discontinuation of treatment.
+
+ Although the causal mechanisms for weight and glucose dysregulation are not well understood, one promising area of investigation targets SGA-induced disturbances in appetite and in appetite-regulating hormones.
+
+ Findings from our group (and others) demonstrate SGA treatment-related increases in fasting levels of the appetite-stimulating hormone, ghrelin, as well as increases in self-report hunger.
+
+ This novel study will examine prospective changes in ghrelin and in the 'satiety-signaling' peptide YY (PYY) as measured before and after participants consume a standard mixed-macronutrient meal.
+
+ Data are obtained at baseline (within 4 weeks of beginning medication), and again 2 months and 4 months later.
+
+.
+
+ Effect of Antipsychotics on Appetite Regulation@highlight
+
+The purpose of this study is to evaluate changes in appetite-regulating hormones, body composition (weight, body fat%), and hunger ratings in persons early in treatment with one of four atypical antipsychotic medications (olanzapine, risperidone, ziprasidone, aripiprazole).
+

@@ -1,0 +1,18 @@
+(secondQuint)The Study of Different Dose Rituximab in the Treatment of ITP.
+
+ 62 patients with pITP who had failed to respond to glucocorticosteroids were randomly divided into 2 groups: group A(n = 32) and group B(n = 30).
+
+ In group A, Rituximab was given with a fixed dose of 100 mg administered as an intravenous infusion weekly (on day 1, 8, 15 and 22).
+
+ In group B, Rituximab was given with a single dose of 375mg/m2.
+
+ The clinical effect, onset time, duration of efficacy and adverse reactions were observed to compare the efficacy and safety of two different plans.
+
+.
+
+ The Study of Different Dose Rituximab in the Treatment of ITP@highlight
+
+The project was undertaking by Qilu Hospital of Shandong University in China.
+
+ In order to compare the efficacy, safety and response duration of different dose of rituximab in patients primary immune thrombocytopenia(pITP).
+

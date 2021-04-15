@@ -1,0 +1,30 @@
+(thirdQuint)Aquatic Exercise and Efficacy Enhancement to Decrease Fall Risk in Older Adults With Hip Osteoarthritis.
+
+ Older adults with hip osteoarthritis (OA) often experience pain and loss of mobility that significantly impairs their ability to walk, climb stairs, shop or participate in exercise programs.
+
+ This can result in social isolation, depression and loss of confidence in their ability to manage independently in the community.
+
+ A decline in physical and psycho-social function leads to increased risk of falling.
+
+ It is crucial to identify high-risk fallers as well as the best interventions to decrease that risk; hip fractures from falls are devastating, resulting in death or admission to long-term care for the majority who sustain them.
+
+ Exercise programs designed to improve balance, strength and mobility can help to improve function and decrease risk of falling.
+
+ However, individuals with hip OA may have difficulty participating in these programs due to pain.
+
+ Aquatic exercise offers an activity alternative to improve mobility, strength and decrease fall risk.
+
+ As well, the addition of a group program designed to enhance confidence in movement may further reduce the risk of falls by improving independence to be more active at home and in the community.
+
+ This project will evaluate the effect of aquatic exercise and aquatic exercise combined with a group educational program on decreasing fall risk in older adults with hip OA.
+
+ Determining optimal fall prevention programs may avert death and loss of quality of life for older adults, clearly an important contribution to preventative health care.
+
+.
+
+ Aquatic Exercise and Efficacy Enhancement to Decrease Fall Risk in Older Adults With Hip Osteoarthritis@highlight
+
+The objective of this project is to determine the effect of aquatic exercise and aquatic exercise combined with an education program on decreasing fall risk in older adults with hip osteoarthritis.
+
+ The hypothesis is that aquatic exercise will improve function, strength and balance and the addition of the education session will enhance confidence in movement.
+

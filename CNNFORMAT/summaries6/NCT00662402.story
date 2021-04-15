@@ -1,0 +1,30 @@
+(fifthQuint)Impact of Extensive Consultation on Career Development Grant Outcomes.
+
+ CTSI Consultation Services is one of the largest programs within the UCSF CTSI.
+
+ It was created to improve the quality and efficiency of clinical and translational research through the provision of expert consultation.
+
+ The program is divided into units that provide access to expert consultants in biostatistics, research design (with consultants representing multiple distinct methodologies and disease interests), data management (including data structure and database design), ethics, and scientific writing.
+
+ With funding from the NIH, the program is able to offer a free hour of consultation in each of its units (up to 4 hours) but charges for additional services to cover costs.
+
+ There have been no studies of research consultation services.
+
+ Though the benefit may seem self evident, such programs are expensive and distract senior researcher from more creative work.
+
+ Justifying research consultation is important given the multitude of activities vying for attention and funding.
+
+ Observational studies of the impact of research consultation services will always be limited by confounding, particularly confounding by indication since those seeking such services may be more highly motivated and organized.
+
+ Thus, a randomized trial is warranted.
+
+.
+
+ Impact of Extensive Consultation on Career Development Grant Outcomes@highlight
+
+In this study we wish is to determine whether extensive (up to 15 hours) multidisciplinary consultation in biostatistics, study design, data management, ethics, and writing provided by the UCSF Clinical and Translational Science Institute's (CTSI) Consultation Services program, improves peer review scores of career development grants compared to usual levels of consultation.
+
+ We hypothesize that extensive multidisciplinary consultation will improve peer review scores of career development grants compared to usual levels of consultation.
+
+ We hypothesize that extensive multidisciplinary consultation will lead to greater numbers of funded grants when compared to the usual levels of consultation.
+

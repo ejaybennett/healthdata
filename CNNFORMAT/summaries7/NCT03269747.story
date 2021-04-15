@@ -1,0 +1,18 @@
+(firstQuint)Short Term Effect of Glucocorticoids on Brown Adipose Tissue Thermogenesis in Humans.
+
+ Active brown adipose tissue (BAT) has recently been unambiguously discovered in human adults.
+
+ Active BAT increases energy expenditure and improves glucose tolerance.
+
+ Pharmacological use of glucocorticoids (GCs) is widespread in clinical practice due to their high anti-inflammatory efficacy.
+
+ While short-term administration even of high doses usually is well tolerated, long-term use of medium to high amounts of GCs leads to unfavorable metabolic changes, characterized by an increase in intra-abdominal fat mass, a decrease in muscle mass and insulin resistance.
+
+ In line with these well-known side-effects of GCs, several in vitro studies and animal models demonstrate an inhibiting effect of GCs on BAT thermogenesis.
+
+.
+
+ Short Term Effect of Glucocorticoids on Brown Adipose Tissue Thermogenesis in Humans@highlight
+
+Interventional, Placebo controlled cross-over study to investigate the short-term effects of glucocorticoids (prednisone) on human brown adipose tissue.
+

@@ -1,0 +1,15 @@
+(firstQuint)SUrvey of Guideline Adherence for Treatment of Systolic Heart Failure in Real World.
+
+ Major improvement in the medical management of CHF has been achieved in the past decades.
+
+ But there is no doubt that prognosis of heart failure patients remains poor.
+
+ The compliance to the standard treatment can be one of reasons.
+
+ But very little data concerning this in Korea is available.
+
+.
+
+ SUrvey of Guideline Adherence for Treatment of Systolic Heart Failure in Real World@highlight
+
+The purpose of this study is to survey the guideline compliance of the cardiologists in the treatment of systolic heart failure in Korea

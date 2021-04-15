@@ -1,0 +1,41 @@
+(thirdQuint)Fludeoxyglucose F 18 PET/CT Scans in Predicting Therapy Response in Patients With Stage IIIA Non-Small Cell Lung Cancer Undergoing Chemoradiation.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine whether early response of the research positron emission tomography (PET)-computed tomography(CT) scan measured by change in Standard Uptake Value (SUV)max relative to baseline scan can predict induction chemoradiation therapy (CRT) failures sooner than post-treatment PET-CT scan.
+
+ II.
+
+ To determine the optimal timing for 18FDG PET-CT that best predicts for induction CRT failure.
+
+ SECONDARY OBJECTIVES: I.
+
+ To correlate early 18 fludeoxyglucose (FDG) PET-CT response metrics with pathologic response, progression-free survival separately for: induction CRT failures vs.
+
+ non-failures, or overall survival separately for induction CRT failures vs.
+
+ non-failures.
+
+ OUTLINE: Patients are randomized to 1 of 3 groups.
+
+ Patients undergo a baseline FDG PET/CT scan and receive standard radiotherapy (RT) for 28 fractions with concurrent chemotherapy.
+
+ GROUP A: Patients undergo a FDG PET/CT scan between RT fractions 5-6 (before course 2 of chemotherapy).
+
+ GROUP B: Patients undergo a FDG PET/CT scan between RT fractions 10-11 (before course 3 of chemotherapy).
+
+ GROUP C: Patients undergo a FDG PET/CT scan between RT fractions 15-16 (before course 4 of chemotherapy).
+
+ Approximately 6 weeks after completion of CRT, patients undergo a FDG PET/CT scan and undergo standard tumor resection.
+
+ After completion of study treatment, patients are followed up every 3 months for 2 years and then every 6 months thereafter.
+
+.
+
+ Fludeoxyglucose F 18 PET/CT Scans in Predicting Therapy Response in Patients With Stage IIIA Non-Small Cell Lung Cancer Undergoing Chemoradiation@highlight
+
+This clinical trial studies fludeoxyglucose F 18 (FDG) positron emission tomography (PET)/computed tomography (CT) in predicting chemoradiation therapy (CRT) failure in patients with stage IIIA non-small cell lung cancer (NSCLC).
+
+ Diagnostic procedures, such as FDG PET/CT, may help predict CRT failure.
+
+ Comparing diagnostic results during CRT may help doctors predict a patient's response to treatment and help plan the best treatment

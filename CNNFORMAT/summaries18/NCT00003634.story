@@ -1,0 +1,48 @@
+(fifthQuint)Monoclonal Antibody Therapy in Treating Patients With Residual Disease From Stage III or Stage IV Ovarian Epithelial, Fallopian Tube, or Peritoneal Cancer Following Surgery and Chemotherapy.
+
+ OBJECTIVES: I.
+
+ Compare the time to disease relapse, survival, and quality of life of patients with stage III or IV ovarian epithelial, tubal, or peritoneal adenocarcinoma treated with OvaRex monoclonal antibody B43.
+
+13 OR placebo following complete clinical response to primary therapy.
+
+ II.
+
+ Determine the safety of this regimen in these patients.
+
+ III.
+
+ Assess the immune response of patients treated with this regimen.
+
+ OUTLINE: This is a randomized study.
+
+ Patients undergo a laparotomy and platinum based chemotherapy prior to randomization.
+
+ Patients are randomized to 1 of 2 treatment arms: Arm I: Patients receive OvaRex monoclonal antibody B43.
+
+13 IV on day 0.
+
+ Treatment continues at 4, 8, 20, 32, 44, and 56 weeks, and then every 3 months in the absence of disease progression or unacceptable toxicity.
+
+ Arm II: Patients receive placebo IV on day 0.
+
+ Placebo administration continues on the same schedule as in arm I.
+
+ Patients presenting with relapse are provided with second line chemotherapy.
+
+ Quality of life is assessed at the beginning of the study, after 2 months, and then every 3 months thereafter.
+
+ Patients are followed every 3 months.
+
+ PROJECTED ACCRUAL: A total of 400 patients (200 per arm) will be accrued for this study.
+
+.
+
+ Monoclonal Antibody Therapy in Treating Patients With Residual Disease From Stage III or Stage IV Ovarian Epithelial, Fallopian Tube, or Peritoneal Cancer Following Surgery and Chemotherapy@highlight
+
+RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells.
+
+ It is not yet known whether giving monoclonal antibody therapy is more effective than a placebo in treating patients with ovarian epithelial, fallopian tube, or peritoneal cancer who have responded to surgery and chemotherapy.
+
+ PURPOSE: Randomized phase II trial to study the effectiveness of monoclonal antibody therapy in treating patients with residual disease from stage III or stage IV ovarian epithelial, fallopian tube, or peritoneal cancer following surgery and chemotherapy.
+

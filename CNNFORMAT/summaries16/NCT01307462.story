@@ -1,0 +1,43 @@
+(secondQuint)Targeted Therapy of Bronchiolitis Obliterans Syndrome.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine if the combination treatment of FAM administered in post hematopoietic cell transplantation (HCT) recipients after the diagnosis of new onset bronchiolitis obliterans syndrome (BOS) can decrease the rate of treatment failure relative to an estimated historical rate of 40% using current therapies.
+
+ SECONDARY OBJECTIVES: I.
+
+ To confirm the safety profile of FAM.
+
+ II.
+
+ To describe the effect on other standard pulmonary function test parameters: forced expiratory flow at 25%-75% of forced vital capacity (FVC) (FEF25-75), residual volume (RV), diffusion capacity of carbon monoxide (DLCO), forced expiratory volume in 1 second (FEV1)/FVC ratio and FEV1/slow vital capacity (SVC) ratio with FAM treatment.
+
+ III.
+
+ To determine the change in molecular markers of inflammation and fibrosis in the blood with FAM treatment.
+
+ IV.
+
+ To assess the impact of FAM on other chronic graft-versus-host disease (GVHD) manifestations.
+
+ V.
+
+ To assess the impact of FAM on functional status, and health-related quality of life (HRQOL).
+
+ VI.
+
+ To describe changes in steroid dosing.
+
+ OUTLINE: Patients receive fluticasone propionate inhaled orally (PO) twice daily (BID), azithromycin PO 3 days a week, and montelukast sodium PO once daily (QD).
+
+ Treatment continues for 6 months in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed up for 6 months.
+
+.
+
+ Targeted Therapy of Bronchiolitis Obliterans Syndrome@highlight
+
+This phase II trial studies how well giving fluticasone propionate, azithromycin, and montelukast sodium (FAM) together works in treating patients with bronchiolitis obliterans who previously underwent stem cell transplant.
+
+ FAM may be an effective treatment for bronchiolitis obliterans

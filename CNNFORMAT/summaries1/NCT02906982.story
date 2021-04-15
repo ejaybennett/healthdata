@@ -1,0 +1,16 @@
+(secondQuint)Evaluating the Efficacy of a Gum Health Formulation on Teeth Whitening in Patients With Gingivitis and Periodontitis.
+
+ Over half of the American population suffers from some form of periodontal disease, while millions of Americans are electing for teeth whitening procedures every year.
+
+ The study is designed to assess the efficacy of a novel gum health formulation on teeth whitening in the context of gingival inflammation.
+
+ Further, the study aims to assess the efficacy of the novel gum health formulation as an adjunct to the current standard of care in the treatment of gingivitis and periodontitis, depending on the severity of disease.
+
+ As the dental professional community is whitening teeth in an environment of gingival inflammation, a single product that whitens teeth and controls inflammation is a novel treatment approach and highly desirable among patients and consumers.
+
+.
+
+ Evaluating the Efficacy of a Gum Health Formulation on Teeth Whitening in Patients With Gingivitis and Periodontitis@highlight
+
+The purpose of this study is to evaluate the efficacy of a novel gum health formulation, when used in an intra-oral device or on a toothbrush, for teeth whitening and clinical improvements in periodontal diseases.
+

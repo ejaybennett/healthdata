@@ -1,0 +1,12 @@
+(thirdQuint)The Effect of Mobilized Stem Cell by G-CSF and VEGF Gene Therapy in Patients With Stable Severe Angina Pectoris.
+
+ In recent clinical trials, vascular endothelial growth factor (VEGF) delivered as plasmid DNA percutaneously by a catheter-based, intramyocardial approach, have been demonstrated to be safe and to be associated with a reduction in angina and an increase in exercise time or an improvement in regional wall motion in "no-option patients" with chronic myocardial ischemia.
+
+ It has been demonstrated, that BM-derived stem cells mobilized by cytokines as granulocyte colony stimulating factor (G-CSF) were capable of regenerating the myocardial tissue, leading to improve the survival and cardiac function after myocardial infarction.
+
+ These data suggested that a combination therapy with exogenous administration of gene vascular growth factor combined with G-CSF mobilization of bone marrow stem cells might induce both angiogenesis and vasculogenesis in ischemic myocardium.
+
+ The Effect of Mobilized Stem Cell by G-CSF and VEGF Gene Therapy in Patients With Stable Severe Angina Pectoris@highlight
+
+The aim of this study was to evaluate the mobilization of non-haematopoietic mesenchymal and haematopoietic stem cells from the bone marrow with granulocyte colony stimulating factor (G-CSF) treatment alone and in combination with vascular endothelial growth factor (VEGF) gene therapy in patients with severe chronic occlusive coronary artery disease.
+

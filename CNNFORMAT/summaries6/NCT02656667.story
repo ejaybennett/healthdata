@@ -1,0 +1,18 @@
+(secondQuint)Effect of Neuromuscular Electrical Stimulation Versus Cycle Ergometer Training in a Pulmonary Rehabilitation Program.
+
+ It's a prospective ,multicentre,randomised, single-blind study which compare the effectiveness of quadriceps strengthening with neuromuscular electrical stimulation versus cycle ergometer training as part of pulmonary rehabilitation program.
+
+ The program lasts from 3 to 4 weeks.
+
+ 102 patients will included, diagnosed with COPD stages GOLD III and IV, and BODE index 5.
+
+ The commun program: training protocol performed on treadmill,quadriceps resistance training,patient therapeutic education,collective gymnastics,relaxation, session psychological care, smoking cessation program and nutritional management if necessary.
+
+ The primary criterion is the one minute sit to stand test.
+
+.
+
+ Effect of Neuromuscular Electrical Stimulation Versus Cycle Ergometer Training in a Pulmonary Rehabilitation Program@highlight
+
+The aim of this study is to evaluate the effectiveness of quadriceps strengthening with neuromuscular electrical stimulation versus cycle ergometer as part of pulmonary rehabilitation program , in patients with severe or very severe COPD , according to GOLD with BODE index 5 .
+

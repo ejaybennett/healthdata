@@ -1,0 +1,64 @@
+(thirdQuint)Safety of and Immune Response to an HIV Preventive Vaccine (HIV-1 Gag DNA Alone or With IL-15 DNA) Given With or Without 2 Different Booster Vaccinations in HIV Uninfected Adults.
+
+ The HIV epidemic is a major global health challenge, causing tremendous human suffering and economic loss throughout the world.
+
+ The need for a safe, effective, and affordable HIV preventive vaccine is critical.
+
+ This 2-part study will determine the safety and immunogenicity of the experimental HIV vaccine HIV-1 gag DNA with or without IL-15 adjuvant, boosted with either the HIV-1 gag DNA and IL-15 adjuvant vaccine or the HIV-1 gag DNA and IL-12 adjuvant vaccine.
+
+ There are two parts to this study.
+
+ Part A will last 12 months.
+
+ In Part A, 48 participants will be randomly assigned to 1 of 4 groups in sequential order (dose escalation).
+
+ All participants will receive 3 vaccinations.
+
+ Group 1 will receive 3 vaccinations of the HIV-1 gag DNA vaccine or placebo.
+
+ Group 2 will receive 3 vaccinations of either the HIV-1 gag DNA vaccine with a low dose of IL-15 adjuvant or a placebo.
+
+ Group 3 will receive 3 vaccinations of either the HIV-1 gag vaccine with a medium dose of IL-15 adjuvant or a placebo.
+
+ Group 4 will receive 3 vaccinations of either the HIV-1 gag vaccine with a high dose of IL-15 adjuvant or a placebo.
+
+ Vaccinations will be given at Months 0, 1, and 3.
+
+ There will be 11 study visits in Part A.
+
+ A physical exam, pregnancy prevention counseling, medication history, and adverse event reporting will occur at most visits.
+
+ Urine and blood collection will occur at some visits.
+
+ Participants will also be asked to complete questionnaires at certain visits.
+
+ Part B will last 15 months.
+
+ In Part B, 72 participants will be randomly assigned to 1 of 2 groups.
+
+ All Part B participants will receive 5 vaccinations.
+
+ Group 5 will receive 5 vaccinations of either the HIV-1 gag vaccine plus IL-15 DNA or placebo; the vaccinations will occur at Months 0, 1, 3, 6, and 9.
+
+ Group 7 will receive 3 vaccinations of the HIV-1 gag vaccine with a high dose of IL-15 adjuvant (maximum tolerated dose from Part A) followed by 2 vaccinations of the gag DNA vaccine with IL-12 DNA adjuvant.
+
+ Some participants will receive placebo instead of this vaccine regimen.
+
+ For Group 7, the HIV-1 gag vaccine with IL-15 adjuvant vaccinations will be given at Months 0, 1, and 3, and booster vaccinations will be given at Months 6 and 9.
+
+ There will be 13 study visits in Part B.
+
+ A physical exam, pregnancy prevention counseling, medication history, and adverse event reporting will occur at most visits.
+
+ Urine and blood collection will occur at some visits.
+
+ Participants will also be asked to complete questionnaires at certain visits.
+
+.
+
+ Safety of and Immune Response to an HIV Preventive Vaccine (HIV-1 Gag DNA Alone or With IL-15 DNA) Given With or Without 2 Different Booster Vaccinations in HIV Uninfected Adults@highlight
+
+The purpose of this study is to determine the safety of and immune response to an experimental HIV vaccine, HIV-1 gag DNA, with and without an IL-15 DNA adjuvant (at escalating doses of 100, 500, and 1500 mcg).
+
+ This study will also test the safety of and immune response to the HIV-1 gag DNA vaccine plus IL-15 DNA adjuvant given with or without 2 other adjuvant-containing booster vaccines.
+

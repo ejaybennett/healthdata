@@ -1,0 +1,14 @@
+(firstQuint)Diet Quality and Cognitive Control Function in Early Childhood: A Pilot Study.
+
+ Children's ability for optimal cognitive function is critical for their long-term capacity to learn and achieve scholastic success.
+
+ However, there is a gap in the knowledge pertaining to the selection of appropriate cognitive tasks for studying relationships between diet and cognitive control, particularly among young children.
+
+ Accordingly, this study aims to study the relationship between diet and cognitive function using a standardized neuropsychological assessment and a modified cognitive task battery.
+
+.
+
+ Diet Quality and Cognitive Control Function in Early Childhood: A Pilot Study@highlight
+
+This study aims to study the relationship between diet and cognitive function among 4-5-year-olds.
+

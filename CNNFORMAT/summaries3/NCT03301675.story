@@ -1,0 +1,33 @@
+(firstQuint)Effect of Orange Juice and Healthy Diet on Cardiometabolic Risk Factors of Individuals With Metabolic Syndrome.
+
+ The clinical study was parallel, controlled, and randomized with metabolic syndrome subjects (ATPIII, AHA / NHLA) aimed at the consumption of an energy-balanced balanced diet for 12 weeks and divided into two groups: Control (n = 38): dietary guidance only; and Orange Juice (n = 38): diet guidance associated with 500 mL / day of 100% whole orange juice.
+
+ The recruitment process began in June 2016, the intervention was carried out from September 2016 to December 2016, and the data analysis started in January 2016.
+
+ The sample number took into account variances on LDL-C, with a type I error = 0.
+
+05 and a type II error = 0.
+
+2 (80% power).
+
+ The minimum sample size should have 32 individuals per group (n = 64).
+
+ Considering an approximately 15% dropout rate, the final sample size of study was constituted by 38 individuals per group.
+
+ Primary and secondary endpoints were the reduction of LDL-C and modification of the levels of cardiometabolic risk factors, inflammatory and hemodynamics parameters, respectively.
+
+ Kolmogorov Smirnov and Levene test assessed normality and homogeneity of data, respectively.
+
+ T-test was conducted to identify possible differences between OJ and control groups at baseline.
+
+ A linear mixed-effects model was apply to determine the time effect within and between groups (Sidak post hoc) and P significance was set up 0.
+
+05.
+
+ The assessment of body composition, metabolic biomarkers and food intake were analyzed over a 12-week intervention.
+
+.
+
+ Effect of Orange Juice and Healthy Diet on Cardiometabolic Risk Factors of Individuals With Metabolic Syndrome@highlight
+
+This study aimed to verify if combination of a healthy diet and orange juice consumption can minimize cardiometabolic risk factors for Metabolic Syndrome (MetS)

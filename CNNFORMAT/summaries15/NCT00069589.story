@@ -1,0 +1,30 @@
+(secondQuint)Alopecia Areata Registry.
+
+ Alopecia areata is a condition in which hair is lost either from part of the scalp, all of the scalp, or the entire body, and it affects 1% to 2% of the population.
+
+ It is thought to be an autoimmune disease and in some cases the disease is hereditary.
+
+ The Alopecia Areata Registry will collect information and blood samples from clinically well-characterized patients with these three forms of alopecia areata: alopecia partialis (patchy loss of the scalp hair), alopecia totalis (total loss of all scalp hair), and alopecia universalis (complete loss of all hair everywhere on the body).
+
+ This will be a collection of patients in multi-generational families, twins, single patients with patchy, persistent transient alopecia areata or long-standing alopecia totalis/universalis and with controls (persons unaffected and not related to alopecia patients).
+
+ Information from these patients will be used to search the human genome for disease-associated loci and/or genes.
+
+ Researchers interested in doing pathophysiology or treatment studies of this disease will also be able to contact patients having the appropriate form of the disease for the studies in question.
+
+ Patients who have been diagnosed with alopecia areata by a dermatologist will be eligible for the registry.
+
+ Patients will fill out an information form online (alopeciaareataregistry.
+
+org).
+
+ Patients who have a family history or specific types of alopecia will be invited to participate in a more detailed questionnaire and physical exam and have blood samples drawn.
+
+.
+
+ Alopecia Areata Registry@highlight
+
+Alopecia areata is the loss of hair in patches that can proceed to loss of all hair (alopecia totalis or universalis).
+
+ The purpose of the registry is to collect patient information and blood samples from people with alopecia areata.
+

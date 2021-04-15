@@ -1,0 +1,28 @@
+(secondQuint)Pathways to Vocational Rehabilitation: Enhancing Entry and Retention.
+
+ Randomized clinical trials and naturalistic studies show that among patients meeting criteria for chronic mental illness, those participating in vocational rehabilitation (VR) have significantly reduced days of inpatient hospitalization.
+
+ Unfortunately, the majority of eligible adults fail to enter VR and almost half of those who do, drop out or are involuntarily discharged.
+
+ The reasons for nonparticipation and drop out and their impact on rehabilitation outcomes are poorly understood.
+
+ The study will provide needed naturalistic data documenting: 1.
+
+ the way in which barriers function to reduce entry to services and contribute to the high rate of dropout, 2.
+
+ the outcomes associated with different patterns of participation, and 3.
+
+ relative rates of entry and retention in a non-VHA VR exemplar of the Intensive Placement and Support (IPS) model at the Manchester Mental Health Center in Manchester, New Hampshire.
+
+ While we need to know more about these "barriers" in order to develop the range of appropriate interventions, the enhancement of client motivation for work and rehabilitation is likely to have a positive impact both on entry and sustained compliance.
+
+ We are proposing a random assignment single blind trial of a brief Motivational Interviewing (MI) intervention designed to address the low entry and retention rates of veterans with Serious Mental Illness (SMI) in Veterans Health Administration's (VHA) VR services.
+
+.
+
+ Pathways to Vocational Rehabilitation: Enhancing Entry and Retention@highlight
+
+This study will examine the barriers and supports for entering and receiving work-related services for veterans with a serious mental illness.
+
+ It will also determine the effectiveness of a brief motivational interviewing intervention designed to help veterans receive these services.
+

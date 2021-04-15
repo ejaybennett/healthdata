@@ -1,0 +1,20 @@
+(secondQuint)Premotor Cortex: A New Target for Stroke Motor Rehabilitation.
+
+ Motor training is an important part of recovery after stroke.
+
+ During motor training, stroke patients practice performing a movement and become better at performing the trained movement over time.
+
+ Repetitive transcranial magnetic stimulation (rTMS), which uses magnetism to excite neurons near the surface of the brain, may further improve performance.
+
+ Healthy adults made larger training-related improvements in their motor performance when they received rTMS over the primary motor cortex during motor training.
+
+ There is evidence that the premotor cortex may be a more effective target than the primary motor cortex for rTMS for some stroke survivors.
+
+ In the current study, the investigator will determine the effect of rTMS over the premotor cortex on training-related improvements in motor performance in healthy adults.
+
+.
+
+ Premotor Cortex: A New Target for Stroke Motor Rehabilitation@highlight
+
+The goal of the study is to determine the effect of repetitive transcranial magnetic stimulation (rTMS) over the premotor cortex on training-related improvements in motor performance and associated neural plasticity.
+

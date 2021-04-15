@@ -1,0 +1,36 @@
+(thirdQuint)Evaluation of the Serum Markers sFLt1 and PlGF for the Prediction of the Complications of the Placental Vascular Pathologies in the 3rd Quarter of the Pregnancy.
+
+.
+
+ The pre-eclampsia is a frequent pathology, concerning approximately 5 % of the pregnancies.
+
+ It is a major cause of mortality, mainly in the developing country.
+
+ His incidence tends to increase in the developed countries.
+
+ In the absence of adapted coverage, the pre-eclampsia can evolve into severe maternal and\or foetal complications (eclampsia, foetal intra-uterine, dead HELLP syndrome, lung acute oedema, stunting in utero).
+
+ The pre-eclampsia is a part of placental vascular pathologies.
+
+ Several studies showed that these pathologies are due to a defect of trophoblastic invasion, secondary in an imbalance in the balance of factors pro and antiangiogeniques (PlGF, sFlt1).
+
+ Studies also demonstrated that, for a patient presenting a placental vascular pathology, the rate of PlGF is decreased and conversely for the rate of sFlt1.
+
+ Studies show that the duration of the pregnancy, of a patient presenting a placentary vascular pathology, is correlated at the rate of these markers.
+
+ There is at present no reliable predictive examination to estimate the arisen of severe complications for a patient presenting a placental vascular pathology.
+
+ The purpose of the study will to estimate the relevance of the serum markers sFlt1 and PlGF to predict the arisen of severe complications for these patients.
+
+.
+
+ Evaluation of the Serum Markers sFLt1 and PlGF for the Prediction of the Complications of the Placental Vascular Pathologies in the 3rd Quarter of the Pregnancy.
+
+@highlight
+
+The pre-eclampsia is a frequent pathology, concerning approximately 5 % of the pregnancies.
+
+The pre-eclampsia can evolve into severe maternal and\or foetal complications and is a major cause of mortality.
+
+ The purpose of the study will to estimate the relevance of the serum markers sFlt1 and PlGF to predict the arisen of severe complications at these patients, what would allow to decrease the materno-foetale morbi-mortality due to the pathology.
+

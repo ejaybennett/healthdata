@@ -1,0 +1,23 @@
+(secondQuint)Freeze-Dried Black Raspberries in Treating Patients With Oral Squamous Cell Cancer Undergoing Surgery.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the relationship between the length of short-term lyophilized black raspberries (LBR) administration to human oral cancer patients and the modulation, in oral cavity tissues, of a subset of specific genes previously identified by us to be "LBR-responsive" and associated with LBR's chemopreventive activity.
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate the effects of LBR administration in humans on cell proliferation, apoptosis, and angiogenesis in oral cavity tissues using various established biomarkers including Ki-67 or proliferating cell nuclear antigen (PCNA), caspase-3, vascular endothelial growth factor (VEGF) or basic fibroblast growth factor (bFGF).
+
+ II.
+
+ To assess the feasibility of administering lyophilized freeze-dried black raspberries in oral troche form to pre-surgical patients diagnosed with squamous cell carcinoma of the oral cavity (compliance, tolerance, adverse events).
+
+.
+
+ Freeze-Dried Black Raspberries in Treating Patients With Oral Squamous Cell Cancer Undergoing Surgery@highlight
+
+This pilot phase I trial studies freeze-dried black raspberries in treating patients with oral squamous cell cancer undergoing surgery.
+
+ Chemoprevention is the use of certain drugs to keep cancer from forming.
+
+ Eating freeze-dried black raspberries may help prevent or treat oral cancer

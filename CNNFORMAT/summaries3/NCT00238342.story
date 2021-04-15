@@ -1,0 +1,36 @@
+(secondQuint)Proteomic Profiling in Diagnosing Ovarian Cancer in Patients Who Are Undergoing Surgery for an Abnormal Pelvic Mass.
+
+ OBJECTIVES: Primary - Generate and validate a serum proteomic profile that can predict the presence of invasive ovarian epithelial cancer using preoperative serum specimens obtained from patients undergoing surgical evaluation for an abnormal pelvic mass.
+
+ Secondary - Generate a proteomic profile that can distinguish early- from late-stage invasive ovarian epithelial cancer using preoperative serum specimens from patients who are subsequently diagnosed with invasive ovarian epithelial cancer.
+
+ Tertiary - Determine whether serum proteomic profiling can predict the presence of postoperative residual disease in these patients.
+
+ - Determine whether serum proteomic profiling can predict prognosis in these patients.
+
+ OUTLINE: This is a pilot, two-part, multicenter study.
+
+ - Part A: Within 3 weeks prior to surgical evaluation, patients undergo collection of serum specimen for proteomic profiling using surface-enhanced or matrix-associated laser desorption ionization spectrometry-time of flight detection (SELDI/MALDI-TOF).
+
+ Patients then undergo surgical evaluation (i.
+
+e.
+
+, biopsy and/or resection) of the pelvic mass.
+
+ Patients who are diagnosed with invasive ovarian epithelial adenocarcinoma or papillary serous fallopian tube carcinoma (no low malignant potential tumors) AND are without postoperative infection proceed to part B of the study.
+
+ - Part B: Patients undergo collection of postoperative serum specimen for proteomic profiling using SELDI/MALDI-TOF within 3-8 weeks after surgery, before starting chemotherapy, and at end of chemotherapy.
+
+ After completion of study procedures, patients are followed periodically for up to 10 years.
+
+ PROJECTED ACCRUAL: A total of 2,000 patients will be accrued for this study.
+
+.
+
+ Proteomic Profiling in Diagnosing Ovarian Cancer in Patients Who Are Undergoing Surgery for an Abnormal Pelvic Mass@highlight
+
+RATIONALE: Finding specific proteins in the blood may help doctors tell whether a patient has ovarian cancer.
+
+ PURPOSE: This clinical trial is studying how well proteomic profiling works in diagnosing ovarian cancer in patients who are undergoing surgery for an abnormal pelvic mass.
+

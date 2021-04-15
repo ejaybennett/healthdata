@@ -1,0 +1,54 @@
+(fifthQuint)A Pilot Study to Evaluate the Lipid Effects of TRIA-662.
+
+ The primary objective of this pilot study is to assess the feasibility of a large,full-scale study that would evaluate the regulating effects of TRIA-662 on serum triglycerides (TG) and high-density lipoprotein cholesterol (HDL-C) levels.
+
+ In this study, patients will first enter a Single-blind, dietary-controlled baseline period and receive 1000 mg placebo or active drug three times daily with meals (i.
+
+e.
+
+, breakfast, lunch, and dinner) for 6 - 8 weeks.
+
+ Upon completion of the 6 to 8 -week dietary-controlled baseline period, subjects meeting all inclusion and no exclusion criteria will be randomized to the double-blind treatment period.
+
+ In the double-blind treatment period patients will be randomized such that at least 48 subjects will be randomized to TRIA-662 and at least 16 patients will be randomized to placebo (3:1 ratio).
+
+ The forced-dose titration will be achieved as follows: Weeks 1 - 2: Two 500 mg tablets three times daily with meals (total daily dose 3000 mg); Weeks 3 - 14: Two 1000 mg tablets three times daily with meals (total daily dose 6000 mg).
+
+ Investigational product will be administered three times daily with meals (i.
+
+e.
+
+, breakfast, lunch, and dinner).
+
+ Down titration to 3000 mg daily (two 500 mg tablets, three times daily) is allowed in the event that a patient cannot tolerate the 6000 mg daily treatment for the stipulated period.
+
+ Under this scenario, the down-titrated patient will remain on the tolerated dose for the remainder of the study.
+
+ Lipid and ancillary exploratory parameters will be evaluated during the baseline period, upon randomization and throughout the active treatment period.
+
+ Throughout the study, patients must adhere to a heart-healthy diet, abstain from/minimize ethyl alcohol intake and control any other variables that may alter serum lipid levels (e.
+
+g.
+
+, exercise, weight loss programs, drugs including over the counter agents preparations that may alter serum lipid levels.
+
+ Safety and tolerability will be assessed throughout the trial through the evaluation of physical exams, electrocardiograms (ECGs), routine hematology and blood chemistry testing, vital signs and adverse events.
+
+.
+
+ A Pilot Study to Evaluate the Lipid Effects of TRIA-662@highlight
+
+The purpose of this pilot study is to learn what study factors are important in designing a large, full-scale study of the effects of TRIA-662 on serum triglycerides (TG) and high-density lipoprotein cholesterol (HDL-C) levels.
+
+ In this study, patients will first enter a Single-blind, dietary-controlled baseline period and receive 1000 mg placebo or active drug three times daily with meals (i.
+
+e.
+
+, breakfast, lunch, and dinner) for 6 - 8 weeks.
+
+ If the qualify to continue, they will then receive up to 2000 mg of active or placebo drug for an additional 14 weeks.
+
+ Active drug will be given to 48 patients and placebo drug will be given to 16 patients.
+
+ However, neither the patients not the clinic staff will know which patients are on active or placebo drug until the end of the study.
+

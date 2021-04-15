@@ -1,0 +1,32 @@
+(secondQuint)Mobile and Scalable Innovations for Measles Immunization: a Randomized Controlled Trial.
+
+ Primary Objective The primary objective is to determine if text message reminders, with or without unconditionally provided incentives, can increase the proportion of children who receive measles vaccination by 15% at age ten months as compared to control arm children.
+
+ Secondary Objectives 1.
+
+ To conduct a secondary analysis of the primary outcome using survival analysis and time-to-immunization curves.
+
+ 2.
+
+ To determine if there is a differential effect on measles vaccine coverage based on mobile phone ownership and distance to the clinic.
+
+ 3.
+
+ To examine the effect of the interventions on measles coverage measured at twelve months of age.
+
+ 4.
+
+ To examine the completeness and costs of identifying children through a CHW approach versus the standard HDSS approach.
+
+ 5.
+
+ To evaluate the effect of the interventions on coverage of second dose of measles vaccine at 24 months.
+
+ This secondary objective is contingent on receiving additional funding.
+
+.
+
+ Mobile and Scalable Innovations for Measles Immunization: a Randomized Controlled Trial@highlight
+
+The overall objective is to test the impact of short message service (SMS) reminders, with or without unconditionally provided mobile-money incentives, can improve measles vaccination coverage in rural western Kenyan infants.
+

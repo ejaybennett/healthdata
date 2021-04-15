@@ -1,0 +1,40 @@
+(thirdQuint)The Impact of the Use of Recombinant Human Growth Hormone on ADHD Characteristics in Children and Adolescents.
+
+ Background The main objective of this study is to analyze the short-and long-term influence of recombinant growth hormone on clinical and questionnaires based criteria of attention deficit/hyperactivity disorder in children and adolescents.
+
+ This will be examined in children prior to GH therapy and 3, 6 and 12 months during treatment, by filling validated questionnaires (Vanderbilt rating scales) evaluating ADHD.
+
+ All participants will be treated by rhGH doses acceptable by the FDA recommendations.
+
+ Trial Goal The main goal of this trial is to assess if there is any association between treatment with rhGH during a short period of 3 months, or a long period of 3-12 months and the development of characteristics of ADHD (measurable parameters ) Hypothesis Our research hypothesis, is that although parents fear of hyperreactive symptoms after rGH administration, our study will demonstrate that providing regular management of recombinant human growth hormone therapy over time, will not be associated with significant change in attention deficit/hyperactive characteristics compared to matched age and sex controls who did not receive GH treatment.
+
+ This prospective case control study format study has been chosen in order to observe and document any behavioural influence with the recommended and standard treatment with GH treatment given according to current guidelines.
+
+ Study population and size were decided according to a statistician calculation of 80% power and 5% significance and with a consiideration of 15% drop-out Trial design An open prospective observational case control study that will recruit children and adolescents prior to initiation of GH treatment.
+
+ This is a single-site study, however patients who comply with inclusion and exclusion criteria, may be recruited by the media, by representatives of pharmaceutical companies, medical associations and the Children's Endocrinology Association.
+
+ Every eligible participant, wherever treated for his condition may take part in the study.
+
+ The study design is to compare, in a controlled case-control manner, prospectively.
+
+ The development of ADHD characteristics in a group of patients from initiation to 12 months of treatment with rhGH compared to a similar gender and age controlled group, not treated by rhGH.
+
+ Inclusion criteria: - Children over the age of 6 years, and less than 16 years - Children eligible for rhGH treatment according to the following Food and Drug Administration approved indications; Small for gesational age, Idioapathic short stature, GH deficiency and chronic renal failure.
+
+ - Consent of parents / guardian to participate in research Exclusion criteria: - Under the age of 6 years and above 16 years - Previously diagnosed with neurocognitive disease - Previously diagnosed with specific syndromes: Prader-willi syndrome, Turner - Previously diagnosed with Attention Deficit/Hyperactivity disorder - Poor control in Hebrew Statistical Analysis All data will be presented in mean ,min and max.
+
+ The data will be divided according to age and results.
+
+ Statistical analysis will be performed by ANOVA with repeated measures, which will examine the difference between the trial and control group, at the 4 different time points, as well as the difference in each patient for itself, the influence of time and the interaction between these measures.
+
+.
+
+ The Impact of the Use of Recombinant Human Growth Hormone on ADHD Characteristics in Children and Adolescents@highlight
+
+Analysis of the short-and long-term impact of recombinant growth hormone on attention deficit and hyperactivity charachteristics in children and adolescents.
+
+ This will be examined in children prior to GH therapy and 3, 6 and 12 months during treatment, by filling validated questionnaires (Vanderbilt rating scales) evaluating ADHD.
+
+ Data will be compared to healthy control group.
+

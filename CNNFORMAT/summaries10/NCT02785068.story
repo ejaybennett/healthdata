@@ -1,0 +1,12 @@
+(firstQuint)Evaluation of MM-151 + Nal-IRI + 5-FU + Leucovorin in RAS/RAF Wild-type Metastatic Colorectal Cancer.
+
+ Part 1: Patients will be enrolled to determine the maximum tolerated dose, safety and tolerability of MM-151 + nal-IRI + 5-FU + LV in patients with mCRC that are RAS/RAF wild-type.
+
+ Part 2: Patients will be enrolled at the maximum tolerated dose of MM-151 in combination with nal-IRI + 5-FU + LV to characterize initial efficacy in conjunction with levels of irinotecan and SN-38 measured in tissue.
+
+.
+
+ Evaluation of MM-151 + Nal-IRI + 5-FU + Leucovorin in RAS/RAF Wild-type Metastatic Colorectal Cancer@highlight
+
+A phase 1b/2a study evaluating the combination of MM-151 + nal-IRI + 5-FU + Leucovorin in RAS/RAF wild-type Metastatic Colorectal Cancer.
+

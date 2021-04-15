@@ -1,0 +1,16 @@
+(secondQuint)MyHeartBaby: An Initial Evaluation of the MyHeartBaby Psychosocial Telemedicine Program.
+
+ Caregivers of infants with CHD are at high-risk of anxiety and distress due to the complex daily caregiving demands.
+
+ Previous research has demonstrated decreased parental stress and more optimal infant developmental outcomes with a psychosocial intervention delivered to caregivers of infants with CHD prior to hospital discharge as well as reduced healthcare use in caregivers who received medical video-consultations during the interstage surgical palliation period.
+
+ This study will implement a telemedicine intervention program (MyHeartBaby) to support caregivers remotely in the daily care and adjustment to having an infant with chronic medical needs.
+
+ The program is delivered via video chat over the Internet and caregivers will complete questionnaires about general family information, stress, and feeding their infant.
+
+.
+
+ MyHeartBaby: An Initial Evaluation of the MyHeartBaby Psychosocial Telemedicine Program@highlight
+
+This study will conduct an initial clinical evaluation of this support program to examine its impact on reducing caregiver stress, increasing confidence in daily feeding, and improving weight-for-age growth percentiles in infants with Congenital Heart Disease (CHD).
+

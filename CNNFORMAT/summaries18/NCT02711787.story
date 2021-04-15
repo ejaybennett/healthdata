@@ -1,0 +1,20 @@
+(thirdQuint)Efficacy of Robot-Assisted Rehabilitation of Hand Paralysis After Stroke.
+
+ The investigators evaluated the effectiveness of a robotic-assisted motion and activity in additional to physiotherapy (PT) and occupational therapy (OT), on stroke patients with hand paralysis.
+
+ A randomized controlled trial.
+
+ The experimental group received a passive mobilization of the hand through the robotic device Gloreha and control group received a PT and OT for 3 consecutive weeks (3 days/week) in addition to traditional rehabilitation.
+
+ Outcomes included the National Institutes of Health Stroke Scale (NIHSS), Modified Ashworth Scale (MAS), Barthel index (BI), Motricity index (MI), short version of the Disabilities of the Arm, Shoulder and Hand (quickDASH), and the Visual Analogue Scale (VAS) measurements.
+
+ All measures were collected at baseline and end of the intervention (3 weeks).
+
+.
+
+ Efficacy of Robot-Assisted Rehabilitation of Hand Paralysis After Stroke@highlight
+
+Among robotic devices, Gloreha, with its compliant mechanical transmission, may represent an easily applied innovative solution to rehabilitation, because the hand can perform grasp and release activities wearing the device by mean of a flexible and light orthosis.
+
+ Our objective on this research was to the robotic assisted motion and activity in additional to physiotherapy (PT) and occupational therapy (OT), on stroke patients with hand paralysis.
+

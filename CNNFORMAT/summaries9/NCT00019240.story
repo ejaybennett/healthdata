@@ -1,0 +1,34 @@
+(thirdQuint)Antiviral Therapy in Treating Patients With Kaposi's Sarcoma With or Without HIV Infection.
+
+ OBJECTIVES: I.
+
+ Assess the antitumor activity of intravenous cidofovir in patients with Kaposi's sarcoma (KS) with and without human immunodeficiency virus (HIV) infection.
+
+ II.
+
+ Assess the effect of intravenous cidofovir on the load of KS-associated herpesvirus/human herpesvirus-8 in KS lesions and peripheral blood mononuclear cells by quantitative polymerase chain reaction.
+
+ III.
+
+ Assess the toxicity of cidofovir in KS patients with and without HIV infection.
+
+ IV.
+
+ Assess the effect of cidofovir on angiogenic cytokines related to the pathogenesis of KS.
+
+ OUTLINE: All patients receive intravenous cidofovir weekly for 2 weeks, then every other week for 6 months.
+
+ Patients with a complete or partial response may continue treatment until disease progression intervenes.
+
+ PROJECTED ACCRUAL: Up to 25 evaluable patients will be entered over approximately 6 months if there are at least 2 responses in the first 15 patients.
+
+.
+
+ Antiviral Therapy in Treating Patients With Kaposi's Sarcoma With or Without HIV Infection@highlight
+
+RATIONALE: Herpesvirus is found in Kaposi's sarcoma lesions in most patients; it is therefore possible that the herpesvirus has a role in causing Kaposi's sarcoma.
+
+ Cidofovir is an antiviral drug that acts against many types of herpesvirus, and may be an effective treatment for Kaposi's sarcoma.
+
+ PURPOSE: Phase II trial to study the effectiveness of cidofovir in treating patients with Kaposi's sarcoma with or without HIV infection.
+

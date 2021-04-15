@@ -1,0 +1,28 @@
+(thirdQuint)Adjusted Steroids Therapy in Childerens With Idiopathic Nephrotic Syndrome.
+
+ About 90% of the patients will response to steroid therapy.
+
+ The initial steroid dose is between 2mg/kg or 60mg/1m2 for 6-4 weeks and the duration of the first steroid course is between 8 weeks to 6 months.
+
+ The bases of this treatment have been put in the early 70s.
+
+ Since then most of the study were focused on the duration of the therapy with a results that 8-12 weeks course is as good as 6 month.
+
+ Studies have showed no difference in response rate between 2mg/kg to 60m2' although the difference in the dose in young children can rich to 25%.
+
+ Other retrospective analysis been show that patients who response in the first 7-9 days tend to have lass relapses than other patients.
+
+ In our nephrology clinic the investigators there is ongoing clinical study on low doses of steroid therapy for relapse of nephritic syndrome with good results.
+
+.
+
+ Adjusted Steroids Therapy in Childerens With Idiopathic Nephrotic Syndrome@highlight
+
+The initial steroids dose for Nephrotic Syndrome is 60mg/1m2 for 6-4 weeks and the duration of the first steroid course is between 8 weeks to 6 months.
+
+ The base of the initial dose for steroids Idiopathic nephrotic syndrome been put in the early 70s.
+
+ In our study the investigators will adjusted the first steroids does to the response day.
+
+ Our primary end point is : a lower adjusted dose is as good as the fix dose in the first year after diagnosis.
+

@@ -1,0 +1,44 @@
+(thirdQuint)Salpingectomy During Cesarean Section.
+
+ Until recently, ovarian resection was considered the only option to prevent ovarian cancer.
+
+ Recently new evidence showing that the fallopian tube itself may be the source of certain types of ovarian cancer.
+
+ So salpingectomy, may offer some protection.
+
+ However, the extent of this protection has not been determined.
+
+ Therefore, and based on the foregoing, the investigators think there is an advantage in removal of fallopian tubes rather than tubal ligation Cesarean sections.
+
+ Given the lack of evidence in the literature about the complications of this procedure, currently the investigators organize a study examines the rate of complications of salpingectomy compared to tubal ligation during cesarean section.
+
+ Therefore, the main objective of the study is to assess the incidence of intra-operative complications during cesarean section.
+
+ The effect of the procedure will be examined on the following indicators: 1.
+
+ The duration of the operation, 2.
+
+ The rates of bleeding during the operation as estimated by the surgeon, 3.
+
+ hemoglobin before and after the surgery, 4.
+
+ Rates of giving blood or after surgery 5.
+
+ The technical difficulty in performing tubal resection according to surgeon assessment 6.
+
+ The need for further surgical intervention A secondary objective of the study is evaluating the long-term complications: 1.
+
+ Assessment of pain intensity at three months after surgery 2.
+
+ Evaluation of menopausal symptoms, three months after surgery 3.
+
+ Test ovarian sonar and Doppler three months after surgery 4.
+
+ Testing the value of AMH three months after surgery.
+
+ Salpingectomy During Cesarean Section@highlight
+
+Based on the accumulated literature, salpingectomy may significantly reduce the risk for ovarian cancer.
+
+ If investigators can prove that there is no increase in surgical complications and morbidity during salpingectomy in CS, compared to tubal ligation, investigators can recommend for women who are interested in sterilization- salpingectomy during cesarean section .
+

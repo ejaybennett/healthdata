@@ -1,0 +1,16 @@
+(firstQuint)Metabolomic Analysis of Lung Cancer.
+
+ It has long been known that cancer cells absorb and break down substances in the body differently than healthy, non-cancer cells.
+
+ This process of absorbing and breaking down substances is known as metabolism and is increased in cancer cells.
+
+ Recent research suggests that this increased metabolic activity makes it easier for cancer cells to multiply.
+
+ The objective of the study is to characterize the metabolism of glucose by lung tumors by serum metabolite analysis, using a variant of glucose (sugar) which makes up 1% of glucose in nature.
+
+.
+
+ Metabolomic Analysis of Lung Cancer@highlight
+
+The purpose of this study is to learn more about the metabolic properties of lung cancer cells.
+

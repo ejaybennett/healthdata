@@ -1,0 +1,46 @@
+(fifthQuint)"The Once A Day Protease Inhibitor Regimens".
+
+ Over the past decade, there have been significant advances toward fighting the progression of HIV disease.
+
+ Current treatment strategies consist of utilization of potent combination antiretroviral therapy to suppress HIV replication below detectable limits limiting the potential for the emergence of resistant viruses, boosting CD4 cell counts and thereby delaying disease progression.
+
+ Treatment of HIV-1 infection with Highly Active Antiretroviral Therapy (HAART) regimens containing a protease inhibitor (PI) and two nucleoside reverse transcriptase inhibitor (NRTIs) has been shown to prolong survival and decrease disease progression.
+
+ Despite these potent antiretroviral agents, current available therapies continue to fail in some patients.
+
+ Poor adherence to complex treatment regimens remains a significant cause of suboptimal viral suppression leading to emerge of resistant virus.
+
+ Atazanavir and fosamprenavir were recently FDA approved protease inhibitors.
+
+ The efficacy and safety profile of these two drugs have been established in clinical trials enrolling antiretroviral therapy naive and protease inhibitor experienced patients.
+
+ Atazanavir and fosamprenavir are the only protease inhibitors approved for a once a day regimen and this may set a new standard for treatment of antiretroviral therapy naive HIV infected patients.
+
+ Adherence to the medicines, a key component of treatment success, could be significantly improved by using these once daily regimens.
+
+ However, no head-to-head trials comparing the safety and efficacy of fosamprenavir and atazanavir have been published.
+
+ This prospective, randomized, open label 2-arm study will compare these two protease inhibitors for therapy of antiretroviral treatment-naive HIV-infected patients.
+
+ Patients who are successfully screened for eligibility will be randomized to receive tenofovir and emtricitabine plus either atazanavir (300mg qd) and ritonavir (100mg qd) or fosamprenavir (1400mg qd) and ritonavir (200mg qd).
+
+ Participants will undergo assessment on day 1 and attend study visits at weeks 6, 12 and every 3 months until the completion of the study on week 96.
+
+ "Antiretroviral Medication Self-Report" and "3-Day HIV Medication Self-Report" questionnaires will be applied at weeks 6, 12 and every 3 month, thereafter, until week 96.
+
+ "Changes in Body Appearance" questionnaire will be applied at baseline and weeks 24, 48, 72, and 96.
+
+.
+
+ "The Once A Day Protease Inhibitor Regimens"@highlight
+
+Atazanavir (ATV) and fosamprenavir (fAPV) are new protease inhibitors that can be administered once-a-day and boosted with ritonavir (r).
+
+ Prior studies have demonstrated that both are effective in treatment of ARV-naive HIV-infected people.
+
+ This study was designed to demonstrate if a HAART regimen containing ATV/r is not inferior to a HAART regimen containing fAPV/r, in ARV-naive patients over a 96-week period.
+
+ This is a phase IV, single center, randomized, open label, 2-arm clinical trial in ARV therapy-naive patients with HIV-1 RNA >1,000 copes/mL and CD4 cell count <350 cells/mm3.
+
+ Patients will be randomized to receive tenofovir and emtricitabine plus either ATV (300mg qd) and ritonavir (100mg qd) or fAPV (1400mg qd) and ritonavir (200mg qd).
+

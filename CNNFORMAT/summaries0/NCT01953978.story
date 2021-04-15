@@ -1,0 +1,24 @@
+(fifthQuint)The Effect of Dexamethasone in Combination With Paracetamol and Ibuprofen on Postoperative Pain After Spine Surgery.
+
+ The analgesic effect of dexamethasone is not well described, but studies have shown that an intermediate dosis of dexamethasone (0.
+
+11-0.
+
+2 mg/kg) can be a safe part of a multimodal analgesic strategy after surgery.
+
+ Dexamethasone has an opioid-sparing effect and reduces pain during rest and mobilisation.
+
+ Our purpose is to investigate if dexamethasone in combination with paracetamol and ibuprofen has an increased analgesic effect compared to paracetamol and ibuprofen alone, on postoperative pain after herniated disk surgery.
+
+ Our hypothesis is that dexamethasone can reduce postoperative pain and reduce opioidconsumption and side effects compared to placebo.
+
+.
+
+ The Effect of Dexamethasone in Combination With Paracetamol and Ibuprofen on Postoperative Pain After Spine Surgery@highlight
+
+The analgesic effect of dexamethasone is not well described, but studies have shown that dexamethasone can be a safe part of a multimodal analgesic strategy after surgery.
+
+ Our purpose is to investigate if dexamethasone in combination with paracetamol and ibuprofen has an increased analgesic effect compared to paracetamol and ibuprofen alone, on postoperative pain after spine surgery.
+
+ Our hypothesis is that dexamethasone can reduce postoperative pain and reduce opioidconsumption and side effects compared to placebo.
+

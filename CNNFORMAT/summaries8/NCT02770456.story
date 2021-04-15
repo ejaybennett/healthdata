@@ -1,0 +1,35 @@
+(fifthQuint)Fish Oil Supplementation to Pregnant Women in China.
+
+ The basic design is that of a randomized controlled trial with three groups randomized in ratios of 1:1:1.
+
+ Two different doses of long chain n-3 fatty acids are tested against zero grams long chain n-3 fatty acids (lc-n3FA).
+
+ These are provided in similarly looking gelatine capsules with either fish oil, a mixture (1:3) of fish oil and olive oil, or olive oil.
+
+ Eligible women are randomized at around gestation weeks 16-24 and are asked to take the capsules until they have completed the preterm period (i.
+
+e.
+
+ at 37 full gestation weeks) or until they deliver.
+
+ Women are asked to complete questionnaires at randomization about diet and other baseline information, and again in gestation week 30 and after delivery.
+
+ The trial is undertaken at hospitals in the two provinces of Gan-Su and Shaanxi.
+
+ The three randomization groups will be compared with respect to proportions of preterm delivery.
+
+ Cox regression will be used to compare the groups with respect to rates of spontaneous deliveries while accounting for elective delivery by regarding these as censoring events.
+
+.
+
+ Fish Oil Supplementation to Pregnant Women in China@highlight
+
+This randomized controlled trial with fish oil supplementation to pregnant women conducted in areas of China, which are generally low in fish intake and low income, aims at answering the following primary questions: - Is a dose of 2.
+
+0 g/d long chain n-3 fatty acids efficient in preventing preterm birth - Is a dose of 0.
+
+5 g/d long chain n-3 fatty acids efficient in preventing preterm birth - Is a dose of 0.
+
+5 g/d as efficient as a dose of 2.
+
+0 g/d in affecting timing of spontaneous delivery in the preterm period

@@ -1,0 +1,24 @@
+(thirdQuint)Individualized Timing of Analgesia and Effectiveness of Labor Analgesia.
+
+ Neuraxial analgesia is the gold standard to relieve labor pain.
+
+ It also helps to attenuate maternal anxiety and improve maternal satisfaction.
+
+ A recent "Practice guidelines for obstetric anesthesia" suggests that neuraxial analgesia should be provided in the early stage of labor (cervical dilation < 5 cm) or, for some special patients, be provided on a individualized basis.
+
+ Studies showed that, when compared with late administration, early administration of labor analgesia resulted in equivocal findings for spontaneous, instrumented, and cesarean delivery.
+
+ The investigators hypothesize that neuraxial labor analgesia provided on an individualized basis will further improve analgesia quality and maternal satisfaction.
+
+ The purpose of this randomized controlled trial is to investigate whether neuraxial labor analgesia administered on an individualized basis can improve analgesia quality and maternal satisfaction.
+
+.
+
+ Individualized Timing of Analgesia and Effectiveness of Labor Analgesia@highlight
+
+Neuraxial analgesia is the gold standard to relieve labor pain.
+
+ A recent "Practice guidelines for obstetric anesthesia" suggests that neuraxial analgesia should be provided in the early stage of labor (cervical dilation < 5 cm) or on a individualized basis.
+
+ The purpose of this randomized controlled trial is to investigate whether neuraxial labor analgesia administered on an individualized basis can improve analgesia quality and maternal satisfaction.
+

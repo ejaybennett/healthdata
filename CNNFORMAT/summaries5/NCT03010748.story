@@ -1,0 +1,16 @@
+(fifthQuint)Multi-center Clinical Trial on Corneal Morphology Analysis in Chinese Population.
+
+ The safety of refractive surgery has always been the focus of attention, keratoconus screening is the most important part for the preoperative examination of refractive surgery.
+
+ Favorable tools and appropriate indicators are the premise of fast and accurate screening, and the corneal morphology from various regions of China have various characteristics, the use of uniform standards developed by foreign screening will always induce a lot of problems, for example, the differences of cornea morphological features between European and American ethnic and Chinese race, as well as the corneal morphometric indicators between various regions of China, will cause varying degrees of false-positive or false-negative screening results.
+
+ Based on this, in order to further improve the safety of refractive surgery effectively and to obtain the effective and accurate screening of suspected keratoconus population, this study will be conducted to collect the corneal morphological characteristics database of Chinese people from all over the country, and to develop a database of Chinese ethnographic characteristics for screening keratoconus indicators and reference valuable to guide clinical screening and surgical design.
+
+.
+
+ Multi-center Clinical Trial on Corneal Morphology Analysis in Chinese Population@highlight
+
+Based on the corneal morphometry instrumentation Oculus Pentacam, which is commonly used before and after clinical refractive surgery, we will collect the corneal morphological and biologic parameters of the population under refractive surgery screening in refractive surgery centers around the country, and construct corneal morphology database in different living areas of Chinese people.
+
+ Based on this, compared with the suspected keratoconus and keratoconus population, the screening criteria and reference standards accord with the characteristics of keratoconus of Chinese ethnic will be achieved.
+

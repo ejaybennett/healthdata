@@ -1,0 +1,20 @@
+(thirdQuint)Recovery of Left Ventricular Function in Chronic Total Occluded Coronary Arteries.
+
+ In the REVASC-study recovery of left ventricular function after recanalization of chronic total coronary occlusions (CTO) and implantation of sirolimus-eluting stents will be examined and compared to medical treatment.
+
+ Extent of the scar, viable myocardium in the infarct zone and regional left ventricular function will be assessed by cardiac magnetic resonance.
+
+ Patients with regional systolic left ventricular dysfunction of any degree in the supply territory of the CTO vessel will be randomized to either recanalization of the occluded coronary artery or to conservative therapy.
+
+ It is of interest whether CTO patients will have an improvement in left ventricular function after late coronary reopening, regarding the high technical demands and costs of CTO recanalization.
+
+.
+
+ Recovery of Left Ventricular Function in Chronic Total Occluded Coronary Arteries@highlight
+
+The study is a randomised comparison of recanalisation of chronic occluded coronary arteries with implantation of Sirolimus eluting stents and medical therapy.
+
+ Myocardial function and scar-size are determinated by using magnetic resonance imaging.
+
+ The study hypothesis is the superiority of medical therapy over revascularisation.
+

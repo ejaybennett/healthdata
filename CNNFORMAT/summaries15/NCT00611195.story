@@ -1,0 +1,52 @@
+(fifthQuint)Remifentanil and Laryngeal Reflex Responses in Pediatric Patients With URI.
+
+ Patients undergoing anesthesia in the presence of an upper respiratory infection (URI) are very common in pediatric anesthesia practice.
+
+ Although, clinical data confirm that children with URIs are at increased risk of perioperative complications, it has become standard practice not to postpone anesthesia in the presence of URI.
+
+ While complications (such as cough, hypoxemia) can be anticipated, recognized, and treated, laryngospasm remains the most severe and dramatic complication.
+
+ In clinical practice, patients who develop laryngospasm are greater than 2.
+
+5 times more likely to have an active upper respiratory infection; therefore, knowledge that allows for rational selections of anesthetic agents under this condition is highly warranted.
+
+ Based on our results obtained in healthy children, the use of propofol appears to be most promising under these circumstances.
+
+ For this reason, the laryngeal and respiratory reflex responses should be assessed in patients with URI anaesthetized with propofol.
+
+ Commonly held believes suggest, that the administration of opioids blunts airway reflexes, including laryngospasm.
+
+ However, in a previous study of our group in children anesthetized with sevoflurane the administration of fentanyl effectively blunted all airway reflexes but laryngospasm.
+
+ These results are in contrast to those obtained in adults anesthetized with propofol where fentanyl also effectively blunted laryngospasm.
+
+ In children the combined use of propofol and remifentanil has become more frequent, particularly because of its synergistic pharmacodynamic effect.
+
+ Besides its use during surgical procedures, this regime is also being increasingly advocated for diagnostic procedures such as bronchoscopy and esophago-gastroduodenoscopy.
+
+ These interventions include instrumentation of the airway in children that are at an increased risk of harmful effects of laryngeal reflex responses.
+
+ Despite their obvious clinical significance, reflexes that involve the function of the upper airway are only minimally understood and information on such reflexes is scarce in anesthetized humans.
+
+ Nonetheless, a model was developed by analyzing respiratory variables and endoscopic images after stimulating the laryngeal mucosa with a small amount of distilled water.
+
+ This model was successfully adapted to the pediatric setting by our group assessing the impact of propofol, sevoflurane, fentanyl and lidocaine administration on laryngeal reflex responses in preschool children.
+
+.
+
+ Remifentanil and Laryngeal Reflex Responses in Pediatric Patients With URI@highlight
+
+To describe respiratory and laryngeal responses to laryngeal stimulation during propofol anesthesia in children with upper airway infections.
+
+ To determine whether the co-administration of remifentanil blunts these reflex responses.
+
+ To test whether the co-administration of remifentanil results in a significant reduction of apnea with laryngospasm in these patients.
+
+ Hypotheses: I: In children with a URI undergoing anesthesia with propofol, the incidence of apnea and laryngospasm after controlled stimulation is expected to occur 2.
+
+5 times more frequently than in children without URI (20 vs.
+
+ 8%).
+
+ II: The incidence of apnea and laryngospasm is diminished after administration of remifentanil.
+

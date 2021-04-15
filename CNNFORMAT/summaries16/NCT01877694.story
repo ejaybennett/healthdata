@@ -1,0 +1,22 @@
+(thirdQuint)Efficacy and Safety of Auriclosene (NVC-422) in the Treatment of Bacterial Conjunctivitis.
+
+ This is a randomized (1:1) double-masked, vehicle-controlled, multi-center, parallel group study with two treatment arms: Auriclosene Ophthalmic Solution 0.
+
+3% ("Auriclosene") and Auriclosene Vehicle ("Vehicle").
+
+ Subjects that meet all inclusion/exclusion criteria will be enrolled into the study, randomized and evaluated at 3 visits: - Visit 1: Screening, Day 1 - Visit 2: Day 3 (1) - Visit 3: Day 5 (+1) Test of Cure/Exit IP will be dosed OU (both eyes) QID for 4 days.
+
+ Microbiological specimens will be collected from each eye at each visit.
+
+ Visual Acuity will be assessed OU at each visit as well as rating of the ocular signs: lid erythema and swelling, bulbar and palpebralconjunctival injection, and conjunctival discharge/exudate.
+
+.
+
+ Efficacy and Safety of Auriclosene (NVC-422) in the Treatment of Bacterial Conjunctivitis@highlight
+
+The purpose of this study is to evaluate the microbiological and clinical efficacy of Auriclosene compared to its vehicle for bacterial conjunctivitis.
+
+ Adults and children one year of age and older with bacterial conjunctivitis in at least one eye may be eligible.
+
+ Subjects will be randomly assigned to receive either Auriclosene Ophthalmic Solution or Vehicle Ophthalmic Solution.
+

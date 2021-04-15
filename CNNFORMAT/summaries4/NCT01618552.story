@@ -1,0 +1,42 @@
+(fifthQuint)Training Doctors to Support Patient Self-Care of Depression.
+
+ Many primary care patients struggle with health behaviors that can reduce depressive symptoms, such as adhering to prescribed treatments.
+
+ Bolstering patient self-efficacy can improve health behaviors and outcomes, including those related to depression.
+
+ However, current self-efficacy interventions are provided outside of primary care, and so cannot harness the power of therapeutic primary care provider (PCP)-patient relationships.
+
+ Teaching PCPs to employ self-efficacy enhancing interviewing techniques (SEE IT) with patients would build upon existing therapeutic relationships, greatly increasing the reach of self-efficacy enhancement.
+
+ The randomized controlled trial (RCT) in this proposal will examine whether, as compared with an attention control condition, a brief (< 1 hour) office-based intervention for practicing PCPs will lead to significantly greater use of SEE IT during unannounced follow-up SP encounters (postintervention and 3 months).
+
+ The interventions will be delivered to PCPs during their regular office hours by standardized patient (SP) instructors.
+
+ All study SPs will portray patients with both depression and diabetes, since these conditions commonly co-occur and entail a heavy burden of health-enhancing behaviors.
+
+ Exploratory (due to limited statistical power) analyses will explore intervention effects on the following outcomes among real patients with co-occurring depression and diabetes: self-efficacy for depression and diabetes self-care, actual self-care behaviors (e.
+
+g.
+
+ medication adherence), symptom severity, and health status.
+
+ Further exploratory (due to limited statistical power) analyses will explore intervention effects on the following outcomes among real patients with various chronic conditions (ie, not limited to depression and diabetes): self-care self-efficacy, actual self-care behaviors, symptom severity, and health status.
+
+ Pre- and post-RCT focus groups with stakeholders (PCPs, office staff, patients, and SP instructors) will guide refinement of the SEE IT intervention.
+
+ The proposed research activities will inform the design (e.
+
+g.
+
+ sample size) and conduct of a future R01-funded, multi-center, cluster RCT of the finalized intervention, adequately powered to examine effects on a range of patient outcomes; sustainability of effects on PCP interviewing over time; and generalizability to other practice settings and common co-morbid mental health and physical illness clusters.
+
+ The SEE IT intervention begins to address the broader health needs of individuals with depression in primary care, and has unique potential to reduce the tremendous burden of mental illness related morbidity and mortality.
+
+.
+
+ Training Doctors to Support Patient Self-Care of Depression@highlight
+
+This study will determine whether practicing primary care providers (PCPs) can be trained to support patient self-care of depression and co-existing diabetes during office visits, and begin to explore whether this might improve depression and diabetes outcomes, and whether the effects of the training generalize to patients with health conditions other than depression and diabetes.
+
+ This is important because most patients with chronic conditions struggle with self-care and are seen in primary care, yet PCPs are seldom trained to support self-care.
+

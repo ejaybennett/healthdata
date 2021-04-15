@@ -1,0 +1,22 @@
+(firstQuint)Effect of Ambient Light on the Parameters of the Pupillary Light Reflex.
+
+ Evaluation of the pupillary response is an underemphasized aspect of the assessment of visual function.
+
+ The pupillary light reflex is one of the few objective indicators of afferent input from the retina and optic nerve.
+
+ Since the pupillary light reflex is processed through the retina, it may be used to assess visual integrity (1).
+
+ Pupillometry is a reliable technology capable of providing repetitive data on quantitative pupillary function in states of health and disease (2).
+
+ Amplitude, latency, maximum constriction velocity, mean constriction velocity, and dilation velocity are measured using the Neuroleptics pupillometer.
+
+ The effects of varying levels of ambient light on these parameters of the pupillary response have not been extensively studied.
+
+ The purpose of this investigation is to determine the effects of varying luminescent levels on the pupillary response.
+
+.
+
+ Effect of Ambient Light on the Parameters of the Pupillary Light Reflex@highlight
+
+The purpose of this study is to determine the effects of varying luminescent levels on the pupillary response.
+

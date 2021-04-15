@@ -1,0 +1,68 @@
+(fifthQuint)Sports in Hypertension of the Elderly.
+
+ Based on previous studies on sports in hypertension, we expected the intervention to result in a decrease of systolic 24h-ambulatory BP (systolic ABP) of at least 6 mm Hg in the training group with no changes in the control group.
+
+16,17 This difference was considered to be clinically relevant.
+
+ A sample size of 23 in each group has 80% power to detect a difference in means of 6 mmHg assuming that the common standard deviation is 7 mmHg, a baseline systolic ABP of 140 mmHg and a two-sided p 90 mmHg, age of 60 years.
+
+ Prior to the exercise program, cardiac function is examined by ECG and echocardiogram.
+
+ Exclusion criteria are regular engagement in physical exercise training in the past 12 weeks prior to inclusion in the study, symptomatic peripheral arterial occlusive disease, aortic insufficiency or stenosis > stage I, hypertrophic obstructive cardiomyopathy (HOCM), congestive heart failure (> NYHA II), uncontrolled cardiac arrhythmia with haemodynamic relevance, systolic office BP 180 mmHg, signs of acute ischemia in exercise ECG, change of antihypertensive medication in the past 6 weeks prior to inclusion in the study or during follow-up period.
+
+ According to these criteria 54 patients are enrolled and randomized to exercise and control group.
+
+ Physical performance is assessed using a modified Bruce-protocol.
+
+ Arterial elasticity is measured by pulse-wave analysis of the radial artery.
+
+ Endothelium-dependent vasodilation is assessed sonographically by flow-mediated vasodilation.
+
+ 24h-ABP monitoring is performed using Spacelabs 90207 monitors.
+
+ The follow-up BP and vascular measurements of the training group are conducted within 2 days after the last training session.
+
+ The training program, consisting of walking on a treadmill according to an interval-training pattern, is carried out 3 times weekly for 12 weeks.
+
+ If patients miss a training session, the program is prolonged until 36 workouts are carried out.
+
+ The initial duration of training sessions is 30 minutes.
+
+ During the first week, training consists of 5 workloads of 3 min; between workloads patients walk with half-speed for 3 min.
+
+ Exercise duration is gradually increased to 4 x 5 min a day in the second week, 3 x 8 min in the third, 3 x 10 min in the fourth and 2 x 15 min in the fifth week.
+
+ In the sixth and further weeks, exercise is progressively increased to 30, 32 and 36 min and is carried out without interruption.
+
+ Training intensity corresponds to the speed necessary to reach a lactate concentration of 2.
+
+5 0.
+
+5 mmol/l in capillary blood slightly above the aerobic threshold.
+
+ Heart rate during training is controlled by a heart-rate monitor.
+
+ As lactate concentration sinks below 2.
+
+0 mmol/l or exercise heart rate decreases by more than 5/min as a result of training adaptation, treadmill speed is increased by 0.
+
+5 km/h or elevation is increased by 3% to maintain training intensity.
+
+ We have previously shown that this training protocol leads to a substantial increase of physical performance in short time.
+
+ During training patients are continuously supervised by a physician.
+
+.
+
+ Sports in Hypertension of the Elderly@highlight
+
+The present work examines the impact of pulse pressure as a footprint of vascular ageing on cardiovascular benefits of endurance training in elderly hypertensives.
+
+ METHODS AND RESULTS: 54 patients 60 years with antihypertensive treatment and diastolic 24h-ambulatory blood pressure (ABP) 90 mmHg are randomly assigned to sedentary activity or a heart-rate controlled 12 week exercise program, consisting of walking on a treadmill at target lactate concentrations of 2.
+
+5 0.
+
+5 mmol/l.
+
+ 24h-ambulatory blood pressure, physical performance, arterial elasticity, endothelium-derived vasodilation, quality of life, and weight are assessed at baseline and follow-up.
+

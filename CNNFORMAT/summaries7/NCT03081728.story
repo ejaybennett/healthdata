@@ -1,0 +1,9 @@
+(firstQuint)Incidence Of Hemidiaphragmatic Paralysis After Usg Guided Low Dose Interscalene Brachial Plexus Block.
+
+ to put a catheter in interscalene brachial plexus USG guided and give a bolus of drug followed by 24 hours continous infusion of drug.
+
+ To see hemidiaphragmatic paralysis by seeing diaphragmatic excursion on M mode Usg subcostal approach, to see post operative pain, patient satisfaction score, complications if any.
+
+ Incidence Of Hemidiaphragmatic Paralysis After Usg Guided Low Dose Interscalene Brachial Plexus Block@highlight
+
+to put a catheter in interscalene brachial plexus USG guided and give a bolus of drug followed by 24 hours continous infusion of drug

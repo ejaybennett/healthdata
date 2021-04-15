@@ -1,0 +1,16 @@
+(firstQuint)Self Administration of Subcutaneous Depot Medroxyprogesterone Acetate.
+
+ This observational study will include new or current Depo Provera users who express interest in attempting subcutaneous self administration of depot medroxyprogesterone acetate.
+
+ Candidates will be taught self administration by a clinic assistant at Planned Parenthood of Southwest and Central Florida.
+
+ Patients who are able to correctly self administer the medication and wish to attempt to continue home self administration, will be provided the supplies and educational materials to do so.
+
+ Continuation rates and satisfaction with this method will be assessed using preaddressed surveys that patients will return with the above information.
+
+.
+
+ Self Administration of Subcutaneous Depot Medroxyprogesterone Acetate@highlight
+
+The purpose of this study is to assess continuation rates and patient satisfaction with self administration subcutaneous depot medroxyprogesterone acetate.
+

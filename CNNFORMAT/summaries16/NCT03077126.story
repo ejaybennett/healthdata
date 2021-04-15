@@ -1,0 +1,18 @@
+(secondQuint)Feasibility Study of Ultrasound Elastography Detecting Prostate Cancer.
+
+ The point estimate and its 95% confidence interval will be calculated using the exact binominal method.
+
+ Identification of suspicious cancer tissue in a 12 prostate zone schema: Participants will undergo USE: Aixplorer(R) ShearWave Elastography (SWE cent ), (SuperSonic Imagine).
+
+ Areas of the prostate with high suspicion for harboring cancer will be recorded in a 12 zone prostate schema.
+
+ For study purposes the prostate will be divided into Zone 1(Left Lateral Base), Zone 2 (Left Base), Zone 3 (Right Base), Zone 4 (Right Lateral Base), Zone 5 (Left Lateral Mid), Zone 6 (Left Mid), Zone 7 (Right Mide), Zone 8 (Right Lateral Mid), Zone 9 (Left Lateral Apex), Zone 10 (Left Apex), Zone 11 (Right Apex), Zone 12 (Right Lateral Apex).
+
+.
+
+ Feasibility Study of Ultrasound Elastography Detecting Prostate Cancer@highlight
+
+The main purpose of this study is to determine the accuracy and feasibility (possibility) of Aixplorer(R) ShearWave Elastography (SWE cent ) Ultrasound System (made by SuperSonic Imagine, Inc.
+
+) for detecting prostate cancer in men undergoing radical prostatectomy.
+

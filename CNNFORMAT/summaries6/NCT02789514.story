@@ -1,0 +1,18 @@
+(firstQuint)A Survey of the Indications for Esophagogastroduodenoscopy (EGD) in Children's Hospital of Fudan University.
+
+ Esophagogastroduodenoscopy (EGD) become more and more common in diagnosing gastroenterology diseases.
+
+ And there are indications for EGD.
+
+ Here, investigators want to find which symptoms can strongly support for positive endoscopy findings.
+
+ So, investigators design the study to record the symptoms in detail and diagnosis, and then analysis symptoms and the rate of endoscopic findings.
+
+.
+
+ A Survey of the Indications for Esophagogastroduodenoscopy (EGD) in Children's Hospital of Fudan University@highlight
+
+Esophagogastroduodenoscopy (EGD) become more and more common in diagnosing gastroenterology diseases.
+
+ The investigators want to find which symptoms can support for positive endoscopic findings.
+

@@ -1,0 +1,18 @@
+(firstQuint)Safety and Immunogenicity of Clade C ALVAC and gp120 HIV Vaccine.
+
+ This study will evaluate the safety, tolerability, and immunogenicity to vCP2438 (an HIV clade C vaccine) and to an unadjuvanted or MF59- or alum-adjuvanted bivalent clade C gp120 in healthy, HIV-uninfected adults.
+
+ The study will enroll healthy, HIV-uninfected participants aged 18 to 40 years.
+
+ Participants will be randomly assigned to one of 4 groups.
+
+ [describe further] Study visits will include a physical examination, an interview and/or questionnaire, HIV testing and HIV risk-reduction counseling, and urine and blood collection.
+
+ A subset of participants will provide rectal fluid, cervical fluid, semen, or stool samples.
+
+.
+
+ Safety and Immunogenicity of Clade C ALVAC and gp120 HIV Vaccine@highlight
+
+The purpose of this study is to evaluate the safety and immune response to an HIV clade C vaccine and to an MF59- or alum-adjuvanted clade C Env protein in healthy, HIV-uninfected adults.
+

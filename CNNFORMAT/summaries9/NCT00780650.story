@@ -1,0 +1,18 @@
+(secondQuint)Mechanisms of Hypoglycemia Associated Autonomic Dysfunction, Q4-Atomoxetine.
+
+ The purpose of this study is to see if the drug atomoxetine (Strattera) has effects on the body's ability to defend itself against low blood sugar.
+
+ Normally, when blood sugar levels drop below normal, the body creates a series of responses, which increase the sugar inside the body to bring blood sugar levels back to normal.
+
+ The hormone epinephrine is a key defense against low blood sugar in people with diabetes.
+
+ Atomoxetine has been shown to increase this hormone level.
+
+ Thus, any approaches to increase levels of this key defense during low blood sugar may have great value.
+
+.
+
+ Mechanisms of Hypoglycemia Associated Autonomic Dysfunction, Q4-Atomoxetine@highlight
+
+This study is aimed at determining if the drug Atomoxetine (Strattera-used to treat Attention Deficit Hyperactivity Disorder(ADHD) has effects on the body's ability to defend itself against low blood sugar.
+

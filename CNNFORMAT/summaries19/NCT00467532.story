@@ -1,0 +1,26 @@
+(thirdQuint)Effect of Burn Size on Cytomegalovirus Reactivation and Correlates of T Cell Immune Function in Burned Patients.
+
+ The purpose of this research study is to learn about infections and the immune system in people who suffer from burn injuries.
+
+ The immune system changes after burn injury and infection is one of the most common complications.
+
+ Cytomegalovirus (CMV) is a virus that most people are exposed to early in life; once you are exposed it lays inactive in your body forever.
+
+ When the immune system is suppressed, this virus can reactivate.
+
+ We would like to measure how this virus makes copies of itself in the blood stream in people with a burn injury and to look at cell markers of the immune system.
+
+ This study involves baseline and weekly blood draws for approximately 8 weeks.
+
+ If blood tests show CMV infection, further monitoring of blood work may be needed after eight weeks.
+
+.
+
+ Effect of Burn Size on Cytomegalovirus Reactivation and Correlates of T Cell Immune Function in Burned Patients@highlight
+
+The purpose of this study is to evaluate the effect of burn injury on the human immune system with a focus on cytomegalovirus (CMV) reactivation and the immunologic correlates of latent viral reactivation.
+
+ Subjects will be patients admitted to the North Carolina Jaycee Burn Center with burn injury.
+
+ Blood samples will be collected over time and will be evaluated for CMV reactivation and immune cell phenotype.
+

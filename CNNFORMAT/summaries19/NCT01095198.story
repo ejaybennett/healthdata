@@ -1,0 +1,32 @@
+(fifthQuint)Randomized Trial of Vaginal Self Sampling for Human Papillomavirus (HPV).
+
+ Pap smear screening for cervical cancer precursors has substantially reduced the incidence of invasive cervical cancer in Canada.
+
+ While regular Pap screening can give up to 90% protection against cervical cancer, about 30% of Canadian women do not participate in regular screening.
+
+ Pap screening in Ontario is opportunistic.
+
+ There are women who have family doctors and regularly present for other medical issues at their physician's office but forego Pap smear testing.
+
+ Numerous studies have shown that women are able to self collect vaginal samples, and that these samples can be tested for the presence of oncogenic human papillomavirus.
+
+ A recent meta-analysis showed that HPV testing through physician collected samples had a sensitivity of 80%-90% for detection of cervical intraepithelial neoplasia (CIN) 2 or worse, and a specificity of 86%-95%.
+
+ In comparison, a meta-analysis of self collected vaginal samples tested for HPV showed a sensitivity of 74% and a specificity of 88%.
+
+ Studies have reported that women find self collection acceptable.
+
+ However, we have found that many women are more comfortable if a health care professional is available to help if needed, and so this option should be provided for self-testing.
+
+ We are proposing a randomized controlled trial to see whether (a) the offer of a vaginal self collection kit together with a second reminder for Pap testing will increase cervical screening participation amongst "never-screened" and "hard to reach" women, as compared to (b) a second reminder letter alone.
+
+.
+
+ Randomized Trial of Vaginal Self Sampling for Human Papillomavirus (HPV)@highlight
+
+Up to 30% of Canadian women do not participate in Pap smear screening for cervical cancer prevention despite many being members of family practices and having access to family physicians.
+
+ One reason is reluctance to undergo pelvic examination.
+
+ The investigators purpose is to determine whether the offer of vaginal self sample collection for oncogenic human papillomavirus (HPV) testing increases participation in cervical cancer screening compared to repeat reminder for Pap smear testing among female family practice members who have not previously responded to invitations for Pap testing.
+

@@ -1,0 +1,64 @@
+(fifthQuint)Apps to Reduce the Impact That Adverse Events Among Health Professionals.
+
+ Adverse events (AEs) are the cause of harm and suffering in patients and may also markedly affect the work, family and personal life of health professionals involved, second victims, as well as damaging the reputation of affected health organizations (third victims), by undermining people's trust in these institutions.
+
+ Between 28 and 57% of physicians (79-89% in the case of residents) recognize having being involved in medical error with serious consequences for one or more patients at some point in their career, while 90% believe that in their hospital there is insufficient help and support for professionals following an AE.
+
+ In Spain, extrapolating from national AE data in hospitals and primary care, it has been estimated that 15% of healthcare professionals are involved in this type of event per year.
+
+ Guidelines and recommendations of the role of staff directive of health institutions in the field of the safety of patients have been developed with the aim to reduce the impact of adverse events in the second and third victims.
+
+ The root causes analysis (RCA) and the patient safety certification (PSC) systems following the International Organization for Standardization (ISO) rules are two examples of these interventions in which staff has direct responsibility.
+
+ In this study the investigators design and assess two apps designed for Android and IOS (for iPhone or Ipad) to help staff conducting RCA or implementing PSC.
+
+ To evaluate these Apps the investigators opted for a single-blind experimental design with two groups (control and experimental) and pre- and- post assessments.
+
+ Subjects shall be randomly assigned to the control or experimental group.
+
+ The control group shall compose of subjects who did not use experimental devices, and the experimental group of people used this tool for two months.
+
+ To maintain the single-blind and be able to link the pre- and post- measurements, subjects shall assign codes as a function of their date of birth and initials.
+
+ The investigators randomly select 84 subjects from health districts in Spain who develop directive function.
+
+ Exclusion criteria: less than 3 years of professional experience.
+
+ The sample size was calculated to detect a difference between means of at least of 10 points with a statistical power of 90% at a level of significance of = 0.
+
+05 (in a two-tailed test).
+
+ The investigators requested the informed consent of patients from both control and experimental groups.
+
+ All the participating shall complete a questionnaire to assess patient safety knowledge and culture as well as self-efficacy.
+
+ Those in the control group received oral and written information regarding patient safety certification or Root Cause Analysis.
+
+ Participants in the experimental group were given the apps installed and personalized according to their institution.
+
+ Two months later, the measurements made pre-intervention shall repeat.
+
+ Additionally, subjects from the experimental group also shall ask to evaluate apps (its performance, functionality, usability, reliability, acceptability, usefulness, design, simplicity, accessibility, and problem-solving power as well as overall satisfaction with the tool).
+
+ In order to assess the effectiveness of the apps, we shall build various univariate linear models and, where there were inter-group differences in pre-intervention measurements, performed univariate linear models and ANOVA, using as the dependent variables the differences between the pre- and post-intervention measurements.
+
+.
+
+ Apps to Reduce the Impact That Adverse Events Among Health Professionals@highlight
+
+Adverse events are also the cause of suffering in health professionals involved (second victims).
+
+ This study has the aim of design and evaluates two applications for staff of hospital and primary care settings with the intention of improving their capacity to conduct Root Cause Analysis (RCA) and to help them introducing patient safety certification (PSC).
+
+ A single-blind randomized controlled trial shall conduct with a control and an experimental group (N=84) in both cases.
+
+ The characteristics of both apps shall specify based on the suggestions of health professionals and shall design for Android and IOS (for iPhone or Ipad).
+
+ The randomly subjects in the control group shall receive oral and written information and the experimental group used App for two months.
+
+ Pre- and post- measures shall include: patient safety knowledge and culture and self-perceived capacity to enhance RCA or follow-up PSC.
+
+ In the experimental group, data shall also collect on their previous experience with information and communication technologies, their rating of each App.
+
+ The inter-group intervention effects shall calculate by univariate linear models and ANOVA, with the pre- to post-intervention differences as the dependent variables.
+

@@ -1,0 +1,30 @@
+(fifthQuint)Quality of Life of Non-transplant Candidate Multiple Myeloma Patients Treated With Early Bortezomib.
+
+ Multiple myeloma (MM) is a plasma cell malignancy with progression marked by symptoms and signs of lowered resistance to infection, skeletal destruction, renal failure, and anemia.
+
+ It is incurable and follows a relapsing course, with a median survival of approximately 4-5 years.
+
+ The various therapies associated with disease control, are often associated with significant side effects, and ultimately, patients relapse.
+
+ Therefore, assessment of health-related quality of life (HRQL) represents an important tool for evaluating the value of effective therapies when weighed against the potential toxic effects of treatment from the patient's perspective.
+
+ Patients diagnosed with MM suffer from pain, fatigue, reduced physical and role functioning, and reduced overall HRQL compared with an age- and gender-matched population.
+
+ These symptoms can improve with successful treatment with either cytotoxic therapy or supportive care.
+
+ Many clinical studies for the treatment of multiple myeloma have been conducted in Korea, but none of them have evaluated the improvement in the quality of life in patients with multiple myeloma.
+
+ Most study variables used to evaluate the quality of life of patients with multiple myeloma are subjective and limited.
+
+ This study will observe the degree of the quality of life of patients in the early status of multiple myeloma before and after bortezomib administration by using EORTC-C30 (European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core30) and EQ-5D (EuroQol-5 Dimensions), validated research instruments used to measure the quality of life in cancer patients and consequently will provide fundamental data regarding the quality of life in patients with multiple myeloma.
+
+ Observational Study - No investigational drug administered.
+
+.
+
+ Quality of Life of Non-transplant Candidate Multiple Myeloma Patients Treated With Early Bortezomib@highlight
+
+This study will observe the degree of the quality of life in non-transplant candidate patients with multiple myeloma before and after bortezomib administration by using EORTC-QLQ C30 (European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Core30) and EQ-5D (EuroQol-5 Dimensions).
+
+ Both tools are validated research instruments used to measure the quality of life in cancer patients and consequently will provide fundamental data regarding the quality of life in patients with multiple myeloma by analyzing factors that affect the quality of life.
+

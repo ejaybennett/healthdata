@@ -1,0 +1,28 @@
+(firstQuint)Trismus Trial of Therabite vs Wooden Spatula in Head and Neck Cancer Patients.
+
+ Trismus is defined as a tightening of jaw opening.
+
+ The negative impact of Trismus on the quality of life of head and neck cancer patients is well established.
+
+ It affects eating, drinking, speaking and social function and is often as debilitating as any disfigurement resulting from treatment.
+
+ The use of jaw exercises using a Therabite appliance following treatment has been shown to reduce the level of Trismus in small studies.
+
+ Many UK centres, however, use stacked wooden spatulas inserted between the incisors as a means of passive exercise.
+
+ There is anecdotal evidence that suggests the use of exercises prior to treatment may help reduce the severity of the Trismus experienced by the patient.
+
+ This study will enrol 112 head and neck cancer patients allocated by chance to use either the Therabite or wooden spatula and patients will be asked to perform mouth exercises on a daily basis for 6 months.
+
+ There is a need to evaluate both the clinical effectiveness and cost-effectiveness of Therabite as opposed to wooden spatulas to determine whether they should be adopted as standard care in head and neck cancer patients.
+
+ In this pilot trial, the investigators will measure benefits of Therabite to patients, as compared to usual care with wooden spatulas.
+
+ Mouth opening will be the key outcome for the study.
+
+.
+
+ Trismus Trial of Therabite vs Wooden Spatula in Head and Neck Cancer Patients@highlight
+
+The trial will compare exercises using Therabite(R) versus wooden spatulas to prevent or relieve trismus in patients with stage 3 and 4 oral/oropharyngeal cancer.
+

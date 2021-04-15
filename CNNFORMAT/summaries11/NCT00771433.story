@@ -1,0 +1,32 @@
+(thirdQuint)G-CSF in Preventing Neutropenia in Women Receiving Chemotherapy for Breast Cancer.
+
+ OBJECTIVES: Primary - Evaluate the efficacy of filgrastim (G-CSF) in preventing hematological toxicity in women with breast cancer receiving neoadjuvant or adjuvant chemotherapy.
+
+ Secondary - Compare actual vs theoretical dose intensity.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified according to age ( 65 years) and prior chemotherapy (adjuvant vs neoadjuvant).
+
+ Patients are assigned to 1 of 2 groups.
+
+ - Group 1: Patients receive filgrastim (G-CSF) subcutaneously (SC) once daily on days 6-11 of each course of chemotherapy as primary prophylaxis.
+
+ Chemotherapy courses repeat every three weeks for 3-6 courses.
+
+ - Group 2: Patients receive G-CSF SC once daily on days 6-11 of each course of chemotherapy as primary prophylaxis.
+
+ Chemotherapy courses repeat every three weeks for 3-6 courses.
+
+ Patients may also receive secondary prophylaxis with G-CSF if they experience an episode of neutropenia.
+
+.
+
+ G-CSF in Preventing Neutropenia in Women Receiving Chemotherapy for Breast Cancer@highlight
+
+RATIONALE: G-CSF may prevent or reduce febrile neutropenia in women receiving chemotherapy for breast cancer.
+
+ It is not yet known which G-CSF regimen is more effective in preventing neutropenia.
+
+ PURPOSE: This phase II trial is studying how well G-CSF works in preventing neutropenia in women receiving chemotherapy for breast cancer.
+

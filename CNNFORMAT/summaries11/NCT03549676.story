@@ -1,0 +1,24 @@
+(secondQuint)Fecal Microbiota Transplantation for Treatment of Refractory Graft Versus Host Disease-a Pilot Study.
+
+ Graft-versus-host-disease (GVHD) is a major complication after hematopoietic stem cell transplantation (HSCT).
+
+ Gut is the most vulnerable target organ of acute GVHD.
+
+ Patients who have a gastrointestinal acute GVHD received a first-line standard treatment of corticosteroids.
+
+ For patients who do not respond or progress after an initial response have a high mortality.
+
+ Therefore, the investigation of effective second line therapy for these patients are in need.
+
+ The study evaluates safety and efficacy of fecal microbiota transplantation (FMT) for the treatment of refractory GVHD of the gut.
+
+ FMT might be a beneficial treatment in this clinical situation with a poor prognosis and limited therapeutic options.
+
+.
+
+ Fecal Microbiota Transplantation for Treatment of Refractory Graft Versus Host Disease-a Pilot Study@highlight
+
+The study evaluates safety and efficacy of fecal microbiota transplantation (FMT) for the treatment of refractory graft-versus-host-disease (GVHD) of the gut.
+
+ FMT might be a beneficial treatment in this clinical situation with a poor prognosis and limited therapeutic options.
+

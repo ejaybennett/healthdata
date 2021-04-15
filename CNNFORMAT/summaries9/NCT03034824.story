@@ -1,0 +1,106 @@
+(fifthQuint)Effects of Er,Cr:YSGG, Diode Lasers on GCF Cytokines Levels.
+
+ A total of 26 individuals were included in our study.
+
+ Diagnoses were made after the clinical and radiographic examinations on patients who applied to the Yuzuncu Yil University Faculty of Dentistry, Department of Periodontology Clinics in 2014-2015.
+
+ It was ensured that the individuals who were included in the study did not have any systemic diseases; were not menopausal, pregnant or lactating; had not used antibiotics or any other medication affecting the immune system in the previous six months; were non-smokers; had at least 16 teeth in their mouth; and had not received any periodontal treatment in the previous 6 months.
+
+ The subjects involved in the study were told the aim and content of the study by a clinician, and they signed an approval form stating that they voluntarily participated in the survey.
+
+ Each individual read the Helsinki Declaration before joining the study.
+
+ The Human Ethics Research Committee of Yuzuncu Yil University (no.
+
+B.
+
+30.
+
+2.
+
+YYU.
+
+0.
+
+01.
+
+00.
+
+00/44-100912) gave the approval to carry out the study.
+
+ The including criteria were applied in diagnosing generalized aggressive periodontitis (International Workshop for Classification of Periodontal Diseases in 1999).
+
+ Clinical periodontal assessments, including periodontal status, were conducted by measuring the bleeding on probing (BOP), plaque index (PI), gingival index (GI), probing pocket depth (PPD) and clinical attachment level (CAL) at 6 sites per tooth by another clinician.
+
+ The clinical periodontal indices measured during the research were evaluated site-specifically by including the mesial and distal of those teeth from which GCF samples were obtained.
+
+ All individuals received non-surgical initial periodontal treatment.
+
+ At the baseline of the study all quadrants were shown the similarity of periodontal disease.
+
+ The procedures outlined below were applied to all individuals in the study in randomly selected three different quadrants.
+
+ The study was designed as a "split-mouth" study.
+
+ 1.
+
+ Only SRP group (SRP-Control) 2.
+
+ SRP+Er,Cr:YSGG laser group (SRP+Er,Cr:YSGG) 3.
+
+ SRP+94015 nm diode laser group (SRP+Diode) GCF sample sites were selected after probing measurements were taken.
+
+ The GCF samples were collected at the baseline of the study and on the 3rd month following treatment.
+
+ The GCF samples were taken from the deepest pocket in all quadrants.
+
+ The samples were collected with paper strips (Periopaper Oraflow, NewYork, USA) that were cut in standard size.
+
+ Before the sampling procedure, supragingival plaque was removed and then the sites were isolated from saliva with sterile buffer and sterile cotton rolls.
+
+ The sampled tooth surfaces were dried by slightly blowing air on them.
+
+ The paper strips were inserted until a light resistance in the sulcus was felt, and they were left there for 30 seconds.
+
+ The strips that were contaminated with blood were not included in the evaluation.
+
+ The fluid amount was measured by a Periotron device (Periotron 8000, Oraflow, NewYork, USA) and was converted to GCF volume in ml units.
+
+ The four strips which were obtained from every patient were placed into individual Eppendorf tubes, each of which contained 500 1/2l of liquid (Phosphate Buffer Saline (PBS)-pH 7.
+
+4) and a paper strip and were stored at -80o C.
+
+ SRP was first performed to the control quadrants of the individuals diagnosed with GAgP; following the SRP procedure, the Er,Cr:YSGG laser was applied.
+
+ The 94015 nm diode laser was applied prior to SRP, unlike the Er,Cr:YSGG laser (to prevent changing the diode laser efficiency following bleeding).
+
+ In the study, the Er,Cr:YSGG laser (Waterlase, Biolase, Irvine, CA, USA) and the 94015 nm diode laser (Ilase, Biolase, Irvine, CA, USA) were used.
+
+ For the Er,Cr:YSGG laser, a 14-mm Z-6 tip (600 1/2m fiberoptic tip, suitable for periodontal use) marked to the depth of the pocket was used at a setting of 10 Hz, 1.
+
+5 W (150 mJ), 65% air, 55% water with H mode, 140 1/2s pulse length.
+
+ The total irradiation time was 30 s.
+
+ The 94015 nm diode laser with MZ6-14 mm standard tip was used at a setting in continuous wave mode.
+
+ The irradiation times for 94015 nm diode laser were adjusted to 20 s.
+
+ The TNF-, IL-1 and IL-8 analysis in GCF was conducted through the ELISA method by means of commercial ELISA kits.
+
+.
+
+ Effects of Er,Cr:YSGG, Diode Lasers on GCF Cytokines Levels@highlight
+
+The aim of our study is to determine the interleukin-1eta (IL-1), interleukin-8 (IL-8) and tumor necrosis factor-lfa (Tnf-) levels in gingival crevicular fluid (GCF) and clinical periodontal parameters following the treatment with Erbium,Chromium:Yttrium-Scandium-Gallium-Garnet (Er,Cr:YSGG) and diode lasers in adjunct to scaling and root planing (SRP) in patients with generalized aggressive periodontitis (GAgP).
+
+ Twenty-six patients with GAgP (n=26) were enrolled in the study.
+
+ The study was designed as a "split-mouth" study.
+
+ In each patient, three quadrants were randomly determined as SRP-control, SRP+Er,Cr:YSGG and SRP+Diode laser.
+
+ Clinical periodontal measurements were recorded at the baseline and third month after the treatment.
+
+ Cytokines levels in GCF were determined by enzyme-linked immunosorbent assay (ELISA).
+

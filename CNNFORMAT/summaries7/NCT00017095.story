@@ -1,0 +1,80 @@
+(fifthQuint)Biomarker (p53 Gene) Analysis and Combination Chemotherapy Followed by Radiation Therapy and Surgery in Treating Women With Large Operable or Locally Advanced or Inflammatory Breast Cancer.
+
+ OBJECTIVES: Primary - Compare neoadjuvant fluorouracil, epirubicin, and cyclophosphamide vs docetaxel and epirubicin followed by radiotherapy and surgery in women with locally advanced, inflammatory, or large operable breast cancer.
+
+ - Assess overall differences between the two arms.
+
+ - Assess interaction between p53 status and outcomes in each arm.
+
+ - Compare the progression-free survival of patients treated with these regimens.
+
+ Secondary - Compare the distant metastasis-free survival and survival of patients treated with these regimens.
+
+ - Compare the clinical and pathological responses to these regimens in these patients.
+
+ - Compare the toxicity of these regimens in these patients.
+
+ Translational - Determine the p53 status in order to study the treatment effect in each of the p53 subgroups and test the interaction between treatment and p53 status.
+
+ - Assess the level of agreement between p53 assessment by IHC method and functional test in yeast.
+
+ - Evaluate the prognostic and predictive value of "high risk" p53 mutations.
+
+ - Perform a survival analysis according to gene clusters defined with the use of microarrays.
+
+ OUTLINE: This is a randomized, multicenter study.
+
+ Patients are stratified according to stage of disease (large T2-3 vs locally advanced or inflammatory), p53 status (negative vs positive vs unknown), and participating center.
+
+ Patients are randomized to 1 of 2 chemotherapy treatment arms.
+
+ - Arm I (non-taxane arm): Patients receive 1 of 3 chemotherapy regimens comprising fluorouracil, epirubicin, and cyclophosphamide (FEC) (according to participating institution).
+
+ - FEC 100: Patients receive fluorouracil IV over 15 minutes, epirubicin IV over 1 hour, and cyclophosphamide IV over 1 hour on day 1.
+
+ Treatment repeats every 3 weeks for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ - Canadian FEC: Patients receive oral cyclophosphamide on days 1-14 and epirubicin IV and fluorouracil IV on days 1 and 8.
+
+ If oral medications are not tolerated, patients may switch to cyclophosphamide IV on days 1 and 8.
+
+ Treatment repeats every 4 weeks for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ - Tailored FEC: Patients receive fluorouracil IV over 15 minutes, epirubicin IV over 1 hour, and cyclophosphamide IV over 1-2 hours on day 1.
+
+ Patients also receive filgrastim (G-CSF) subcutaneously on days 2-15 or until blood counts recover.
+
+ Treatment repeats every 3 weeks for 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ - Arm II (taxane arm): Patients receive docetaxel IV over 1 hour on days 1, 22, and 43 followed by epirubicin IV over 15 minutes and docetaxel IV over 1 hour on days 64, 85, and 106 in the absence of disease progression or unacceptable toxicity.
+
+ Following chemotherapy, patients may undergo loco-regional therapy comprising radiotherapy with or without breast conservation surgery or mastectomy.
+
+ Patients with estrogen- and/or progesterone-receptor-positive disease also receive tamoxifen or an aromatase inhibitor for 5 years.
+
+ Two tumor samples (incisional or tricut biopsies) are taken before chemotherapy.
+
+ Samples are analyzed by IHC, a functional test in yeast, and microarray analysis.
+
+ Patients are followed every 3 months for 1 year, every 4 months for 1.
+
+5 years, and then every 6 months thereafter.
+
+ PROJECTED ACCRUAL: A total of 1,850 patients will be accrued for this study within 5.
+
+5 years.
+
+.
+
+ Biomarker (p53 Gene) Analysis and Combination Chemotherapy Followed by Radiation Therapy and Surgery in Treating Women With Large Operable or Locally Advanced or Inflammatory Breast Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy work in different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Currently patients with breast cancer are treated with one of several very similar combinations of drugs.
+
+ Analysis of biomarkers in tumor tissue may help doctors predict how well patients with breast cancer will respond to treatment and help doctors choose the best drug regimen to treat each patient.
+
+ PURPOSE: This randomized phase III trial is studying giving different regimens of chemotherapy and comparing how well they work in treating women with large operable or locally advanced or inflammatory breast cancer.
+
+ This study is also looking at whether analyzing a specific biomarker (p53) in tumor tissue may help doctors predict how well patients will respond to treatment and help doctors choose the best drug to treat each patient.
+

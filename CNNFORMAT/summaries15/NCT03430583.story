@@ -1,0 +1,12 @@
+(firstQuint)Evaluation of Fontan-Associated Liver Disease.
+
+ This is open-label, long-term prospective study in a cohort of Fontan subjects taking drug daily for one year.
+
+ The study will determine the scope of hepatic stiffness in the cohort by ultrasound and magnetic resonance imaging elastography and evaluate MZ101 pharmacotherapy as a potentially efficacious treatment to reduce liver stiffness.
+
+.
+
+ Evaluation of Fontan-Associated Liver Disease@highlight
+
+A study to evaluate the efficacy of MZ101 therapy in reducing liver stiffness.
+

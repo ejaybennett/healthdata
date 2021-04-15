@@ -1,0 +1,38 @@
+(secondQuint)Arsenic Trioxide in Treating Women With Locally Advanced or Metastatic Breast Cancer.
+
+ OBJECTIVES: Primary - Determine the safety and activity of arsenic trioxide in women with locally advanced or metastatic breast cancer.
+
+ - Determine the qualitative and quantitative toxic effects of this drug in these patients.
+
+ Secondary - Determine the response, in terms of objective tumor response and response duration, in patients treated with this drug.
+
+ - Determine the patterns of failure and survival in patients treated with this drug.
+
+ OUTLINE: This is a pilot study.
+
+ Patients receive arsenic trioxide IV over 1-2 hours on days 1-5 of week 1 and on days 1 and 5 of weeks 2-8 (for course 1 only).
+
+ Beginning with course 2 and for all subsequent courses, patients receive arsenic trioxide on days 1 and 5 of weeks 1-8.
+
+ Treatment repeats every 8 weeks for up to 6 courses in the absence of disease progression or unacceptable toxicity.
+
+ Patients who have a complete response (CR) receive an additional course beyond documentation of CR.
+
+ Patients who have a CR due to local consolidative therapy (e.
+
+g.
+
+, surgery or radiotherapy) receive an additional 2 courses beyond CR.
+
+ Patients are followed for 1 month, every 3 months for 2 years, every 6 months for 3 years, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 14-30 patients will be accrued for this study within 9-24 months.
+
+.
+
+ Arsenic Trioxide in Treating Women With Locally Advanced or Metastatic Breast Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as arsenic trioxide, use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ PURPOSE: This phase II trial is studying how well arsenic trioxide works in treating women with locally advanced or metastatic breast cancer.
+

@@ -1,0 +1,14 @@
+(firstQuint)Efficacy and Safety of an Infant Formula With Milkfat and Prebiotics.
+
+ An experimental infant formula with added prebiotics (GOS) and with a higher content of palmitic acid esterified in beta-position is to be tested in a double-blinded randomized controlled trial.
+
+ The addition of prebiotics to an infant formula should favor growth of a beneficial bifidogenic intestinal flora and have positive effects on immunity, promote softer stool formation and short chain fatty acid content in the stools.
+
+ Higher proportion of beta-palmitic acid esterified in 2nd position of the triglyceride should reduce formation of fatty acid-calcium soaps in the stools and promote calcium and fat absorption in the gut, therfor reduce symptoms of constipation and colics.
+
+.
+
+ Efficacy and Safety of an Infant Formula With Milkfat and Prebiotics@highlight
+
+The purpose of this clinical trial is to evaluate the effect of a new infant starter formula with added prebiotics (GOS) and with a fat blend rich in beta-palmitate.
+

@@ -1,0 +1,44 @@
+(fifthQuint)Safety/Immunogenicity/Genetic Drift of MP-12 Rift Valley Fever Vaccine.
+
+ Rift Valley Fever (RVF) is a mosquito-borne disease in Africa that affects both humans and animals.
+
+ The disease poses a significant endemic disease threat, and the etiologic agent (RVF virus) possesses physical and biochemical characteristics that have resulted in its classification as a Category A Agent.
+
+ Historically, this disease was confined to Africa.
+
+ In September 2000, however, RVF appeared in the western part of the Kingdom of Saudi Arabia (843 cases with 114 deaths) and in Yemen (1,087 suspected cases with 121 deaths).
+
+ It is thought that Rift Valley fever was introduced into this new geographic area through importation of infected livestock from Djibouti.
+
+ Mosquito transmission has been subsequently demonstrated in these areas, suggesting that the disease may have become permanently established.
+
+ A safe and effective RVF vaccine capable of inducing protective immunity after a single injection is urgently needed.
+
+ Currently, no drug is available that will alter the course of the disease in humans or animals, nor is any licensed vaccine for RVF approved for human use.
+
+ This protocol is an open-label, Phase II study to assess the safety, immunogenicity and genetic stability of RVF MP-12 vaccine in humans.
+
+ The objectives of this study are to collect safety and immunogenicity data for an intramuscular (IM) injection of live, attenuated, mutagenized RVF 12th mutagenesis passage (MP-12) vaccine and characterize isolates of the Rift Valley fever (RVF) MP-12 vaccine recovered from blood of vaccinated volunteers using in vitro systems to evaluate genetic stability.
+
+ A total of 20 volunteers will be recruited from among military and civilian persons at and around USAMRIID and from the general population in and around Frederick, Maryland, who expect to remain in the area for the duration of the study.
+
+ Volunteers will be vaccinated with undiluted RVF MP-12 vaccine.
+
+ Safety will be evaluated by recording the frequency and severity of clinical reactions to the vaccine, as well as by measuring complete blood counts and selected serum biochemistry (enzyme) values.
+
+ Immunogenicity will be evaluated by measuring 80% plaque reduction neutralization (PRNT80) antibodies to RVF virus for periods up to 1 year following vaccination.
+
+ Genetic stability of the vaccine will be evaluated by examining isolates recovered from blood of vaccinated volunteers by molecular sequencing techniques, and comparing these findings with those from the vaccine virus inoculum.
+
+ Subjects will participate in the study for up to 1 year.
+
+.
+
+ Safety/Immunogenicity/Genetic Drift of MP-12 Rift Valley Fever Vaccine@highlight
+
+This study is to determine if a vaccine for Rift Valley Fever (RVF) is safe to give to humans.
+
+ The study will examine how well the vaccine (RVF MP-12) stimulates the body's immune response (which fights off infection) and if the vaccine is stable or if the virus used to make the vaccine changes into a different form once injected into the body.
+
+ Twenty healthy volunteers (18-50 years old) will be vaccinated with a single dose of undiluted RVF MP-12, injected into a muscle.
+

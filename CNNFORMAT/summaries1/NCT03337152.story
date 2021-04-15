@@ -1,0 +1,28 @@
+(fifthQuint)Assessing a Risk Model for G6PD Deficiency.
+
+ Open label, randomized trial with 72 total participants assigned to one of two treatment arms.
+
+ Each arm will have 36 participants comprised of 12 males hemizygous for wildtype G6PD, 12 females homozygous for wildtype G6PD, and 12 females heterozygous for G6PD with a normal fluorescent spot test (FST) (G6PD genotype abnormal with G6PD activity 40% and 80% of normal).
+
+ Arm 1a will receive primaquine for 14 days, and Arm 1b will receive chloroquine for 3 days and concomitant primaquine for 14 days.
+
+ All participants will be healthy volunteers without severe G6PD deficiency who will be followed for two weeks after completing their study drug dosing.
+
+ Pregnant women and those breastfeeding will be excluded.
+
+ Venous blood samples will be taken at regular intervals for haematologic measures, G6PD quantification, and drug level assays.
+
+ G6PD levels will be measured both by spectrophotometry to provide whole blood G6PD levels normalized for hemoglobin, as well by flow cytometry to to provide red blood cell G6PD distributions throughout the treatment and post treatment.
+
+ Changes in the G6PD distributions will be modeled, incorporating other critical haematological indicators collected throughout the study too.
+
+.
+
+ Assessing a Risk Model for G6PD Deficiency@highlight
+
+A clinical study designed to develop and inform an individual risk of hemolysis model based on individual red blood cell G6PD levels.
+
+ Volunteers who are eligible to treatment with primaquine as per national guidelines and with confirmed normal G6PD levels as per the fluorescent spot test will be exposed to treatment regimens of either primaquine alone for 14 days or 3 day chloroquine with concomitant primaquine for 14 days.
+
+ The volunteers will be followed intensively during treatment and for 14 days after treatment for haematologic measures, G6PD quantification, and drug level assays.
+

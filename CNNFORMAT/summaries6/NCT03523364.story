@@ -1,0 +1,13 @@
+(firstQuint)Survival Rate of All Ceramic Restorations Treated With Air-Water-Blasting Protocol.
+
+ A retrospective study on ceramic restorations, placed in the period 2003-2014, will be performed to assess the survival rate of all-ceramic restorations cemented adhesively.
+
+ The effectiveness of cementation largely depend on the method used.
+
+ The Air-Water-blasting performed prior to conventional acid-etch of dental tissues offers an increase in bond strength compared to the conventional etching technique.
+
+.
+
+ Survival Rate of All Ceramic Restorations Treated With Air-Water-Blasting Protocol@highlight
+
+This study evaluates retrospectively the survival rate of all-ceramic restorations, cemented using AWB technique (test) compared to those cemented with conventional technique (control)

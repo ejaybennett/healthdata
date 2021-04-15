@@ -1,0 +1,30 @@
+(secondQuint)Web-based Lifestyle Trial Among Men With Prostate Cancer: Prostate 8.
+
+ This is a PI-initiated, randomized, unblinded, clinical trial of a technology-based 3 month lifestyle intervention vs.
+
+ usual care among men with low risk prostate cancer.
+
+ We will recruit and consent 76 men with prostate cancer at UCSF.
+
+ The subjects will be asked to complete questionnaires, 7 days accelerometer measurement, body measurements (weight, waist, hip, pulse, blood pressure) and collection of blood specimen at baseline and 3 months.
+
+ Subjects will be randomized into two arms (Intervention Group and Control Group).
+
+ The Intervention Group (N=38) will have access to the lifestyle website and an activity monitor (e.
+
+g.
+
+, Fitbit), receive text messages, and be provided with individualized lifestyle recommendations.
+
+ The Control Group (N=38) will have standard of care and be asked to continue with their usual lifestyle habits.
+
+ They will receive access to the lifestyle website and be provided with individualized lifestyle recommendations at 3 months.
+
+.
+
+ Web-based Lifestyle Trial Among Men With Prostate Cancer: Prostate 8@highlight
+
+A randomized controlled trial of a technology-based lifestyle intervention vs.
+
+ usual care among men with low-risk prostate cancer to determine the acceptability and feasibility of the intervention and the effect of the intervention on behavior change related to exercise, diet, and not smoking.
+

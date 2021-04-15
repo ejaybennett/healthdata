@@ -1,0 +1,28 @@
+(thirdQuint)Intrathecal Administration of Levobupivacaine and Opioids in Elderly.
+
+ Hypotension and bradycardia are the most common adverse hemodynamic effects associated with spinal anesthesia, with particular frequency among the elderly.
+
+ These complications are more hazardous in the elderly because they may have decreased physiological reserves and compromised blood supply to various vital organs.
+
+ Hypotension is mainly related to the spinal anesthesia block height.
+
+ One approach to improve hemodynamic stability is to use smaller doses of local anesthetic ( 10 mg of Levobupivacaine).
+
+ Another concern about smaller dose of local anesthetic is the inadequate duration of sensory anesthesia.
+
+ Therefore, small dose of local anesthetic need to be combined with opioids (Fentanyl or Sufentanil).
+
+ However, intrathecal opioids are associated with several side effects such as pruritis, nausea, vomiting, shivering and respiratory depression.
+
+ This will be the first comparative study of two small doses of Levobupivacaine (6 and 8 mg) combined using intrathecal Fentanyl (F, 25 and 35 mcg) or Sufentanil (S, 5 and 7 mcg) compared with large dose of Levobupivacaine alone (12 mg) in spinal anesthesia.
+
+ The study will be conducted to assess the impact of a 10 independent variables (dose and combination of Levobupivacaine with Fentanyl or Sufentanil, age, basal systolic blood pressure (SBP), basal mean arterial pressure (MAP), time to lowest spinal SBP, upper limit of sensory block (dermatome level), time intervals of sensory recovery for two consecutive dermatome level (two-segment regression), time intervals of sensory recovery to the twelfth thoracic dermatoma (T12 regression), time intervals of sensory recovery to the first sacral dermatoma (S1 regression) and Body Mass Index) on the likelihood of not developing hypotension after intrathecal injection.
+
+ The goal of the study is to find an optimal dose and combination of Levobupivacaine and Fentanyl or Sufentanil with the highest probability of not developing the hypotension as well as with the lowest opioid side effect that would be potent enough in achieving and maintaining a sensory block at T10 level for surgery lasting more than 45 minutes in elderly patients.
+
+.
+
+ Intrathecal Administration of Levobupivacaine and Opioids in Elderly@highlight
+
+To find the optimal dose and combination of small dose of Levobupivacaine (LB) coadministered intrathecally with Fentanyl (F) or Sufentanil (S) with the highest probability for not developing hypotension and the lowest opioid side effect that would be sufficient to achieve and maintain a sensory block to the tenth thoracic dermatoma (T10) in elderly patients for surgery lasting > 45 minutes as compared with large dose of Levobupivacaine alone.
+

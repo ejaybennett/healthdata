@@ -1,0 +1,28 @@
+(secondQuint)Cholecalciferol and Genistein Before Surgery in Treating Patients With Early Stage Prostate Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine differences in prostate tissue steady state concentrations of calcitriol in participants treated with a single dose cholecalciferol (200,000 IU) and G-2535 (which provides 600 mg of genistein) and those receiving placebo.
+
+ SECONDARY OBJECTIVES: I.
+
+ To determine the effect of each intervention arm and resulting prostate tissue levels of calcitriol on down-stream related biomarkers and related mechanistic pathways in blood and tissue.
+
+ OUTLINE: Patients are randomized to 1 of 2 treatment arms.
+
+ ARM I: Patients receive cholecalciferol orally (PO) on day 1 and genistein PO once daily (QD) on days 1-21 or 1-28.
+
+ Patients then undergo prostatectomy.
+
+ ARM II: Patients receive placebo PO on day 1 and placebo PO QD on days 1-21 or 1-28.
+
+ Patients then undergo prostatectomy.
+
+.
+
+ Cholecalciferol and Genistein Before Surgery in Treating Patients With Early Stage Prostate Cancer@highlight
+
+This randomized phase II trial studies cholecalciferol and genistein compared to placebo in treating patients with early stage prostate cancer.
+
+ Cholecalciferol and genistein may slow the growth of cancer cells and may be an effective treatment for prostate cancer.
+

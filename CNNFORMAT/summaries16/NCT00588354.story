@@ -1,0 +1,20 @@
+(secondQuint)Epidural Clonidine for Lumbosacral Radiculopathy.
+
+ Patients with approximately 3 months of low back pain and leg pain due to intervertebral disc herniation were randomized to transforaminal epidural injections of 2% lidocaine and either clonidine (200 or 400 micrograms) or triamcinolone (40 mg) (corticosteroid).
+
+ Patients received one to three injections administered at about 2 weeks apart.
+
+ Patients, investigators, and study coordinators were blinded to the treatment.
+
+ The primary outcome was an 11-point Pain Intensity Numerical Rating Scale at 1 month.
+
+ The hypothesis was that clonidine will be as effective as steroid for this condition.
+
+.
+
+ Epidural Clonidine for Lumbosacral Radiculopathy@highlight
+
+This was a randomized, blinded study of transforaminal epidural injection of clonidine versus a similar injection of corticosteroid for acute lumbosacral radiculopathy.
+
+ The hypothesis was that clonidine will be as effective as steroid for this condition.
+

@@ -1,0 +1,18 @@
+(secondQuint)Anti-OX40 Antibody (MEDI6469) in Patients With Metastatic Colorectal Cancer.
+
+ There will be three distinct cohorts of patients which will vary the timing of the MEDI6469 dose, starting three weeks before surgery and decreasing the interval before surgery by one week with each cohort, as long as no dose-limiting toxicity attributable to the anti-OX40 are observed.
+
+ Immunohistochemistry will be used to measure the immune cells within primary and metastatic tumors when resected tissue is available, and surgically ablated tumors, giving each specimen an "immune score".
+
+ The primary endpoint of the study will be the difference in immune scores of patients treated with anti-OX40 compared to historical controls (immune scores of untreated patients).
+
+ Secondary endpoints will include both clinical (survival) and immunological data (specific measurements of immune cell populations based on flow cytometry and immunohistochemistry).
+
+.
+
+ Anti-OX40 Antibody (MEDI6469) in Patients With Metastatic Colorectal Cancer@highlight
+
+This study will test the ability of an immune modulator, anti-OX40 (MEDI6469) to alter the immune cell environment within colorectal cancer metastases.
+
+ The drug will be administered to patients before surgical treatment.
+

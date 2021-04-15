@@ -1,0 +1,18 @@
+(firstQuint)Glycemic Index and Polyphenol Bioavailability of Potatoes.
+
+ Ten healthy persons will have a fasting blood sample drawn and asked to randomly consume a 50g glucose drink (2 occasions), or 50g carbohydrate equivalent of cooked purple, red, yellow and white potatoes.
+
+ Further blood samples will be obtained at 15,30, 45, 60, 90, 120, 180, 240 mins.
+
+ Bloods from the first 2 hours will be analyzed for glucose and insulin to determine the glycemic response.
+
+ Hourly blood samples will be analyzed for polyphenol to determine the bioavailability of polyphenols from the different potato variety.
+
+ Urine samples will be collected before ingestion of the food items and again at 4 hours, and will be used to determine polyphenol bioavailability.
+
+.
+
+ Glycemic Index and Polyphenol Bioavailability of Potatoes@highlight
+
+The purpose of this study is to determine the glycemic index of four varieties of potatoes and to determine the bioavailability of polyphenols contained in these potatoes.
+

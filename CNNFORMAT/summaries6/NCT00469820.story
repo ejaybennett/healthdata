@@ -1,0 +1,26 @@
+(fifthQuint)Vaccine Therapy With or Without Donor Lymphocyte Infusion in Treating Patients With Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, or Multiple Myeloma Undergoing Donor Stem Cell Transplant.
+
+ OBJECTIVES: - Determine time to relapse and overall survival of patients with high-risk acute myeloid leukemia, acute lymphoblastic leukemia, or multiple myeloma treated with autologous tumor cell vaccine with or without donor lymphocyte infusion after HLA-matched related sibling nonmyeloablative hematopoietic stem cell transplantation.
+
+ - Evaluate the safety and tolerability of this regimen in these patients.
+
+ - Determine the maximum tolerated dose of donor lymphocyte infusions in these patients.
+
+ OUTLINE: Patients undergo collection of tumor cells for production of the cancer cell vaccine and then undergo HLA-matched related sibling nonmyeloablative hematopoietic stem cell transplantation (HSCT).
+
+ Patients then receive cancer cell vaccine with or without donor lymphocyte infusion.
+
+ The donor lymphocytes are obtained from the same relative who donated stem cells for the HSCT.
+
+ PROJECTED ACCRUAL: A total of 30 patients will be accrued for this study.
+
+.
+
+ Vaccine Therapy With or Without Donor Lymphocyte Infusion in Treating Patients With Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, or Multiple Myeloma Undergoing Donor Stem Cell Transplant@highlight
+
+RATIONALE: Vaccines made from the patient's cancer cells may help the body build an effective immune response to kill cancer cells.
+
+ Giving vaccine therapy together with donor lymphocyte infusion after a stem cell transplant from the patient's brother or sister may kill any cancer cells that remain after transplant.
+
+ PURPOSE: This clinical trial is studying the side effects, best dose, and how well vaccine therapy with or without donor lymphocyte infusion works in treating patients with acute myeloid leukemia, acute lymphoblastic leukemia, or multiple myeloma undergoing donor stem cell transplant.
+

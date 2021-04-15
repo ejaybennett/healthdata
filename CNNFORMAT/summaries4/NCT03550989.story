@@ -1,0 +1,16 @@
+(firstQuint)Real-Life Passive Exposure Assessment of IQOS.
+
+ The purpose of the study is to show that Non-Smokers, exposed to environmental tobacco aerosol from IQOS in a restaurant setting, do not have higher urinary levels of Biomarkers of Exposure (BoExp) to selected Harmful and Potentially Harmful Constituents (HPHCs), representative of Environmental Tobacco Smoke (ETS), compared to the urinary levels of BoExp measured in Non-Smokers before IQOS environmental tobacco aerosol exposure.
+
+ Furthermore, the impact of passive exposure to IQOS environmental tobacco aerosol on IQOS Users and Cigarette Smokers, not using any tobacco or nicotine-containing products, will be investigated.
+
+ This will enable the assessment of individuals with varying levels of exposure to HPHCs and determine whether there is any measurable additional exposure from IQOS.
+
+ The study will also evaluate Indoor Air Quality (IAQ) through the assessment of concentrations of selected HPHCs representative of tobacco-specific and IAQ markers in the air during exposure and non-exposure periods in a real-life restaurant setting.
+
+.
+
+ Real-Life Passive Exposure Assessment of IQOS@highlight
+
+This study is a non-interventional observational study designed to assess the impact of passive exposure to IQOS environmental tobacco aerosol in Non-Smokers in a real-life restaurant setting.
+

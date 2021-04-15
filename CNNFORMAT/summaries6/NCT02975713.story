@@ -1,0 +1,18 @@
+(firstQuint)Progesterone Diurnal Rhythm During Ovarian Stimulation for IVF.
+
+ The primary aim of this study is to determine the circadian rhythm of progesterone in a stimulated cycle.
+
+ Sample size calculations show that the study needs to recruit 10 women to show any significant differences in progesterone secreted in the morning at 8 am compared to that secreted in the evening at 8 pm.
+
+ We have increased the number of participants to 12 in order to compensate for any possible drop outs.
+
+ The hormones FSH, LH, Progesterone and Estradiol will be measured at days 2/3, 8, 10 and 12 of a normal and stimulated cycle so that each patient serves as her own control.
+
+ This study will provide the basis to establish the optimal blood sampling time for progesterone measurement and to more accurately determine the cut-off level for progesterone for favourable pregnancy outcomes in ART.
+
+.
+
+ Progesterone Diurnal Rhythm During Ovarian Stimulation for IVF@highlight
+
+To evaluate the influence of circadian rhythm on progesterone levels during follicular phase of natural cycle and during follicular phase of controlled ovarian stimulation during IVF.
+

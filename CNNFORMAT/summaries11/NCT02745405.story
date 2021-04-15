@@ -1,0 +1,18 @@
+(secondQuint)Implications of Wearing a Fat Suit.
+
+ The goal of this study was to understand how embodying a stigmatized domain might elicit the same consequences investigators see in victims of weight stigma.
+
+ Participants were randomly assigned to either manipulate their weight through wearing a fat suit prosthesis or to a control condition where they wore the same clothing that was on the fat suit but in their own size.
+
+ Outcome variables were cortisol reactivity, psychological well-being, and food and drink consumption.
+
+ Additionally, this study tested whether wearing the fat suit might serve as an effective weight stigma reduction effort.
+
+.
+
+ Implications of Wearing a Fat Suit@highlight
+
+This study examined how wearing a fat suit might lead individuals to experience the negative effects of weight based stigmatization, including psychological, behavioral, and physiological consequences.
+
+ It also aimed to test using the fat suit as a possible intervention tactic to reduce weight stigma.
+

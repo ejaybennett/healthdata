@@ -1,0 +1,20 @@
+(thirdQuint)Environmental Assessment of Sleep in Youth.
+
+ Investigators are doing a research study to gather information to help better understand why snoring and sleep problems are so common in the community, and how the home and neighborhood environment impacts sleep in children.
+
+ Investigators want to know if factors such as the quality of air, household dust, environmental noise, and family routines impact sleep and other health and behavioral factors associated with sleep.
+
+ Investigators want to test how sleep is influenced by factors such as: the quality of air inside and outside the child's home (including measuring pollution, second hand smoke, and dust); temperature and humidity; family routines and interactions; and characteristics of the home.
+
+ Investigators will ask participants to come in for a one time visit for undergoing procedures as well as answering questions regarding general health, asthma and sleep.
+
+ 10% of the participating children will have a second home assessment and sleep monitoring procedures performed 6 months after the initial home assessment.
+
+.
+
+ Environmental Assessment of Sleep in Youth@highlight
+
+In this research study, investigators want to learn more about the factors that influence children's breathing during sleep and their sleep quality.
+
+ Specifically, investigators are interested in factors that are related to risk of snoring, sleep apnea (a condition where breathing stops during sleep), and poor sleep quality.
+

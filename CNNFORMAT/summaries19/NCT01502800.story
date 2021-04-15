@@ -1,0 +1,59 @@
+(secondQuint)Clinical Trial of ARQ 761 in Advanced Solid Tumors.
+
+ This is an open label, dose escalation study of ARQ 761.
+
+ Drug administration regimen was designed in two parts.
+
+ Part I is a single-arm, non-randomized dose-escalation study.
+
+ Part II is a multi-arm, randomized dose-escalation study.
+
+ It is designed to establish the clinical tolerability and MTD of ARQ 761 and a recommended Phase 2 dose (RP2D).
+
+ This is the first-in-human study with ARQ 761.
+
+ PART I ARQ 761 will be administered intravenously at a starting dose of 195 mg/m2 IV once weekly.
+
+ A cycle for any patient already enrolled will consist of weekly administration of ARQ 761 with cycles repeated every 4 weeks (28 days).
+
+ PART II Alternate dosing regimen of ARQ 761 will be evaluated at a starting dose of 390 mg/m2.
+
+ ARQ 761 will be administered intravenously at the assigned duration (2 h or 3 h) weekly, biweekly or for two consecutive weeks followed by one week of rest.
+
+ Patient will be randomized to Arm A, B or C after enrollment.
+
+ Depending on toxicities observed, up to seven treatment cohorts will be enrolled with dose escalation occurring by doubling (first escalation) and 40% increments thereafter.
+
+ If dosing is tolerated at all levels and pharmacokinetic data suggest continued escalation is warranted, additional dose levels will be considered.
+
+ Patients enrolled and assessed for dose limiting toxicities (DLTs) will be eligible for intra-patient dose escalation.
+
+ Pharmacokinetic assessments will be performed on the first and the forth infusion days following the different regimen to maintain continuity among all treatment groups.
+
+ Safety and tolerability of ARQ 761 will be assessed for the duration of study treatment.
+
+ Evaluation of potential anti-tumor activity of ARQ 761 will be performed at regular intervals while patients remain on study.
+
+ Dose escalation of ARQ 761 will proceed until the maximum tolerated dose or recommended Phase 2 dose is reached.
+
+ Intra-patient escalation from lower dose levels to successfully administered dose levels will be allowed.
+
+ In order for patients at lower dose levels to be eligible for dose escalation, they must tolerate therapy without experiencing any DLT.
+
+ In addition, prior to escalation, a complete cohort of three patients must have completed two cycles of therapy at the higher dose level without experiencing any DLTs.
+
+ Patients receiving doses of ARQ 761 may be escalated a maximum of two times to the next consecutive cohorts.
+
+ Subjects will be enrolled according to a 3+3 dose escalation scheme.
+
+ Treatment will be staggered such that the first patient treated at each dose level will receive his or her initial infusion at least 1 week prior to subsequent patients in the same cohort.
+
+ At least 3 patients within a dose cohort must complete the first cycle of therapy prior to enrolling subjects at the next dose level.
+
+.
+
+ Clinical Trial of ARQ 761 in Advanced Solid Tumors@highlight
+
+Primary Objective: To determine the safety, tolerability and recommended Phase 2 dose (RP2D) of ARQ 761 administered intravenously.
+
+ Secondary Objectives: To determine the pharmacokinetic profile of ARQ 761 To assess the preliminary anti-tumor activity of aRQ 761

@@ -1,0 +1,20 @@
+(secondQuint)Efficacy, Safety and Immunogenicity Study of Recombinant Human C1 Inhibitor for the Treatment of Acute HAE Attacks.
+
+ HAE is characterized by recurrent localized angioedema caused by uncontrolled activation of the complement and contact systems due to a congenital deficiency of functional C1 inhibitor.
+
+ rhC1INH has been developed to offer a more widely available therapeutic alternative to the existing plasma-derived C1INH (pdC1INH) products that have been used in the treatment of acute angioedema attacks patients with HAE.
+
+ Patients who have qualified for enrollment in advance and who present to a study center within 5 hours of onset of an attack will be evaluated for eligibility.
+
+ 75 eligible patients will be randomized (3:2) to receive an intravenous infusion of rhC1INH or saline in a double-blind fashion.
+
+ Open-label rhC1INH may be provided as rescue medication to patients who do not experience the beginning of relief within 4 hours or who experience life-threatening oropharyngeal-laryngeal angioedema symptoms.
+
+ Any patient having received a randomized treatment will be allowed to receive treatment with rhC1INH in an open-label fashion for subsequent eligible attacks.
+
+.
+
+ Efficacy, Safety and Immunogenicity Study of Recombinant Human C1 Inhibitor for the Treatment of Acute HAE Attacks@highlight
+
+This study is being conducted to confirm the efficacy, safety, and immunogenicity of recombinant human C1 inhibitor (rhC1INH) at a dose of 50 U/kg when used for the treatment of acute angioedema attacks in Hereditary Angioedema (HAE) patients.
+

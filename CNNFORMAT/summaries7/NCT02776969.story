@@ -1,0 +1,26 @@
+(secondQuint)A Gene Hunting Study for Familial Papillary Thyroid Cancer.
+
+ The aim of this project is to identify genetic risk factors associated with familial papillary thyroid carcinoma (PTC).
+
+ This can be accomplished in several ways, including loss of heterozygosity studies as well as comparative gene expression analysis.
+
+ When possible, linkage analysis on families with multiple individuals affected with PTC may also help identify the putative gene(s).
+
+ Study participants will be asked to: 1.
+
+ Complete family history and medical history questionnaires 2.
+
+ Sign a medical record release so that thyroid cancer pathology reports can be obtained 3.
+
+ Supply a blood sample for genetic studies 4.
+
+ Provide study related information to family members who are needed for family studies.
+
+ A Gene Hunting Study for Familial Papillary Thyroid Cancer@highlight
+
+The aim of this project is to identify genetic risk factors associated with familial papillary thyroid carcinoma (PTC).
+
+ Papillary thyroid cancer is a type of cancer that shows high heritability.
+
+ However, the specific genetic factors that cause an increased risk have been elusive.
+

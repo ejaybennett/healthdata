@@ -1,0 +1,36 @@
+(thirdQuint)Transcranial Direct Current Stimulation (tDCS) and Cognitive Processing.
+
+ Participants enrolled into this study may be asked to do the following: - Grant permission for the researchers to view medical records associated with their language/cognitive difficulties (if applicable.
+
+ - Complete a questionnaire, provide a health history, and take some pencil-and-paper tests of problem-solving and memory in order to verify eligibility to participate and to able to safely undergo the experimental procedures.
+
+ - Complete several tasks (i.
+
+e.
+
+, saying words out loud, naming objects, drawing designs, remembering lists of words, searching for images or letters, and/or completing puzzles) based upon a number of cognitive functions such as language, memory, vision, processing, and perception.
+
+ - Wear electrodes that will be placed on the scalp with a large rubberized band.
+
+ These electrodes will administer very weak electrical current (tDCS) from a battery powered device for 20 to 60 minutes.
+
+ - Participation in several study conditions.
+
+ The exact conditions and their order will be randomized.
+
+ Under some conditions, participants may receive active stimulation (tDCS) and under other conditions, they may receive sham stimulation.
+
+ - The experimental sessions will last approximately 2 hours and participants may be asked to have more than one testing session in a day or to return for additional sessions.
+
+ - Have a Magnetic Resonance Imaging (MRI) brain scan.
+
+.
+
+ Transcranial Direct Current Stimulation (tDCS) and Cognitive Processing@highlight
+
+This research is being done to determine whether transcranial direct current stimulation (tDCS) can improve certain mental abilities.
+
+ In this research, battery powered device is used to deliver very weak electrical current to the surface of the scalp while participants complete cognitive tasks.
+
+ Our aim is to find out whether tDCS will improve task performance in both healthy adults and those with neurological impairment.
+

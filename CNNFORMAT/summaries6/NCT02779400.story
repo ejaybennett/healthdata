@@ -1,0 +1,18 @@
+(firstQuint)Assessment of a Diagnostic Medical Device for the INR (International Normalized Ratio) Measurement.
+
+ The investigators will assess the performance of an in vitro diagnostic device for assessing the INR.
+
+ The evaluation will consist of make several INR measurements using the device and compare these measures to the reference value.
+
+ The INR will be measured using the study device on capillary blood drops taken from the fingertip.
+
+ In the same way a venous blood sampling will be carried out to measure a reference INR.
+
+ A total of 20 healthy subjects and 180 patients treated with vitamin K agonist will be enrolled in the study.
+
+.
+
+ Assessment of a Diagnostic Medical Device for the INR (International Normalized Ratio) Measurement@highlight
+
+The purpose of this study is to assess the measurement conformity of an in vitro diagnostic device measuring the INR (International harmonized Ratio).
+

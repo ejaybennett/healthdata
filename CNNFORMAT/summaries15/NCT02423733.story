@@ -1,0 +1,96 @@
+(fifthQuint)Can E-therapies Reduce Waiting Lists in Secondary Mental Health Care? A Randomized Controlled Trial.
+
+ Depression is common and disabling but the evidence is that fewer than half of people with depression seek any treatment and few receive any help from specialized mental health professionals (1).
+
+ In secondary care treatment is often limited to drug therapies because of long waiting lists to see psychological therapists face to face despite recommendations by NICE and others about the importance of non-drug therapies (2).
+
+ At The Royal Ottawa Health Care Group the waiting time to be seen in the Mood Program is between nine months and a year.
+
+ One way to address this problem is to use computerized e-therapies which deliver structured cognitive behavioral treatment via a computer (3).
+
+ The appeal of e-therapies is that they solve several problems.
+
+ Firstly they are convenient for users.
+
+ They can be used at any time and can be accessed in different locations.
+
+ Secondly there is no waiting for appointments.
+
+ Last for health providers they address the workforce issue of a lack of trained providers of effective interventions.
+
+ If e-therapies can be shown to be acceptable, feasible and effective there is no reason why these computerized therapies could not replace humans leaving qualified professionals to focus on more complex management problems.
+
+ This may lead to the development of new role which in this proposal is an e-therapy coach.
+
+ Previous randomized controlled trials of e-therapies for depression have mainly been in people recruited through the internet or in clinical populations with mild or "sub-clinical" disorders(4).
+
+ The difficulty with these populations is that there is a high rate of spontaneous remission.
+
+ However systematic reviews have consistently found a significant moderate effect of computerized therapies in reducing depressive symptoms compared to control conditions (5, 6).
+
+ A further problem is that many people fail to complete the course of e-therapy (although this also applies to face to face therapies).
+
+ There is a need for randomized controlled trials of e-therapies in clinical populations using novel techniques to maximize the dose of e-therapy without losing the potential health workforce benefits.
+
+ A potentially attractive solution is to enable clinician-assisted computerized cognitive behavior therapy.
+
+ For this proposal the investigators plan to use an e-therapy coach who would coach people through the on-line therapy.
+
+ In this model the clinician acts in the role of a coach to support the patient progress through the computerized treatment - the clinician does not need to deliver the non-drug therapy themselves.
+
+ There is some evidence that this can result in significant improvements in depression with reduced demands on clinician time(7).
+
+ However previous trials have been done using participants with relatively less severe depression who may not have seen clinicians as part of their usual care (8).
+
+ Also the outcome measures are usually only self-rating scales rather than objective measures of function.
+
+ To date there have been no trials of clinician assisted e-therapy in secondary care.
+
+ "The Journal" (9) a free internet based program for the self-management of depression (www.
+
+depression.
+
+org.
+
+nz) was developed in New Zealand and capitalizes on the social marketing appeal of Sir John Kirwan, an ex All Black who has described his experiences of depression to help destigmatize mental illness.
+
+ However in Canada John Kirkan is unknown so one hypothesis the investigators will test in this study is whether the social marketing by a celebrity is necessary for the effective use of an e-therapy.
+
+ The self-help program is based on the cognitive behavioral techniques of behavioral activation and problem solving which teaches patients the skills of problem solving and delivers an evidence based intervention which is personalized for their individual care.
+
+ The problem solving approach was derived from a large randomized control trial of face to face problem solving used in people who presented to emergency departments with intentional self-harm (10).
+
+ Usage data from New Zealand shows that the depression.
+
+org web site was visited by 700,000 people in its first year (the population of New Zealand is 4.
+
+2 million) with 20,000 registered with The Journal and 13,000 active users.
+
+ About 1500 people a month register to start the program with about three quarters of people recording significant improvement.
+
+ Although the program was designed for depression of mild to moderate severity the evidence shows that nearly a third of people who access the program have more severe depression.
+
+ The mean PHQ-9 score at the start of the program is 16 which reduces to 10 after 3 sessions and 7 by the end of the program.
+
+ The change in depression scores is most marked for severe depression with only 5% of people scoring in the severe range at the end of the program.
+
+.
+
+ Can E-therapies Reduce Waiting Lists in Secondary Mental Health Care? A Randomized Controlled Trial@highlight
+
+Depression is common and disabling but access to specialist treatment is often delayed with waiting lists of up to a year not uncommon.
+
+ Also treatment is frequently limited to drug therapies because of long waiting lists to see psychological therapists face to face despite recommendations by NICE (The National Institute for Health and Clinical Excellence) and others about the importance of non-drug therapies.
+
+ One way to address this problem is to use computerized e-therapies which deliver structured cognitive behavioral treatment where the therapy can be accessed in a location and at a time that is convenient for patients and where there is no waiting list.
+
+ Previous randomized controlled trials of e-therapies for depression have mainly been in people recruited through the internet or in clinical populations with mild disorders where many participants do not complete the on-line course.
+
+ Despite this there is some evidence that clinician-assisted computerized cognitive behavior therapy can result in significant improvements in depression with reduced demands on clinician time.
+
+ To date there have been no trials of clinician assisted e-therapy in secondary care.
+
+ Therefore the aim of this clinical trial is to answer the question "In patients on the waiting list for the mood program does a computerized therapy with an e-therapy coach compared to written information about depression and the availability of computerized treatments result in better outcomes, quicker improvements and the use of fewer resources after 12 weeks".
+
+ The study will be a randomized controlled trial with health service use and PHQ-9 as the main outcome measures.
+

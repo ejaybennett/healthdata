@@ -1,0 +1,16 @@
+(firstQuint)Azithromycin Combination Therapy for the Treatment of Uncomplicated Falciparum Malaria in Bangladesh.
+
+ In view of spreading antimalarial drug resistance there is an urgent need for new combination treatments for a disease that kills more than one million people every year.
+
+ Azithromycin is a macrolide antibiotic that is particularly attractive due to its safety in children and experience with use in pregnancy.
+
+ Recent trials suggest that azithromycin has a strong potential as an antimalarial.
+
+ The purpose of this study is to investigate the efficacy of azithromycin combination therapy for the treatment of uncomplicated falciparum malaria in Bangladesh.
+
+.
+
+ Azithromycin Combination Therapy for the Treatment of Uncomplicated Falciparum Malaria in Bangladesh@highlight
+
+The purpose of this study is to investigate the efficacy of azithromycin combination therapy with artesunate for the treatment of uncomplicated falciparum malaria in Bangladesh.
+

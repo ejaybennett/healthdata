@@ -1,0 +1,16 @@
+(thirdQuint)Inhaled Iloprost, Dynamic Hyperinflation, and Oxidative Stress in COPD Patients.
+
+ Chronic obstructive pulmonary disease (COPD), the 3rd leading cause of death in the US, is a progressive disorder for which new treatments are urgently needed, as existing therapies are focused primarily on symptom relief.
+
+ Oxidative stress, in part arising from inducible nitric oxide synthase (iNOS) released by the pulmonary vasculature, is critical for the development and progression of COPD; a treatment strategy focused on the pulmonary vasculature is hypothesized to be beneficial in COPD patients.
+
+ This will be studied with the use of an inhaled prostacyclin analogue, iloprost, which has been approved for pulmonary hypertension and investigated in small studies of COPD patients.
+
+ Potential mechanisms include reductions in dynamic hyperinflation during exercise in COPD patients or improvements in oxidative stress.
+
+ Inhaled Iloprost, Dynamic Hyperinflation, and Oxidative Stress in COPD Patients@highlight
+
+The purpose of this study is to investigate the role of the pulmonary vasculature in the development and progression of chronic obstructive pulmonary disease (COPD).
+
+ To accomplish this, an inhaled prostacyclin (iloprost) will be given to patients with COPD and changes in oxidative stress and lung volumes during exercise will be measured.
+

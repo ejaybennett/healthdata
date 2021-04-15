@@ -1,0 +1,34 @@
+(fifthQuint)Dose-response Study of Carduus Marianus in Centesimal Scale for Dyslipidemia in Climacteric Overweighed or Obese Women.
+
+.
+
+ The prevalence of metabolic disorders including dyslipidemia increases as women transition from premenopause to postmenopause.
+
+ This increases the risk for morbidity and mortality from cardiovascular diseases.
+
+ Carduus marianus is a homeopathic medicine that traditionally has been used for hepatic diseases.
+
+ Silymarin, isolated from Carduus marianus, owe its therapeutic and hepatoprotective effects to its strong antioxidant and anti-inflammatory properties.
+
+ Carduus marianus is frequently used in clinical practice and reduces plasma level of triglycerides, total cholesterol and LDL in humans with dyslipidemia.
+
+ Not all homeopaths agree on dosage and potency when prescribing homeopathic medicines.
+
+ The aim of this study is to assess: (1) the most effective dose of Carduus marianus in centesimal scale for reducing hypertriglyceridemia and/or hypercholesterolemia in climacteric women; (2) the effect of Carduus marianus in other metabolic parameters (glucose, glycosylated hemoglobin, insulin resistance, weight, body mass index, waist circumference).
+
+ This is a 8-week, double-blind, randomized, parallel, four-group, dose-response study to assess the safety and efficacy of Carduus marianus in 6cH, 12cH, 30cH and placebo plus diet and exercise, for reducing hypertriglyceridemia and/or hypercholesterolemia in climacteric women.
+
+.
+
+ Dose-response Study of Carduus Marianus in Centesimal Scale for Dyslipidemia in Climacteric Overweighed or Obese Women.
+
+@highlight
+
+Metabolic disorders including hypercholesterolemia and hypertriglyceridemia are present in climacteric women.
+
+ Carduus marianus is a homeopathic medicine that traditionally has been used for hepatic diseases.
+
+ It has been used for reducing hypercholesterolemia and hypertriglyceridemia also.
+
+ The aim of this study is to investigate the most effective dose of Carduus marianus in centesimal scale (6cH, 12cH, 30cH, placebo) plus diet and exercise for reducing hypertriglyceridemia and/or hypercholesterolemia in climacteric women.
+

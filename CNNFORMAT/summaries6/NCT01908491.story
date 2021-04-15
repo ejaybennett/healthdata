@@ -1,0 +1,42 @@
+(thirdQuint)Comparison of IV PCA and Wound Infusion After Repair of Pectus Excavatum.
+
+ Pain control is an important issue after correction of pectus excavatum.
+
+ Insufficient pain control leads to develop postoperative pulmonary complications, such as hypoxia, atelectasis and pneumonia.
+
+ Additionally, hospital length of stay could be prolonged.
+
+ Therefore, successful pain management is mandatory to improve clinical outcome, to decrease postoperative morbidity and to shorten the duration of hospital stay.
+
+ Various methods of pain management have been introduced.
+
+ Current typical methods for pain management include thoracic epidural analgesia and intravenous patient-controlled analgesia (IV PCA).
+
+ Epidural analgesia has shown superior pain control effects.
+
+ However, there may be rare but serious complications, such as spinal cord and nerve root lesions, epidural hematoma, or infections.
+
+ IV PCA is a well-established method of postoperative pain management.
+
+ However, the systemic side effects of opioid, such as nausea, vomiting, sedation, or respiratory depression may occur.
+
+ Continuous wound infusion of local anesthetics through ON-Q catheters is another method for pain management.
+
+ It has been used for various surgical procedures.
+
+ However, the effect is not well evaluated in pectus surgery.
+
+ The purpose of this study is to compare the effects of opioid-based IV PCA and continuous wound infusion using a catheter.
+
+.
+
+ Comparison of IV PCA and Wound Infusion After Repair of Pectus Excavatum@highlight
+
+Postoperative pain management is a major problem after repair of pectus excavatum.
+
+Various methods of pain management have been introduced.
+
+ However, the effects of continuous wound infusion of local anesthetics through ON-Q catheters were not well evaluated in pectus surgery.
+
+ Therefore, we conducted prospective randomized controlled study to compare the effects of IV PCA and continuous wound infusion after repair of pectus excavatum.
+

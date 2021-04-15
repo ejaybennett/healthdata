@@ -1,0 +1,32 @@
+(secondQuint)Safety of Darbepoetin Alfa Treatment in Patients With Severe Traumatic Brain Injury.
+
+ Traumatic brain injury (TBI) is a common neurosurgical problem with a high morbidity and mortality.
+
+ Studies interested in defining possible therapeutic targets in TBI have led to an appreciation of two phases of injury.
+
+ These phases are referred to as primary and secondary TBI.
+
+ The primary injury encompasses the immediate insult, diffuse axonal injury, hemorrhage, contusion, and primary ischemia.
+
+ The secondary injury evolves over the post-traumatic period and is due to a combination of vasogenic and cytotoxic edema resulting from several processes including; glutamate excitotoxicity, disturbance of ionic homeostasis, lipid peroxidation, generation of nitric oxide (NO) and free radicals, and release of inflammatory regulators such as bradykinin and eicosanoids.
+
+ It has long been recognized that one of the most important factors in the secondary injury process is the indiscriminate release of the excitatory neurotransmitter glutamate from neurons and glia.
+
+ Glutamate excitotoxicity leads to substantial intraneuronal release of calcium which in turn mediates the activation of phospholipases which generate arachadonic acid, the activation of proteases, and the activation of NO, all of which cause neuronal membrane disruption and loss of ionic equilibrium.
+
+ Receptors for erythropoietin (EPOr) are distributed throughout the brain and studies have demonstrated that these receptors are not only important in the process of development but also in neuroprotection.
+
+ Treatment with erythropoietin (EPO) protects neurons in models of ischemic and traumatic degenerative damage due to exocitotoxins and consequent generation of free radicals including NO.
+
+ EPOr activation also prevents the indiscriminate exocytosis of glutamate in a model of chemically induced ischemia on neurons of rat hippocampus.
+
+ The hypothesis of this study is that treatment of severely brain injured patients with darbepoetin alfa (Aranesp(R)) will be safe and reduce the cerebrospinal fluid (CSF) levels of glutamate within a 96 hour period after traumatic brain injury.
+
+ This effect is potentially mediated through the activation of EPO receptors whose activation prevents the exocytosis of glutamate, a known neurocytotoxin, into CSF.
+
+.
+
+ Safety of Darbepoetin Alfa Treatment in Patients With Severe Traumatic Brain Injury@highlight
+
+The purpose of this study is to see if the treatment of severely brain injured patients with darbepoetin (a long acting form of erythropoietin) will be safe, and will reduce brain damage by decreasing harmful levels of chemicals in the brain.
+

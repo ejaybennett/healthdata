@@ -1,0 +1,12 @@
+(secondQuint)Rabeprazole Extended-Release 50 mg Versus Esomeprazole 40 mg for Healing and Symptomatic Relief of Mild to Moderate Erosive Gastroesophageal Reflux Disease (GERD).
+
+ This is a multicenter, randomized, double-blind, double-dummy, parallel-group study.
+
+ Subjects who meet all the inclusion/exclusion criteria will be randomly assigned to 1 of 2 treatment groups, Rabeprazole Extended-Release (RAB ER) 50 mg or Esomeprazole (ESO) 40 mg for the treatment of mild to moderate erosive Gastroesophageal Reflux Disease (GERD).
+
+.
+
+ Rabeprazole Extended-Release 50 mg Versus Esomeprazole 40 mg for Healing and Symptomatic Relief of Mild to Moderate Erosive Gastroesophageal Reflux Disease (GERD)@highlight
+
+The purpose of this study is to investigate the efficacy and safety of Rabeprazole (RAB) Extended-Release (ER) 50 mg versus Esomeprazole (ESO) 40 mg in subjects with erosive gastroesophageal reflux disease (eGERD).
+

@@ -1,0 +1,28 @@
+(secondQuint)Acupuncture in Treating Hot Flashes in Patients With Prostate Cancer.
+
+ OBJECTIVES: - Determine the impact of acupuncture therapy on the frequency and intensity of hot flashes and the quality of life of patients with prostate cancer undergoing androgen deprivation.
+
+ - Determine if blood serotonin and urinary 5-HIAA are increased in patients treated with acupuncture.
+
+ - Determine if plasma calcitonin gene-related peptide and MHPG are reduced in patients with hot flashes due to androgen deprivation treated with acupuncture.
+
+ - Determine the ability of tongue diagnosis, a traditional Chinese clinical assessment method, to predict clinical and biological changes in these patients.
+
+ - Determine the effect of acupuncture on insomnia and loss of vitality caused by hot flashes in these patients.
+
+ OUTLINE: Patients undergo acupuncture for 30 minutes twice weekly for 4 weeks and then once weekly for an additional 6 weeks.
+
+ Quality of life is assessed at baseline, at weeks 2, 4, 6, and 10, and then at 6 weeks after completion of study treatment.
+
+ After completion of study treatment, patients are followed at 6 weeks.
+
+ PROJECTED ACCRUAL: A total of 25 patients will be accrued for this study.
+
+.
+
+ Acupuncture in Treating Hot Flashes in Patients With Prostate Cancer@highlight
+
+RATIONALE: Acupuncture may help relieve hot flashes in patients with prostate cancer.
+
+ PURPOSE: This clinical trial is studying how well acupuncture works in treating hot flashes in patients with prostate cancer who are undergoing androgen deprivation.
+

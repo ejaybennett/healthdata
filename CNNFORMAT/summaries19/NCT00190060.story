@@ -1,0 +1,21 @@
+(firstQuint)Study of The Effects of Testosterone in Frail Elderly Men.
+
+ Ageing-associated loss of muscle mass and strength is a major cause of physical frailty, disability, morbidity and dependency in the elderly.
+
+ This is associated with increased falls, fractures, loss of mobility, restricted activities of daily living and increased utilisation of healthcare resources.
+
+ It is well known that serum testosterone levels fall with advancing age and this may be an important cause for muscle wasting and weakness (sarcopenia).
+
+ Testosterone replacement increases muscle mass and improves muscle strength in young hypogonadal men.
+
+ In relatively healthy elderly men, some short-term studies have also shown that testosterone can improve muscle strength.
+
+ The potential beneficial effects of testosterone supplementation on muscle strength and functional capacity of frail elderly men has so far not been studies and forms the basis of this research.
+
+ We hypothesise that testosterone supplementation is an effective, safe and economic anabolic intervention in frail elderly men with low circulating testosterone.
+
+.
+
+ Study of The Effects of Testosterone in Frail Elderly Men@highlight
+
+The study aims to determine the effects of testosterone on muscle function, mobility, activities of daily living and overall quality of life

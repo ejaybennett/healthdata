@@ -1,0 +1,34 @@
+(secondQuint)Broccoli Sprout Extract in Treating Patients With Transitional Cell Bladder Cancer Undergoing Surgery.
+
+ Primary Objectives: I.
+
+ To determine the tolerability and toxicity of a broccoli sprout extract (providing 200 micro mol isothiocyanate/dose/per day) given for 14 days in patients destined to undergo definitive bladder resection for bladder cancer.
+
+ Secondary Objectives: I.
+
+ Establish the safety of administration of the broccoli extract on the bladder surgery specifically.
+
+ II.
+
+ Determine the levels of isothiocyanates and their metabolites in urine, blood, benign urothelium and bladder cancer tissue.
+
+ III.
+
+ Assess the antitumor effects of broccoli extract on the primary bladder tumor by measuring angiogenesis, cell proliferation and apoptosis.
+
+ IV.
+
+ Determine the feasibility of treating patients with 200 micro mol isothiocyanate per dose per day of broccoli sprout extract in future therapeutic and prevention clinical trials.
+
+ Outline: Patients receive oral broccoli sprout extract once daily on days 1-14 in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed at 4 weeks.
+
+.
+
+ Broccoli Sprout Extract in Treating Patients With Transitional Cell Bladder Cancer Undergoing Surgery@highlight
+
+Rationale: Broccoli sprout extract contains ingredients that may prevent or slow the growth of certain cancers.
+
+ Purpose: This pilot study is studying the side effects of broccoli sprout extract in treating patients with transitional cell bladder cancer undergoing surgery.
+

@@ -1,0 +1,48 @@
+(thirdQuint)Fluocinonide Cream in Treating Symptoms of Vaginal Dryness and Painful Sexual Intercourse In Patients With Breast Cancer Undergoing Hormone Therapy.
+
+ PRIMARY OBJECTIVES: I.
+
+ To estimate the decrease in symptoms of vaginal dryness and dyspareunia with the use of fluocinonide 0.
+
+05% cream in breast cancer subjects and subjects at increased risk for breast cancer on endocrine therapy.
+
+ Estimates of decrease will be obtained utilizing patient survey instruments.
+
+ SECONDARY OBJECTIVES: I.
+
+ To estimate the decrease in symptoms of vaginal itching and the total vaginal index score with the use of fluocinonide 0.
+
+05% cream in breast cancer subjects and subjects at increased risk for breast cancer on endocrine therapy.
+
+ Estimates of decrease will be obtained utilizing patient survey instruments.
+
+ II.
+
+ To explore toxicities reported by subjects using fluocinonide 0.
+
+05% cream via vaginal application.
+
+ III.
+
+ To explore correlation between subject reported compliance, as well as compliance via measurement of the amount of fluocinonide 0.
+
+05% cream used, and response rates with the use of fluocinonide 0.
+
+05% cream.
+
+ IV.
+
+ To explore the correlations between patient characteristics and response rates with the use of fluocinonide 0.
+
+05% cream.
+
+ OUTLINE: Patients apply topical fluocinonide cream twice daily (BID) in weeks 1-2 and once daily (QD) in weeks 3-4.
+
+.
+
+ Fluocinonide Cream in Treating Symptoms of Vaginal Dryness and Painful Sexual Intercourse In Patients With Breast Cancer Undergoing Hormone Therapy@highlight
+
+This phase II trial studies how well giving fluocinonide cream works in treating symptoms of vaginal dryness and painful sexual intercourse in patients with breast cancer undergoing hormone therapy.
+
+ Fluocinonide cream may prevent or lessen vaginal dryness and painful sexual intercourse in patients undergoing hormone therapy.
+

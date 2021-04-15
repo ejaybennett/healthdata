@@ -1,0 +1,46 @@
+(fifthQuint)A Study of the Safety and Effectiveness of a R256918 in Patients With Type 2 Diabetes.
+
+ This is a randomized (assigned study drug by chance), double-blind (both the patient and investigator do not know whether patient is assigned to receive study drug or placebo), placebo-controlled study involving patients with Type 2 Diabetes Mellitus who are taking metformin.
+
+ Patients are randomized to one of 4 treatment groups and receive study drug (R256918: 5 mg, 10 mg, or 15 mg twice daily) or placebo for a period of 12 weeks.
+
+ The study consists of a screening period, a baseline visit, the treatment period of 12 weeks, and a follow-up visit.
+
+ During the treatment period, patients visit the center every two weeks.
+
+ On each visit, patients come to the clinic after 8 hours fasting.
+
+ Effectiveness assessments from a blood sample include levels of fasting hemoglobin type A1c (HbA1c), glucose, cholesterol, triglycerides, insulin, C-peptide, and gastrointestinal hormones.
+
+ Patients monitor their fasting blood glucose and record it in a diary.
+
+ Insulin sensitivity and beta cell (insulin-producing cells in the pancreas) function are evaluated.
+
+ Waist and hip circumference are measured.
+
+ Safety evaluations, including incidence of adverse events, clinical laboratory results, vital signs, and electrocardiograms, are performed during the study.
+
+ Patients complete a questionnaire related to treatment satisfaction of study medication.
+
+ Patients receive dietary counseling and will be instructed to remain on a calorically appropriate diet with a maximum of 30 percent (%) of calories derived from fat (in accordance with local practice guidelines for the treatment of type 2 diabetes mellitus), during the entire study.
+
+ Patients continue taking metformin in the same dose and according to the same dosing regimen as before the study.
+
+ The overall duration of the study for each patient is approximately 18 weeks.
+
+ The study will evaluate the effect of R25691 on glucose-dependent insulin secretion, weight loss and changes in insulin sensitivity and tolerability in type 2 diabetic patients.
+
+.
+
+ A Study of the Safety and Effectiveness of a R256918 in Patients With Type 2 Diabetes@highlight
+
+The purpose of this study is to investigate the effectiveness and safety of 12 weeks of treatment with R256918 in patients with Type 2 Diabetes Mellitus who are taking metformin.
+
+ The primary measure of effectiveness is the change in concentration of glycated hemoglobin (HbA1c) during treatment.
+
+ Glycated hemoglobin is a substance in red blood cells that is formed when blood sugar (glucose) attaches to hemoglobin and is a measure of diabetic status.
+
+ Additional measures include fasting glucose, and lipid levels, and body weight.
+
+ Safety assessments performed during the trial include laboratory tests, vital sign measurements, and adverse event reporting.
+

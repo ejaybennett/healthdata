@@ -1,0 +1,19 @@
+(firstQuint)Efficacy of Injectable Vitamin C on Accelerating Canine Movement: A Clinical Study.
+
+ Objective.
+
+ The purpose of this study is to investigate the role and efficiency of the locally injected vitamin C in the enhancement of the palatally impacted canine movement.
+
+ Design.
+
+ Twelve adult patients with unilateral palatally impacted canines were included in this study.
+
+ The enrolled patients were randomly allocated into the study groups; control group; orthodontic traction and he test group: orthodontic traction enhanced by intraepidermic vitamin C injection.
+
+ The study duration was 12 months.
+
+.
+
+ Efficacy of Injectable Vitamin C on Accelerating Canine Movement: A Clinical Study@highlight
+
+efficacy of the injectable vitamin C to reduce the time of canine traction

@@ -1,0 +1,18 @@
+(secondQuint)Assessment of the Nutritional Status of Children and Adolescents With Malignancies.
+
+ Children and adolescents suffering from malignancies often show malnutrition.
+
+ Malnutrition, defined as a deficiency or an excess of energy, is associated with an increased risk of comorbidities, reduced survival rates, higher relapse rates, and worse treatment response.
+
+ The present retrospective study assessed the nutritional status of children and adolescents, suffering from nine different kinds of cancer, based on BMI percentiles and standard deviation scores.
+
+ Anthropometric data were recorded from clinical charts and an assessment of the nutritional status was made at the beginning of treatment, during the course of therapy and during a follow-up period of two years.
+
+ The influence of treatment-related characteristics, the duration of therapy, and the occurrence of a relapse or progress during therapy on the nutritional status were examined.
+
+.
+
+ Assessment of the Nutritional Status of Children and Adolescents With Malignancies@highlight
+
+The main objective of this study was the assessment of the nutritional status of children and adolescents aged between 0-18 with malignancies based on BMI percentiles and standard deviation scores, at diagnosis, during treatment and during a period of two years after the end of therapy.
+

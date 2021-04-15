@@ -1,0 +1,24 @@
+(thirdQuint)Medpulser Electroporation With Bleomycin Study to Treat Anterior Head and Neck Squamous Cell Carcinoma.
+
+ Recurrent tumors in head and neck squamous cell carcinoma usually have a poor prognosis.
+
+ In patients suitable for salvage surgery of their recurrent disease, the success rate for local control has been reported to be 40-50%.
+
+ The surgical treatment of H&N SCC frequently results in significant loss of organ function (e.
+
+g.
+
+, inability to swallow, speak, etc.
+
+) and/or permanent disfigurement.
+
+ There is a compelling and unmet medical need for a local therapy that destroys tumors while preserving function status and appearance in patients with primary, recurrent, or metastatic H&N SCC.
+
+ Comparison: To compare function status at 4 months after treatment with bleomycin-EPT or surgery in patients with locally recurrent or second primary SCC of the anterior oral cavity, soft palate, or tonsil that have failed primary curative therapy and in whom surgical resection is seen as an option for disease control.
+
+.
+
+ Medpulser Electroporation With Bleomycin Study to Treat Anterior Head and Neck Squamous Cell Carcinoma@highlight
+
+The purpose of the study is to evaluate Medpulser electroporation (EPT) with bleomycin with regard to local tumor recurrence, disease-free survival, and overall survival rates versus surgery in recurrent or secondary primary squamous cell carcinoma (SCC) of the anterior oral cavity, soft palate, or tonsil.
+

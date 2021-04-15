@@ -1,0 +1,88 @@
+(fifthQuint)Telemedicine Versus Traditional Specialist Consultation for Headache: a Non-inferiority Trial.
+
+ Epidemiological research shows that over half of Europe's population suffers from headache.
+
+ Approximately 11% of the population suffers from migraine, over half of the population have tension-type headache, and 4% have chronic daily headaches.
+
+ There is clear evidence that headaches, and especially migraines, are under- or misdiagnosed.
+
+ Headache is a frequent cause of visits to the GPs office, and we have previously shown that this group accounts for about 20 % of patients referred to a general neurologic outpatient clinic.
+
+ To our knowledge, no previous studies have investigated whether headache consultations through telemedicine provides equal health care outcomes compared to regular visits to the neurologist.
+
+ If that's the case, a modern interactive health care system may give simpler and cheaper services for patients, saving traveling costs and community expenses.
+
+ It may possibly also lead to reduced waiting lists, earlier diagnosis and treatment.
+
+ This is an open-label randomized non-inferiority study of headache patients referred to our neurologic outpatient clinic.
+
+ The aim of this study is to determine if video consultations are non-inferior to regular consultations in diagnosing and treating primary headaches.
+
+ The null hypothesis is that there is no difference in patient satisfaction between the two groups.
+
+ The outcome is assessed 3 and 12 months after the neurologic consultation.
+
+ We will allocate participants to either a telemedicine consultation or a regular consultation at the neurologic outpatient clinic in the University Hospital of North-Norway, Tromso.
+
+ Both groups will undergo a structured and detailed interview to clarify the diagnosis and establish appropriate treatment.
+
+ All diagnoses are given by the most up to date version of The International Classification of Headache Disorders (ICHD).
+
+ We will strive continuously to include all patients who meet the inclusion and exclusion criteria.
+
+ To ensure the best possible representation in the population, our goal is to include at least 70% of all the referred patients that meet the criteria for participation in this study.
+
+ The randomizations are made through a centralized 8-16 phone line to the research-department in Tromso, at the University Hospital of North-Norway.
+
+ We will gather the primary and secondary endpoints from the recruited participants by questionnaires sent three and 12 months after the consultation.
+
+ In addition, we are going to investigate the quality of the physicians` referrals, peoples` use of medications, alternative therapies as well as calculations of cost savings by using telemedicine.
+
+ The patients' informed consent will always be obtained before data collection.
+
+ Patients are able to withdraw from the study at any time.
+
+ Withdrawal will not affect the treatment or follow up.
+
+ Local research ethics committee (REC) has approved the study.
+
+.
+
+ Telemedicine Versus Traditional Specialist Consultation for Headache: a Non-inferiority Trial@highlight
+
+Headache is a frequent cause of visits to the GPs office, and the investigators have previously shown that this group accounts for about 20 % of patients referred to a general neurologic outpatient clinic.
+
+ To our knowledge, no previous study has investigated whether headache consultation through telemedicine provides equal health care outcomes compared to regular visit to the neurologist.
+
+ If that's the case, a modern interactive health care system may give simpler and cheaper services for patients, saving travelling costs and community expenses.
+
+ It may possibly also lead to reduced waiting lists, earlier diagnosis and treatment.
+
+ This is an open-labeled randomized non-inferiority trial of headache patients referred to a neurologic clinic in North-Norway.
+
+ The aim of this study is to determine whether video consultations are non-inferior to regular consultations in diagnosing and treating primary headaches.
+
+ The null hypothesis is that there is no difference in patient satisfaction between the two groups.
+
+ The outcome is assessed 3 and 12 months after the neurologic consultation.
+
+ Participants will be allocated to either a telemedicine consultation or a regular consultation at the neurologic outpatient clinic in the University Hospital of North-Norway, Tromso.
+
+ Both groups will undergo a structured and detailed interview to clarify the diagnosis and establish appropriate treatment.
+
+ To ensure the best possible representation in the population, our goal is to include at least 70% of all the referred patients that meet the criteria for participation.
+
+ The randomizations are made through a centralized 8-16 phone line to the research-department in Tromso, at the University Hospital of North-Norway.
+
+ Both primary and secondary endpoints will be assessed in questionnaires sent three and 12 months after the consultation.
+
+ In addition, the quality of the physicians` referrals and calculations of cost savings by using telemedicine will be evaluated.
+
+ The patients' informed consent will always be obtained before data collection.
+
+ Patients are able to withdraw from the study at any time.
+
+ Withdrawal will not affect the treatment or follow up.
+
+ Local research ethics committee (REC) has approved the study.
+

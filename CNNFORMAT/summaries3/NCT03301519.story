@@ -1,0 +1,18 @@
+(firstQuint)Genetics of Beta Cell Failure in Mexican Americans.
+
+ Mexican American women with prior gestational diabetes and their first degree relatives and Mexican American women with prior normal glucose tolerance in pregnancy are studied with detailed phenotyping consisting of oral and intravenous glucose tolerance tests, body composition studies, diet and physical activity assessments, and circulating biomarkers potentially related to obesity, insulin resistance, pancreatic beta cell function, gestational diabetes and type 2 diabetes.
+
+ Spouses of the gestational diabetic and control probands are studied with oral glucose tolerance tests.
+
+ Offspring of the gestational and control probands have fasting glucose determinations.
+
+ All participants provide DNA for genetics testing.
+
+ A subset of the gestational diabetic probands and their first degree relatives return 3-5 years after baseline testing for repeat phenotyping.
+
+.
+
+ Genetics of Beta Cell Failure in Mexican Americans@highlight
+
+This is a family based genotype-phenotype study designed to assess genetic and environmental influences on obesity, insulin resistance and beta cell function in the context of gestational diabetes.
+

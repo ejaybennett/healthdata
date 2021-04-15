@@ -1,0 +1,36 @@
+(fifthQuint)Walk On! Physical Activity Coaching.
+
+ Physical inactivity is significantly associated with more frequent hospitalizations and increased mortality in COPD even after adjusting for disease severity.
+
+ While practice guidelines recommend regular physical activity for all patients with COPD, health systems are challenged in operationalizing an effective and sustainable approach to assist patients in being physically active.
+
+ A pragmatic randomized controlled trial design will be used to determine the effectiveness of a 12-month home and community-based physical activity coaching intervention (Walk On!) compared to standard care for 2,700 COPD patients from a large integrated health care system.
+
+ Eligible patients with a COPD-related hospitalization, emergency department visit, or observational stay in the previous 12 months will be automatically identified from the electronic medical records (EMR) system and randomized to treatment arms.
+
+ The Walk On! intervention includes collaborative monitoring of step counts, semi-automated step goal recommendations, individualized reinforcement from a physical activity coach, and peer/family support.
+
+ The primary composite outcome includes all-cause hospitalizations, emergency department visits, observational stays, and death in the 12 months following randomization.
+
+ Secondary outcomes include COPD-related utilization, cardio-metabolic markers, physical activity, symptoms, and health-related quality of life.
+
+ With the exception of patient reported outcomes, all utilization and clinical variables will be automatically captured from the EMR.
+
+ If successful, findings from this multi-stakeholder driven trial of a generalizable and scalable physical activity intervention model, carefully designed with sufficient flexibility, intensity, duration, and support for a large ethnically diverse sample could re-define the standard of care to effectively address physical inactivity in COPD.
+
+.
+
+ Walk On! Physical Activity Coaching@highlight
+
+Chronic obstructive pulmonary disease (COPD) is the third leading cause of the death in the US.
+
+ The personal, social and economic costs of the disease are tremendous, with annual expenditures of nearly $50 billion, mostly from hospitalizations for exacerbations of COPD and associated sequelae.
+
+ For the vast majority of patients, despite optimal pharmacological therapy, living with COPD is characterized by unrelieved dyspnea, physical inactivity, deconditioning, and an insidious downward spiral of social isolation and depression that has a profound impact on the lives of patients and their caregivers.
+
+ There is mounting evidence that physical inactivity is significantly associated with more frequent hospitalizations and increased mortality in COPD even after adjusting for disease severity.
+
+ While practice guidelines recommend regular physical activity for all patients with COPD, health systems are challenged in operationalizing an effective and sustainable approach to assist patients in being physically active.
+
+ The investigators propose a pragmatic randomized controlled trial to determine the effectiveness of a 12-month physical activity coaching intervention (Walk On!) compared to standard care for 1,650 COPD patients from a large integrated health care system.
+

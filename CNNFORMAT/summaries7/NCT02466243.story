@@ -1,0 +1,12 @@
+(secondQuint)Safety, Tolerability, and Efficacy of JBT-101 in Subjects With Dermatomyositis.
+
+ Part A: An interventional, double-blind, randomized, placebo-control design will be used to test JBT-101 in about 22 eligible male or female subjects 18 and 70 years of age with moderate-to-severe active skin-predominant dermatomyositis.
+
+ Part B: A one-year open-label design to test JBT-101 in subjects who completed Part A without permanent discontinuation of study product because of safety or tolerability reasons.
+
+.
+
+ Safety, Tolerability, and Efficacy of JBT-101 in Subjects With Dermatomyositis@highlight
+
+The purpose of this study is to evaluate the safety, tolerability and efficacy of JBT-101 in adult subjects with skin-predominant, dermatomyositis (DM) that is refractory to at least 3 months treatment with hydroxychloroquine.
+

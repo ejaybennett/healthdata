@@ -1,0 +1,20 @@
+(thirdQuint)Motivational Instant Messaging and E-diabetes Prevention Programme for High Risk of Type 2 Diabetes.
+
+ The study will examine whether a wearable technology, combined with biofeedback, motivational messaging and an e-diabetes prevention programme, is effective in reducing weight and increasing physical activity after 12 months.
+
+ The intervention will consist of a wearable technology and a smartphone application made available for a 12 month period.
+
+ 22 online multimedia sessions targeting diet, physical activity and mental resilience delivered via the smartphone application.
+
+ Motivational messaging based on the diabetes prevention module content and biofeedback will be sent to participants via the application.
+
+ The control group will receive the wearable technology and will have access to a smartphone application detailing their activity.
+
+ Participants will be directed to the same educational material as is made available via the multimedia sessions, but will not receive motivational messages.
+
+.
+
+ Motivational Instant Messaging and E-diabetes Prevention Programme for High Risk of Type 2 Diabetes@highlight
+
+The overall aim of this feasibility trial is to assess the effectiveness of a wearable technology and an e-diabetes prevention programme delivered via a smartphone application, including motivational messaging, in reducing weight and increasing physical activity in people at risk of developing type 2 diabetes.
+

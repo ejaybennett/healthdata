@@ -1,0 +1,22 @@
+(fifthQuint)Crowdsourcing A Public Health Campaign.
+
+ This study will use an adaptation of the stepped wedge randomized controlled trial design.
+
+ A total of eight major metropolitan cities will implement the crowdsourced intervention.
+
+ These cities will be chosen based on the following criteria: 1) previous Centers for Disease Control and Prevention (CDC) MSM sentinel surveillance site; 2) capacity for campaign implementation; 3) capacity for intervention implementation at the community level.
+
+ Four cities will implement more intensive in-person events to promote engagement (Guangzhou, Shenzhen in Guangdong Province, Qingdao, and Jinan in Shandong Province) during survey intervention stage.
+
+ The Randomized controlled trial (RCT) will be evaluated using two different sources of data: 1) online survey data from MSM in the eight cities prior to and after the intervention; 2) CDC routine surveillance data in the eight cities prior to and after the intervention.
+
+.
+
+ Crowdsourcing A Public Health Campaign@highlight
+
+The purpose of this stepped wedge randomized controlled trial is to evaluate the effectiveness of a crowdsourced intervention on promoting HIV testing among young Chinese men who have sex with men (MSM).
+
+ The crowdsourced intervention will include an open contest, judging to determine finalists and prizes, a designathon, and contest-based MSM engagement.
+
+ The hypothesis is that a crowdsourced intervention will be superior to conventional HIV test uptake campaigns in eliciting HIV test uptake.
+

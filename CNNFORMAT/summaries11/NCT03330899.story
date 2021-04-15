@@ -1,0 +1,12 @@
+(firstQuint)Safety and Immunogencity of H7N9 Influenza Antigen With 2 Adjuvant Formulations in Healthy Adults in Brazil.
+
+ Following the emergence of avian influenza A/H7N9 influenza virus in humans in China in March 2013, the WHO Essential Regulatory Laboratories prepared candidate vaccine viruses and reagents for further development and several manufacturers have developed various inactivated influenza vaccines with and without adjuvant against A/H7N9 and tested these candidates in trials in healthy adults.
+
+ The overall aim of this study is to evaluate the safety, immunogenicity and dose sparing effects of H7N9 influenza antigen produced by Butantan Institute in combination with 2 different adjuvants.
+
+.
+
+ Safety and Immunogencity of H7N9 Influenza Antigen With 2 Adjuvant Formulations in Healthy Adults in Brazil@highlight
+
+The overall aim of this study is to evaluate the safety, immunogenicity and dose sparing effects of H7N9 influenza antigen formulated with 2 different adjuvants .
+

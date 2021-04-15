@@ -1,0 +1,22 @@
+(thirdQuint)Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk.
+
+ The investigators hypothesize that certain over-the-counter dietary supplements will increase urinary excretion of oxalate as measured in 24-h urine collections.
+
+ The investigators further hypothesize that the concentration of oxalate in dietary supplements may not be associated with urinary oxalate excretion, suggesting that other nutritional components of the supplements may be exerting an influence over oxalate biosynthesis, oxalate absorption in the gastrointestinal tract, and/or renal oxalate handling.
+
+ These other factors include the form of oxalate in the supplement (water- vs.
+
+ non water-soluble) and the supplement's concentration of ascorbic acid.
+
+.
+
+ Effect of Over-the-counter Dietary Supplements on Kidney Stone Risk@highlight
+
+The purpose of this study is to ascertain whether certain supplements promote excessive urinary oxalate excretion and increase the risk for calcium oxalate kidney stones.
+
+ Supplements that enhance urinary oxalate excretion, as a result of their oxalate concentration or from some other mechanism (e.
+
+g.
+
+, providing substrate for oxalate biosynthesis) will be identified by the investigators.
+

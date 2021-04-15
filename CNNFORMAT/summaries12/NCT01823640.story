@@ -1,0 +1,56 @@
+(fifthQuint)Experimental Human Rhinovirus Infection.
+
+ The importance of the common cold derives primarily from its frequency and from its enormous socioeconomic impact.
+
+ Human Rhinoviruses (HRVs) are the major cause of the common cold, being responsible for 30-50% of all acute respiratory illnesses with no causal remedies at hand.
+
+ A model to investigate the pathophysiology of HRV infection and to test compounds that could treat or protect one from infection or developing symptoms would therefore be very valuable.
+
+ With this HRV model it is also possible to investigate crosstalk between bacteria and viruses.
+
+ This is very relevant because, following a viral infection, bacterial superinfections are common in clinical practice, and underlying mechanisms and subsequent possible therapies that could prevent this remain to be discovered.
+
+ Worldwide, thousands of subjects have been exposed to experimental rhinovirus infection, of which more than 600 to HRV-16.
+
+ Serious adverse events related to rhinovirus infection have never been documented.
+
+ Therefore, this model can be considered a safe and highly reproducible model.
+
+ Moreover, 52 volunteers have already been exposed to the HRV-16 virus from the batch that we want to use in this study.
+
+ Healthy volunteers who meet all inclusion criteria and none of the exclusion criteria that have given informed consent to participate in the study will be randomized to become either inoculated with HRV-16 (n=20; 10 male+10 female) or with placebo (saline 0.
+
+9%, n=20, 10 male+ 10 female).
+
+ After one week a second inoculation with HRV-16 will be performed in both groups.
+
+ In both groups, 50% of the subjects will be sero-negative and 50% sero-positive to HRV-16.
+
+ One hundred TCID50 units of HRV-16 (by spraying 0.
+
+5 mL into each nostril in supine position in a randomized manner) will be administered.
+
+ The main study parameter is the rate of infection (defined by a positive viral culture, qPCR and/or a four-fold rise in antibody titre) caused by HRV-16 inoculation.
+
+ Secondary endpoints include the duration of the incubation period, the effects of HRV-16 (re-)infection on cold symptoms and spirometry, kinetics of HRV-16-induced local inflammation parameters in nasal washes (including immune cells and cytokine production), kinetics of the HRV-16-induced systemic immune response (including circulating cytokines), the ability of HRV to modulate the systemic immune response (as reflected by the ex vivo production of inflammatory mediators by stimulated leukocytes), the effects of seropositivity on clinical and immunological responses, and the effects of HRV-16 infection on faecal and nasal-pharyngeal microbiota and host transcriptome and metabolome.
+
+.
+
+ Experimental Human Rhinovirus Infection@highlight
+
+Our primary objective is to set up the Human Rhinovirus (HRV)-model in our centre.
+
+ In addition, to facilitate future clinical trials, we want to determine optimal read-out parameters and read-out time points for experimental HRV infection in healthy volunteers.
+
+ Furthermore, we want to analyze to what extent HRV can cause systemic immune effects, and we want to test if subjects with antibodies against HRV can be re-infected with the same virus, and if the presence of HRV antibodies influences the local clinical and immunological response upon infection.
+
+ Additionally, to gain insight in the immune modulating properties of HRV, we want to investigate the immunological response to a HRV re-infection within one week to determine if there are mechanisms that provide immediate protection against re-infection.
+
+ This facilitates a cross-over design of future pharmacological intervention-trials.
+
+ Furthermore, we want to investigate the capacity of HRV infection to modulate the systemic immune response by analyzing the response of leukocytes ex vivo stimulated with different stimuli.
+
+ Moreover, we want to evaluate the effects of HRV-16 infection on the host transcriptome and metabolome.
+
+ Finally, The influence of HRV-16 infection on nasal and gut microbiota will be assessed.
+

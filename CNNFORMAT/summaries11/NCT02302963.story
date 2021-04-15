@@ -1,0 +1,22 @@
+(secondQuint)USS Virginia Closed-Loop Versus SAP Therapy for Hypoglycemia Reduction in T1D.
+
+ The purpose of this study is to evaluate the effectiveness of the control system in reducing hypoglycemia by comparing, in a randomized study, 24 hour control with USS Virginia versus sensor augmented pump (SAP) therapy in subjects with type 1 diabetes and hypoglycemia unawareness and/or risk for hypoglycemia.
+
+ We will also evaluate the effectiveness of the control system to improve hypoglycemia counterregulation, hypoglycemia awareness, and overall glycemic control.
+
+ To achieve this goal, we will conduct pre- and post-intervention inpatient assessments of hypoglycemia counterregulation and symptom awareness.
+
+ Subjects randomized to USS Virginia will participate in two training visits at a monitored outpatient setting for the step-wise deployment of the cell phone based Artificial Pancreas (AP) System at home.
+
+ The first training visit includes training on the study pump and AP System followed by 1 week use of AP System at home in Pump mode.
+
+ The second training visit includes additional training on USS Virginia+AP System and confirmation of independent use by the subject followed by 4 week use of the AP System at home in Closed Loop mode.
+
+ Subjects randomized to sensor-augmented pump therapy will complete 5 weeks of CGM with the home pump.
+
+.
+
+ USS Virginia Closed-Loop Versus SAP Therapy for Hypoglycemia Reduction in T1D@highlight
+
+This is a randomized, controlled trial of Unified Safety System (USS) Virginia closed-loop versus sensor-augmented pump (SAP) therapy for hypoglycemia prevention in subjects with type 1 diabetes and hypoglycemia unawareness and/or risk for hypoglycemia.
+

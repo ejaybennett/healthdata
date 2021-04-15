@@ -1,0 +1,13 @@
+(firstQuint)Effects of Roaccutane on Ca, P, PTH and Vitamin D Metabolites in the Treatment of Sever Acne.
+
+ few studies has been done of serum levels Ca, P, PTH and vitamin D metabolites in patients receiving isotretinoin .
+
+In this study we measured serum levels Ca, P, PTH and vitamin D metabolites before and after treatment with isotretinoin for sever acne in 30 patients .
+
+ the patients had no kown skeletal, endocrine ,renal and gastrointestinal disorders.
+
+.
+
+ Effects of Roaccutane on Ca, P, PTH and Vitamin D Metabolites in the Treatment of Sever Acne@highlight
+
+serum levels Ca, P, PTH and vitamin D metabolites before and after treatment with isotretinoin for sever acne

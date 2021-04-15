@@ -1,0 +1,28 @@
+(firstQuint)Nicotine Pharmacodynamics With a New Oral Nicotine Replacement Therapy and Nicotine Gum.
+
+ This study will be performed at two sites and two-hundred and fifty (250) healthy male and female subjects will be included.
+
+ Treatments comprise single doses of an experimental Nicotine Replacement Therapy (NRT) and Nicorette Freshfruit gum 4 mg, which are chewed during 30 minutes.
+
+ All subjects will be given both treatments in a crossover setting.
+
+ The length of the time interval separating treatment visits, and during which no NRT must be used, will be at least 36 hours.
+
+ The subjects will abstain from smoking from 8 pm the evening before until the end of each visit.
+
+ The subjects will take the gums according to instructions from the study personnel.
+
+ After chewing, used gums will be collected for nicotine analysis.
+
+ Electronic diaries will be used to collect data.
+
+ Urges to smoke will be scored on a 100 mm visual analogue scale (VAS) before the start of treatment and during 5 hours thereafter.
+
+ Subjects will also be monitored to capture any adverse events that may occur.
+
+.
+
+ Nicotine Pharmacodynamics With a New Oral Nicotine Replacement Therapy and Nicotine Gum@highlight
+
+A comparison of two products for oral nicotine replacement with respect to relief of urges to smoke after single doses of nicotine.
+

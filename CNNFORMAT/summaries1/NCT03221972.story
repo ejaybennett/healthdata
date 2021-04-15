@@ -1,0 +1,18 @@
+(firstQuint)Vitamin D of Chinese Children and Adolescents.
+
+ In this study, we analyzed the vitamin D status of Chinese children and adolescents aged 6-17y, and related risk factors (such as gender, region strata, ambient UVB level at area of residence, season, and outdoor time, etc.
+
+).
+
+ Serum 25 hydroxyvitamin D [25(OH)D] was measured with a radioimmunoassay kit in 15 000 children and adolescent participants in Chinese national nutrition and health survey (CNNHS) 2010-2012.
+
+ Age, gender, region type, ethnicity, outdoor time, vitamin D supplementation were recorded in unified design questionnaires.
+
+ Season was recorded by the date of blood taken; location was divided into north and south by China's Qinling mountains and Huaihe river; and ambient ultraviolet B (UVB) radiation level was classified according to the corresponding dose of each participant living area from National Aeronautics and Space Administration data.
+
+.
+
+ Vitamin D of Chinese Children and Adolescents@highlight
+
+The aim of this study was to assess the vitamin D status and analyze risk factors for vitamin D inadequacy of Chinese children and adolescents aged 6-17y.
+

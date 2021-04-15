@@ -1,0 +1,26 @@
+(fifthQuint)Alternative Treatment of Deep Carious Lesions Based on Biological Evidences.
+
+ The treatment provided today for deep carious lesions in deciduous teeth is complete removal of the soft caries, that can lead to a wide preparation and need of tooth pulpotomy if the caries reaches to the pulp chamber, even if the tooth is asymptomatic and shows no signs of pulpal inflammation (neither clinically nor radiographically).
+
+ According to a number of recent evidence based researches, and only in selected cases, dentists were able to preserve the vitality of the pulp without complete removal of the caries present near the pulp chamber.
+
+ A thin layer of caries near the pulp chamber is left, and a liner is placed (conservative treatment).
+
+ The carious process is stopped when the tooth is sealed, and thus the tooth is saved without engaging with pulpotomy and wide preparation of the tooth.
+
+ The purpose of this study is to evaluate the success rate of the conservative treatment of deep carious lesions versus the treatment provided today that includes complete removal of caries and probably includes pulpotomy and wide preparation of the tooth.
+
+ The study also evaluates the cost-effectiveness of both methods of treatment of deep carious lesions.
+
+.
+
+ Alternative Treatment of Deep Carious Lesions Based on Biological Evidences@highlight
+
+The purpose of this study is to evaluate the success rate of alternative treatment of deep carious lesions in asymptomatic primary teeth with no clinical nor radiographic signs of pulpal inflammation.
+
+ The treatment includes leaving a thin layer of caries that is present near the pulp chamber and includes liner placement and tooth sealing.
+
+ This alternative treatment is to be compared with the treatment provided today to these teeth, which includes complete removal of caries and probably includes pulpotomy and wide preparation of the tooth.
+
+ The study also evaluates the cost-effectiveness of both methods of treatment of deep carious lesions.
+

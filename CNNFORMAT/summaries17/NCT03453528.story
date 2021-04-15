@@ -1,0 +1,14 @@
+(secondQuint)Investigation of 68GaPSMA PET/CT as an Imaging Biomarker in Solid Tumors.
+
+ Single-centre, prospective, diagnostic trial to evaluate the Prostate-Specific Membrane Antigen (PSMA-antigen) over-expression in metastatic castration resistant prostate cancer (mCRPC) and in advanced/metastatic solid tumors patients.
+
+ The primary objective of this study is to evaluate the detection rate of 68Ga-PSMA PET/CT, defined as the ratio of 68Ga-PSMA-positive patients and the total number of cancer patients with known advanced/metastatic disease that performed a 68Ga-PSMA PET/CT as part of the present study.
+
+ A positive patient is defined as a patient with at least one 68Ga-PSMA-positive lesion.
+
+.
+
+ Investigation of 68GaPSMA PET/CT as an Imaging Biomarker in Solid Tumors@highlight
+
+Single-centre, prospective, diagnostic trial to evaluate the Prostate-Specific Membrane Antigen (PSMA-antigen) over-expression in metastatic castration resistant prostate cancer (mCRPC) and in advanced/metastatic solid tumors patients.
+

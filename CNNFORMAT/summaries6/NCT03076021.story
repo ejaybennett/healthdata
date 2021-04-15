@@ -1,0 +1,10 @@
+(firstQuint)Effects of Isotretinoin on CYP2D6 Activity.
+
+ In this aim, we will conduct a drug-drug interaction study evaluating the effects of 13-cis-retinoic acid on non-induced CYP2D6 activity in adolescent patients.
+
+ Secondary analysis will evaluate the relationship between retinoid concentrations and CYP2D6 activity in these special populations.
+
+ Effects of Isotretinoin on CYP2D6 Activity@highlight
+
+Specific Aim: To investigate if isotretinoin (13-cis-retinoic acid) administration decreases CYP2D6 activity in adolescent patients.
+

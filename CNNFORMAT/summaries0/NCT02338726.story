@@ -1,0 +1,18 @@
+(firstQuint)Pelvic Floor Symptoms and Quality of Life in Elderly Women - a Population-based Pilot Study.
+
+ The aim is to assess pelvic floor symptoms and quality of life in elderly women.
+
+ The study is conducted as population-based in 100-130 women at the age of 64-66 years.
+
+ All study objects are examined gynecologically and with vaginal ultrasound.
+
+ Subjective symptoms are evaluated with validated questionnaires concerning pelvic floor symptoms, sexual symptoms and quality of life.
+
+ This is a pilot study before a larger scale population-based study.
+
+.
+
+ Pelvic Floor Symptoms and Quality of Life in Elderly Women - a Population-based Pilot Study@highlight
+
+To assess pelvic floor symptoms and quality of life in elderly women.
+

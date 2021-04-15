@@ -1,0 +1,26 @@
+(fifthQuint)Cardiac Deformation: Correlation With Conventional Echocardiographic Hemodynamic Variables (An Intraoperative Study).
+
+ Patients included in this study are between the ages of 18 to 99 years of age, who presented to the operating room for cardiac surgery, and received both a pulmonary artery catheter and a routine intra-operative TEE.
+
+ We will only be looking at patients whose TEE images were of good quality.
+
+ Subjects underwent cardiac surgery and received both a PAC and a routine TEE exam.
+
+ We will review the data from the PAC, the images from the conventional TEE exam, and a secondary analysis with Tissue Doppler.
+
+ A potential benefit to society is a novel means for assessing left ventricular function.
+
+ Our research will not benefit our subjects directly.
+
+ There is no additional risk to our subjects beyond the insertion of the PAC and the TEE probe, which are routinely placed in our patients under-going cardiac surgery.
+
+.
+
+ Cardiac Deformation: Correlation With Conventional Echocardiographic Hemodynamic Variables (An Intraoperative Study)@highlight
+
+The aim of this research is to apply cardiac tissue characterization in order to assess left ventricular function in cardiac surgical patients pre and post cardiopulmonary bypass.
+
+ The procedures to be used include a retrospective review of transesophageal images obtained during conventional intraoperative transesophageal echocardiography (TEE) for cardiac surgery, as well as a secondary analysis with Tissue Doppler.
+
+ The results will be compared with hemodynamic data obtained from a pulmonary artery catheter (PAC).
+

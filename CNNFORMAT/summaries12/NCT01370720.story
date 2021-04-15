@@ -1,0 +1,40 @@
+(fifthQuint)Safety and Efficacy Study of PEA and Polydatin on Intestinal Inflammation and Visceral Hyperalgesia in IBS Patients.
+
+ The number of inflammatory cells in the gut wall of IBS patients is increased in comparison to asymptomatic controls.
+
+ A significant increase in the number of both mast cells and T-lymphocytes in the mucosa of IBS patients have been reported.
+
+ Electron microscopic studies demonstrated that mast cells were more frequently degranulated in IBS, suggesting their increased state of activation.
+
+ Accordingly, an increased mucosal release of preformed mediators, such as histamine and tryptase, as well as de novo synthesis and secretion of arachidonic acid end products (e.
+
+g.
+
+ prostaglandin E2) have been demonstrated.
+
+ These mediators are known to target sensory nerve pathways, including those innervating the gastrointestinal tract, leading to visceral hyperalgesia.
+
+ Electron microscopic studies showed that the mean distance between inflammatory cells and enteric nerves is significantly reduced in IBS patients, thus providing a conceptual basis for a putative pathogenetic role of low-grade inflammation on sensory-motor dysfunction in IBS.
+
+ Activated mast cells in close proximity to mucosal colonic innervation correlated with the frequency and severity of abdominal pain.
+
+ Evidence that mast cell mediators of IBS patients, but not controls, evoked activation of nociceptive sensory afferent neurons are available, thus providing a possible mechanism through which mast cells can evoke pain in IBS patients.
+
+ Similar results has been recently reported following the administration into the rat colon of supernatants collected from human IBS colonic biopsy samples in culture.
+
+ This nociceptive effect on murine sensory neurons was inhibited by serine protease inhibitors and a Protease Activating Receptor-2 antagonist.
+
+.
+
+ Safety and Efficacy Study of PEA and Polydatin on Intestinal Inflammation and Visceral Hyperalgesia in IBS Patients@highlight
+
+Despite the pathophysiology of IBS remains largely unsettled, several mechanisms have been proposed to explain symptom generation.
+
+ These include psychosocial factors, altered gastrointestinal motor function and altered perception of visceral stimuli because of chronic low-grade inflammation and increased nociceptive mediator release by inflammatory cells, particularly mast cells.
+
+ The aim of this pilot study is to provide evidence of: 1.
+
+ intestinal mast cell (MC) infiltration and activation in IBS patients; 2.
+
+ down-modulation of MC activation by the oral administration of the association of palmitoylethanolamide (PEA) and polydatin in IBS patients.
+

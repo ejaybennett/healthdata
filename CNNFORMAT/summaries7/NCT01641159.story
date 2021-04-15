@@ -1,0 +1,12 @@
+(secondQuint)Study of Buspirone for Relapse-Prevention in Adults With Cocaine Dependence.
+
+ The primary objective is to evaluate the efficacy of buspirone, relative to placebo, in preventing relapse in cocaine-dependent adults in inpatient/residential treatment who are planning to enter outpatient treatment upon inpatient/residential discharge.
+
+ Secondary objectives include evaluating the impact of buspirone, relative to placebo, on other drug-abuse outcomes and on factors that may mediate buspirone's efficacy as a relapse-prevention treatment.
+
+.
+
+ Study of Buspirone for Relapse-Prevention in Adults With Cocaine Dependence@highlight
+
+The purpose of this study is to evaluate whether or not buspirone is effective in preventing relapse in cocaine-dependent adults in inpatient/residential treatment who are planning to enter outpatient treatment upon inpatient/residential discharge.
+

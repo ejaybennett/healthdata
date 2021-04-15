@@ -1,0 +1,20 @@
+(firstQuint)Effects of Craniosacral Therapy on Chronic Neck Pain.
+
+ Craniosacral Therapy (CST) is a variation of osteopathic manipulation with an integrative approach.
+
+ By soft manual palpation of the craniosacral and fascia system sensory, motor, cognitive, and emotional processes can be influenced.
+
+ In the prevention and treatment of chronic pain syndromes Craniosacral Therapy is demonstrated to be effective in clinical practice and quite a few scientific trials.
+
+ But yet there are no randomized controlled studies concerning to chronic neck pain.
+
+ So the aim of this study is to investigate whether a total of 8 CST units of 45 minutes will be effective in patients suffering from chronic nonspecific neck pain in contrast to sham therapy of the same extent.
+
+ The prospective study design includes measurement points at baseline, post treatment, and 3 months follow-up.
+
+.
+
+ Effects of Craniosacral Therapy on Chronic Neck Pain@highlight
+
+The purpose of this randomized controlled trial is to determinate the efficacy and safety of Craniosacral Therapy in the treatment of chronic unspecific neck pain.
+

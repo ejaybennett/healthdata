@@ -1,0 +1,20 @@
+(firstQuint)Effect of Saccharomyces Boulardii in Patients in the Waiting List for Liver Transplant.
+
+ Increased intestinal permeability are related to the major complications of liver cirrhosis.
+
+ The administration of probiotics has been suggested to improve the barrier function of the mucosa and consequently avoid the complications of the disease.
+
+ The objective of this study was to evaluate the effect of Saccharomyces boulardii in patients in the waiting list for liver transplant.
+
+ Eighteen patients were treated with Saccharomyces boulardii.
+
+ Intestinal permeability (lactulose/mannitol ratio) and laboratory parameters were evaluated immediately before the beginning of treatment, after a thirty-day period of treatment with probiotic and at the end of the second study month (after a thirty-day period without treatment with probiotic).
+
+ Twenty healthy volunteers were also submitted for the intestinal permeability test.
+
+.
+
+ Effect of Saccharomyces Boulardii in Patients in the Waiting List for Liver Transplant@highlight
+
+The purpose of this study is to evaluate the effect of Saccharomyces boulardii in patients in the waiting list for liver transplant.
+

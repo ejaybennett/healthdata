@@ -1,0 +1,10 @@
+(firstQuint)Effects of Chronic Antihypertensive Therapy on Clinical Outcomes in Septic Shock.
+
+ This will be a retrospective two-cohort study to determine the effect of chronic antihypertensive therapy on new onset atrial fibrillation and clinical outcomes in septic shock.
+
+ The two cohorts will be septic shock patients that were: 1) not on either a chronic -blocker or angiotensin-converting-enzyme inhibitor (ACE inhibitor) or 2) on a chronic -blocker, on chronic ACE-Inhibitor, or on both chronic -blocker and ACE-inhibitor.
+
+ Effects of Chronic Antihypertensive Therapy on Clinical Outcomes in Septic Shock@highlight
+
+Retrospective two-cohort study to determine the effect of chronic antihypertensive therapy on new onset atrial fibrillation and clinical outcomes in septic shock.
+

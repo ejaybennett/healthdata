@@ -1,0 +1,22 @@
+(secondQuint)Intraoperative Volume Management and QT Interval.
+
+ Prolongation of the QT interval is associated with functional torsade de points, re-entry, and sudden death (see reference).
+
+ Variations of QT-interval caused by changes in the volume status of the patient during an operation remained unclear.
+
+ QT interval changes will be monitored during the surgery with the focus of the influence of sudden blood loss, volume substitution by crystalloids, blood and blood products.
+
+ The effect of surgical procedures on the QT-intervall (e.
+
+g.
+
+ clamping of kidney artery) will be observed as well as the association of intra-operative QT-interval alterations with postoperative complications.
+
+.
+
+ Intraoperative Volume Management and QT Interval@highlight
+
+QT interval changes is measured during all phases of the operation.
+
+ The protocol is focusing at intraoperative bleeding events and is also observing QT interval changes during anesthetic and operative procedures.
+

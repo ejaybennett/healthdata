@@ -1,0 +1,16 @@
+(firstQuint)A Study to Evaluate the Ability of Lupron Depot to Enhance Immune Function Following Bone Marrow Transplantation.
+
+ This Phase 2 study will be conducted in patients with Hodgkin's disease, non-Hodgkin's lymphoma, multiple myeloma, or mantle cell lymphoma undergoing high-dose chemotherapy and autologous stem cell transplantation.
+
+ Patients will be randomized to receive either LAD 11.
+
+25 mg 3 Month treatment or placebo and all patients will be vaccinated with KLH 6 months posttransplant.
+
+ Patients will be evaluated to determine if the rate of immunologic recovery in the LAD group is enhanced compared with the placebo group.
+
+.
+
+ A Study to Evaluate the Ability of Lupron Depot to Enhance Immune Function Following Bone Marrow Transplantation@highlight
+
+Phase 2 study, conducted in patients with Hodgkin's disease, non-Hodgkin's lymphoma, multiple myeloma, or mantle cell lymphoma undergoing high-dose chemotherapy and autologous stem cell transplantation.
+

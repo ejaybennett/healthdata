@@ -1,0 +1,20 @@
+(firstQuint)Safety, Efficacy, and Pharmacokinetic Behavior of Leuprolide Mesylate in Subjects With Advanced Prostate Carcinoma.
+
+ This is a multi-center, open-label, single-arm study conducted in 2 parts.
+
+ Part I was established to provide a vanguard of the first 30 subjects who will have more frequent monitoring of their safety.
+
+ If safety is established, the remainder of the subjects will be entered into the clinical study (i.
+
+e.
+
+, Part II).
+
+ All subjects will be males with advanced prostate carcinoma judged to be candidates for medical androgen ablation therapy, and all will receive two injections of LMIS 50 mg six-month apart in an unblinded fashion.
+
+.
+
+ Safety, Efficacy, and Pharmacokinetic Behavior of Leuprolide Mesylate in Subjects With Advanced Prostate Carcinoma@highlight
+
+The study will evaluate if Leuprolide Mesylate is safe and effective in the treatment of subjects with advanced prostate carcinoma, when administered as two injections six months apart.
+

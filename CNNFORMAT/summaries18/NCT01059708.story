@@ -1,0 +1,56 @@
+(fifthQuint)Outcome Following Carbon Monoxide Poisoning in Children.
+
+ Each child's participation in this study is expected to last 6 months.
+
+ Testing will be scheduled around 6 weeks after the carbon monoxide (CO) poisoning episode.
+
+ During testing, each child will be asked to complete tests that measure cognitive (thinking), emotional, and behavioral performance.
+
+ We will collect information from each child's medical record about the CO poisoning episode, and we will have a parent complete a questionnaire about any problems he or she may have observed in their child since the poisoning.
+
+ The cognitive testing will take about 3.
+
+5 hours at the 6-week interval, and 2.
+
+5 hours at the 6-month interval.
+
+ Around the same time, each child will also be scheduled for vestibular (balance) testing at the Intermountain Hearing and Balance Center.
+
+ Vestibular testing will occur twice, at 6-weeks and 6-months following poisoning.
+
+ At the 6-week visit, if the child and parents agree, we will ask each child to provide a DNA sample by one of three methods: mouthwash, spit collection, or swabbing the inside of the child's cheek.
+
+ Each child's DNA will be analyzed for genes that are known to affect outcome following brain injury such as apolipoprotein E, and the sample will also be stored for an indefinite period of time.
+
+ If discoveries are made about other genes that affect outcome following brain injury, each child's DNA will be analyzed for those genes as well.
+
+ The primary outcome measure will be the percentage of patients with cognitive sequelae (thinking complications or results) at 6 weeks and 6 months following CO poisoning.
+
+ Secondarily, we will also determine: 1.
+
+ Which individual neurocognitive (thinking) outcomes at 6 weeks and 6 months differ from normative data.
+
+ 2.
+
+ Whether there is a difference in neurocognitive (thinking) outcomes between measurement at 6 weeks and 6 months.
+
+ 3.
+
+ If there is a difference in the vestibular (balance) health of patients between measurements at 6 weeks and 6 months.
+
+.
+
+ Outcome Following Carbon Monoxide Poisoning in Children@highlight
+
+Carbon monoxide poisoning is common.
+
+ Many adults with CO poisoning have long-term, even permanent brain injury following poisoning.
+
+ However, very little is known about the long-term outcome of children with carbon monoxide (CO) poisoning.
+
+ In this study we plan to perform cognitive (thinking) and vestibular (balance) testing in children (ages 6 to 16)at 6 weeks and 6 months following CO poisoning.
+
+ At the 6-week visit, if the child and parents agree, we will ask each child to provide a DNA sample by one of three methods: mouthwash, spit collection, or swabbing the inside of the child's cheek.
+
+ Each child's DNA will be analyzed for genes that are known to affect outcome following brain injury.
+

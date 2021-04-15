@@ -1,0 +1,34 @@
+(thirdQuint)IOL Implantation After KAMRA Inlay Removal.
+
+ This will be a prospective study in which no more than 20 subjects will be implanted with IC-8 IOL following the removal of the KAMRA inlay.
+
+ The refractive target of the IC-8 eye will be -0.
+
+75 D MRSE.
+
+ Subjects will be screened for eligibility and consented before enrolled.
+
+ Following enrollment, the inlay will be removed, and the eye will be monitored for corneal and refractive stability before the implantation of the IC-8 IOL.
+
+ Corneal stability is defined as keratometry readings in each meridian within 0.
+
+50 D, and/or the stability of the corneal topography as determined by the principal investigator, over two consecutive visits at least two weeks apart.
+
+ Refractive stability is defined as manifest refractive sphere and cylinder measurements that are each within 0.
+
+50 D over two consecutive visits at least two weeks apart, or based on investigator judgment.
+
+ When corneal and refractive stability are achieved, the IC-8 IOL will be implanted following cataract extraction by phacoemulsification.
+
+.
+
+ IOL Implantation After KAMRA Inlay Removal@highlight
+
+A.
+
+ The primary purpose of the study is to evaluate outcomes of aphakic eyes implanted with the IC-8 IOL following cataract removal in prior inlay patients after KAMRA inlay removal.
+
+ B.
+
+ The secondary purpose of the study is to determine whether there are any changes in biometry measurements before and after the inlay removal and how the changes affect the calculated IOL power.
+

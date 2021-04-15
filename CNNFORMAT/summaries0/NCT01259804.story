@@ -1,0 +1,17 @@
+(firstQuint)Study of Tolerance to Oral Peanut.
+
+ Background Peanut allergy is severe and rarely resolves.
+
+ Objective To test the efficacy and safety of a new oral immunotherapy protocol for peanut allergy.
+
+ Method 22 peanut-allergic children will undergo oral challenge.
+
+ Oral immunotherapy will be administered by gradual updosing with 2-weekly increments (8-38w) to 800mg protein (5 peanuts/day) followed by 30-weeks maintenance.
+
+ Oral challenge will be repeated after 6 and 30 weeks maintenance.
+
+.
+
+ Study of Tolerance to Oral Peanut@highlight
+
+Open pilot study of peanut oral immunotherapy in 22 children with peanut allergy

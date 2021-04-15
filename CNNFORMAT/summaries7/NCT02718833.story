@@ -1,0 +1,32 @@
+(secondQuint)A Study of Elotuzumab With Pomalidomide, Bortezomib, and Dexamethasone in Relapsed Multiple Myeloma.
+
+ This research study is a phase II clinical trial, the investigators are studying the safety and response rate of the combinations of elotuzumab, pomalidomide, bortezomib, dexamethasone (elo-PVD).
+
+ The FDA (the U.
+
+S.
+
+ Food and Drug Administration) has approved each of those drugs elotuzumab, pomalidomide, bortezomib, dexamethasone as a treatment option for Refractory or relapsed multiple myeloma.
+
+ Pomalidomide is a drug that changes that enhances or suppresses your immune systems reaction to a stimulus.
+
+This change may help the body destroy tumor cells.
+
+ Bortezomib is an inhibitor that targets how cells dispose of unneeded proteins.
+
+ By blocking this process, bortezomib can help destroy unwanted cells.
+
+ Dexamethasone is a steroid, that helps prevent inflammation in a wide variety of organs and acts against myeloma cells.
+
+ Elotuzumab is a monoclonal antibody, Elotuzumab targets a protein that is highly common on the surface of multiple myeloma cells called SLAMF7.
+
+ The combination of the drugs may provide an unique approach for treating the disease.
+
+.
+
+ A Study of Elotuzumab With Pomalidomide, Bortezomib, and Dexamethasone in Relapsed Multiple Myeloma@highlight
+
+This research study is studying a combination of study drugs as a possible treatment for relapsed and refractory Multiple Myeloma.
+
+ The interventions involved in this study are elotuzumab, pomalidomide, bortezomib, dexamethasone.
+

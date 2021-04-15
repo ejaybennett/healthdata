@@ -1,0 +1,12 @@
+(firstQuint)Standard Colonoscopy Versus Colonoscopy With Endocuff Vision.
+
+ For this study, subjects will be randomized into one of two groups (those who receive a standard colonoscopy and those who receive a colonoscopy with an Endocuff Vision attachment).
+
+ Results will then be compared between the two; these include insertion time (time it takes to reach the cecum of the large intestine), inspection time (time spent examining the large intestine), the total time per each polypectomy (removal of polyps in the colon), and the total procedure time of the colonoscopy.
+
+.
+
+ Standard Colonoscopy Versus Colonoscopy With Endocuff Vision@highlight
+
+This study seeks to compare colonoscopy results between a standard method and one using a distal scope attachment (Endocuff Vision).
+

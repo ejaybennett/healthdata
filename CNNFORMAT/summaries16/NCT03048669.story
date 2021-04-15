@@ -1,0 +1,54 @@
+(fifthQuint)Long Term Outcomes of Therapy in Women Initiated on Lifelong ART Because of Pregnancy in DR Congo.
+
+ The US President's Emergency Plan for AIDS Relief (PEPFAR) goal of an AIDS-free generation, re-emphasized in PEPFAR 3.
+
+0, will not be achieved without substantial improvement in the adherence to the HIV care continuum among women in maternal and child health clinics (MCH) in resource-limited settings.
+
+ In a recent meta-analysis of loss to follow-up (LTFU) across the prevention of mother-to-child transmission of HIV (PMTCT) cascade, about 50% of HIV+ pregnant women are already LTFU by delivery; within 3 months of delivery 33.
+
+9% of mother-infant pairs are also LTFU.
+
+ Consequently, half of pediatric infections are currently estimated to occur in the postpartum period during breastfeeding and fewer than 40% of HEI are tested for HIV at 2-3 months.
+
+ Determinants of this poor performance occur at multiple levels: healthcare delivery systems, providers, and beneficiaries (HIV-infected mothers).
+
+ Current evidence suggest that beyond individual-level factors, healthcare delivery system level factors are paramount.
+
+ Quality Improvement (QI) Collaborative is one of the most popular methods for organizing sustained improvement efforts at hospitals and ambulatory practices worldwide.
+
+ In the Breakthrough Series approach also refer to as continuous quality improvement (CQI),10 QI teams from multiple sites across a region or country are brought together to focus on a common problem.
+
+ Over one or two years, experts in clinical and performance improvement provide the group with periodic instructions and encourage the teams to share lessons learned and best practices.
+
+ However, its popularity, CQI effectiveness has never been demonstrated in a randomized trial or a well-designed comparative study.
+
+ The aims of the proposed study are: 1) to evaluate the effectiveness of CQI interventions in improving long-term retention in care and virological suppression in women who start lifelong ART in MCH clinics and 2) to identify modifiable health delivery system factors associated with retention in care and sustained virological suppression in women who start lifelong ART in MCH clinics.
+
+ The study will be implemented in Kinshasa, Democratic Republic of Congo (DRC): an extremely resource-limited country that has struggled to emerge from decades of gross mismanagement, rampant corruption, and wars that have left its health infrastructures in shambles.
+
+ We will conduct a cluster-randomized trial with health districts as the randomization unit.
+
+ MCH clinics in the intervention group, will undergo CQI initiatives using participatory data-driven approaches and on-site monitoring and supervisory support.
+
+ We will use surveys of health facilities, including selected staff, and service beneficiaries (HIV infected mothers) to collect data on key characteristics of the service delivery's organization and providers' and patients' perspective of the HIV care delivery performance.
+
+ The main outcomes will be LTFU/retention in care, virological suppression and MTCT rates evaluated at 24 months postpartum.
+
+.
+
+ Long Term Outcomes of Therapy in Women Initiated on Lifelong ART Because of Pregnancy in DR Congo@highlight
+
+Despite the rapid adoption of the World Health Organization's 2013 guidelines, many children continue to be infected with HIV perinatally because of sub-optimal adherence to the continuum of HIV care in maternal and child health clinics (MCH).
+
+ To achieve the UNAIDS goal eliminating mother-to-child HIV transmission, multiple, adaptive interventions will need to be implemented to improve adherence to the HIV continuum.
+
+ The aim of this open label, parallel groups, randomized controlled trial is to evaluate the effectiveness of Continuous Quality Improvement (CQI) interventions implemented at facility and health district level to improve retention in care and virological suppression through 24 months postpartum among pregnant and breastfeeding women receiving ART in MCH clinics in Kinshasa, Democratic Republic of Congo.
+
+ Prior to randomization, the current monitoring and evaluation system will be strengthen to enable collection of high quality individual patient-level data necessary for the timely production of indicators and monitoring of program outcomes to inform CQI interventions.
+
+ Following randomization, in health districts randomized to CQI, quality improvement (QI) teams will be established at the district level and at MCH clinics level.
+
+ For 18 months, QI teams will be brought together quarterly to identified key bottlenecks in the care delivery system using data from the monitoring system, develop an action plan to address those bottlenecks, and implement the action plan at the level of their district or clinics.
+
+ If proven to be effective, CQI as designed here, could be scaled up rapidly in DRC and other resource-limited settings to accelerate progress towards the goal of an AIDS free generation.
+

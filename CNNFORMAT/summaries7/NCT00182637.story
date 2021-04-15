@@ -1,0 +1,24 @@
+(secondQuint)Bortezomib in Treating Patients With Relapsed or Refractory Cutaneous T-Cell Lymphoma.
+
+ OBJECTIVES: - Determine the response rates (complete response and partial response) and duration of response in patients with relapsed or refractory cutaneous T-cell lymphoma treated with bortezomib.
+
+ - Determine the safety and tolerability of this drug in these patients.
+
+ OUTLINE: This is an open-label study.
+
+ Patients receive bortezomib IV over 3-5 seconds on days 1, 4, 8, and 11.
+
+ Treatment repeats every 21 days for up to 8 courses in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed at 1 month and then at least every 3 months for 2 years or until disease progression.
+
+ PROJECTED ACCRUAL: A total of 15-25 patients will be accrued for this study.
+
+.
+
+ Bortezomib in Treating Patients With Relapsed or Refractory Cutaneous T-Cell Lymphoma@highlight
+
+RATIONALE: Bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ PURPOSE: This phase II trial is studying how well bortezomib works in treating patients with relapsed or refractory cutaneous T-cell lymphoma.
+

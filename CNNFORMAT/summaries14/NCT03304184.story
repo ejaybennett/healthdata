@@ -1,0 +1,16 @@
+(firstQuint)The Role of Biodentine in Class V Dental Lesions on Oral Health Related Quality of Life.
+
+ The study will compare two different dental materials on dental lesions near the gum line.
+
+ One of the materials is tooth colored and the other material is white but both materials use different mechanisms to attach to the teeth and may have different outcomes.
+
+ The study will determine if one material is more effective in relieving chronic pain.
+
+ In addition, we will evaluate changes in oral health related quality of life after the placement of the two different dental materials.
+
+.
+
+ The Role of Biodentine in Class V Dental Lesions on Oral Health Related Quality of Life@highlight
+
+The study will compare two different dental materials on dental lesions near the gum line that cause chronic pain on oral health related quality of life.
+

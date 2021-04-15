@@ -1,0 +1,16 @@
+(firstQuint)Effect of Calcium and Vitamin D on Bone Loss From the Hip.
+
+ In this study 445 men and women age 65 and older were enrolled for three years each.
+
+ Subjects were randomized to treatment with 500 mg of calcium s calcium citrate malate plus 700 IU of vitamin D daily or placebo.
+
+ Subjects came to the research center every six months for biochemical and bone mineral density measurements.
+
+ Changes in these measures over the three years were determined in each group and compared.
+
+.
+
+ Effect of Calcium and Vitamin D on Bone Loss From the Hip@highlight
+
+The primary aim of this study is to determine the effects of supplementation with both calcium and vitamin D on changes in bone density of the hip in men and women age 65 and older.
+

@@ -1,0 +1,15 @@
+(firstQuint)The Effect Site Concentration of Remifentanil for Preventing QTc Interval Prolongation During Intubation Under Propofol-remifentanil Anesthesia in Elderly Patients.
+
+ The increase of Corrected QT (QTc) interval is associated with age.
+
+ It is known that most inhalation anesthetics or intravenous anesthetics can influence the QTc.
+
+ In addition, tracheal intubation during induction can stimulates sympathetic activity, which, as a results, prolong the QTc interval.
+
+ Therefore, the aim of study is to find out the effect site concentration of remifentanil for preventing QTc interval prolongation during intubation under propofol-remifentanil anesthesia in elderly patients.
+
+.
+
+ The Effect Site Concentration of Remifentanil for Preventing QTc Interval Prolongation During Intubation Under Propofol-remifentanil Anesthesia in Elderly Patients@highlight
+
+To find out the effect site concentration of remifentanil for preventing QTc interval prolongation during intubation under propofol-remifentanil anesthesia in elderly patients

@@ -1,0 +1,22 @@
+(thirdQuint)Open vs Laparoscopic Liver Surgery for Colorectal Liver Metastases.
+
+ The safety and efficacy of liver surgery in the treatment of colorectal liver metastases are well established for the open approach.
+
+ It allows good results in terms of complications, disease free survival and overall survival, and for these reasons it has become the gold standard technique in the treatment of colorectal liver metastases.
+
+ On the contrary, the role of laparoscopic liver resection in this context is not so clear nowadays.
+
+ Generally, laparoscopic surgery offers some advantages such as less pain, shorter hospital stay and better aesthetic results.
+
+ But the use of laparoscopic approach in liver surgery is still discussing: two international consensus conferences have been held and no strong conclusions have been made.
+
+ Furthermore for colorectal liver metastases no randomized trials, comparing both techniques, have been published until now.
+
+ To assess the feasibility of laparoscopic liver resection for colorectal metastases, the investigators propose this trial in which the patients suitable for laparoscopic approach are randomized to open or laparoscopic group.
+
+ Open vs Laparoscopic Liver Surgery for Colorectal Liver Metastases@highlight
+
+This study evaluates the feasibility of laparoscopic surgery in patients diagnosed with colorectal liver metastases.
+
+ Half of participants will be operated on by laparoscopic approach and the results obtained will be compared with the results from the other half of patients operated on by open approach.
+

@@ -1,0 +1,12 @@
+(firstQuint)Blood Biomarkers of Injury and Outcome in Traumatic Brain Injury.
+
+ Blood samples will be drawn on traumatic brain injury patients who are participating in the ProTECT III study just prior to the initiation of the study drug infusion and 24 and 48 hours from the time they are enrolled in the study to test for biomarkers that may help predict how severe the injury is and how well they improve.
+
+ The investigators will also test to see if the study medication is being absorbed and is staying at a consistent level in the blood stream.
+
+.
+
+ Blood Biomarkers of Injury and Outcome in Traumatic Brain Injury@highlight
+
+Blood samples will be drawn on traumatic brain injury patients who are participating in the ProTECT III study.
+

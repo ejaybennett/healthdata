@@ -1,0 +1,20 @@
+(firstQuint)Gut Derived Hormones, Body Composition and Metabolism in Prader-Willi Syndrome.
+
+ Prader-Willi Syndrome (PWS) is the most frequent known genetic disorder of obesity.
+
+ Hyperphagia is the main barrier to independent living in adults with PWS, and hitherto behavioural restraints and environmental modification are the only effective management measure.
+
+ The emerging costs for professional care are immense.
+
+ Thus, there is an urgent need for treatment which reduce appetite and food intake in this patient group.
+
+ Agonists of the gut derived hormone GLP-1 which reduces food intake and causes weight loss due to slowed gastric emptying and through direct central effects.
+
+ The aim of this pilot drug trial is to analyse the effect of a GLP-1 agonist on appetite regulating hormones, insulin secretion and energy expenditure before and after a meal.
+
+.
+
+ Gut Derived Hormones, Body Composition and Metabolism in Prader-Willi Syndrome@highlight
+
+The purpose of this study is to investigate the effects of a GLP-1 agonist on satiety hormones in patients with Prader-Willi Syndrome (genetic defect causing obesity).
+

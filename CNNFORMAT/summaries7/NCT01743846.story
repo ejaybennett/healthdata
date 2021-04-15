@@ -1,0 +1,16 @@
+(secondQuint)CNAP Accuracy Dependent on Hemodynamic Variables.
+
+ Agreement of CNAP pressure with invasive pressure is evaluated dependent on hemodynamic variables achieved by a PICCO monitor.
+
+ Hypothesis: Low cardiac output and volume status but not high vascular resistance affect the accuracy of CNAP.
+
+ Body mass index and age may have impact on the accuracy of PPV measured non-invasively on the basis of volume-clamp technique.
+
+.
+
+ CNAP Accuracy Dependent on Hemodynamic Variables@highlight
+
+Agreement of CNAP pressure with invasive pressure is evaluated dependent on hemodynamic variables achieved by a PICCO monitor.
+
+ Hypothesis: Low cardiac output and volume status but not high vascular resistance affect the accuracy of CNAP.
+

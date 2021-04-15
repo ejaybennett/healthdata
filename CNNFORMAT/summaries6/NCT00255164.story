@@ -1,0 +1,16 @@
+(firstQuint)Efficacy and Safety of Dexlansoprazole MR on Maintaining Healing in Subjects With Healed Erosive Esophagitis.
+
+ This is a Phase 3, randomized, double-blind, multi-center, placebo-controlled, 6 month maintenance study.
+
+ The study is designed to compare the efficacy and safety of daily Dexlansoprazole MR (60 mg and 90 mg) with that of placebo, in maintaining healing of erosive esophagitis.
+
+ Because the development plan for Dexlansoprazole MR formulation was revised, the results of 2 identical studies, T-EE04-086 (this study, NCT00255164) and T-EE04-087 (NCT00255151), were combined and analyzed as a single larger study referred to as study T-EE04-086.
+
+ A total of 451 subjects were included in the combined analysis: 237 subjects were enrolled into Study T-EE04-086, and 214 subjects were enrolled into Study T-EE04-087.
+
+.
+
+ Efficacy and Safety of Dexlansoprazole MR on Maintaining Healing in Subjects With Healed Erosive Esophagitis@highlight
+
+The purpose of this study is to assess the ability of once-daily (QD) treatment with Dexlansoprazole modified-release (MR) 60 mg and 90 mg and placebo in maintaining healing of erosive esophagitis (EE).
+

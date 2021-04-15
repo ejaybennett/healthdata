@@ -1,0 +1,58 @@
+(fifthQuint)The Role of Bacterial Overgrowth and Delayed Intestinal Transit in Hepatic Encephalopathy.
+
+ Hepatic encephalopathy is a frequent and occasionally refractory complication of cirrhosis and is associated with impaired quality of life.
+
+ Its severity may not correlate with other parameters of liver dysfunction.
+
+ Although multiple pathogenic mechanisms for the condition have been proposed, most include the participation of bacterial toxins, especially ammonia, produced in the gastrointestinal tract.
+
+ Treatment options for hepatic encephalopathy at this time are limited to lactulose and neomycin.
+
+ Lactulose is frequently poorly tolerated, and many patients are non-compliant with its use.
+
+ In patients with renal insufficiency in whom hepatic encephalopathy is frequently problematic, use of neomycin is contraindicated due to ototoxicity and nephrotoxicity.
+
+ Autonomic dysfunction is common in patients with cirrhosis and could contribute to the development of hepatic encephalopathy by impairment of intestinal motility, leading to bacterial overgrowth and colonic inertia.
+
+ The following questions will be addressed: A.
+
+ Is impaired intestinal transit and bacterial overgrowth associated with the presence and severity of hepatic encephalopathy? 50 patients will undergo a detailed clinical evaluation for severity of liver disease, hepatic encephalopathy and assessment of intestinal transit and bacterial overgrowth with radiographic marker study and breath test analysis.
+
+ Multivariate analysis will then be performed to determine the relationship of intestinal transit and evidence of bacterial overgrowth with the presence and severity of hepatic encephalopathy.
+
+ B.
+
+ Does treatment with rifaximin improve bacterial overgrowth and hepatic encephalopathy? 20 patients from the above population with significant encephalopathy will be randomized to receive either rifaximin or placebo.
+
+ Post-treatment evaluation for severity of hepatic encephalopathy and breath test analysis for bacterial overgrowth will then be performed.
+
+ The effect of treatment on changes in hepatic encephalopathy and bacterial overgrowth and the relationship between changes in bacterial overgrowth and severity of hepatic encephalopathy will also be assessed.
+
+ Phase A Endpoints: Degree of bacterial overgrowth and its correlation with the grade of hepatic encephalopathy (if present).
+
+ Phase B Endpoints: To demonstrate improvement in degree of HE with treatment of Rifaximin Efficacy Endpoints The primary efficacy endpoint for Phase B of the study will be the change from baseline in the proportion of patients with no HE, minimal HE (no symptoms, abnormal psychometric testing), mild persistent HE (mild symptoms), and persistent Stage II HE (presence of asterixis, history of hospitalization for spontaneous Stage III or IV HE).
+
+ Secondary efficacy endpoints for Phase B will be the following: To demonstrate improvement in intestinal transit time for patients (based on Lactulose Hydrogen Breath Test) To demonstrate improvement in bacterial overgrowth, improved insomnia, flatulence, and quality of life.
+
+ To demonstrate that rifaximin improved patients' symptoms of insomnia, flatulence, and quality of life measure with the degree of bacterial overload and the impaired intestinal transit time.
+
+.
+
+ The Role of Bacterial Overgrowth and Delayed Intestinal Transit in Hepatic Encephalopathy@highlight
+
+The study will be conducted in two phases.
+
+ Phase A will evaluate the contribution of bacterial overgrowth and colonic inertia to development of Hepatic Encephalopathy (HE)in 50 ambulatory subjects with HE and hepatitis C cirrhosis.
+
+ This phase will include a Screening and Evaluation Visit.
+
+ Phase B will evaluate the effect of rifaximin on bacterial outgrowth and severity of HE in 20 of the subjects enrolled in Phase A who have a somewhat greater degree of encephalopathy.
+
+ The purpose of this study is to evaluate the following: 1.
+
+ the relationship between bacterial overgrowth and the presence and severity of HE in patients with hepatitis C cirrhosis; 2.
+
+ the effectiveness and tolerability of rifaximin relative to placebo in treatment of HE associated with hepatitis C cirrhosis; 3.
+
+ the relationship between bacterial overgrowth and the presence and severity of HE before and after rifaximin treatment.
+

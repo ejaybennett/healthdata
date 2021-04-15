@@ -1,0 +1,42 @@
+(fifthQuint)Preventing Contrast Nephropathy With Sodium Bicarbonate in Patients With Pulmonary Edema,Heart Failure,Uncontrolled HTN.
+
+ Radio Contrast Induced Nephropathy (RCIN) remains a well recognized complication in patients undergoing diagnostic or interventional procedures requiring radiographic contrast agents and is the third leading cause of acquired acute renal failure in hospitalized patients.
+
+ Strategies for the prevention of radiocontrast nephropathy have focused on countering vasoconstriction (pre-hydration, fenoldopam, and theophylline), enhancing flow through the nephron (diuretics), or protection against oxygen-free-radical injury (urinary alkalinization and N-acetylcysteine).
+
+ Among all prophylactic measures that have been proposed, adequate preprocedural and postprocedural hydration has demonstrated effectiveness in the prevention of radiocontrast nephropathy.
+
+ Thus, it remains the most frequently applied measure in clinical practice.
+
+ A Recent study in May 2004 have shown benefit in administering Sodium Bicarbonate over normal saline as a prophylaxy.
+
+Since alkalizing renal tubular fluid with bicarbonate may reduce injury .
+
+ Most studies have excluded patients with history of pulmonary edema, severe heart failure(NYHA 3-4), uncontrolled hypertension or ejection fraction less than 30% and no specific protocol is tested for this group of patients.
+
+ This study focuses on preventing RCIN in this specific group of patients .
+
+ Comparisons:1075 cc NaCl 0.
+
+45% or 75 cc of sodium bicarbonate 8.
+
+4% solved in one liter of NaCl 0.
+
+45%.
+
+ Each fluid is infused at the rate of 3 ml/kg/ hour one hour before the angiographic procedure, continuing at the rate of 1 ml/kg/ hour for 6 hours after the procedure.
+
+ Maximum rate of fluid permitted is that for a body weight of 110 Kg.
+
+.
+
+ Preventing Contrast Nephropathy With Sodium Bicarbonate in Patients With Pulmonary Edema,Heart Failure,Uncontrolled HTN@highlight
+
+Radio Contrast Induced Nephropathy (RCIN) remains a well recognized complication in patients undergoing diagnostic or interventional procedures requiring radiographic contrast agents.
+
+ Recent studies have shown benefit in administering Sodium Bicarbonate over normal saline( the uniformly accepted prophylaxy) in preventing RCIN.
+
+But most studies have excluded patients with history of pulmonary edema, severe heart failure(NYHA 3-4), uncontrolled hypertension or ejection fraction less than 30%.
+
+ Therefore the aim of this study is to evaluate the efficacy of sodium bicarbonate solved in half saline compared with infusion of half saline in prevention of RCIN in these groups of patients.
+

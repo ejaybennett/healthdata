@@ -1,0 +1,56 @@
+(fifthQuint)Belgian Trial Investigating the LifeStream Stent in Complex TASC C and D Iliac Lesions.
+
+ The objective of this clinical investigation is to evaluate, in a controlled setting, the long-term safety and efficacy of the LifeStream Peripheral Stent Graft System in clinical settings post CE-certification when used according to the indications of the IFU with focus on the treatment of complex TASC C and D iliac lesions.
+
+ Patients will be selected based on the investigator's assessment, evaluation of the underlying disease and the eligibility criteria.
+
+ The patient's medical condition should be stable, with no underlying medical condition which would prevent them from performing the required testing or from completing the study.
+
+ Patients should also be geographically stable, willing and able to cooperate in this clinical study and remain available for long-term follow-up.
+
+ A patient is considered enrolled in the study after obtaining the patients informed consent, if there is full compliance with the study eligibility criteria and after successful guidewire passage through the study target lesion.
+
+ Prior to the index procedure the following tests and clinical data will be collected: informed consent for data collection, demographics, medical history, medication record, physical examination, clinical category of chronic limb ischemia (Rutherford category) and resting ankle-brachial index (ABI).
+
+ During the procedure, the vascular access can be achieved to the investigator's standard clinical practice.
+
+ After successful lesion passage, diagnostic angiography of the lesion area and distal run-off is performed and angiographic measurements (vessel diameter, percentage stenosis and lesion length) are collected.
+
+ At the physician's discretion, the patient receives at least 1 LifeStream Peripheral Stent Graft System.
+
+ Pre- and post-dilatation are according to the physician's discretion.
+
+ No other adjunctive therapies (atherectomy, laser) are allowed.
+
+ The complete iliac vasculature should be treated in one single session, staged interventions are not allowed.
+
+ All outflow-limiting lesions must be treated according to the hospital treatment standard.
+
+ The regular follow-ups are necessary to monitor the condition of the patient and the stent/procedure.
+
+ Patients will be invited for a follow-up visit at 1, 6 and 12 months after the index procedure.
+
+ The following data will be collected during these follow-up visit: medication record, physical examination, rutherford categorization, ABI and color flow doppler ultrasound.
+
+.
+
+ Belgian Trial Investigating the LifeStream Stent in Complex TASC C and D Iliac Lesions@highlight
+
+The BELSTREAM Trial investigates the efficacy of the LifeStream Peripheral Stent Graft System in the treatment of iliac stenotic or occlusive lesions (TASC C and D).
+
+ An expected total of 70 patients will be treated.
+
+ The lesion is located within the native Iliac arteries.
+
+ Prior to stenting with the LifeStream Peripheral Stent Graft System, pre-dilatation can be performed according to the physician's discretion.
+
+ Also post-dilatation can be performed according to the physician's discretion.
+
+ Patients will be invited for a follow-up visit at 1, 6 and 12 month post-procedure.
+
+ The primary efficacy endpoint of the study is the primary patency at 12 months.
+
+ The primary safety endpoint is the freedom of periprocedural Serious Adverse Events (SAEs).
+
+ Secondary endpoint include primary patency rate at 1 and 6 month, stent graft occlusion rate at pre-discharge, 1, 6 and 12 month follow-up, anke-brachial index (ABI) at 1, 6 and 12-month follow-up, amputation rate at 1, 6 and 12-month follow-up, technical success and clinical success at 1, 6 and 12-month follow-up.
+

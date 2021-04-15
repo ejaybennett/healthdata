@@ -1,0 +1,42 @@
+(fifthQuint)Home Phototherapy for Term Newborns With Icterus.
+
+ Background: Almost half of all newborns develops jaundice, due to elevated levels of bilirubin.
+
+ If levels are high phototherapy is needed to reduce the levels of bilirubin.
+
+ Presently most children with neonatal jaundice in Sweden receives phototherapy admitted to hospital.
+
+ There is fiberoptic equipment available that can be used at home to treat the newborns.
+
+ Aim: Primary aim is to investigate if parent-child bonding is improved with home phototherapy compared to phototherapy performed at the hospital.
+
+ Method:The study is designed as a randomised controlled multicenter study.
+
+ Eligible parents and newborns are randomised to either treatment at home or at the hospital.
+
+ Demographic data about the newborn such as for example apgar score, gender, time of birth etc are registered.
+
+ At time of discharge parents answers questionnaires such as for example the Postpartum Bonding Questionnaire (PBQ), the Edinburgh Postnatal Depression Scale (EDPS), the Swedish Parenthood Stress Questionnaire etc.
+
+ Parents experiences from home phototherapy will also be investigated through semistructured interviews.
+
+ Parents will asked to answer questionnaires at the time of discharge as well as at 4-months after discharge.
+
+ Analysis of data will be performed by using conventional parametric and non-parametric statistical methods.
+
+ The results of the study will be reported as scientific articles and as part of a thesis.
+
+.
+
+ Home Phototherapy for Term Newborns With Icterus@highlight
+
+The study is designed as a randomised controlled multicenter study.
+
+The primary aim is to investigate if home phototherapy improves parent-child bonding compared to if treatment is performed at the hospital.
+
+ The investigators will also istudy how home phototherapy is perceived by the parents, impact on breastfeeding and parents stress levels, if the method can be implemented etc.
+
+ Patients are included at 5 hospitals in Sweden.
+
+ The plan is to include 250 term newborns with neonatal icterus at a level that needs phototherapy treatment.
+

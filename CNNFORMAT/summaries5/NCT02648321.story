@@ -1,0 +1,18 @@
+(firstQuint)Motivational Intervention for Physical Activity in Psychosis.
+
+ The current study aims to investigate the beneficial effect of motivational intervention in promoting exercise habit in patients with psychosis.
+
+ Outpatients will be recruited and will be randomized to a 12-week motivational intervention program.
+
+ They will be assessed for their clinical symptoms, cognitive function, physical fitness, and quality of life.
+
+ All patients will have cognitive function assessments at baseline, 12 weeks after the completion of the program and 6 months.
+
+ The primary hypothesis of the current study is that motivational intervention can help patient to develop exercise habit in patients with early psychosis.
+
+.
+
+ Motivational Intervention for Physical Activity in Psychosis@highlight
+
+The purpose of this study is to determine whether motivational intervention is effective in promoting exercise habit in patients with psychosis.
+

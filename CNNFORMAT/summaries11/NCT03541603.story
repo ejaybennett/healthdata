@@ -1,0 +1,15 @@
+(firstQuint)Levosimendan in Pulmonary Hypertension Patients With Heart Failure and Preserved Left Ventricular Ejection Fraction.
+
+ Levosimendan and its prolonged active metabolite, OR-1896, have been shown to have favorable hemodynamic effects in subjects with pulmonary hypertension and right heart failure.
+
+ Clinical studies that have been conducted in subjects with right heart failure and pulmonary hypertension suggest levosimendan may be an effective therapy in treatment of subjects with PH-HFpEF.
+
+ This study will provide demonstration of levosimendan/OR-1896's effectiveness in critical measures of hemodynamic response in weekly administration of levosimendan and the concomitant response as measured by exercise capacity, subject quality of life, and changes in functional capacity.
+
+ These data will support and guide the Phase 3 development of levosimendan in PH-HFpEF subjects.
+
+.
+
+ Levosimendan in Pulmonary Hypertension Patients With Heart Failure and Preserved Left Ventricular Ejection Fraction@highlight
+
+Phase 2 study to evaluate the efficacy and safety of intermittent levosimendan compared with placebo in hemodynamic improvement with exercise in PH-HFpEF subjects

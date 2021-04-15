@@ -1,0 +1,15 @@
+(firstQuint)Closed Reduction With Anesthesia and no Anesthesia for Developmental Dislocation of the Hip < 6 Months.
+
+ We treated children (<6 months) with prolonged traction before an attempted closed reduction.
+
+ And compare the efficacy of closed reduction with anesthesia and no anesthesia for developmental dislocation of the hip.
+
+ All the patients were followed up for a minimum of 18 months in order to identify any avascular changes in the femoral head.
+
+ The presence of avascular necrosis was assessed by the criteria of Salter.
+
+.
+
+ Closed Reduction With Anesthesia and no Anesthesia for Developmental Dislocation of the Hip < 6 Months@highlight
+
+The purpose of this study is to compare the efficacy of closed reduction with anesthesia and no anesthesia for developmental dislocation of the hip < 6 months

@@ -1,0 +1,20 @@
+(thirdQuint)An Evaluation of a Developmentally-Based Parent Training Program for Children With Autism.
+
+ There are many treatments that claim to be effective for children with autism; however many of these treatments have not been investigated using scientifically rigorous methodology.
+
+ A variety of developmentally based parent delivered interventions are gaining popularity as a type of treatment parents utilize to improve symptoms related to their child's diagnosis of autism.
+
+ Pacific Autism Center for Education (PACE)is a agency that provides a developmentally based parent delivered intervention in the community.
+
+ Currently, this parent training program has not been evaluated using scientific methodology.
+
+ Investigation into this community delivered treatment and its effectiveness to improve social and communication deficits will aid clinicians in providing better care for children with autism.
+
+.
+
+ An Evaluation of a Developmentally-Based Parent Training Program for Children With Autism@highlight
+
+The purpose of this study is to assess the efficacy of a parent training program in the treatment of social and communication deficits in children with autism.
+
+ Specifically, this study will evaluate a developmentally based parent delivered intervention in the community developed by Pacific Autism Center for Education (PACE).
+

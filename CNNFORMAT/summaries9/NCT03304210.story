@@ -1,0 +1,28 @@
+(secondQuint)PIPAC Nab-pac for Stomach, Pancreas, Breast and Ovarian Cancer.
+
+ Over 85% of women with ovarian cancer (OC) will develop a peritoneal recurrence after initial therapy.
+
+ The prognosis of patients with recurrent disease is poor, with a median survival ranging from 12 to 24 months.
+
+ Most of these patients ultimately develop platinum resistant disease (PROC).
+
+ Current systemic therapy results in a very modest improvement of progression free and overall survival.
+
+ The addition of locoregional, intraperitoneal (IP) therapy may improve disease control in recurrent OC.
+
+ Recently, pressurized intraperitoneal aerosol therapy (PIPAC) was added to the therapeutic arsenal.
+
+ This novel technique allows repeated laparoscopy aided aerosol delivery of anticancer drugs to the peritoneal cavity.
+
+ Abraxane (nab-pac, Celgene) is a novel 130 nm, albumin-bound (nab) nanoparticle formulation of paclitaxel which has noteworthy single-agent activity and a favourable toxicity profile when used systemically in PROC.
+
+ A recent phase I study showed a significant pharmacokinetic advantage after IP instillation of nab-pac in patients with peritoneal carcinomatosis from ovarian or gastro-intestinal (GI) origin.
+
+ In phase I of this study, dose escalation will be combined with pharmacokinetic/pharmacodynamic modelling which incorporates, in addition to plasma, tumour tissue, and peritoneal drug concentrations, biomarkers of toxicity and efficacy.
+
+.
+
+ PIPAC Nab-pac for Stomach, Pancreas, Breast and Ovarian Cancer@highlight
+
+The PIPAC nab-pac study is designed to examine the maximal tolerated dose of albumin bound nanoparticle paclitaxel (nab-pac, Abraxane) administered with repeated pressurized intraperitoneal aerosol chemotherapy (PIPAC), in a multicentre, multinational phase I trial.
+

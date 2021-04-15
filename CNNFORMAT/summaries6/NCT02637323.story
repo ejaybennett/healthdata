@@ -1,0 +1,18 @@
+(thirdQuint)Study to Characterize the PK and Local Extent and Duration of Exposure From FX006 in Patients With OA of the Knee.
+
+ This study employed an open-label, single administration design and was conducted in male and female patients 40 years of age with OA of the knee.
+
+ Patients were enrolled sequentially with at least 10 patients per cohort as follows: Cohort A: FX006 32 mg, Final Visit at Week 20 Cohort B: FX006 32 mg, Final Visit at Week 16 Cohort C: FX006 32 mg, Final Visit at Week 12 Cohort D: FX006 32 mg, Final Visit at Week 6 Cohort E: FX006 32 mg, Final Visit at Week 1 Cohort F: TCA IR 40 mg, Final Visit Week 6 Each patient was screened to confirm eligibility and assigned to a cohort on Day 1/baseline.
+
+ Each patient was evaluated for safety during his/her participation in the study at 6, 12, 16, or 20 weeks following a single IA injection depending on the assigned Cohort, and plasma and synovial fluid was collected for drug concentration measurements.
+
+ Safety and tolerability was assessed by physical examinations, index knee examinations, vital signs, clinical laboratory evaluations, and adverse events (AEs).
+
+ No efficacy assessments were employed in this study.
+
+.
+
+ Study to Characterize the PK and Local Extent and Duration of Exposure From FX006 in Patients With OA of the Knee@highlight
+
+The objectives of this study were to characterize the local extent and duration of exposure of TA from FX006 and TCA IR, characterize the systemic PK of FX006 and TCA IR, and assess the safety and general tolerability of a single 5 mL IA injection of 32 mg FX006 relative to 40 mg of TCA IR in patients with OA of the knee.
+

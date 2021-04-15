@@ -1,0 +1,14 @@
+(firstQuint)Investigating Cabozantinib in Patients With Refractory Metastatic Colorectal Cancer.
+
+ This is a phase II clinical trial that seeks to use Cabozantinib to treat those with Metastatic Colorectal Cancer who have not previously responded to treatment.
+
+ This study is a two stage study that will first measure (up to) 16 patients' progression free survival (PFS).
+
+ Stage two will, again, measure PFS, but in a population (up to) 28 patients.
+
+.
+
+ Investigating Cabozantinib in Patients With Refractory Metastatic Colorectal Cancer@highlight
+
+This study seeks to use Cabozantinib to treat those with Metastatic Colorectal Cancer who have not previously responded to treatment.
+

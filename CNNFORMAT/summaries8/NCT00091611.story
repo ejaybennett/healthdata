@@ -1,0 +1,66 @@
+(fifthQuint)Cultured White Cells Plus Interleukin-2 to Treat Advanced Kidney Cancer.
+
+ Background: One area of therapeutic advancement in immunotherapy has been to identify autologous tumor-reactive T-cells and expand them in vitro, and administer them in adoptive transfer back to patients.
+
+ These T-cells have been obtained either from tumor infiltrating lymphocytes (TIL) which appear enriched for tumor-reactive T-cells or by in vitro stimulation of peripheral blood T-cells from cancer patients.
+
+ Recent success in patients with melanoma has in large part been due to a T-cell expansion protocol described by Riddell et al.
+
+ using anti-CD3 (cluster of differentiation 3) and irradiated allogeneic feeder cells and the use of conditioning chemotherapy prior to cell transfer.
+
+ This current study uses the results of these Surgery Branch adoptive cell therapy trials to study their potential in patients with metastatic renal cell cancer.
+
+ Objectives: The primary objective will be to determine whether adoptive lymphocyte transfer in conjunction with preparative lympho-depletion chemotherapy and interleukin-2 (IL-2) may result in clinical tumor regression in patients with metastatic renal cancer.
+
+ Eligibility: Patients with metastatic renal cell cancer who have failed conventional therapy with interleukin-2, from whom tumor-reactive lymphocytes (from either peripheral blood, lymph nodes or tumor-infiltrating lymphocytes) can be obtained and expanded in vitro.
+
+ Patients must meet specific safety laboratory criteria, be able to tolerate interleukin 2 (IL-2), and have no concurrent major medical illnesses or symptomatic brain metastases.
+
+ Design: All patients will receive a non-myeloablative lymphocyte depleting preparative regimen of cyclophosphamide (60 mg/kg/day intravenous (IV)) on days -7 and -6 and fludarabine (25 mg/m^2/day intravenous (IV)) on days -5 through -1.
+
+ On day 0 patients will receive an infusion of their own tumor-reactive T cells grown in vitro (greater than or equal to 5x10^8 cells for a cycle) and then begin high-dose IL-2 (720,000 IU/kg intravenous (IV) every 8 hours for up to 15 doses).
+
+ Clinical and Immunologic response will be evaluated about 3 to 5 weeks after the treatment regimen.
+
+ This trial will be conducted as a phase II trial using a two-stage MinMax design which will try to determine whether intravenous (IV) cell administration can produce a modest response rate targeted to be greater than or equal to 35 % (p1=0.
+
+35) as opposed to an undesirably low response rate of less than 15% (p0=0.
+
+15).
+
+ If at least 3 patients of 15 have an objective response (partial response (PR) or complete response (CR)) accrual will proceed to 28 patients, with a projected accrual over three years.
+
+.
+
+ Cultured White Cells Plus Interleukin-2 to Treat Advanced Kidney Cancer@highlight
+
+Background: - Some patients with advanced kidney cancer have immune cells that can recognize and kill their cancer, but the cells are not active enough or numerous enough to accomplish this on their own.
+
+ - In recent studies of patients with advanced melanoma, some patients given special tumor-fighting cells (cells taken from the patient's tumor cells and grown in the laboratory) showed some anti-tumor response.
+
+ Objectives: -To determine whether special tumor-fighting cells taken from the patient's blood or tumor and grown in the laboratory can cause tumors in patients with kidney cancer to shrink when they are given back to the patient along with interleukin-2.
+
+ Eligibility: Patients 18 years of age or older with advanced kidney cancer.
+
+ Design: - Up to 29 patients will be treated in this study.
+
+ - Patients undergo tumor biopsy to collect tumor cells for creating special tumor-fighting cells for later infusion.
+
+ - Patients undergo apheresis to collect stem cells for later re-infusion.
+
+ For apheresis, whole blood is collected through a needle in an arm vein and circulated through a cell-separating machine where the stem cells are extracted.
+
+ The rest of the blood is returned through the same needle or a needle in the other arm.
+
+ - Before receiving the treated white cells, patients are given two drugs to suppress the immune system so the treated cells can work without interference from immune system cells.
+
+ They are given cyclophosphamide over 2 days through a catheter (plastic tube inserted into a vein in the arm or neck) and fludarabine through the catheter over 15-30 minutes for the next 5 days.
+
+ - The day after the last dose of fludarabine, the tumor-fighting cells are infused through a vein over 10-20 minutes.
+
+ - Following the cell infusion, patients start treatment with high-dose interleukin-2 every 8 hours for a maximum of 12 doses.
+
+ - Patients are evaluated with x-ray studies about 1 month after receiving the cells and interleukin 2 (IL-2) to look for tumor response to treatment.
+
+ Those who show significant improvement continue to receive treatment until the treated cells are used up or the patient no longer benefits or develops unacceptable side effects.
+

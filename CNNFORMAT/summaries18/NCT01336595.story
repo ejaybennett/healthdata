@@ -1,0 +1,12 @@
+(secondQuint)Comparison of Total Knee Arthroplasties With Oxidized Zirconium and Cobalt Chromium Femoral Components.
+
+ Although it has been claimed that total knee arthroplasties with an oxidized zirconium femoral knee component had beneficial wear properties in vitro, there are conflicting clinical results.
+
+ The purpose of the present study was to compare the clinical, subjective, and radiographic results as well as the weight, size and shape of polyethylene wear particles in the patients with an oxidized zirconium and a cobalt-chromium femoral knee component.
+
+.
+
+ Comparison of Total Knee Arthroplasties With Oxidized Zirconium and Cobalt Chromium Femoral Components@highlight
+
+The purpose of this study is to determine if there are any clinical or radiographic differences in cemented total knee arthroplasty with an oxidized zirconium and a cobalt-chromium femoral knee component.
+

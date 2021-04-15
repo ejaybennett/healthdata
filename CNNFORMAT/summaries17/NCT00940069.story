@@ -1,0 +1,30 @@
+(firstQuint)TS Gene Polymorphism Predicts Effect in Patients With Advanced Lung Cancer.
+
+ 1.
+
+ Main eligibility criteria were histologic or cytologic proof of advanced non-small-cell lung cancer (NSCLC) primary treatment, normal organ function, and Eastern Cooperative Oncology Group performance status 0 to 2.
+
+ 2.
+
+ All Patients were delivered to pemetrexed 500 mg/m2 and cisplatin 75 mg/m2 for not less than 4 cycle, administered intravenously every 3 weeks.
+
+ Response assessment was performed every 6 weeks; toxicity assessment was performed every 3 weeks.
+
+ 3.
+
+ Primary end point was time to progression (TTP); secondary end points were objective response rate (ORR), overall survival (OS), and toxicity.
+
+ 4.
+
+ The study was designed to evaluate TS(thymidylate synthase) gene polymorphism as a predictor for advanced lung adenocarcinoma effect to pemetrexed combined with cisplatin regiment as first-line treatment.
+
+ 5.
+
+ Polymorphisms of thymidylate synthase were investigated in peripheral WBC(white blood cell)of all patients.
+
+.
+
+ TS Gene Polymorphism Predicts Effect in Patients With Advanced Lung Cancer@highlight
+
+The investigators performed a multicenter, open trial of using TS gene polymorphism to predict advanced lung adenocarcinoma effect to pemetrexed combined with cisplatin regiment as first-line treatment.
+

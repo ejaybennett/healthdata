@@ -1,0 +1,36 @@
+(fifthQuint)A Cohort Research of Genetic Susceptibility for Common Obesity in Women.
+
+ Not many studies examined genetic determinants of obesity in women.
+
+ As premenopausal and postmenopausal women appear to have different propensities for fat deposition, genetic loci linked with obesity-related phenotypes might be different by menopausal status.
+
+ So far, there is no large scale of genetic study deciphering common obesity on women focusing on the interaction between aging and menopause in Taiwan.
+
+ The investigators propose this study to compare phenotypic profiles of obesity and cardiometabolic factors in a large group of premenopausal and postmenopausal women.
+
+ The study will examine the contributions of aging and menopausal status to the changes of obesity-related traits, and will evaluate the contribution of genetic susceptibility on body fat deposition among women at different stage of menopause.
+
+ The investigators plan to recruit two groups of subjects: 600 premenopausal, and 600 postmenopausal women.
+
+ Each woman will receive anthropometric and blood pressure measurements, fasting blood sampling for lipids, and an optional 75-g oral glucose tolerance test for insulin resistance.
+
+ Dual energy X-ray absorptiometry will also be used for body composition measurements among the study women if they agree to receive this optional examination.
+
+ The investigators will collect blood samples for DNA extraction and select several candidate genes to study the associations between susceptible genes and obesity-related traits.
+
+ The investigators anticipate that the results generated from the study will provide valuable data to a better understanding of the pathogenesis of common obesity during transition from premenopause to postmenopause in women.
+
+.
+
+ A Cohort Research of Genetic Susceptibility for Common Obesity in Women@highlight
+
+Not many studies examined genetic determinants of obesity in women.
+
+ As pre-menopausal and post-menopausal women appear to have different propensities for fat deposition, genetic loci linked with obesity-related phenotypes might be different by menopausal status.
+
+ So far, there is no large scale of genetic study deciphering common obesity focusing on women population to examine the contributions of aging and change in menopausal status to obesity in Taiwan.
+
+ The investigators propose this study to compare phenotypic profiles of obesity and cardio-metabolic factors in pre-menopausal and post-menopausal women.
+
+ The study will examine the contributions of aging and change in menopausal status to the changes of obesity-related traits during the transition from pre-menopause to post-menopause period, and will evaluate the contribution of genetic susceptibility on body fat deposition among women at different stage of menopause.
+

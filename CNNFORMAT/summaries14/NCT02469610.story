@@ -1,0 +1,100 @@
+(fifthQuint)Assessment of Intercostal Block Scheduling in Preventing Acute Surgical and Post-surgical Pain in Thoracoscopic Surgery.
+
+ Intercostal Bupivacaine block Intercostal block is a procedure during which a local anesthetic is injected to the intercostal space.
+
+ This space includes the rote of the intercostal nerve.
+
+ The purpose of the procedure is to block the neuropathic pain that developed due to inflammation and irritation of the nerve and other close structures.
+
+ Some add steroids to the injection because of their anti-inflammatory effect.
+
+ Bupivacaine is a local anesthetic.
+
+ It belongs to a group of medicines called amide- type local anesthetics.
+
+ It is a well-known medication with many years of documented use in local and regional anesthesia.
+
+ Bupivacaine binds to the intracellular portion of voltage-gated sodium channels and blocks sodium influx into nerve cells.
+
+ This block prevents depolarization.
+
+ The lack of depolarization precludes initiation or conduction of a pain signal can occur.
+
+ Study Aims This study will try to evaluate the difference in pain control during and post thoracoscopic surgery in patients who had bupivacaine intercostal block before versus after surgery.
+
+ The study main end point is the amount of analgesic medication consumption by patients during and after thoracoscopic surgery.
+
+ Secondary end points will include subjective patient's pain evaluation, length of hospital stay and post-operative complication.
+
+ Inclusion Criteria Thoracoscopic surgery candidate.
+
+ Over 18 years old.
+
+ No known allergy to Bupivacaine.
+
+ Patient is able to read understand and singe an inform consent.
+
+ Exclusion Criteria Previous thoracic operation in the same side.
+
+ Study plan The study cohort will be divided into two groups.
+
+ Study group and control group.
+
+ Each group will include 30 thoracoscopic surgery candidates.
+
+ The participants will be randomly assigned to the research groups using a computer selection done by the study team.
+
+ The participants will not know as to which group they are assigned.
+
+ All participants will by recruited in the cardio-thoracic surgery department, CARMEL medical center, Haifa, ISRAEL.
+
+ The basic thoracoscopic surgery approach uses three operation cuts the main Lateral surgical cut is less than 5 cm.
+
+ Another lower cut of 1-2cmfor the video camera and a lateral subscapular cut of 1-2cm for lung retraction.
+
+ No rib retractors are being used.
+
+ During surgery the anesthesiology team is in charge of patient sedation and analgesia according to the local anesthesia department protocol.
+
+ After surgery the thoracic team is in charge on patient analgesia treatment according to cardio-thoracic surgery department local protocol.
+
+ Patients will randomized into either study or control group.
+
+ In the study group the surgeon will perform an intercostal Bupivacaine block of 100ml over five intercostal spaces which include the operation cuts.
+
+ The block will be done in the beginning of the surgery right after the insertion of the video camera to the pleural space.
+
+ In the control group the surgeon will perform the same intercostal block at the end of the surgery just before closing the operation cuts.
+
+ All other operation stapes and analgesic treatment will be the same for both groups.
+
+ Follow up Patient follow up will include the perioperative hospitalization and will continue up to six months after discharge.
+
+ Follow up will include analgesic medication usage, pain levels, demographic details, Hospital length of stay, post-operative complication and time to resume daily routine.
+
+.
+
+ Assessment of Intercostal Block Scheduling in Preventing Acute Surgical and Post-surgical Pain in Thoracoscopic Surgery@highlight
+
+It is well known that chest surgery patients suffer from high level pain in the perioperative period.
+
+ The transition to thoracoscopic approaches reduced surgical pain.
+
+ The proper pain control technique for thoracoscopic approaches is still under debate.
+
+ One of the most popular methods for pain control is these procedures is the Intercostal block.
+
+ The Intercostal block is usually based upon topical analgesic.
+
+ In this study the investigators will try to examine the effect on pain control of the timing of Intercostal block of 100 mg BUPIVACAINE.
+
+ The study is a prospective comparative study.
+
+ The cohort will be divided into two groups.
+
+ In the control group patients will have Intercostal block after surgery and in the study group the intercostal block will be given in the beginning of the surgical procedure.
+
+ All other analgesic treatment during and post-surgery will be the same in both groups.
+
+ The study will evaluate pain level in the days after the surgery, analgesic medication consumption and relevant morbidity.
+

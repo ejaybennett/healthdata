@@ -1,0 +1,34 @@
+(thirdQuint)Effects of Workplace Intervention in Occupational Rehabilitation on Return to Work.
+
+ Long-term sick-listing from work has considerable impact on social function, on the families of the sick-listed persons, the companies they work for, and society as a whole.
+
+ Hence, the need for documented effective vocational rehabilitation programs is pressing.
+
+ Vocational rehabilitation services described in the scientific literature have been specific to one single or a specific group of medical conditions (e.
+
+g.
+
+low back pain).
+
+ In contrast, most people on sick leave have several health complaints, and many of the factors influencing sick leave are shared regardless of disorder (e.
+
+g.
+
+ social surroundings, workplace environment), calling for rehabilitation programs that can be employed for both musculoskeletal, unspecific and common mental disorders.
+
+ Research indicates that interventions on the work place might facilitate return to work.
+
+ The aim of this study is therefore to investigate the effect of a work place intervention during a multicomponent return-to-work rehabilitation program on return-to-work.
+
+.
+
+ Effects of Workplace Intervention in Occupational Rehabilitation on Return to Work@highlight
+
+Aim is to study the effect of a work place intervention during a multicomponent return-to-work rehabilitation program on return-to-work.
+
+ The intervention is compared with inpatient rehabilitation only, and participants will be recruited from the diagnostic groups dominating the sick-leave statistics, namely musculoskeletal disorders, common mental disorders (e.
+
+g.
+
+ stress, depression and anxiety), and unspecific disorders including chronic fatigue.
+

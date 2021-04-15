@@ -1,0 +1,28 @@
+(thirdQuint)Effect of Upright Patient Positioning on Intubation Success.
+
+ Endotracheal intubation is most commonly taught and performed with the patient supine.
+
+ Recent literature suggests that elevating the patient's head to a more upright position may decrease peri-intubation complications.
+
+ However, there is little data on success rates of upright intubation in the emergency department.
+
+ The goal of this study was to measure the association of head positioning with intubation success rates among emergency medicine residents.
+
+ Study design was a prospective observational study.
+
+ Residents performing intubation recorded the angle of the head of the bed, and the number of attempts required for successful intubation was recorded by faculty and respiratory therapists.
+
+ The primary outcome of first past success was calculated with respect to three groups: 0-10 degrees (supine), 11-44 degrees (inclined), and 45 degrees (upright); first past success was also analyzed in 5 degree angle increments.
+
+.
+
+ Effect of Upright Patient Positioning on Intubation Success@highlight
+
+Endotracheal intubation is most commonly taught and performed with the patient supine.
+
+ Recent literature suggests that elevating the patient's head to a more upright position may decrease peri-intubation complications.
+
+ However, there is little data on success rates of upright intubation in the emergency department.
+
+ The goal of this study was to measure the association of head positioning with intubation success rates among emergency medicine residents.
+

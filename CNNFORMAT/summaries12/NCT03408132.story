@@ -1,0 +1,28 @@
+(thirdQuint)Metabolic Balance Study of FE203799 in Patients With SBS With Intestinal Insufficiency.
+
+ Trial design This is a repeated dose, open label trial investigating safety, efficacy, PD and PK of FE 203799 in 6 patients with SBS and intestinal insufficiency (SBS-II).
+
+ The patients will receive a subcutaneous (SC) dose of 25 mg FE 203799 once weekly for 4 consecutive weeks, and efficacy parameters and PK will be assessed after the fourth dose.
+
+ Safety follow up assessments will be performed 4 6 weeks after the last dose.
+
+ The first two administrations of trial drug will be performed at the clinic, while the third dose can be either self-administered by the patient or administered at the clinic if the patient prefers to travel to the site or other considerations make a site visit preferable.
+
+ The fourth administration of trial drug will be performed at the clinic just prior to assessment of efficacy parameters in the treatment balance study.
+
+ Prior to each administration of trial drug, liver function parameters will be analysed and assessed.
+
+ During the entire trial, patients who develop extremely high or persistently elevated liver enzymes following trial drug administration will be discontinued from the trial.
+
+ The patients will complete a diary with data on trial drug administration performed at home, local tolerability and adverse events (AEs).
+
+.
+
+ Metabolic Balance Study of FE203799 in Patients With SBS With Intestinal Insufficiency@highlight
+
+This is a repeated dose, open label trial investigating safety, efficacy, PD and PK of FE 203799 in 6 patients with SBS and intestinal insufficiency (SBS-II).
+
+ The patients will receive a subcutaneous (SC) dose of 25 mg FE 203799 once weekly for 4 consecutive weeks, and efficacy parameters and PK will be assessed after the fourth dose.
+
+ Safety follow up assessments will be performed 4-6 weeks after the last dose.
+

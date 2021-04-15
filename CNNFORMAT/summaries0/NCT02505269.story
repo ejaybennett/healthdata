@@ -1,0 +1,30 @@
+(fifthQuint)Brentuximab Vedotin Plus AD in Non-bulky Limited Stage Hodgkin Lymphoma.
+
+ This research study is a Phase II clinical trial.
+
+ Phase II clinical trials test the safety and effectiveness of an investigational intervention to learn whether the intervention works in treating a specific disease.
+
+ "Investigational" means that the intervention is being studied.
+
+ It also means that the FDA (the U.
+
+S.
+
+ Food and Drug Administration) has not yet approved brentuximab vedotin (brentuximab) as part of the initial treatment of Hodgkin lymphoma.
+
+ Currently, brentuximab is FDA-approved for treatment of relapsed Hodgkin lymphoma.
+
+ - Brentuximab works by binding specifically to Hodgkin lymphoma cells, entering the cells, and then releasing the drug to destroy the cell.
+
+ - The chemotherapy drugs Adriamycin and Dacarbazine (AD) which which participants will receive in this research study are approved for use in people with Hodgkin Lymphoma.
+
+ - Patients will not receive planned radiation therapy, or the drugs bleomycin or vinblastine.
+
+.
+
+ Brentuximab Vedotin Plus AD in Non-bulky Limited Stage Hodgkin Lymphoma@highlight
+
+Limited stage Hodgkin lymphoma is a highly curable disease, but standard treatment with ABVD chemotherapy and radiation can lead to late risks of secondary cancers, lung injury, heart injury, and others.
+
+ This trial eliminates radiation therapy and reduces intensity of chemotherapy by incorporating the highly active FDA-approved targeted therapy brentuximab vedotin, an antibody-drug conjugate specifically against the lymphoma cells, combined with the standard chemotherapy drugs Adriamycin and Dacarbazine (AD).
+

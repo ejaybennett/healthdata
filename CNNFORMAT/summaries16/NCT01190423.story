@@ -1,0 +1,30 @@
+(secondQuint)Treatment for Young Adults With Anorexia Nervosa.
+
+ Anorexia Nervosa (AN) is a serious psychiatric illness that occurs in an estimated 0.
+
+5 to 3.
+
+7% of women.
+
+ The illness severely affects physical, emotional, and social functioning.
+
+ The mortality rates associated with this severely disabling condition are higher than those for any other psychiatric disorder and substantially higher than those expected in the general population.
+
+ Lower weight at presentation, longer illness duration, and alcohol abuse are associated with a higher risk of mortality.
+
+ Treatment-outcome for adult AN is poor with a quarter of adults with AN having poor outcome.
+
+ In AN, promising outcomes are seen in family-based treatment (FBT) for adolescent patients who present between the ages of 12 to 18 with a short duration of illness.
+
+ A manualized version of FBT has now been tested in several studies and case series, showing that well over 80% of participants had good or intermediate outcome at post-treatment.
+
+ Despite its efficacy with adolescents, FBT has not been utilized with young adults.
+
+ The purpose of this study is to develop and refine FBT to promote weight gain in young adults with Anorexia Nervosa.
+
+.
+
+ Treatment for Young Adults With Anorexia Nervosa@highlight
+
+Temple University is conducting a National Institute of Health funded research study designed to develop and refine a family-based treatment manual for young adults with Anorexia Nervosa as well as assess the feasibility of this out-patient psychotherapy.
+

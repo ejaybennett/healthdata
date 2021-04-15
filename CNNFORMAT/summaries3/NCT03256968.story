@@ -1,0 +1,9 @@
+(firstQuint)PTC Study to Evaluate Ataluren in Combination With Ivacaftor.
+
+ Cystic Fibrosis (CF) is a life threatening genetic disorder resulting from mutions found in the CF gene known as the cystic fibrosis transmembrane conductance regulator or CFTR.
+
+ This defect prevents correct chloride absorption in and out of the cells The purpose of this study is to explore the combination of ataluren and ivacaftor as a treatment for patients with a specific cystic fibrosis mutation.
+
+ PTC Study to Evaluate Ataluren in Combination With Ivacaftor@highlight
+
+The purpose of this study is to explore the combination of ataluren and ivacaftor as a treatment for patients with nonsense mutation cystic fibrosis

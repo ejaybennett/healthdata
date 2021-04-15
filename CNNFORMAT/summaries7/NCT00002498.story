@@ -1,0 +1,50 @@
+(thirdQuint)Combination Chemotherapy Compared With Mitoxantrone in Treating Older Patients With Advanced Breast Cancer.
+
+ OBJECTIVES: I.
+
+ Determine the response rate and duration of response of elderly patients with advanced breast cancer treated with first-line chemotherapy with mitigated "classical" CMF (cyclophosphamide/methotrexate/fluorouracil) vs.
+
+ mitoxantrone (DHAD).
+
+ II.
+
+ Define the morbidity of CMF and DHAD in elderly patients.
+
+ III.
+
+ Determine quality of life in these patients.
+
+ OUTLINE: This is a randomized study.
+
+ Patients are stratified by participating institution.
+
+ The first group receives oral cyclophosphamide on days 1 through 14 and intravenous methotrexate and fluorouracil on days 1 and 8.
+
+ Courses repeat every 4 weeks for a maximum of 6 courses.
+
+ The second group receives intravenous mitoxantrone every 3 weeks for a maximum of 8 courses.
+
+ Concomitant therapy with hepatotoxic or nephrotoxic drugs (e.
+
+g.
+
+, NSAIDs) or corticosteroids (even as antiemetics) is not permitted in either group.
+
+ Radiotherapy is allowed provided no more than 50% of the bone marrow is irradiated and at least 1 indicator lesion is unirradiated.
+
+ Patients who complete therapy are followed every 3 months until disease progression.
+
+ PROJECTED ACCRUAL: 60 patients will be accrued over approximately 1 year.
+
+ If extreme differences between arms exist after entry of 30 patients, accrual may be stopped early.
+
+.
+
+ Combination Chemotherapy Compared With Mitoxantrone in Treating Older Patients With Advanced Breast Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Giving drugs in different combinations may kill more tumor cells.
+
+ PURPOSE: Randomized phase II trial to compare the effectiveness of cyclophosphamide, methotrexate, and fluorouracil with mitoxantrone in treating older patients with recurrent or metastatic breast cancer.
+

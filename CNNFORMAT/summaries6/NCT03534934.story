@@ -1,0 +1,38 @@
+(fifthQuint)CT-Based Modeling of Bone Micro-Architecture and Fracture-Risk in COPD.
+
+ This translational study seeks to establish a Chronic Obstructive Pulmonary Disease (COPD)-specific fracture prediction model using the investigators unique computed tomography (CT)-based assessment of peripheral bone micro-architecture.
+
+ Osteoporosis, a common comorbidity among patients with COPD, accelerates morbidity and mortality.
+
+ The basis for this comorbidity is poorly understood, thus the need for characterizing the link between COPD-related factors and bone micro-architecture and their association to fracture-risk.
+
+ Multiple COPD-related factors are associated with osteoporosis.
+
+ Different COPD-related causes of bone loss may non-uniformly impact cortical and trabecular bone structures with varying mechanical consequences, reflective of divergent COPD-associated fracture-risk in individuals with similar bone mineral density (BMD).
+
+ Little is known about this linkage, and the study goal is to fill this knowledge gap using a clinically suitable emerging CT-based tool for characterization of bone micro-architecture at peripheral sites.
+
+ Specifically, this study will-(1) establish the generalizability of the investigators bone micro-architecture assessment applied to emerging low dose / high resolution CT scanners from different vendors; (2) assess its potential as compared to dual energy x-ray absorptiometry (DXA) to explain prevalent fractures and predict incident fractures among patients with COPD; (3) quantify the impact of different COPD-related factors on bone structures and their implications for fracture-risk; (4) identify COPD subtypes with rapid bone structural degeneration; and (5) develop a COPD-specific model for assessment of fracture-risk using patient-specific data.
+
+ The study will take advantage of-(1) existing COPD patient cohorts with lung characterization at the University of Iowa (UI) and Columbia University (CU) representing a wide demographic range; (2) access to emerging CT scanners at both sites; and (3) unique image processing methodologies for quantifying three-dimensional bone structural metrics.
+
+ The study will recruit 470 COPD patients from the UI and CU cohorts and 80 age-sex-similar never-smoker controls.
+
+ At baseline and 3-year follow-up visits, the study team will collect-(1) data related to risk factors; (2) a lateral spine CT scout scan to assess vertebral fractures; (3) high resolution CT scans of the ankle and wrist for computation of bone structural metrics; and (4) whole-body, spine and hip DXA.
+
+ This study will establish an emerging CT-based scanner-independent generalizable tool to assess bone response to different therapeutic interventions aimed at slowing or reversing bone loss, and possibly restoring bone structure, potentially leading to more patient-specific interventions.
+
+ Also, this study seeks to explain the relationships among various COPD-related factors, bone structural changes and their implications for fracture-risk.
+
+ Finally, a COPD-specific model for assessment of fracture-risk will be developed that will utilize patient-specific demographic, clinical and radiographic data, and CT BMD at the spine, as well as bone structural measures at the wrist and/or ankle.
+
+.
+
+ CT-Based Modeling of Bone Micro-Architecture and Fracture-Risk in COPD@highlight
+
+The goal of this translational study is to establish a newly emerging CT-based tool for the characterization of changes in bone micro-architecture and assessment of their implications for fracture-risk in a population of COPD patients at risk for osteoporosis.
+
+ The tool will be suitable and generalizable across emerging CT scanners from different vendors, and it will provide a more structurally-based assessment of osteoporosis and bone loss than is provided by simple bone density measures.
+
+ The study will characterize the impact of different COPD-related factors on bone structure, and their implications for fracture-risk, leading to the development of a COPD-specific model for assessment of fracture-risk that will utilize patient-specific demographic, clinical and radiographic data, and CT BMD at the spine, as well as bone structural measures at the wrist and/or ankle.
+

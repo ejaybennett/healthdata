@@ -1,0 +1,16 @@
+(firstQuint)Does a Nitrofurazone Coated Bladder Catheter Reduce the Number of Urinary Tract Infections in Trauma.
+
+ Urinary tract infection occurs in one in five patients as a complication following severe trauma.
+
+ A new and approved urinary bladder catheter (Releen NF) has been introduced by the Danish company Coloplast A/S.
+
+ Releen NF is expected to reduce the number of urinary tract infections, but this effect has not been investigated in trauma patients.
+
+.
+
+ Does a Nitrofurazone Coated Bladder Catheter Reduce the Number of Urinary Tract Infections in Trauma@highlight
+
+Urinary tract infections occurs in trauma.
+
+ We investigate whether a nitrofurazone coated can reduce the number of urinary tract infections.
+

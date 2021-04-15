@@ -1,0 +1,20 @@
+(fifthQuint)Nicotinamide Riboside in Systolic Heart Failure.
+
+ Aim 1: Determine the safety and tolerability of NR in patients with clinically stable, systolic heart failure (LVEF <40%).
+
+ To accomplish this Aim: A) a total of 30 participants with clinically stable, systolic heart failure (LVEF <40%) will undergo 2:1 randomization to NR 250mg PO twice daily or matching placebo B) NR (or matching placebo), will be increased weekly by 250mg/dose (500mg/day) to a final dose of 1000mg PO twice daily.
+
+ Clinic visits with labs bi-weekly during dose escalation will assess HF symptoms and monitor labs [B-type natriuretic peptide (BNP), complete blood count (CBC), glycosylated hemoglobin, alanine aminotransferase (ALT), creatine kinase (CK), insulin/glucose, uric acid, electrolytes, blood urea nitrogen (BUN) and creatinine (Cr).
+
+ C) to ensure intermediate-term safety and tolerability, participants will continue on their maximum tolerated dose (of NR or placebo) through Study Week 12 Aim 2: Determine whether, at the doses employed, NR and NAD are detectable in whole blood.
+
+ Aim 3 (Exploratory): Assess the range of potential effect sizes of NR on HF surrogate endpoints using: A) Six-minute walk tests (6MWTs) at each visit (including Screening) to assess functional capacity B) Echocardiography at Baseline and Week 12 to assess LV systolic function (by real-time, 3D echocardiography) and diastolic function (by integrated Doppler and tissue Doppler imaging).
+
+ Nicotinamide Riboside in Systolic Heart Failure@highlight
+
+Mitochondrial dysfunction has been implicated in heart failure (HF), and is associated with an imbalance in intracellular ratio of reduced nicotinamide-adenine dinucleotide (NADH) to oxidized nicotinamide-adenine dinucleotide (NAD), or the NADH/NAD ratio.
+
+ In mouse models of HF, we have found that normalization of the NADH/NAD, through supplementation with NAD+ precursors, is associated with improvement in cardiac function.
+
+ This Study will randomize participants with systolic HF (ejection fraction 40%) to treatment with the NAD precursor, nicotinamide riboside (NR) or matching placebo, uptitrated to a final oral dose of 1000mg twice daily, to determine the safety and tolerability of NR in participants with systolic HF.
+

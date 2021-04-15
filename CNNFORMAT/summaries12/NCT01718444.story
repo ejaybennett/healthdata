@@ -1,0 +1,28 @@
+(fifthQuint)Progestin-induced Endometrial Shedding in PCOS (The PIES in PCOS Study).
+
+ This is a prospective randomized trial of clomiphene citrate (CC) preceded by progestin-induced endometrial shedding (PIES) vs CC without PIES in the treatment of infertility in patients with PCOS, for up to 5 treatment cycles.
+
+ Participants will be randomized to receive either progestin followed by CC starting on day 3 of the induced menses, or CC without induced menses.
+
+ Study participants will be monitored at regular 2 to 4 wks intervals for response to medication using ultrasound and hormonal parameters.
+
+ The maximum dose of CC will not exceed 750 mg/cycle.
+
+ Treatment will not exceed 5 ovulatory cycles.
+
+ Participants who are resistant to 150 mg of CC will exit the study.
+
+ 170 anovulatory PCOS women actively seeking pregnancy, aged 18 through 40 years will be enrolled and randomized in a 1:1 treatment ratio into the two study arms.
+
+ Anovulation will be the only infertility factor in all patients.
+
+.
+
+ Progestin-induced Endometrial Shedding in PCOS (The PIES in PCOS Study)@highlight
+
+Progestin-induced endometrial shedding (PIES) followed by clomiphene citrate is fertility treatment of choice in anovulatory women with polycystic ovary syndrome (PCOS).
+
+ However, some preliminary data suggest that skipping PIES could result in a higher live birth rate.
+
+ The investigators are performing the first randomized controlled trial to find out if skipping the use of progestin during fertility treatment of anovulatory PCOS women is associated with improved pregnancy and live birth rates compared to the traditional approach of using progestin prior to use of clomiphene citrate.
+

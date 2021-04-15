@@ -1,0 +1,22 @@
+(secondQuint)Healthy Outcomes of Pregnancy Education.
+
+ This study recruited pregnant, English speaking women from the District of Columbia who were African American or Latina and had one or more of the following risk factors: active smoking, environmental tobacco smoke exposure, depression and intimate partner violence.
+
+ Women were randomized to receive either an integrated intervention or usual prenatal care.
+
+ Women randomized to the intervention arm received a cognitive behavioral intervention delivered during the prenatal period in four to eight sessions.
+
+ Up to two postpartum booster sessions were provided.
+
+ Sessions were delivered coincident with prenatal care visits.
+
+ Careful attention was paid to individualizing counseling to provide an integrated approach to each participant's multiple risk factors.
+
+ The outcomes of interest were primarily behavior change with regard to the risk factors and secondarily to improved birth outcomes, specifically birthweight and gestation.
+
+.
+
+ Healthy Outcomes of Pregnancy Education@highlight
+
+The purpose of this study is to determine if an integrated intervention addressing active smoking, environmental tobacco smoke exposure, depression and intimate partner violence, would improve pregnancy outcome among African American women.
+

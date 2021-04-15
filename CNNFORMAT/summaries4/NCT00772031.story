@@ -1,0 +1,26 @@
+(secondQuint)NINDS CRC Chronic Migraine Treatment Trial.
+
+ Chronic migraine affects about 2 percent of all adults.
+
+ Currently there are no effective preventative treatments to deal with this disabling condition.
+
+ Three randomized, placebo-controlled trials found that topiramate was an effective, safe and generally well-tolerated drug for treating chronic migraine.
+
+ As a result of these trials, topiramate is becoming the standard treatment among headache specialists.
+
+ Experts agree that treatment with combinations of preventive agents is required in the majority of individuals with chronic migraine for maximal headache relief.
+
+ No randomized trials have assessed the value of frequently used combinations of preventive agents for chronic migraine.
+
+ The goal of this trial is to determine if adding a second drug to topiramate treatment will further reduce the headache burden for people with this condition.
+
+ In the study, 250 participants with chronic migraine will be randomized to two groups - treatment with topiramate and propranolol or topiramate and placebo.
+
+ Participants will be followed for six months.
+
+.
+
+ NINDS CRC Chronic Migraine Treatment Trial@highlight
+
+The purpose of this study is to compare the reduction in the number of severe headache days at six months in people with chronic migraine treated with topiramate and propranolol versus those treated with topiramate and a placebo.
+

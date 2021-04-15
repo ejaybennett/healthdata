@@ -1,0 +1,26 @@
+(firstQuint)Transdermal Continuous Oxygen Therapy for Infection Prophylaxis in High- Risk Patients Undergoing Instrumented Fusion.
+
+ Surgical site infections (SSI) after instrumented spinal fusions are not rare, and patients with SSI after instrumented spinal surgery often require repeat operations and prolonged intravenous antibiotic therapy.
+
+ Wound hypoxia has been identified as a pathogenic mechanism behind wound infection and poor healing.
+
+ Transdermal oxygen delivery (EPIFLO) has recently become a novel strategy to facilitate wound healing.
+
+ The study doctor will give an EPIFLO(R) unit along with standard wound care to some subjects in this study to see if it is safe and can help them.
+
+ Another purpose of this study is to find out if using EPIFLO(R) is better than getting only standard wound care for Surgical site infections (SSI).
+
+ The sponsor also wants to compare the cost of using the study device and standard wound care to the cost of standard wound care alone.
+
+ The U.
+
+S.
+
+ Food and Drug Administration (FDA) has approved EPIFLO(R) to treat skin ulcers (including diabetic skin ulcers), bedsores, amputations, skin grafts, burns, and frostbite.
+
+.
+
+ Transdermal Continuous Oxygen Therapy for Infection Prophylaxis in High- Risk Patients Undergoing Instrumented Fusion@highlight
+
+EPIFLO(R) unit along with standard wound care vs only standard wound care for Surgical site infections (SSI).
+

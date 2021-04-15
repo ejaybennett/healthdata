@@ -1,0 +1,46 @@
+(fifthQuint)Effects of Lactobacillus Coryniformis CECT5711 on Immune Response to Influenza Vaccination in Adults Over 65.
+
+.
+
+ The objective of the present study is to evaluate the capability of Lc K8 to enhance the immune response to influenza vaccine in elderly and the effect on respiratory symptoms related to respiratory infections.
+
+ A randomized, double-blinded, placebo controlled, multicenter trial was performed.
+
+ The study was started on October 2015 and ended on April 2016.
+
+ The recruitment of volunteers was carried out in five nursing home of Granada (Spain) at the beginning of the vaccination program.
+
+ Volunteers were randomly assigned to one of two groups.
+
+ Those in the placebo group daily consumed a capsule containing 300 mg of maltodextrin.
+
+ Those in the probiotic group daily consumed a capsule containing 3x10(9) colon-forming units of the strain Lc K8 in a matrix of maltodextrin.
+
+ From two weeks previous to the beginning of the intervention the consumption of any probiotic supplement was restricted until the end of the study.
+
+ During two weeks before flu vaccination volunteers daily received a capsule of probiotic or placebo.
+
+ Day 15 of the study all volunteers received intramuscular vaccination against flu (inactivated trivalent influenza: A/California/7/22009[H1N1]pdm09, A/HongKong/4801/2014[H3N2], B/Brisbane/60/2002) for the vaccine campaign of 2015/2016 (Sanofi Pasteur Europe, Lyon, France).
+
+ All volunteers were vaccinated during the same week (second week of November 2015).
+
+ After vaccination volunteer were followed-up until 31 of April 2016.
+
+.
+
+ Effects of Lactobacillus Coryniformis CECT5711 on Immune Response to Influenza Vaccination in Adults Over 65.
+
+@highlight
+
+The objective of the present study is to evaluate the capability of the probiotic strain Lactobacillus coryniformis K8 CECT5711 (Lc K8) to enhance the immune response to influenza vaccine in elderly and the effect on respiratory symptoms related to respiratory infections.
+
+ A randomized, double-blind, placebo-controlled trial was conducted between November of 2015 and April of 2016.
+
+ A total of 98 residents of nursing homes aged more than 65 years were randomly assigned to receive Lc K8 or placebo for two weeks previous to influenza vaccination.
+
+ Primary outcome was the percentage of seroconversion.
+
+ Secondary outcome were the incidence of influenza-like illness and respiratory symptoms associated to respiratory infections during the follow-up period of 5 months.
+
+ Serum cytokines and immunoglobulins levels were also evaluated.
+

@@ -1,0 +1,16 @@
+(thirdQuint)Analgesic Ointment on Temporomandibular Joint and Masticatory Muscle Pain.
+
+ Aims: To compare the effectiveness of using topical cream of Ping On Ointment and using Vaseline cream in the treatment of temporomandibular joint (TMJ) and masticatory muscle pain, in order to establish the true efficacy of Ping On Ointment.
+
+ Methods: In this randomized, double-blinded, placebo-controlled trial, 55 subjects with TMJ and/or masticatory pain (Group 1 patients according to the Research Diagnostic Criteria for Temporomandibular Disorder (RDC/TMD) received Ping On Ointment for 4 weeks; or placebo for 4 weeks.
+
+ Subjects were evaluated with standard measures of efficacy: pain intensity measured by visual analogue scale and maximal comfortable mandibular opening, at baseline and again after 4 weeks of treatment.
+
+.
+
+ Analgesic Ointment on Temporomandibular Joint and Masticatory Muscle Pain@highlight
+
+The purpose of this study is to compare the effectiveness of using topical cream of Ping On Ointment and using Vaseline cream in the treatment of temporomandibular joint (TMJ) and masticatory muscle pain, in order to establish the true efficacy of Ping On Ointment.
+
+ Both Ping On Ointment and Vaseline are considered intervention.
+

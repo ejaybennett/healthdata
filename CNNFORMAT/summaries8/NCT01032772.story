@@ -1,0 +1,18 @@
+(secondQuint)ChoicesPlus: Reducing Alcohol- and Tobacco-Exposed Pregnancy.
+
+ This randomized controlled study will examine the effect of the ChoicesPlus intervention compared to Treatment as Usual (TAU) in: reducing alcohol use below established risk levels; increasing consistent use of effective contraception; increasing engagement in smoking cessation treatment and increasing smoking cessation.
+
+ In addition, our examination of the incremental costs of the ChoicesPlus intervention (e.
+
+g.
+
+, staff time, materials, administrative services, total medical charges pre- and post-intervention) will provide a basis for future cost/benefit analyses that will inform policymakers and healthcare organizations of the potential benefits of implementing ChoicesPlus.
+
+ Results from this study will inform and advance future efforts in the service of promoting healthy prenatal behavior and reducing the prevalence of alcohol and tobacco-exposed pregnancies.
+
+.
+
+ ChoicesPlus: Reducing Alcohol- and Tobacco-Exposed Pregnancy@highlight
+
+Choices Plus, a randomized controlled study, will determine the efficacy of the Project CHOICES intervention plus a referral to an evidence-based smoking cessation program in reducing the risk of alcohol- and tobacco-exposed pregnancies.
+

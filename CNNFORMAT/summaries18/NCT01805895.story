@@ -1,0 +1,22 @@
+(secondQuint)A Pilot Study of Minocycline in Intracerebral Hemorrhage Patients.
+
+ MACH is a randomized trial of minocycline in intracerebral hemorrhage.
+
+ 24 total subjects will be randomly assigned to minocycline or control (1:1).
+
+ The first dose will be given intravenously.
+
+ Subsequent doses will be given orally every 24 hours for a total of five doses.
+
+ The study will test to see if the medication is safe in intracerebral hemorrhage.
+
+ The pharmacokinetics of minocycline in intracerebral hemorrhage will be determined and the impact of minocycline on blood biomarkers.
+
+.
+
+ A Pilot Study of Minocycline in Intracerebral Hemorrhage Patients@highlight
+
+The MACH Trial is a pilot study of 400mg minocycline over five days in acute intracerebral hemorrhage patients.
+
+ The study will evaluation the safety and efficacy of minocycline in intracerebral hemorrhage patients.
+

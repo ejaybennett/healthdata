@@ -1,0 +1,20 @@
+(firstQuint)A Phase II Study of Rituximab Combined With CHOP in T-cell Angio-immunoblastic Lymphoma.
+
+ This is a multicentric, open-label, non-randomized clinical study, evaluating the efficacy and the safety of a front-line treatment combining CHOP regimen and rituximab in patients aged 60 to 80 years with previously untreated AIL.
+
+ It is anticipated that 25 subjects will be enrolled over 2 years (from 2005 / 2007).
+
+Analysis performed every 5 patients (based on triangular test).
+
+ The duration of the treatment period is approximately 25 weeks and patients are followed until Death.
+
+ The total Duration of the study is expected to be 2.
+
+5 years.
+
+.
+
+ A Phase II Study of Rituximab Combined With CHOP in T-cell Angio-immunoblastic Lymphoma@highlight
+
+To evaluate the efficacy and the safety of a front-line treatment combining CHOP regimen and rituximab in patients aged 60 to 80 years with previously untreated AIL.
+

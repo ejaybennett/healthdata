@@ -1,0 +1,18 @@
+(firstQuint)Inpatient Blood Glucose Control in Taichung Veterans General Hospital.
+
+ This study will be conducted in the ward of Taichung Veterans General Hospital.
+
+ The type 2 diabetic patient with hyperglycemia in hospitalization are candidates.
+
+ The glucose will be controlled using the insulin protocal based on the glucose monitor systems.
+
+ We will assess the effects of insulin protocal and glucose monitor system on the inpatient with hyperglycemia.
+
+.
+
+ Inpatient Blood Glucose Control in Taichung Veterans General Hospital@highlight
+
+This study will be conducted in the ward of Taichung Veterans General Hospital.
+
+ The patient with hyperglycemia in hospitalization will be enrolled by glucose management team.
+

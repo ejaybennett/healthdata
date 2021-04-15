@@ -1,0 +1,70 @@
+(fifthQuint)DINAMITE Study Nutritional State and Effect Diet in Mitochondrial Disease.
+
+ Background The Nijmegen Centre for Metabolic Disease (NCMD) harbors a unique research center with much experience in the characterization of the group of patients with the m3243A>G mutation.
+
+ For a mitochondrial disease no therapy is available.
+
+ Treatment is supportive, and aims at improving the quality of life.
+
+ Clinical findings in patients with mitochondrial diseases may both comprise malnutrition and obesity.
+
+ While a nutritional intervention might constitute a symptomatic treatment for these patients, there are very few data in adults to guide such a strategy.
+
+ Malnutrition is defined as a state of nutrition in which a deficiency, excess (or imbalance) of energy, protein, and other nutrients causes measurable adverse effects on body composition and function, and clinical outcome.
+
+ In patients with mitochondrial disease there is by definition malnutrition on a cellular level due to disturbed metabolism with energy deficit.
+
+ A logical next step is to study the effect of this energy shortage on complaints in the adult population by describing characteristics of this patient group in relation to the nutritional status.
+
+ In the same vein, a controlled dietary intervention might result in an evidence based dietary therapy.
+
+ Frequent symptoms of patients with OXPHOS disorders include e gastrointestinal problems, fatigue and dysphagia.
+
+ We suspect that these symptoms increase the risk for malnutrition.
+
+ Research in patients with neuromuscular disorders have demonstrated that none of the patients had an adequate nutritional state, with a a lowered Fat Free Mass and a high fat percentage.
+
+ Study design: Part 1 comprises a comprehensive Nutritional Assessment (NA) including indirect calorimetry (IC), bioimpedance analysis (BIA), anthropometry, eating report, activity measurement using the actometer, and completion of questionnaires including the Cis-fatigue and SF-36 for Quality of life.
+
+ In Part 2 a 2-armed randomized controlled intervention study is performed .
+
+ One group starts with a dietary intervention whereas the second group (controls) starts with a non-interventional period of 6 months.
+
+ After this period the dietary intervention is also performed in the second group .
+
+ The dietary intervention implies optimizing the diet based on individually calculated energy and protein requirements, while for remaining nutrients advise in line with recommended daily amounts (RDA) will be provided.
+
+ Extended Nutritional Assessment measurements will be repeated every 3 months.
+
+ Indirect Calorimetry will be performed at the start of the study.
+
+ Objective of the study: 1.
+
+ To increase our knowledge about the nutritional status of adult patients with mitochondrial disease and its determinants.
+
+ 2.
+
+ Evaluate effects of a dietary intervention in these patients on nutritional status and body functions (muscle strength, activity, fatigue) and quality of life.
+
+ 3.
+
+ To develop criteria to refer patients with mitochondrial disease for dietary intervention.
+
+ DINAMITE study acronym DIner: Hot meal, super NA: Nutritional Assessment or Nutrition + Adults MIT MITochondrial disorder E Energy.
+
+ DINAMITE Study Nutritional State and Effect Diet in Mitochondrial Disease@highlight
+
+The m.
+
+3243A>G mutation is the most frequent cause of mitochondrial disease in adults, for which currently no therapy is available and treatment is solely supportive.
+
+ Since both malnutrition and obesity are frequently seen in these patients, an adequate nutritional intervention to improve body composition and function might improve the quality of life of these patients.
+
+ Hypothesis / research questions Hypothesis part 1: Patients with mitochondrial disorders caused by the m.
+
+3243 A>G mutation have an increased risk for malnutrition.
+
+ Hypothesis part 2 : Intervention study: Dietary intervention in adults with a mitochondrial disorder caused by the m.
+
+3243 A>G mutation has a positive effect on nutritional status, activity, hand grip strength, body composition, food intake, fatigue and quality of life.
+

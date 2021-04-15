@@ -1,0 +1,22 @@
+(secondQuint)Health Benefits of Expressive Writing Among Chinese Breast Cancer Survivors.
+
+ The study examines the potential health benefits (i.
+
+e.
+
+, physical health, psychological health, and quality of life) of this expressive writing intervention for Chinese-speaking breast cancer survivors.
+
+ The study also explores the mechanism through which expressive writing confers health benefits and investigates who will benefit most from the expressive writing intervention.
+
+ Chinese-speaking breast cancer survivors who have completed primary treatment will be randomly assigned to a control writing condition, a self-regulation condition, or a enhanced self-regulation writing condition.
+
+ Health outcomes are assessed at baseline, and 1, 3, and 6 months follow-ups.
+
+ Mixed qualitative-quantitative mixed methods are used to explore the effect of the intervention on health outcomes and explore the mechanisms that explain the benefits of this intervention.
+
+.
+
+ Health Benefits of Expressive Writing Among Chinese Breast Cancer Survivors@highlight
+
+This study is a randomized controlled trial (RCT) with the aim of determining the cultural sensitivity, feasibility, and effectiveness of an expressive writing intervention for Chinese breast cancer survivors.
+

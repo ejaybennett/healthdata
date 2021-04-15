@@ -1,0 +1,16 @@
+(firstQuint)Phase I and Pharmacokinetic Trial of Paclitaxel (Taxol) Given as a 3-Hour Infusion in Pediatric Patients With Refractory Malignancy.
+
+ Paclitaxel is an active antitumor agent that has demonstrated a broad range of activity in preclinical and clinical studies.
+
+ The optimal dose and schedule has not yet been determined in either adults or children.
+
+ The objective of this trial is to determine the maximum tolerated dose and the toxicities of paclitaxel given as a short hour infusion in children with refractory malignancy.
+
+ In addition, the pharmacokinetics of paclitaxel given in this way will be studied and both model-dependent and model-independent parameters will be determined.
+
+.
+
+ Phase I and Pharmacokinetic Trial of Paclitaxel (Taxol) Given as a 3-Hour Infusion in Pediatric Patients With Refractory Malignancy@highlight
+
+The objective of this trial is to determine the maximum tolerated dose and the toxicities of paclitaxel given as a short hour infusion in children with refractory malignancy.
+

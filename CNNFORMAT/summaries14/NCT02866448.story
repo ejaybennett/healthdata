@@ -1,0 +1,26 @@
+(thirdQuint)Impact of isoQUercetin and Aspirin on Platelet Function.
+
+ Cardiovascular disease (CVD) is the leading cause of death worldwide.
+
+ In 2012, approximately 17.
+
+5 million people worldwide died from CVD, representing 31% of global death.
+
+ Flavonoids are a class of plant secondary metabolites, functioning in the plant to aid in growth.
+
+ These compounds are found in diets worldwide, and many cohort studies have demonstrated the protective effect of diets high in flavonoids against CVD events, with some studies showing flavonoid intake inversely associated with CV event risk, CV non-fatal events and all-cause mortality.
+
+ One consistent issue with quercetin as a dietary flavonoid is the plasma concentrations it is able to reach are not always sufficient to provide a protective effect.
+
+ Therefore, supplementation or pharmacological intervention with flavonoids may offer a solution.
+
+ Supplementation with isoquercetin, the 3-O-glucoside of quercetin, offers the potential for much higher plasma concentrations of quercetin and its metabolites than dietary sources can offer, with associated increased inhibitory, anti-platelet effects.
+
+ It must therefore be addressed whether isoquercetin supplementation can effectively reduce platelet function ex vivo, measured by aggregation and closure time, as well as improve vascular function, measured through blood pressure (BP) and vascular stiffness (eg digital volume pulse (DVP)).
+
+.
+
+ Impact of isoQUercetin and Aspirin on Platelet Function@highlight
+
+The purpose of this study is to investigate the effect of acute isoquercetin supplementation, aspirin, and isoquercetin/aspirin combination on platelet aggregation, blood pressure and vasculat stiffness (eg digital volume pulse), as well as investigating the plasma accumulation and urine excretion profiles of quercetin.
+

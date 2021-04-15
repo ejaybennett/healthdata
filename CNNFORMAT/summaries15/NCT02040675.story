@@ -1,0 +1,26 @@
+(firstQuint)Use of NAVA-catheter Positioning Screen to Identify Different Cardiac Arrhythmias.
+
+ The population will be a convenience sample of adults with various arrhythmias who are scheduled to undergo an electrophysiology study and-or ablation (EPSA) under general anesthesia (GETA) at The Toledo Hospital.
+
+ After the patient has been successfully intubated at the beginning of the procedure, a trained nurse, using standard technique for placement of a oro/nasogastric tube, will place an appropriately sized NAVA catheter in the patient.
+
+ The lumen of the NAVA tube can be used as a conventional oro/nasogastric tube and the electrodes will be connected to the Servo-I ventilator.
+
+ Although the Servo-I is a ventilator, it will be used only as a monitor for this study.
+
+ The position of the nasogastric tube will then be refined using the catheter positioning screen as needed.
+
+ During the course of the EPSA various arrhythmias may become evident.
+
+ When these are noted, screen shots will be saved on the Servo-i monitor.
+
+ Surface and electrogram recordings will be saved at the same time.
+
+ The NAVA catheter will be disconnected from the Servo-I monitor during the ablation part of the procedure to prevent inadvertent damage to the monitor.
+
+.
+
+ Use of NAVA-catheter Positioning Screen to Identify Different Cardiac Arrhythmias@highlight
+
+The purpose of this study is to validate a novel method of diagnosing arrhythmias using the NAVA catheter-positioning screen in patients who have a NAVA catheter in place.
+

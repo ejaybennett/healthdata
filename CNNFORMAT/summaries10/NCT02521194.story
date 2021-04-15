@@ -1,0 +1,36 @@
+(firstQuint)Occupational Therapy in Palliative Care.
+
+ Caregivers Consent: If you agree to take part in this study, you will complete a questionnaire about your opinion on the inpatient occupational therapy session the patient (person you are caring for) received.
+
+ It should take about 10 minutes to complete the questionnaire.
+
+ You will be left alone in a room to complete the questionnaire.
+
+ Length of Study: Your participation on this study will be over after you complete the questionnaire.
+
+ This is an investigational study.
+
+ 50 patients and up to 50 caregivers will take part in this study.
+
+ All will be enrolled at MD Anderson.
+
+ Patients Consent: If you agree to take part in this study, you will complete a questionnaire about your opinion of the inpatient occupational therapy session you just had.
+
+ The questionnaire should take about 10 minutes to complete.
+
+ You will be left alone in the room to complete the questionnaire.
+
+ Length of Study: You participation on this study will be over after you complete the questionnaire.
+
+ This is an investigational study.
+
+ 50 patients and up to 50 caregivers will take part in this study.
+
+ All will be enrolled at MD Anderson.
+
+.
+
+ Occupational Therapy in Palliative Care@highlight
+
+The goal of this research study is to learn if inpatient occupational therapy can help patients in the Palliative Care Unit (PCU).
+

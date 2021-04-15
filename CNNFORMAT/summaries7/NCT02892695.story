@@ -1,0 +1,12 @@
+(secondQuint)PCAR-119 Bridge Immunotherapy Prior to Stem Cell Transplant in Treating Patients With CD19 Positive Leukemia and Lymphoma.
+
+ The purpose of this study is to evaluate the safety and optimal dose of PCAR-119 in patients who are going to receive stem cell transplantation but without available treatment to achieve complete remission prior to the transplant.
+
+ In addition, some patients who enroll to other CD19-CAR-T cell therapy trials might be eligible for this trial if their CD19-CAR-T cells cannot be produced successfully because they have insufficient T cells to allow the CD19-CAR-T cells to be made; their T cells are inefficiently transduced with CAR viruses; or their CAR-T cell expansion is failed.
+
+.
+
+ PCAR-119 Bridge Immunotherapy Prior to Stem Cell Transplant in Treating Patients With CD19 Positive Leukemia and Lymphoma@highlight
+
+The purpose of this study is to evaluate the safety and optimal dose of PCAR-119 in patients who are going to receive stem cell transplantation but without available treatment to achieve complete remission prior to the transplant.
+

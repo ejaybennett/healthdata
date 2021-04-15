@@ -1,0 +1,60 @@
+(fifthQuint)Daratumumab, Thalidomide and Dexamethasone in Relapse and/or Refractory Myeloma.
+
+ Daratumumab is a humanized antibody against CD38 which is expressed on myeloma cells.
+
+ Daratumumab exhibited single agent activity in myeloma and is a promising new treatment.
+
+ Recently, 2 phase 1 / 2 studies establishes the dosing regimen for Daratumumab and impressive single agent activity of about 30% response rates in patients who relapse after prior lenalidomide and bortezomib.
+
+ Daratumumab also appear to be well tolerated.
+
+ The most common toxicity is infusion-related and almost all confined to the first cycle.
+
+ On the whole these are manageable with early intervention, concurrent corticosteroids and anti-histamines as well as slowing infusion rate.
+
+ More recently, early results from 2 randomise study comparing Daratumumab plus lenalidomide and dexamethasone compared to lenalidomide and dexamethasone, and Daratumumab plus bortezomib and dexamethasone compared to bortezomib and dexamethasone, showed that the addition of Daratumumab significantly improved response and progression free survival, including a high minimal residual disease (MRD) negative rate of more than 20% in the relapse myeloma populations.
+
+ In addition, the use of immunomodulatory drugs, such as thalidomide and lenalidomide, has been shown to augment NK cell activity.
+
+ NK cells are important mediator of antibody dependent cellular cytotoxicity, which is an important mechanism of action for Daratumumab.
+
+ Furthermore, in the studies using another antibody target SLAMF7, Elotuzumab, the addition of dexamethasone greatly improve efficacy.
+
+ Furthermore, thalidomide plus dexamethasone combination have a long history in myeloma and is relatively well tolerated and cost-effective.
+
+ We therefore propose to add Daratumumab to thalidomide and dexamethasone, as this combination will be relatively easy to deliver in the Asian population because of availability and there is good rationale that such a combination will be synergistic and well-tolerated Patients will be assessed every 28 days (+/-10 days).
+
+ Patients shall receive the treatment until disease progression, unacceptable toxicity as determined by treating physician, withdrawal of consent or mortality (whichever occurs first).
+
+ After disease progression, the treating physician should provide long-term follow-up data on disease status and survival.
+
+ For patients who discontinued treatment before disease progression occurred, disease assessment measurements shall be performed once every 28 days (+/- 10 days) until disease progression.
+
+ After patients have documented progression of disease, they will be followed for survival every 3 months (+/-10 days) until study closure or until patients withdraws consent, is lost to follow-up or until death, whichever comes first.
+
+ For any patient who is lost to follow-up, the study site shall attempt to ascertain survival information via public database search.
+
+.
+
+ Daratumumab, Thalidomide and Dexamethasone in Relapse and/or Refractory Myeloma@highlight
+
+Myeloma patients who relapse after prior treatment with bortezomib and lenalidomide have survival of less than 1 year.
+
+ A number of new drugs have been approved for the treatment of relapse myeloma in the last couple of years, including, Elotuzumab, Panobinostat, Ixazomib, carfilzomib and Pomalidomide.
+
+ However, most of these drugs either do not have good single agent activity or still belongs to the category of immunomodulatory drugs or proteasome inhibitors.
+
+ Daratumumab is a monoclonal antibody against CD38 that is highly expressed on myeloma plasma cells.
+
+ In phase 1/2 studies, it has impressive single agent activity in relapse and refractory myeloma with a very acceptable toxicity profile.
+
+ This set the stage for combinations with daratumumab to increase efficacy and improve outcome of patients with myeloma.
+
+ The use of immunomodulatory drugs, such as thalidomide and lenalidomide, has been shown to augment NK cell activity.
+
+ NK cells are important mediator of antibody dependent cellular cytotoxicity.
+
+ We therefore hypothesize that the combination of Daratumumab with thalidomide may therefore improve the efficacy of the treatment.
+
+ In this study, we will plan to perform a phase II trial using the Daratumumab, Thalidomide, Dexamethasone combination in 100 myeloma patients with relapse myeloma in Asia.
+

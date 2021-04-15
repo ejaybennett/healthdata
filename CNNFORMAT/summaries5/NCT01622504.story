@@ -1,0 +1,16 @@
+(secondQuint)Naloxone Nasal Spray Pharmacokinetic Study.
+
+ Naloxone hydrochloride is currently only recommended and licensed for intravenous, intramuscular and subcutaneous administration.
+
+ It has also been used by intranasal administration (off-label use) when the intravenous route is not suitable by administering the Solution for Injection using a mucosal atomization device (MAD).
+
+ However, due to the volume of naloxone solution administered this way, some of it may be inadvertently swallowed and not absorbed into the nasal mucosa and the product requires administration by medically trained personnel.
+
+ The study aims to investigate intranasal administration of naloxone using a more concentrated solution and a nasal delivery device.
+
+.
+
+ Naloxone Nasal Spray Pharmacokinetic Study@highlight
+
+This study aims to compare the pharmacokinetics of naloxone when administered as the Mitovie nasal spray (Test Product) and as a solution for injection (Comparator Product) administered intranasally using a mucosal atomization device (MAD).
+

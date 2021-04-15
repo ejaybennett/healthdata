@@ -1,0 +1,22 @@
+(firstQuint)Household Influenza Transmission Study.
+
+ HITS is a multi-year project that will prospectively identify laboratory-confirmed influenza infected children.
+
+ Secondary influenza infection will then be examined among members of the child's household and effectiveness of non-pharmaceutical interventions to decrease secondary infection will be assessed.
+
+ The pediatric influenza-infected index case will be identified by rapid influenza testing and their household will then be enrolled and randomized to one of three study arms: control, hand washing (Intervention 1), and hand washing and mask use (Intervention 2).
+
+ Following enrollment, at days 0, 3 and 7, all household participants will be tested: the index case will be assessed for influenza viral shedding and household members will be assessed for secondary influenza infection.
+
+ This study is being conducted at Queen Sirikit Institute for Child Health in Bangkok.
+
+.
+
+ Household Influenza Transmission Study@highlight
+
+The purpose of this study is to determine whether nonpharmaceutical interventions (i.
+
+e.
+
+, handwashing and masks) reduce secondary transmission of influenza in households.
+

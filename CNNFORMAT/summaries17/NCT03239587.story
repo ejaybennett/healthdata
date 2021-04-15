@@ -1,0 +1,44 @@
+(thirdQuint)Investigating the Effect of Simulated Live Piano Music on Preoperative Cancer Patients, Health Care Providers and Hospital Volunteers Using Validated Questionnaires and Proteomic Analysis.
+
+ If you agree to take part in this study, you will be randomly assigned (as in the flip of a coin) to 1 of 2 study groups.
+
+ Participants in the first group will wait for 30 minutes in a standard pre-surgery waiting area without music.
+
+ Participants in the other group will go to a waiting room with a Steinway Spirio grand piano that plays 30 minutes of simulated piano music.
+
+ A Steinway Spirio grand piano is a special type of piano that plays music by itself (also called a player piano).
+
+ The music will be chosen by the study staff and pre-recorded on the piano.
+
+ Although the keys will move on the piano as if someone is playing the piano, you will be alone in the room.
+
+ You will have an equal chance (50/50) of being assigned to either group.
+
+ Both you and the person in charge of this study will know to which group you have been assigned.
+
+ You do not get to choose which group you are in.
+
+ Study Procedures: Before and about 30 minutes after you either listen to music or stand in the waiting room without music: - Blood (about 1 1/2 teaspoons each time) will be drawn to learn how your body is responding to the music or silence by measuring the amount of cortisol in your body (a type of hormone related to stress) and for biomarker testing.
+
+ Biomarkers are found in the blood and may be related to your reaction to the music or silence.
+
+ If you are a healthcare provider or volunteer, you will not have these blood draws.
+
+ - You will complete 2 questionnaires about your anxiety and stress levels.
+
+ It should take about 20-30 minutes to complete.
+
+ Length of Study: You participation on this study will be over after the last blood draw and questionnaire are completed.
+
+.
+
+ Investigating the Effect of Simulated Live Piano Music on Preoperative Cancer Patients, Health Care Providers and Hospital Volunteers Using Validated Questionnaires and Proteomic Analysis@highlight
+
+The goal of this research study is to learn if simulated live piano music can change the amount of stress felt in patients with cancer before surgery, health care providers caring for cancer patients, and/or hospital volunteers.
+
+ This is an investigational study.
+
+ Up to 304 participants (200 patients, 52 volunteers, and 52 healthcare providers) will be enrolled in this study.
+
+ All will take part at MD Anderson.
+

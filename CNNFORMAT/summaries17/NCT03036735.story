@@ -1,0 +1,20 @@
+(firstQuint)Rates of Middle Meatus Synechiae Formation Post ESS.
+
+ The study is designed to evaluate basic device usability and confirm safety and effectiveness of the Restora Steroid Eluting spacer compared to a Silastic spacer.
+
+ At the completion of their procedure, patients undergoing ESS will receive one steroid eluting spacer placed into the surgical site on one side, and one spacer without drug placed on the other side.
+
+ Patients will return for standard post-op visits.
+
+ Between post-op day 6 and 8, both spacers will be removed.
+
+ Patients will again be seen on post-op day 35 and 90 to evaluate the surgical sites with respect to healing, scarring, infection, degree of inflammation, polyp formation, and the need for secondary intervention.
+
+ Data from the two sides will be compared to determine if there is a benefit derived from the spacer with steroid vs the one without.
+
+.
+
+ Rates of Middle Meatus Synechiae Formation Post ESS@highlight
+
+The study is designed to evaluate if addition of the steroid to the spacer / stent will improve healing after endoscopic sinus surgery (ESS) compared to spacer without drug.
+

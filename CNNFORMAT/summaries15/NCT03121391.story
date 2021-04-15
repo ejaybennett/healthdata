@@ -1,0 +1,30 @@
+(thirdQuint)An Algorithmic Approach to Ventilator Withdrawal at the End of Life.
+
+ Terminal ventilator withdrawal is a process that entails the cessation of mechanical ventilatory support with patients who are unable to sustain spontaneous breathing and is commonly performed in the ICU.
+
+ Ventilator withdrawal is undertaken to allow a natural death.
+
+ Opioids and/or benzodiazepines are administered before, during, and after as an integral component of the ventilator withdrawal process to prevent or relieve respiratory distress, but there are few guidelines to determine how much to administer or when.
+
+ Insufficient opioid and/or benzodiazepine administration places the patient at risk for unrelieved respiratory distress and preventable suffering.
+
+ Conversely, excessive medication administration may hasten death, an unintended consequence, and one that concerns clinicians.
+
+ The effective doses of medications given during ventilator withdrawal are unknown.
+
+ The investigators hypothesize that an algorithmic approach to ventilator withdrawal, relying on a biobehavioral instrument to measure and trend distress, will ensure patient comfort, and guide effective opioid and/or benzodiazepine administration.
+
+ The investigators plan to use a stepped wedge cluster randomized controlled trial with all clusters providing unstructured usual care until each cluster is randomized to implement the algorithmic approach (intervention).
+
+ The proposed study is innovative because there is no standardized, evidence-based approach guided by an objective measure of respiratory distress to this common ICU procedure.
+
+ The study has broad clinical significance to provide knowledge that can potentially reduce patient suffering.
+
+.
+
+ An Algorithmic Approach to Ventilator Withdrawal at the End of Life@highlight
+
+The proposed study is an important, under-investigated area of ICU care for terminally ill patients undergoing terminal ventilator withdrawal.
+
+ The proposed research has relevance to public health because an algorithmic approach to the ventilator withdrawal process will enhance clinicians' ability to conduct the process while assuring patient comfort, using opioids and/or benzodiazepines effectively.
+

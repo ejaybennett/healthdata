@@ -1,0 +1,36 @@
+(fifthQuint)Renal Hypothermia During Partial Nephrectomy.
+
+ The incidence of renal cell carcinoma is increasing and in 2008 it is estimated that over 51,000 new renal cancers will be diagnosed in the United States.
+
+ To preserve renal function, urologists commonly remove the diseased segment of the kidney (partial nephrectomy) instead of removing the entire kidney (radical nephrectomy).
+
+ While the benefit of preserving function in patients with renal cell carcinoma has become clear, optimal preservation techniques are yet to be determined.
+
+ Specifically, the role of hypothermia during partial nephrectomy has been inadequately studied despite theoretical benefit.
+
+ The investigators objective is to assess the effectiveness of renal hypothermia during partial nephrectomy.
+
+ The investigators hypothesis is that renal hypothermia during partial nephrectomy results in improved post-operative renal function compared to warm ischemia.
+
+ Methods: To test the investigators hypothesis, 180 partial nephrectomy patients will be randomized to cold or warm ischemia.
+
+ Global and side-specific renal function will be assessed pre-operatively and 12 months post-operatively using radionucleotide clearance and renal scintigraphy.
+
+ Significance: To the investigators knowledge, this study will be the first prospective trial to evaluate the clinical impact of renal hypothermia during partial nephrectomy.
+
+ Since renal function preservation is the primary purpose of partial nephrectomy, these findings will have an important impact on surgical technique and patient outcome.
+
+.
+
+ Renal Hypothermia During Partial Nephrectomy@highlight
+
+The Objective is to determine if renal hypothermia during open partial nephrectomy results in improved post-operative renal function compared to warm ischemia.
+
+ Primary Aim is to determine the effect of hypothermia on preservation of overall renal function compared to no hypothermia in patients who require hilar vessel clamping during open partial nephrectomy for a renal tumor.
+
+ Hypothesis: Hypothermia will result in improved post-operative preservation of overall renal function.
+
+ Secondary Aim is to determine the effect of hypothermia on preservation of affected renal function (kidney with the tumor) compared to no hypothermia in patients who require hilar vessel clamping during open partial nephrectomy for a renal tumor.
+
+ Hypothesis: Hypothermia will result in improved post-operative preservation of affected renal function.
+

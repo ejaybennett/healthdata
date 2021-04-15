@@ -1,0 +1,18 @@
+(firstQuint)A Trial of Doxycycline in Renal Disease.
+
+ This is a Phase I, placebo-controlled, randomized crossover trial to determine the effects of 4-week treatment with subantimicrobial-dose doxycycline on serum and urine biomarkers of fibrosis in patients with pre-dialysis chronic kidney disease (eGFR<30ml/min/1.
+
+73m2).
+
+ Doxycycline is a matrix metalloproteinase inhibitor and is approved for use as an anti-fibrotic in the setting of gum and skin disease at low doses (20mgBID).
+
+ At such a dose, serum levels are too low for antimicrobial effect and chronic usage is not thought to lead to tetracycline resistance.
+
+ Investigators hypothesize that doxycycline will ameliorate cardiac and renal fibrosis and thus investigators will detect a decrease in fibrotic markers during treatment with doxycycline.
+
+.
+
+ A Trial of Doxycycline in Renal Disease@highlight
+
+The goal of this trial is to evaluate whether subantimicrobial-dose of doxycycline (20mgBID) will affect serum and urine biomarkers of fibrosis in patients with pre-dialysis chronic kidney disease.
+

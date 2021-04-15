@@ -1,0 +1,16 @@
+(firstQuint)Tacrolimus (FK506) P-III, Open-label Study in Refractory Ulcerative Colitis Patients.
+
+ Patients with severe refractory ulcerative colitis (UC) or those who received placebo in study F506-CL-1107 study can participate in this study.
+
+ Patients will receive tacrolimus for a maximum of 12 weeks in an open-label study manner.
+
+ Improvement of Disease Activity Index (DAI) score and other efficacy scores will be evaluated during the drug administration period.
+
+.
+
+ Tacrolimus (FK506) P-III, Open-label Study in Refractory Ulcerative Colitis Patients@highlight
+
+Patients with severe refractory ulcerative colitis (UC) or those who received placebo in study F506-CL-1107 will receive tacrolimus for a maximum of 12 weeks.
+
+ Safety and efficacy will be evaluated.
+

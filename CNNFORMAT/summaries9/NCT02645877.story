@@ -1,0 +1,24 @@
+(thirdQuint)Trends of the Pre-hospital Emergency Care Spectrum in Beijing From 2005 to 2014: A Retrospective Analysis.
+
+ Pre-hospital emergency care is a very important part of Emergency Medical Service (EMS) System, crucial to patients' life support, disability and mortality rate reduction.
+
+ The level of pre-hospital emergency care reflects the comprehensive ability of the organizational, management and public welfare of a country.
+
+ Beijing Emergency Center and Beijing Red Cross Emergency Center are in the charge of all the pre-hospital emergency care in Beijing, which respectively subordinate to Beijing government and Chinese Red Cross Society.
+
+ This study collected the data of 3,909,746 cases from these two pre-hospital care centers from January, 2005 to December, 2014 and retrospective analyzed the pre-hospital emergency call demand and first aid related time.
+
+ The results of this study can help the government optimize medical resources; strengthen the prevention of related emergency diseases.
+
+ The changes and trends of pre-hospital care disease spectrum also present the same problems and situation of developing megacities like Beijing.
+
+ Based on the meticulous work in these 2 centers, this study has collected the most complete pre-hospital emergency care data in China.
+
+.
+
+ Trends of the Pre-hospital Emergency Care Spectrum in Beijing From 2005 to 2014: A Retrospective Analysis@highlight
+
+This was a retrospective analysis of a cohort of all emergency care patients in Beijing from January 2005 to December 2014.
+
+ This aim of this study was to analyze the trends in pre-hospital emergency care need and the emergency response times, with the intention of aiding the government to optimize medical resources and improve pre-hospital emergency care.
+

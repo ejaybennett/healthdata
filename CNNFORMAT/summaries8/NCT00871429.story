@@ -1,0 +1,32 @@
+(fifthQuint)Skin Care for Cancer Patients: A Product Satisfaction Survey.
+
+ The primary objective of this study is to evaluate product satisfaction of the following test articles A, B, and C: Lindi Skin soothing balm (product A), Lindi Skin face serum (product B), and Lindi Skin face wash (product C).
+
+ This will be done by measuring change in Skindex-16 questionnaire at two time points (baseline and follow-up visits) and by evaluating responses to the investigator administered product satisfaction survey.
+
+ The secondary objective of this study is to see if there is any correlation between product satisfaction and grade of skin toxicity based on NCI-CTCAE v.
+
+3.
+
+0 scale.
+
+ Participants in this study will be patients seen at the Northwestern University SERIES clinic or Lurie Cancer Center who are receiving chemotherapeutic and or radiation treatments.
+
+ Subjects who choose to participate complete a Skindex16 questionnaire, and will after consenting to participate, be given all three test articles A, B, and C to use daily for one month.
+
+ (These test articles are currently marketed products classified by the FDA as cosmetics).
+
+ At the return visit, 1 month after baseline visit, the participant will be asked to return the test articles and complete an investigator administered product satisfaction questionnaire for each test article used.
+
+ 100 participants will be surveyed.
+
+ Subjects will be telephoned to check for product compliance after 1 week and 2 week intervals.
+
+.
+
+ Skin Care for Cancer Patients: A Product Satisfaction Survey@highlight
+
+This study is being done because the investigators would like to evaluate product satisfaction of three test products (product A, product B, product C) that are available at any drug store.
+
+ This will be done by measuring any changes in the subjects' answers to the Skindex-16 questionnaire at two time points (at screening and baseline visit and at follow-up visit) and by evaluating their responses to the product satisfaction survey that will be given to them by a study coordinator.
+

@@ -1,0 +1,26 @@
+(thirdQuint)Exisulind in Preventing Polyps in Patients With Familial Adenomatous Polyposis.
+
+ OBJECTIVES: - Determine the ability of exisulind to inhibit growth and development of duodenal adenomas in patients with familial adenomatous polyposis.
+
+ - Determine the effect on apoptosis in polyp vs mucosal tissue in these patients when treated with this drug.
+
+ OUTLINE: This is a randomized, double-blind, placebo-controlled study.
+
+ Patients are randomized to one of two treatment arms.
+
+ - Arm I: Patients receive oral exisulind 4 times daily.
+
+ - Arm II: Patients receive oral placebo 4 times daily.
+
+ Treatment continues for 1 year.
+
+ PROJECTED ACCRUAL: A total of 100 patients (50 per treatment arm) will be accrued for this study.
+
+.
+
+ Exisulind in Preventing Polyps in Patients With Familial Adenomatous Polyposis@highlight
+
+RATIONALE: Exisulind may be effective in preventing the development and growth of polyps in patients who have familial adenomatous polyposis.
+
+ PURPOSE: Randomized phase II/III trial to determine the effectiveness of exisulind in preventing the development and growth of polyps in patients who have familial adenomatous polyposis.
+

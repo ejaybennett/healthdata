@@ -1,0 +1,24 @@
+(secondQuint)Impact of Nutritional Supplementation on Aerobic Performance and Fatigue.
+
+ Compare an over-the-counter dietary supplement (NutraStem Active(R)) and placebo over a 30-day intervention on aerobic exercise performance and fatigue.
+
+ The hypothesis is that supplementation with NutraStem Active(R) improve aerobic performance and reduce subjective measures of fatigue.
+
+ The basic protocol includes baseline assessment of fitness and participation in a vigorous session of exercise immediately before and 30 days after consumption of the experimental supplement or placebo.
+
+ The exercise task is intended to be fatiguing and demanding but is not expected to create failure.
+
+ The supplement makes claims related to boosting exercise performance and reducing fatigue.
+
+ The study design will determine if these outcomes are in fact present in a group of healthy, young, and active adults.
+
+ The primary dependent measures are perceived exertion during exercise and levels of fatigue measured on multiple non-exercise days.
+
+.
+
+ Impact of Nutritional Supplementation on Aerobic Performance and Fatigue@highlight
+
+Compare an over-the-counter dietary supplement (NutraStem Active(R)) and placebo over a 30-day intervention on aerobic exercise performance and fatigue.
+
+ The hypothesis is that supplementation with NutraStem Active(R) improve aerobic performance and reduce subjective measures of fatigue.
+

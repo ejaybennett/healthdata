@@ -1,0 +1,28 @@
+(fifthQuint)Safety and Pharmacokinetics Study of DM1157 to Treat Malaria.
+
+ This is a first-in-humans, phase 1, randomized, double-blind, single-site, placebo-controlled study in 96 healthy volunteers, males and females, aged 18 to 45 years inclusive.
+
+ The study will consists of 3 parts: Part 1, Single Ascending Dose (SAD) - participants will be administered a single dose (ranges from 9 mg to 900 mg) of DM1157 orally after fasting or a matching placebo; Part 2, Multiple Ascending Dose (MAD) - participants will be administered three doses (ranges from 150 mg to 900 mg) of DM1157 orally once daily for three days after fasting or a matching placebo; and Part 3, Food Effect - participants will be administered 300 mg of DM1157 orally with high fat meal or a matching placebo.
+
+ Part 2 and Part 3 may be initiated after a Safety Monitoring Committee (SMC) review and approval of the of Part 1 safety data.
+
+ Study duration will be 13 months with patient participation duration 14 days for SAD and Food Effect, and 18 days for MAD.
+
+ The primary objectives of this study are to: 1) assess the safety and tolerability of single doses of DM1157 at levels ranging from 9 mg to 900 mg; 2) assess the safety and tolerability of DM1157 administered as single daily doses for 3 days at levels ranging from 150 mg to 900 mg; 3) assess the safety and tolerability of DM1157 administered with or without food.
+
+ The secondary objectives are to: 1) assess the PK of single doses of DM1157 at levels ranging from 9 mg to 900 mg, including dose proportionality; 2) assess the PK of DM1157 administered as single daily doses for 3 days at levels ranging from 150 mg to 900 mg; 3) assess the PK of 300 mg DM1157 administered with or without food, including determination of the presence or absence of a food effect on exposure.
+
+.
+
+ Safety and Pharmacokinetics Study of DM1157 to Treat Malaria@highlight
+
+This is a phase 1 trial to evaluate the safety and pharmacokinetics of single and multiple ascending doses and effect of food on the pharmacokinetics of a novel antimalarial drug in healthy adults.
+
+ The study will enroll 96 healthy volunteers, males and females, aged 18 to 45 years and will consists of 3 parts: Part 1, Single Ascending Dose (SAD); Part 2, Multiple Ascending Dose (MAD); and Part 3, Food Effect.
+
+ Part 2 and Part 3 may be initiated after a Safety Monitoring Committee (SMC) review and approval of the of Part 1 safety data.
+
+ Study duration will be 13 months with patient participation duration 14 days for SAD and Food Effect, and 18 days for MAD.
+
+ The primary objectives of this study are to: 1) assess the safety and tolerability of single doses of DM1157 at levels ranging from 9 mg to 900 mg; 2) assess the safety and tolerability of DM1157 administered as single daily doses for 3 days at levels ranging from 150 mg to 900 mg; 3) assess the safety and tolerability of DM1157 administered with or without food.
+

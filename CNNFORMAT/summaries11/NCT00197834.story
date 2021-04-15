@@ -1,0 +1,44 @@
+(fifthQuint)Study of Depakote for Behavioral and Psychological Symptoms in Dementia.
+
+ This open label, naturalistic study will enroll a total of 20 patients who are being treated for Behavioral and Psychological Symptoms of Dementia (BPSD), and who are being newly tried on Depakote in either the ER or sprinkle formulation.
+
+ Patients who are suitable for study inclusion will have a score of at least 4 (out of 5, with 5 being the most severe) on at least one item (verbal agitation, physical agitation, and or aggression) of the Cohen-Mansfield Agitation Inventory (CMAI), short form.
+
+ In this study Depakote ER will be prescribed in addition to existing pharmacotherapy; there will be no washout of co-prescribed psychotropic agents.
+
+ The study will not seek to enroll equal numbers of patients on Depakote only vs.
+
+ concomitant treatment.
+
+ Study subjects will be recruited in multiple assisted living, nursing home and hospital sites in Massachusetts.
+
+ We anticipate that they will roughly mirror the age, gender, and other demographic distribution of the larger SCU population.
+
+ This will be a rolling enrollment as patients present with symptoms appropriate for this treatment.
+
+ Our estimate is based on past experience with the referral rates for medication evaluation from these sites.
+
+ Patients currently on atypical antipsychotics who have residual BPSD will be considered for the study, as will those on acetylcholinesterase inhibitors.
+
+ Our logic is that as prescribed, these agents are not having the desired effect in reducing BPSD.
+
+ Patients who are taking, and are appropriate to remain on, conventional antipsychotics will be excluded from the study.
+
+ For each enrolled patient we will obtain baseline a psychiatric and medical assessment; results of the Mini Mental Status Evaluation (MMSE), CMAI, NPI - NH version and CGI; and a nursing staff patient status report prior to beginning psychotropic medication.
+
+ These will be completed at time of study enrollment.
+
+ Patients will then be followed for six weeks, with valproic acid levels drawn at weeks 1,3, and 6.
+
+ Nursing staff will complete the CMAI at baseline and at weeks 1, 3, and 6.
+
+ Physicians will score patients on the CGI at baseline, week 1, 3, and 6, and Clinical Raters will complete the NPI at baseline and week 6.
+
+.
+
+ Study of Depakote for Behavioral and Psychological Symptoms in Dementia@highlight
+
+This prospective, naturalistic, open label study will test the hypothesis that Depakote is correlated with a reduction in elevated Cohen-Mansfield Agitation Index (CMAI) verbal and physical agitation and aggression scales over a 6-week period among patients with elevated scores on those scales, and that these positive results can be achieved with fewer side effects than with other agents.
+
+ In addition, patients will be rated with respect to changes in the Clinical Global Impression (CGI) at baseline, week 1, 3, and 6 and the Neuropsychiatric Inventory (NPI) at baseline and week 6.
+

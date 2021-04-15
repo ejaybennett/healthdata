@@ -1,0 +1,16 @@
+(thirdQuint)Immediate Nausea and Vomiting After the Administration of Non-ionic Contrast Media.
+
+ There is no robust evidence or guideline for fasting prior to contrast-enhanced CT scan in patients.
+
+ Substantial heterogeneity exists on fasting prior to contrast-enhanced CT worldwide.
+
+ Through dedicated questionnaires, the investigators plan to prospectively assess the prevalence and the risk factors for nausea and vomiting after the exposure to the non-ionic contrast media agent in adult patients undergoing computed tomography examinations.
+
+.
+
+ Immediate Nausea and Vomiting After the Administration of Non-ionic Contrast Media@highlight
+
+The prevalence of nausea and vomiting after the administration of non-ionic contrast media has rarely been assessed.
+
+ Thus, the aim of our study is to evaluate the prevalence and risk factors of nausea and vomiting after the exposure to the non-ionic contrast media for computed tomography examinations in adults.
+

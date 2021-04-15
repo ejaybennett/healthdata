@@ -1,0 +1,18 @@
+(secondQuint)Sorafenib Combined With Chemotherapy for Renal Collecting Duct Carcinoma.
+
+ Collecting duct carcinoma(CDC) of the kidney is a rare and aggressive neoplasm of the distal collecting tubules for which there is no established treatment.
+
+ Since the histology of collecting duct carcinoma is similar to that of urothelial carcinoma, a prospective phase II trial in France(2007) studied gemcitabine plus cisplatin as the first-line treatment of advanced CDC, resulting an effective rate of 26%.
+
+ The targeted drugs can produce definite efficacy on renal clear cell carcinoma, but the data on targeted drugs for the treatment of renal advanced collecting duct carcinoma is limited.
+
+ We sponsored this study based on the assumption that targeted drugs combined with chemotherapy can produce additive, positive effects in CDC.
+
+.
+
+ Sorafenib Combined With Chemotherapy for Renal Collecting Duct Carcinoma@highlight
+
+The goal of this clinical research study is to learn the effectiveness of sorafenib combined with gemcitabine plus cisplatin in the treatment of patients with locally advanced or metastatic collecting duct carcinoma(CDC) of the kidney.
+
+ The safety of each treatment will also be studied.
+

@@ -1,0 +1,16 @@
+(firstQuint)Evaluation of Adhesion and Dermal Tolerability of EMSAM.
+
+ The primary objectives of this study are to examine the adhesion characteristics and dermal tolerability (irritation) of EMSAM in two populations consisting of non-elderly (18 - 64 years) and elderly (65 years and older) healthy volunteers.
+
+ EMSAM will be dosed over the range of proposed sizes for marketing [(6mg/24hr), (9mg/24hr), and (12mg/24hr)].
+
+ Adhesion and tolerability (irritation) will be examined at three different application site areas (upper torso [includes chest and back], upper arm, and upper thigh).
+
+ The secondary objective is to examine if the adhesion characteristics and dermal tolerability (irritation) of EMSAM may be influenced by the secondary factors such as gender, race, physical activity, and bathing/showering practices.
+
+.
+
+ Evaluation of Adhesion and Dermal Tolerability of EMSAM@highlight
+
+Examine adhesive and dermal tolerability of EMSAm 6mg/24hr and 12mg/24hr in healthy elderly and non-elderly subjects.
+

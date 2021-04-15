@@ -1,0 +1,62 @@
+(fifthQuint)Acthar in Treatment of Refractory Dermatomyositis and Polymyositis.
+
+ Despite its FDA approval there is very limited data on its clinical effectiveness in PM and DM.
+
+ There was a recent study published in the peer-review journal Drug Design, Development and Therapy on a retrospective case series evaluating Acthar in the treatment of PM and DM.
+
+ Acthar was administered to five patients who had previously failed multiple steroid and immunosuppressant treatment regimens.
+
+ The patients received injections of Acthar over the course of 12 weeks or more.
+
+ Improvement in PM and DM symptoms related to disease exacerbations was seen in all five patients.
+
+ Symptom improvements included increased muscle strength, resolution of disease-related skin manifestations and improvements in the ability to perform tasks associated with daily living.
+
+ All of these patients tolerated the treatment well with no significant side effects reported.
+
+ The paper, "Treating refractory dermatomyositis or polymyositis with adrenocorticotropic hormone gel: a retrospective case series," was authored by Dr.
+
+ Todd Levine, M.
+
+D.
+
+, Co-Director of the Neurophysiology Department at Banner Good Samaritan Medical Center, Assistant Professor at the University of Arizona in Neurology, and Member of Phoenix Neurological Associates.
+
+ H.
+
+P.
+
+ Acthar(R) Gel, or Acthar, is a prescription medication containing the hormone adrenocorticotropin (hormone produced and secreted by the anterior pituitary gland), also known as ACTH.
+
+ H.
+
+P.
+
+ Acthar Gel is a highly purified preparation of adrenocorticotropic hormone (ACTH) in a gel that is designed to provide extended release of the ACTH following injection.
+
+ Acthar was originally approved by the FDA in 1952.
+
+ It is approved for use in 19 different conditions including dermatomyositis and polymyositis.
+
+ Acthar is designed to provide a prolonged release of the medication after it is injected.
+
+ Acthar is not a steroid; it works by helping your body produce its own natural steroid hormones, such as cortisol, corticosterone, and aldosterone.
+
+ Acthar is an injection that is given intramuscularly (into the muscle).
+
+ Subjects enrolled in the study will be asked to self administer Acthar two times per week.
+
+ Subjects will be provided training by the principal investigator on how to perform the self injections.
+
+.
+
+ Acthar in Treatment of Refractory Dermatomyositis and Polymyositis@highlight
+
+The purpose of this research study is to evaluate the effectiveness of the study drug, ACTH Gel in people diagnosed with dermatomyositis a disease that causes muscle weakness and is associated with a rash (DM) or polymyositis (PM) a disease that causes muscle weakness without a rash.
+
+ The study doctors want to evaluate whether ACTH Gel will improve the symptoms of this disease.
+
+ This drug is approved by the Food and Drug Administration (FDA) for dermatomyositis (DM) and polymyositis (PM).
+
+ ACTH gel has been an FDA-approved treatment for myositis since 1952, and in 2010 the FDA retained PM and DM as diseases approved for ACTH gel use.
+

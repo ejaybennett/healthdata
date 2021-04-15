@@ -1,0 +1,48 @@
+(fifthQuint)CeraVe Cream Compared to Desitin Paste for Treating Diaper Dermatitis in Infants.
+
+ Visit 1 - Screening and Baseline Visit (Day 0) Subjects will be evaluated for study eligibility using inclusion and exclusion criteria.
+
+ The study doctor will assess diaper dermatitis for inclusion and exclusion criteria and to verify mild to moderate severity.
+
+ Once study eligibility has been confirmed, parental/guardian consent will be obtained.
+
+ No washout period is necessary for this study.
+
+ Location of clinically apparent involved area will be shaded by hand onto diagram by the research personnel.
+
+ Study products will be dispensed to parent/caregiver, along with instructions for administration.
+
+ Parent/caregivers will also be asked to complete a daily diary that asks about changes in their baby's diaper dermatitis, a Visual Analogue Scale severity assessment of their baby's diaper dermatitis, and observations related to product use and the baby's comfort level.
+
+ Parents/caregivers will be asked to complete the daily diary for each day of the study.
+
+ Visit 2 (Day 7) Subjects will again be assessed by the study doctor.
+
+ Parent/caregiver will be asked about any adverse effects in last 7 days.
+
+ Visit 3 - End of study (Day 14) Subjects will again be assessed by the study doctor.
+
+ Daily diaries and product will be collected at this time.
+
+ Parent/caregiver will be asked about any adverse effects in last 7 days.
+
+ Parents/caregivers will also be given a questionnaire rating the use of the study products.
+
+.
+
+ CeraVe Cream Compared to Desitin Paste for Treating Diaper Dermatitis in Infants@highlight
+
+This is a single-center, 1:1 randomized, double-blind, parallel-group, non-inferiority controlled trial to demonstrate non-inferiority of CeraVe Baby Diaper Rash Cream compared to Desitin Maximum Strength Original Paste when administered to children with diaper dermatitis who are between 3 months to 18 months of age.
+
+ Parents/caregivers of subjects in both groups will administer the product with each diaper change throughout the course of the study period.
+
+ Product can be applied liberally as needed.
+
+ Diapers and skin cleansing interventions will stay constant throughout the treatment period.
+
+ Subjects will be assessed by the study doctor, parent/caregiver will be asked about any adverse effects.
+
+ Parent/caregivers will also be asked to complete a daily diary that asks about changes in their baby's diaper dermatitis, a Visual Analogue Scale severity assessment of their baby's diaper dermatitis, and observations related to product use and the baby's comfort level.
+
+ Parents/caregivers will also be given a questionnaire rating the use of the study products.
+

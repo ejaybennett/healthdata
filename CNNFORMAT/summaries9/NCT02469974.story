@@ -1,0 +1,16 @@
+(firstQuint)Ruxolitinib in Combination With Autotransplant.
+
+ This is a pilot, single arm, single center study with no stratification to assess the safety (measured by graft failure or death) and feasibility (measured by adequacy of stem cell collection) of combining ruxolitinib with autologous Hematopoeitic Stem Cell Transplantation (HSCT) in patients with advanced myelofibrosis (MF).
+
+ Patients will receive a short course of ruxolitinib prior to and during mobilization of HSCT with Filgrastim.
+
+ Conditioning for the autologous HSCT will consist of Bulsulfan.
+
+ Post-transplant patients will receive ruxolitinib maintenance.
+
+.
+
+ Ruxolitinib in Combination With Autotransplant@highlight
+
+To determine the safety of the approach of giving RUXOLITINIB before and after an autologous stem cell transplant, as measured by graft failure or death.
+

@@ -1,0 +1,16 @@
+(firstQuint)Valproate in Late Life Schizophrenia.
+
+ It is known that up to 30% of individuals with schizophrenia continue to have symptoms even when treated with current FDA-approved medications intended to treat their schizophrenia.
+
+ Anticonvulsant medications such as valproate (Depakote and Depakote ER) are known to be effective for related conditions such as bipolar disorder (manic depressive illness), and are also used by some physicians in clinical settings in combination with antipsychotic medications to treat symptoms of schizophrenia.
+
+ Currently Depakote and Depakote ER are approved by the FDA to treat bipolar disorder and to treat seizure disorder.
+
+ This study will test to see if Depakote and Depakote ER may improve symptoms of schizophrenia as well when added to antipsychotic medications.
+
+.
+
+ Valproate in Late Life Schizophrenia@highlight
+
+The purpose of this research study is to analyze the effectiveness and tolerability of a medication, valproate ( Depakote and Depakote ER), in individuals age 50 years and older who have schizophrenia.
+

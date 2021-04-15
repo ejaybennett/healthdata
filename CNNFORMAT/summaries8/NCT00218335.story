@@ -1,0 +1,18 @@
+(firstQuint)A Network & Dyad HIV Prevention Intervention for IDU's - 1.
+
+ HIV seroincidence among injection drug users remains high, with unprotected sexual contact substantially contributing to new HIV infections among injection drug users (IDUs).
+
+ Interventions that are culturally competent and target drug users' main sex and drug partners may be especially effective for HIV/STI and HCV control and prevention.
+
+ The intervention to be tested in this study draws upon theoretical and empirical evidence suggesting that peer educator programs can have significant effects on the risk-related behaviors of both the educators and the peers whom they educate.
+
+ Specifically, through group and individual focused sessions, participants learn and practice skills designed to reduce drug and sex related risk behaviors.
+
+ Furthermore, individuals and their main risk partners attend a training session that focuses on risk reduction within their relationship.
+
+.
+
+ A Network & Dyad HIV Prevention Intervention for IDU's - 1@highlight
+
+The purpose of this study is to evaluate a peer-based HIV prevention intervention that targets active injection drug users and their drug and sex partners.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Outcomes in Lower Extremity Soft Tissue Sarcoma Patients After Limb Salvage.
+
+ The first purpose of this study is to validate the Finnish version of the Musculoskeletal Tumor Society scale and the Toronto Extremity Salvage Score upper extremity sections.
+
+ The second purpose is to chart the functional capabilities and health-related quality of life (HRQoL) of upper extremity sarcoma patients who have undergone limb salvage surgery with local or free flaps.
+
+ Patient hospital records are retrospectively reviewed to chart the demographic and clinical data.
+
+ The recruitment of patient takes place at the outpatient clinic of Department of Oncology, Helsinki University Hospital.
+
+ The study includes a cross-sectional assessment at one year follow-up with five validated questionnaires.
+
+ A follow-up is conducted three years after surgery in the outpatient clinic.
+
+.
+
+ Outcomes in Lower Extremity Soft Tissue Sarcoma Patients After Limb Salvage@highlight
+
+This study aims to: 1.
+
+ validate the Finnish version of the Musculoskeletal Tumor Society scale and the Toronto Extremity Salvage Score lower extremity sections and to 2.
+
+ assess the functional ability and health-related quality of life (HRQoL) of lower extremity sarcoma patients who have undergone limb salvage surgery.
+

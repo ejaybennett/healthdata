@@ -1,0 +1,26 @@
+(thirdQuint)Effects of Nitrate in Vegetables on Blood Pressure in Subjects With Prehypertension.
+
+ Recent studies indicate that dietary-derived inorganic nitrate can affect blood pressure in humans by converting into nitric oxide bioactivity.
+
+ Here we will study if vegetables that naturally contain high amounts of nitrate (green leafy vegetables) can lower blood pressure and whether any effect is attributed to the nitrate anion.
+
+ High nitrate vegetables are compared with vegetables low in nitrate (e.
+
+g.
+
+ tomatoes, sweet pepper).
+
+ After a 2 week run in period where all subjects receive vegetables low in nitrate, the participants are randomized to one of three interventions.
+
+ One third of the patients receive high-nitrate vegetables + a placebo pill (KCl), one third receives low-nitrate vegetables + placebo and the third group receives low-nitrate vegetables + a nitrate pill (KNO3).
+
+ The nitrate content in the pill is precisely matched to the nitrate content in the high-nitrate vegetable group.
+
+.
+
+ Effects of Nitrate in Vegetables on Blood Pressure in Subjects With Prehypertension@highlight
+
+The purpose of this study is to examine the effect of different vegetables on cardiovascular function in subjects with moderately increased blood pressure.
+
+ Specifically we are comparing the effects of vegetables with a high natural content of inorganic nitrate with those of vegetables with a low nitrate content.
+

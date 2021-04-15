@@ -1,0 +1,62 @@
+(fifthQuint)Double Blind Combination of Rituximab by Intravenous and Intrathecal Injection Versus Placebo in Patients With Low-Inflammatory Secondary Progressive Multiple Sclerosis (RIVITaLISe).
+
+ Objective: The primary goal of this study is to define the safety and efficacy of combined systemic and intrathecal (IT) B cell-depleting therapy (i.
+
+e.
+
+ anti-CD20, rituximab) in patients with secondary-progressive multiple sclerosis (SP-MS).
+
+ The secondary goals of this study are to collect longitudinal data to help identify the most sensitive outcome measures and trial design for future Phase II trials for SP-MS patients and to investigate the mechanism of action of rituximab on the human immune system.
+
+ Study Population: Patients with SP-MS and mild to moderate level of clinical disability, who have no medical contraindication to IT or intravenous (IV) administration of rituximab.
+
+ Design: This is double blind, placebo-controlled, single center, baseline versus treatment, Phase I/II clinical trial of IV and IT rituximab in SP-MS patients.
+
+ Outcome Measures: Quantitative neuroimaging measures of central nervous system (CNS: i.
+
+e.
+
+ brain and spinal cord) tissue destruction and clinical and functional (i.
+
+e.
+
+ electrophysiological) measures of neurological disability will be collected every 6-12 months.
+
+ Additionally, biomarkers focusing on analysis of cerebral spinal fluid (CSF) B cells and immunological responses to EBV will be collected at baseline and during treatment.
+
+ The trial is currently powered using progression of brain atrophy as detected by SIENA methodology as the primary outcome measure.
+
+ However, this may not be the most sensitive outcome available.
+
+ In recognition of this, the trial has an adaptive design: it incorporates analysis of the progression of CNS tissue destruction, as measured by quantitative MRI markers, and clinical/paraclinical markers, defined as secondary outcome measures, in the first 30 enrolled patients during the year long pre-treatment baseline prior to randomization.
+
+ All defined outcome measures collected in the first 30 enrolled patients will be transformed into z-scores and compared for the robustness of longitudinal change over the coefficient of variation.
+
+ As a result, the primary outcome measure of this trial will be the comparison of individualized rates of brain atrophy progression between the rituximab and placebo groups after 2 years of treatment; unless the predetermined analysis establishes that one of the secondary outcome measures has a higher z-score than the brain atrophy measurement.
+
+ In this case, the primary outcome would be the efficacy of rituximab versus placebo in inhibiting patient-specific slopes of functional or structural deterioration as measured by this more sensitive biomarker of CNS tissue destruction.
+
+ Trial also included interim analysis for the efficacy of B cell depletion from the intrathecal compartment with pre-defined stopping criteria for futility: if less than 50% of intrathecal B cells were depleted by active treatment (measured by <25% decrease in CSF CXCL13 and <50% increase in CSF BAFF), then trial was deemed to be underpowered to demonstrate efficacy on clinical or MRI outcomes and would be stopped.
+
+.
+
+ Double Blind Combination of Rituximab by Intravenous and Intrathecal Injection Versus Placebo in Patients With Low-Inflammatory Secondary Progressive Multiple Sclerosis (RIVITaLISe)@highlight
+
+Background: - Secondary-progressive multiple sclerosis (SP-MS) is the chronic phase of multiple sclerosis (MS).
+
+ The majority of people who have relapsing-remitting MS eventually develop SP-MS.
+
+ There are currently no effective treatments for SP-MS.
+
+ Researchers are interested in determining whether the drug rituximab, which is used to treat rheumatoid arthritis and some types of cancer, is able to target certain white blood cells that are thought to play a role in the progression of SP-MS.
+
+ To ensure that the rituximab will reach the brain and spinal cord, participants will receive it by intravenous drip and by intrathecal injection (through a lumbar puncture into the cerebrospinal fluid).
+
+ Objectives: - To evaluate the safety and effectiveness of combined intravenous and intrathecal rituximab in individuals with secondary-progressive multiple sclerosis.
+
+ Eligibility: - Individuals between 18 and 65 years of age who have been diagnosed with SP-MS and have been off any form of immunosuppressive therapy for at least 3 months.
+
+ Design: - The study will involve a 1-year pretreatment baseline series of visits, followed by a 2-year treatment period.
+
+ Participants will provide blood samples throughout treatment as directed by the study researchers, and additional studies may be performed during the study period if participants consent to further investigation.
+

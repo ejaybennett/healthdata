@@ -1,0 +1,40 @@
+(fifthQuint)Understanding Women's Contraceptive Expectations at the Time of a First Trimester Surgical Abortion.
+
+ We will conduct a voluntary anonymous survey at four separate Sacramento area family planning clinics.
+
+ We will introduce the research project to clinic staff, recruiting their support and participation, as they will be the main implementers.
+
+ The survey will be offered to women in the waiting room before any pre-procedure counseling.
+
+ We will include all women presenting to the clinic who are 18 years and older and planning to have a first trimester (<12 weeks gestation) surgical abortion.
+
+ Gestational age will be based on what the woman believes is her gestational age at presentation, before any evaluation in the clinic.
+
+ Women who cannot understand or read the survey will be excluded.
+
+ We hope to implement the survey at these two clinics for 3-4 months reaching a minimum of 200 women so as to obtain an adequate power for our study.
+
+ The brief survey will include a cover letter explaining the study and stressing the anonymity and confidentiality.
+
+ The surveys will include an envelope in which to place completed surveys; the envelope can be sealed by the participant and dropped in a collection bin.
+
+ This process will allow the data to be collected anonymously.
+
+ The survey data will then be synthesized first by descriptive analysis, followed by chi-square and multiple regression analyses.
+
+ A statistician in the University of California Davis Department of Obstetrics and Gynecology will help when necessary.
+
+.
+
+ Understanding Women's Contraceptive Expectations at the Time of a First Trimester Surgical Abortion@highlight
+
+The investigators will conduct a voluntary anonymous survey at four separate Sacramento area family planning clinics.
+
+ The investigators will ask the staff at each facility to offer a survey to all women 18 and older presenting to the clinic to have a first trimester (<12 weeks gestation) surgical abortion.
+
+ Gestational age will be based on what the woman believes is her gestational age at presentation, before any evaluation in the clinic.
+
+ Women who cannot understand or read the survey will be excluded.
+
+ The investigators hope to implement the survey at these clinics for 3-4 months reaching a minimum of 200 women (based on a target population of 600 women receiving surgical first trimester abortions at these two clinics over a 3-4 month period with a 95% confidence interval).
+

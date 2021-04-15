@@ -1,0 +1,12 @@
+(firstQuint)Trial of Five Versus Six Fractions Per Week for Head and Neck Cancer.
+
+ The purpose of this trial is to study the clinical effects of increasing the weekly fraction number for locally advanced head and neck cancers by a multi-institutional prospective randomised trial.
+
+ The primary endpoint is to clarify whether a six fraction per week protocol has a greater effect on the survival, as compared to the conventional five fraction per week protocol.
+
+.
+
+ Trial of Five Versus Six Fractions Per Week for Head and Neck Cancer@highlight
+
+This trial compares the use of 6 fractions versus the standard 5 fractions of radiotherapy used in the treatment of head and neck cancer.
+

@@ -1,0 +1,18 @@
+(secondQuint)Impact of Melatonin on IVF/ICSI Outcomes in Prospective Poor Responders.
+
+ The prospective poor responders have been associated with lower number and poorer oocyte quality.
+
+ Melatonin is suggested to have antioxidative effects which may contribute to improving the IVF/ICSI outcomes in this group of patients who expected to have poor outcomes.
+
+ However, the expected beneficial effects of melatonin have not yet been investigated.
+
+ The purpose of this study is to investigate the impact of melatonin administration on IVF/ICSI outcomes namely the total number and quality of the oocytes and embryos in the prospective poor responders.
+
+ A randomized, double-blinded, placebo-controlled study is used to investigate the impact of melatonin on the IVF/ICSI outcomes.
+
+.
+
+ Impact of Melatonin on IVF/ICSI Outcomes in Prospective Poor Responders@highlight
+
+The purpose of this study is to investigate the impact of melatonin administration on in vitro fertilization (IVF/ICSI) outcomes namely the total number and quality of the oocytes and embryos in the prospective poor responders.
+

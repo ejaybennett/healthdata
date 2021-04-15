@@ -1,0 +1,20 @@
+(secondQuint)Detection of Left Atrial Appendage (LAA) Thrombus: Comparison of Cardiac Magnetic Resonance Imaging and Transesophageal Echocardiogram.
+
+ The identification of left atrial appendage (LAA) thrombus prior to cardioversion for patients with atrial fibrillation is crucial.
+
+ LAA thrombus can be a frequent cause of cerebral stroke or peripheral embolism post cardioversion, and anticoagulation therapy is required in these instances to prevent cerebral events and avoid embolization.
+
+ To date, TEE has been considered the clinical reference in detection of LAA thrombi with high diagnostic accuracy.
+
+ However, diagnosis and size estimation of LAA thrombi remains challenging due to the complex anatomy of the LAA, and transesophageal echocardiography (TEE) is considered a semi-invasive procedure.
+
+ To date, there have been few comparative studies involving TEE and cardiac magnetic resonance (CMR) imaging, and the results have been conflicting.
+
+ With newer CMR Imaging techniques now available, we hypothesize that comparable results will be achieved in detecting LAA thrombus in subjects using a less invasive procedure.
+
+.
+
+ Detection of Left Atrial Appendage (LAA) Thrombus: Comparison of Cardiac Magnetic Resonance Imaging and Transesophageal Echocardiogram@highlight
+
+The purpose of this study is to compare Cardiac Magnetic Resonance (CMR) Imaging with transesophageal echocardiography (TEE) in detecting the presence of LAA thrombi in men and women with atrial fibrillation presenting for cardioversion.
+

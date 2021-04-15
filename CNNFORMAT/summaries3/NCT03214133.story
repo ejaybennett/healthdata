@@ -1,0 +1,24 @@
+(firstQuint)Effects of Epicatechin-rich Cocoa on Collagen Synthesis.
+
+ The investigators have recently completed a study looking at the expression of the collagens following consumption of increasing doses of epicatechin in rats .
+
+ This data clearly shows that increasing doses of epicatechin, either 0.
+
+5 mg.
+
+kg-1 delivered once, twice, or three times a day, or 2 mg.
+
+kg-1 once a day, results in increasing expression of the fibrillar collagens (I, III, and V).
+
+ This preliminary data suggests that epicatechin-rich chocolate supplementation can increase collagen expression in humans and that this may improve force transfer.
+
+ From this background, the hypothesis proposed is that supplementation with epicatechin-rich chocolate will increase rate of force development and performance in athletes.
+
+ Therefore, this simple nutrition intervention has the potential to simultaneously improve performance, decrease injuries and accelerate return to competition through improved collagen synthesis.
+
+.
+
+ Effects of Epicatechin-rich Cocoa on Collagen Synthesis@highlight
+
+This study will investigate the effects of dietary supplementation of epicatechin-rich cocoa in humans on collagen synthesis and power-based performance outcomes (rate of force development).
+

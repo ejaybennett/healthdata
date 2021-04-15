@@ -1,0 +1,34 @@
+(secondQuint)Amifostine in Treating Patients With Myelodysplastic Syndrome.
+
+ OBJECTIVES: I.
+
+ Define the activity of amifostine in improving blood counts in patients with myelodysplastic syndrome.
+
+ OUTLINE: This is an open label, nonrandomized, single center, dose escalation study.
+
+ Patients receive amifostine IV for two weeks, followed by 2 weeks of rest.
+
+ Each treatment cycle is 4 weeks.
+
+ Responses are evaluated after each cycle (for a minimum of 2 induction cycles).
+
+ Patients with a grade 0 toxicity in the first course receive a 25% increase in dose during the second course.
+
+ Patients with grade 1 or 2 toxicity receive no dose change.
+
+ Patients with grade 3 toxicity receive a 25% reduction in dose or treatment is stopped.
+
+ All patients demonstrating response are eligible for maintenance therapy.
+
+ Treatment is continued for up to 12 months or a total of 13 cycles.
+
+ PROJECTED ACCRUAL: A total of 14-30 patients will be accrued.
+
+.
+
+ Amifostine in Treating Patients With Myelodysplastic Syndrome@highlight
+
+RATIONALE: Amifostine may improve blood counts in patients with myelodysplastic syndrome.
+
+ PURPOSE: Phase II trial to study the effectiveness of amifostine in treating patients with myelodysplastic syndrome.
+

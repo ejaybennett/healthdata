@@ -1,0 +1,26 @@
+(fifthQuint)The Safety and Effectiveness of a Two-Drug Combination in the Treatment of Patients With Hepatitis C Plus Advanced HIV Infections.
+
+ IFN alfa-2b has HIV inhibitory properties and has also been approved for treatment of chronic hepatitis C.
+
+ Studies have shown that IFN alfa-2b is effective in asymptomatic HIV-positive patients with chronic hepatitis C, but the drug's benefit against hepatitis C in patients with advanced HIV infection has not been determined.
+
+ Patients receive interferon alpha-2b subcutaneously 3 times weekly for 6 months.
+
+ If no response is seen after 18 weeks of therapy or if an initial response is followed by relapse while on therapy, dose is increased.
+
+ Patients who require a dose escalation should continue on IFN alfa-2b for an additional 6 months.
+
+ All patients will also receive available nucleoside analog therapy ( zidovudine, didanosine, zalcitabine ) at currently accepted doses as clinically appropriate.
+
+.
+
+ The Safety and Effectiveness of a Two-Drug Combination in the Treatment of Patients With Hepatitis C Plus Advanced HIV Infections@highlight
+
+To investigate the toxicity of interferon alfa-2b ( IFN alfa-2b ) in combination with nucleoside analog therapy in HIV-positive patients with chronic hepatitis C.
+
+ To determine the efficacy of treatment with IFN alfa-2b for chronic hepatitis C in patients with advanced HIV infections treated with nucleoside analog therapy.
+
+ IFN alfa-2b has HIV inhibitory properties and has also been approved for treatment of chronic hepatitis C.
+
+ Studies have shown that IFN alfa-2b is effective in asymptomatic HIV-positive patients with chronic hepatitis C, but the drug's benefit against hepatitis C in patients with advanced HIV infection has not been determined.
+

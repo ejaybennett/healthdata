@@ -1,0 +1,28 @@
+(secondQuint)Study of Vaccination With Autologous Acute Myeloblastic Leukemia Cells in Patients With Advanced Myelodysplasia or Acute Myelogenous Leukemia.
+
+ This study will make use of leukemic myeloblasts harvested by bone marrow aspirate in patients with myelodysplasia and acute myelogenous leukemia.
+
+ These harvested tumor cells will be modified by adenoviral mediated gene transfer to secrete granulocyte-macrophage colony stimulating factor (GM-CSF).
+
+ Patients will be administered vaccines at one of three dose levels (as determined by total cell yield).
+
+ Vaccinations will be given weekly for three weeks, followed by every other week until the vaccine supply is exhausted or when patients are removed from the study.
+
+ The patient will receive a minimum of six vaccinations, but more will be administered if the vaccine is available.
+
+ During the course of the study, patients will be tested to see how their immune system is reacting to the vaccinations.
+
+ Testing will include bloodwork evaluating the immune cells in the body at monthly intervals.
+
+ Skin biopsies may also be performed to see if an immune reaction is occuring at the injection site.
+
+ During the first course of treatment, a bone marrow biopsy and aspirate may be performed monthly.
+
+ The length of time on this study depends upon the number of vaccines available and whether or not unacceptable side effects occur.
+
+.
+
+ Study of Vaccination With Autologous Acute Myeloblastic Leukemia Cells in Patients With Advanced Myelodysplasia or Acute Myelogenous Leukemia@highlight
+
+The purpose of this study is to test the safety of a new investigational acute myeloblastic leukemia (AML) vaccine and see what effects (good and bad) it has on patients with advanced myelodysplasia or acute myelogenous leukemia.
+

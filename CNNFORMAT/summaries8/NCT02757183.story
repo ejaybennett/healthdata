@@ -1,0 +1,18 @@
+(secondQuint)Do Patient-Centric mHealth Programs Improve Patient Engagement and Health Outcomes.
+
+.
+
+ The proposed pilot program is the first of its kind in the nation to use a product, "IntelliH" - Intelligent Health for All, that combines four key technologies in one platform: 1) Mobile health application (mHealth) App and web portal, 2) wireless sensors and wearable devices, 3) Secure text messaging when both sender and receiver are logged in to the system and video-based patient interaction, and 4) remote health monitoring.
+
+ The purpose of this pilot program is to understand a) usage and adoption of these technologies by providers and patients, and b) document the short-term improvements in health outcomes in a diabetic population.
+
+ This pilot study will follow 20 diabetic patients (Type 1 or Type 2) as they beta-test this system, and will acquire data on consented subjects over a period of six months.
+
+.
+
+ Do Patient-Centric mHealth Programs Improve Patient Engagement and Health Outcomes.
+
+@highlight
+
+The "INTELLIH" (brand name of the mobile health application) Diabetes Study is to understand the usage of a mobile health application, IntelliH, and connected wireless devices such as glucometer by the diabetic patients and ascertain if there are any improvements in short-term health outcomes.
+

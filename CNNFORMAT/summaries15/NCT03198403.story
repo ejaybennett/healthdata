@@ -1,0 +1,13 @@
+(firstQuint)The Effect of Popliteal Plexus Block on Pain After Total Knee Arthroplasty.
+
+ Cadaver dissection studies have shown a spread of dye to the popliteal fossa and colored the popliteal plexus by injecting in the distal part of the adductor Canal.
+
+ The popliteal plexus is formed by contribution from the tibial and the obturator nerves.
+
+ Investigators hypothesized that a PPB may reduce postoperative pain after total knee arthroplasty.
+
+.
+
+ The Effect of Popliteal Plexus Block on Pain After Total Knee Arthroplasty@highlight
+
+The study aims to investigate the effect of the Popliteal plexus block (PPB) on postoperative pain after total knee arthroplasty

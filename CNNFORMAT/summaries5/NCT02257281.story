@@ -1,0 +1,16 @@
+(secondQuint)The Effect of Therapeutic Ultrasound on Soft Tissue: An Experimentally-induced Skin Model.
+
+ Therapeutic ultrasound for soft tissue repair has been used in clinical during the past decades.
+
+ In some recent systematic review, the evidence of clinical trials were insufficiency.
+
+ We assumed the reaserch biasin clinical trials may be due to the different inflammatory level of soft tissue under the similar ultrasound intensity.
+
+ Our purpose of study is to investigate the effect of therapeutic ultrasound for the inflammatory skin repair and whether the tissue repair under ultrasound treament is depend on different inflammatory level.
+
+.
+
+ The Effect of Therapeutic Ultrasound on Soft Tissue: An Experimentally-induced Skin Model@highlight
+
+The purposes of study are to investigate the effect of therapeutic ultrasound for the inflammatory skin repair and whether the tissue repair under ultrasound treament is depend on different inflammatory level.
+

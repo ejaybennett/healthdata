@@ -1,0 +1,26 @@
+(secondQuint)An Observational Study of Stroke Patients.
+
+.
+
+ There is in general a focus on misuse of health resources.
+
+ An increasing amount of guidelines is produced to reduce the variation in treatment of patients with the same diagnosis.
+
+ Many recommendations are weak but seems though to have considerable impact on in hospital care.
+
+ The issues to be studied are all grounded on weak clinical evidence.
+
+ A pilot study confirmed the suspicion of very frequent measurements of blood pressure, glucose, troponin and frequent supplementary CT and MRI.
+
+ The intention is to study these issues in a larger population including an evaluation of utility of the different examinations and evaluations.
+
+.
+
+ An Observational Study of Stroke Patients.
+
+@highlight
+
+The intention is to study presumed changes in daily practice, probably due to New Guidelines concerning stroke patients.
+
+ The impression is more frequent measurements of blood pressure, serum glucose, troponin and supplementary computer tomography or magnetic resonance imaging.
+

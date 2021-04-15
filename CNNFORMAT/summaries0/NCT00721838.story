@@ -1,0 +1,13 @@
+(firstQuint)Dietary Intake and Eating Behaviors in Adolescents Who Undergo Bariatric Surgery.
+
+ The dietary and eating behavior outcomes for adolescents who undergo bariatric surgery are virtually unknown.
+
+ The main trial of the Teen-LABS consortium is not studying dietary intake and eating behavior before and after bariatric surgery.
+
+ The consortium, however, provides a unique opportunity to investigate these issues in a large and diverse sample through the context of the proposed ancillary study.
+
+.
+
+ Dietary Intake and Eating Behaviors in Adolescents Who Undergo Bariatric Surgery@highlight
+
+to study the dietary intake and eating behaviors of adolescents who undergo bariatric surgery

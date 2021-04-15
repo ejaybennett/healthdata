@@ -1,0 +1,22 @@
+(thirdQuint)Schizophrenia Sensory Gating Deficit With Quetiapine.
+
+ .
+
+Problems with attention and perception are core features of schizophrenia and are hypothesized to result from defects in the filtering or gating of sensory input.
+
+ Examination of this requires neuoimaging techniques with high temporal resolution.
+
+ High-density EEG and MEG in combination with structural magnetic resonance imaging (sMRI) are used to map sensory gating.
+
+ In a number of recent studies patient treated with novel antipsychotics have been shown to have P50 gating ratios resembling those of normal controls rather than that of schizophrenia subjects treatment with conventional antipsychotics.
+
+ To date, there is no literature on the effects of quetiapine on sensory gating.
+
+ Subjects who meet all inclusion criteria and have been on a stable dose of quetiapine for three months will receive a clinical interview, an MRI, MEG, and neuropsychological testing to determine if patients with schizophrenia who are treated with quetiapine will demonstrate a sensory gating ratio similar to normal controls, indicating no deficit in sensory gating.
+
+.
+
+ Schizophrenia Sensory Gating Deficit With Quetiapine@highlight
+
+The purpose of this study is the use of magnetoencephalography or MEG (a machine that measures magnetic activity in your brain) and electroencephalography or EEG (a technique that measures electrical activity in your brain) to study how sounds are processed in individuals with schizophrenia after three months of taking the antipsychotic medication quetiapine.
+

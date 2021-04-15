@@ -1,0 +1,48 @@
+(fifthQuint)Novel Rehabilitation Strategies to Improve Arm Function in Patients With Scleroderma.
+
+ Our specific aims are to: 1.
+
+ Determine the feasibility of a novel rehabilitation strategy provided at the University of Michigan Scleroderma Clinic to scleroderma patients who have upper extremity contractures.
+
+ Investigators will assess 3 main aspects of the process that are key to the success of a larger study including the proportion of eligible people who enroll in the study, rate of adherence to the treatment protocol, and the time it takes to conduct sessions including treatment and outcome assessment completion.
+
+ Based on a framework of recommendations for well-designed pilot studies [1], investigators have set the following criteria for success to examine these aspects: 1.
+
+ At least 50% of participants who are eligible for the study will enroll.
+
+ 2.
+
+ At least 80% of participants will attend all treatment sessions.
+
+ 3.
+
+ The 3 sessions involving both treatment and outcome assessments will not last on average more than 2 hours.
+
+ 2.
+
+ Develop a standardized treatment manual to train therapists to provide this treatment to their patients.
+
+ A standardized treatment manual for therapists is a critical component needed to ensure consistency in a larger multi-site trial.
+
+ This manual will be drafted for use in this study and refined as needed.
+
+ 3.
+
+ Establish preliminary effects of this 8-week rehabilitation program on improving arm function.
+
+ Investigators hypothesize that participants with scleroderma will have significant improvements in the QuickDASH disability measure at post test.
+
+ Although the investigators think large effects will be shown, this study will allow us to determine estimates of the effects and the variability for power calculations in a multi-site trial.
+
+.
+
+ Novel Rehabilitation Strategies to Improve Arm Function in Patients With Scleroderma@highlight
+
+The purpose of this study is to determine the feasibility and preliminary effects of a novel treatment approach to improve arm function in patients with scleroderma who have upper extremity contractures.
+
+ It is a Phase 1, one arm trial in which participants will be assessed at baseline, 4 weeks, and 8 weeks.
+
+ The rehabilitation intervention will involve 8 individual sessions with an occupational therapist.
+
+ Feasibility of the procedures is a major focus of this project.
+

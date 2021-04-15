@@ -1,0 +1,30 @@
+(secondQuint)Intervention for Men Who Batter Women.
+
+ The intimate partner violence is one of the most common forms of violence.
+
+ Although man is the main author of violence, it is essential include actions to help him in order to produce a more effective result, because it is believed that he is able to recognize and take responsibility for the violence, using different forms of express.
+
+ However, these actions have difficulties in evaluating its results.
+
+ These research aims to analyze the relapse of violence after participation in a batterer intervention program.
+
+ The investigators realized a case study in a batterer intervention program in the city of Brasilia, capital of Brazil, 167 men were invited and 86 accepted to participate of the research.
+
+ It was used the Centers for Disease Control and Prevention - Follow up questionnaire, adapted to be used in Brazil.
+
+ All the participants answered the same questionnaire, and the participant exclusion criteria was less or more than 3 months of participation at the program or committed other types of violence.
+
+ The participants were recruited and interviewed by the investigators, during the year of 2015 (from March until December), in the Center for Assistance to Family and perpetrators of Domestic Violence (NAFAVD).
+
+ The participants answered questions about socioeconomic characteristics, the relapse of violence, use of drugs, and about the batterer program.
+
+ The benefit of participate of the study is help to improve the programs to prevent intimate partner violence, and public policy about this issue, and the risk is to remember something that happened during the interview, so the participants could stop the participate when they want.
+
+.
+
+ Intervention for Men Who Batter Women@highlight
+
+It was realized a case study in a batterer intervention program, where 86 men accepted to participate.
+
+ It was used the Centers for Disease Control and Prevention - Follow up questionnaire, adapted to be used in Brazil.
+

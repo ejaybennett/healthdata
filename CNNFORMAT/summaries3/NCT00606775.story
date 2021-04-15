@@ -1,0 +1,28 @@
+(thirdQuint)The Preventive Efficacy of Carvedilol on Cardiac Dysfunction in Duchenne Muscular Dystrophy.
+
+ The life span in patients with Duchenne muscular dystrophy has been extending due to the development of artificial respiratory devices.
+
+ According to that, the ratio of cardiac dysfunction as a cause of death has been increasing.
+
+ This cardiac dysfunction was associated with minor cardiac damage as indicated by elevation of plasma cardiac troponin I (cTnI).
+
+ Furthermore, and the detection rate of cTnI plasma as revealed to be correlated with the deterioration speed of LV dysfunction assessed by serial echocardiography measurements.
+
+ Accordingly, if this minor cardiac damage is suppressed, it is postulated that the progression of cardiac dysfunction can be stopped.
+
+ In the cases with ventricular arrhythmia and tachycardia, we found plasma cTnI became undetectable after administration of beta-blocker.
+
+ Accordingly, we investigate whether administration of beta-blocker, carvedilol can persistently suppress the minor cardiac damage and lead to suppress the deterioration of LV function.
+
+ Note that his study preventive study for preserved to moderate LV dysfunction and is not intended to the beta-blocker treatment for severe LV dysfunction.
+
+ Because we assume that the mechanism of elevation of cTnI is different; spontaneous in preserved to mild LV dysfunction in patients but LV wall stress in severe LV dysfunction in patients with Duchenne muscular dystrophy.
+
+.
+
+ The Preventive Efficacy of Carvedilol on Cardiac Dysfunction in Duchenne Muscular Dystrophy@highlight
+
+Purpose This cardiac dysfunction in patients with Duchenne muscular dystrophy is associated with minor cardiac damage as indicated by elevation of plasma cardiac troponin I (cTnI).
+
+ The purpose of this study is to investigate whether the administration of Carvedilol can suppress the minor cardiac damage and prevent deterioration of cardiac function.
+

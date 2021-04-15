@@ -1,0 +1,20 @@
+(firstQuint)Strength Training for Elderlies and Their Effects on Muscle Fatigue and Microcirculation - Randomized Clinical Trial.
+
+ Purpose The primary research question is: Do muscular strength training programs can improve functional capacity, muscle performance and microcirculation in the elderly? Hypothesis: Strength training program will promote electromyographic changes during the development of peripheral muscle fatigue and microcirculatory blood flow contributing to functional autonomy.
+
+ Secondary Research Questions 1.
+
+ Does the strength training program in the elderly improve the standard of electromyographic fatigue? Hypothesis: Elderly practitioners of strength exercise program showed increased neuromuscular efficiency and electromyographic fatigue index.
+
+ 2.
+
+ Do the strength training program in the elderly improve peripheral microcirculation? Hypothesis: A regular program of strength exercise in the elderly increases the blood flow in peripheral microcirculation changing the process of muscle fatigue.
+
+ These biomechanical and physiological changes contribute to increased functional autonomy and reducing the risk of falls in the elderly.
+
+.
+
+ Strength Training for Elderlies and Their Effects on Muscle Fatigue and Microcirculation - Randomized Clinical Trial@highlight
+
+The purpose of this study is to verify the effects of a strength training program on functional capacity, muscle performance and microcirculation in the elderly.
+

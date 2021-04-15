@@ -1,0 +1,42 @@
+(thirdQuint)Assesment of Olfactory Disorders and Performance of a New Olfactory Test in Children With Congenital CMV.
+
+ Cytomegalovirus (CMV) is the first cause of congenital deafness resulting from viral infection.
+
+ Hearing loss may occur several years after birth in childhood and be often progressive.
+
+ Detection of hearing impairment is of major interest for children because it will allow the early use of a hearing aid minimizing the impact of these deficits on the cognitive development.
+
+ The study hypothesis is that a link might exist between hearing deficits and olfactory deficits in these children due to viral lesions on the two sensory systems.
+
+ Thus early exploration of olfaction might allow early detection of starting deterioration of hearing or predict the occurrence of deafness.
+
+ Moreover, this exploration is easy, non invasive, fast to set up and adapted to very young children.
+
+ No study has hitherto assessed the impact of congenital CMV infection on olfaction.
+
+ The proportion of children with olfactory deficits will be assessed among children with congenital CMV infection, using parts of a discrimination test of simple odorants (Sniffin' Sticks, Burghardt, Wedel, Germany).
+
+ The performances of a new olfactory test developed by the investigators that uses binary mixtures of odorants, will also be assessed.
+
+ These tests of nasal chemosensory performance are based on pen-like odor dispensing devices and measure odor discrimination ability of young children in less than 15 min.
+
+ Finally, this study aims at demonstrate, if it exists, the association between olfactory deficits and hearing loss in children with congenital CMV infection.
+
+ This study will be conducted in 80 patients and 40 healthy subjects (3-10years).
+
+ The healthy children will be matched for age and gender.
+
+ Selection will be made based on medical records during the course of standard care visit.
+
+ After collection of informed consent, olfactory tests will be performed.
+
+.
+
+ Assesment of Olfactory Disorders and Performance of a New Olfactory Test in Children With Congenital CMV@highlight
+
+CMV lesions were found in the olfactory system of children with congenital CMV infection but no study has hitherto examined the impact of congenital CMV infection on olfaction.
+
+ So the investigators propose in this study to assess the proportion of children with olfactory deficits among children with congenital CMV infection.
+
+ Second this study will also evaluate performances of a new olfactory test, based on discrimination of binary odorant mixtures.
+

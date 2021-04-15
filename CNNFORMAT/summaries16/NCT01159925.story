@@ -1,0 +1,20 @@
+(secondQuint)Surveillance Study to Determine the Trends in Acute Hepatitis A Among Panamanian Children.
+
+ This is an observational, prospective, multi-centre, sentinel based study in 3 hospitals in Panama.
+
+ Hospitals are selected based on population density or hepatitis A disease burden.
+
+ The Pan American Health Organization (PAHO) definition for a possible case of acute hepatitis A are used for subjects aged between >1 month and <15 years.
+
+ Data regarding clinical and epidemiologic information are collected and serum samples are collected to test hepatitis A markers and determine if infection with hepatitis A virus has recently occurred.
+
+ Surveillance will be for a period of approximately 2.
+
+5 years from the date of study initiation.
+
+.
+
+ Surveillance Study to Determine the Trends in Acute Hepatitis A Among Panamanian Children@highlight
+
+The purpose of this study is to collect epidemiological and clinical data to assess the vaccine impact and occurrence of confirmed acute hepatitis A cases in sentinel hospitals after the introduction of Havrix cent into the Expanded Program of Immunization.
+

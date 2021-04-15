@@ -1,0 +1,19 @@
+(firstQuint)PO vs.
+
+ IV Acetaminophen Given Perioperatively for 24 hr Post-op Pain Control Following Total Hip or Knee Replacement.
+
+ Subjects will be randomized to receive perioperative dosing of either: 1.
+
+ Oral acetaminophen (Tylenol) 1000mg with IV Placebo (100ml Normal Saline), OR, 2.
+
+ IV acetaminophen (Ofirmev) 1000mg/100ml with Oral Placebo (oral capsules).
+
+ Subject pain levels and post-operative opioid use will be tracked for up to 24 hours after surgery.
+
+.
+
+ PO vs.
+
+ IV Acetaminophen Given Perioperatively for 24 hr Post-op Pain Control Following Total Hip or Knee Replacement@highlight
+
+The purpose of the study is to evaluate post-op pain requirements in patients undergoing hip or knee replacement surgery who perioperatively receive either Oral acetaminophen or IV acetaminophen

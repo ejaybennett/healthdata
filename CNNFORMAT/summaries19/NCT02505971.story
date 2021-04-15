@@ -1,0 +1,16 @@
+(firstQuint)Nadolol Versus Propranolol in Children With Infantile Hemangiomas.
+
+ The study objective is to compare the efficacy and safety of oral propranolol in comparison with oral nadolol in patients with IH.
+
+ Patients will be randomly assigned to either propranolol or dose equivalent nadolol.
+
+ The duration of the study will be 24 weeks, however, patient will be monitored for up to 1 year post study enrolment.
+
+ Both efficacy and safety will be closely monitored and captured.
+
+.
+
+ Nadolol Versus Propranolol in Children With Infantile Hemangiomas@highlight
+
+The purpose of this study is to assess the efficacy and safety of oral propranolol versus nadolol in patients with Infantile Hemangiomas (IH) in a randomized, controlled, double-blinded study.
+

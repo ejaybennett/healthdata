@@ -1,0 +1,13 @@
+(firstQuint)Comparison of the Efficacy of Levofloxacin-based Sequential Therapy and Triple Therapy as Second Line Therapy.
+
+ About 600 patients who failed from first line triple therapy or sequential therapy will be eligible in this multicenter randomized comparative trial.
+
+ Eligible patients will be randomized to receive either (1) levofloxacin-based sequential therapy for 10 days[lansoprazole 30mg and amoxicillin 1g for the first 5 days, followed by lansoprazole 30mg, levofloxacin 250mg, and metronidazole 500mg for another 5 days (all given twice daily)]or (2) levofloxacin-based triple therapy for 10 days[lansoprazole 30mg and amoxicillin 1g, and levofloxacin 250mg for 10 days (all given twice daily)].
+
+ Eradication will be confirmed with 13C-Urea Breath Test 6 weeks after therapy.
+
+.
+
+ Comparison of the Efficacy of Levofloxacin-based Sequential Therapy and Triple Therapy as Second Line Therapy@highlight
+
+To compare the efficacy and tolerability of levofloxacin-based sequential therapy and triple therapy in the second line therapy for those who fail from one eradication therapy

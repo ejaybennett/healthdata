@@ -1,0 +1,12 @@
+(firstQuint)Matrix Metalloproteinases in Atherosclerosis of Chronic Kidney Disease.
+
+ The purpose of this study is to determine the correlation of matrix metalloproteinases and atherosclerosis of chronic kidney disease.
+
+ Patients with diabetes mellitus type 2,as a non-inflammatory leading cause of end stage renal failure and patients with chronic glomerulonephritis and similar course of proteinuria,as an inflammatory leading cause of end stage renal failure are enrolled.
+
+.
+
+ Matrix Metalloproteinases in Atherosclerosis of Chronic Kidney Disease@highlight
+
+The purpose of this study is to determine whether matrix metalloproteinases are associated with atherosclerosis in the different stages of chronic kidney disease.
+

@@ -1,0 +1,16 @@
+(secondQuint)Efficacy and Safety of Lornoxicam in Patients With Acute Coronary Syndrome.
+
+ Nonsteroidal Antiinflammatory drugs (NSAIDs) are the most frequently prescribed drugs in the world.
+
+ There are a lot of controversial information published during recent years about NSAID cardiosafety.
+
+ It is still unclear do NSAIDs develop cardioprotective or cardiotoxic effects in acute and chronic heart disease patients.
+
+ Aim of the study was to investigate safety and efficacy of Lornoxicam, nonselective COX-inhibitor, in patients with acute coronary syndrome without ST-segment elevation (NSTEACS) and to evaluate the influence of Lornoxicam on C-reactive protein (CRP) and IL-6, IL-10 levels.
+
+.
+
+ Efficacy and Safety of Lornoxicam in Patients With Acute Coronary Syndrome@highlight
+
+The purpose of this study is to determine whether nonsteroidal antiinflammatory drug lornoxicam in combination with low dose aspirin (100mg/day) is effective and safe in patients with Acute Coronary Syndrome without persistent ST-segment elevation.
+

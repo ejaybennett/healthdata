@@ -1,0 +1,34 @@
+(fifthQuint)Scalp Psoriasis Treatment With a Fiber Optic Comb.
+
+ Scalp psoriasis can be treated with a novel fiber optic delivery system that irradiates the psoriatic scalp of patients with UV-B light via an optical fiber comb.
+
+ Current methods for treatment of psoriasis with light are not applicable to the scalp because hair is usually blocking the light from reaching the affected skin.
+
+ Our method overcomes this problem with the use of a comb that has optical fibers to deliver light directly to the skin.
+
+ We have developed a UV-B light source and a fiber optic comb for use in clinics and doctors' offices.
+
+ We will evaluate this device in a clinical setting.
+
+ The results of this trial will provide data about the effectiveness of the device.
+
+ We will use these results to tailor the design before it is ready for volume production.
+
+ If successful, the UV-B light source and fiber optic comb will provide treatment to people affected with scalp psoriasis.
+
+ At present, these people do not have any effective treatment available to them.
+
+.
+
+ Scalp Psoriasis Treatment With a Fiber Optic Comb@highlight
+
+This study will test the safety and effectiveness of a novel fiber optic device for treating scalp psoriasis with ultraviolet (UV-B) light.
+
+ A effective treatment is not currently available for people with scalp psoriasis.
+
+ Present methods for treating psoriasis with UV-B light cannot be used for the scalp because hair is usually blocking the light from reaching the affected skin.
+
+ Our method overcomes this problem with the use of a comb that has optical fibers to deliver light directly to the skin.
+
+ We will evaluate this device in a clinical setting and will use the results to tailor the design of the comb before producing it in large quantities.
+

@@ -1,0 +1,34 @@
+(fifthQuint)Comparison of Stethee to the Conventional Stethoscope for Auscultation of Simulated Heart Sounds.
+
+ This is a randomised, non-blinded, two-period crossover, non-inferiority study.
+
+ Stethee(R), a new wireless digital stethoscope, is designed to minimise ambient noise associated with electronic stethoscopes.
+
+ To date, its acoustic capability in comparison to the conventional stethoscope in the auscultation of heart sounds is not known.
+
+ Therefore, it is important that Stethee(R)'s capability as a stethoscope with sound amplification be evaluated alongside the conventional stethoscope prior to its use in the clinical setting.
+
+ As acoustic performance is the primary endpoint, a non-inferiority design is proposed to enable the comparison of the mutual functionalities of the two stethoscopes.
+
+ The rationale for a non-inferiority design is that: (a) electronic stethoscopes have shown a marginal benefit over conventional stethoscopes in terms of acoustic performance; (b) electronic stethoscopes have several functional advantages over conventional stethoscopes: the ability to analyse heart sounds and record heart sounds, the availability of a database for storage of heart sounds for remote analysis; and (c) electronic stethoscopes were rated better than conventional stethoscopes in terms of the overall quality of auscultation.
+
+ The relative capability of Stethee(R) is compared to that of 3M cent Littmann(R) Classic III cent by the identification of heart sounds simulated by a manikin, which functions as a surrogate patient.
+
+ A random sample of non-specialist doctors stratified by health centres in Perak, Malaysia, who meet eligibility criteria and provide written consent to participate, will be randomised to initial testing with Stethee(R) or 3M cent Littmann(R) Classic III cent to perform cardiac auscultation on a manikin and identify a set of 10 heart sounds.
+
+ After a 10-minute break, they will repeat the auscultation of the same 10 simulated heart sounds but played in a different sequence with the alternate stethoscope.
+
+ Following the completion of both tests, the doctors will be asked to complete a questionnaire that asks about their preference for either Stethee(R) or 3M cent Littmann(R) Classic III cent with respect to ease of use, audio clarity, and diagnostic accuracy.
+
+ At the end of the study, answer sheets and preference questionnaires will be collected for grading and analysis.
+
+.
+
+ Comparison of Stethee to the Conventional Stethoscope for Auscultation of Simulated Heart Sounds@highlight
+
+The objective of this study is to compare the relative capability of Stethee(R) (new wireless digital stethoscope) and 3M cent Littmann(R) Classic III cent (conventional stethoscope) in the identification of manikin-simulated heart sounds by medical doctors.
+
+ A randomised, non-blinded, two-period crossover, non-inferiority design will be used to compare the acoustic performance of the two stethoscopes.
+
+ We aim to determine if Stethee(R) is as effective as 3M cent Littmann(R) Classic III cent for auscultation of simulated heart sounds, and whether Stethee(R) could be recommended for use in clinical practice based on a non-inferior comparison with 3M cent Littmann(R) Classic III cent .
+

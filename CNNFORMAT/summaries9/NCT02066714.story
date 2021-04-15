@@ -1,0 +1,126 @@
+(fifthQuint)Neurodevelopment Outcomes Following Severe Hand Foot and Mouth Disease in Vietnam.
+
+ Background: Hand foot and mouth disease outbreaks associated with enterovirus 71 (EV71) were unusual in their neurological manifestations.
+
+ Since 1997, Taiwan, Malaysia and Vietnam have experienced large outbreaks of EV71-HFMD.
+
+ Neurological manifestations include meningitis, brainstem encephalitis, and rare cardiopulmonary failure, thought to be neurogenic in origin.
+
+ In Vietnam, children are admitted to hospital if they show signs of systemic disease.
+
+ The Vietnam Ministry of Health has developed a grading system to stratify management and intervention.
+
+ Grade 1 have solely the typical rash on palms of hands, soles on feet and buttock with ulcers in the mouth.
+
+ Grade 2 have systemic features such has high fever, irritability and myoclonus.
+
+ Grade 2 is split into 2a for parental report of symptoms or 2b if a health professional has observed neurological signs.
+
+ Grade 2 onwards are admitted to hospital.
+
+ Grade 3 develop irregular breathing, persistent tachycardia, hypertension, all features of autonomic disturbance due to brainstem encephalitis.
+
+ Grade 4 develop often fatal cardiopulmonary failure, believed to be a consequence of excessive unopposed sympathetic activation from brainstem disease.
+
+ Different countries use different grading or staging systems for HFMD.
+
+ A study in 142 EV71 suggested children affected at a younger age of onset of disease might have consequences for verbal comprehension.
+
+ In 63 children with EV71 disease, 14% had cognitive or motor deficits.
+
+ Hypothesis and Aims: The study aims to identify the neurological and neurodevelopmental outcomes following severe (hospitalised) HFMD in Vietnam.
+
+ Study Design: Prospective observational cohort study.
+
+ There are two cohorts in this study.
+
+ The HFMD participants and healthy children.
+
+ All children hospitalized with HFMD are eligible for participation.
+
+ From preliminary review of admissions to the hospital, we identified the majority of patients were admitted from a local district in Ho Chi Minh City (HCMC) (District 8).
+
+ All participants will be asked if they agree for an optional brain magnetic resonance imaging (MRI).
+
+ We will approach kindergartens in that district to enroll healthy children, and also approach participants in another Oxford University Clinical Research Unit, HCMC study run at a local obstetric hospital to enroll healthy infants.
+
+ This healthy cohort will be age and sex matched to the least severe grade of HFMD participants.
+
+ HFMD will have neurological and neurodevelopmental assessments carried out 1 week after discharge, 6 months later and the last assessment 18 months after the initial assessment.
+
+ The Healthy cohort will have a neurodevelopmental assessment at enrollment.
+
+ 6 months and 18 months after the initial assessment.
+
+ Primary Outcomes 1.
+
+ Comparison of neurodevelopment scores at discharge, at 6 and at 18 months of follow up between least severe HFMD children and an age and sex matched healthy comparison cohort.
+
+ 2.
+
+ Comparison of neurodevelopment scores at 1 week after discharge, at 6 and at 18 months after discharge between children stratified by HFMD disease grade.
+
+ Other Outcomes 1.
+
+ Descriptive Brain MRI Changes according to severity of HFMD Sample size and analysis plan: We aim to include up to 350 children with HFMD grade 2a, 2b, 3 and 4, and 150 healthy children (matched for Grade 2a) and follow them up at enrolment, 6 and 18 months of follow-up.
+
+ The Bayley scoring system has a mean score of 100 with a standard deviation (SD) of 15 in healthy American children.
+
+ Based on this, we assume an SD of approximately 15 in all 5 study populations.
+
+ As little is known about within-child longitudinal changes in Bailey scores over time, power considerations are based on pair-wise comparisons between groups at each time point separately.
+
+ With the sample sizes given, we will have 80% power at the two-sided 5% significance level to detect differences in mean scores of - 7.
+
+4 or larger between grade 2a or 2b children compared to grade 3 or 4 children, respectively.
+
+ Statistical Methods Standard data summaries such as median (inter-quartile range) for continuous variables and frequency (%) for categorical variable together with graphical summaries (histograms, box plots and scatterplots) will be used for descriptive analyses in all studies.
+
+ Longitudinal profiles of development scores over time will be visualized by line plots of individual subjects' data with overlaid smoothed lines for average development scores over time within groups.
+
+ Modeling of longitudinal profiles over time and group comparisons will be based on standard methods for longitudinal data analysis such as linear mixed effects models.
+
+ Potential Impact: To public health implications of HFMD require evaluation of long-term.
+
+ If the burden of disease continues to have a neurological impact on a significant proportion of children, a vaccine-based approach is essential and cost-effective.
+
+ As intense efforts are underway in vaccine development, research is essential in helping clinicians on the front line to identify the minority of children who may progress and focus limited resources appropriately.
+
+.
+
+ Neurodevelopment Outcomes Following Severe Hand Foot and Mouth Disease in Vietnam@highlight
+
+Hand Foot and Mouth Disease (HFMD) is a common infectious disease in childhood.
+
+ Several enteroviruses are associated with the disease.
+
+ However, since 1997, large outbreaks of HFMD in Taiwan, Malaysia and Vietnam have seen unusual neurological complications such as brainstem encephalitis with rare fatal outcomes.
+
+ The pathogen associated with this severe disease is Enterovirus 71.
+
+ In 2011, Vietnam had a large outbreak of Hand Foot and mouth disease resulting in 110,000 cases and 164 deaths.
+
+ HFMD affects children during their early years of child development, but there is limited information on what the potential long-term consequences are.
+
+ Small studies have suggested language and cognitive difficulties in more severe disease but this has not been evaluated in a large cohort.
+
+ Internationally recognized and standardized assessment tools are not available for early childhood in Vietnam.
+
+ This project will translate and adapt the Bayley Scales of Toddler and Infant Development 3rd edition (Bayley III) and Movement ABC, 2nd edition (MABC) into Vietnamese as outcome measures.
+
+ This study will evaluate whether there are neurodevelopment difficulties following severe HFMD.
+
+ The study design is a prospective observational cohort study.
+
+ Hospitalised children with a clinical diagnosis of HFMD will be eligible to enroll.
+
+ Written parental consent will be required.
+
+ Participants enrolled will be assessed 3 times over 18 months from discharge from hospital into the study.
+
+ Since there is no standardization of Bayley III or MABC for Vietnam, a healthy cohort, age and sex matched to the least severe HFMD participants will be recruited.
+
+ This healthy cohort will follow the same assessment program over 18 months.
+
+ A total of 350 HFMD participants and 150 healthy children (matched to the least severe HFMD participants) will be recruited.
+

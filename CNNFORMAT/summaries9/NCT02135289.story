@@ -1,0 +1,29 @@
+(fifthQuint)The Role of IGRA in Screening and Monitoring for TB During Anti TNF Therapy in Patients With IMID.
+
+ The incidence of inflammatory bowel disease is rising in Hong Kong.
+
+ Anti-tumor necrosis factor alpha (anti-TNF)- is effective and increasingly being used for the treatment of patients with refractory disease and complicated disease behaviour.
+
+ The reactivation of latent tuberculosis (TB) is a well-recognised complication associated with the use of anti-TNF therapy, and most cases occurred in endemic regions.
+
+ Hong Kong is a region of intermediate TB burden, and the reactivation of latent TB in IMID patients treated with anti-TNF can be a serious problem.
+
+ Screening has been shown to reduce the incidence of TB, but it remains unclear whether monitoring during anti-TNF therapy is effective.
+
+ Despite reported efficacy with the current screening strategy, active TB developed in up to 11.
+
+4% of patients receiving anti-TNF therapy.
+
+ There is therefore an urgent need for better disease monitoring and prevention, particularly in regions where TB is endemic.
+
+ Part I of this study aims to investigate the role of IGRA in screening for latent TB in IBD patients and control subjects.
+
+ Part II of this study is a prospective study of serial interferon-gamma release assays (IGRA) for the diagnosis of tuberculosis (TB) infection in patients with immune-mediated inflammatory diseases (IMID) treated with biologics.
+
+ The Role of IGRA in Screening and Monitoring for TB During Anti TNF Therapy in Patients With IMID@highlight
+
+Hong Kong is a region of intermediate TB burden, and the reactivation of latent TB in IMID patients treated with anti-TNF can be a serious problem.
+
+ This study aims to investigate the role of IGRA in screening for latent TB in IBD patients and control subjects.
+
+ In part II of the study, patients of other immune-mediated inflammatory diseases (IMID) will also be included to investigate the role of serial interferon-gamma release assays (IGRA) for the diagnosis of tuberculosis (TB) infection in patients with immune-mediated inflammatory diseases (IMID) treated with biologics

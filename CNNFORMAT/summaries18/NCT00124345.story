@@ -1,0 +1,14 @@
+(firstQuint)Medical Gas Humidification During Noninvasive Mechanical Ventilation.
+
+ The medical gases are usually dry and cold thus when they are used during invasive mechanical ventilation they must be conditioned.
+
+ No data are present on the necessity to condition the medical gases during non invasive mechanical ventilation.
+
+ In this study the investigators studied the humidity and the temperature of the medical gases with and without any conditioning during non invasive mechanical ventilation in a group of healthy subjects and critically ill patients.
+
+.
+
+ Medical Gas Humidification During Noninvasive Mechanical Ventilation@highlight
+
+In this study, the investigators aimed to study the role of medical gas humidification during noninvasive mechanical ventilation.
+

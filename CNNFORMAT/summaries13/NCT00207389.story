@@ -1,0 +1,108 @@
+(fifthQuint)A Study to Examine Changes in GIP Plasma Levels Following Gastric Bypass Surgery in Obese Patients.
+
+ This is a pilot study to collect the relevant information for planning a larger and more definitive investigation.
+
+ A total of thirty subjects will be evaluated in this study to be conducted at the Boston Medical Center.
+
+ The study population will consist of obese patients who meet the criteria and have been scheduled by their surgeon for GBS.
+
+ We plan to enroll a total of 30 subjects scheduled for GBS.
+
+ Patients will be assigned according to standard surgical care to either open or laparoscopic surgery.
+
+ We plan to enroll 20 subjects who undergo laparoscopic GBS (LAP) and 10 subjects who undergo open GBS (OPEN).
+
+ All potential subjects will have undergone baseline screening as a part of their routine medical evaluation performed by Dr.
+
+ Apovian or Dr.
+
+ McDonnell in the Nutrition Center at BMC.
+
+ This standard testing includes medical history, physical examination, complete blood count, serum electrolytes, BUN, creatinine, fasting blood glucose and glycosylated hemoglobin.
+
+ If patients are identified as having type 2 diabetes or glucose intolerance, they will be provided informed consent.
+
+ If consented subjects meet all the inclusion and exclusion criteria, each will undergo a baseline oral glucose tolerance test (OGTT) approximately one week before surgery.
+
+ Plasma concentrations of insulin, GIP, glucagon, and GLP-1 will also be measured along with glucose levels and other peptides (CCK, ghrelin, c-peptide) at the same intervals, using commercially available assay kits.
+
+ Post-operatively, subjects in the LAP group will undergo 2 OGTTs, while subjects in the OPEN group will undergo 2 OGTTs and one glucose tolerance test through the gastrostomy tube (GGTT).
+
+ The results of the postoperative OGTTs will be compared with baseline OGTTs.
+
+ In a separate analysis, the results of the GGTTs will be compared with the baseline and postoperative OGTTs.
+
+ Inclusion criteria Patients 21-64 y ears of age with obesity (defined as a body mass index, BMI, > or = 30) and type 2 diabetes or impaired glucose tolerance, who have been selected and scheduled for gastric bypass surgery.
+
+ Exclusion criteria Substance abuse, consumption of more than two alcoholic drinks per day, use of more than 20 units of insulin (any brand or type) per day, and having a fasting blood glucose >180mg/dl on screening bloodwork.
+
+ F2.
+
+ Procedure All subjects will undergo a total of 3 OGTTs, 1 before surgery and 2 after.
+
+ The OPEN group will also have a glucose tolerance test via a gastrostomy tube (GGTT) placed in the duodenum (per routine surgical procedure) as described below.
+
+ The OGTT consists of a 12-hour overnight fast followed by drinking a 225 ml of solution containing 75 grams of a glucose (Glucola), over 30 minutes.
+
+ 30 minutes is the average time a patient requires in order to drink a 225ml Glucola drink after gastric bypass surgery.
+
+ In order to be able to make a valid comparison of the three OGTTs, each OGTT will require that the subject drink over 30 minutes.
+
+ Blood samples are obtained from an intravenous catheter at various time intervals: 5 minutes and immediately before drinking the Glucola, and 5, 10, 15, 30, 60, 90, 120, and 180 minutes afterwards.
+
+ Blood levels of glucose, insulin, glucose-dependent insulinotropic polypeptide (GIP), glucagon, and Glucagon-Like Peptide (GLP-1), CCK, ghrelin and c-peptide will be determined from the samples obtained.
+
+ In addition, at hour 2 during the OGTT (when glucose peaks) we will obtain a real-time glucose level with a drop of blood from the indwelling line.
+
+ The GGTT follows that same protocol as the OGTT, but the Glucola is administered via a gastrostomy tube, placed per routine surgical procedure in patients undergoing open GBS.
+
+ Approximately 1 week before surgery, all subjects will undergo an OGTT in the GCRC.
+
+ Between day 6 and 10 after their surgery, when subjects are tolerating their standard 240cc liquid meals 3-4 times daily, subjects will undergo the third OGTT.
+
+ Although most subjects are discharged on day 3 or 4 after surgery, and will be asked to return to the GCRC, those subjects who remain in the hospital through day 5 will have the option to remain in the hospital for an additional time (1-2 days) or to go home and return to the GCRC within 5 days (no later than POD 10) The additional hospital days will be paid for by the GCRC.
+
+ After surgery, subjects in LAP group will have one OGTT.
+
+ Subjects in the OPEN group will have a GGTT on one day and an OGTT on the following day.
+
+ Subjects will be weighed before surgery and every day during the first week after surgery and before each glucose tolerance test.
+
+ All subjects will undergo a final OGTT approximately 3 -4 weeks after surgery.
+
+ This will take place in the GCRC on the same day as a routine follow up visit to their surgeon.
+
+ Patients will be contacted by telephone for assessment approximately 24 hours before and after each GTT.
+
+ There are 2 primary outcomes: 1) Change in plasma GIP response to glucose after GBS and 2) change in insulin sensitivity after GBS, as measured by an area-under-the-curve equation for a standardized 180-minute oral glucose tolerance test.
+
+ Secondary outcomes include 1) Change in plasma GLP-1 response to glucose after GBS and 2) change in plasma glucagon response to glucose after GBS, as measured by the equation used for the primary outcome.
+
+ We expect that our enrollment period will be 18 months to 24 months.
+
+ The estimated duration of the entire study is 28 months.
+
+ A Study to Examine Changes in GIP Plasma Levels Following Gastric Bypass Surgery in Obese Patients@highlight
+
+Obesity is a multinational epidemic.
+
+ There is evidence that despite educational measures and increased public awareness, the number of obese individuals continues to increase.
+
+ Of the numerous obesity-related comorbidities, type 2 diabetes remains one of the most significant in terms of mortality and health care costs.
+
+ Gastric Bypass Surgery (GBS) not only offers an effective form of therapy for morbid obesity, but also amelioration of type 2 diabetes mellitus.
+
+ The normalization of glucose levels in GBS patients occurs within days after surgery and has been shown in surgical literature to be independent of the weight loss after surgery.
+
+ The proximal gut, the site of release of certain incretins, may play a role in glucose homeostasis in obese individuals with type 2 diabetes mellitus.
+
+ One such incretin is GIP, which when released into the circulation during the immediate postprandial period, accentuates the insulin response to a glucose meal.
+
+ It is hypothesized that overactivity of this enteroinsular axis in obese individuals produces cell resistance to insulin and subsequent type 2 diabetes mellitus.
+
+ A previous study reported elevated fasting GIP levels, as well as an exaggerated GIP response to a glucose meal, in obese subjects, which was significantly reduced months after GBS following weight loss.
+
+ This pilot study of obese patients scheduled for GBS will compare the serum levels of certain peptides, including GIP, following a glucose meal before and after GBS, before weight loss has occured.
+
+ In order to reproduce the preoperative state, and therefore to demonstrate the physiologic change, a small group of subjects who undergo open surgery will undergo the same measurements after surgery, but using a model in which the meal traverses the stomach, duodenum and jejunum with the aid of a gastrostomy tube.
+

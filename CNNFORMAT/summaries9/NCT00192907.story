@@ -1,0 +1,21 @@
+(firstQuint)Inflammation and Infection in Trauma, Role in Posttraumatic Complications.
+
+ The immune system plays a role in the development of complications after severe trauma, but we do not know how.
+
+ Equally, biochemical changes measured in the blood after trauma (eg.
+
+ bloodglucose, GC-globulin, coagulation parameters etc.
+
+) may predict the prognosis and the degree of complcations.
+
+ Two significant complications are infection and organ failure, which may prolong hospitalisation and increase mortality.
+
+ In the study we collected samples from blood and body surfaces to determine changes in cytokines, biochemistry, bacterial flora, and subsequent complications.
+
+ We compare the changes in between groups of the cohort.
+
+.
+
+ Inflammation and Infection in Trauma, Role in Posttraumatic Complications@highlight
+
+The purpose of this study is to investigate the relationship between trauma, the immune system, biochemical changes in the first 24 h and subsequent complications and mortality

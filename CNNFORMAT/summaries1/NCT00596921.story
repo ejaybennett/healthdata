@@ -1,0 +1,22 @@
+(firstQuint)Bedside Ultrasound Measurement of the Inferior Vena Cava Correlates to Central Venous Pressure.
+
+ Central venous pressure (CVP) is a key physiologic estimate of preload, which in turn helps define the vascular fluid status.
+
+ It is a particularly important parameter to measure in critically ill and injured patients who may require resuscitation.
+
+ Unfortunately, measurement of the CVP requires invasive central venous catheters which can be difficult or time-consuming to insert.
+
+ A non-invasive means of inferring the CVP would provide clinicians with an alternative.
+
+ Preliminary data suggests that the diameter of the vena cava may reflect the CVP.
+
+ Ultrasonography can provide reliable measures of internal body structures including the vena cava, and therefore may be useful in this regard.
+
+ Collecting simultaneous values of vena cava diameter and CVPs will allow for the identification and quantification of correlation.
+
+.
+
+ Bedside Ultrasound Measurement of the Inferior Vena Cava Correlates to Central Venous Pressure@highlight
+
+This study proposes to examine the correlation of central venous pressure to measures of the diameter of the inferior vena cava as determined by bedside ultrasonography.
+

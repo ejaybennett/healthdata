@@ -1,0 +1,24 @@
+(fifthQuint)Ultrasound-guided Dual TAP Block: Magnetic Resonance (MR) Evaluation of the Distribution of Local Anesthetic.
+
+ There has been much debate as to what extent the classical TAP block will anesthetize more than the frontal dermatomes (TH10-Th12/L1).
+
+ Some cadaver studies have been performed with injection of dye in the classical TAP.
+
+ However, it is still not clear whether a single injection of local anesthetic in the classical TAP block position will reach the more cephalad and medial intercostal TAP plexus (Th6-Th9).
+
+ In this study the investigators use MR scanning and ultrasonography to investigate in what way a known volume of local anesthetic injectate will be distributed in the transverse abdominis plane (TAP) in young healthy male volunteers.
+
+ The investigators compare the anatomical distribution of the local anesthetic injectate in the TAP when performing an ultrasound-guided classical TAP block and a Dual TAP block.
+
+ The investigators also want to compare the spread of anesthetized frontal dermatomes when performing an ultrasound-guided classical TAP block and a Dual TAP block.
+
+.
+
+ Ultrasound-guided Dual TAP Block: Magnetic Resonance (MR) Evaluation of the Distribution of Local Anesthetic@highlight
+
+Using Magnetic resonance (MR) scanning and ultrasonography the investigators wish to investigate, in what way a known volume of local anesthetic injectate will be distributed in the transverse abdominis plane (TAP) in young healthy male volunteers.
+
+ The investigators compare the anatomical distribution of the local anesthetic injectate in the TAP when performing an ultrasound-guided classical TAP block and a Dual TAP block.
+
+ The investigators also want to compare the spread of anesthetized frontal dermatomes when performing an ultrasound-guided classical TAP block and a Dual TAP block.
+

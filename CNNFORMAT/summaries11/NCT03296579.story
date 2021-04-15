@@ -1,0 +1,48 @@
+(fifthQuint)Non-invasive Ventilation vs.
+
+ Standard Therapy for Children Hospitalized With an Acute Exacerbation of Asthma.
+
+ The aim of the study is to determine if the use of NIV, for children admitted to hospital with an acute exacerbation of asthma, reduces their work of breathing, need for adjunctive medication, length of hospital stay, and need for intubation and mechanical ventilation.
+
+ Study design will be prospective, randomized and controlled.
+
+ The tightly fitting face mask necessary for NIV makes it impossible to make this a blinded study.
+
+ The principal enrollment criteria will be children over 2 years of age presenting to the ER with acute asthma.
+
+ After diagnosis, all children are treated with standard therapy (systemic steroids plus 3 doses of inhaled salbutamol and 1 dose of inhaled ipratropium over a 1 hour period then hourly salbutamol).
+
+ The principal decision between discharge track and admission track will be made at 2 hours after first steroid dose.
+
+ Admission criteria are based on sequential PRAM scores.
+
+ After initial asthma treatment and observation in the emergency room, to determine which patients can be discharged home, those who need admission will be asked to join the study, then consented and randomized.
+
+ There will be three treatment groups: - BiPAP: standard steroid dose, hourly salbutamol and BiPAP at 15/5 cm H2O by face mask with rate 10 to 15/min, oxygen as needed.
+
+ - CPAP: standard steroid dose, hourly salbutamol and 8 to 10 cm H2O constant pressure by face mask, oxygen as needed.
+
+ - Conventional therapy: standard steroid dose plus hourly nebulized salbutamol, nebulized ipratropium q 6 hrly, magnesium sulphate 50 mg/kg IV (4 doses q 6 hrly), loading dose of aminophylline 6 mg/kg IV if no progress, oxygen as needed.
+
+ All children will be admitted to a small 3 bed respiratory unit.
+
+ They will be closely monitored and objectively scored every 4 hours using the PRAM asthma clinical severity score (Pediatric Respiratory Assessment Measure).
+
+ Projected patient enrollment will be at least 30 in each arm.
+
+ Estimated study duration is 6 months.
+
+.
+
+ Non-invasive Ventilation vs.
+
+ Standard Therapy for Children Hospitalized With an Acute Exacerbation of Asthma@highlight
+
+Acute asthma produces greatly increased work of breathing and increased oxygen requirement secondary to bronchial narrowing and airway obstruction by inflammatory secretions.
+
+ There is growing evidence that non-invasive ventilation can reverse these processes more efficiently than conventional asthma therapy.
+
+ Surprisingly, there have not yet been any large scale prospective controlled studies to investigate this hypothesis, (either in adults or children).
+
+ Consequently, the aim of this study is to determine if the use of non-invasive positive airway pressure, for children admitted to hospital with an acute exacerbation of asthma, reduces their work of breathing, need for adjunctive medications, and shortens the length of hospital stay, compared to current standard therapy.
+

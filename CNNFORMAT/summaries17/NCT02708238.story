@@ -1,0 +1,58 @@
+(fifthQuint)Efficacy of Matricariae Chamomilla L.
+
+, Melissa Officinalis L.
+
+ and Tyndallized Lactobacillus Acidophilus (H122) for Infantile Colics.
+
+ This will be a prospective, multicentre, open label, randomized, controlled trial.
+
+ All consecutive infants diagnosed with IC, according to Rome III criteria, will be prospectively enrolled in a 12 months period by 3 different Pediatric Gastroenterology units: Department of Translational Medical Science, Section of Pediatrics, University of Naples "Federico II"; Institute of Pediatrics of the University of Foggia; Endoscopy and Gastroenterology Unit, Department of Pediatrics, University of Messina.
+
+ After the enrollment, all children will be randomly assigned to receive Chamomilla L.
+
+, Melissa Officinalis L.
+
+ and tyndallized L.
+
+ Acidophilus (H122) (Group A), L reuteri DSM 17938 (108 CFU) (Group B) or Simethicone (Group C).
+
+ Treatment will be given to subjects for 28 days.
+
+ The study's primary outcome is defined as a reduction in the duration of average crying times, from baseline (day 0) to end of treatment (day 28).
+
+ The secondary outcome measure is the number of participants who respond to treatment on days 28.
+
+ Infants who experience a decrease in the daily average crying time of 50% from baseline will be considered as responders to the treatment.
+
+ Parents will be instructed to complete a structured 28-day maternal diary, modified from Barr et al.
+
+ in order to record the frequency of colic episodes and the daily crying and fussing time (in minutes), feeding schedule, stool frequency and characteristics, and any adverse events experienced (14).
+
+ Follow-up visits will be conducted on study days 7, 14, 21 and 28 by the same study investigator.
+
+ At that visit, diaries and unused study products will be returned.
+
+.
+
+ Efficacy of Matricariae Chamomilla L.
+
+, Melissa Officinalis L.
+
+ and Tyndallized Lactobacillus Acidophilus (H122) for Infantile Colics@highlight
+
+A multicenter prospective, randomized comparative study will be conducted in infants with colic, according to Rome III criteria.
+
+ Enrolled infants will be assigned at random to receive Chamomilla L.
+
+, Melissa Officinalis L.
+
+ and tyndallized L.
+
+ Acidophilus (H122), L reuteri DSM 17938 (108 CFU) or simethicone.
+
+ Treatment will be given to subjects for 28 days and they will be followed for 4 weeks.
+
+ Treatment success will be assessed at the end of study period.
+
+ Daily crying and fussing times will be recorded in a structured diary, and maternal questionnaires will be completed to monitor changes in infant colic symptoms and adverse events.
+

@@ -1,0 +1,62 @@
+(fifthQuint)Clozapine for Treatment-Resistant Mania.
+
+ A significant proportion of manic patients either do not respond adequately to conventional treatment (lithium, valproate or carbamazepine (with or without antipsychotic drugs), or cannot tolerate the adverse effects associated with therapeutic doses of these agents.
+
+ Thus, a need exists for additional effective treatments.
+
+ Preliminary studies by our group suggest that clozapine may have antimanic actions and be effective in treatment-resistant bipolar disorder.
+
+ However, the efficacy of clozapine as an alternative therapy in treatment-resistant mania has never been subjected to definitive study with an adequate number of subjects.
+
+ Thus, we propose to conduct the largest and only double-blind, placebo-controlled trial to date, of clozapine, in bipolar manic patients who were unresponsive or intolerant to six weeks of treatment with lithium, valproate, carbamazepine and at least one antipsychotic drug.
+
+ The specific aims of this investigation are to 1) assess the acute treatment efficacy of clozapine in treatment-resistant mania, 2) to investigate the functional anatomical correlates of mania, and 3) to investigate the effects of clozapine treatment on cerebral glucose metabolism and metabolic correlates of effective antimanic, clozapine treatment.
+
+ Forty-two subjects (two groups of 21 each) will be randomly assigned to treatment with clozapine or placebo for three weeks.
+
+ We anticipate that a maximum of 33% of patients will be withdrawn from the acute phase of the study due to reasons such as intolerable adverse effects or withdrawal of consent.
+
+ Thus, we expect the entered sample to yield 14 completed subjects per cell.
+
+ This sample size will allow for adequate statistical power to test the hypotheses stated above.
+
+ Patients, ages 18-65, with a diagnosis of bipolar I disorder manic or mixed (with or without psychotic features), will be randomized to double-blind treatment to receive either clozapine (200-550 mg/day) or placebo, for a period of 3 weeks.
+
+ Following this acute period, the patients will receive either open-label clozapine or treatment as clinically indicated.
+
+ If clozapine is found effective in treatment-resistant mania, it would be a significant step forward in the treatment of these patients and would have major health implications.
+
+ In addition, it would establish a gold standard against which newer treatments can be compared to.
+
+ Finally, glucose metabolism images will be obtained using PET and [F-18] FDG at baseline and following 3 weeks of clozapine treatment to investigate the functional anatomical correlates of mania and to compare drug-induced metabolic changes between responders and nonresponders.
+
+.
+
+ Clozapine for Treatment-Resistant Mania@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of clozapine as a treatment for the manic phase of bipolar disorder.
+
+ A significant proportion of manic patients either do not respond adequately to conventional treatment or cannot tolerate the adverse effects associated with therapeutic doses of these agents.
+
+ Clozapine may be a safe and effective treatment for mania.
+
+ However, the efficacy of clozapine as an alternative therapy in treatment-resistant bipolar disorder mania has not been extensively researched.
+
+ The study will be conducted in three phases.
+
+ Phase 1 is a screening phase that will take place for 2 to 7 days.
+
+ Participants will undergo a baseline positron emission tomography (PET) scan of the brain at the end of this period.
+
+ In Phase 2, participants will be randomly assigned to receive either clozapine or placebo (an inactive pill) for 3 weeks.
+
+ They may also receive lorazepam for the first 10 days of Phase 2.
+
+ After 3 weeks, patients treated with clozapine will undergo a second PET scan.
+
+ During Phase 3, participants who received placebo and did not improve will be offered clozapine for 3 weeks.
+
+ Those who received clozapine and did not improve will receive other treatment for 3 weeks.
+
+ At the end of Phase 3, participants who were treated with clozapine will have another PET scan.
+

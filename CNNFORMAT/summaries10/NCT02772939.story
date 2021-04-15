@@ -1,0 +1,15 @@
+(firstQuint)Arterial Stiffness as a Predictor of Response to Renal Sympathetic Denervation.
+
+ Regardless of the ongoing debate on the general effect of renal sympathetic denervation in therapy resistant hypertension, all trials published so far face the problem of a certain proportion of nonresponders to treatment.
+
+ Previous data shows, that to some extent this might be attributable to arterial stiffening.
+
+ Elevated invasive pulse wave velocity as an established marker for arterial stiffness has been found to be associated with nonresponse to renal denervation treatment in a smaller trial population.
+
+ This trial attempts to assess the predictive value of different invasive and non-invasive markers for arterial stiffness in an adequately powered population.
+
+.
+
+ Arterial Stiffness as a Predictor of Response to Renal Sympathetic Denervation@highlight
+
+This trial is designed to establish invasive and non-invasive measures of arterial stiffness as potential predictors of treatment response to renal sympathetic denervation

@@ -1,0 +1,14 @@
+(secondQuint)The SPACER Trial - Repair of Tricuspid Valve Regurgitation Using the Edwards TricuSPid TrAnsCatheter REpaiR System.
+
+ The purpose of the study is to assess the safety and device performance of the Edwards Tricuspid Transcatheter Repair System in patients with clinically significant, symptomatic, tricuspid regurgitation who are at high surgical risk for standard tricuspid repair/replacement.
+
+ The study is a multi-center, international, prospective, single arm, safety study.
+
+ Enrolled subjects will be assessed for clinical follow-up at 1 month, 6 months, 1 year and annually for 3 years post implant procedure.
+
+.
+
+ The SPACER Trial - Repair of Tricuspid Valve Regurgitation Using the Edwards TricuSPid TrAnsCatheter REpaiR System@highlight
+
+The purpose of the study is to assess the safety and device performance of the Edwards Tricuspid Transcatheter Repair System in patients with clinically significant, symptomatic, tricuspid regurgitation who are at high surgical risk for standard tricuspid repair/replacement.
+

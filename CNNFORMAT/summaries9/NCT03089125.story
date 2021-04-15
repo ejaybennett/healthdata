@@ -1,0 +1,28 @@
+(firstQuint)Brief Behavioral Intervention for Dyspnea in Patients With Advanced Lung Cancer.
+
+ Many individuals with advanced lung cancer experience debilitating breathlessness at some point during the course of their illness.
+
+ Unfortunately, few interventions exist to treat this distressing symptom of cancer.
+
+ The purpose of this study is to test the efficacy of a brief behavioral intervention may help relieve breathlessness in individuals with advanced lung cancer.
+
+ Participants will have a 50/50 chance of receiving the behavioral intervention or standard care.
+
+ The principal investigator of the study, Dr.
+
+ Joseph Greer, is a licensed clinical psychologist who has trained oncology nurses in how to deliver the behavioral intervention.
+
+ The oncology nurses will meet with participants during their outpatient oncology appointments, such as chemotherapy infusions, to review the behavioral skills that may help with breathlessness.
+
+ This intervention involves no medications but rather teaches patients skills for breathing control and relaxation of the body.
+
+.
+
+ Brief Behavioral Intervention for Dyspnea in Patients With Advanced Lung Cancer@highlight
+
+This research study is evaluating a behavioral intervention designed to help people with advanced lung cancer manage dyspnea (i.
+
+e.
+
+, breathlessness or shortness-of-breath).
+

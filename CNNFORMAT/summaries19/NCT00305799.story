@@ -1,0 +1,26 @@
+(thirdQuint)Hearing Loss and Dizziness in Patients Receiving Oxaliplatin for Solid Tumors.
+
+ OBJECTIVES: - Define the prevalence of audiometrically detectable hearing loss in patients with solid tumors treated with oxaliplatin.
+
+ - Describe the association of chemotherapy-induced peripheral neuropathy (CIPN) and audiometrically detectable hearing loss in these patients.
+
+ - Describe the association of CIPN and patient self-reported scales including, Peripheral Neuropathy Scale, Hearing Handicap Inventory for Adults, and Dizziness Handicap Inventory.
+
+ OUTLINE: This is an exploratory study.
+
+ Patients will complete three self-reported questionnaires including the Peripheral Neuropathy Scale, Hearing Handicap Inventory for Adults, and Dizziness Handicap Inventory.
+
+ Patients will also be asked a series of questions regarding symptoms or complaints about hearing changes, tinnitus, and dizziness that they may have experienced prior to, during, and after completion of chemotherapy.
+
+ Patients will also undergo a hearing test.
+
+ PROJECTED ACCRUAL: A total of 60 patients will be accrued for this study.
+
+.
+
+ Hearing Loss and Dizziness in Patients Receiving Oxaliplatin for Solid Tumors@highlight
+
+RATIONALE: Understanding how oxaliplatin affects hearing loss, dizziness, and peripheral neuropathy may improve the ability to plan effective treatment for patients receiving oxaliplatin for solid tumors.
+
+ PURPOSE: This clinical trial is studying hearing loss and dizziness in patients receiving oxaliplatin for solid tumors.
+

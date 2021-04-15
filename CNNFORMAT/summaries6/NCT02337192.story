@@ -1,0 +1,38 @@
+(fifthQuint)Antimicrobial Photodynamic Therapy Applied in Orthodontic.
+
+ Orthodontic Patients.
+
+.
+
+ The installation of the orthodontic appliances promotes an increase in the retentive area available for microbial aggregation, difficult the oral health promotion and, in addition, promotes the artificial selection of biofilms containing a higher load of pathogenic microorganisms.
+
+ In this way, it becomes of critical importance, the development of techniques that might aid in the reduction of the oral microbial load.
+
+ One possible approach is the use of the Antimicrobial Photodynamic Therapy (APDT).
+
+ In this direction, the objective of this study was to assess the clinical utility of the APDT and the association of the APDT with the SDS surfactant as oral decontamination agents in orthodontic patients.
+
+ The selected patients (n=24) were randomly distributed within seven experimental groups: G1 - Negative control, G2 - Curcumin mouthwash, G3 - Curcumin mouthwash+SDS, G4 - light irradiation, G5 - APDT, G6 - APDT+SDS and G7 - Positive Control (Chlorhexidine mouthwash).
+
+ Nonstimulated saliva samples were collected from each one of the patients in three steps (S), as follows: S1- Initial condition, S2 - Treatment with mouthwashes (water, Chlorhexidine or Curcumin) and S3 - After APDT treatment.
+
+ The efficacy of the proposed treatment protocols was assessed in function of the survival fraction observed in each group.
+
+ The obtained results were statistically analyzed using variance analysis (ANOVA) and the Kruskal-Wallis test.
+
+.
+
+ Antimicrobial Photodynamic Therapy Applied in Orthodontic.
+
+ Orthodontic Patients.
+
+@highlight
+
+We demonstrated the use of the Antimicrobial Photodynamic Therapy as a coadjutant oral decontamination agent.
+
+ It was also shown that SDS surfactant improves the antibacterial action of APDT when using Curcumin as the photosensitizer.
+
+ The decontamination levels obtained with APDT are comparable with the levels observed with the use of Chlorhexidine.
+
+ The clinical relevancy is the control of oral microbial load which will improve the patients' quality of life and will decrease the possibility of cross contamination in the dental office.
+

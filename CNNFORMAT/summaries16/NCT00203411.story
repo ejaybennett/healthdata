@@ -1,0 +1,12 @@
+(firstQuint)Bevacizumab Plus Capecitabine (Xeloda) in Patients With Untreated Metastatic Colorectal Cancer.
+
+ The study will evaluate the tolerability, safety, and feasibility of combination bevacizumab and capecitabine in a small number of frail patients with metastatic colorectal cancer who have a compromised performance status.
+
+ Preclinical studies suggest that the combination of chemotherapy and anti-angiogenic therapy offer an increased anti-tumor effect compared with either treatment alone.
+
+.
+
+ Bevacizumab Plus Capecitabine (Xeloda) in Patients With Untreated Metastatic Colorectal Cancer@highlight
+
+The purpose of this study is to evaluate the safety and effectiveness of the bevacizumab and capecitabine combination in frail patients with untreated metastatic colorectal cancer.
+

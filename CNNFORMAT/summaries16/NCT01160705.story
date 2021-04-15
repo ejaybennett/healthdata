@@ -1,0 +1,30 @@
+(thirdQuint)Biomarkers of Response to Taxotere in HRPC.
+
+ ICORG 08-08, V2.
+
+ OBJECTIVES: Primary - To determine if mRNA present in circulating tumor cells will help predict response in patients with hormone-refractory prostate cancer treated with docetaxel.
+
+ - In parallel with this, based on discoveries made since our protocol was initially submitted to ICORG, here we also propose to analyse serum specimens from these consenting patients for the presence of EC miRNA, mRNA and protein predictive of response to Taxotere.
+
+ Secondary - To develop a predictive model based on the most accurate and sensitive combination of these biomarkers.
+
+ OUTLINE: This is a multicenter study.
+
+ Treatment Plan: All patients will be treated with Docetaxel on a weekly, biweekly or three weekly schedule, dose and schedule at the discretion of the treating physician.
+
+ Blood samples are collected for biomarker laboratory studies at baseline, every 3-4 weeks during study, and at disease progression or every 12 weeks after completion of study.
+
+ Samples are analyzed for mRNA via RT-PCR.
+
+.
+
+ Biomarkers of Response to Taxotere in HRPC.
+
+ ICORG 08-08, V2@highlight
+
+RATIONALE: Studying samples of blood from patients with cancer in the laboratory may help doctors learn more about changes that occur in DNA and identify biomarkers related to cancer.
+
+ It may also help doctors predict how patients will respond to treatment.
+
+ PURPOSE: This clinical trial is studying blood samples in predicting how patients with prostate cancer will respond to treatment with docetaxel.
+

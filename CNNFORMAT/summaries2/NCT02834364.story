@@ -1,0 +1,26 @@
+(secondQuint)BRAF/MEK Inhibition in Relapsed/Refractory Multiple Myeloma (BIRMA).
+
+ An open-label, single-arm, multi-centre phase II trial for patients with refractory multiple myeloma and with BRAFV600E/K Mutation to evaluate the efficacy of the kinase inhibitors Encorafenib (LGX818 in) combination with Binimetinib (MEK162).
+
+ The patients must have received at least two prior therapy regimen (at least one immunomodulatory drug and one proteasome inhibitor).
+
+ The subjects receive LGX 818 450 mg.
+
+ p.
+
+o.
+
+ once daily and MEK 162 45 mg p.
+
+o.
+
+ twice daily until disease progression or toxicity requiring discontinuation of treatment.
+
+ 1 cycle is defined as 28 days.
+
+.
+
+ BRAF/MEK Inhibition in Relapsed/Refractory Multiple Myeloma (BIRMA)@highlight
+
+Trial for patients with refractory multiple myeloma after failure of at least two treatment regimens and with BRAFV600E/K Mutation to evaluate the efficacy of the kinase inhibitors Encorafenib (LGX818 in) combination with Binimetinib (MEK162).
+

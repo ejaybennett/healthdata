@@ -1,0 +1,44 @@
+(thirdQuint)IncobotulinumtoxinA (Xeomin) Versus Placebo in the Treatment of Glabellar Frown Lines.
+
+ The study was a prospective, randomized, double-blind, placebo-controlled, parallel-group, multicenter phase 3 clinical trial.
+
+ Approximately 285 females and males with moderate to severe glabellar frown lines at maximum frown were to be screened during a screening period of four months in order to randomize approximately 255 subjects into one treatment and one placebo group at a ratio of 2 : 1.
+
+ After the single injection treatment with a total dose of 20 Units IncobotulinumtoxinA (Xeomin) or corresponding placebo, the subjects were observed over 120 days.
+
+ During the study participation the subjects performed seven visits.
+
+ Eight (8) sites in the United States participated in this trial.
+
+ The study was led by one Lead PI and a Co-Lead PI who was assisting the Lead PI.
+
+ The role of the Lead PI and the Co-Lead PI was executed by one of the PIs of this study, respectively.
+
+ The PI at each site was a medical doctor who was experienced in aesthetic dermatology, i.
+
+e.
+
+ who had several years (>= 2 years) of experience in treatment of glabellar frown lines with BTX-A preparations.
+
+ The PI was the person who led the team at one trial site and who was responsible for the conduct of the clinical trial at the site.
+
+ The sub-investigator was a member of the team designated by the PI to perform important trial-related decisions.
+
+ A maximum number of two sub-investigators could be authorized for injection and rating if necessary.
+
+ At each site, ideally one investigator was to inject and rate all subjects.
+
+ Injecting and rating sub-investigators had to be medical doctors with several years of experience in treatment of glabellar frown lines with BTX-A preparations.
+
+ A subject had to be rated by the same investigator at all visits.
+
+ Another phase 3 trial MRZ 60201-0724/1 (NCT00770029) with design and endpoints identical to those in this trial was performed in order to compare efficacy and safety results with a second study population.
+
+.
+
+ IncobotulinumtoxinA (Xeomin) Versus Placebo in the Treatment of Glabellar Frown Lines@highlight
+
+The study objective is to show the superior efficacy of IncobotulinumtoxinA (Xeomin) over placebo by evaluation of treatment success analyzing the investigator's rating on the Facial Wrinkle Scale and the patient's assessment on a 4-point scale.
+
+ 255 female and male patients with moderate to severe glabellar frown lines will be randomized in a 2:1 ratio to receive one injection of IncobotulinumtoxinA (Xeomin) or placebo and will be followed up until day 120.
+

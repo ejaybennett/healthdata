@@ -1,0 +1,20 @@
+(secondQuint)The Effect of Sugammadex Given Based on Ideal, Actual or Adjusted Body Weight on Reversal of Rocuronium.
+
+.
+
+ The aim of this study is compare the reversal of rocuronium induced neuromuscular blockade in morbidly obese patients using three doses of sugammadex; based on ideal body weight, adjusted body weight, and actual body weight.
+
+ Reversal Time: time from administration of Sugammadex to train of four (TOF) ratio 0.
+
+9 will be used as primary outcome.
+
+ Time need for extubation (time from administration of sugammadex to extubation), and duration of stay in post anesthesia care unit (PACU), will be used as secondary outcome.
+
+.
+
+ The Effect of Sugammadex Given Based on Ideal, Actual or Adjusted Body Weight on Reversal of Rocuronium.
+
+@highlight
+
+The aim of this study is compare the reversal of rocuronium induced neuromuscular blockade in morbidly obese patients using three doses of sugammadex; based on ideal body weight, adjusted body weight, and actual body weight.
+

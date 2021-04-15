@@ -1,0 +1,32 @@
+(thirdQuint)L-Tyrosine Supplementation in Patients With Fibromyalgia.
+
+ Fibromyalgia is a chronic pain syndrome with few treatment options available.
+
+ The amino-acid L-tyrosine is the precursor for norepinephrine in the central nervous system (CNS).
+
+ Norepinephrine in the CNS has important roles in pain and mood modulation and descending inhibition of pain pathways.
+
+ By giving the precursor L-tyrosine in high doses we believe that we can increase levels of norepinephrine in the CNS.
+
+ To study this question we designed a randomized blinded pilot study of 30 patients.
+
+ Patients are randomly assigned to one of 3 groups (placebo, tyrosine 1000mg/day, and tyrosine 2000mg/day.
+
+) for 3 weeks.
+
+ Patients then complete the Brief Pain Inventory (BPI) daily and the Fibromyalgia impact questionnaire (FIQ) on day 1 and day 21.
+
+ Patients also complete a drug diary.
+
+ They are monitored weekly for progress during the study.
+
+.
+
+ L-Tyrosine Supplementation in Patients With Fibromyalgia@highlight
+
+Patients in the study, who have a diagnosis of fibromyalgia, will be randomly assigned to take the amino acid L-tyrosine or placebo (blank pill) for 3 weeks.
+
+ They will fill out questionnaires about their symptoms and see if they have any improvement.
+
+ The investigators hypothesis is that taking tyrosine will help alleviate the symptoms of fibromyalgia.
+

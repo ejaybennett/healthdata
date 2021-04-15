@@ -1,0 +1,16 @@
+(firstQuint)Acupuncture as a Supplemental Treatment for Bipolar Depression.
+
+ Patients receive 8 weeks (12 sessions) of acupuncture treatment plus stable medication.
+
+ Patients are randomly assigned to receive either acupuncture designed to relieve symptoms of depression or acupuncture designed to relieve some other legitimate physical condition.
+
+ A comparison group of patients who take medication but do not receive acupuncture is assessed to evaluate the effectiveness of medication alone.
+
+ Patients participate in clinical assessment each week, which includes visiting with a psychiatrist and completing symptom rating scales.
+
+.
+
+ Acupuncture as a Supplemental Treatment for Bipolar Depression@highlight
+
+The purpose of this study is to evaluate the effectiveness of acupuncture in the treatment of Bipolar Depression.
+

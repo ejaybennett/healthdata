@@ -1,0 +1,32 @@
+(thirdQuint)Isotretinoin in Preventing Skin Cancer.
+
+ OBJECTIVES: I.
+
+ Determine the lowest effective dose of oral isotretinoin for long-term therapy that is capable of reducing the rate of formation of new skin cancers in patients with xeroderma pigmentosum or nevoid basal cell carcinoma syndrome.
+
+ II.
+
+ Determine the possible side effects associated with long-term use of isotretinoin in this patient population.
+
+ OUTLINE: Patients are stratified according to disease type (xeroderma pigmentosum vs nevoid basal cell carcinoma syndrome).
+
+ Patients not previously treated with isotretinoin receive oral isotretinoin daily for 2 years and then are followed without receiving isotretinoin for 1 year.
+
+ After the follow-up period, treatment may be resumed if the rate of new skin tumor formation reaches 2 per year provided original eligibility criteria are met.
+
+ Treatment may be resumed during the follow-up period if the rate of new skin tumor formation increases to the rate observed before study.
+
+ Patients previously treated with oral isotretinoin continue treatment and are followed to evaluate any long-term effects of treatment.
+
+ PROJECTED ACCRUAL: Approximately 30 patients will be accrued for this study.
+
+.
+
+ Isotretinoin in Preventing Skin Cancer@highlight
+
+RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer.
+
+ Isotretinoin may be effective in preventing the development or recurrence of skin cancer.
+
+ PURPOSE: Clinical trial to study the effectiveness of isotretinoin in preventing or slowing the growth of skin cancer in patients who have xeroderma pigmentosum or basal cell carcinoma.
+

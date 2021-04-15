@@ -1,0 +1,30 @@
+(thirdQuint)Effect of Acid Reflux on Respiratory Physiology During Exercise in Athletes With GER-Response to Acid Suppression.
+
+ This is a randomized, blinded, cross-over trial.
+
+ We plan to take athletes with classical GER, cough, shortness of breath, chest tightness during exercise and subject them to complete pulmonary function testing in conjunction with exercise and pH testing.
+
+ We will assess whether such athletes experience an increase in reflux duration and episodes during exercise.
+
+ The athletes will be randomized (in a cross over fashion) to acid suppression (BID Nexium 40 mg) or placebo for 10-12 weeks.
+
+ Both the athletes and investigators will be blinded.
+
+ After 10-12 weeks, exercise testing (ramp protocol with VO2 and anaerobic threshold) with concurrent respiratory function testing will be repeated along with symptom assessment.
+
+ After a brief washout period of 1-2 weeks, the athletes will then cross-over to the other study medication for 10-12 weeks.
+
+ Again, at the end of the study period, symptomatic relief as well as respiratory function improvement will be assessed by repeating the initial exercise regimen.
+
+ The exercise regimens during these medication regimens will not be held stable as indirectly, as a results of "feeling better or worse" from the medication/placebo, these patients may increase/ decrease their exercise routine, resulting in changes in their overall endurance, anaerobic threshold, etc (our endpoints).
+
+ By keeping the regimen stable, we do not allow for the changes to occur which are large enough to detect.
+
+.
+
+ Effect of Acid Reflux on Respiratory Physiology During Exercise in Athletes With GER-Response to Acid Suppression@highlight
+
+We propose that acid reflux affects respiratory dynamics (breathing) in patients who are exercising and that athletes improve their exercise capacity with acid suppression therapy.
+
+ It is our intent to determine whether treatment of GER with strong acid suppression may alleviate symptoms, improve exercise capacity, and improve quality of life.
+

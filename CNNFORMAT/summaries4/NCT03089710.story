@@ -1,0 +1,22 @@
+(secondQuint)Mini-fluid Challenge in Predicting Fluid Responsiveness During Prone Position Spine Surgery.
+
+ Perioperative fluid management is crucial for patients' outcome.
+
+ Series of studies have indicated that adequate fluid management optimizes the cardiac out put, improves tissue perfusion, thus decrease the risk of postoperative morbidity.
+
+ Muller et al developed a "Mini-fluid challenge method " to predict fluid responsiveness and the efficacy.
+
+ To the best of our knowledge, the efficacy of the test was not discussed in the perioperative care in prone position surgery.
+
+ The investigators design the study to investigate the effectiveness of mini-fluid challenge test in prone position surgery.
+
+.
+
+ Mini-fluid Challenge in Predicting Fluid Responsiveness During Prone Position Spine Surgery@highlight
+
+Perioperative fluid management is crucial for patients' outcome.
+
+ Muller et al developed a "Mini-fluid challenge method " to predict fluid responsiveness and the efficacy.
+
+ The investigators design the study to investigate the effectiveness of mini-fluid challenge test in prone position surgery.
+

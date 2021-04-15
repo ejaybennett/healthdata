@@ -1,0 +1,38 @@
+(secondQuint)A Phase 2 Study Evaluating the Efficacy and Safety of Selinexor (KPT-330) in Patients With Recurrent Gliomas.
+
+ This is an open-label, multicenter, Phase 2 study to evaluate the efficacy and safety of oral selinexor in patients with recurrent gliomas.
+
+ Initially, the study included 2 arms: an exploratory Surgical Arm (Arm A) with sequential enrollment for patients who require surgery and a medical arm (Arm B) for patients who are not eligible for surgery.
+
+ Enrollment in Arm B was stopped to explore alternative dosing in Protocol Versions 4.
+
+0 to potentially improve tolerability.
+
+ Four arms (Arms C, D, E, and F) were added to the Medical Arm in Protocol Version 4.
+
+0.
+
+ Arms E and F were eliminated in protocol version 6.
+
+0 and no patients were ever enrolled in these arms.
+
+ Patients in the primary population enrolled under Protocol Version 4.
+
+0 or above will be randomized to Arm C and Arm D (approximately 30 patients per arm) to explore alternative dosing to potentially improve tolerability.
+
+ After screening and registration/randomization in the study, patients enrolling in Arm A or randomized to Arm C will receive 60 mg Selinexor orally twice weekly.
+
+ Patients randomized to Arm D will receive 80 mg Selinexor orally weekly.
+
+ Patients will be treated until progression of disease or the development of unacceptable toxicities.
+
+ All patients will then undergo the End of Treatment (EOT) visit.
+
+.
+
+ A Phase 2 Study Evaluating the Efficacy and Safety of Selinexor (KPT-330) in Patients With Recurrent Gliomas@highlight
+
+This is an open-label, multicenter, Phase 2 study to evaluate the efficacy and safety of oral Selinexor in patients with recurrent gliomas.
+
+ Patients have been enrolled in Arms A, B and C, but Arm D is the only arm currently open to recruiting patients.
+

@@ -1,0 +1,28 @@
+(thirdQuint)Cognitive Assessment of Elderly Primary Care Patients.
+
+ Current trends in healthcare suggest that in the coming decade most older patients will obtain services solely through the general practice/family practice sector of healthcare.
+
+ Effective and optimal management of older patients with multiple complex medical conditions and compromised cognitive functioning will be a challenge for the primary care physician (PCP).
+
+ Early identification of older patients with cognitive deficits should allow early referral for diagnostic work-up and earlier treatment and better patient outcomes.
+
+ The goal of this study is to investigate the utility of providing cognitive testing in the PCP office.
+
+ PCPs will be randomized to either Treatment As Usual (TAU) or Cognitive Report (CR).
+
+ The study hypotheses are (1) patients of physicians in the CR group will have improved clinical outcomes i.
+
+e.
+
+ cognitively impaired patients in the CR group will have a slower rate of progression of cognitive deficits over two years than cognitively impaired patients in the TAU group; (2) PCPs in the CR group will order dementia screening tests, refer to specialists and prescribe anticholinesterase inhibitors more frequently than PCPs in the TAU group.
+
+.
+
+ Cognitive Assessment of Elderly Primary Care Patients@highlight
+
+Most primary care physicians do not screen older patients for cognitive impairment.
+
+ Identification of cognitive impairment may result in earlier referral for diagnostic work-up and earlier treatment and better patient outcomes.
+
+ The purpose of this study is to determine whether physicians who receive the results of a cognitive screen use this information in treatment plans and whether this results in better cognitive outcomes for the older patients.
+

@@ -1,0 +1,20 @@
+(thirdQuint)CER-001 Therapy as a Novel Approach to Treat Genetic Orphan Diseases.
+
+ Subjects will be required to have acceptable baseline 3TMRI imaging of carotid arteries.
+
+ Subjects meeting all eligibility criteria will be randomized to receive CER-001 or placebo (2:1 randomization scheme).
+
+ Randomized subjects will return weekly for a total of 9 infusions and then biweekly for an additional 20 infusions.
+
+ 3TMRI imaging of the carotid and femoral arteries will be performed at Week 8, Week 24 (primary endpoint) and Week 48.
+
+ The total study duration from randomization can range from 50 to 54 weeks for patients completing the study as designed.
+
+.
+
+ CER-001 Therapy as a Novel Approach to Treat Genetic Orphan Diseases@highlight
+
+The purpose of this study is to assess the impact of 29 intravenous infusions of CER-001 vs.
+
+ placebo, given at weekly (9 infusions) and biweekly (20 infusions) intervals on carotid vessel wall area as measured by 3TMRI, when administered to patients with familial primary hypoalphalipoproteinemia with proven CVD and appropriate background lipid-lowering therapy.
+

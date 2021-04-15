@@ -1,0 +1,16 @@
+(secondQuint)Study to Assess the Pharmacokinetic and Pharmacodynamic Bioequivalence of CHS-1701 With Neulasta.
+
+ This is a randomized, single-blind, 3-period crossover study in healthy subjects to assess PK, PD, and safety (including immunogenicity) of a single 6mg subcutaneous injection of CHS-1701 or 6mg SC dose of Neulasta given during each period.
+
+ The screening period may occur up to 28 days prior to the confinement period.
+
+ After screening, eligible subjects will be randomly assigned to one of three possible treatment sequences.
+
+ Treatments will be spaced by not less than 28 days.
+
+.
+
+ Study to Assess the Pharmacokinetic and Pharmacodynamic Bioequivalence of CHS-1701 With Neulasta@highlight
+
+This is a randomized, single-blind, 3-period crossover study in healthy subjects to assess PK, PD, and safety (including immunogenicity) of a single 6mg subcutaneous injection of CHS-1701 (Coherus pegfligrastim) or 6mg SC dose of Neulasta (pegfilgrastim) given during each period.
+

@@ -1,0 +1,18 @@
+(firstQuint)Wearable Noninvasive Positive Pressure Ventilation Device in COPD.
+
+ In order to avoid the occurrence of uncomfortable dyspnea, patients with Chronic Obstructive Pulmonary Disease (COPD) are locked in a vicious circle of inactivity and social isolation which profoundly affects their quality of life and prognosis.
+
+ A new wearable non invasive positive pressure ventilation device has been recently proposed; it can be used by intermittence during or after physical activities for reducing dyspnea or for shortening dyspnea- recovery time.
+
+ The investigators hypothesize that this system, in reducing the inconvenience caused by dyspnea, would stimulate a more active lifestyle and improve quality of life.
+
+ Their objective is to assess the impact of this device on physical activity and quality of life in patients with severe COPD, complaining of dyspnea.
+
+ In this open study with no control group, participants will use the device at their convenience, according to their needs in daily life and for 4 weeks.
+
+.
+
+ Wearable Noninvasive Positive Pressure Ventilation Device in COPD@highlight
+
+The objective is to assess the impact of a wearable Noninvasive Positive Pressure Ventilation, on physical activity and quality of life in patients with severe COPD, complaining of dyspnea.
+

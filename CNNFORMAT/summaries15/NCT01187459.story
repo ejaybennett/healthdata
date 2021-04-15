@@ -1,0 +1,98 @@
+(fifthQuint)Vitamin D in Pediatric Crohn's Disease.
+
+ Trial Objectives: Our primary hypothesis is that a greater proportion of pediatric CD patients will achieve optimal 25OHD concentration (> 75 nmol/L) on 2000 IU/d than 400 IU/d Vitamin D.
+
+ Our primary objective is to determine whether the proportion of pediatric CD patients achieving 25OHD concentration > 75 nmol/L is greater in those receiving 2000 IU/d or 400 IU/d Vitamin D.
+
+ Our secondary objective is to determine if patients receiving 2000 IU Vitamin D are more likely to have remained in remission [Pediatric Crohn's Disease Activity Index (PCDAI) 75 nmol/L between the two doses with 80% power and a one sided of 0.
+
+05.
+
+ Assuming a 10% attrition rate we will need to recruit 50 subjects per group.
+
+ Clinical experience indicates that approximately 50% of pediatric CD patients will relapse over 6 months based on an elevated PCDAI (>20).
+
+ Forty-five subjects per group will allow us to detect a 50% difference in CD relapse between the two doses with 80% power and a one sided of 0.
+
+05.
+
+ Patient Population: Pediatric CD patients who are patients of the pediatric gastroenterology services of BC and McMaster Children's Hospitals.
+
+ Inclusion Criteria: Patients will be eligible to participate if they have a diagnosis of CD, are between 8-18 years of age, and have been in remission for at least 4 weeks as indicated by a PCDAI 10, taking corticosteroids, or taking more than 400 IU Vitamin D at enrollment.
+
+ NHP Formulation: Vitamin D at doses of 10 and 50 ug (400, and 2000 IU) 400 IU DIN #02231624 2000 IU Dosage Regimen: Patients will be randomly assigned to one of two supplemental doses of vitamin D3 (10, and 50 ug/d) Prestudy Screening and Baseline Evaluation: Patients and their parent/guardian who meet the inclusion criteria and who consent will be enrolled and assigned without bias to a dose group.
+
+ A one-hour fasting blood sample and a spot urine collection will be collected, a PCDAI will be administered, and patients will complete a food frequency questionnaire (FFQ) that will include information on Vitamin D and calcium supplement use (including dose and duration) as well as a lifestyle and demographic questionnaire.
+
+ Treatment Visit: One-hour fasting blood and spot urine will be collected and the PCDAI will be administered at baseline, 3 months (+/- 1 week), and 6 months (+/- 1 week) after baseline.
+
+ 25OHD concentrations are thought to stabilize after 8 weeks of supplementation at a constant dose.
+
+ Premature Withdrawal/Discontinuation Criteria: Discontinuation criteria for individual subjects include violation of any of the exclusion criteria, severe non-compliance with the protocol, or occurrence of adverse events that are judged to be severe enough for discontinuation.
+
+ Subjects are also free to voluntarily discontinue the study at any time.
+
+ Rescue Medication: Regular dosage of 400 IU vitamin D Washout Period: None Dietary Assessment: Calcium and Vitamin D intake from food over the previous month will be estimated using a food frequency questionnaire validated for use in a variety of ethnic groups (From S Whiting; U Sask).
+
+ Pediatric Crohn's Disease Activity Index: The PCDAI will be used to assess the severity of disease.
+
+ It consists of a patient recall, laboratory values, and a clinical examination.
+
+ Scores below 10 indicate remission and scores above 20 indicate active disease (attached).
+
+ Laboratory Assessment: Erythrocyte Sedimentation Rate, serum calcium, serum albumin, serum creatinine, urinary calcium and urinary creatinine will be measured by the hospital pathology labs using standard procedures.
+
+ Serum 25OHD, PTH will be measured using automated chemiluminescent assay system (Liaison, Diasorin) by BC Biolabs.
+
+ Efficacy Analysis: The proportion of patients achieving a 25OHD of 75 nmol/L on each of the dosages at 6 months will be compared using a Chi-squared test.
+
+ Likewise the proportion of participants remaining in remission (PCDAI <20) will also be compared using a Chi-squared test.
+
+ Data will initially be analyzed as intent-to-treat for all outcomes.
+
+ In the case of dropouts or missing data the last observation will be carried-forward.
+
+ A second analysis will be carried out for each outcome only using subjects with complete data and who were over 80% compliant in supplement use (as-treated analysis).
+
+ Differences in the characteristics of the participants in the groups at baseline will be determined using Student's t-test for continuous and the chi-square test or Fisher's Exact Test for categorical variables.
+
+ Safety Analysis: Adverse events will be recorded according to Good Clinical Practice Guidelines and the guidelines of our university's human research ethics board.
+
+ Adverse event occurrences will be compared descriptively between the treatment and placebo groups.
+
+ Safety will also be assessed as part of the blood collection (Serum Ca and Serum PTH and Serum P).
+
+ Statistical Analysis: Data will initially be analyzed as intent-to-treat for all outcomes.
+
+ In the case of dropouts or missing data the last observation will be carried-forward.
+
+ A second analysis will be carried out for each outcome only using subjects with complete data and who were over 80% complaint in supplement use (as-treated analysis).
+
+ Differences in the characteristics of the participants in the groups at baseline will be determined using Student's t-test for continuous and the chi-square test of Fisher's Exact Test for categorical variables.
+
+ The primary endpoints will be the dosages at 3 months will be evaluated using a Chi-squared test.
+
+ Dose response (as ug Vitamin D3 per nmol/L increase in 25OHD) in children will be determined using multiple regression analysis with 25OHD as the dependent variable, vitamin D dose entered as a continuous variable, and baseline vitamin D as a covariate.
+
+.
+
+ Vitamin D in Pediatric Crohn's Disease@highlight
+
+Background: Crohn's disease (CD), a type of Inflammatory Bowel Disease (IBD), is a chronic relapsing inflammatory disorder of the digestive system.
+
+ CD affects ~112,000 individuals in Canada, of whom 20-25% are diagnosed in childhood or adolescence.
+
+ The specific cause of CD remains unknown; however, it is hypothesized that CD involves a complex interaction of several factors, including a genetically susceptible host, the intestinal mucosal immune system and microbe population.
+
+ Several dietary factors have been explored for their potential role in the etiology of CD.
+
+ However, no consensus on the role of diet has emerged.
+
+ Recent evidence suggests a plausible link between a lack of Vitamin D and CD.
+
+ Purpose & Hypothesis: The investigators primary hypothesis is that a greater proportion of pediatric CD patients will achieve optimal 25OHD concentration (> 75 nmol/L) on 2000 IU/d than 400 IU/d Vitamin D.
+
+ Methods: Pediatric Crohn's Disease patients between 8-18 years of age, and have been in remission for at least 4 weeks as indicated by a Pediatric Crohn's Disease Activity Index (PCDAI) 75 nmol/L compared to children receiving 10 ug/day.
+
+ This data will aid policy makers, parents/children and healthcare workers in recommending an appropriate vitamin D dosage for the pediatric crohn's population.
+

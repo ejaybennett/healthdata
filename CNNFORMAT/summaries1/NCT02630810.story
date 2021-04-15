@@ -1,0 +1,12 @@
+(secondQuint)Early Versus Late Hydration After Cesarean Section (CS).
+
+ Traditionally, oral intake after CS was depend on insurance of intestinal movement, since uncomplicated CS does not affect the intestine and the mother needs to care of her infants, lactates, discharged from hospital, early oral hydration may enhance bowel movement, so the investigators need to evaluate the safety of early oral hydration after CS.
+
+ This study compare the effects of introducing water during the 1st hour or after 6 hours on bowel movement after CS.
+
+.
+
+ Early Versus Late Hydration After Cesarean Section (CS)@highlight
+
+This study evaluates the effect of early oral hydration on bowel movement after CS, it includes 2 groups: study group participants receive 100 ml water after 1hr from the end of CS, while the others receive water after 6hrs from the end of CS.
+

@@ -1,0 +1,14 @@
+(thirdQuint)Evaluation of Half-Dose Molecular Breast Imaging With Wide Beam Reconstruction Processing.
+
+ Recent implementation of dose reduction strategies for Molecular Breast Imaging now allow performance of MBI at an administered dose of 8 mCi Tc-99m sestamibi, which is reduced from the previously used doses of 20-30 mCi.
+
+ In order to safely introduce MBI as a screening modality, we aim to perform MBI using 4 mCi Tc-99m sestamibi.
+
+ An image processing algorithm called Wide Beam Reconstruction (WBR) has been tailored for MBI technology with the goal of allowing either the current administered dose or current acquisition time to be reduced by half.
+
+.
+
+ Evaluation of Half-Dose Molecular Breast Imaging With Wide Beam Reconstruction Processing@highlight
+
+The primary objective of this work is to determine if half-dose Molecular Breast Imaging (MBI) performed with 4 mCi Tc-99m sestamibi with or without Wide Beam Reconstruction applied can achieve image quality and diagnostic accuracy non-inferior to that of standard MBI performed with 8 millicurie (mCi) Tc-99m sestamibi.
+

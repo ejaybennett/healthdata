@@ -1,0 +1,14 @@
+(firstQuint)Postmarketing Safety Study of Q/LAIV in Subjects 2 Through 49 Years of Age.
+
+ Children and adults will be immunized with Q/LAIV as part of routine clinical practice at Kaiser Permanente Northern California (NCKP) sites.
+
+ Using existing data on healthcare utilization, rates of medically attended events (MAEs) of interest will be evaluated in all eligible Q/LAIV recipients who are vaccinated in the Kaiser Permanente (KP) Northern California Health Care Plan during the 2013-2014 influenza season.
+
+ Enrollment must include a minimum of 10,000 children 2 through 8 years of age; based on previous utilization of FluMist at NCKP, enrollment is expected to include approximately 80,000 children and adults 2 to 49 years of age.
+
+.
+
+ Postmarketing Safety Study of Q/LAIV in Subjects 2 Through 49 Years of Age@highlight
+
+This is an observational post-marketing study conducted in children and adults immunized with Q/LAIV as part of routine clinical practice at Kaiser Permanente Northern California (NCKP) sites.
+

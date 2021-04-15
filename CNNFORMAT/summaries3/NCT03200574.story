@@ -1,0 +1,14 @@
+(secondQuint)Behavior of Valve Leaflets.
+
+ This is a prospective, interventional, multi-center trial to report the overall incidence of reduced leaflet motion identified by CT imaging in patients receiving a commercially approved LivaNova bioprosthetic aortic heart valve up to 1 year post implant, on patients that are off anticoagulation for at least 30 days.
+
+ A minimum of 200 subjects with evaluable 4D CT scans will be enrolled at approximately 15 investigational sites where the devices are commercially available.
+
+ For asymptomatic subjects, PIs and subjects will be blinded from the CT imaging results and from the Core Lab findings.
+
+.
+
+ Behavior of Valve Leaflets@highlight
+
+This is a prospective, interventional, multi-center trial to report the overall incidence of reduced leaflet motion identified by CT imaging in patients receiving a commercially approved LivaNova bioprosthetic aortic heart valve up to 1 year post implant.
+

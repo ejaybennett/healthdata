@@ -1,0 +1,26 @@
+(firstQuint)Impact of 50% Nitrous Oxide Inhalation on Pain and Anxiety Induced by Lumbar Puncture: a Double-blind Randomized Controlled Trial.
+
+ Nitrous oxide (N2O) has analgesic and anxiolytic properties that are known for more than a century.
+
+ Nonetheless, it's use during lumbar puncture in adults has never been investigated properly.
+
+ Thus, this study is designed to evaluate the analgesic effect of N2O on the pain induced during lumbar puncture.
+
+ Patients with scheduled lumbar puncture realized for diagnosis purposes will be randomized in 2 groups.
+
+ One group will inhale N2O for the 5 minutes before the puncture and during the rest of the procedure.
+
+ The second group will inhale compressed air during the same period of time.
+
+ Neither the investigator realizing the lumbar puncture, nor the patient will know which type of gaz they are inhaling (double-blinding).
+
+ The maximal pain level that occurred during the procedure will be evaluated on a Numerical Rating Scale (NRS).
+
+ NRS will also be used to evaluate the maximal anxiety induced by the procedure.
+
+.
+
+ Impact of 50% Nitrous Oxide Inhalation on Pain and Anxiety Induced by Lumbar Puncture: a Double-blind Randomized Controlled Trial@highlight
+
+This study is designed to evaluate the analgesic effect of nitrous oxide (N2O) on the pain induced during lumbar puncture.
+

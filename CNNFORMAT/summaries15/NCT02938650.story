@@ -1,0 +1,18 @@
+(firstQuint)Nitrosomonas Eutropha on Nitrolipids in the Skin.
+
+ We are looking to see how the nitrosomonas alters nitrolipids in the skin and the inflammatory cytokines of the skin.
+
+ We will be using healthy subjects over the course of 2 weeks.
+
+ Subjects will be using a neutral cleanser for one week prior to the study, skin microbiome,facial photography, lipid and cytokine measurements will be taken at baseline.
+
+ Subjects will then start using nitrosomonas spray twice daily for one week.
+
+ There is a portion of the study where the subjects will have skin microbiome, facial photography, lipid measurements, blood pressure measurements and a bloow draw before and after using the nitrosomonas spray for one week.
+
+.
+
+ Nitrosomonas Eutropha on Nitrolipids in the Skin@highlight
+
+We are looking to see how the addition of nitrosomonas alters the presence of nitrolipids and inflammatory cytokines on the skin.
+

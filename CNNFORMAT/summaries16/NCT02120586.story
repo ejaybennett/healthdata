@@ -1,0 +1,28 @@
+(secondQuint)Preventive Physiotherapy Intervention in Elderly People With Sarcopenia.
+
+ Sarcopenia is a syndrome characterized by progressive and generalized loss of skeletal muscle mass and strength with a risk of adverse outcomes such as physical disability, poor quality of life and death (Goodpaster et al, 2006; Delmonico et al, 2007).
+
+ The contributing factors are those related to aging process, non-optimal diet, bed rest or sedentary lifestyle, chronic diseases and certain drug treatments.
+
+ Most of these factors are present in the older population with comorbidity, frequently institutionalized to receive a professional long-term care.
+
+ Since the European Working Group on Sarcopenia in Older People (Cruz-Jentoft et al, 2010) recommends using the presence of both low muscle mass and low muscle function (strength and/or physical performance) for the diagnosis of sarcopenia, interventions should be focused in both criteria.
+
+ The aim of this study is to prevent loss of skeletal muscle mass and strength in institutionalized elderly with sarcopenia.
+
+ To this purpose, the investigators study undertakes two physiotherapy interventions to preventing/treating Sarcopenia, namely, maintenance of muscle mass and improvement of strength in peripheral and respiratory muscles.
+
+ Both interventions are common in the following features: supervision, duration, frequency and intensity of the training program.
+
+ The primary outcomes are those related to muscle mass and strength.
+
+ Secondary outcomes will be related to muscle function (muscle endurance and/or physical performance), costs and health status (number of falls and fractures, exacerbations of chronic diseases, hospitalizations and deaths during the year after concluding the physiotherapy interventions).
+
+.
+
+ Preventive Physiotherapy Intervention in Elderly People With Sarcopenia@highlight
+
+This study evaluates two strength training protocols (one in peripheral muscles and one in inspiratory muscles) in the improvement of skeletal muscle mass and function in institutionalized elderly with sarcopenia.
+
+ Participants will be assigned randomly in a control or one of both experimental groups.
+

@@ -1,0 +1,34 @@
+(fifthQuint)Facilitating Motor Skill Learning in Parkinson's Disease.
+
+ Parkinson's disease is a progressive neurodegenerative disorder that is characterized by motor control impairments, such as gait disturbances and postural instability.
+
+ Beneficial effects of exercise are attributed to mechanisms of neuroplasticity, and task-specific motor training is consequently considered to be a motor learning process.
+
+ While motor learning is preserved in persons with Parkinson's disease, slower acquisition rates and reduced retention have been reported compared to healthy individuals.
+
+ Thus, it is crucial to identify strategies to enhance motor learning in people with Parkinson's disease.
+
+ Recent studies have accumulated evidence to show that aerobic exercise can facilitate motor skill learning.
+
+ However, these observations are limited to healthy individuals and have not been addressed in individuals with neurologic conditions.
+
+ The present study is designed to assess the effects of a single bout of moderate intensity aerobic exercise on a motor skill learning task in patients with Parkinson's disease.
+
+ In a cross-over design, participants will be randomly allocated to one of two groups.
+
+ Both groups will practice balancing on a specific stability platform (motor learning task).
+
+ The experimental group will additionally perform a bout of aerobic exercise (cycle ergometer) immediately before the motor learning task, while the control group will rest before practice.
+
+ Subsequently, the acquisition and one-day retention of the motor learning task will be examined.
+
+.
+
+ Facilitating Motor Skill Learning in Parkinson's Disease@highlight
+
+The study is designed to assess the effects of aerobic exercise on motor learning in Parkinson patients.
+
+ Specifically, the investigators examine whether a single bout of moderate intensity aerobic exercise, performed immediately before task practice, facilitates the acquisition and retention of a motor skill.
+
+ In a cross-over design, participants will be randomly allocated to either the intervention group (aerobic exercise before motor learning) or control group (rest before motor learning).
+

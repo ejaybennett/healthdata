@@ -1,0 +1,24 @@
+(thirdQuint)ENDO GIA Stapler With Duet Tissue Reinforcement System (TRS) Used in Pulmonary Resections.
+
+ Air leak is a complication of pulmonary surgical procedures that include pulmonary lobectomy, segmentectomy, and bullectomy, reported to occur in 33% to 75% of cases.
+
+ Prolonged air leak continuing for more than 7 days is reported to have a prevalence of greater than 15%.
+
+ The presence of a history of smoking, preoperative steroid use, emphysema, low pulmonary function, pleural adhesion, and apical lung wedge resection are shown to be risk factors for prolonged air leak which lengthens the duration of drain placement, increases the days of hospitalization, and reduces patient ADL and QOL.
+
+ Prolonged air leak may also result in serious complications, such as empyema.
+
+ Tissue reinforcement materials widely used as a pleural reinforcement to prevent air leaks during lung surgery, and are reported as a safe and effective material for body tissue reinforcement.
+
+ Covidien Japan Inc.
+
+ has developed a surgical stapler (Endo GIA Duet TRS) with an attached reinforcement material.
+
+ This study will investigate the reinforcement effect on the staple line of using the newly developed surgical stapler with an attached reinforcement material.
+
+.
+
+ ENDO GIA Stapler With Duet Tissue Reinforcement System (TRS) Used in Pulmonary Resections@highlight
+
+The objective of this study is to confirm superiority between a test treatment group using Endo GIA stapler with Duet Tissue Reinforcement System (TRS) and a current international standard of care group using a conventional stapler in patients undergoing pulmonary lobectomy surgery, using a randomized comparative study of the frequency of intraoperative air leak.
+

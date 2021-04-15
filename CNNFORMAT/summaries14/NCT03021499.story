@@ -1,0 +1,18 @@
+(firstQuint)Aurinia Renal Response in Active Lupus With Voclosporin.
+
+ The aim of the current study is to investigate whether voclosporin, added to the standard of care treatment in active lupus nephritis (LN), is able to reduce disease activity over a treatment period of 52 weeks.
+
+ The background therapy will be MMF and initial treatment with IV methylprednisolone, followed by a reducing course of oral corticosteroids.
+
+ Subjects with active, flaring LN will be eligible to enter the study.
+
+ They are required to have a diagnosis of LN according to established diagnostic criteria and clinical and biopsy features suggestive of active nephritis.
+
+ Efficacy will be assessed by the ability of the drug combination to reduce the level of proteinuria (as measured by urine protein/creatinine ratio (UPCR)) while demonstrating an acceptable safety profile.
+
+.
+
+ Aurinia Renal Response in Active Lupus With Voclosporin@highlight
+
+The purpose of this study is to assess the efficacy of voclosporin compared with placebo in achieving renal response after 52 weeks of therapy in subjects with active lupus nephritis.
+

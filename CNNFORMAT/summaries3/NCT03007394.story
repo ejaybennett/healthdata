@@ -1,0 +1,16 @@
+(firstQuint)Lorcaserin in the Treatment of Cocaine Use Disorder.
+
+ This is a 19-week, multi-center, randomized, Phase 2 clinical study comparing the efficacy of lorcaserin (10mg, b.
+
+i.
+
+d) to matched placebo in the treatment of cocaine use disorder.
+
+ Up to 3 weeks will be allowed for the Screening Period and a 13-week treatment phase, with a 3-week follow-up period, with scheduled visits during Study weeks 14 and 16.
+
+.
+
+ Lorcaserin in the Treatment of Cocaine Use Disorder@highlight
+
+The objective of this study is to evaluate the efficacy and safety of lorcaserin in the treatment of cocaine use disorder.
+

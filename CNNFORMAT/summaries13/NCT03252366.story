@@ -1,0 +1,22 @@
+(thirdQuint)Maxillary Sinus Elevation and Simultaneous Implant Placement.
+
+ One of the main problem for posterior maxilla it becomes atrophic after extraction of the teeth and this followed by Pneumatization of the maxillary sinus, the atrophy of the alveolar process is a common reason for the limited availability of alveolar bone for implant placement in the posterior maxilla.
+
+ Numerous techniques designed to increase bone volume in the maxillary sinus region have been proposed.
+
+ They were mostly based on the insertion of various materials into a void created between the sinus (Schneiderian) membrane and the bony walls of the maxillary sinus.
+
+ (Sohn et al 2008) reported simultaneous placement of implants, and insertion of gelatin sponges demonstrate new bone formation through clinical and radiographic evaluations.
+
+ New bone formation was verified by stabilization of the elevated sinus membrane from the tenting effect of placement of dental implants and absorbable gelatin sponge without any bone graft material.
+
+ This study shows that there is great potential for new bone formation in the maxillary sinus without the use of additional bone grafts.
+
+ Systemic review showed that the survival rate for implants utilizing xenografts was statistically the same as for implants placed in particulate autogenous bone grafts .
+
+.
+
+ Maxillary Sinus Elevation and Simultaneous Implant Placement@highlight
+
+using gel foam [ absorbable gelatin ] in maxillary sinus elevation which act as a space maintainer and alternative to bone filler for new bone formation in the maxillary sinus and its advantages for patients undergoing maxillary sinus elevation with simultaneous implant placement as regards the implant stability and amount of bone height gain compared to conventional maxillary sinus elevation by xenograft.
+

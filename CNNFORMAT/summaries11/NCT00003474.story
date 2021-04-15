@@ -1,0 +1,24 @@
+(thirdQuint)Antineoplaston Therapy in Treating Adults With Residual/Recurrent/Progressive Glioblastoma Multiforme.
+
+ OVERVIEW: This is a single arm, open-label study in which adults ( 18 years of age) with residual/recurrent/progressed Glioblastoma Multiforme receive gradually escalating doses of intravenous Antineoplaston therapy (Atengenal + Astugenal) until the maximum tolerated dose is reached.
+
+ Treatment continues for at least 12 months in the absence of disease progression or unacceptable toxicity.
+
+ OBJECTIVES: - To determine the efficacy of Antineoplaston therapy in adults ( 18 years of age) with residual/recurrent/progressive Glioblastoma Multiforme following initial therapy, including radiotherapy, as measured by an objective response to therapy (complete response, partial response or stable disease).
+
+ - To determine the safety and tolerance of Antineoplaston therapy in adults ( 18 years of age) with residual/recurrent/progressive Glioblastoma Multiforme.
+
+ - To determine objective response, tumor size is measured utilizing MRI scans, which are performed every 8 weeks for the first two years, every 3 months for the third and fourth years, every 6 months for the 5th and sixth years, and annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 20-40 patients will be accrued to this study.
+
+.
+
+ Antineoplaston Therapy in Treating Adults With Residual/Recurrent/Progressive Glioblastoma Multiforme@highlight
+
+RATIONALE: Current therapies for Glioblastoma Multiforme provide very limited benefit to the patient.
+
+ The anti-cancer properties of Antineoplaston therapy suggest that it may prove beneficial in the treatment of brain tumors.
+
+ PURPOSE: This study is being performed to determine the effects (good and bad) that Antineoplaston therapy has on adults ( 18 years of age) with residual/recurrent/progressive Glioblastoma Multiforme.
+

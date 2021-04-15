@@ -1,0 +1,24 @@
+(firstQuint)P.
+
+ Gingivalis IgG Titer Test for Periodontitis.
+
+ Background: Periodontitis is a prevalent silent infectious disease worldwide, and affects lifestyle-related diseases such as diabetes.
+
+ Therefore, efficient screening of patients is essential for general health.
+
+ This study was performed to evaluate prospectively the diagnostic utility of a blood IgG antibody titer test against periodontal pathogens.
+
+ Methods: Oral examination was performed and blood IgG antibody titers against periodontal pathogens were measured by ELISA, in 1387 subjects.
+
+ The cut-off value of IgG titer was determined in receiver operating characteristic curve analysis, and changes in periodontal clinical parameters and IgG titers by periodontal treatment were evaluated.
+
+ The relationships between IgG titers and severity of periodontitis were analyzed.
+
+.
+
+ P.
+
+ Gingivalis IgG Titer Test for Periodontitis@highlight
+
+This study was performed to evaluate prospectively the diagnostic utility of a blood IgG antibody titer test against periodontal pathogens.
+

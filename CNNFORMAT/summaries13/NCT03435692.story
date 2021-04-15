@@ -1,0 +1,28 @@
+(thirdQuint)Post Operative Pain Control After Pediatric Hip Surgery.
+
+ Approximately 1 in 1,000 children born in the US have hip dislocation and 10 in 1,000 have hip subluxation requiring surgical intervention.
+
+ Pain after major hip surgery in children is severe, yet there is no agreement on the most effective method for pain control.
+
+ Post-operative pain modalities including lumbar epidural catheters (LEC), lumbar plexus catheters (LPC) and intravenous patient controlled analgesia (IV-PCA) have been described.
+
+ IV-PCA has historically been the standard of care in spite of its numerous associated side effects.
+
+ Regional anesthesia modalities have gained popularity because of superior pain control with lower opioid requirements.
+
+ In this study, the investigators describe the first prospective randomized controlled trial comparing lumbar plexus catheter to alternatives for post-operative pain management in children after major hip surgery.
+
+ The investigators hypothesized that LPC would be as safe and efficacious as LEC and IV-PCA with the added advantage of a decreased length of stay.
+
+ The investigators primary aim was to compare hospital length of stay.
+
+ Secondary aim was to compare pain scores, opioid consumption and opioid-related side effects.
+
+.
+
+ Post Operative Pain Control After Pediatric Hip Surgery@highlight
+
+Hip surgery in children is painful and the optimal modality for managing post-operative pain has not been established.
+
+ This prospective randomized controlled trail compares lumbar plexus catheter (LPC), lumbar epidural catheter (LEC) and continuous patient-controlled analgesia with intravenous morphine (PCA).
+

@@ -1,0 +1,36 @@
+(fifthQuint)A Representational Intervention to Promote Preparation for End-of-life Decision Making.
+
+ Dialysis is central to survival for 450,000 Americans with end-stage renal disease (ESRD).
+
+ Yet patients on dialysis have significant comorbidities and high mortality rates (24% annually).
+
+ One out of four ESRD patient deaths occurs after a decision to stop dialysis.
+
+ However, when persons have lost their decision capacity if there has been no prior discussion between the patient and surrogate regarding goals of care, the issue of whether to continue dialysis can pose an ethical impasse and cause profound psychological distress for surrogate decision makers.
+
+ Using the representational approach to patient education, we developed and pilot tested the SPIRIT intervention (Sharing the Patient's Illness Representation to Increase Trust) to improve discussions about end-of-life care between patients and their surrogate decision makers.
+
+ SPIRIT is a 6-step, 2-session, face-to-face intervention presented to both patient and surrogate by a trained interventionist in an interview format.
+
+ The proposed randomized controlled trial will test the effects of the SPIRIT intervention in improving preparedness for end-of-life decision making among ESRD patients and their surrogates and reducing surrogates' conflict during decision making and psychosocial morbidities.
+
+ Subjects will be 200 Caucasian and African-American patients with ESRD recruited from outpatient dialysis clinics and their chosen surrogate decision makers.
+
+ Preparedness outcomes (dyad congruence, patient decisional conflict, and surrogate decision making confidence) will be measured at 2, 6, and 12 months post-intervention.
+
+ Surrogate decisional conflict and psychosocial morbidities (anxiety, depression, and post-traumatic distress symptoms) will be measured 2 weeks after the patient's hospitalization that required surrogate decision making.
+
+ To compare the effects of SPIRIT to those of standard care on surrogates after the patient's death, psychosocial morbidities will be measured at 3 and 6 months after the patient's death.
+
+ We will also explore the potential impact of race on intervention effects and examine mediators and moderators of the intervention effects.
+
+.
+
+ A Representational Intervention to Promote Preparation for End-of-life Decision Making@highlight
+
+The proposed randomized controlled trial will test the SPIRIT (Sharing the Patient's Illness Representations to Increase Trust) intervention designed to improve discussions about end-of-life care between patients and their surrogate decision makers.
+
+ Subjects will be 200 Caucasian and African-American patients with ESRD (end-stage renal disease) recruited from outpatient dialysis clinics and their chosen surrogate decision makers.
+
+ We hypothesize that (1) SPIRIT will lead to significantly less patient decisional conflict and significantly greater dyad congruence and surrogate decision making confidence than the standard care control at 2, 6, and 12 months post-intervention and (2) SPIRIT will reduce surrogate decisional conflict and psychosocial morbidities at 2 weeks after the patient's hospitalization requiring surrogate decision making significantly more than the standard care control.
+

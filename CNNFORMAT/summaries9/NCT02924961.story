@@ -1,0 +1,32 @@
+(fifthQuint)Fluoroscopic and RSA Evaluation of the Triathlon Total Knee Prosthetic Design.
+
+ The goal of this study is to perform a kinematic evaluation of a MB and FB knee prosthesis designs (Triathlon, Stryker, USA), by means of fluoroscopy and RSA and compare the different designs.
+
+ The findings of this study will contribute to improve total knee designs and improve rehabilitation strategies.
+
+ Objectives: 1.
+
+ To evaluate if there is micromotion of the prosthesis with respect to the bone and if there is a different migration pattern between the designs.
+
+ 2.
+
+ To assess and compare the in vivo kinematic patterns of the knee designs by means of fluoroscopy.
+
+ This will be done on a subset of the patients (the first 20 patients able to perform step-up and lunge motions 6 months post-operatively in a controlled manner without the use of bars and walk more than 1 km) 3.
+
+ To evaluate if the polyethylene bearing in the mobile bearing is rotating and if this changes over time.
+
+ 4.
+
+ Results of the RSA study will be used to correlate the kinematic parameters (fluoroscopy) with the migration results in order to identify factors of risk for the survival of total knee prostheses.
+
+.
+
+ Fluoroscopic and RSA Evaluation of the Triathlon Total Knee Prosthetic Design@highlight
+
+The goal of this study is to compare the fixed bearing (FB) Triathlon knee (Stryker, USA) and the mobile bearing (MB) Triathlon knee (Stryker, USA) and study the effect of implant design on kinematics and micromotion.
+
+ During two tasks the kinematics measured with fluoroscopy (kinematics and movement of the polyethylene bearing).
+
+ Roentgen Stereophotogrammetric Analysis (RSA) will be used to evaluate micromotion between prosthesis and the bone for the MB and FB Triathlon knee.
+

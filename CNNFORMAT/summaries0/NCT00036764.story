@@ -1,0 +1,25 @@
+(secondQuint)BMS-247550 in Treating Patients With Stage IV Melanoma.
+
+ OBJECTIVES: I.
+
+ Determine the efficacy of BMS-247550 in patients with stage IV melanoma.
+
+ II.
+
+ Determine the toxicity of this drug in these patients.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified according to the number of prior chemotherapy regimens (0 vs 1-2, including dacarbazine or temozolomide).
+
+ Patients receive BMS-247550 IV over 1 hour on days 1, 8, and 15.
+
+ Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+.
+
+ BMS-247550 in Treating Patients With Stage IV Melanoma@highlight
+
+Phase II trial to study the effectiveness of BMS-247550 in treating patients who have stage IV melanoma.
+
+ Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die

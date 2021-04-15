@@ -1,0 +1,20 @@
+(firstQuint)Evaluation of the Endovascular Repair for Aortic Aneurysm (EVAR) Program at LHSC.
+
+ Abdominal Aortic Aneurysms have been traditionally repaired using the standard open surgical technique.
+
+ The use of Endovascular stent grafts(EVAR) to treat aortic aneurysms has been ongoing for approximately 8-10 years.
+
+ Use of EVAR to treat aortic aneurysms in high risk has been reported to be beneficial.
+
+ However, the costs of this therapy are quite significant and therefore in order to best understand the cost effectiveness of this type of aneurysm treatment, an extensive prospective comparative evaluation is required.
+
+ This study will compare outcomes and cost-effectiveness for patients receiving EVAR, with high surgical risk, and OSR, with low surgical risk, and OSR, where there is high surgical risk and not suitable for EVAR based on anatomical complexity.
+
+ Demographic, medical, health care resource utilization, cost, and quality of life information is collected from participating patients over a period of a year following repair.
+
+.
+
+ Evaluation of the Endovascular Repair for Aortic Aneurysm (EVAR) Program at LHSC@highlight
+
+The purpose of this study is to compare the cost effectiveness, quality of life and outcomes of the endovascular stent graft repair with the open surgical repair of abdominal aortic aneurysms.
+

@@ -1,0 +1,22 @@
+(secondQuint)Improving Sleep for Healthy Hearts.
+
+ For this pilot study, the investigators will recruit up to 30 participants with insomnia and coronary heart disease.
+
+ Another 30 patients will be recruited from another institution.
+
+ Patients will be screened with a modified version of the Insomnia Severity Index (ISI), a brief self-report instrument validated for identifying insomnia.
+
+ The investigators will modify the ISI to include exclusionary criteria.
+
+ The investigators will randomize participants to 6 weeks of access to web based cognitive behavioral therapy for insomnia (wCBT-I) using an internet based CBT-I program plus education provided through access to the Harvard Sleep Education web site (which provides general sleep education information only) compared to 6 weeks of access to the Harvard Sleep Education web site, followed by access to the web-CBT program (a wait list control group).
+
+ The investigators will test the hypothesis that use of wCBT-I improves sleep quality and sleep duration as measured by sleep diaries and the ISI.
+
+ A secondary goal of the study is to assess the recruitment yields, retention and adherence rates.
+
+.
+
+ Improving Sleep for Healthy Hearts@highlight
+
+This is a pilot study randomizing patients with insomnia and coronary heart disease to either general sleep hygiene counseling and web-based cognitive behavioral therapy for insomnia versus general sleep hygiene counseling alone (followed by the cognitive behavioral therapy at a later date).
+

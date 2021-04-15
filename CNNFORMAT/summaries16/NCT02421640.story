@@ -1,0 +1,24 @@
+(secondQuint)Phase II Trial of TIL Following CCRT in Patients With Locoregionally Advanced NPC.
+
+ Nasopharyngeal carcinoma (NPC) is endemic in Southern China and Southeast Asia.
+
+ For locoregionally advanced NPC,especially for the high risk NPC (EB virus DNA 4000 copies/ml) ,the incidence of treatment failure is still high.
+
+ Although concurrent chemoradiotherapy (CCRT) can improve the treatment outcomes of these patients, approximately 25% of locoregionally advanced NPCs relapse.
+
+ Adjuvant chemotherapy or inducing chemotherapy addition to CCRT did not significantly improve patient survival compared to CCRT alone.
+
+ Hence, there is an urgent need for novel therapies to improve disease-free survival and reduce treatment-related toxicity in patients.
+
+ Accumulating evidence shows that tumor-infiltrating lymphocytes (TILs) selected for tumor recognition and greatly expanded in vitro are especially effective for treating cancer patients.
+
+The investigations phase I results showed that TILs following CCRT as a novel treatment strategy in locoregionally advanced NPC patients resulted in sustained anti-tumor activity and anti-EBV immune responses, associated with a good tolerance.
+
+ This is a Phase II trial to study the effectiveness and security of cisplatin CCRT plus TIL versus cisplatin CCRT only with IMRT in treating patients with locoregionally advanced high risk NPC.
+
+.
+
+ Phase II Trial of TIL Following CCRT in Patients With Locoregionally Advanced NPC@highlight
+
+This is a Phase II trial to study the effectiveness and security of cisplatin concurrent chemoradiotherapy plus TIL versus cisplatin concurrent chemoradiotherapy only with IMRT in treating patients with locoregionally advanced high risk nasopharyngeal carcinoma.
+

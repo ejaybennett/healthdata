@@ -1,0 +1,30 @@
+(thirdQuint)Cranberry Tablets Versus Nitrofurantoin Prophylaxis for Urinary Tract Infection Prevention After Urogynecologic Surgery.
+
+ We plan to conduct a double-blinded randomized clinical trial involving women who undergo surgery for pelvic organ prolapse and/or urinary incontinence.
+
+ Participants who need transurethral catheterization postoperatively will be randomized to cranberry capsules or nitrofurantoin prophylaxis.
+
+ Randomization will be performed the day of discharge.
+
+ Both participants and surgeons will be blinded to treatment allocation.
+
+ All participants will receive routine perioperative intravenous antibiotic prophylaxis.
+
+ Participants who fail their voiding trial after surgery and require transurethral catheterization upon discharge from the hospital will be randomized to either one cranberry capsule (TheraCran one(R), Theralogix, LLC, Rockville, Maryland) or one 100 mg capsule of nitrofurantoin by mouth daily beginning postoperative day #1.
+
+ Participants randomized to the cranberry capsule group will continue to take one cranberry capsule daily for 28 days.
+
+ Participants randomized to the nitrofurantoin group will continue to take 100 mg of nitrofurantoin each day transurethral catheterization is needed for up to 28 days.
+
+ All participants will be scheduled for a repeat voiding trial within 48 hours to 1 week after discharge.
+
+ All participants will complete a daily catheterization and medication diary to record the type of catheterization used (indwelling or intermittent) and to confirm they are taking the study medication for the duration of the study period.
+
+ They will also be asked to record any urinary symptoms they experience and will be encouraged to contact the office immediately if they experience urinary symptoms consistent with a UTI.
+
+.
+
+ Cranberry Tablets Versus Nitrofurantoin Prophylaxis for Urinary Tract Infection Prevention After Urogynecologic Surgery@highlight
+
+We aim to compare the effectiveness of cranberry capsules versus nitrofurantoin prophylaxis in preventing urinary tract infections (UTIs) after urogynecologic surgery by conducting a double-blinded randomized clinical trial involving women with pelvic organ prolapse and/or urinary incontinence scheduled to have surgery with the Urogynecologists who comprise the Brigham and Women's Urogynecology Group.
+

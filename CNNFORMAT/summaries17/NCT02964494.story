@@ -1,0 +1,34 @@
+(fifthQuint)The Congenital Dyserythropoietic Anemia Registry (CDAR).
+
+ To establish and maintain a CDA registry (CDAR): a comprehensive registry of subjects with the diagnosis of any type of congenital dyserythropoietic anemia in North America.
+
+ Subjects and their physicians have expressed interest in participating in a national/international registry that could promote research and further understanding of this rare disease-group.
+
+ CDAs consist a heterogeneous group of rare genetic disorders causing ineffective erythropoiesis with the characteristic finding of multinuclear erythroid precursors in the bone marrow.
+
+ The other hematopoietic lineages seem unaffected.
+
+ The diagnosis of CDA is clinically challenging and is based on identifying the characteristic morphology of erythroblasts in the bone marrow of subjects presenting with chronic anemia, frequently with evidence of hemolysis but suboptimal reticulocytosis, and iron overload.
+
+ Three types are well-defined by marrow morphology, although a recent classification recognizes seven different genetic types.
+
+ Since certain gene defects were identified in the different types of CDAs, our understanding of the biology and pathogenesis of these diseases has been improving.
+
+ However, many gaps still exist in our understanding of the related molecular mechanisms primarily due to the rarity of the disease and the lack of systematic approach to study these subjects.
+
+ In addition, the heterogeneity observed among subjects and the clinical overlap with other hematologic disorders, namely hemolytic anemias with brisk erythropoietic response that may be associated with erythroid dysplasia, and with ineffective erythropoiesis, further complicates the diagnosis and often delays appropriate diagnosis and therapy.
+
+ The purpose of CDAR will be to establish a database and bio-repository for CDA subjects and their families in order to systematically study this rare disease-group.
+
+ Data regarding these subjects will be collected confidentially at initial presentation or diagnosis and periodically thereafter over a long period of time (>15 years).
+
+ In addition, blood, bone marrow and/or DNA samples of enrolled subjects will be stored for research studies with the aim to improve our understanding, diagnosis, and treatment of CDA.
+
+.
+
+ The Congenital Dyserythropoietic Anemia Registry (CDAR)@highlight
+
+The investigators propose the creation and maintenance of a comprehensive registry for patients with the diagnosis of Congenital Dyserythropoietic Anemia (CDA) in North America.
+
+ The goal of this registry will be to collect long-term confidential data on patients with CDA in the US, Canada, and Mexico and create a bio-repository of de-identified patient blood and bone marrow specimens as a tool for the investigation of epidemiology, natural history, biology, and molecular pathogenetic mechanisms of CDA.
+

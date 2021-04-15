@@ -1,0 +1,16 @@
+(secondQuint)Central Sensitization in Chronic Whiplash Patients.
+
+ Persistent chronic pain is a common symptom of whiplash leading to reduced quality of life.
+
+ Little information is available regarding changes in brain processing areas and change in central sensitization to noxious input during the chronic phase of whiplash.
+
+ Metabolite concentrations in the anterior cingulate cortex and periaqueductal gray matter may be predictors of neuropathic pain and these changes may explain the development of central sensitization in people with chronic whiplash.
+
+ Until now, there is not any study that show this approach.
+
+.
+
+ Central Sensitization in Chronic Whiplash Patients@highlight
+
+The purpose of this study is to determine whether the metabolite concentrations within the anterior cingulate cortex and periaqueductal gray matter predict the intensity and interference of neuropathic pain after the development of chronic whiplash syndrome.
+

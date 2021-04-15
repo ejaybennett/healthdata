@@ -1,0 +1,34 @@
+(thirdQuint)Efficacy of Multimodal Peri- and Intraarticular Drug Injections in Total Knee Arthroplasty.
+
+ Total knee arthroplasty (TKA) is increasingly common in the treatment of knee osteoarthritis.
+
+ TKA is associated with moderate to severe postoperative pain, causing patient discomfort, mobilisation and hospital discharge.
+
+ Continuous epidural analgesia is often used for controlling pain after TKA.
+
+ Recent studies describe a new method for pain control after total knee arthroplasty which consists of local infiltration with local anesthetics and adrenaline.
+
+ This infiltrations can be combined with ketorolac and/or morphine.
+
+ The aim of this study is to: 1.
+
+ Compare analgetic efficacy of to types of local infiltration analgesia in total knee arthroplasty.
+
+ 2.
+
+ Compare analgetic efficacy of local infiltration analgesia with continuous epidural analgesia.
+
+.
+
+ Efficacy of Multimodal Peri- and Intraarticular Drug Injections in Total Knee Arthroplasty@highlight
+
+Total knee arthroplasty (TKA) is associated with moderate to severe postoperative pain, causing patient discomfort, mobilisation and hospital discharge.
+
+ The aim of this study is to: 1.
+
+ Compare analgetic efficacy of to types of local infiltration analgesia in total knee arthroplasty.
+
+ 2.
+
+ Compare analgetic efficacy of local infiltration analgesia with continuous epidural analgesia.
+

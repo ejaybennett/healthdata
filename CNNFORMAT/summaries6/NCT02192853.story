@@ -1,0 +1,34 @@
+(thirdQuint)Correlation Between Plasma- and Endothelial DPP-4 Activity.
+
+ The two incretin hormones glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are secreted from the intestinal L- and K- cells, respectively in response to ingestion of nutrients.
+
+ The two hormones are able to lower blood glucose levels during high glucose levels - by the so called incretin effect.
+
+ GIP and GLP-1 are both rapidly inactivated by the enzyme dipeptidyl peptidase 4 (DPP-4).
+
+ The remaining metabolites are without insulinotropic effects.
+
+ The effect of DPP-4 inhibitors used in treatment of type 2 diabetes relies on their impact on DPP-4 activity.
+
+ DPP-4 exists in a soluble form in plasma ad as a membrane-bound form in blood vessels and other tissues.
+
+ The impact of DPP-4 inhibitors on DPP-4 activity has only been evaluated in plasma.
+
+ We aim to investigate plasma and endothelial DPP-4 activity (i.
+
+e.
+
+ whole-body DPP-4 activity) in patients with type 2 diabetes during different doses of the DPP-4 inhibitor sitagliptin.
+
+ Both healthy control subjects and patients with type 2 diabetes are subjected to 4 experimental days (in a randomized order) with continuous infusion of GLP-1 and pre-treatment with 25 mg sitagliptin, 100 mg sitagliptin, 200 mg sitagliptin and placebo, respectively.
+
+ Afterwards, we are going to measure the whole-body DPP-4 activity by comparing plasma levels of active (intact) GLP-1 and total GLP-1, and relate to plasma DPP-4 activity.
+
+.
+
+ Correlation Between Plasma- and Endothelial DPP-4 Activity@highlight
+
+The investigators want to estimate both the endothelial and the plasma activity of dipeptidyl peptidase 4 during different doses of sitagliptin in healthy subjects and patients with type 2 diabetes.
+
+ Furthermore, the investigators want to investigate whether the current clinical dose of 100 mg of sitagliptin is sufficient to inhibit both the plasma and the endothelial activity of the enzyme dipeptidyl peptidase 4.
+

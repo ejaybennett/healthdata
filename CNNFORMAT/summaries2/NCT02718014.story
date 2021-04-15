@@ -1,0 +1,18 @@
+(firstQuint)Evaluation of Periodontal Response to Non Surgical Therapy in Pre and Post Menopausal Women With Periodontitis.
+
+ AIM: The aim of the present study was to evaluate periodontal status in pre and post-menopausal women with periodontitis following non-surgical therapy.
+
+ MATERIALS AND METHODS: Periodontal status was measured by Periodontal index (PRI), and oral hygiene status was measured by plaque index (PI).
+
+ Both the parameters were measured at baseline i.
+
+e before Scaling and Root Planing (SRP) and after 3 months intervals post treatment.
+
+ SRP was done in both pre&post menopause groups.
+
+.
+
+ Evaluation of Periodontal Response to Non Surgical Therapy in Pre and Post Menopausal Women With Periodontitis@highlight
+
+The present study was evaluated periodontal status in pre and post-menopausal women with periodontitis following non-surgical therapy.
+

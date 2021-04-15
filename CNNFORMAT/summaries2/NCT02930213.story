@@ -1,0 +1,20 @@
+(firstQuint)The Core Body Temperature Rhythms: Distinguishing MCS From UWS.
+
+ Living beings have multicomponent biological rhythms.
+
+ There was a research recorded 24-h virations in electroencephalographic patterns.
+
+ In normal subjects, the circadian rhythms of core body temperature is close to 24 h.
+
+ When the interference of environmental and mental elements were eliminated, circadian rhythm shows the endogenous circadian rhythm of body acquiescently (>24h ), which is also called free-running period.
+
+ Measuring the continuous external auditory canal temperature of 4 unresponsive wakefulness syndrome (UWS) and 3 minimally conscious state(MCS) on the fluorescent lamp surrounding every 2 hours for 168 hours starting at 00:00 on the first day to address circadian capabilities.
+
+ Researchers expected to see the difference between MCS and UWS.
+
+.
+
+ The Core Body Temperature Rhythms: Distinguishing MCS From UWS@highlight
+
+In this study, the core body temperature of 7 disorders of consciousness ( DOC ) patients were measured every 2 hour for 168 h .
+

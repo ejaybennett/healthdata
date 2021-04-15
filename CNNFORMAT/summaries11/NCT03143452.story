@@ -1,0 +1,25 @@
+(firstQuint)Comparison Between 2% Lidocaine Gel and 5% Tetracaine Eye Drop as Topical Anesthesia in Phacoemulsification.
+
+ Approval from Ethical Committee of Faculty of Medicine Universitas Indonesia was acquired prior conducting the study.
+
+ Subjects were given informed consent before enrolling the study and randomized into two groups (Lidocaine gel and tetracaine eye drop group).
+
+ Lidocaine group received 2% lidocaine gel in 1 ml syringe, applied to the eye.
+
+ Tetracaine group received 0.
+
+5% tetracaine eye drop.
+
+ Topical anesthesia was given 5 minutes before phacoemulsification.
+
+ Five minutes after phacoemulsification finished, visual analog score (VAS) and subjects and surgeon's satisfaction were assessed.
+
+ Every additional topical anesthesia needed was recorded.
+
+.
+
+ Comparison Between 2% Lidocaine Gel and 5% Tetracaine Eye Drop as Topical Anesthesia in Phacoemulsification@highlight
+
+This study aimed to compare the efficacy between 2% lidocaine gel vs 0.
+
+5% tetracaine eye drop as topical anesthesia in phacoemulsification

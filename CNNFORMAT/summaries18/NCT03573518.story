@@ -1,0 +1,12 @@
+(firstQuint)Evaluation of BTX 1503 in Patients With Moderate to Severe Acne Vulgaris.
+
+ This will be a multi-center, randomized, double-blinded, vehicle-controlled, parallel group, dose-finding study in pediatrics, adolescents and adults (aged 12 to 40 years).
+
+ The objective of this study is to assess the safety and efficacy of various doses of BTX 1503 in subjects with moderate to severe acne vulgaris of the face.
+
+.
+
+ Evaluation of BTX 1503 in Patients With Moderate to Severe Acne Vulgaris@highlight
+
+The objective of this study is to assess safety and efficacy of various doses of BTX 1503 liquid formulation in subjects with moderate to severe acne vulgaris of the face.
+

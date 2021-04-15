@@ -1,0 +1,20 @@
+(thirdQuint)Optimal Injection Site for Serratus Anterior Plane Block in Reconstructive Breast Surgery.
+
+ Analgesia for reconstructive breast surgery can be a challenging undertaking; these women have often been through painful mastectomy procedures coupled with the mental and physical discomfort of chemotherapy and its attendant side effects.
+
+ Additionally, the surgery itself can provoke significant pain; often requiring extensive dissection of soft tissue and muscle to provide flap coverage as well the real discomfort of tissue expansion.
+
+ The literature has described 2 possible injection sites for the Serratus Anterior Block, however, no study has defined optimal location based on analgesia and duration.
+
+ Patients will be randomized to receive a "deep" Serratus Anterior Block (DSAB) where local anesthetic is deposited deep to the serratus or a "superficial" Serratus Anterior Block (SSAB) where the local anesthetic is placed between serratus and latissimus dorsi.
+
+ The investigator will then evaluate the difference based on pain scores, opiate consumption, length of hospital stay, as well as nausea and vomiting.
+
+.
+
+ Optimal Injection Site for Serratus Anterior Plane Block in Reconstructive Breast Surgery@highlight
+
+The novel introduction of various chest wall blocks such as the Pecs I and II/modified Pecs blocks as well as the Serratus Anterior Plane Block have extended the application of perioperative regional anesthesia to provide analgesia for breast surgery.
+
+ However, to our knowledge, there are no large studies that truly delineate the optimal injection site for the Serratus Anterior Plane Block.
+

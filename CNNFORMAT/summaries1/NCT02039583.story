@@ -1,0 +1,78 @@
+(secondQuint)Impact of Smoke-free Legislation on Early-life Mortality and Low Birth Weight in England.
+
+ Primary research question Has there been a change in the numbers of babies being born with low birth weight or dying in the perinatal or infant period following the 1 July 2007 introduction of a ban on smoking in public places in England? Study design Retrospective cohort study (using prospective routinely collected health care data) Study population All singleton births in England between 1 January 1995 and 31 December 2011.
+
+ Intervention The intervention under study is the ban on smoking in enclosed public places and the workplace implemented in England overnight on 1 July 2007.
+
+ Inclusion and exclusion criteria We will include all registered singleton births in England occurring between 1 January 1995 and 31 December 2011.
+
+ This is the maximum time period surrounding the ban's introduction for which the required birth data are available through the data source.
+
+ Data were originally extracted for 1 January 1993 to 31 December 2011.
+
+ However, postcode was not recorded in 1993-1994, leading to missing values for Index of Multiple Deprivation (IMD) quintile, region, and urbanisation level in this period.
+
+ As these variables were considered key potential confounders in the primary analyses, a decision was made to restrict the modelling to the time period 1 January 1995-31 December 2011.
+
+ International Classification of Disease (ICD) coding changed from version 9 to 10 as of January 2001, leading to an important drop in recorded SIDS cases.
+
+ Therefore, analyses of SIDS are restricted to the time period 2001-2011.
+
+ Babies with chromosomal anomalies will be excluded.
+
+ Outcome The primary outcomes are: - Low birth weight (birth weight 4000 grams - Maternal age: 40 years - Parity: 0, 1, 2, 3 - IMD: quintiles - Region: 10 regions - Urbanisation level: urban, rural Sample size Sample size calculation for time-oriented analyses is complicated given the complexity of the models.
+
+ We will use national data for the current study, which will - to the best of our knowledge - be the largest evaluation of the impact of smoke-free legislation on perinatal health, both regarding population size and time span.
+
+ As we use the maximum time span and population available, sample size calculation can in a way be considered redundant.
+
+ We are aware of only one published study on smoke-free legislation and early-life mortality (reference 1).
+
+ Due to design issues it is not possible to involve data from this study for comparison to the current study.
+
+ A number of studies have previously assessed the impact of smoke-free legislation on low birth weight.
+
+ Our proposed approach is best comparable to that performed earlier in Scotland (reference 2).
+
+ Using Scottish data on 757,795 deliveries occurring between 1996 and 2009, they showed an immediate -9.
+
+9% (95%CI -14.
+
+2; -5.
+
+2) drop in low-birth-weight-babies.
+
+ Given the longer study period (1993-2011) and the much larger population size (n>10 million) our study can be expected to have sufficient power to detect a similar reduction in low-birth-weight-babies in England, if present.
+
+ Statistical analysis Relevant population characteristics will be described.
+
+ Logistic regression analysis will be performed to investigate the association between introduction of smoke-free legislation and sudden ('step') and/or gradual ('slope') changes (as appropriate) in the odds of developing each outcome.
+
+ Analyses will be adjusted for birth weight, sex, maternal age, maternal marital status, parity (secondary analyses only, see below), IMD quintile, region, and urbanisation level.
+
+ Seasonal patterning and non-linearity of the underlying time trend will be accounted for as appropriate.
+
+ Final model selection will be based on Akaike's and Bayesian information criteria (AIC and BIC).
+
+ The denominator for the analyses will differ according to the various outcomes: - stillbirths: all births in the dataset - low birth weight, very low birth weight, neonatal mortality, early neonatal mortality, infant mortality: all livebirths in the dataset - late neonatal mortality: all livebirths in the dataset surviving the early neonatal period - post-neonatal mortality: all livebirths in the dataset surviving the neonatal period The primary analyses will be performed on cases with complete data on all covariates.
+
+ Parity is the only variable that has >10% missing data (approximately 40-50%), as it is only recorded in married women.
+
+ As parity is not expected to be a key confounder, we will perform the primary analyses without involving parity in the models in order to maximise population size.
+
+ Sensitivity analyses To assess possible confounding by parity, sensitivity analyses will be performed that include parity in the model.
+
+ In a second set of sensitivity analyses, imputation will be performed to investigate the robustness of the findings to missing data.
+
+ In order to minimise issues regarding multiple testing, sensitivity analyses will be performed for the primary outcomes only.
+
+ All analyses will be performed using Stata 12.
+
+0.
+
+.
+
+ Impact of Smoke-free Legislation on Early-life Mortality and Low Birth Weight in England@highlight
+
+The purpose of this study is to investigate whether there has been a change in low birth weight and perinatal and infant mortality following the July 2007 introduction of a ban on smoking in public places and workplaces in England.
+

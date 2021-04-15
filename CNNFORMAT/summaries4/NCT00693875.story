@@ -1,0 +1,34 @@
+(thirdQuint)The Incidence of Intra-Operative Awareness in China and Analysis of Relevant Factors: a Multicentre Study.
+
+ Background: The incidence of awareness in patients undergoing general anesthesia has been reported in as many as 0.
+
+1~0.
+
+2% in western countries.
+
+ But so far,medical literature about awareness during general anesthesia is still rare in China, and some small sampled studies in China showed a significantly higher incidence (1.
+
+5~6%) of intra-operative awareness.
+
+ We believed that this multicenter, large sampled, prospective study would be very necessary for us to determine the incidence of intra-operative awareness in China, and analysis of the relevant factors would help us to understand why was the incidence of awareness in China much higher than that in western countries.
+
+ Methods: This is a prospective, nonrandomized descriptive cohort study that was conducted at 25 academic medical centers in China.
+
+ 11,197 patients (age>12, intubation or LMA during anesthesia) form 25 medical centers were enrolled to be interviewed by research stuff for evaluation of awareness at the 1st and 4th day after their general anesthesia.
+
+ The structured interview questions were:(1)What is the last thing you remembered before you went to sleep? (2)What is the first thing you remembered when you woke up? (3)Can you remember anything between these two periods? (4)Did you dream during your operation? (5)What was the worst thing about your operation? An evaluation committee independent from the research stuff was constituted to verify the data from the medical centers.
+
+ And then the incidence of intra-operative awareness in China was determined.
+
+ General condition and details of the anesthesia procedure of the patients were also recorded during the anesthesia for a binary logistic regression analysis.
+
+.
+
+ The Incidence of Intra-Operative Awareness in China and Analysis of Relevant Factors: a Multicentre Study@highlight
+
+Medical literature about awareness during general anesthesia is rare in China, and some small sampled studies in China showed a significantly higher incidence (1.
+
+5~6%) of intra-operative awareness compared with western countries.
+
+ The investigators sponsored this multicenter, large sampled, prospective study to determine the incidence of intra-operative awareness in China, and the preservation effect of BIS monitor on the incidence of awareness.
+

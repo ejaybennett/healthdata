@@ -1,0 +1,22 @@
+(firstQuint)Comparative and Pragmatic Study of Golimumab Intravenous (IV) (Simponi Aria) Versus Infliximab (Remicade) in Rheumatoid Arthritis.
+
+ This is a prospective, noninterventional (no treatment medication provided by the study), observational (study in which the investigators/ physicians observe the patients and measure their outcomes), multicenter (study conducted at multiple sites) study of Golimumab IV and Infliximab in RA patients.
+
+ The study allows for an anticipated 2-year enrollment period and a 3-year study duration for each patient.
+
+ No interventions will be given to patients as a part of this study.
+
+ This study will be conducted in the US, at rheumatology-based clinical practices and will enroll adult RA patients who meet all entry criteria.
+
+ The primary endpoint of this study is the proportion of patients with an infusion reaction through Week 52.
+
+ Patients will be enrolled in a 1:1 ratio to initiate treatment with either Golimumab IV or Infliximab.
+
+ Patients' safety will be monitored throughout the study.
+
+.
+
+ Comparative and Pragmatic Study of Golimumab Intravenous (IV) (Simponi Aria) Versus Infliximab (Remicade) in Rheumatoid Arthritis@highlight
+
+The purpose of this study is to compare the proportion of patients with an infusion reaction in Rheumatoid arthritis (RA) patients treated with Golimumab Intravenous (IV) or Infliximab.
+

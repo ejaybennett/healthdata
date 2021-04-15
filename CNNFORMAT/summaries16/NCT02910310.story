@@ -1,0 +1,28 @@
+(fifthQuint)Introduction of UBT for PPH Management in Three Countries.
+
+ To assess the effectiveness of introduction of the UBT, a stepped wedge cluster randomized design will be employed to monitor maternal health outcomes among vaginal deliveries occurring at all participating facilities during the study phases described below: Baseline phase: A baseline phase will be conducted in all participating sites before training and introduction of the UBT for PPH management.
+
+ This phase will consist of prospective data collection to establish the baseline rates of key study outcomes.
+
+ Step 1 intervention phase: In this phase, participating sites will be randomized such that half will receive training on use of the UBT for PPH management with subsequent introduction into their standard practice and half will continue data collection without UBT introduction.
+
+ Step 2 intervention phase: In this phase, the remaining sites will receive training on use of the UBT for PPH management with subsequent introduction into their standard practice.
+
+ During this phase, all participating sites will continue data collection to document study outcomes and all will be using UBT in their standard practice.
+
+ To assess the safety and acceptability of the use of UBT for PPH management, a nested cohort analysis will be done among women diagnosed with PPH during the stepped wedge trial.
+
+ The investigators will assess the rates of treatment of postpartum infection and examine acceptability of care provided among the following two cohorts of women: UBT group: All women diagnosed with PPH following a vaginal delivery and who have an attempted UBT placement (including successful or unsuccessful placements).
+
+ No-UBT group: All women diagnosed with PPH following a vaginal delivery that do not have an attempted UBT placement.
+
+.
+
+ Introduction of UBT for PPH Management in Three Countries@highlight
+
+This study is a prospective, systematic evaluation to assess the effectiveness and safety of introduction of UBT into PPH care at secondary level and district hospitals in 3 low-resource countries.
+
+ The first component of the evaluation is a prospective stepped wedge cluster randomized design to assess the potential reduction in PPH-related mortality and invasive procedures (blood transfusion, arterial ligation, hysterectomy and uterine arterial embolization) for PPH performed at participating facilities following introduction of UBT.
+
+ The second component is a nested cohort analysis to assess the safety and acceptability of UBT among women diagnosed with PPH.
+

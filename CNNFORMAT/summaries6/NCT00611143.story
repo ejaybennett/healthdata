@@ -1,0 +1,16 @@
+(firstQuint)Atorvastatin for Prevention of Postoperative Atrial Fibrillation After Off-Pump Coronary Artery Bypass Grafting Surgery.
+
+ Atrial fibrillation after cardiac surgery is the most common arrhythmic complication that may increase incidence of congestive heart failure, renal insufficiency, and stroke, which increase the length of hospital stay, the rates of re-hospitalization, and cost of care.
+
+ Its pathogenesis is multifactorial, and its prevention and management remain suboptimal.
+
+ Recently, observational evidence has suggested that patients who have undergone previous statin therapy have a lower incidence of postoperative atrial fibrillation.
+
+ The purpose of this study is to determine whether pretreatment with atorvastatin protects against atrial fibrillation following off-pump coronary artery bypass graft surgery.
+
+.
+
+ Atorvastatin for Prevention of Postoperative Atrial Fibrillation After Off-Pump Coronary Artery Bypass Grafting Surgery@highlight
+
+The purpose of this study is to determine whether pretreatment with atorvastatin protects against atrial fibrillation following off-pump coronary artery bypass graft surgery.
+

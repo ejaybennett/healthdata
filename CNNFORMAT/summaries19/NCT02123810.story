@@ -1,0 +1,16 @@
+(firstQuint)Quality of Chest Compressions After a Night Shift.
+
+ This is a non inferiority cluster randomized trial on three Emergency Departments (ED) and five Intensive Care Unit (ICU) from three urban academic hospital in Paris, France.
+
+ The investigators evaluated the quality of CC with a low-fidelity manikin and its electronic feedback device.
+
+ The investigators tested subjects on a 6-minutes CC-only CPR scenario, including 2 minutes of pause.
+
+ Physicians were tested either on a control day then after a night shift, or after a night shift then on a control day.
+
+.
+
+ Quality of Chest Compressions After a Night Shift@highlight
+
+The investigators sought to evaluate the influence of fatigue after a night shift on the quality of Chest Compressions (CC) in CardioPulmonary Resuscitation (CPR), among physicians.
+

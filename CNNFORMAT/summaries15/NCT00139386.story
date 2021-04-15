@@ -1,0 +1,50 @@
+(fifthQuint)Candesartan for Prevention of Cardiovascular Events After Cypher or Taxus Coronary Stenting (4C) Trial.
+
+ It was reported that low-dose angiotensin II receptor blocker, candesartan, was effective to prevent cardiovascular events in patients with coronary artery disease treated with coronary angioplasty (Am Heart J 146:E20, 2003).
+
+ In this study, patients without significant coronary stenosis on follow-up angiography 6 months after intervention were randomly assigned into a candesartan group (baseline treatment plus candesartan 4 mg/d) or a control group (baseline treatment alone).
+
+ It is well known that patients treated with drug-eluting stents (DES) have lower restenosis rate as compared with those with bare metal stents.
+
+ Therefore, we hypothesized that candesartan started immediately after DES implantation was effective to prevent cardiovascular events.
+
+ The primary endpoint is a composite of any cause death and cardiovascular events (nonfatal myocardial infarction, recurrent symptomatic myocardial ischemia, congestive heart failure, and stroke).
+
+ The secondary endpoints are target lesion revascularization, binary restenosis, newly onset diabetes and newly onset of atrial fibrillation.
+
+ Patient population which needs to prove the hypothesis is estimates to be 1,130 cases in total (565 cases in each group).
+
+ We set the parameters which are needed to calculate the number of study patients as follows; a drop out rate 10%, an event rate of the primary end point for 3 years 20%, a risk reduction rate brought by candesartan 25%, a statistical power 90% and a two-sided significance level 0.
+
+05.
+
+ We assumed the event rate from the study which was conducted to prove the effects of statins after PCI in Japan named MUSASHI-PCI.
+
+ Also the risk reduction rate from two major RCTs of candesartan conducted in Japan named the Ogaki and HIJ-CREATE studies.
+
+ In the Ogaki study, the risk reduction rate by candesartan was 52%.
+
+ However, stents used in the study were only BMS after surviving restenosis.
+
+ The risk reduction of the present study will be lower because of the higher onset rate of stent thrombosis in regard to DES.
+
+ Furthermore, the risk reduction rate of candesartan for Japanese was 11% reported in HIJ-CREATE.
+
+ The ACE-I usage rate was almost 70% in the control subjects of HIJ-CREATE.
+
+ In the present study, ACE-I will be administered less frequently as low as 30%.
+
+ Therefore, assumed risk reduction rate by candesartan in the present study could be higher.
+
+ Considering all the various factors together, a reasonable risk reduction rate could be 25%.
+
+.
+
+ Candesartan for Prevention of Cardiovascular Events After Cypher or Taxus Coronary Stenting (4C) Trial@highlight
+
+Candesartan is effective in preventing cardiovascular events in patients without restenosis after coronary angioplasty.
+
+ Therefore, the investigators hypothesized that candesartan after drug-eluting stent (DES) implantation was also effective in preventing cardiovascular events.
+
+ The purpose of this study is to investigate whether an angiotensin II receptor blocker, candesartan, is effective in reducing the incidence of cardiovascular events after drug-eluting stent implantation.
+

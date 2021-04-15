@@ -1,0 +1,34 @@
+(secondQuint)Dropless vs.
+
+ Standard Drops Contralateral Eye Study.
+
+ Key factors for a successful cataract surgery include, among others, preoperative measurements for accurate intraocular lens (IOL) calculation, surgical technique and surgeon's experience but also the use of prophylactic topical antibiotics and anti-inflammatories (steroidal and non-steroidal, NSAID) to decrease the risk of postoperative infection (i.
+
+e.
+
+ endophthalmitis) and intraocular inflammation (i.
+
+e.
+
+ macular edema, CME).
+
+ Even though, the large body of literature that supports the significance of prophylactic eye drops prior to surgery, patient compliance is a common problem.
+
+ Different factors have been associated with patient's lack of compliance.
+
+ It could be due to patient's inability to self administer the drops, lack of understanding of the importance of using the prophylactic treatment as well as understanding the instructions of how to administer the drops and its storage, or just forgetfulness or the fact that they don't like to put the drops multiple times a day for 2-4 weeks, therefore they just avoid doing it.
+
+ There is a new option called "Dropless cataract surgery".
+
+ This modality of treatment involves the injection of an eye compatible compound at time of cataract surgery.
+
+ The purpose of is to assess the efficacy the compound injected during routine cataract surgery and intraocular (IOL) implantation with and without a topical NSAID compared to standard prophylactic treatment that includes the topical use of Moxifloxacin, Ilevro, and Prednisolone acetate 1%.
+
+.
+
+ Dropless vs.
+
+ Standard Drops Contralateral Eye Study@highlight
+
+To compare the use of an injectable compound containing an antibiotic and an anti-inflammatory at time of cataract surgery to standard of care that is the use 3 different topical medications to prevent inflammation and infection after routine cataract surgery.
+

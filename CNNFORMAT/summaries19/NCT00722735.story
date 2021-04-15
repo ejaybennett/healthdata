@@ -1,0 +1,46 @@
+(firstQuint)Finafloxacin 300 mg Twice a Day (b.
+
+i.
+
+d.
+
+) Versus Ciprofloxacin 250 mg Twice a Day (b.
+
+i.
+
+d) in Patients With Lower Uncomplicated UTI (uUTI).
+
+ Patients with clinical signs and symptoms of uUTI who have a high probability of the required number of bacteria in their urine, measured by positive test for nitrite and /or leucocyte esterase by means of a dipstick will be enrolled in this study.
+
+ Only these patients with bacterial count equal or more than 10e5 cfu/mL will be included in the efficacy analysis.
+
+ At Baseline, patients will be randomly assigned (2:1) to receive Finafloxacin 300 mg or Ciprofloxacin 250 mg, following a double-dummy design, ie Group 1 will receive Finafloxacin tablets + Ciprofloxacin placebo capsule while Group II will receive Ciprofloxacin capsule + Finafloxacin placebo tablets.
+
+ The treatment will last in total 3 days.
+
+ The microbiological results will be compared with the baseline microbiology.
+
+ If the concentration of initial pathogen in the urine is equal or more than 10e3 cfu/mL in the post-therapy culture compared with the baseline , this will define a bacteriological eradication.
+
+ Microbiological assessment will be performed as well.
+
+ Evaluation of the bacteria reinfection or relapse will be performed, based on the microbiology results.
+
+ The status of clinical improvement and cure will be considered additionally.
+
+.
+
+ Finafloxacin 300 mg Twice a Day (b.
+
+i.
+
+d.
+
+) Versus Ciprofloxacin 250 mg Twice a Day (b.
+
+i.
+
+d) in Patients With Lower Uncomplicated UTI (uUTI)@highlight
+
+To compare the bacteriological eradication rates of Finafloxacin and Ciprofloxacin in female patients with uUTI.
+

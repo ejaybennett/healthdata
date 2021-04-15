@@ -1,0 +1,20 @@
+(secondQuint)A Study to Assess the Response Rate of PROCRIT (Epoetin Alfa) Given at a Dose of 40,000 Units Once a Week to Cancer Patients With Anemia Who Are Not Receiving Chemotherapy.
+
+.
+
+ This is an open-label (both the researcher and the patient in the study know the treatment that is being given), non-randomized, multi-center pilot study with the objective to investigate the efficacy of PROCRIT (Epoetin alfa) with regard to hematopoietic response when administered at 40,000 Units subcutaneously (under the skin) once per week in anemic patients with cancer not receiving chemotherapy or radiation therapy.
+
+ Hematological laboratory tests (hemoglobin and hematocrit), vital signs (blood pressure) and occurrence and severity of adverse events will be assessed throughout the study.
+
+ Patients will receive a PROCRIT (Epoetin alfa) injection (40,000 Units per injection) under the skin once every week for a maximum of 13 weeks.
+
+ Doses may be reduced depending on the patients' hemoglobin level.
+
+.
+
+ A Study to Assess the Response Rate of PROCRIT (Epoetin Alfa) Given at a Dose of 40,000 Units Once a Week to Cancer Patients With Anemia Who Are Not Receiving Chemotherapy.
+
+@highlight
+
+The purpose of this study is to evaluate the effectiveness and safety of PROCRIT (Epoetin alfa) administered at 40,000 Units weekly in cancer patients that are not receiving chemotherapy or radiation therapy.
+

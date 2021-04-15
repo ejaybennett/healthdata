@@ -1,0 +1,12 @@
+(secondQuint)The Use of Micro Vibratory Stimulation Technique to Control the Pain of Digit Block Anesthesia.
+
+ Research Question/Hypothesis The investigators hypothesize that patients who receive 1% lidocaine injections for digit blocks of the finger will experience less pain when the injection is accompanied by the use of a micro-vibratory stimulator (MVS) compared with patients who receive injections without the MVS.
+
+ Objectives The primary objective of this study is to compare the pain rating scale from an exposure group (digit block injection with the aid MVS) and the control group (traditional injection).
+
+.
+
+ The Use of Micro Vibratory Stimulation Technique to Control the Pain of Digit Block Anesthesia@highlight
+
+The investigators hypothesize that patients who receive 1% lidocaine injections for digit blocks of the finger will experience less pain when the injection is accompanied by the use of a micro-vibratory stimulator (MVS) compared with patients who receive injections without the MVS.
+

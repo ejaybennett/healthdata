@@ -1,0 +1,16 @@
+(firstQuint)Survival According to the Feeding Artery Obliteration by Chemoembolization for Unresectable Hepatocellular Carcinoma.
+
+ Subjective angiographic chemoembolization endpoints (SACE) levels were developed to standardize the embolic endpoints of transarterial chemoembolization (TACE) for hepatocellular carcinoma (HCC).
+
+ It determined the antegrade arterial flow and residual tumor blush as follows: I, normal-normal; II, reduced-reduced; III, reduced-none; IV, none-none.
+
+ SACE level II and III indicates intermediate-levels of embolization, whereas IV indicates overembolization.
+
+ The aim of this study was to evaluate whether survival of patients who underwent TACE with unresectable HCC can benefit from intermediate-levels of embolization.
+
+.
+
+ Survival According to the Feeding Artery Obliteration by Chemoembolization for Unresectable Hepatocellular Carcinoma@highlight
+
+The aim of this study was to evaluate whether survival of patients who underwent TACE with unresectable HCC can benefit from intermediate-levels of embolization.
+

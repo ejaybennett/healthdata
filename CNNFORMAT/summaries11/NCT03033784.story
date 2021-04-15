@@ -1,0 +1,44 @@
+(thirdQuint)Autism Oxytocin Brain Project.
+
+ This study consists of investigating the effects of several doses of acute administration of intranasal oxytocin on brain activity in adults with Autism Spectrum Disorder (ASD).
+
+ There is increasing evidence for the role of intranasal oxytocin (IN-OT) in enhancing social skills in ASD.
+
+ Nevertheless, there is still a need of determining target engagement for oxytocin's action on brain and behavior.
+
+ Here, investigators are studying the effects of different doses of IN-OT on the modulation of behavioral outcomes and neural responses in a double blind crossover study in individuals with ASD.
+
+ The aims of the research are to: 1.
+
+ Study the effects of IN-OT doses on the modulation of brain functional connectivity between key socio-emotional brain regions during resting state in ASD 2.
+
+ Study the effects of IN-OT doses on the BOLD activity of key emotional and perceptual brain networks in response to social cues (such as faces) 3.
+
+ Study the effects of IN-OT on the BOLD activity of brain regions during an interactive social environment (ball game) in ASD Investigators will compare the neuroimaging and behavioral results of individuals with ASD to control healthy males who will receive intranasal placebo.
+
+ Investigators are also investigating the role of genetic factors, behavioral or clinical sub-groups of ASD, immune and environmental factors in modulating the effect of IN-OT on brain and behavior.
+
+ Participants will undergo 4 clinical visits during which they receive various randomly assigned doses of intranasal oxytocin and placebo.
+
+ Both participants and the experimenter will be blind to the type of the treatment administered.
+
+ There will be only one visit for healthy controls who will all receive placebo spray.
+
+ The visit for healthy controls will be conducted in a single-blind design.
+
+ The experimenter will be aware that the subject is receiving placebo.
+
+ However, the participant will be told that he might receive oxytocin or placebo.
+
+.
+
+ Autism Oxytocin Brain Project@highlight
+
+The main goal of the study is to look at the effects of intranasal oxytocin on the brain in Autism Spectrum Disorder (ASD).
+
+ Oxytocin is a hormone that exists naturally in the body and the brain.
+
+ It affects a wide range of social behaviors and emotions.
+
+ Investigators also seek to study how the effects of oxytocin treatment can be affected by genetic, immune and environmental factors.
+

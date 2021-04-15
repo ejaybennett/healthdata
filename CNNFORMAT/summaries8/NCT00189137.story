@@ -1,0 +1,16 @@
+(secondQuint)Evaluation of Side Effects and Relative Activity of Two Chemotherapy Regimens in the Treatment Soft Tissue Sarcoma.
+
+ The purpose of this study is to explore the relative activity and toxicity of a newer combination of chemotherapy drugs, gemcitabine and docetaxel, as compared to a standard combination of chemotherapy drugs, ifosfamide and doxorubicin.
+
+ Ifosfamide and Doxorubicin, given in combination, are recognized as a standard of care for some types of sarcoma.
+
+ Both gemcitabine and docetaxel are approved by the US Food and Drug Administration (FDA) for the treatment of some cancers (cancers of the pancreas, lung) because patients with those cancers treated with either gemcitabine or docetaxel experienced shrinkage of their tumor or improvement in their symptoms.
+
+ However, neither gemcitabine or docetaxel is approved for sarcoma, but the combination of gemcitabine and docetaxel is a standard treatment for advanced sarcoma.
+
+.
+
+ Evaluation of Side Effects and Relative Activity of Two Chemotherapy Regimens in the Treatment Soft Tissue Sarcoma@highlight
+
+The purpose of this study is to explore how a sarcoma is affected by and the side effects of a newer combination of chemotherapy drugs(gemcitabine and docetaxel)as compared to a standard combination of chemotherapy drugs, ifosfamide and doxorubicin.
+

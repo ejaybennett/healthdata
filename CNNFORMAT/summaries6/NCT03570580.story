@@ -1,0 +1,28 @@
+(secondQuint)Inter Scorers Agreement for OSA Screening Scores.
+
+.
+
+ Four scores are usually performed to detect OSA (Obstructive Sleep Apnea) patients.
+
+ These four scores are: STOP-Bang, P-SAP, OSA50 and DES-OSA.
+
+ These scores have been previously validated.
+
+ However, a comparison between scorers in the realization of these scores has never been performed.
+
+ The aim of this study was to evaluate this agreement using statistical methods.
+
+.
+
+ Inter Scorers Agreement for OSA Screening Scores.
+
+@highlight
+
+Four scores are usually performed to detect OSA (Obstructive Sleep Apnea) patients.
+
+ These four scores are: STOP-Bang, P-SAP, OSA50 and DES-OSA.
+
+ These scores have been previously validated.
+
+ However, a comparison between scorers in the realization of these scores has never been performed.
+

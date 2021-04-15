@@ -1,0 +1,10 @@
+(secondQuint)The Role of Diet Education and Nutritional Counselling in the Ongoing Care of People Living With HIV in Thailand.
+
+ To evaluate the effectiveness of nutrition education and dietary counselling to improve the nutritional status, well-being and quality of life of people living with HIV/AIDS (PLWHA) attending an HIV treatment facility in Bangkok Thailand.
+
+ This will be achieved by determining if dietary counselling and nutrition education has an effect on nutritional status (weight, lean body mass and fat mass), dietary intake, food security, quality of life, biochemical parameters (including total cholesterol, LDL/ HDL cholesterol and Triglyceride), experience of symptoms and patient satisfaction.
+
+ The Role of Diet Education and Nutritional Counselling in the Ongoing Care of People Living With HIV in Thailand@highlight
+
+To evaluate the effectiveness of nutrition education and dietary counselling to improve the nutritional status, well-being and quality of life of people living with HIV/AIDS (PLWHA) attending an HIV treatment facility in Bangkok Thailand.
+

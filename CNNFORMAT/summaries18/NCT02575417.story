@@ -1,0 +1,18 @@
+(secondQuint)Development of a Community Engagement Activity for Advance Care Planning.
+
+ While many patients and caregivers of individuals with chronic illness recognize the importance of advance care planning, many feel uncomfortable initiating end-of-life conversations with loved ones.
+
+ Few tools exist that effectively engage caregivers and address their particular concerns and needs.
+
+ The investigators have preliminary data showing that an easily implementable intervention (a conversation game) effectively engages healthy participants in realistic and satisfying ACP conversations.
+
+ However, the investigators have not yet tested the acceptability or feasibility of using the game in a population of caregivers and/or patients with chronic illness.
+
+ This pilot project will enable us to engage community-based patients and caregivers to determine if they find the game a satisfying, acceptable, relevant, and effective tool for advance care planning.
+
+.
+
+ Development of a Community Engagement Activity for Advance Care Planning@highlight
+
+This study will determine the feasibility of using an end-of-life conversation game (called "My Gift of Grace") as a community engagement activity series to help caregivers, patients with chronic illness, and/or their families perform advance care planning.
+

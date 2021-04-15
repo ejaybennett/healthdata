@@ -1,0 +1,42 @@
+(fifthQuint)Carboplatin/Paclitaxel +/-Gemcitabine in Treating Patients With Ovarian Epithelial or Fallopian Tube Cancer.
+
+ OBJECTIVES: - Compare overall survival in patients with stage I-IV ovarian epithelial or fallopian tube cancer treated with adjuvant carboplatin and paclitaxel with or without gemcitabine.
+
+ - Compare response rates, progression-free survival, and duration of response in patients treated with these regimens.
+
+ - Compare toxic effects of these regimens in these patients.
+
+ - Compare quality of life of patients treated with these regimens.
+
+ OUTLINE: This is a randomized, open-label, controlled, multicenter study.
+
+ Patients are stratified according to FIGO stage (I-IIA vs IIB-IIIC and tumor no greater than 10 mm vs IIB-IIIC and tumor greater than 10 mm or IV), plan for interval surgical debulking (yes vs no), and participating center.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients receive carboplatin IV over 30-60 minutes and paclitaxel IV over 3 hours on day 1 and gemcitabine IV over 30-60 minutes on days 1 and 8.
+
+ - Arm II: Patients receive carboplatin and paclitaxel as in arm I.
+
+ Treatment in both arms repeats every 21 days for 6 to 10 courses in the absence of disease progression or unacceptable toxicity.
+
+ Some patients undergo interval debulking surgery.
+
+ Quality of life is assessed at baseline, after courses 3 and 6, and then at 3, 6, and 12 months after completion of study.
+
+ Patients are followed every 3 months for 2 years, every 6 months for up to 5 years, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 1,716 patients (858 per treatment arm) will be accrued for this study within 2 years.
+
+.
+
+ Carboplatin/Paclitaxel +/-Gemcitabine in Treating Patients With Ovarian Epithelial or Fallopian Tube Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ Combining more than one drug may kill more tumor cells.
+
+ It is not yet known whether carboplatin and paclitaxel combined with gemcitabine is more effective than carboplatin and paclitaxel alone in treating ovarian epithelial or fallopian tube cancer.
+
+ PURPOSE: This randomized phase III trial is studying carboplatin and paclitaxel combined with gemcitabine to see how well it works compared to paclitaxel and carboplatin alone in treating patients who have undergone surgery for ovarian epithelial or fallopian tube cancer.
+

@@ -1,0 +1,54 @@
+(fifthQuint)Evaluation of Zotarolimus Eluting Stent at 3 Months Using Optical Coherence Tomography.
+
+ Stent thrombosis is current main issue after introduction of drug-eluting stents and theoretically dual antiplatelet therapy should be continued to prevent the stent thrombosis until complete reendothelization.
+
+ Currently, AHA/ACC guideline recommend dual antiplatelet should continue at least 3 months in Sirolimus eluting stent (SES) and 6 months in paclitaxel eluting stent (PES), but if possible, suggest to use until 12 months.
+
+ Zotarolimus (Endeavor(R)) eluting stent (ZES) have been recently introduced and focused on reducing concern of safety through the biocompatible polymer and rapid drug elution.
+
+ ENDEAVOR II trial showed a 0.
+
+5 per cent rate of stent thrombosis at 30 days - with no late thrombosis beyond 30 days and no late stent malapposition.
+
+ In the long term follow up data of Endeavor stent, the two-year clinical results of ENDEAVOR I were impressive, with a low TVF and MACE rate (2% and 3% respectively) with the absence of reported thromboses after day 14.
+
+ These results speak, especially the lack of stent thrombosis after 14 days, reflect very well on the performance and safety of the ZES.
+
+ But, there has been no guideline for the duration of dual antiplatelet therapy in ZES although shorter duration of dual antiplatelet therapy could be safe compared to previous drug-eluting stents.
+
+ Also, there is no data how long duration might be taken in completion of reendothelialization after ZES implantation in living patients.
+
+ The most powerful histological predictor of stent thrombosis was endothelial coverage.
+
+ The best morphometric predictor of LST was the ratio of uncovered to total stent struts.
+
+ Because the presence of endothelization is not available in in vivo situation and endothelialization is reported to be associated with neointimal coverage of stent, the detection of neointima after stent implantation could be the main issue to predict the stent thrombosis.
+
+ Recent data in SES using optical coherence tomography (OCT) reported neointimal coverage over a SES at 3-month follow-up is incomplete.
+
+ The rates of exposed struts and exposed struts with malapposition were 15% and 6%, respectively.
+
+ These were more frequent in patients with acute coronary syndrome (ACS) than in those with non-ACS (18% vs 13%, p <0.
+
+0001; 8% vs 5%, p <0.
+
+005, respectively).
+
+ Although neointimal coverage could be completely in early period after ZES implantation, there is no data for this finding.
+
+ Therefore, we investigate the evaluation of neointimal coverage on 3 months after ZES implantation using novel OCT system, which is powerful intravascular imaging system having the higher resolution power.
+
+ This study may provide adequate information on the safety of discontinuation of dual antiplatelet therapy for patients in clinical situations.
+
+.
+
+ Evaluation of Zotarolimus Eluting Stent at 3 Months Using Optical Coherence Tomography@highlight
+
+Neointimal coverage over stent strut is important for preventing the stent thrombosis.
+
+ But, there is no data for the duration of complete formation of neointima om zotarolimus eluting stent (ZES).
+
+ Previously the investigational observational data at 9 months showed most of stent strut was covered with neointima.
+
+ Therefore, the investigators investigated the evaluation of neointimal coverage on 3 months after ZES implantation using novel OCT system, which is powerful intravascular imaging system having the higher resolution power.
+

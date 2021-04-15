@@ -1,0 +1,50 @@
+(fifthQuint)Obstructive Sleep Apnea-induced Changes in Adipose and Liver Tissue and Effects of Massive Weight Loss on Inflammation.
+
+ UPDATED May 2016: Originally the study design included investigation of the effects of the bioactive compound resveratrol compared to placebo tablets and to CPAP treatment.
+
+ Due to fewer subjects having OSA than estimated by pre-study and, therefore, difficulties in the recruiting process the investigators have found it necessary to descale the study design.
+
+ Hence, we have discontinued the resveratrol and CPAP intervention and will focus on the cross-sectional investigation of metabolic changes in subjects with and without OSA and the effect of weight loss after bariatric surgery on inflammation, OSA severity, metabolism and arterial stiffness.
+
+ OSA causes insulin resistance and seems to aggravate obesity related comorbidities such as hypertension, dyslipidemia and increase the risk of development of type 2 diabetes and non-alcoholic fatty liver disease.
+
+ More mechanisms may be involved in the pathogenesis of these negative effects from OSA but hypoxia-induced low-grade inflammation may play a central role since the levels of inflammatory markers generally are elevated in OSA.
+
+ The tissues which are responsible for these systemic alterations are not known, however, adipose tissue might be a good candidate since it is known from studies that human adipose tissue can influence systemic inflammation.
+
+ Some studies even describe a small but significant anti-inflammatory effect and a beneficial effect on glucose metabolism following CPAP treatment.
+
+ In addition, weight loss in patients with OSA is known to reduce the severity of or completely eliminate OSA.
+
+ The purpose of this study is primarily to investigate: 1.
+
+ the metabolic changes in adipose and liver tissue induced by OSA in order to better understand how OSA negatively affects whole-body metabolism 2.
+
+ the effect of weight loss after bariatric surgery on systemic inflammation, metabolism and the severity of OSA 24 subjects scheduled to undergo bariatric surgery will be recruited.
+
+ They will all be screened for OSA.
+
+ 12 subjects without OSA and 12 subjects with OSA will be included and examined before surgery and 6 months post-surgery.
+
+ The investigators will look at changes in: - Inflammation-markers - Biochemical markers of fat and sugar-metabolism - Gene-expression in adipose and liver-tissue - Severity of OSA - Pulse-wave velocity.
+
+ Obstructive Sleep Apnea-induced Changes in Adipose and Liver Tissue and Effects of Massive Weight Loss on Inflammation@highlight
+
+UPDATED May 2016: Originally the study design included investigation of the effects of the bioactive compound resveratrol compared to placebo tablets and to CPAP treatment.
+
+ Due to fewer subjects having OSA than estimated by pre-study and, therefore, difficulties in the recruiting process the investigators have found it necessary to descale the study design.
+
+ Hence, we have discontinued the resveratrol and CPAP intervention and will focus on the cross-sectional investigation of metabolic changes in subjects with and without OSA and the effect of weight loss after bariatric surgery on inflammation, OSA severity, metabolism and arterial stiffness.
+
+ Obstructive sleep apnea (OSA) is a common disorder especially among obese individuals and patients with type 2 diabetes.
+
+ OSA is associated with an increased morbidity and mortality.
+
+ Continuous positive airway pressure (CPAP) is the standard treatment.
+
+ Also weight loss is known to reduce the severity of OSA, especially bariatric surgery has proven effective because of the massive weight loss.
+
+ The investigators hypothesize that OSA via pro-inflammatory responses in various tissues causes low-grade inflammation which ultimately induce the associated co-morbidities.
+
+ The investigators hypothesize that massive weight loss after bariatric surgery have beneficial effects on severity of OSA, inflammatory status and improves insulin sensitivity.
+

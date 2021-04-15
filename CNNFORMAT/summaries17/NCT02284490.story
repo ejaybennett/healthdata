@@ -1,0 +1,29 @@
+(firstQuint)High-dose Pemetrexed to Treat Lung Adenocarcinoma With Brain Metastases.
+
+ - Determine the 6-month progression-free survival rate in patients with Lung Adenocarcinoma With Brain Metastases treated with pemetrexed disodium.
+
+ - Determine the time to progression in patients with Lung Adenocarcinoma With Brain Metastases treated with pemetrexed disodium.
+
+ Secondary - Determine the radiographic response in patients with Lung Adenocarcinoma With Brain Metastases treated with pemetrexed disodium.
+
+ - Determine the time to response in patients treated with this drug.
+
+ - Determine the duration of response in patients treated with this drug.
+
+ - Determine the overall survival of patients treated with this drug.
+
+ - Collect safety data on patients with intracranial tumors treated with this drug.
+
+ OUTLINE: Patients receive pemetrexed disodium IV over 10 minutes on day 1.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ After completion of study treatment, patients are followed periodically.
+
+ PROJECTED ACCRUAL: A total of 25 patients will be accrued for this study.
+
+.
+
+ High-dose Pemetrexed to Treat Lung Adenocarcinoma With Brain Metastases@highlight
+
+This phase II trial is studying how well pemetrexed disodium works in treating patients with Lung Adenocarcinoma With Brain Metastases

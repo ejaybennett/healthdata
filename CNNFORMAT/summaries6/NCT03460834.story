@@ -1,0 +1,24 @@
+(fifthQuint)Asthma and Obesity: Observational.
+
+ The objective of this study is to examine novel biological and behavioral pathways that may explain the association of obesity with asthma morbidity, and develop and pilot test educational and counseling modules, based on self-regulation theory, that take an integrated approach to asthma and obesity self-management support.
+
+ The Specific Aims are to: 1.
+
+ Compare the longitudinal relationship between L-arginine/ADMA balance and morbidity (lung function, asthma control, acute resource utilization, and quality of life) between obese adults with late onset asthma vs.
+
+ (a) obese adults with early onset asthma and non-obese asthmatics with early (b) or late (c) onset disease.
+
+ Age of asthma onset is as categorized as early when developed 12 years of age or late when developed >12 years of age.
+
+ 2.
+
+ Evaluate the interrelationship between obesity- and asthma-related illness beliefs, and the impact of cognitive function, on patients' management of these conditions over time.
+
+ Asthma and Obesity: Observational@highlight
+
+Obesity is associated with poor asthma control and greater healthcare utilization and costs.
+
+ In this study the researchers will examine the biologic and behavioral interrelationships between these conditions and their impact on outcomes.
+
+ Towards this end, the researchers will conduct an observational prospective cohort study of 400 obese asthmatic patients treated at institutions in New York City and Denver, and develop and pilot test educational and counseling modules that take an integrated approach to asthma and obesity self-management support.
+

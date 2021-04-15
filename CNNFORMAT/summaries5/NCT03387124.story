@@ -1,0 +1,14 @@
+(firstQuint)Breastfeeding Study.
+
+ This is a prospective, observational, non-interventional study.
+
+ The purpose of this study is to evaluate the stool consistency and variability in fecal microbiota composition, diversity, and abundance of defined taxa in 75 healthy, term, exclusively breastfed infants.
+
+ All enrolled infants will participate in the trial for approximately 169 days.
+
+.
+
+ Breastfeeding Study@highlight
+
+The purpose of this study is to evaluate the stool consistency and microbiota composition of healthy breastfed infants.
+

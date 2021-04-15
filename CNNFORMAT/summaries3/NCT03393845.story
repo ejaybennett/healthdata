@@ -1,0 +1,17 @@
+(firstQuint)Study of Pembrolizumab Plus Fulvestrant in Hormone Receptor Positive, HER-2 Negative Advanced/Metastatic Breast Cancer Patients.
+
+ This is a non-randomized, multi-site, open-label Phase II trial for subjects with metastatic, hormone receptor positive, HER2 negative breast cancer.
+
+ The study will enroll 47 patients to evaluate the anti-tumor activity of pembrolizumab with fulvestrant as measured by RECIST 1.
+
+1 tumor response and by progression free survival.
+
+ We expect that if the immune response is augmented by the addition of pembrolizumab, significant change in durability of response will be noted.
+
+ Patients will be treated with pembrolizumab dosed at 200 mg intravenous infusion in combination with standard fulvestrant 500mg intramuscular injection.
+
+.
+
+ Study of Pembrolizumab Plus Fulvestrant in Hormone Receptor Positive, HER-2 Negative Advanced/Metastatic Breast Cancer Patients@highlight
+
+Pembrolizumab Plus Fulvestrant in Hormone Receptor Positive, HER-2 Negative Advanced/Metastatic Breast Cancer Patients

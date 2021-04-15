@@ -1,0 +1,30 @@
+(secondQuint)Timing of Iron Supplementation in Very Low Birth Weight Infants.
+
+ Smaller the preterm infants at birth, more susceptible they are to iron deficiency due to low body iron stores.
+
+ Despite having low iron stores, very low birth weight (VLBW) infants are not usually started on iron supplementation till they reach a postnatal age of 6 to 8 weeks.
+
+ Such delayed supplementation can lead to rapid depletion of iron stores when erythropoiesis becomes active (by 8 weeks of life).
+
+ Depletion of iron stores is the first step in the continuum of changes that occur in iron deficiency.
+
+ Iron deficiency induces biochemical defects (such as impaired synthesis of DNA and collagen) even before any features of microcytic, hypochromic anemia become evident.
+
+ The rapidly maturing preterm brain is especially vulnerable to the effects of iron deficiency; poor school-age performance has been reported among children who had low iron stores in their neonatal period.
+
+ Early iron supplementation i.
+
+e.
+
+ starting iron once the infant reaches full enteral feeds could potentially improve the iron stores and prevent its depletion.
+
+ Surprisingly, few studies are available till date to support (or refute!) this view.
+
+ The current study was designed to test the hypothesis whether early iron supplementation would increase the nutritional iron status (as measured by serum ferritin) at 60 days of life when compared to the existing regime of starting iron at the age 2 months.
+
+.
+
+ Timing of Iron Supplementation in Very Low Birth Weight Infants@highlight
+
+To examine if early iron supplementation (starting oral iron at 14 days of life) would improve the nutritional iron status(measured by serum ferritin) of very low birth weight infants at postnatal age of 60 days, when compared to the standard regime of starting iron at 2 months of life.
+

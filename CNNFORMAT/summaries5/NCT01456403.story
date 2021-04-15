@@ -1,0 +1,40 @@
+(fifthQuint)Histological Validation Of Carotid Plaque Composition In Preoperative Imaging.
+
+ Detailed Description: Patients will undergo 3D U/S and at least one other imaging method, PET/CTA or MRI, preoperatively.
+
+ At some sites, some patients will also have an ultrasound with microbubbles.
+
+ Following surgery, the carotid specimens will be transported to a central pathology lab for microcomputed tomographic imaging and further study.
+
+ At some sites patients will have a follow-up 3D U/S approximately 1 year after surgery to determine progression of plaque.
+
+ CAIN-2 sub-studies: Eligible patients may be enrolled into one of the following sub-studies: 1.
+
+ CAIN-2 NaF pilot Characterizing Atherosclerotic Plaque with Sodium Fluoride Positron Emission Tomography- A Sub-Study of the Canadian Atherosclerosis Imaging Network (CAIN Project 2), - patients undergo sodium fluoride (NaF) PET/CT with CTA instead of FDG PET/CT preoperatively.
+
+ All other imaging and study procedures are carried out as per the CAIN-2 study.
+
+ Recruitment for this pilot study is complete.
+
+ 2.
+
+ CAIN-2B Atherosclerotic plaque imaging using NaF and FDG imaging: Validation and Evaluation of Disease Progression.
+
+ A sub-study of the Canadian Atherosclerosis Imaging Network (CAIN-2) Histopathology Validation study - patients undergo both NaF and FDG PET/CT preoperatively.
+
+ All other imaging and study procedures are carried out as per the CAIN-2 study.
+
+ A total of 45 patients will be enrolled in this sub-study.
+
+ Eligibility criteria for the sub-studies is identical to the CAIN-2 criteria.
+
+.
+
+ Histological Validation Of Carotid Plaque Composition In Preoperative Imaging@highlight
+
+Patients scheduled for carotid endarterectomy undergo preoperative imaging to assess vulnerable plaque.
+
+ The imaging modalities include (in various combinations at different study sites) 3-dimensional ultrasound, PET/CT imaging with fluorodeoxyglucose, MRI (3T)with gadolinium, and contrast ultrasound for assessment of neovascularity of plaques.
+
+ At surgery the carotid endarterectomy is carried out with en bloc removal of the specimen, which is scanned and stained and assembled into 3D histology.
+

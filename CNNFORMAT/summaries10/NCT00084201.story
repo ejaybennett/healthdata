@@ -1,0 +1,26 @@
+(firstQuint)Interactions Between Cranberry Juice and Antibiotics Used to Treat Urinary Tract Infections.
+
+ Although evidence of its effectiveness is limited, cranberry juice is widely used to prevent urinary tract infections (UTIs).
+
+ However, recent studies have shown that cranberry juice may affect the way the body absorbs and metabolizes antibiotics used to treat UTIs.
+
+ This study will determine whether concurrent cranberry juice administration lowers the urinary concentrations of two commonly used antibiotics, amoxicillin and cefaclor.
+
+ This study will involve children being treated for UTIs and adults without UTIs.
+
+ All of the children will continue their prescribed amoxicillin/cefaclor treatment.
+
+ After 7 to 10 days of antibiotic treatment, the children will be assigned to receive either cranberry juice for 2 days or no additional treatment.
+
+ Urine samples will be collected from all child participants before and after the administration of cranberry juice to examine the excretion of the antibiotics.
+
+ Adult participants will receive two different doses of amoxicillin, with or without cranberry juice.
+
+ Blood and urine samples will be collected to evaluate the effect of cranberry juice on the absorption and elimination of amoxicillin.
+
+.
+
+ Interactions Between Cranberry Juice and Antibiotics Used to Treat Urinary Tract Infections@highlight
+
+The purpose of study is to determine whether cranberry juice interacts with antibiotics used to treat urinary tract infections (UTIs).
+

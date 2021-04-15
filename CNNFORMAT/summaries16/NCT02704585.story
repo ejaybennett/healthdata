@@ -1,0 +1,20 @@
+(firstQuint)Comparison of Two Pulse Oximeters in Delivery Room.
+
+ After delivery babies will be located in the radiant warmer.
+
+ The probe of each pulse oximeter will be applied to one of the feet.
+
+ Both probes will be simultaneously connected to the female plug of the pulse oximeter.
+
+ Heart rate will be checked Time to get a stable reading in each device (by observation on the devices' display) will be recorded; this will be the primary study outcome.
+
+ Other vital signs (oxygen saturation, heart rate) and demographics) will be recorded as well.
+
+ Paired students T test will be used for the statistical analyzes.
+
+.
+
+ Comparison of Two Pulse Oximeters in Delivery Room@highlight
+
+Time to stable reading of oxygen saturation at the delivery room will be compared between two different devices.
+

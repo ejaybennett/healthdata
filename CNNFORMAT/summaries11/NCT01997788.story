@@ -1,0 +1,18 @@
+(firstQuint)The Intrathecal Morphine for Nephrectomy.
+
+ The open nephrectomy is the treatment of choice for live donor kidney transplantation and renal cell carcinoma.
+
+ The incision for the nephrectomy causes severe postoperative pain.
+
+ A single dose of intrathecal morphine(ITM) has been used for the postoperative pain of prostatectomy, transurethral resection of the prostate and hepatectomy.
+
+ The effect of ITM for open nephrectomy has not been studied.
+
+ Therefore, this prospective, randomized study will evaluate the efficacy and safety of a single 50 mcg dose of ITM added to intravenous patient controlled analgesia(IV-PCA), comparing to IV-PCA alone.
+
+.
+
+ The Intrathecal Morphine for Nephrectomy@highlight
+
+To evaluate the efficacy and the safety of the intrathecal morphine injection in the open nephrectomy.
+

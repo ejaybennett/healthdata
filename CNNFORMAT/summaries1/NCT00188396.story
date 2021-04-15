@@ -1,0 +1,78 @@
+(fifthQuint)Effect of the Menstrual Cycle on the Symptoms of Depression and Treatment Response.
+
+ Rationale: The lifetime prevalence of depression is twice as high in women as in men; this is a robust and frequently replicated finding in cross national epidemiology studies.
+
+ Women are also more prone to various depressive disorders at certain stages of the life cycle yet the etiologic mechanisms and therapeutic implications for these increased rates of depression especially at certain life stages remain largely unknown.
+
+ The hormonal milieu appears to have an independent impact on the occurrence of depression and potentially on treatment response as the disparity between the sexes only emerges after the onset of puberty and persists until the age of 55.
+
+ There is accumulating evidence suggesting differential antidepressant drug effects between men and women and recent preliminary evidence that there may be some differences in treatment response in women by age.
+
+ Younger women with depression may be more responsive to serotonergic antidepressants and this may relate to changes in menstrual status and estrogen levels.
+
+ Postmenopausal women have lower estrogen levels and may lack the enhancing effect of estrogen on serotonergic mechanisms and, thus, may not be able to achieve the full therapeutic potential of the serotonergic antidepressants.
+
+ The reported differences in response rates between premenopausal and postmenopausal women may be related to the presence or absence of a menstrual cycle as well as lowered estrogen levels found in postmenopausal women although this hypothesis has not been formally tested.
+
+ A prospective study is therefore proposed to primarily characterize the rates of response following SSRI therapy in depressed women who meet criteria for Major Depressive Disorder (MDD) and are treated for a current depressive episode.
+
+ Menstrual status will be confirmed based on reproductive hormone levels.
+
+ Perimenopausal and postmenopausal women will be studied separately because of their different hormonal profile.
+
+ All women will rate their symptoms of depression on a daily basis and in addition, independent raters will rate depressive symptoms prospectively to determine the relationship between change in depressive symptoms and antidepressant response across the menstrual cycle.
+
+ All women will be treated with citalopram and paroxetine will be the secondary alternative.
+
+ Objectives Primary objective: To compare reduction in severity of depression in premenopausal, perimenopausal and postmenopausal women.
+
+ Secondary objective: To assess the symptoms of depression and antidepressant response across the menstrual cycle in premenopausal women with comparisons to peri- and postmenopausal women.
+
+ Exploratory objective: To examine the relationship between estrogen and SSRI level across the menstrual cycle.
+
+ Hypotheses Primary hypothesis: The mean reduction in HRSD scores following SSRI antidepressant therapy will be significantly higher in premenopausal compared to peri-and postmenopausal women.
+
+ Secondary hypotheses: 1.
+
+ Depression scores (based on HRSD and the Prospective Record of the Impact and Severity of Menstrual Symptoms [PRISM] calendar) will be significantly higher during the lower estrogen phases of the menstrual cycle than the higher estrogen phases in premenopausal women who remain on constant doses of citalopram.
+
+ 2.
+
+ The above relationship will not be discernable in perimenopausal and postmenopausal women over a comparable time period and during comparable antidepressant treatment.
+
+ Exploratory hypothesis: There will be a positive correlation between estrogen levels and SSRI levels.
+
+ Significance: This study takes an innovative approach to increasing our understanding of the hormonal contribution to symptom severity and antidepressant treatment response.
+
+ Since the majority of psychotropic medication is prescribed to women, understanding the interactive process between the menstrual cycle and antidepressant medication has the potential to change clinical practice by allowing for more individualized pharmacological treatment within an evidence based approach.
+
+.
+
+ Effect of the Menstrual Cycle on the Symptoms of Depression and Treatment Response@highlight
+
+Objectives: This prospective investigation will compare premenopausal, perimenopausal and postmenopausal women's response to antidepressant medication.
+
+ The effects of the menstrual cycle on the symptoms of depression and antidepressant response will also be examined.
+
+ Hypotheses: Premenopausal women will show a significantly better response to a selective serotonin reuptake inhibitor (SSRI) than peri- or postmenopausal women.
+
+ Premenopausal women during lower estrogen phases of the menstrual cycle will complain of increased depressive symptoms despite treatment.
+
+ Perimenopausal and postmenopausal women with irregular periods and generally low estrogen levels will show less symptom variability over time.
+
+ Method Subjects: Eighty-four women (28 premenopausal, 28 perimenopausal, 28 postmenopausal) meeting Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria for major depressive disorder will be enrolled in the study.
+
+ Procedure: All the subjects will be followed prospectively for 12 weeks and through 2 menstrual cycles while receiving treatment with a standard SSRI antidepressant agent.
+
+ All eligible women will have a structured clinical interview and will complete questionnaires assessing their depressive symptoms.
+
+ Blood samples will be collected to evaluate for reproductive hormone levels during the late follicular, midluteal and late luteal phases of the menstrual cycle for two consecutive cycles.
+
+ Serum SSRI levels will also be collected at these times.
+
+ As the women in the perimenopausal and postmenopausal groups either have irregular menstrual cycles or no longer cycle, they will have blood samples drawn at baseline and on 6 other occasions.
+
+ Research Implications: As the majority of psychiatric medication is prescribed to women, understanding the interplay between the menstrual cycle and antidepressant medication will ultimately translate into more diverse and improved patient care.
+
+ The proposed study is one within a developing research program, which will in part be further guided by this study.
+

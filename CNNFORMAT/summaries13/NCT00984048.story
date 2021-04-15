@@ -1,0 +1,34 @@
+(thirdQuint)Study to Identify Mechanisms of Resistance to Standard Therapy in Patients With Metastatic Colorectal Cancer.
+
+ The major obstacle to the cure of cancer by pharmacological agents is resistance to these agents.
+
+ Clinical responses of metastatic cancers to the most advanced chemotherapeutic agents usually range from 15 to 40%, indicating that intrinsic resistance, and acquired resistance occurs almost inevitably in those tumors that do respond.
+
+ In patients with metastatic colorectal cancer, clinical resistance to a particular treatment is a clear endpoint (tumor growth), and is usually observed within 6-12 months of any given therapy.
+
+ Thus, drug resistance and selecting appropriate therapeutic alternatives for drug-resistant cancer remain major dilemmas for oncologists.
+
+ The current first-line treatment for metastatic colorectal cancer in Quebec and much of North America is a combination called FOLFOX (the fluoro-pyrimidine 5-FU given as a 46-hour infusion, folinic acid and oxaliplatin) in combination with bevacizumab (Avastin(R)).
+
+ An alternative regimen of cytotoxic drugs, also used with Avastin(R), is FOLFIRI, which simply replaces oxaliplatin with the topoisomerase inhibitor irinotecan.
+
+ In the metastatic setting, studies have not demonstrated significant differences between the two regimens, such that decision-making lacks definitive tools.
+
+ The objective of this study is to identify, in clinical samples, the molecular signature of clinically resistant colorectal cancer (CRC) patients for the most current and commonly used therapeutic agents.
+
+ The goals of this study are two-fold.
+
+ First, to build a biobank of blood and tissue specimens, prior to starting chemotherapy and at a determined time-point (progression of disease), from patients undergoing the same standard and well established first-line treatments (FOLFOX/bevacizumab or FOLFIRI/bevacizumab) for metastatic colorectal cancer.
+
+ Second, to use state-of-the-art approaches by various collaborating laboratories to correlate clinical outcomes with molecular events that can be used to predict and circumscribe chemoresistance.
+
+.
+
+ Study to Identify Mechanisms of Resistance to Standard Therapy in Patients With Metastatic Colorectal Cancer@highlight
+
+This is a multicenter translational study to understand therapeutic resistance in patients undergoing first-line chemotherapy (FOLFOX/Avastin, or FOLFIRI/Avastin) for metastatic colorectal cancer.
+
+ Tissue samples from liver metastasis will be collected and banked before the start of chemotherapy and at the time of progression.
+
+ Additionally, blood samples will be drawn monthly and stored in the tissue biobank.
+

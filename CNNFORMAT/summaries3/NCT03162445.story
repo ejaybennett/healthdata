@@ -1,0 +1,16 @@
+(firstQuint)Bone Mass Accrual in Children With Autism Spectrum Disorder.
+
+ Studies have shown that bone cortical thickness is decreased in children with autism and other developmental disabilities.
+
+ However it is not known whether bone mineral density (BMD) of these children is lower; neither is it known whether there is any correlation between BMD and the child's diet.
+
+ The overall goal of this study is to improve the long term health of children and adolescents with autism spectrum disorder; more specifically the investigators aim to develop a pilot study to investigate the degree to which BMD is impaired in boys with autism and to explore specific additional risk factors.
+
+ In addition, the aim is to investigate the degree to which BMD is impaired in boys with Autism Spectrum Disorder (ASD) and to explore specific contributing risk factors including nutritional analysis.
+
+.
+
+ Bone Mass Accrual in Children With Autism Spectrum Disorder@highlight
+
+This is a observational study to investigate the degree to which bone mineral density is impaired in boys with autism compared with typically developing controls.
+

@@ -1,0 +1,20 @@
+(secondQuint)The Bilirubin Levels in Cerebrospinal Fluid of Spontaneous Subarachnoid Hemorrhage Patients.
+
+ According to Morgan et.
+
+ al.
+
+ (J Neurosurg 101:1026-1029, 2004): bilirubin as a cerebrospinal fluid marker of sentinel subarachnoid hemorrhage: a preliminary report in pigs, we're going to test the hypothesis in the cerebrospinal fluid of spontaneous subarachnoid hemorrhage patients.
+
+ We'll collect the serial cerebrospinal fluid in 15-20 spontaneous subarachnoid hemorrhage patients to see the time sequence of changes in bilirubin levels.
+
+.
+
+ The Bilirubin Levels in Cerebrospinal Fluid of Spontaneous Subarachnoid Hemorrhage Patients@highlight
+
+According to Morgan et.
+
+ al.
+
+ (J Neurosurg 101:1026-1029, 2004): bilirubin as a cerebrospinal fluid marker of sentinel subarachnoid hemorrhage: a preliminary report in pigs, we're going to test the hypothesis in the cerebrospinal fluid of spontaneous subarachnoid hemorrhage patients.
+

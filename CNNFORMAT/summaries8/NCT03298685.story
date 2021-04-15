@@ -1,0 +1,15 @@
+(firstQuint)SAFETIM-needs : Exploring Adolescent's and Parent's Needs During Transition in French CF Centers.
+
+ Adolescent's and parent's needs will be studied, before the transition and their experiences of transition, in order to propose organizational national recommendations semi structured interview with adolescents and parents separately, before and after transition.
+
+ semi structured interviews will be conducted twice for each (adolescent and parents), the first in the 6 months before transition and the second in the 6 months after transition.
+
+ After their verbatims will be analyzed and the optimal organisation will be determined for the transition based according to their point of view.
+
+ At the end, the data from this study will be matched with data collected in a former study from care givers practices during transition in the french CF centers.
+
+.
+
+ SAFETIM-needs : Exploring Adolescent's and Parent's Needs During Transition in French CF Centers@highlight
+
+prospective multicentric study protocol in french CF center, exploring adolescent avec parents needs during transition from pediatric CF center to adult CF center

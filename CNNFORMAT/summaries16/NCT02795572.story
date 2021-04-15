@@ -1,0 +1,22 @@
+(thirdQuint)Nutraceuticals Versus Usual Care in the Prevention or Reduction of CIPN in Patients Treated With Docetaxel as Neoadjuvant/Adjuvant Breast Cancer Therapy.
+
+ Phase 2, Single Centre, Open-label 2 Arm Randomized Trial.
+
+ The intervention group will receive a daily dose of Vitamin D, Omega-3-fatty acids, Vitamin B6, and Vitamin B12.
+
+ The reference group will have usual care.
+
+ Dose of Nutraceuticals: Vitamin D 2000 IU oral once daily, Vitamin B6 100 mg oral once daily, Vitamin B12 100 mcg oral once daily, Omega-3 Fatty Acids 900 mg oral three times a day (600 mg EPA, 300 mg DHA) Population: Breast Cancer patients undergoing either neoadjuvant or adjuvant therapy with docetaxel.
+
+ 106 participants in total will be needed with accrual being completed in hopefully 1 years' time.
+
+ Study Investigators will screen the candidates for the study.
+
+.
+
+ Nutraceuticals Versus Usual Care in the Prevention or Reduction of CIPN in Patients Treated With Docetaxel as Neoadjuvant/Adjuvant Breast Cancer Therapy@highlight
+
+The trial will utilize Nutraceuticals (Vitamin D 2000IU oral once daily, Vitamin B6 100 mg oral once daily, Vitamin B12 100 mcg oral once daily, Omega-3 Fatty Acids 900 mg oral three times a day) in patients treated with Docetacel as Neoadjuvant or Adjuvant Breast cancer Therapy.
+
+ The trial is being conducted to see if the use of Nutraceuticals will prevent or reduce Chemotherapy Induced Peripheral Neuropathy (CIPN).
+

@@ -1,0 +1,22 @@
+(secondQuint)Outpatient Versus Inpatient Balloon Catheter Induction of Labor.
+
+ The objective of this study is to describe labor outcomes in women with double balloon induction catheter of labor.
+
+ Participants included are women with uncomplicated singleton pregnancy of 37- 41+5 weeks of gestation.
+
+ Patients are randomized to two groups: one hundred are randomized to the inpatient and one hundred to the outpatient group.
+
+ The main outcome measure is the pain evaluated by VAS at one, five, nine and 13 hours after the placement of double balloon induction catheter.
+
+ The total hospital stay and induction to delivery interval time is measured.
+
+ Also the mode of birth as well as maternal and neonatal morbidity and patient satisfaction are recorded.
+
+.
+
+ Outpatient Versus Inpatient Balloon Catheter Induction of Labor@highlight
+
+Randomized trial comparing double balloon catheter for induction of labor between in- and outpatient groups.
+
+Investigators assess feasibility, clinical effectiveness and patient acceptability of outpatient versus inpatient catheter for induction of labor.
+

@@ -1,0 +1,28 @@
+(firstQuint)Treatment of Small Acute Cuff Tears, a Randomized Study.
+
+ In clinical practice most patients with a traumatic acute rotator cuff tear are treated with operative repair.
+
+ The results of surgery are in most cases good but there are also good results in the literature from conservative treatment.
+
+ So far there has been no prospective randomized comparison between the two treatments.
+
+ When it comes to degenerative non-traumatic tears, level 1 and 2 studies have not been able to show the superiority of surgery.
+
+ This study takes place in 2 clinics in Sweden (Linkoping and Kalmar).
+
+ Patients who have no previous shoulder conditions, a trauma to the shoulder and pain and/or inability to lift their arm will undergo magnetic resonance imaging (MRI).
+
+ If this indicates a full-thickness rotator cuff tear of the cranial part of the rotator cuff the patient will be randomized to surgery or physiotherapy.
+
+ Surgical intervention is mini-open repair.
+
+ Follow-up takes place at 3 months, 6 months and 12 months with patient scores taken by a blinded independent physiotherapist.
+
+ At 12 months a new MRI is conducted as well.
+
+.
+
+ Treatment of Small Acute Cuff Tears, a Randomized Study@highlight
+
+The purpose of this project is to compare operative repair of traumatically torn rotator cuff tendon with physiotherapy in a randomized prospective study.
+

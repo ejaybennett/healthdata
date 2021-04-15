@@ -1,0 +1,17 @@
+(secondQuint)An Efficacy, Safety, and Pharmacokinetics Study of Subcutaneously Administered Ustekinumab in the Treatment of Moderate to Severe Chronic Plaque Psoriasis in Pediatric Participants Greater Than or Equal to 6 to Less Than 12 Years of Age.
+
+ This is an open label (identity of study drug will be known to participant and study staff) and multicenter (when more than one hospital or medical school team work on a medical research study) study.
+
+ The participant population will be comprised of boys and girls who have had a diagnosis of plaque psoriasis for at least 6 months prior to first study drug administration and who have moderate to severe disease defined by Psoriasis Area and Severity Index score (PASI) >=12, Physician's Global Assessment (PGA) >=3, and Body Surface Area (BSA) >=10 percent (%).
+
+ The study consists of Screening Phase (up to 10 weeks before administration of the study drug), Treatment Period (Week 0 up to Week 52) and Safety follow up (Week 56).
+
+ Participants will be primarily evaluated for efficacy, pharmacokinetics (PK) and safety.
+
+ Following completion of the Week 52 visit, participants who have had a beneficial response from ustekinumab treatment as determined by the investigator, and who have not yet reached the age of 12 years or older in countries where marketing authorization for ustekinumab has been granted for the treatment of psoriasis in adolescent participants (12-17 years), and are willing to continue ustekinumab treatment, may enter the long-term extension period (from Week 56 through Week 264) of the study.
+
+.
+
+ An Efficacy, Safety, and Pharmacokinetics Study of Subcutaneously Administered Ustekinumab in the Treatment of Moderate to Severe Chronic Plaque Psoriasis in Pediatric Participants Greater Than or Equal to 6 to Less Than 12 Years of Age@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of ustekinumab in pediatric participants aged greater than or equal to (>=) 6 through less than (<) 12 years with moderate to severe chronic plaque psoriasis

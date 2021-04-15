@@ -1,0 +1,36 @@
+(thirdQuint)Fish Oil for the Treatment of Depression in Patients With Multiple Sclerosis.
+
+ Depression occurs in 50% to 60% of all individuals with MS.
+
+ Evidence suggests that the omega-3 fatty acids in fish oil supplements can significantly reduce depression with a low risk of side effects.
+
+ Therefore, fish oil supplements may be a safe adjunctive therapy to improve the therapeutic benefits of antidepressants.
+
+ This study will determine the effectiveness of fish oil supplements in reducing depression in MS patients who are taking antidepressant medication.
+
+ This study will last 3 months.
+
+ Participants will be randomly assigned to receive either fish oil supplements or placebo daily for 3 months.
+
+ At the end of 3 months, participants who show an improvement in their depressive symptoms will have the option to continue their treatment for an additional 3 months.
+
+ Participants will do no respond to treatment will be excused from the study.
+
+ All participants will remain on their antidepressants and MS medication throughout the study.
+
+ Participants will have weekly study visits.
+
+ At each visit, participants will be asked about their general health, and self-report scales will be used to assess depressive symptoms.
+
+ Medication adherence will be monitored by pill counts and through red blood cell fatty acid analysis.
+
+ Blood collection will occur at study start and at study completion.
+
+.
+
+ Fish Oil for the Treatment of Depression in Patients With Multiple Sclerosis@highlight
+
+This study will determine whether fish oil can reduce depression in people with multiple sclerosis (MS) who are mild to moderately depressed and are currently taking antidepressant medication.
+
+ Study hypothesis: Three months of fish oil supplementation will improve depression scores on the Montgomery-Asberg depression rating scale (MADRS) or Beck Depression Inventory (BDI) better than placebo.
+

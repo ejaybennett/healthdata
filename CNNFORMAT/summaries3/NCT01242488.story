@@ -1,0 +1,22 @@
+(secondQuint)Efficacy and Safety of CDP6038 in Patients With Rheumatoid Arthritis With an Unsuccessful Response to Anti-Tumor Necrosis Factor (Anti-TNF) Therapy.
+
+ CDP6038 is a protein (antibody) that blocks interleukin-6 (IL-6), a substance involved in the inflammation associated with rheumatoid arthritis.
+
+ This is a multicenter, 12-week, randomized, double-blind, placebo- and active- controlled study comparing several doses and dosage regimens (every 2 weeks and every 4 weeks) of CDP6038 to placebo and tocilizumab in patients with active rheumatoid arthritis who have had an unsuccessful response to methotrexate and previous anti-TNF therapy.
+
+ The study will test if CDP6038 is more efficacious than placebo in reducing the signs and symptoms of rheumatoid arthritis at 12 weeks while maintaining an adequate safety profile.
+
+ In order to maintain the study blinding all subjects will be given a subcutaneous (sc) injection (under the skin) every 2 weeks, as well as an intravenous (iv) infusion every 4 weeks.
+
+ In addition subjects must remain on stable weekly doses of methotrexate.
+
+ Assessments during the study include evaluations of joint pain and swelling, laboratory blood and urine tests, physical examinations, vital signs, electrocardiograms, and questionnaires.
+
+ Subjects who complete the 12-week study will be eligible to enroll in a long-term extension study receiving CDP6038.
+
+.
+
+ Efficacy and Safety of CDP6038 in Patients With Rheumatoid Arthritis With an Unsuccessful Response to Anti-Tumor Necrosis Factor (Anti-TNF) Therapy@highlight
+
+The purpose of this study is to evaluate the safety, efficacy, pharmacokinetics, and immunogenicity of CDP6038 treatment in adult subjects with active rheumatoid arthritis who have had an inadequate response to anti-tumor necrosis factor (anti-TNF) therapy.
+

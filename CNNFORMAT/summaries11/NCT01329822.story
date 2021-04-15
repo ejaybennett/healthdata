@@ -1,0 +1,38 @@
+(fifthQuint)Effects of Caloric Restriction on Fetuin-A and Cardiovascular Risk Factors.
+
+ Rapidly growing aging society augmented the risk of age-associated disorders, such as metabolic syndrome, type 2 diabetes, and cardiovascular disease.
+
+ Dietary interventions that reduce daily energy intake, also known as caloric restriction (CR), has been shown to be the most robust intervention to extend average and maximal lifespan in various experimental animals (1).
+
+ In addition, CR diminishes the risk of multiple age-associated diseases, such as diabetes, cardiovascular disease, and some forms of cancer in rodents and primates (rhesus monkeys) (1; 2).
+
+ Moreover, in obese humans, CR improves insulin sensitivity and reduces fasting glucose as well as the other components of metabolic syndrome (3).
+
+ However, the exact underlying mechanism of CR has not been fully defined yet.
+
+ Recently, it is hypothesized that liver may regulate systemic energy metabolism through production of secretory proteins known as hepatokines.
+
+ Fetuin-A, a circulating glycoprotein almost exclusively secreted by the liver, has been found to inhibit insulin receptor tyrosine kinase activity in animal studies (4).
+
+ Fetuin-A knockout (KO) mice have enhanced glucose sensitivity, resistance to weight gain, and lower serum free fatty acid levels (5).
+
+ In humans, high fetuin-A levels are associated with insulin resistance and fat accumulation in the liver (6).
+
+ Ix et al.
+
+ reported that higher human fetuin-A concentrations are strongly associated with metabolic syndrome and atherogenic lipid profile in non-diabetic patients with coronary artery disease (7).
+
+ In addition, fetuin-A levels were associated with surrogate marker of atherosclerosis such as arterial stiffness and intima-media thickness (IMT) (8).
+
+ Recent studies reported that elevated fetuin-A levels predict increased risk of myocardial infarction and ischemic stroke (9) as well as type 2 diabetes (10).
+
+ However, there has been no previous report about the effects of CR on fetuin-A comparing with changes of cardiovascular risk indicators in animals or humans.
+
+.
+
+ Effects of Caloric Restriction on Fetuin-A and Cardiovascular Risk Factors@highlight
+
+The aim of this randomized controlled study was to evaluate the effects of CR on circulating fetuin-A levels in obese humans with type 2 diabetes based on monitoring energy intake and energy expenditure by daily activity.
+
+ Furthermore, the investigators examined the relationship between the changes of fetuin-A levels induced by CR and cardiovascular risk parameters including atherogenic lipid profile, visceral fat area (VFA), brachial artery endothelial function, and carotid IMT.
+

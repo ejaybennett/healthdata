@@ -1,0 +1,20 @@
+(firstQuint)Safety and Efficacy of TACLONEX Ointment in Adolescent Patients (Aged 12 to 17 Years) With Psoriasis Vulgaris.
+
+ TACLONEX ointment has marketing approval in many countries for the treatment of psoriasis vulgaris in adults.
+
+ No studies have been conducted in patients less than 18 years of age.
+
+ However, about 25% of affected individuals are diagnosed between 10 and 19 years of age, hence psoriasis is also prevalent in the adolescent age group (12-17 years).
+
+ All patients will receive TACLONEX.
+
+ To evaluate the safety of TACLONEX ointment, all adverse events will be recorded.
+
+ In addition, any systemic absorption of the active components, betamethasone dipropionate and calcipotriene, will be evaluated by assessing adrenal function (using CORTROSYN cent test) and calcium metabolism (by measuring serum calcium and the urinary calcium:creatinine ratio), respectively.
+
+.
+
+ Safety and Efficacy of TACLONEX Ointment in Adolescent Patients (Aged 12 to 17 Years) With Psoriasis Vulgaris@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of 4 weeks of TACLONEX ointment in adolescent patients with psoriasis vulgaris.
+

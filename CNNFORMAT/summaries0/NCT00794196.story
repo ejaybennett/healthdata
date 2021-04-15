@@ -1,0 +1,16 @@
+(secondQuint)Pharmaceutical Care Program for Pharmacological Treatment of Depression in Primary Care.
+
+ The aim of this study is to evaluate the efficacy of a support program in community pharmacy on the improvement of the compliance to antidepressants and the clinic of typical primary care patients under normal practice circumstances.
+
+ That implies that the intervention is made by pharmacists without any specific requirement that work in the community pharmacies set up in the area of study and on patients following the usual medical circuit.
+
+ As well, the cost of the support program is calculated in order to set the effectiveness of the program.
+
+.
+
+ Pharmaceutical Care Program for Pharmacological Treatment of Depression in Primary Care@highlight
+
+The purpose of this study is to evaluate the impact of pharmaceutical services among patients starting a treatment with antidepressants for a diagnosis of depression.
+
+ The hypothesis of the study is that pharmacist intervention can improve compliance to antidepressants and patient wellbeing.
+

@@ -1,0 +1,20 @@
+(secondQuint)Improving Access to a Primary Care Based Positive Parenting Program.
+
+ The investigators will perform a randomized controlled trial of the impact of Child Adult Relationship Enhancement (CARE) plus peer mentor on increasing program adoption, acceptability, and appropriateness among 2-6 year old children and their parents at UNC Children's Primary Care Clinic.
+
+ The investigators will also examine the effectiveness of CARE plus peer mentor on dysfunctional parenting and child behavior problems.
+
+ Participants will be randomized to CARE plus peer mentor or standard CARE.
+
+ Program attendance, acceptability, and appropriateness will be measured upon completion of the 6-week program.
+
+ Dysfunctional parenting and child behavior will be measured at baseline and 6 weeks.
+
+ The investigators will conduct semi-structured interviews among a sample of parents (~20-30) in order to understand the impact of the peer mentors on program implementation, as well as barriers and facilitators to program initiation and long-term participation.
+
+.
+
+ Improving Access to a Primary Care Based Positive Parenting Program@highlight
+
+This is a randomized clinical trial of the impact of incorporating a peer mentor into a primary care based group parenting program on increasing program participation by parents and improving program outcomes.
+

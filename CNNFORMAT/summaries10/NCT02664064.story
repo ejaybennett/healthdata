@@ -1,0 +1,16 @@
+(firstQuint)Evaluation of Prevent in Underserved Populations.
+
+ The Diabetes Prevention Program (DPP) demonstrated that intensive behavioral counseling is a successful approach to reduce the risk of developing diabetes in patients with prediabetes.
+
+ While the DPP lifestyle intervention was successful and group based adaptations of the DPP have positive results, scalable alternatives that allow for even broader reach are necessary.
+
+ Omada Health has developed an online, group-based, recognized DPP program (Prevent).
+
+ The goal of this study is to evaluate a literacy-adapted version of Prevent for patients with prediabetes in safety net health care settings.
+
+.
+
+ Evaluation of Prevent in Underserved Populations@highlight
+
+The goal of this study is to evaluate an online Diabetes Prevention Program adapted for patients with prediabetes in safety net health care settings.
+

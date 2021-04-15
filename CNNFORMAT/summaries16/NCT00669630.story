@@ -1,0 +1,24 @@
+(thirdQuint)The GoodNEWS Lifestyle Enhancement Program.
+
+ The GoodNEWS Trial is an 18-month effectiveness trial with an 18-month extended maintenance study, among 20 African-American and low-income congregations participating in the GoodNEWS faith-based lay health promotion program.
+
+ After training, congregations will be randomized to either GoodNEWS with a health maintenance intervention (GoodNEWS-I) or GoodNEWS program alone (GoodNEWS-PA).
+
+ The maintenance intervention combines elements of the medical care model and features of community-based support.
+
+ Primary data collection will occur at baseline, 18, and 36 months with the two primary outcomes being levels of physical activity as measured by 7- Day Physical Activity Recall (PAR) and dietary change as measured by the Diet History Questionnaire (DHQ).
+
+ The primary hypothesis is that the maintenance group will significantly increase physical activity and healthy eating behavior compared to the program only group.
+
+ We also hypothesize that lipoprotein and glucose levels, and blood pressure will be significantly improved over baseline in the GoodNEWS-I group and that these changes will be significantly greater than in the GoodNEWS-PA group.
+
+ At the end of the trial, both groups will continue in an 18-month extended maintenance study.
+
+.
+
+ The GoodNEWS Lifestyle Enhancement Program@highlight
+
+This study will train Lay Health Promoters (LHPs) from African-American churches to administer healthy living lessons and activities to their congregations in order to improve overall health and address cardiovascular disease.
+
+ The primary hypothesis is that LHP training combined with a well supported maintenance strategy will be more effective than LHP training alone in reducing risk factors for cardiovascular disease.
+

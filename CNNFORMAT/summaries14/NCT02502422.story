@@ -1,0 +1,20 @@
+(secondQuint)Relationship Between Optimal Laryngeal Mask Airway Cuff Volume and Physical Examination of Head and Neck.
+
+ Overinflation of laryngeal mask airway cuff can induce side effects like hoarseness, vocal cord paralysis, sorethroat.
+
+ Some study revealed that 60cmH2O of intracuff pressure is maximum pressure which is not increase side effect.
+
+ The manufacturer recommends that the cuff is inflated with the minimum volume of air required to provide an effective seal(max volume - size 3, 20 ml; size 4, 30 ml; size 5, 40).
+
+ The investigators will measure anatomical structure (neck circumference, neck length, thyroid-mental distance, etc.
+
+) which can influence cuff volume and pressure and find correlation between cuff volume and physical figure measured.
+
+.
+
+ Relationship Between Optimal Laryngeal Mask Airway Cuff Volume and Physical Examination of Head and Neck@highlight
+
+Overinflation of laryngeal mask airway cuff increase side effect like hoarseness, vocal cord paralysis, sorethroat.
+
+ The investigators will study correlation between laryngeal mask airway cuff volume and pressure and physical examination of head and neck.
+

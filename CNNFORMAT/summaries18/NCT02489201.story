@@ -1,0 +1,22 @@
+(thirdQuint)A Study of Donafenib Monotherapy in Advanced Oesophageal Cancer.
+
+ This open-label, noncomparative, two-part phase 1B trial recruited patients with advanced, inoperable oesophageal cancer.
+
+ The primary objectives were to assess the safety for donafenib tosylate tablets .
+
+The secondary objectives were to estimate tumor response, progression-free survival, duration of response, and disease control rate (response plus stable disease); to evaluate changes in quality of life(QoL); This study is 2-stages designing.
+
+ The investigators plan to enroll 19 patients in the first stage study.
+
+ The investigators will start the secondary stage study if the disease control rate >=8/19.
+
+.
+
+ A Study of Donafenib Monotherapy in Advanced Oesophageal Cancer@highlight
+
+This open-label, one-center, noncomparative, two-stages phase 1B trial assessed the tyrosine kinase inhibitor donafenib tosylate tablets(400 mg/d,200mg bid) in patients with advanced, inoperable oesophageal cancer progressing after chemotherapy .
+
+ The primary endpoint is the safety.
+
+The secondary endpoints are tumor response and progression-free survival.
+

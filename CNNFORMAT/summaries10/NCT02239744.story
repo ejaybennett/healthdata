@@ -1,0 +1,27 @@
+(firstQuint)Intervention Study on the Health Impact of Air Filters in Chinese Adults.
+
+ We conducted a randomized double-blind crossover trial among 35 healthy college students in Shanghai, China in 2014.
+
+ These students lived in dormitories that were randomized into two groups and alternated the use of true or sham air purifiers for 48 hours with a 2-week wash-out interval.
+
+All participants and research staff were blinded to the group assignment.
+
+ We requested all participants to stay in their dormitory room with the windows/doors closed throughout each 48-hour intervention period.
+
+ We delivered foods and drinks to each room during the intervention period.
+
+ All interventions started at 8 a.
+
+m.
+
+ to avoid issues related to diurnal variation.
+
+ We evaluated health endpoints and drew blood immediately after the completion of each 48-hour intervention.
+
+ We measured 14 circulating biomarkers of inflammation, coagulation and vasoconstriction, lung function, blood pressure (BP), and fractional exhaled nitric oxide (FeNO).
+
+.
+
+ Intervention Study on the Health Impact of Air Filters in Chinese Adults@highlight
+
+This study aimed to evaluate whether a short-term indoor air purifier intervention improves cardiopulmonary health based on a randomized double-blind crossover trial

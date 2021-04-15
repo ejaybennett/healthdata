@@ -1,0 +1,20 @@
+(secondQuint)The Effect of Balance PD Solution on the Peritoneal Membrane in Patients on Automated Peritoneal Dialysis.
+
+ Equivalence of the investigational PD solution balance regarding fluid status compared to the conventional PD solution.
+
+ Effects of balance on inflammation and systemic advanced glycation end products formation.
+
+ Effects of balance on peritoneal and total urea clearance, on peritoneal and total creatinine clearance and on ultrafiltration, on residual diuresis and on cholesterol levels.
+
+ Safety of the investigational PD solution balance and the conventional PD solution as a control drug.
+
+ The mesothelial cell mass assessed by Cancer Antigen 125 is affected by the use of the type of PD solution in APD patients using sleep cent safe.
+
+ Treating patients with the PD solution balance leads to not more than 1 litre difference in hydration in comparison to the conventional PD solution which is considered as clinically not relevant regarding blood pressure.
+
+.
+
+ The Effect of Balance PD Solution on the Peritoneal Membrane in Patients on Automated Peritoneal Dialysis@highlight
+
+To investigate the biocompatibility of the peritoneal dialysis (PD) solution balance in comparison to the conventional PD solution in APD(automated peritoneal dialysis) patients using the APD cycler sleep cent safe.
+

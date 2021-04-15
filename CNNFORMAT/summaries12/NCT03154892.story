@@ -1,0 +1,26 @@
+(fifthQuint)The Effect of Conbercept Injection Through Different Routes for Neovascular Glaucoma.
+
+ The neovascular glaucoma (NVG) is a refractory type of secondary glaucoma and often lead to frustrated treatment and blindness.
+
+ It has been confirmed high levels of vascular endothelial growth factor (VEGF) in NVG.
+
+ Conbercept is an anti-VEGF agent,Its role in regression of other neovascular disorders such as wet-type age-related macular degeneration and diabetic retinopathy has been described.
+
+ The intravitreal injection of anti-VEGF agent has shown its therapeutic potential for the early stage of NVG, but not for the late stage.
+
+ Intracameral injection maybe used as an alternative way for administration.
+
+ Investigators aim to evaluate the efficacy and safety of intracameral and intravitreal injection of conbercept for the treatment of NVG.
+
+.
+
+ The Effect of Conbercept Injection Through Different Routes for Neovascular Glaucoma@highlight
+
+The neovascular glaucoma (NVG) is a refractory type of secondary glaucoma and often lead to frustrated treatment and blindness.
+
+ It has been confirmed high levels of vascular endothelial growth factor (VEGF) in NVG.
+
+ Conbercept is an anti-VEGF agent,its role in regression of other neovascular disorders such as wet-type age-related macular degeneration and diabetic retinopathy has been described.
+
+ Investigators aim to evaluate the efficacy and safety of intracameral and intravitreal injection of conbercept for the treatment of NVG.
+

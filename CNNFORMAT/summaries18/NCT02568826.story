@@ -1,0 +1,46 @@
+(thirdQuint)Tolerability, Safety and Activity of a Muscle Relaxant Molecule IDN5243 in Patients With Low Back Pain.
+
+ The purpose of this trial is to evaluate in a Phase 2 A study, the analgesic tolerability, safety and activity of IDN 5243 (3-glycosyl-3-O-demethylthiocolchicine derivative) administered intramuscularly at 4mg b.
+
+i.
+
+d.
+
+ for 5 days in subjects with Low Back Pain (LBP).
+
+ IDN 5243 (3-glycosyl-3-O-demethylthiocolchicine derivative) is a new muscle relaxant molecule prepared by synthesis from D-xylose and 3-O-demethylthiocolchicine.
+
+ The primary outcomes of the study will be to evaluate the systemic safety (vital signs, laboratory evaluations and incidence of adverse events) of the study drug assessed by Investigator taking into consideration the change from baseline to DAY 5, the local tolerability assessed by the patient every day during the treatment period and by Investigator.
+
+ The secondary objectives of the study will be to evaluate the analgesic activity of the study drug.
+
+ Analgesic activity will be evaluated with scoring spontaneous pain.
+
+ In particular, the secondary outcome of the trial will be the change of the Visual Analogue Scale (VAS Scale) score (100 mm) evaluated at baseline and at DAY 5 (Visit V5).
+
+ Moreover, the evaluation of secondary parameters for the analgesic activity and changes on quality of life will be assessed.
+
+ Patients will perform a total of 6 visits: 5 visits during the treatment duration (day 1 - day 5) and a Follow-up visit (day 12) will be performed after 7 days from the end of treatment ( 2 days in the event that the visit will occur on Sunday).
+
+.
+
+ Tolerability, Safety and Activity of a Muscle Relaxant Molecule IDN5243 in Patients With Low Back Pain@highlight
+
+This is a prospective cohort study, open-label, uncontrolled proof of concept trial.
+
+ The trial objective is to evaluate the analgesic tolerability, safety and activity of IDN 5243 (3-glycosyl-3-O-demethylthiocolchicine derivative)administered intramuscularly at 4 mg b.
+
+i.
+
+d.
+
+ for 5 days in the morning (8.
+
+00-10.
+
+00 AM) and in the evening (6.
+
+00-8.
+
+00 PM) in subjects with Low Back Pain (LBP).
+

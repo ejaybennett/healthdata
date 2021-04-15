@@ -1,0 +1,13 @@
+(firstQuint)Genotyping and Phenotyping of CYP2D6 Breast Cancer Patients on Tamoxifen.
+
+ Tamoxifen is an antiestrogen drug with concentration dependent properties, with z-endoxifen known as active metabolite.
+
+ Until know therapeutic range for z-endoxifen to improve treatment response was not known.
+
+ Variation response on tamoxifen can be cause of genetic polymorphism CYP2D6 that can be different between interindividul and ethnic.
+
+ The aim of this study is to determine phenotype and genotype of CYP2D6 as predictors of z-endoxifen concentrations in plasma of outgoing patients treated with tamoxifen for at least 4 months.
+
+ Genotyping and Phenotyping of CYP2D6 Breast Cancer Patients on Tamoxifen@highlight
+
+This study is an observational study to determine phenotype and genotype of CYP2D6 as predictors of z-endoxifen concentrations in plasma of outgoing patients treated with tamoxifen for at least 4 months

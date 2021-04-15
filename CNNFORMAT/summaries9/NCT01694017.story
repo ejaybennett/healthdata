@@ -1,0 +1,36 @@
+(thirdQuint)Economic, Clinical and Quality of Life Assessment in Patients on Antiretroviral Therapy.
+
+ The drug regimen for treatment of HIV at the free ART centers in India includes stavudine/zidovudine and lamivudine with nevirapine.
+
+ Approximately 20-30% of the patients on this regimen experience drug toxicity within the first six months of treatment.
+
+ The tenofovir based regimen is one of the least toxic regimens with less than 5% of patients experiencing toxicity.
+
+ Tenofovir based regimen is not considered as the first choice for ART in the Indian governmental program, because it is more expensive than the other drug regimens, in spite of better clinical outcomes in resource limited settings.
+
+ The cost of treatment with stavudine/zidovudine is presumed to be less expensive and is the preferred first line treatment, but we believe that although the direct cost to the government is less, patients on zidovudine/stavudine regimen have to spend more money for additional hospital visits and admissions, laboratory investigations and other medications due to ART induced toxicity.
+
+ There are no published data including economic, clinical and quality of life outcomes to compare the two regimens from India.
+
+ Hence, this unblinded randomized pragmatic comparative effectiveness study will seek to identify the best treatment for HIV patients based on the incremental cost effectiveness ratio (ICER), quality of life (QOL) and clinical outcomes.
+
+ The clinical outcomes include viral suppression, change in the CD4 and proportion of patients with toxicity and opportunistic infections.
+
+ Direct costs for the treatment will be calculated.
+
+ The QOL scores will be estimated and compared between the regimens using questionnaires.
+
+ QOL scores and direct cost will be used as utilities for calculating ICER.
+
+.
+
+ Economic, Clinical and Quality of Life Assessment in Patients on Antiretroviral Therapy@highlight
+
+The purpose of this study is to compare clinical, economical and quality of life (QOL) outcomes in patients living with HIV on zidovudine/stavudine regimen and tenofovir regimen.
+
+ This study will be an unblinded randomized trial.
+
+ The first step will be empirical data collection for one year for calculating the incremental cost effectiveness ratio (ICER).
+
+ The second step will be to perform a simulation model for calculating long term ICER.
+

@@ -1,0 +1,18 @@
+(firstQuint)CC100: Safety and Tolerability of Single Doses.
+
+ Approximately 18 healthy subjects will be randomized to receive by mouth either 3 single increasing doses of CC100 or 1 dose of placebo and 2 increasing doses of CC100.
+
+ Dosing will occur every 2 to 7 days for a study duration of 5 to 15 days from the 1st dose.
+
+ Subjects are required to stay in the Clinic for approximately 24 hours following each dose.
+
+ Subjects may choose to have an optional lumbar puncture following the 3rd dose of study drug.
+
+.
+
+ CC100: Safety and Tolerability of Single Doses@highlight
+
+The purpose of this study is to see if CC100, given by mouth, is safe and is tolerated in increasing doses.
+
+ How long the drug remains in the body will also be calculated.
+

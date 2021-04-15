@@ -1,0 +1,36 @@
+(fifthQuint)Thalassemia Treatment Based on the Stem Cell Technology.
+
+ 1.
+
+ On a Good Manufacturing Practice(GMP) condition, we establish non-exotic of different mutation types of beta-thalassemia -induced pluripotent stem cells(iPS) and make a comparisons of the stability and the differentiation of efficiency of these iPS cells inducing from different sources with foreign gene integration.
+
+ 2.
+
+ Using the technique of artificial nuclease and in situ repairmen, we establish efficient system for different beta-thalassemia mutation site and in view of the security of these system.
+
+ 3.
+
+ Establish a repaired beta-thalasemia gene mutated differentiation of iPS technology system.
+
+ 4.
+
+ Build a functional gene therapy self-limiting slow viruses, optimizing the preparation system and to establish a virus preparation of infection of hematopoietic stem cell technology system under the GMP condition.
+
+ 5.
+
+ Establish humanized beta-mice model, evaluate the safety of the iPS cell of gene therapy and efficiency before the clinical experiment.
+
+ 6.
+
+ Improve the existing hematopoietic stem cell transplant(HSCT) clinical application solutions, detect rate of graft rejection, rate of transplantation and other indicators, finish the evaluation of application by clinical cases.
+
+.
+
+ Thalassemia Treatment Based on the Stem Cell Technology@highlight
+
+In order to study the transplantation effect of hematopoetic stem cells from beta-thalassemia induced pluripotent stem cells.
+
+ We applied clinical grade source of autologous hematopoietic stem cell for the treatment of beta-thalassemia patients, detecting the homing of hematopoietic stem cell transplantation, the differentiation of hematopoietic stem cells in vivo and the hemoglobin beta-chain (HBB) protein expression in the body of recovery, etc.
+
+, as well as to make a research on the efficacy and safety of hematopoietic stem cells from beta-thalassemia induced pluripotent stem cells.
+

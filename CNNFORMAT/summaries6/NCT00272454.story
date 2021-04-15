@@ -1,0 +1,16 @@
+(firstQuint)Cilostazol in Acute Ischemic Stroke Treatment (CAIST).
+
+ Stroke is a leading cause of death and elderly disability in developed countries.
+
+ However, treatment of acute stroke is limited except thrombolytic therapy in hyperacute stroke within several hours.
+
+ Currently, aspirin is widely used in spite of its small benefit compared to bleeding complications.
+
+ Cilostazol will be compared to aspirin in acute stroke patients in terms of functional outcome at 3 months, efficacy to prevent stroke recurrence, and safety for bleeding complications.
+
+.
+
+ Cilostazol in Acute Ischemic Stroke Treatment (CAIST)@highlight
+
+The purpose of this study is to study efficacy and safety of cilostazol use in patients with acute ischemic stroke.
+

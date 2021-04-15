@@ -1,0 +1,16 @@
+(firstQuint)Neoadjuvant Tamoxifen in Locally Advanced Breast Cancer in a Low/Middle Income Country.
+
+ This is a single arm feasibility study of neoadjuvant tamoxifen for locally advanced hormone receptor positive breast cancer in a low-resource setting in a middle-income country (Guatemala).
+
+ Patients will be treated with tamoxifen for four to six weeks, then have an on-treatment biopsy to assess Ki-67.
+
+ If Ki-67 is less than or equal to 10%, the patient will continue on tamoxifen for a total of 4 months; if Ki-67 is greater than 10% or there is clinical progression, patients will be taken off study.
+
+ The study will evaluate the proportion of patients treated with four months of tamoxifen who undergo definitive surgery and the clinical and pathologic response rates.
+
+.
+
+ Neoadjuvant Tamoxifen in Locally Advanced Breast Cancer in a Low/Middle Income Country@highlight
+
+This study evaluates the feasibility and efficacy of neoadjuvant tamoxifen for patients with locally advanced hormone receptor positive breast cancer in a low/middle income country.
+

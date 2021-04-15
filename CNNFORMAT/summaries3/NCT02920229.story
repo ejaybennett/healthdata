@@ -1,0 +1,14 @@
+(fifthQuint)68Ga-PSMA HBED-PET/CT in the Evaluation of the Biochemical Relapse in Patients With a History of Prostate Cancer Radically Treated.
+
+ Single-center, prospective, diagnostic trial.
+
+ The primary objective of this study is to evaluate the sensitivity of 68Ga-PSMA PET /CT defined as the ratio between the number of 68Ga-PSMA PET /CT positive patients and the number of prostate cancer patients with biochemical relapse and negative standard imaging.
+
+ The secondary objectives are: - Sensitivity for different Prostatic Specific Antigen (PSA) values (ranges) - Sensitivity for different lesion sites - Treatment response assessment with a second PET - False positives detection during Follow Up (FUP) (with other standard methods and eventually optional biopsy) for patient without any treatment - safety 67 evaluable patients will be injected with 100-200 megabecquerel (MBq) 68Ga-PSMA intravenously.
+
+ 68Ga-PSMA HBED-PET/CT in the Evaluation of the Biochemical Relapse in Patients With a History of Prostate Cancer Radically Treated@highlight
+
+Single-center, prospective, diagnostic trial in radically treated patients with biochemical recurrence of prostate cancer.
+
+ Patients with radically treated prostate cancer with biochemical relapse and negativity of all traditional morphological and functional imaging (transrectal ultrasound, bone scan, 18F-FMC PET/CT, CT/MRI) or doubtful imaging of 2-deoxy-2-[fluorine-18] (18F)-fluoromethylcholine (FMC) PET/CT will receive a Gallio-68 (68Ga)- Prostate Specific Membrane Antigen (PSMA) Positron Emission Tomography (PET)/Computed Tomography (CT) scan.
+

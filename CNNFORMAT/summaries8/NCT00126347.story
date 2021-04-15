@@ -1,0 +1,20 @@
+(secondQuint)Effect of Betaine, Serine and Folic Acid on Vascular Function in Healthy Volunteers.
+
+ A high plasma homocysteine is a potential risk factor for cardiovascular disease and death.
+
+ However, it remains uncertain whether homocysteine per se, low status of folate, or other factors related to methionine metabolism are involved in the pathogenesis of cardiovascular disease.
+
+ Previous studies have shown that a high concentration of homocysteine in blood is related to an impaired vascular function in the arteries, an indicator of cardiovascular disease risk.
+
+ Virtually all intervention trials used folic acid as a homocysteine-lowering agent, which may however affect vascular function through mechanisms not related to homocysteine.
+
+ The researchers investigated whether reduction in homocysteine concentrations following a methionine load, via supplementation with serine, betaine or folic acid improves vascular function in healthy volunteers, in order to distinguish between effects of folic acid and of homocysteine-lowering per se.
+
+ Comparison: The effects of supplementation with serine, folic acid and betaine (all together with an oral methionine load) were compared to the effects of a placebo (together with a methionine load) on plasma homocysteine concentrations and on vascular function following methionine loading in healthy volunteers.
+
+.
+
+ Effect of Betaine, Serine and Folic Acid on Vascular Function in Healthy Volunteers@highlight
+
+The purpose of this study is to determine whether reducing the increase in plasma homocysteine concentrations following an oral methionine load affects vascular function in healthy volunteers, irrespective of the homocysteine-lowering agent.
+

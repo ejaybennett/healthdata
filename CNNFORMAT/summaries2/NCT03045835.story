@@ -1,0 +1,30 @@
+(thirdQuint)Baska  Mask Versus Endotracheal Tube in Laparoscopic Cholecystectomy.
+
+ Patient's satisfaction and smooth process is crucial for perioperative care.
+
+Conduct of Anaesthesia including choice of airway devices play an important role.
+
+ Endotracheal intubation has long been regarded as the technique of choice for airway management in laparoscopic surgery.
+
+ However, there is currently an emerging interest in laryngeal mask as the substitute for endotracheal tube in laparoscopic surgery.
+
+ The increased abdominal pressure secondary to gas insufflation in Laparoscopic surgery demands a good supraglottic airway device with features of good seal, aspiration prevention and effective ventilation.
+
+ Few studies have evaluated the performance Baska(R) Mask for various type of surgery and had obtained high "first-attempt" success rate, easy insertion and a good oropharyngeal leak pressure above 30cmH2O with low complications such as sorethroat, dysphonia and dysphagia.
+
+ However, study regarding comparison of Baska(R) mask with endotracheal tube has not been carried out before.
+
+ Therefore, the investigators would like to evaluate this novel device in comparison with endotracheal tube for laparoscopic surgery in our centre.
+
+ This will be a prospective randomized controlled study in University Malaya Medical Centre to compare Baska(R) mask with the conventional laryngoscope-guided endotracheal intubation for laparoscopic surgeries.
+
+ The investigators would like to study the efficacy of this device in term of : time to effective airway insertion, efficacy of airway seal, post-operation device of complications.
+
+.
+
+ Baska  Mask Versus Endotracheal Tube in Laparoscopic Cholecystectomy@highlight
+
+Baska mask is a new novel supraglottic airway device with many salient features.
+
+ The investigators aim to determine the benefit of BASKA mask as an effective airway device for laparoscopic surgery, and whether it can even substitute endotracheal intubation, in order to smoothen the surgery and anaesthesia process as well as reduce perioperative complications.
+

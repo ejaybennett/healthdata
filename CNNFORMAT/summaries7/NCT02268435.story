@@ -1,0 +1,12 @@
+(firstQuint)Dovitinib in Combination With Imatinib in Patients With Gastrointestinal Stromal Tumors.
+
+ combination of dovitinib and imatinib could lead to additive or synergistic effect in patients who had failure of standard TKI therapies including imatinib, sunitinib, and/or regorafenib.
+
+ In this phase I-II study of dovitinib plus imatinib, we aim to determine a recommended dose of dovitinib plus imatinib and to evaluate the safety and activity of the combination at the recommended dose as a 3rd or more line of treatment in metastatic or unresectable GIST.
+
+.
+
+ Dovitinib in Combination With Imatinib in Patients With Gastrointestinal Stromal Tumors@highlight
+
+The objective of this study is to determine the recommended dose of combination of dovitinib and imatinib in phase I study.
+

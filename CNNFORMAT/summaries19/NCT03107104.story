@@ -1,0 +1,15 @@
+(firstQuint)Triton Fundus Autofluorescence and Fluorescein Angiography.
+
+ The objectives of this study are to: 1.
+
+ Compare the image quality of the fundus autofluorescence (FAF) photographs between DRI OCT Triton (plus) and TRC-50DX retinal camera.
+
+ 2.
+
+ Compare the image quality of the fluorescein angiography (FA) photographs between DRI OCT Triton (plus) and TRC-50DX retinal camera.
+
+.
+
+ Triton Fundus Autofluorescence and Fluorescein Angiography@highlight
+
+Compare the image quality of the fundus autofluorescence and fluorescein angiography

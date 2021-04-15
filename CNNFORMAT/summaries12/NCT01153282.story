@@ -1,0 +1,16 @@
+(firstQuint)Physical Functional Side Effects of Taxane Chemotherapy for Breast Cancer.
+
+ Taxanes, a type of chemotherapeutic agent prescribed to breast cancer patients, have a known physical side effect of chemotherapy induced peripheral neuropathy (CIPN).
+
+ The purpose of this qualitative study is to understand the experience and physical functional side effects of taxanes.
+
+ This is the first of a two phase study.
+
+ The overall goal is to identify existing objective physical performance measures to assess functional side effects of taxanes.
+
+.
+
+ Physical Functional Side Effects of Taxane Chemotherapy for Breast Cancer@highlight
+
+Determine the characteristics of symptoms and functional impairment associated with chemotherapy induced peripheral neuropathy.
+

@@ -1,0 +1,40 @@
+(fifthQuint)A Comparison of Short Interval vs.
+
+ Routine Postpartum Visit on Contraceptive Initiation.
+
+ Our primary objective is to determine whether an additional 3-week postpartum visit, compared to usual postpartum care, will affect the initiation of LARC by 6 weeks postpartum.
+
+ Our secondary outcomes include: 1) desired method of postpartum contraception; 2) continuation and satisfaction with contraception; and 3) incidence of rapid repeat and unintended pregnancy at 12 months.
+
+ We will also measure attendance and satisfaction with 3- compared to 6-week postpartum visits.
+
+We will perform a two-arm randomized controlled trial (RCT).
+
+ Women will be randomized to routine postpartum follow-up compared to two postpartum visits; one at 3 weeks and one at 6 weeks, with initiation of contraception at the 3-week visit as indicated.
+
+ Women will be recruited from the postpartum service of Barnes-Jewish Hospital and all women will receive structured comprehensive counseling (adapted from the CHOICE Project Model) prior to discharge from the hospital.
+
+ Postpartum visits will occur at our outpatient ambulatory clinic sites.
+
+ Participants will complete in-person surveys at baseline and at each visit, and telephone surveys at 6- and 12-months postpartum.
+
+ Planned recruitment will be 200 women based on a 2-fold increase in LARC initiation in the intervention group compared to control group (40% vs.
+
+ 20% initiation rate).
+
+.
+
+ A Comparison of Short Interval vs.
+
+ Routine Postpartum Visit on Contraceptive Initiation@highlight
+
+The current postpartum care model of a single visit 4-6 weeks after delivery does not optimally address contraceptive needs.
+
+ By this visit, many women have resumed sexual activity, potentially putting them at risk for unintended and rapid repeat pregnancy.
+
+ In addition, many women with pregnancy-related Medicaid lose insurance coverage at this time, making it difficult to obtain long-acting reversible contraception (LARC) if desired.
+
+ Therefore, an earlier postpartum visit may remove barriers to improve access to LARC thereby, reducing unintended and rapid repeat pregnancy.
+
+ Our primary objective is to determine whether an additional 3-week postpartum visit, compared to usual postpartum care, will affect the initiation of LARC by 6 weeks postpartum.
+

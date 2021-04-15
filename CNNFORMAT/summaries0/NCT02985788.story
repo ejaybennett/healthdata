@@ -1,0 +1,26 @@
+(secondQuint)Self Digital Photography for Assessing Elbow Range of Motion.
+
+ Loss of elbow range of motion is common after trauma and can significantly affect activities of daily living.
+
+ Patients across the country travel to tertiary referral centers to have this problem addressed.
+
+ Followup is critical and can often be difficult given distances between patients home and their healthcare provider.
+
+ Measuring postoperative outcomes requires accurate and reliable documentation of range of motion.
+
+ Previously, the investigators have validated digital photography as a means of accurately measuring elbow range of motion.
+
+ In that study, photographs were taken by a non-professional photographer.
+
+ With the advance in personal technology, patients now have the ability to take photos themselves.
+
+ This study seeks to validate self photography, which will ultimately improve patient follow up and improve clinical monitoring.
+
+ Self Digital Photography for Assessing Elbow Range of Motion@highlight
+
+Loss of elbow range of motion can significantly affect activities of daily living.
+
+ Measuring elbow range of motion is critical for tracking post surgical outcomes.
+
+ This study seeks to validate the ability to validate self photography as a means of followup through long distance correspondence.
+

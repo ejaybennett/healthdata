@@ -1,0 +1,34 @@
+(fifthQuint)The Effects of Spironolactone on Calcineurin Inhibitor Induced Nephrotoxicity.
+
+ AIM: The purpose of this study is to assess whether spironolactone can prevent the formation of fibrosis in transplanted kidneys.
+
+ BACKGROUND: Calcineurin inhibitors (CNI) are one of the cornerstones of immunosuppressive therapy after kidney transplantation.
+
+ The introduction of CNI has caused a significant decrease in acute rejections.
+
+ However, CNI also have known side effects.
+
+ These include the formation of tubulointerstitial fibrosis in the transplanted kidney, contributing over time to impaired kidney function and reduced graft survival.
+
+ The mineralocorticoid aldosterone may be involved in the development of renal fibrosis.
+
+ Recent observations suggest that aldosterone plays a central role in the pathogenesis of CNI nephrotoxicity and that the mineralocorticoid-receptor-blocker spironolactone could be a useful agent to prevent it.
+
+ METHODS: This study is a randomized, placebo-controlled, double-blind study in which 170 renal transplant patients will be recruited from two nephrological departments in Southern Denmark.
+
+ Patients will be randomized to three years of treatment with either spironolactone or placebo added to the standard immunosuppressive treatment.
+
+ Renal graft biopsies, various molecular tests of tissue, blood and urine, chrome-EDTA clearance, 24-hour bloodpressure measurement and blood samples will be performed at inclusion, after 1 year, 2 years and upon completion.
+
+.
+
+ The Effects of Spironolactone on Calcineurin Inhibitor Induced Nephrotoxicity@highlight
+
+The purpose of this study is to assess whether the diuretic drug spironolactone can prevent chronic damage to transplanted kidneys caused by the medication that prevents rejection.
+
+ Spironolactone prevents the effects of the hormone aldosterone.
+
+ Aldosterone is suspected of being involved in the processes leading to chronic rejection of transplanted kidneys.
+
+ Hence, by blocking the effects of aldosterone we hope to be able to prevent loss of kidney function in transplant patients.
+

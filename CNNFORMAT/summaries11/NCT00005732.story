@@ -1,0 +1,12 @@
+(firstQuint)Develop and Implement Asthma Controlling Strategies (1).
+
+ BACKGROUND: Asthma is a serious chronic disease affecting about 12 million Americans; about 3 million are children.
+
+ The study was part of an initiative, "Developing and Implementing at the State and Local Level Educational Strategies and Interventions for Controlling Asthma in Inner City and High Risk Populations", released in February 1993 by the National Asthma Education Program of the Office of Prevention, Education and Control.
+
+.
+
+ Develop and Implement Asthma Controlling Strategies (1)@highlight
+
+To develop and implement asthma controlling strategies for inner city and high risk populations.
+

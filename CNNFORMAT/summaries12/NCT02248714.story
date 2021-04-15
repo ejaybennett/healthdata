@@ -1,0 +1,14 @@
+(thirdQuint)The Efficacy of Glucerna SR in Chinese Drug-nave Subjects With Type 2 Diabetes.
+
+ Glucerna SR (Abbott Laboratories, Columbus, USA) is a nutritional product with lower glycemic response.
+
+ About 24% of the total energy provided by Glucerna SR is due to monounsaturated fatty acids, which can help keep good metabolic state in accordance with the recommendations of the American Heart Association.
+
+ The aim of the study is to evaluate the effect of Glucerna SR treating newly-diagnosed type 2 diabetes patients (NDM) on glycemic stability, with the application of CGMS (continuous glucose monitoring system) and to further realize the safety and effect of Glucerna SR consumed as a meal replacement at breakfast meal on daily and day-to-day amplitude of blood glucose fluctuation.
+
+.
+
+ The Efficacy of Glucerna SR in Chinese Drug-nave Subjects With Type 2 Diabetes@highlight
+
+The purpose of the study is to evaluate the effect of Glucerna SR treating newly-diagnosed type 2 diabetes patients (NDM) on glycemic stability, with the application of CGMS (continuous glucose monitoring system) and to further realize the safety and effect of Glucerna SR on daily and day-to-day amplitude of blood glucose fluctuation.
+

@@ -1,0 +1,16 @@
+(firstQuint)Safety and Efficacy Study of RT001 to Treat Moderate to Severe Lateral Canthal Lines.
+
+ This multi-center study evaluates the safety and efficacy of four different doses of RT001 compared to vehicle applied as a single, bilateral topical application in at least 60 subjects with moderate to severe lateral canthal lines.
+
+ Subjects will be randomized to one of the five treatment groups in a 1:1:1:1:1 ratio.
+
+ Follow-up visits are scheduled through 28 days post-treatment.
+
+ The safety and efficacy of Cohort 1 (through the Day 14 visit) will be assessed prior to the decision to enroll subjects into Cohort 2 if additional doses or treatment regimens need to be evaluated.
+
+.
+
+ Safety and Efficacy Study of RT001 to Treat Moderate to Severe Lateral Canthal Lines@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of RT001 to treat moderate to severe lateral canthal lines in adults.
+

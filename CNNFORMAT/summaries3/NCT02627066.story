@@ -1,0 +1,106 @@
+(fifthQuint)Optimizing Cardiovascular Health and Physical Function in Hemodialysis Patients Through Volume Control and Exercise.
+
+ Patients with kidney failure require regular hemodialysis (HD) therapy 3-4 days per week to filter their blood and remove excess fluid.
+
+ However, the dialysis process is inefficient, as it typically does not remove all of the fluid and waste products that accumulate in patients since their last treatment.
+
+ This accumulation of excess fluid is called volume overload (VO).
+
+ Chronic VO can have adverse effects on the heart and arteries, primarily by increasing blood pressure, eventually lead to enlargement of the heart and cardiac dysfunction (1-3).
+
+ Some evidence also suggests that it adversely impacts patient's physical activity levels and function.
+
+ Past research has shown that a patient's fluid volume can be controlled using 'volume control' strategies.
+
+ These strategies involve progressively reducing a patient's post-dialysis body weight by slowly increasing the amount of fluid removed during each dialysis session (e.
+
+g.
+
+, by removing an extra 200-300ml of fluid each session).
+
+ Patient's dietary sodium intake is simultaneously restricted to control their thirst and to prevent fluid intake and accumulation between their treatments.
+
+ Stringent volume control has been shown to improve cardiovascular health and reduce mortality (2-3), but is rarely/never practiced in U.
+
+S.
+
+ dialysis clinics.
+
+ Instead, patients in the U.
+
+S.
+
+ are normally provided blood pressure or other medications to help mitigate the effects of excessive fluid accumulation between sessions.
+
+ However, there is little evidence that these medications are efficacious, as most have no impact on fluid accumulation per se.
+
+ Moreover, dietary sodium restriction, a principle component of successful volume reduction strategies, often requires comprehensive changes to an individual's diet due to the pervasive inclusion of salt in the U.
+
+S.
+
+ food supply.
+
+ Registered dietitians provide the majority of nutrition counseling to HD patients, but they lack the time to provide the level of care needed to sustain patient's dietary changes.
+
+ As a result, chronic volume overload is a common problem in U.
+
+S.
+
+ dialysis patients, as there are no established protocols for managing this problem other than through pharmacological interventions with no proven efficacy.
+
+ The investigators are proposing a multifactorial intervention designed to improve HD patient's cardiovascular health and physical function.
+
+ The intervention includes a novel volume control protocol that may be combined with exercise training to optimize the benefits of the volume control strategy.
+
+ HD patients from selected clinics will be randomly assigned to: 1) volume control protocol (VC); or 2) VC + exercise training (VCE).
+
+ The VC protocol will include 2 primary components: 1) a progressive increase in the amount of fluid removed during a patient's dialysis treatment (ultrafiltration volume) at the discretion of the patient's physician, and 2) a dietary intervention to improve patient's food choices, focused on reducing the intake of fast and processed foods that are high in sodium, as well as phosphorus additives that may also have damaging effects on the heart, arteries, and bone.
+
+ The dietary intervention will involve training the existing clinic staff to help deliver better and more consistent nutritional messages to their patients, to supplement the work of the existing clinic dietitian.
+
+ Patients randomized to exercise group (VCE) will receive the VC intervention in addition to a personalized exercise training and physical activity prescription from a "lifestyle interventionist" (LI).
+
+ This will include exercise during dialysis treatment, as well as counseling on how to increase physical activity levels outside of the clinic - namely at home or in the community.
+
+ The LI will also help deliver the nutritional education component of the VC protocol.
+
+ As most HD clinics typically employ one or more full time registered dietitians, the LI will work closely with them to support their work.
+
+ The LI will focus on basic nutrition messages including decreasing the intake of fast and processed foods, ensuring regular meals, and adequate protein intake.
+
+ This education will be conducted according to the Fresenius Tech Talk model.
+
+ Short in-services will be held with clinic staff to educate them on general nutrition principles.
+
+ Staff will be encouraged to incorporate these talking points into patient conversations.
+
+ Outcomes will be evaluated by the LI at baseline, and after 6 and 12 months.
+
+ Primary outcomes include mean arterial blood pressure and physical function.
+
+ Secondary outcomes include: hospitalization rates, cardiovascular function, dialysis compliance, fall incidence, and blood pressure medication prescription.
+
+ This study will provide novel information regarding the effects of a novel volume control strategy and exercise training on physical function and cardiovascular health in HD patients.
+
+ Results from this study will enable nephrologists to make more informed decisions regarding the extent to which this low-cost treatment strategy should be included as a component of the standard care in their clinics.
+
+ Ultimately, this could lead to greater use of this treatment strategy and result in significant improvements in the health and quality of life of this critically ill patient population.
+
+.
+
+ Optimizing Cardiovascular Health and Physical Function in Hemodialysis Patients Through Volume Control and Exercise@highlight
+
+This is a 12 month randomized clinical trial in which patients with renal failure undergoing maintenance hemodialysis (MHD) therapy will be placed on a volume reduction protocol that includes a novel low sodium dietary education program mediated by a lifestyle interventionist with significant collaboration from the existing clinic staff.
+
+ Participating patients will be randomized to receive: 1) the volume control protocol alone (VC), or 2) the volume control protocol + physical activity and exercise counseling (VCE) from the lifestyle interventionist (LI).
+
+ A research dietitian (RD), working in collaboration with the existing clinic RD, will develop a program to immerse clinics in a culture of sodium restriction.
+
+ The research RD will train the LI and other clinic staff (nurses, technicians, etc) to help disseminate this program, modeled after the clinic-wide dissemination approach used in Izmir, Turkey (Dr.
+
+ Ercan Ok).
+
+ In addition, the LI will provide exercise and physical activity counseling to the participants randomized to the exercise group, utilizing a SCT-based approach.
+
+ The Investigators hypothesize that mean arterial pressure will be reduced, and physical function increased, in all patients at 12 months, but the magnitude of these improvements will be greater in the VCE group.
+

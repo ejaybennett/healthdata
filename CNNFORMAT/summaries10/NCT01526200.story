@@ -1,0 +1,44 @@
+(thirdQuint)Contrast-Enhanced Intraoperative Ultrasound During Liver Surgery for Colorectal Cancer Liver Metastases.
+
+ Contrast-enhanced intraoperative ultrasound (CE-IOUS) during surgery for colorectal liver metastases (CLM) is entered in clinical practice.
+
+ However, its impact seems to decrease with the improvement of preoperative imaging.
+
+ Therefore, if CE-IOUS should be selectively or routinely applied remains unclear: a profile of patients who may benefit of CE-IOUS application has to be disclosed.
+
+ The aim of this study is to define reliable criteria for a selective use of CE-IOUS during surgery for CLM.
+
+ IOUS is performed using 3-6 MHz convex probe, and a 7.
+
+5-10 MHz micro convex probe.
+
+ Staging is completed by CE-IOUS using the standard 3-6 MHz convex probe and the dedicated 1.
+
+88-3.
+
+76 MHz harmonic frequency probe.
+
+ In all patients, 2.
+
+4 mL of sulphur-hexafluoride microbubbles (SonoVue(R), Bracco, Milan, Italy) are injected through a peripheral vein by the anesthesiologist.
+
+ Ultrasound guidance is used to drive the dissection plane as previously described.
+
+ Reference standards are histology and imaging at 6 months after surgery.
+
+ Univariate and multivariate analyses are performed.
+
+ Statistical significance is set at P=0.
+
+05.
+
+.
+
+ Contrast-Enhanced Intraoperative Ultrasound During Liver Surgery for Colorectal Cancer Liver Metastases@highlight
+
+Contrast-enhanced intraoperative ultrasound (CE-IOUS) during surgery for colorectal liver metastases (CLM) has become a part of clinical practice.
+
+ However, if it should be selectively or routinely applied remains unclear.
+
+ This study is carried out to clarify which are the criteria for a selective use of CE-IOUS if any.
+

@@ -1,0 +1,18 @@
+(secondQuint)Standard Precautions Versus Contact Additional Precautions Against Multi-drug Resistant Bacteria in Intensive Care Unit (PSBMR).
+
+ The national recommendations promote the applying of the Contact Additional Precautions (CAP) with the Standard Precautions (SP) to limit the transmission of multi-drug resistant (MDR) bacteria.
+
+ However, that could entail more costs and a reduction of quality of the patient care.
+
+ This study seeks showing it in way of a non-interventional research in a resuscitation unit.
+
+ Two periods are compared for noticing the rates of MDR bacteria contaminations.
+
+.
+
+ Standard Precautions Versus Contact Additional Precautions Against Multi-drug Resistant Bacteria in Intensive Care Unit (PSBMR)@highlight
+
+The national recommendations promote the applying of the Contact Additional Precautions (CAP) with the Standard Precautions (SP) to limit the transmission of multi-drug resistant (MDR) bacteria.
+
+ However, that could entail more costs and a reduction of quality of the patient care.
+

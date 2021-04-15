@@ -1,0 +1,26 @@
+(secondQuint)Tetracycline (Doxycycline) and Post Myocardial Infarction Remodeling.
+
+ A myocardial interstitial matrix, that provides structural support and integrity to the myocardium, is a key element to determine post infarction left ventricular remodeling (LVR).
+
+ The metalloproteinases (MMPs), an enzymatic system secreted in the extracellular medium by macrophages, has been shown to be able to degrade the most important extracellular matrix components.
+
+ Various animal experimental models have demonstrated that MMP specific inhibition in the first phase of myocardial infarction is able to contrast LVR.
+
+ Doxycycline, a member of the tetracyclines, has been shown to block various inflammation mediators and to attenuate MMP-2 and MMP-9 expression and activity at a sub-antimicrobial dosage.
+
+ Some experimental studies on rat models have suggested an anti-remodeling effect of doxycycline in myocardial infarction.
+
+ In the present study we want to evaluate if a treatment with doxycycline (100 mg b.
+
+i.
+
+d.
+
+) in the first seven days after a reperfused large (ejection fraction less than 40%) acute myocardial infarction, is effective in preventing six-month LVR.
+
+.
+
+ Tetracycline (Doxycycline) and Post Myocardial Infarction Remodeling@highlight
+
+The aim of the study is to assess the efficacy of an antibiotic treatment with tetracycline (doxycycline) in the early stage of large reperfused acute myocardial infarction (AMI), in preventing left ventricular (LV) remodeling.
+

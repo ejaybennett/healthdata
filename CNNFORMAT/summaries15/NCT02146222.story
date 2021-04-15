@@ -1,0 +1,66 @@
+(fifthQuint)VEGFR/PDGFR Dual Kinase Inhibitor X-82 and Docetaxel in Treating Patients With Solid Tumors.
+
+ PRIMARY OBJECTIVES: I.
+
+ To evaluate the safety and tolerability of intermittent X-82 (VEGFR/PDGFR dual kinase inhibitor X-82) when administered in a 2 week on, 1 week off schedule (Cycle #1).
+
+ II.
+
+ To evaluate the safety and tolerability of intermittent X-82 administered in combination with docetaxel every 3 weeks (Cycle #2).
+
+ III.
+
+ To determine the change in vascular parameters using 3'Deoxy-3'-fluorothymidine (FLT) positron emission tomography (PET)/computed tomography (CT) to X-82 alone (Cycle #1).
+
+ IV.
+
+ To determine the change in vascular parameters using FLT PET/CT to X-82 in combination with docetaxel (Cycle #2).
+
+ SECONDARY OBJECTIVES: I.
+
+ To determine the objective response using Response Evaluation Criteria In Solid Tumors (RECIST) 1.
+
+1 of intermittent X-82 with docetaxel.
+
+ II.
+
+ To measure the change in plasma vascular endothelial growth factor (VEGF) levels with changes on FLT PET/CT.
+
+ III.
+
+ To measure changes in X-82 pharmacokinetics with changes on FLT PET/CT.
+
+ TERTIARY OBJECTIVES: I.
+
+ To evaluate the safety and tolerability of sequential X-82 with docetaxel in disease sub-populations.
+
+ (Dose expansion cohort) II.
+
+ To evaluate the objective response rate of sequential X-82 with docetaxel in these disease sub-populations.
+
+ (Dose expansion cohort) OUTLINE: Patients are randomized to 1of 2 treatment arms.
+
+ ARM I: Patients receive high dose VEGFR/PDGFR dual kinase inhibitor X-82 orally (PO) once daily (QD) on days 2-15.
+
+ Beginning course 2, patients also receive docetaxel intravenously (IV) over 60 minutes on day 1.
+
+ ARM II: Patients receive low dose VEGFR/PDGFR dual kinase inhibitor X-82 PO QD on days 2-15 and docetaxel IV as in Arm I.
+
+ In both arms, courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ EXPANSION COHORT: Patients receive VEGFR/PDGFR dual kinase inhibitor X-82 as in Arm I and docetaxel IV over 60 minutes on day 1.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+.
+
+ VEGFR/PDGFR Dual Kinase Inhibitor X-82 and Docetaxel in Treating Patients With Solid Tumors@highlight
+
+This partially randomized phase I trial studies the side effects and how well sequential dosing of vascular endothelial growth factor receptor (VEGFR)/platelet derived growth factor receptor (PDGFR) dual kinase inhibitor X-82 and docetaxel works in treating patients with solid tumors.
+
+ VEGFR/PDGFR dual kinase inhibitor X-82 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading.
+
+ Giving VEGFR/PDGFR dual kinase inhibitor X-82 and docetaxel one at a time instead of concurrently may work in treating patients with solid tumors.
+

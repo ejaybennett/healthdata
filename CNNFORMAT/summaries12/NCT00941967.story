@@ -1,0 +1,52 @@
+(fifthQuint)Sorafenib Tosylate With or Without Gemcitabine Hydrochloride and Oxaliplatin in Treating Patients With Locally Advanced, Unresectable, or Metastatic Liver Cancer.
+
+ OBJECTIVES: Primary - Assess progression-free survival (RECIST) in patients with locally advanced, unresectable or metastatic hepatocellular carcinoma treated with sorafenib tosylate with vs without gemcitabine hydrochloride and oxaliplatin.
+
+ Secondary - Evaluate the tolerability of these regimens in these patients.
+
+ - Determine the objective response rate (RECIST) in patients treated with these regimens.
+
+ - Assess the overall survival of patients treated with these regimens.
+
+ - Evaluate the pharmacokinetics of sorafenib tosylate.
+
+ - Assess biomarkers (e.
+
+g.
+
+, pERK levels) associated with treatment response.
+
+ - Assess angiogenic response by functional imaging.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified according to performance status and CLIP score.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients receive oral sorafenib tosylate as in arm I.
+
+ Patients also receive gemcitabine hydrochloride IV over 100 minutes on day 1 and oxaliplatin IV over 2 hours on day 2.
+
+ Treatment with gemcitabine hydrochloride and oxaliplatin repeats every 14 days for 12 courses in the absence of disease progression or unacceptable toxicity.
+
+ - Arm II: Patients receive oral sorafenib tosylate twice daily on days 1-14.
+
+ In both arms, courses with sorafenib tosylate repeat every 14 days in the absence of disease progression or unacceptable toxicity.
+
+ Blood samples and/ or tumor tissue samples may be collected for further analysis.
+
+ After completion of study therapy, patients are followed every 2 months until disease progression and then every 6 months thereafter.
+
+.
+
+ Sorafenib Tosylate With or Without Gemcitabine Hydrochloride and Oxaliplatin in Treating Patients With Locally Advanced, Unresectable, or Metastatic Liver Cancer@highlight
+
+RATIONALE: Sorafenib tosylate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.
+
+ Drugs used in chemotherapy, such as gemcitabine hydrochloride and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ It is not yet known whether sorafenib tosylate is more effective when given with or without gemcitabine hydrochloride and oxaliplatin in treating patients with liver cancer.
+
+ PURPOSE: This randomized phase II trial is studying sorafenib tosylate to see how well it works when given with or without gemcitabine hydrochloride and oxaliplatin in treating patients with locally advanced, unresectable, or metastatic liver cancer.
+

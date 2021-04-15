@@ -1,0 +1,70 @@
+(fifthQuint)Continuous Wound Infiltration for Diminution of Post-surgery Pain After Caesarean Section.
+
+ During the past decades the rate of Caesarean sections has increased considerably, with Germany following the global trend.
+
+ When compared to other surgical interventions, Caesarean section is perceived as very painful.
+
+ Patient-controlled analgesia (PCA) is associated with significantly higher opioid dosage, as compared to cases where the same medication is administered on patient's request as a bolus by the attending staff.
+
+ Conceivably, patients using PCA reported less painful sensations.
+
+ Nonetheless, several patients and physicians express reservations concerning the use of opioids for pain management in lactating mothers.
+
+ Peripheral application of local anesthetics (e.
+
+g.
+
+ as wound infiltration or peripheral nerve blockade) has been shown in several settings to reduce the demand of systemic drug dosage in pain management.
+
+ The intended effect, however, lasts only for a couple of hours.
+
+ Feasibility of subsequent bolus drug applications is hampered by ethical concerns (being an invasive procedure) as well as staff strains and cost effectiveness considerations.
+
+ Hence, a medical device that warrants continuous and reliable administration of local analgesics might substantially improve pain management in obstetric patients.
+
+ ReadyfusOR(R) is a medical device that has been approved for use for such purposes.
+
+ This study will record the use of the Ropivacaine formulation ReadyfusOR(R) under real life conditions in a representative sample.
+
+ Ropivacaine formulation ReadyfusOR(R) is established as a standard procedure for diminution of post-surgery pain in the Department of Obstetrics of the Jena University Hospital.
+
+ The gathered information will be used to augment the knowledge about outcomes and safety of the Ropivacaine formulation ReadyfusOR(R) using for treatment of patients undergoing Caesarean section.
+
+ Analgesic efficacy will be monitored at defined intervals over an observation period of 48 h post-surgery using patient's subjective ratings of spontaneous and strain-induced pain perception, as well as the demand of auxiliary dosing of standard analgesic treatment.
+
+ At the end of surgery and prior to closure of the abdomen the drug infusion catheter of Readyfusor(R) is inserted subfascially.
+
+ An initial priming dose of 10 mL of 2mg/mL ropivacain will be injected through the catheter.
+
+ After the catheter has been primed with the initial loading dose, the Readyfusor(R) is activated by the surgeon or nurse in the operating room and connected to the wound catheter.
+
+ As described in the product information, the wound edges are supplied with Ropivacain over 48 h at a rate of 10 mg/hour (5 mL/hr).
+
+ During the first 48 h post-surgery patients receive standard pain management with Ibuprofen at doses of 600 mg administered in intervals of 8 hours.
+
+ If the patients are free of pain Ibuprofen application can be reduced as needed.
+
+ The synthetic opioid Piritramide is used as pain medication on demand for patients who report mild to severe pain defined as 5 or more points on a 10-point-Numeric Rating Scale (NRS).
+
+ In either available application option - as PCA or a bolus injection by the attending nurse - the dose of Piritramide is limited to 30 mg over 4 hours and each single application are limited to 3mg every 10 minutes.
+
+ Maximal intensity of pain at rest and pain due to mobilization (first standing up) will be assessed at intervals of 12, 24 and 48 h after treatment introduction by means of patient's statements plotted on individual numeric rating scales for each endpoint.
+
+ The primary endpoint focuses on assessing the perceived spontaneous pain intensity at 24 h post-surgery.
+
+ Further characterization of the pain-relieving effect of ReadyfusOR(R) will be provided by the records on the fractional doses of the auxiliary opioid analgesic Piritramide administered within 12, 24 and 48 h post-surgery.
+
+ The individual time needed for the recovery of mobility will provide an additional tool for treatment effect evaluation.
+
+ Finally, NRS-recorded patient's ratings on subjectively perceived satisfaction with the post-surgical pain management will be evaluated.
+
+.
+
+ Continuous Wound Infiltration for Diminution of Post-surgery Pain After Caesarean Section@highlight
+
+A medical approach that warrants continuous and reliable local administration of non-opioid analgesic drugs might substantially improve post-surgery pain management in CS, while decreasing the necessity of staff-dependent invasive procedures and the probability of untoward effects following systemic drug exposure.
+
+ ReadyfusOR(R) is a formulation comprising a Ropivacain-loaded single-use pump which has been approved for regional application of the analgesic drug, also comprising obstetric interventions.
+
+ There is, however, scarce scientific information on the efficacy and benefit of this anesthetic drug formulation for pain management following CS by means of continuous wound infiltration.
+

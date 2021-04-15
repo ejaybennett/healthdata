@@ -1,0 +1,26 @@
+(firstQuint)The Relation Between Vitamin D Production and UVB Exposed Body Surface Area.
+
+ Vitamin D deficiency is very common.
+
+ Rachitis, osteoporosis, cancer, sclerosis as well as cardiovascular diseases are related to vitamin D deficiency.
+
+ Elderly people, immigrants as well as patients with malabsorption diseases often have vitamin D deficiency.
+
+ 90-95 % of the total vitamin D requirements are obtained from the ultraviolet (UV) radiation of the skin.
+
+In spite of the risk of skin-cancer, treatment with sunlight radiation is often recommended against vitamin D deficiency.
+
+ This fact has raised a scientific debate, where concern has been expressed with regard to the risk of skin-cancer.
+
+ This dilemma should also be examined as no human studies are available on the vitamin D production in the skin after UV-radiation showing the frequency and dose necessary for sufficient production of vitamin D.
+
+ The lowest exposure frequency, the smallest body surface area and the lowest UV dose should therefore be established to be exposed in order to minimize the risk of skin-cancer by unnecessary UV-radiation.
+
+ The purpose of the project is therefore to clarify which factors there are of importance for the production of vitamin D in the skin after UVB radiation.
+
+.
+
+ The Relation Between Vitamin D Production and UVB Exposed Body Surface Area@highlight
+
+The purpose of this study is to investigate the relation between vitamin D production after UVB and exposed body surface areas with different UVB doses.
+

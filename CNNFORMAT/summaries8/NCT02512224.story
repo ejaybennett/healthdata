@@ -1,0 +1,22 @@
+(firstQuint)Comparison of Outcomes Between Parenteral and Enteral Nutrition.
+
+ Data were acquired from patients selected from a national inpatient database covering 1,057 hospitals in Japan.
+
+ Participants had received artificial nutrition between April 2012 and March 2013, were 20 years or older, and did not have cancer.
+
+ Participants were grouped into two groups: those receiving parenteral nutrition and those receiving enteral nutrition.
+
+ The investigators performed one-to-one propensity-score matching between the groups.
+
+ The primary outcome measurements were mortality rates at 30 and 90 days after the start of the procedure.
+
+ The secondary outcomes were post-procedural complications, pneumonia, and sepsis.
+
+ The investigators analyzed survival length of stay after the procedure using a Cox proportional hazards model.
+
+.
+
+ Comparison of Outcomes Between Parenteral and Enteral Nutrition@highlight
+
+Short-term outcomes of parenteral and enteral nutrition for patients unable to eat normally were compared and analyzed.
+

@@ -1,0 +1,24 @@
+(secondQuint)Needle Guiding Robot for Radiofrequency Ablation: Safety and Efficacy Study on Hepatocellular Carcinoma Patients.
+
+ A robotic system has been developed that includes a needle-path planning system and a needle-guiding robot arm with computed tomography (CT) guidance.
+
+ The robot consists of robot base, 5-axis robot arm with guiding end-effector and path-planner.
+
+ Optical tracking system with a custom-designed registration jig is used for the spatial registration and validation.
+
+ Advantages of the robotic system would be accurate targeting with diverse angulation of the robot arm in CT-guided tumor ablation.
+
+ Furthermore, robotic intervention might potentially decrease procedure time and radiation exposure to patients.
+
+ The purpose of this clinical trial with patients with hepatocelluar carcinoma is to assess the safety and efficacy of our CT-guided needle-guiding robot.
+
+.
+
+ Needle Guiding Robot for Radiofrequency Ablation: Safety and Efficacy Study on Hepatocellular Carcinoma Patients@highlight
+
+The needle guiding robot helps targeting of radiofrequency ablation needles by matching computed tomography images and patients' bodies.
+
+ Actual insertion of needles will be performed by doctors.
+
+ This study evaluates the safety and efficacy of needle targeting on patients with hepatocellular carcinoma.
+

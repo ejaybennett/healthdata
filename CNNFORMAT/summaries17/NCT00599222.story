@@ -1,0 +1,36 @@
+(fifthQuint)The Ranibizumab Plus Transpupillary Thermotherapy for Neovascular Age-Related Macular Degeneration (AMD) Study.
+
+ Neovascular age-related macular degeneration (AMD) is caused by an ingrowth of pathological vessels under the macula.
+
+ Experimental studies have demonstrated that vascular endothelial growth factor (VEGF) is centrally involved in this process.
+
+ For this reason, anti-VEGF drugs, in particular ranibizumab, as become the treatment of choice for neovascular AMD.
+
+ Ranibizumab use is limited by its high cost.
+
+ Also, ranibizumab requires repeated (sometimes up to monthly) intravitreal injections for many years.
+
+ Strategies to reduce the burden of this treatment on the patient as well as on the health care system will be critical.
+
+ Combination therapy is an attractive such possibility.
+
+ Transpupillary thermotherapy (TTT) is a technique by which vascular occlusion can be induced by delivering radiation at near infrared intensity to the target tissue through the pupil.
+
+ Several reports have indicated that TTT may be used to slow disease progression in patients with neovascular AMD.
+
+ In this study we examine whether combined ranibizumab and TTT will reduce the number of ranibizumab injections compared with ranibizumab alone (sham TTT).
+
+ The study will go on for 2 years with an interim report after 1 year.
+
+.
+
+ The Ranibizumab Plus Transpupillary Thermotherapy for Neovascular Age-Related Macular Degeneration (AMD) Study@highlight
+
+Neovascular age-related macular degeneration (AMD) is the leading cause of severe vision loss in the Western world.
+
+ Intravitreal ranibizumab has recently become the treatment of choice for neovascular (AMD).
+
+ Limitations to ranibizumab however include the high cost for the drug and the need for frequent intravitreal re-injections.
+
+ The investigators' hypothesis is that when ranibizumab is combined with transpupillary thermotherapy (TTT) the number of necessary retreatments with Lucentis will be significantly reduced as compared to ranibizumab alone.
+

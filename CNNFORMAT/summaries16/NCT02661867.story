@@ -1,0 +1,20 @@
+(thirdQuint)Pelvic Floor Function Evaluation of Singleton Primiparae After Vaginal Delivery and Cesarean Section.
+
+ Pelvic floor disorders (PFD) usually refers to three definable groups of symptoms that include pelvic organ prolapse (POP), urinary incontinence (UI), and fecal incontinence (FI).
+
+ The prevalence of these conditions increases with age, but in general, PFD affect 20-50 % of women throughout their lives.
+
+ Thus, PFD are common and have significant societal impact.
+
+ Another important PFD risk factor is childbearing.
+
+ Specifically, these disorders are more common among multiparas.
+
+ Vaginal delivery (VD) has been considered the main contributing factor because of pelvic floor muscle, fascia, and nerves damage.
+
+.
+
+ Pelvic Floor Function Evaluation of Singleton Primiparae After Vaginal Delivery and Cesarean Section@highlight
+
+Objective of this longitudinal observational cohort study was to analyze incidence of pelvic floor dysfunction (PFD) symptoms, including pelvic organ prolapse (POP), urinary incontinence (UI), and fecal incontinence (FI), seven to twelve years after delivery, in two groups of singleton primiparae after vaginal delivery (VD) and cesarean section (CS).
+

@@ -1,0 +1,18 @@
+(secondQuint)Healthcare Provider Attitudes Towards Patients With Substance Use Before and After Implementation of the SBIRT Model in the Emergency Room.
+
+ The purpose of this quality improvement research project is to briefly survey attitudes among healthcare providers toward patients with substance use disorders before and after substance abuse counselors are placed in the Emergency Room.
+
+ SBIRT stands for Screening Brief Intervention and Referral to Treatment.
+
+ The pre-test survey contains 10 questions about attitudes toward patients with substance use disorders and the post-test survey consists of 13 questions about attitudes toward patients with substance use disorders and questions regarding the SBIRT model itself.
+
+ Health care providers will be surveyed before the SBIRT Counselors begin and again at 6 months, after full SBIRT program with substance counselors on site has been in place, as a part of their regular staff education requirements.
+
+ Part of the goal of the SBIRT counselors is to educate providers about treatment and analyze data collected by and comments of Emergency Room staff.
+
+.
+
+ Healthcare Provider Attitudes Towards Patients With Substance Use Before and After Implementation of the SBIRT Model in the Emergency Room@highlight
+
+The purpose of this quality improvement research project is to briefly survey attitudes among healthcare providers toward patients with substance use disorders before and after substance abuse counselors are placed in the Emergency Room.
+

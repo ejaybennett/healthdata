@@ -1,0 +1,15 @@
+(thirdQuint)Diaphragmatic Breathing During Virtual Reality Exposure Therapy for Aviophobia.
+
+ Patients with aviophobia received treatment in Virtual Reality with or without DB.
+
+ The authors assumed that adding DB to VRET would enhance treatment effects by reducing fear during exposure, thus improving the processing of the feared situation.
+
+ The authors hypothesized that, as a result, self-efficacy would be increased in comparison to VRET alone.
+
+.
+
+ Diaphragmatic Breathing During Virtual Reality Exposure Therapy for Aviophobia@highlight
+
+The study investigated the effect of diaphragmatic breathing as an additional coping strategy during Virtual Reality Exposure Therapy in patients with aviophobia.
+
+ The authors assumed that diaphragmatic breathing (DB) would lead to less fear and physiological arousal during the VRET and to an enhanced treatment outcome

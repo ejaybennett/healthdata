@@ -1,0 +1,12 @@
+(firstQuint)Safety and Efficacy Study of Oral Fispemifene for the Treatment of Sexual Dysfunction in Hypogonadal Men.
+
+ This phase 2 study is a double-blind, placebo controlled, parallel arm study with a 4 week run-in and an 8-week treatment period.
+
+ It will assess the safety and tolerability of fispemifene, and the effects of treatment on the sexual side effects seen in this patient population using PRO endpoints.
+
+.
+
+ Safety and Efficacy Study of Oral Fispemifene for the Treatment of Sexual Dysfunction in Hypogonadal Men@highlight
+
+To evaluate the safety and efficacy of fispemifene in men with secondary hypogonadism and sexual side effects.
+

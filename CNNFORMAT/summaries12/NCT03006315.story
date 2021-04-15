@@ -1,0 +1,16 @@
+(firstQuint)Mobile Health Device Study for Myeloma Patients.
+
+ Newly diagnosed multiple myeloma participants receiving induction chemotherapy will be continuously bio-monitored at baseline (1-7 days prior to treatment initiation) and during induction chemotherapy up to completion of 6 cycles using the Garmin Vivofit wearable device.
+
+ For those patients continuing with ASCT, patients will be bio-monitored up to 90 days post ASCT.
+
+ The study will include a total of 40 newly diagnosed multiple myeloma participants in two cohorts with 20 patients in each cohort (Cohort A and B).
+
+ Cohort A will be comprised of patients /= 65 years.
+
+.
+
+ Mobile Health Device Study for Myeloma Patients@highlight
+
+Enrolled participants health status will be tracked by using a mobile health-monitoring device while undergoing chemotherapy for multiple myeloma.
+

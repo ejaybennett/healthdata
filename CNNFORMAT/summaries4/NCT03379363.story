@@ -1,0 +1,12 @@
+(firstQuint)Retrospective Chart Review Study of Pediatric Patients Treated With Korlym for Cushing Syndrome.
+
+ This retrospective chart review study seeks to collect data from pediatric patients treated with Korlym (mifepristone) to help provide clinicians with some insight on the potential role of mifepristone in the treatment of pediatric patients with Cushing syndrome.
+
+ Only sites that have been identified to have patients appropriate for this protocol will be invited to participate and contribute data on their patients Data to be collected from a retrospective chart review will include: - Patient demographics - Medical history - Pre and post treatment clinical assessments and laboratory results - Radiologic findings (if available) - Adverse events Data will be collected for all follow-up visits, up until the most recent encounter prior to IRB approval.
+
+.
+
+ Retrospective Chart Review Study of Pediatric Patients Treated With Korlym for Cushing Syndrome@highlight
+
+This retrospective, multi-center, chart review study will collect patient data from medical charts of pediatric patients who have been treated with Korlym for Cushing's syndrome.
+

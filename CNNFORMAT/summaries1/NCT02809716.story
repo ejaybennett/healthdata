@@ -1,0 +1,40 @@
+(fifthQuint)High Definition Single Cell Analysis in Colorectal Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the level of correlation between solid tumor touch preparations and liquid biopsies (circulating tumor cells [CTCs]) from patients with surgically resected colorectal cancer (CRC) metastases to the liver using single-cell high-content analysis, including gene copy number variation (CNV) and to establish one or more bio-signatures that represent the liquid and solid biopsy correlation for each patient and for the patient population.
+
+ SECONDARY OBJECTIVES: I.
+
+ To demonstrate the technical validity and reproducibility of the bio-signatures by comparing the two pre-resection liquid biopsy samples drawn one week prior to and on the day of surgery.
+
+ TERTIARY OBJECTIVES: I.
+
+ Compare biosignatures between pre-surgical and post-surgical blood samples.
+
+ II.
+
+ Compare biosignatures between resected metastatic liver tumor tissue, primary colon tumor tissue (if available), and pre-surgical blood samples.
+
+ III.
+
+ Compare biosignatures between blood samples prior to resection with those obtained after resection and at the time of recurrence.
+
+ OUTLINE: Patients undergo blood collection 1 week prior surgery, before and after surgery on the same day, and 1 week and 3 months after surgery.
+
+ Patients also undergo tissue collection during the surgery.
+
+ Blood and tissue samples are processed for high definition single cell analysis including whole-genome CNV profiles, protein expression, and cell morphology.
+
+ After completion of study, patients are followed up for up to 2 years.
+
+.
+
+ High Definition Single Cell Analysis in Colorectal Cancer@highlight
+
+This research clinical trial studies high definition single cell analysis in blood and tissue samples from patients with colorectal cancer which has spread to the liver.
+
+ High definition single cell analysis allows doctors to study the properties of cancer cells that are sometimes found in the blood of patients and to determine how the genes and proteins in them may change over time.
+
+ Studying samples from patients with colorectal cancer in the laboratory may help doctors learn more about how cancer spreads, as well as how to predict the disease outcomes in patients with cancer.
+

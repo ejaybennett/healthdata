@@ -1,0 +1,24 @@
+(thirdQuint)Observational Study Investigating the Effectiveness of Fentanyl Matrix in Relieving Pain and Improving Function in Patients With Osteoarthritis of the Knee or Hip.
+
+ This study is a prospective, open-label, non-interventional study.
+
+ The objective of this study is to investigate the utility of fentanyl matrix after 8 week treatment of fentanyl matrix for the treatment of pain due to osteoarthritis (OA) of knee or hip, which was not adequately controlled by non-opioid analgesic (e.
+
+g.
+
+ NSAIDs or COX-II selective inhibitors) or weak opioids [tramadol HCl with acetaminophen, tramadol or codeine (or combination with acetaminophen/ibuprofen)] in clinical practice according to the investigator's discretion.
+
+ This study will investigate the usefulness of fentanyl matrix based on improvement in pain and function after Fentanyl matrix administration in patients who complained of pain caused by osteoarthritis and indicated for Fentanyl matrix administration in clinical practice at the investigator's discretion.
+
+ This study will also measure the patients' functional improvement through Korean Version of WOMAC.
+
+ Observational study - No investigational drug administered.
+
+ Observational Study Investigating the Effectiveness of Fentanyl Matrix in Relieving Pain and Improving Function in Patients With Osteoarthritis of the Knee or Hip@highlight
+
+The purpose of this study is to investigate the utility of fentanyl matrix for the treatment of pain due to osteoarthritis (OA) of knee or hip, which was not adequately controlled by non-opioid analgesic (e.
+
+g.
+
+ NSAIDs or COX-II inhibitors) or weak opioids [tramadol HClacetaminophen, tramadol or codeine (or combinations with acetaminophen/ibuprofen)].
+

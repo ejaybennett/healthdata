@@ -1,0 +1,16 @@
+(firstQuint)Outcomes of Mentalization-Based Treatment for Borderline Personality Disorder.
+
+ Background: Mentalization-based treatment (MBT) in borderline personality disorder (BPD) has a growing evidence base, but there is a lack of effectiveness and moderator studies.
+
+ The present study examined the effectiveness of MBT in a naturalistic setting and explored psychiatric and psychological moderators of outcome.
+
+ Method: Borderline and general psychiatric symptoms, suicidality, self-harm, alexithymia and self-image were measured in a group of BPD patients (n=75) receiving MBT; assessments were made at baseline, and subsequently after 6, 12 and 18 months (when treatment ended).
+
+ Borderline symptoms were the primary outcome variable.
+
+.
+
+ Outcomes of Mentalization-Based Treatment for Borderline Personality Disorder@highlight
+
+The effects of a psychological treatment, Mentalization-Based Treatment, was studied using a research protocol with patients with mood swings and impulsive behavior (borderline personality disorder).
+

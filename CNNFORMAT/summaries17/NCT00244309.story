@@ -1,0 +1,16 @@
+(secondQuint)Study of Tamsulosin and/or Dutasteride to Relieve Urinary Symptoms After Brachytherapy for Localized Prostate Cancer.
+
+ Image-guided transperineal permanent prostate brachytherapy (PI) is an accepted curative treatment option for patients with early stage prostate cancer.
+
+ The most severe side effect of PI is urinary retention requiring intermittent self-catheterization (ISC).
+
+ This study will assess the ability of pharmacologic intervention to ameliorate the post-operative side effect of PI.
+
+ The use of both tamsulosin and dutasteride is proposed to have benefit in reducing urinary symptom score and in reducing the rate of intermittent self-catheterization for patients with prostate adenocarcinoma after prostate implant.
+
+.
+
+ Study of Tamsulosin and/or Dutasteride to Relieve Urinary Symptoms After Brachytherapy for Localized Prostate Cancer@highlight
+
+The purpose of this study is to determine whether a drug named tamsulosin (Flomax), or another drug named dutasteride (Avodart), or a combination of these two drugs is effective in improving urinary symptoms and decreasing the rate of intermittent self-catheterization after prostate brachytherapy.
+

@@ -1,0 +1,24 @@
+(secondQuint)The Norwegian Cervical Arthroplasty Trial.
+
+ Anterior discectomy and fusion (ACDF) is in Norway currently the most common operative method against cervical radiculopathy, caused by disc herniation and/or spondylosis.
+
+ In the last decade cervical arthroplasty has emerged as a new alternative operative method.
+
+ Arthroplasty is claimed to preserve the natural motion of the spine, thereby preventing adjacent level disc disease and providing better clinical results.
+
+ However, this hypothesis has not yet been adequately proven.
+
+ In our study, we will prove if there is any real difference in terms of clinical effect between cervical arthroplasty and ACDF.
+
+We will also compare the overall costs of the two methods, including cost-utility analyses.
+
+ Moreover, we will study the development of adjacent level disease by use of MRI scans, and analyze cervical spine motion and disc height by use of Distortion Compensated Roentgen Analysis (DCRA).
+
+.
+
+ The Norwegian Cervical Arthroplasty Trial@highlight
+
+The study will compare cervical arthroplasty with cervical discectomy and fusion, in the treatment of cervical radiculopathy.
+
+ The 0-hypothesis is that there is no difference between the two methods, when comparing primary and secondary outcome variables.
+

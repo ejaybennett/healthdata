@@ -1,0 +1,50 @@
+(thirdQuint)The Efficacy of Using Volunteers to Implement a Cognitive Stimulation Program in Two Long-Term Care Homes.
+
+ Older adults who maintain their cognitive skills and abilities are able to live more independently than those whose skills have deteriorated.
+
+ The costs (money, time, personnel) associated with providing cognitive stimulation programs to residents in long-term care homes often prohibit the delivery of these programs.
+
+ The present study explored the efficacy of using volunteers to administer a stimulation program in two long-term care homes.
+
+ The program focused on stimulating reasoning, attention, and memory abilities using uncomplicated, pen-and-paper exercises.
+
+ Thirty-six resident participants and 16 volunteer participants were randomly assigned to one of two parallel groups, either the control or stimulation group.
+
+ For eight weeks, three times each week, control group participants met for standard "friendly visits" (casual conversation between a resident and volunteer) and stimulation group participants met to work through a variety of exercises meant to stimulate the cognitive abilities of residents.
+
+ Results were analyzed using a 2-way ANOVA and indicated statistically significant Group x Time interactions for Verbal Memory (F(1, 33) = 7.
+
+92, p = .
+
+008), Non-Verbal Memory (F(1, 33) = 6.
+
+8, p = .
+
+014), Learning (F(1, 33) = 5.
+
+27, p = .
+
+028), and Verbal Fluency (F (1, 33) = 5.
+
+56, p = .
+
+024).
+
+ Volunteers completed a post-study questionnaire which indicated that the volunteers in the stimulation group found their skills-based interactions more stimulating for residents.
+
+ Given this showing of improved resident abilities, it is reasonable to assert that the study does demonstrate that a volunteer-administered, cognitive stimulation program can provide measurable gains in the cognitive abilities of older adults.
+
+ Further studies concerning the role of volunteers in the maintenance of the cognitive abilities of older adults are recommended.
+
+.
+
+ The Efficacy of Using Volunteers to Implement a Cognitive Stimulation Program in Two Long-Term Care Homes@highlight
+
+Many volunteers visiting seniors make socially-based "friendly visits".
+
+ This study investigated the efficacy of volunteers making visits focused on stimulating cognition.
+
+ Participants were randomly assigned to either a "friendly visit" control group or a cognitive stimulation group.
+
+ Seniors receiving stimulation visits made statistically significant improvement in memory abilities.
+

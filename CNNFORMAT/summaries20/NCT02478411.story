@@ -1,0 +1,20 @@
+(secondQuint)Early Cycloergometric Physiotherapy in Critically Ill Patients With Invasive Mechanical Ventilation.
+
+ Cycloergometric treatment is described to improve the functional and motor status of critically ill subjects.
+
+ However, there are few studies comparing cycloergometric physiotherapy and conventional physiotherapy in intensive care subjects under mechanical ventilation.
+
+ The most relevant of these studies conducted by Burtin et al showed beneficial effects of cycloergometric treatment.
+
+ However, the duration of the physiotherapy sessions in this study differed between groups as cycloergometric group received a double daily dose of treatment.
+
+ It is known that the intensity of physiotherapy also affects the functional and motor status.
+
+ For this reason, the investigators designed a randomized controlled study with early cycloergometric or conventional treatment, with the same intensity between groups to analyze objective functional and motor endpoints.
+
+.
+
+ Early Cycloergometric Physiotherapy in Critically Ill Patients With Invasive Mechanical Ventilation@highlight
+
+Study designed to evaluate the functional and motor effects in critically ill subjects at ICU and hospital discharge with the incorporation of a mobilization program of cycloergometric physiotherapy sessions compared with conventional physiotherapy.
+

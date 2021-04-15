@@ -1,0 +1,30 @@
+(fifthQuint)Care Pathway for Patients Undergoing VATS Lobectomy or Segmentectomy.
+
+ This is a prospective, study to develop, test, fine-tune and refine an SOP for the post-operative care for patients who undergo a VATS lobectomy or segmentectomy performed by one of the surgeons in The Division of Thoracic Surgery.
+
+ This study will be conducted in two phases.
+
+ Phase 1 will be focused on early feasibility of the SOP and this will be done by enrolling 50 participants among the subgroup of Thoracic VATS Surgeons who participate.
+
+ An analysis will take place upon the completion of the phase 1 to look at the percentage of participants who were able to be discharged on or prior to POD 3.
+
+ Upon this analysis, modifications across all areas of the care pathway will be evaluated and altered if deemed necessary by the PI and other members of the study team.
+
+ This analysis will drive any modifications needed that will be incorporated into the phase II design prior to its implementation.
+
+ The treating Thoracic Surgeon for each patient will follow the SOP as it is outlined and the steps the post-operative team will follow will be dependent on which phase the participant is enrolled too.
+
+ Data will be collected for each participant starting just prior to the VATS operation and continue through the discharge and conclude once the participants have reached their 90-day post-discharge date.
+
+ Upon discharge from the hospital the participant will enter the follow-up period of the study.
+
+.
+
+ Care Pathway for Patients Undergoing VATS Lobectomy or Segmentectomy@highlight
+
+The goal of this study is to create a unified SOP for care of subjects undergoing VATS lobectomy and segmentectomy by members of the Division of Thoracic Surgery.
+
+ Other academic centers have created standardized algorithms for the care of their subjects and this enables the centers to determine which subjects can be placed on an accelerated pathway to discharge and which cannot.
+
+ Some of these SOPS dictate uniform treatment algorithms with reduction in what may be unnecessary tests to simplify patient care and likely accelerate them towards safe and more timely discharge from the hospital.
+

@@ -1,0 +1,13 @@
+(firstQuint)Cancer and Disorders of Cognitive Functions and Quality of Life: "Cognitive Rehabilitation in Patients Suffering From Cancer and Treated With Chemotherapy".
+
+ The main objective of our study was to evaluate, in patients treated for cancer expressing the cognitive complaint during or after treatment, interest workshops on improving cognitive rehabilitation felt their cognitive functions and their quality of life.
+
+ The primary endpoint was the proportion of patients showing an improvement in the score of perceived deficiencies (score ranging from 0 to 72) of the FACT-Cog after treatment.
+
+ The FACT-Cog is a self-administered questionnaire assessing the patients felt their cognitive difficulties (memory, attention, concentration) and the impact of these difficulties on their quality of life.
+
+ The improvement is defined as an increase of 7 points >= cognitive score won by the (a) patient (e) after the treatment.
+
+ Cancer and Disorders of Cognitive Functions and Quality of Life: "Cognitive Rehabilitation in Patients Suffering From Cancer and Treated With Chemotherapy"@highlight
+
+Our study aims to measure the impact of cognitive rehabilitation workshops on the development of cognitive functions and quality of life of patients expressing a cognitive complaint

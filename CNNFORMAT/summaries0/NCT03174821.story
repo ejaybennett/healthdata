@@ -1,0 +1,18 @@
+(thirdQuint)Effect Insulin Pump Therapy to Patients With Diabetic Nephropathy.
+
+ Worldwidely, about 30% of Type 1 Diabetes Mellitus (T1DM) and 20%-50% of T2DM patients suffered diabetic nephropathy (DN).
+
+ Oxidative stress resulting from increased production of reactive oxygen species (ROS) plays a crucial role in the development of diabetic complications.
+
+ Insulin pump therapy is better than subcutaneous injection in terms of the drug safety and effectiveness.
+
+ The researches aim to monitor the level of oxidative stress of patient in different stage of diabetic nephropathy before and after insulin pump therapy.
+
+.
+
+ Effect Insulin Pump Therapy to Patients With Diabetic Nephropathy@highlight
+
+The recent study suggested that oxidative stress resulting from increased production of reactive oxygen species (ROS) plays a crucial role in the development of diabetic complications.
+
+ The researches aim to monitor the level of oxidative stress of patient in different stage of diabetic nephropathy before and after insulin pump therapy.
+

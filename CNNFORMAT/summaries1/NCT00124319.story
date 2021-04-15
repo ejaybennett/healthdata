@@ -1,0 +1,52 @@
+(fifthQuint)Risk Factors for Anterior Cruciate Ligament (ACL) Injury.
+
+ The ACL stabilizes the knee joint by preventing the shinbone (tibia) from sliding forward beneath the thighbone (femur).
+
+ A hard twist or excessive pressure on the ACL can tear or rupture the ligament, resulting in high levels of short-term disability and extensive rehabilitation.
+
+ Previous data indicate that women who participate in sports or who are otherwise physically active have higher rates of ACL injury than men; the reason for this is unknown.
+
+ There are four groups of potential risk factors for ACL injury: environmental, anatomical, hormonal, and biomechanical or neuromuscular.
+
+ In particular, poor technique when landing from a jump (also known as jump-landing) is proposed as a specific neuromuscular risk factor of interest in this study.
+
+ This study will determine gender-specific anatomical, hormonal, and demographic risk factors for ACL injury, as well as quantify gender-specific differences in jump-landing technique and other neuromuscular risk factors.
+
+ This observational cohort study will enroll 4,800 cadets at the three large U.
+
+S.
+
+ military academies; approximately 50% of those enrolled will be women.
+
+ Only incoming cadets at the U.
+
+S.
+
+ Naval, Air Force, or Military Academies will be able to participate.
+
+ Each study participant will undergo a baseline assessment that will include measurement of neuromuscular risk factors using motion analysis, strength testing, and standardized assessment of poor jump-landing technique using the Landing Error Score System (LESS).
+
+ All participants will be followed for up to 4 years.
+
+ ACL injuries will be prospectively identified; an injury questionnaire is administered to participants who sustain an ACL injury while they are cadets.
+
+ Otherwise, there is no further contact.
+
+.
+
+ Risk Factors for Anterior Cruciate Ligament (ACL) Injury@highlight
+
+The anterior cruciate ligament (ACL) is located inside the knee joint and provides stability to the knee.
+
+ ACL injuries occur more frequently in women than men; the reason for this is unknown.
+
+ The purpose of this study is to determine gender-specific anatomical, hormonal, and demographic risk factors for ACL injury.
+
+ This observational cohort study will only enroll incoming cadets at the U.
+
+S.
+
+ Naval, Air Force, or Military Academies.
+
+ Study hypothesis: Human movement factors, including key kinetics and kinematics of the knee during a jump-landing task, are associated with the rate of ACL injury.
+

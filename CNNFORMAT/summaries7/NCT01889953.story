@@ -1,0 +1,20 @@
+(secondQuint)EUS-Guided Biliary Drainage in Patients With Inoperable Malignant Distal Biliary Obstruction and Failed ERCP: a Prospective Feasibility Multicenter Trial.
+
+ Our central hypothesis is that EGBD is equally effective and safe to percutaneous transhepatic biliary drainage (PTBD) but is associated with better quality of life than PTBD in patients with inoperable malignant distal biliary obstruction who have failed prior ERCP.
+
+ Furthermore, EGBD may be associated with decreased procedure-related costs.
+
+ Patients who undergo PTBD usually require multiple procedures for stent exchange/upsize.
+
+ Our initial study will be a prospective multicenter feasibility study that will include patients with inoperable distal biliary obstruction who have failed ERCP.
+
+ If feasibility is demonstrated, our goal will be to compare EGBD and PTBD in a randomized multicenter international trial with a crossover design.
+
+.
+
+ EUS-Guided Biliary Drainage in Patients With Inoperable Malignant Distal Biliary Obstruction and Failed ERCP: a Prospective Feasibility Multicenter Trial@highlight
+
+This research is being done to study the safety and feasibility of recruiting patients eligible for EUS-guided biliary drainage (EGBD).
+
+ Our goal is to prospectively study safety and effectiveness of this procedure.
+

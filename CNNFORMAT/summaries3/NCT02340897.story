@@ -1,0 +1,16 @@
+(firstQuint)Diagnostic Accuracy of Nontuberculous Mycobacterial Lung Disease Based on Chest CT.
+
+ To elucidate the accuracy and inter-rater agreement of diagnosis of nontuberculous mycobacterial lung disease based on chest CT, two pulmonologists and two chest radiologists were requested to interpret chest CT of patients nontuberculous mycobacterial lung disease satisfying diagnostic criteria of American Thoracic Society as well as British Thoracic Society, or pulmonary tuberculosis.
+
+ Two pulmonologists and two chest radiologists > 10 years of clinical experiences at a tertiary referral hospital participated as raters in this study.
+
+ They were blinded to the any clinical information of the patients including the specific diagnosis, except age and sex.
+
+ The interpretations of four raters were analyzed and compared.
+
+.
+
+ Diagnostic Accuracy of Nontuberculous Mycobacterial Lung Disease Based on Chest CT@highlight
+
+The aim of this study was to elucidate the accuracy and inter-rater agreement of diagnosis of nontuberculous mycobacterial lung disease based on chest computed tomography findings.
+

@@ -1,0 +1,18 @@
+(firstQuint)Nursing Education Intervention for Maternal Breastfeeding.
+
+ A randomized controlled clinical trial of an educational intervention was undertaken at a public hospital.
+
+ the investigators compared a health education based on techniques to prevent complications and increase information about the benefits of breastfeeding with the usual practice.
+
+ A group of nurses delivered the educational intervention.
+
+ The trial involved randomization of 314 primiparous women.
+
+ The analysis was by 'intention-to-treat'.
+
+.
+
+ Nursing Education Intervention for Maternal Breastfeeding@highlight
+
+An antenatal education intervention in primiparous women improves breastfeeding duration and reduces post-natal complications.
+

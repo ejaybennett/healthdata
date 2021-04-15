@@ -1,0 +1,24 @@
+(fifthQuint)Treatment of Intimate Partner Violence and Substance Abuse in a Substance Abuse Treatment Facility.
+
+ Intimate partner violence is a significant societal problem.
+
+ However, treatment of IPV perpetrators is far from effective, which may be partly due to the fact that the role of substance abuse is not taken into account.
+
+ There is considerable evidence that a strong relationship between the use of alcohol and other drugs and intimate partner violence exists.
+
+ Besides, a few studies indicate that reducing substance use may have a positive impact on IPV.
+
+ Therefore, in this study, patients in substance abuse treatment for the use of alcohol, cannabis or cocaine who also admit to perpetrating intimate partner violence will be randomly assigned to either cognitive behavioral therapy addressing substance abuse combined with treatment for offenders of intimate partner violence or substance abuse treatment alone.
+
+.
+
+ Treatment of Intimate Partner Violence and Substance Abuse in a Substance Abuse Treatment Facility@highlight
+
+Intimate partner violence is a significant societal problem.
+
+ There is considerable evidence that a strong relationship between the use of alcohol and other drugs and intimate partner violence exists.
+
+ Besides, a few studies indicate that reducing substance use may have a positive impact on IPV.
+
+ Therefore, in this study, patients in substance abuse treatment for the use of alcohol, cannabis or cocaine who also admit to perpetrating intimate partner violence will be randomly assigned to either cognitive behavioral therapy addressing substance abuse combined with treatment for offenders of intimate partner violence or substance abuse treatment alone.
+

@@ -1,0 +1,22 @@
+(secondQuint)Phase II Trial of Thalidomide in Refractory/Relapsed Diffuse Large B-Cell Lymphoma and Hodgkin's Disease.
+
+ Patients who have relapsed or refractory large B-cell lymphoma are being asked to take part in this study.
+
+ This research is being done because current treatment does not help everyone with this disease.
+
+ The purpose of this study is to find out what effects (good and bad) the drug thalidomide has on patients and the lymphoma.
+
+ Thalidomide has been shown to have activity against other cancers but is not approved by the FDA for treatment of lymphoma.
+
+ Thalidomide prevents growth of new blood vessels that allow cancer cells to receive nourishment and spread.
+
+ Another reason for doing the study is that researchers want to learn more about how the drug works and whether some patients respond better than others.
+
+.
+
+ Phase II Trial of Thalidomide in Refractory/Relapsed Diffuse Large B-Cell Lymphoma and Hodgkin's Disease@highlight
+
+Patients who have relapsed or refractory large B-cell lymphoma are being asked to take part in this study.
+
+ The purpose of this study is to find out what effects (good and bad) the drug thalidomide has on patients and the lymphoma.
+

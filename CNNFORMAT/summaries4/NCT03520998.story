@@ -1,0 +1,18 @@
+(secondQuint)A Randomized Study to Assess the Safety of GRF6019 Infusions in Subjects With Mild to Moderate Alzheimer's Disease.
+
+ This is a randomized, double-blind, dose-comparison concurrent control study to assess the safety, tolerability, and feasibility of GRF6019, a plasma-derived product, administered by intravenous (IV) infusion to subjects with mild to moderate Alzheimer's disease.
+
+ Subjects will be randomized 1:1 to a low dose or a high dose of active treatment in a double-blind manner.
+
+ All subjects will receive one infusion per day at the randomized dose for 5 consecutive days during Week 1 and, again, during Week 13 (for a total of 10 doses per subject).
+
+ All IV infusions will take place at an inpatient research unit while the follow-up visits after each treatment period will be on an outpatient basis.
+
+ Subjects will participate for a total of 6 months in this study.
+
+.
+
+ A Randomized Study to Assess the Safety of GRF6019 Infusions in Subjects With Mild to Moderate Alzheimer's Disease@highlight
+
+This study is evaluating the safety, tolerability, and feasibility of GRF6019, a plasma-derived product, administered as an intravenous (IV) infusion, to subjects with mild to moderate Alzheimer's disease.
+

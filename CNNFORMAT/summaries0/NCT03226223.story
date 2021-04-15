@@ -1,0 +1,24 @@
+(fifthQuint)Pharmacogenetics of Naltrexone for Stimulant Abuse.
+
+ A recent meta-analysis concluded that the OPRM1 A118G SNP (rs1799971) significantly moderates the treatment efficacy of Naltrexone (NTX) in treating alcohol abuse, increasing the treatment efficacy by over 2-fold among G-allele carriers (AG/GG).
+
+ The proposed application would be the first to investigate the moderating effect of this genotype in the efficacy of NTX to treat stimulant abuse.
+
+ More specifically, the study team proposes to investigate the interaction between NTX and intranasal (IN) methamphetamine (30mg/70kg).
+
+ Participants who meet DSM criteria for mild-to-severe stimulant use disorder (N=up to 70) will complete 4 testing sessions where drug effects are tested following pretreatment with NTX (0, 50 mg).
+
+ Naltrexone pretreatment effects upon the abuse liability of IN methamphetamine will be assessed using self-report measurements of positive subjective effects and drug self-administration.
+
+ Medication effects on these validated predictors of abuse potential will be compared between A118G A allele homozygotes (AA) and G-allele carriers (AG/GG; an anticipated 25% of the total sample), in order to assess genetic moderation of treatment outcome.
+
+.
+
+ Pharmacogenetics of Naltrexone for Stimulant Abuse@highlight
+
+This investigation will be the first study assessing genetic modulation of naltrexone's NTX effects upon the abuse liability of a stimulant drug (methamphetamine).
+
+ The study team will assess the ability of oral NTX to block the reinforcing and positive subjective effects of intranasal (IN) methamphetamine (30mg/70kg).
+
+ This investigation could identify an important Gene x Pharmacological interaction, contributing to the personalization of stimulant abuse pharmacotherapy.
+

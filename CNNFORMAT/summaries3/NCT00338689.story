@@ -1,0 +1,82 @@
+(fifthQuint)European Childhood Obesity Project: Early Programming by Infant Nutrition?.
+
+ Obesity has become a global epidemic and is a major health challenge for children and ado-lescents in industrialised countries, with a high and steadily increasing prevalence.
+
+ Individual obesity risk is strongly influenced by genetic disposition and lifestyle factors.
+
+ But in addition, there are clear indications that metabolic events during pre- and postnatal development mark-edly modulate obesity risk in later life, known as metabolic programming.
+
+ Epidemiological studies and animal experiments suggest a causal relationship between nutrition early in life and the risk of later obesity, e.
+
+g.
+
+ breast feeding seems to reduce the risk of obesity.
+
+ One factor clearly different between breast and formula fed infants is the protein intake, and thus in CHOPIN the influence of this factor will be tested by feeding in double blind random-ised clinical trial two formulas with different protein content (7.
+
+3 % vs.
+
+ 12 % of energy) to infants from five European countries (Belgium, Germany, Italy, Poland, Spain).
+
+ Protein supply via formula is defined for the first year of life, while additional food is only recorded.
+
+ Until the age of 2 years the growth and development of the infants is followed by frequent stand-ardised measurements and data on socio-economic status, parental attitudes and medical his-tory are collected.
+
+ The available data will be evaluated in respect to the influence of protein intake and all the other factors on anthropometric markers for later obesity.
+
+ This seems justi-fied as the weight and length growth until the age of 2 years have been shown to predict the body mass index with 14 years, suggesting that this is a suitable and very early indicator for overweight later in life.
+
+ Furthermore, differences between the participating countries will be studied with the aim to identify further environmental factors influencing obesity risk.
+
+ On a long term base it is planned to follow the study participants via mailed questionnaires until the age of eight years to validate the risk estimators in a huge well defined population.
+
+ Primary objectives: - To test the influence of the protein content of the infant formula fed during the first year of life on growth until the age of two years (main outcome measures: length and weight velocity).
+
+ - First year protein intake predicts later risk of childhood obesity ('Early protein hypothe-sis').
+
+ Primary outcome measure: BMI at the age of 8 years.
+
+ Secondary objectives: - Evaluation of the effects of different habitual protein intakes with traditional complemen-tary feeding regimes in infants in 5 European countries.
+
+ - Examination of the relationship between different types of infant feeding regimes with respect to Beikost on an early anthropometric markers of later obesity development.
+
+ - Investigation of effects of these infant feeding regimes on body composition, energy ex-penditure, protein metabolism, renal function and size, leptin and its binding protein and on IGF-1.
+
+ - Exploration of consumer attitudes and infant feeding practices in relation to parental obe-sity status.
+
+ - Investigation of the mediation of the relationship between diet and later growth via bio-chemical parameters, which might become detectable by the plasma concentrations of the corresponding compounds at the age of 6 months.
+
+ - Investigation of the effects of infant behaviour (esp.
+
+ crying, sleeping and feeding behav-iour) on development of obesity.
+
+ - Comparison of the weight and length development to a non randomised cohort of breast-fed infants.
+
+ - Measurement of the effects of dietary regimes on body composition measured by stable dilution techniques (subgroup only).
+
+ - Measurement of the effects of dietary regimes on total energy expenditure and exploration of relationships between TEE, body composition and obesity risk (subgroup only).
+
+.
+
+ European Childhood Obesity Project: Early Programming by Infant Nutrition?@highlight
+
+Primary hypothesis to be tested: Early protein intake predicts infant growth and later risk of childhood obesity.
+
+ - Childhood obesity is a major public health problem and is an identified priority concern for the health care.
+
+ Infants fed formula are more likely to become obese than breastfed infants.
+
+ The higher protein content of infant formulae, compared with breast milk, could be a causal factor.
+
+ - The study will in a multicentre intervention trial on newborn infants investigate whether feeding infant formulae, which differ in their level of milk proteins, can influence the risk of later childhood obesity.
+
+ The trial will take place in five countries with different habitual total protein intakes to increase the range of protein intakes - The investigators will study body composition, hormonal status, protein metabolism and anthropometric markers of childhood obesity.
+
+ The whole cohort will be followed up until age 11 years, to assess the long term impact on the prevalence of obesity.
+
+ - The investigators will explore the impact of consumer (parental) attitudes to, and perceptions of, different practices of infant feeding in relation to infant behaviour (satisfaction, crying, sleep duration).
+
+ This consumer science information will help improve the understanding of consumer (infants and parents) acceptance of and preference for foods that contribute to healthy diets.
+
+ - If a relationship between early dietary protein intake and later childhood obesity risk is confirmed, it offers possibilities for the prevention of obesity, for improving advice given to parents and for developing nutritionally improved dietary products for infants.
+

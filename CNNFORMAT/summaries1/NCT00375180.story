@@ -1,0 +1,14 @@
+(firstQuint)Nutritional Status and Barriers to Dietary Intake in Head and Neck Cancer Patients.
+
+ Head and neck cancer patients often have difficulty meeting their nutritional needs while undergoing radiation therapy (RT) and/or chemotherapy (RTchemo).
+
+ Tumor locations and side effects of RT or RTchemo, including dry mouth, mouth sores, difficulty chewing and swallowing, changes in taste and smell, and loss of appetite, lead to poor food intake and weight loss.
+
+ The investigators hope to learn more about how side-effects of RT or RTchemo affect food intake and nutrition status.
+
+.
+
+ Nutritional Status and Barriers to Dietary Intake in Head and Neck Cancer Patients@highlight
+
+The investigators hope to learn more about how side-effects of RT or RTchemo affect food intake and nutrition status.
+

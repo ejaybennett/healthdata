@@ -1,0 +1,26 @@
+(thirdQuint)Schizophrenia, Antipsychotic Treatment and the Risk for Diabetes Mellitus.
+
+ This preliminary study aims to investigate the mechanism of higher rates of type 2 diabetes mellitus in patients with schizophrenia.
+
+ As part of the study, we collect neuroendocrine-immune data on patients with first episode, treatment naive psychosis, patients with newly diagnosed schizophrenia and normal healthy controls.
+
+ Regardless the treatment status, we collect the same neuroendocrine-immune on the participants (patients and controls) after 2 months.
+
+ Thus, our study does not control treatment.
+
+ Patients take treatment in consultation with their physician.
+
+ Some of them even decide not to take any medications.
+
+ At the 2nd visit, we do ask them about the the medications they are taking if any.
+
+.
+
+ Schizophrenia, Antipsychotic Treatment and the Risk for Diabetes Mellitus@highlight
+
+This preliminary study aims to investigate the mechanism of higher rates of type 2 diabetes mellitus in patients with schizophrenia.
+
+ As part of the study, we collect neuroendocrine-immune data on patients with first episode, treatment naive psychosis, patients with newly diagnosed schizophrenia and normal healthy controls.
+
+ Regardless the treatment status, we collect the same neuroendocrine-immune data on the participants after 2 months.
+

@@ -1,0 +1,16 @@
+(firstQuint)A Pilot, Randomized Controlled Trial of Group Visits for Persons With Parkinson's Disease.
+
+ To establish the feasibility and to estimate the benefit of group visits for individuals with PD and their caregivers.
+
+ The feasibility will be assessed by the ability to enroll and retain (measured by number of individuals who complete the 12-month study and at least half the study visits) ~40 individuals in the pilot trial.
+
+ The responsiveness of the following different outcomes to group visits will be assessed during the pilot trial: quality of life, patient satisfaction, depression, caregiver burden, resource utilization, and disease progression.
+
+ The primary outcome measure for efficacy will be a comparison of the change in the Parkinson's Disease Questionnaire-39 from baseline to 12 months in the control (routine care) and intervention (group visit) groups.
+
+.
+
+ A Pilot, Randomized Controlled Trial of Group Visits for Persons With Parkinson's Disease@highlight
+
+To determine patient satisfaction with group visits versus standard of care delivery for patients with Parkinson's disease.
+

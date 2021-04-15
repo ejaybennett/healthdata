@@ -1,0 +1,20 @@
+(secondQuint)Reproducibility of Computed Tomography.
+
+ Speed, accuracy, and precision in the quantification of pleural effusion are of critical importance as it determines whether or not thoracocentesis should be carried out and which technique should be employed for such a procedure.
+
+ This study evaluates the precision of thoracic computed tomography with three-dimensional (3D) rebuilding in determining the volume of tuberculosis pleural effusion.
+
+Twenty patients with pleural effusion were screened and invited to take part in the study.
+
+ Each patient underwent two computed tomography scans, before and after one month of treatment for tuberculosis, a total of 40 exams.
+
+ These were evaluated by two expert radiologists.
+
+ In conclusion, the quantification of the pleural effusion volume by using thoracic CT with volumetric three-dimensional reconstruction is a highly reproducible method.
+
+.
+
+ Reproducibility of Computed Tomography@highlight
+
+Thus, the aim of this study was to evaluate the reproducibility of the Computed Tomograph scan three-dimensional reconstruction method for the measurement of the TB pleural effusion volume in clinically stable patients.
+

@@ -1,0 +1,24 @@
+(secondQuint)Studying Breast Cancer Risk in Women Who Are BRCA1/BRCA2 Mutation Carriers.
+
+ OBJECTIVES: - To identify potential genetic modifiers of breast cancer risk by contributing data and genetic information obtained from women who are BRCA1/BRCA2 mutation carriers enrolled in clinical trial GOG-0199 to an international consortium of clinical cancer genetics investigators (CIMBA).
+
+ OUTLINE: This is a multicenter study.
+
+ Patients are stratified by study, country of residence, ethnicity, and birth cohort.
+
+ Joint analyses of BRCA1 and BRCA2 mutation carriers are further stratified by mutation.
+
+ Previously collected DNA samples are analyzed for genetic variants in selected candidate genes (rs16942 in BRCA1, rs2237060 in RAD50, "SNP3", and rs2241193 in IGFBP5).
+
+ The single nucleotide polymorphism (SNP) data from this study and selected demographic, clinical, and epidemiological data obtained from the baseline questionnaire administered in the GOG-0199 study are submitted to the Consortium of Investigators of Modifiers of BRCA-Associated Cancer (CIMBA) Central Database.
+
+ The epidemiological and SNP data contributed to the Central Database are then distributed to the investigators responsible for analysis of a particular SNP or set of SNPs from a candidate gene or genetic pathway.
+
+.
+
+ Studying Breast Cancer Risk in Women Who Are BRCA1/BRCA2 Mutation Carriers@highlight
+
+RATIONALE: Studying samples of DNA in the laboratory from women who are BRCA1/BRCA2 mutation carriers may help doctors learn more about cancer and identify biomarkers related to cancer.
+
+ PURPOSE: This research study is looking at breast cancer risk in women who are BRCA1/BRCA2 mutation carriers.
+

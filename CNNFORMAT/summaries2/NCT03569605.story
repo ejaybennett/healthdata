@@ -1,0 +1,26 @@
+(fifthQuint)Promoting Physical Activity in Young Adult Cancer Survivors Using mHealth and Adaptive Tailored Feedback Strategies.
+
+ There are over half a million young adult cancer survivors in the United States.
+
+ Young adult cancer survivors are an underserved and vulnerable subgroup of survivors that experience increased risk over time for obesity and chronic diseases such as diabetes and cardiovascular disease.
+
+ Increasing physical activity is a promising behavioral intervention that has positive effects on physical function, body composition, cardiovascular fitness, health-related quality of life, and depression, and may prevent cancer recurrence, new cancers and improve survival.
+
+ To date, few interventions have been designed specifically to promote physical activity in young adult cancer survivors, nor used novel technologies for delivery; none have been successful in promoting long-term adherence to physical activity.
+
+ This is a randomized controlled trial to test the efficacy of a theory-based, mobile physical activity intervention with adaptive goal-setting and tailored feedback that is aimed at increasing PA among young adult cancer survivors.
+
+ Young adult cancer survivors (n=280), diagnosed between ages 18-39, will be recruited and randomized into one of two conditions: 1) activity tracker + Facebook group (Self-help) or 2) activity tracker + Facebook group + adaptive goal-setting and tailored feedback (Intervention).
+
+ Young adult cancer survivors will receive a 6-month intervention followed by an additional 6 months of tapered contacts.
+
+ Assessments of objectively-measured physical activity and other outcomes will be conducted at baseline, 3, 6, and 12 months.
+
+.
+
+ Promoting Physical Activity in Young Adult Cancer Survivors Using mHealth and Adaptive Tailored Feedback Strategies@highlight
+
+To date, few interventions have been designed specifically to promote physical activity in young adult cancer survivors, nor used novel technologies for delivery; none have been successful in promoting long-term adherence to PA.
+
+ The purpose of this randomized controlled trial is to test the efficacy of a theory-based, mobile physical activity intervention with adaptive goal-setting and tailored feedback that is aimed at increasing physical activity among young adult cancer survivors.
+

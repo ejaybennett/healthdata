@@ -1,0 +1,34 @@
+(thirdQuint)Sentinel Lymph Node Mapping in Detecting Cancer That Has Spread to Lymph Nodes in Patients With Non-Small Cell Lung Cancer.
+
+ OBJECTIVES: Primary - Determine the feasibility and accuracy of intraoperative sentinel lymph node mapping using technetium Tc 99 sulfur colloid in patients with stage I non-small cell lung cancer.
+
+ - Determine the percentage of patients in which at least 1 positive sentinel lymph node is identified using this procedure.
+
+ - Determine the percentage of patients undergoing this procedure who are found to have positive sentinel lymph nodes with no metastases in other intrathoracic lymph nodes.
+
+ Secondary - Determine the percentage of patients undergoing this procedure whose disease stage is upgraded due to detection of micrometastases in sentinel lymph nodes.
+
+ - Correlate the presence of micrometastases in sentinel lymph nodes with survival in patients undergoing this procedure.
+
+ - Determine the percentage of patients undergoing this procedure with "skip metastases" pattern (NZ) sentinel lymph nodes.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive an intraoperative intratumoral injection of technetium Tc 99 sulfur colloid.
+
+ At least 10 minutes later, patients undergo sentinel lymph node mapping using a gamma probe.
+
+ Patients then undergo sentinel lymph node dissection and tumor resection.
+
+ Pathology assays are performed using sentinel lymph node tissue, including hematoxylin and eosin staining, serial sections, and immunohistochemistry using the AE1/AE3/PCK2b cytokeratin antibody.
+
+ Patients are followed every 6 months for 2 years and then annually thereafter.
+
+.
+
+ Sentinel Lymph Node Mapping in Detecting Cancer That Has Spread to Lymph Nodes in Patients With Non-Small Cell Lung Cancer@highlight
+
+RATIONALE: Diagnostic procedures such as sentinel lymph node mapping may improve the ability to detect cancer that has spread to the lymph nodes.
+
+ PURPOSE: This clinical trial is studying how well sentinel lymph node mapping works in detecting cancer that has spread to the lymph nodes in patients who are undergoing surgery for stage I non-small cell lung cancer.
+

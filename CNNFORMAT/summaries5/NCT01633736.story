@@ -1,0 +1,24 @@
+(thirdQuint)Targeted Hip Strength Training in Children With Cerebral Palsy (CP).
+
+ This study is focusing on functional change.
+
+ The reasoning is that if the targeted strength training is effective at improving hip muscle contribution to stability then single leg balance may be improved.
+
+ This may be functionally evident when weight bearing is taken by say the left leg in gait (percentage stance phase of gait) and as a consequence the opposing swing phase will be optimised as measured by stride.
+
+ Thus the research question is does strengthening of the rotating and sideways moving hip muscles improve the walking of children with CP as measured by appropriate aspects of gait? Secondly, does this targeted strengthening also increase duration of single leg balance which is a simple easy to use measure in the community without the need for specialised equipment? The primary outcome measure will use a laboratory based 4 camera Codsmotion (CODA) biomechanical analysis system to measure stride (a) and percentage duration of stance phase of gait (b).
+
+ Secondarily the duration of single leg balance in terms of seconds will be recorded.
+
+ Gross motor functional and quality of life as also being assessed.
+
+ The intervention is strengthening which will be implemented with the principles of progressive resistance training.
+
+ Children with CP's therapists would ask for this type of intervention to be carried out.
+
+ Targeted Hip Strength Training in Children With Cerebral Palsy (CP)@highlight
+
+This study's main aim is to look at targeted strength training for muscles at the hips.
+
+ Specifically to consider whether targeted strength training not only effects strength of the specific muscles but also ability to stand on one leg (single leg balance) as well as walking in children with cerebral palsy? This study is a feasibility of method of investigation.
+

@@ -1,0 +1,34 @@
+(secondQuint)Risk Evaluation and Education for Alzheimer's Disease.
+
+ Advances in genetic research have led to an increased number of testing procedures to determine future risk of disease among at-risk individuals.
+
+ An increasing number of genes are being identified that confer susceptibility for a given disease rather than inevitably causing it.
+
+ Given that such genes may provide risk information for common diseases (e.
+
+g.
+
+, stroke, depression), there is a growing need to understand how at-risk populations might respond to the option of genetic susceptibility testing.
+
+ A prominent case in point is Alzheimer's disease (AD).
+
+ Participation in this study requires an initial phone call which will elicit some medical and family history information about the participant.
+
+ A first in-person visit to the clinic will consist of an education session and the administration of some tests to assess memory and thinking skills.
+
+ This visit will take approximately 2-3 hours.
+
+ Approximately 2 weeks later, participants will return to have their blood drawn for genetic testing.
+
+ Participants will then be randomized to one of two groups.
+
+ Those in the experimental arm will receive information on their risk based on their family history and APOE genotype, while those in the active comparator arm will receive information on their risk for developing Alzheimer's disease based on their family history alone.
+
+ Participants will be followed for 1 year following disclosure of results with 2 additional clinic visits.
+
+.
+
+ Risk Evaluation and Education for Alzheimer's Disease@highlight
+
+The purpose of this study is to determine the characteristics of those who obtain genetic susceptibility testing for Alzheimer's disease with APOE disclosure and to study the psychological and behavioral consequences of providing this information.
+

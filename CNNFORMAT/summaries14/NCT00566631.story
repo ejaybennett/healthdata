@@ -1,0 +1,18 @@
+(thirdQuint)An Efficacy and Safety Study of Paliperidone Extended-Release (ER) Tablets in Participants With Schizophrenia.
+
+ This is an open-label (all people know the identity of the intervention), single-arm (getting one dose of medicine), multi-center (conducted in more than 1 center) study to evaluate tolerability, safety and efficacy of flexible daily doses of paliperidone ER in participants with acute schizophrenia.
+
+ All participants will be given paliperidone ER once daily at a dose of 3, 6, 9, or 12 milligram (mg) tablets orally depending on Investigator's discretion, based on participant's clinical response and tolerability towards paliperidone ER.
+
+ The duration of the core phase of the treatment will be 6 weeks and the participants who will complete this phase, respond well and would like to continue, will be eligible to be enrolled in an extension phase, which is no longer than 12 months.
+
+ Efficacy will primarily be evaluated by treatment response evaluated through total Positive and Negative Syndrome Scale (PANSS) score.
+
+ Participants' safety will be monitored throughout the study.
+
+.
+
+ An Efficacy and Safety Study of Paliperidone Extended-Release (ER) Tablets in Participants With Schizophrenia@highlight
+
+The purpose of this study is to evaluate the tolerability, safety and treatment response of flexible doses of paliperidone extended-release (ER; designed to slowly release a drug in the body over an extended period of time) tablets in participants with acute schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions and hallucinations, and withdrawal into the self).
+

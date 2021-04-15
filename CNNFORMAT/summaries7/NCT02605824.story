@@ -1,0 +1,28 @@
+(thirdQuint)Clinical Trial of NAC in Asthma.
+
+ n-acetylcystine (NAC) is a mucolytic medication, meaning that it breaks apart mucus.
+
+ Investigators know that mucus is a factor in severe asthma attacks.
+
+ However, mucus may be a factor in chronic severe asthma as well.
+
+ This role has been hard to prove because of difficulty in showing that mucus occludes the lumen in chronic severe disease.
+
+ Using a novel approach of scoring mucus occlusion, investigators have used CT imaging to uncover that a majority of people with severe asthma have at least one lung segment with a mucus plug and 27% have more than four lung segments with mucus plugs.
+
+ Historically, studies of mucolytics, like NAC, have not shown benefit in other obstructive lung diseases, like COPD.
+
+ However, utilizing CT mucus scores as a biomarker, investigators believe that mucolytic treatment may prove useful for those with significant mucus impaction.
+
+ This is a randomized, double-blind, placebo-controlled phase 4 study of 20% NAC in patients with asthma who also have evidence of mucus in their lungs as determined by CT imaging.
+
+ Investigators hypothesize that by treating asthmatics, chosen based on the presence of mucus in the airways, with a mucolytic like NAC, will result in an improvement of lung function.
+
+.
+
+ Clinical Trial of NAC in Asthma@highlight
+
+This study evaluates 20% n-acetylcystine (NAC) in the treatment of moderate-to-severe asthma that is complicated by mucus in the airway, as determined by CT imaging.
+
+ The study is a crossover design, which means that half the study participants will get 20% NAC in the first 7-day treatment period and placebo in the next 7-day treatment period; and the other half will get placebo in the first 7-day treatment period and 20% NAC in the next 7-day treatment period.
+

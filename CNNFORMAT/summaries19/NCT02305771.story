@@ -1,0 +1,22 @@
+(secondQuint)Contributions From the Analysis of Graphs for Identification of Neural Cliques.
+
+ Electroencephalography (EEG) with very High spatial Resolution (HR) (EEG-HR, 256 electrodes) allows for a better understanding of the global and local activity of the cerebral neocortex.
+
+ In 2012, following publications by Claude Berrou and Vincent Gripon's Internet, introducing new principles of coding information based on graphical representations in connectionist networks, we approached this team to test biological plausibility of this theory in vivo with EEG.
+
+ The central concept is the mental information, defined as all elements of knowledge acquired by the long-term memory on which the reason can build to try to respond to new problems.
+
+ According to this new theory, these elements of knowledge called qualia or features should be connected within cliques networks.
+
+ However, we currently do not have graphs comparing methods to measure a good index of both spatial and topological similarity between graphs with high resolution electroencephalography.
+
+ For this new study, we propose to combine the strengths of several existing methods of graph comparison which, on top of this, will be especially adapted to the specific context of the analysis of the graphs in the cerebral cortex.
+
+ The skills used are diverse: information theory, mathematics, graph theory, computer science, neuropsychology, signal processing and neurology.
+
+.
+
+ Contributions From the Analysis of Graphs for Identification of Neural Cliques@highlight
+
+The aim of the study is to demonstrate that our semantic knowledge (elements of our long-term memory and the process we use them) respond to a graphic organisation and gather together following accurate patterns called cliques (neural networks).
+

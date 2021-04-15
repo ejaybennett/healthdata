@@ -1,0 +1,24 @@
+(fifthQuint)The Effects of VEGF-B Signaling Pathway in Obesity and Metabolic Disease.
+
+ The investigators will enroll about 120 subjects from the hospital's healthcare center, and these 120 subjects will be divided into four groups: normal weight with or without metabolic diseases and obesity with or without metabolic diseases.
+
+ Each group has 30 subjects.
+
+ The investigators will collect the basic information(name, gender,age, medical history,family history, etc.
+
+), blood pressure, body mass index, fasting blood glucose and fasting blood lipids of each subject from the healthcare center.
+
+ The investigators will collect the blood samples of each subject,separate the plasma and then test the fasting insulin, VEGF-B levels by ELISA.
+
+ The investigators will separate the peripheral blood mononuclear cells from the blood, and then test the gene promoter region methylation status of the VEGF -B gene by PCR and the bisulfite-modified sequencing and test the genomic protein methylation level of the VEGF-B gene by chromatin immunoprecipitation assay(CHIP) and real-time quantitative PCR of the cells,and finally do the statistical analysis.
+
+.
+
+ The Effects of VEGF-B Signaling Pathway in Obesity and Metabolic Disease@highlight
+
+The investigators will enroll about 120 subjects from the hospital's healthcare center.
+
+ The investigators will collect the basic informations, blood pressure, body mass index, fasting blood glucose and fasting blood lipids of each subject.
+
+ The investigators will collect the blood samples and then test them for fasting insulin levels, VEGF-B levels, the gene promoter region methylation status and the genomic protein methylation levels of the VEGF-B gene of the cells,and finally do the statistical analysis.
+

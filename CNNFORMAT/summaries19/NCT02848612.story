@@ -1,0 +1,22 @@
+(fifthQuint)Evaluation of the Amiens University Hospital Neuroradiology Anticoagulation Protocol.
+
+ Since the beginning of the 2000s, the reference treatment for the management of aneurysmal subarachnoid haemorrhage consists of interventional neuroradiology with coil embolization of the aneurysm.
+
+ Although ensuring a better neurological prognosis than neurosurgical clipping, interventional neuroradiology exposes the patient to various risks: thromboembolic complications during or after embolization and re-rupture of the aneurysm during embolization.
+
+ To prevent thromboembolic complications, the embolization procedure is performed under prophylactic unfractionated heparin, the efficacy of which is monitored by point-of- care testing according to international guidelines.
+
+ However, these guidelines are based on limited scientific evidence and the ideal level of anticoagulation required has not been precisely defined.
+
+ Furthermore, the correlation between the point-of- care tests used at Amiens University Hospital and the reference methods used in the laboratory varies considerably according to the available literature.
+
+.
+
+ Evaluation of the Amiens University Hospital Neuroradiology Anticoagulation Protocol@highlight
+
+To prevent thromboembolic complications, the embolization procedure is performed under prophylactic unfractionated heparin, the efficacy of which is monitored by point-of- care testing according to international guidelines.
+
+ However, these guidelines are based on limited scientific evidence and the ideal level of anticoagulation required has not been precisely defined.
+
+ Furthermore, the correlation between the point-of- care tests used at Amiens University Hospital and the reference methods used in the laboratory varies considerably according to the available literature.
+

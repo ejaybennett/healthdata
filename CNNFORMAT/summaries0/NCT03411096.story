@@ -1,0 +1,26 @@
+(thirdQuint)Quadratus Lumborum Block : Local Anesthesia Versus Placebo.
+
+ Opioid analgesics have been used to control the pain.
+
+ However, many postoperative complication, such as nausea, vomiting, constipation, ileus, etc are related to opioid usage.
+
+ Recently, local or regional pain nerve block, such as transversus abdominis plane block, wound infiltration, have been reported in several studies.
+
+ Quadratus lumborum (QL) block was first introduced in the abstract of 2007 European Society of Regional Anesthesia.
+
+ The effect is longer and more than that of transversus abdominis plane block because it works close to the spinal cord nerves.
+
+ The QL block can be an effective pain control method for patients who underwent ileostomy closure.
+
+ The aim of this study is to compare pain intensity after ileostomy closure between QL block (ropivacaine) group and placebo group (normal saline).
+
+.
+
+ Quadratus Lumborum Block : Local Anesthesia Versus Placebo@highlight
+
+Opioid analgesics have many side effects.
+
+ Quadratus lumborum (QL) block is one kind of regional nerve block that can reduce the side effects of opioid analgesics.
+
+ The investigators hypothesize that QL block with local analgesics (ropivacaine) can significantly reduce pain intensity in comparison with placebo.
+

@@ -1,0 +1,16 @@
+(firstQuint)The Use of Colloid Versus Crystalloid in Post-operative Pediatric Cardiac Patients for Fluid Resuscitation.
+
+ The study is designed to help detect if there is an advantage in giving one type of resuscitative fluid versus another in the setting of post-operative pediatric cardiac patients.
+
+ The two types of fluid being compared are crystalloid solution (normal saline) and colloid solution (5% albumin).
+
+ The primary outcome measurement will be how much volume of each type of fluid will be required in order to maintain hemodynamic stability as determined by mean arterial blood pressure within predetermined parameters.
+
+ Other secondary outcomes will include determinations of lactate clearance, inotropic support requirements, urine output, peripheral and pulmonary edema that occurs post-operatively, and the over all costs for each fluid based on number of required boluses and number of hours on mechanical ventilation.
+
+.
+
+ The Use of Colloid Versus Crystalloid in Post-operative Pediatric Cardiac Patients for Fluid Resuscitation@highlight
+
+The purpose of the study is to help determine if either crystalloid solution or colloid solution is more advantageous as a resuscitative fluid in post-operative pediatric cardiac patients.
+

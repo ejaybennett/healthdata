@@ -1,0 +1,15 @@
+(thirdQuint)Influence of Light Exposure on Cerebral MAO-A in Seasonal Affective Disorder and Healthy Controls Measured by PET.
+
+ This study aims to assess differences in monoamine oxidase A (MAO-A) distribution in the brain between seasonal affective disorder patients and healthy controls using positron emission tomography.
+
+ In addition, the investigators aim to demonstrate the impact of light therapy on MAO-A distribution by investigating patients and controls in the winter before bright light therapy, in the winter after bright-light therapy, and in the summer.
+
+ Bright light therapy will be placebo controlled, randomized, and double blinded.
+
+.
+
+ Influence of Light Exposure on Cerebral MAO-A in Seasonal Affective Disorder and Healthy Controls Measured by PET@highlight
+
+This study aims to assess differences in monoamine oxidase A (MAO-A) distribution in the brain between seasonal affective disorder patients and healthy controls using positron emission tomography.
+
+ In addition the investigators aim to demonstrate the impact of light therapy on MAO-A distribution In addition, a pilot study and a sub-study in healthy controls were performed

@@ -1,0 +1,62 @@
+(fifthQuint)Comparison of Two Electroencephalograms (EEG) Monitors in Patients Undergoing General Anesthesia.
+
+ Monitoring the anti-nociceptive drug effect is useful because a sudden and strong nociceptive stimulus may result in untoward autonomic responses and muscular reflex movements.
+
+ Unopposed stimulation may also 'overrule' a state of stable unconsciousness, with resultant awakening and awareness.
+
+ The traditional clinical use of systolic or mean blood pressure is actually still one of the methods in everyday use for this monitoring purpose.
+
+ Another cornerstone is the experience of which drugs and doses are effective in attenuating nociception.
+
+ Alpiger and colleagues found that simple end-tidal monitoring of sevoflurane was a better predictor of nociceptive response than Auditory Evoked Potential.
+
+ Thus, monitoring the state of anti-nociception with objective, non-clinical methods is still in a state of testing and development, without well-documented and proven methods for consistent 'no-fuss' clinical daily use.
+
+ Some methods, like those using systolic blood pressure, are based on the reduced sympathetic response from the Central Nervous System (CNS) when in a state of drug-induced anti-nociception during concomitant surgical stress.
+
+ These include the pulse plethysmogram amplitude, heart rate variability and/or amplitude, pupillometry, muscle tonus and skin conductance.
+
+They all have limitations in interpretation, as the state of sympathetic tone is strongly influenced by numerous factors, including hypovolemia, vasopressors, atropine and patient positioning.
+
+ In addition, sympathetic tone is very unspecific in the awake or lightly sedated patient, as mood and subjective feelings have a strong impact.
+
+ Attempts are also been made on using the EEG for monitoring of anti-nociception.
+
+ This approach has been challenged as difficult, as most of the antinociceptive drugs effects are in the periphery, the medullary cord or deeper cerebral layers, far from the EEG signals derived from the frontal cortex.
+
+ However, EEG is a 'mirror' of what is going on in other parts of the CNS and peripheral nervous system.
+
+ One problem is to elucidate how the EEG signals may be used in a sensitive and specific way to reflect anti-nociception.
+
+ Concepts such as response-entropy, Composite Variability Index and BIS variability score have been tested and launched.
+
+ Quantium Medical has an EEG-based algorithm with two outputs: the qCON for unconsciousness and the qNOX for anti-nociception.
+
+ This means that calculates and displays two indices.
+
+ One, the qCON, is designed to provide information about the depth of the hypnotic state, similar to that provided by the BIS cent and Sedline cent monitor (Masimo, Irvine CA).
+
+ The second index, the qNOX, is designed to provide information about the depth of the antinociceptive state.
+
+ The qCON has shown a comparable performance with BIS, and qNOX has proved correlation with rough clinical signs of insufficient antinociception, such as movements during LMA insertion, laryngoscopy and tracheal intubation.
+
+ Comparison of Two Electroencephalograms (EEG) Monitors in Patients Undergoing General Anesthesia@highlight
+
+Hypothesis: There is a statistically measurable correlation between qNOX and rough clinical signs of insufficient anti-nociception such as movements during Laryngeal Mask Airway (LMA) insertion, skin Incision, LMA removal.
+
+ It will reduce the problem of anticipating the nociception in patients undergoing general anesthesia.
+
+ Objectives: 1.
+
+ to compare two indexes of hypnosis, the qCON (Quantium Medical, Spain) with the Bispectral index (BIS cent ) (Covidien, Boulder CO.
+
+ USA), in patients undergoing surgery under sedation and general anesthesia.
+
+ 2.
+
+ to assess the qNOX index of pain/nociception (Quantium Medical, Barcelona, Spain) and the qCON index of hypnosis.
+
+ 3.
+
+ to assess qNOX reliability as a specific indicator of response to nociceptive stimulation.
+

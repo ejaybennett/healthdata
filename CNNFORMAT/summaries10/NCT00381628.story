@@ -1,0 +1,28 @@
+(secondQuint)Nasal Epithelial Cells/Blood Lymphocyte Markers for Cystic Fibrosis (CF)/CF Pulmonary Exacerbations.
+
+ Cystic fibrosis (CF) is the most common lethal genetic disease in the US afflicting approximately 30,000 people.
+
+ Chronic disease of the respiratory tract, which is responsible for early death, affects both the upper and lower airways.
+
+ We propose to utilize cells (blood lymphocytes and nasal epithelial cells) that are readily accessible and are known to express the cystic fibrosis transmembrane conductance regulator (CFTR) and therefore candidates to express markers of the downstream consequences of CFTR deficiency.
+
+ A marker that indicates the inflammatory state of the lung would be useful to identify infective/inflammatory exacerbations as opposed to worsening due to pulmonary vascular disease or simply upper airway infection.
+
+ This marker might help to guide therapy for intensity and duration.
+
+ Evidence in mice suggest that lymphocytes may be a driving force for inflammation in the CF lung, particularly during exacerbations, and also that human CF lymphocytes have dysfunctional production of cytokines.
+
+ Specific Aims: To identify markers in nasal epithelial cells or blood lymphocytes that distinguish CF patients from those with functional CFTR (healthy volunteers and patients with asthma).
+
+ If successful this could become a marker for CFTR correction by drugs or other systemic therapies.
+
+ To identify markers in blood lymphocytes that will identify inflammatory status (ie, distinguish an active exacerbation from return to clinical stability) in CF patients.
+
+ This could become a marker for infectious exacerbations of CF airway disease.
+
+.
+
+ Nasal Epithelial Cells/Blood Lymphocyte Markers for Cystic Fibrosis (CF)/CF Pulmonary Exacerbations@highlight
+
+Study Hypothesis: We hypothesize that cellular markers from nasal epithelial cells and blood lymphocytes can serve as potential biomarkers reflect the underlying inflammatory state of the lung and will be helpful in determining the presence of a CF pulmonary exacerbation and its overall severity.
+

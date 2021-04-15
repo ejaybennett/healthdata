@@ -1,0 +1,14 @@
+(firstQuint)Effect of Fish Oil and Vitamin C on Exercise-Induced Bronchoconstriction and Airway Inflammation in Asthma.
+
+ The aim of this study is to extend previous findings that nutritional supplementation or dietary modification can ameliorate exercise-induced bronchoconstriction.
+
+ It has been shown in separate studies that fish oil and ascorbic acid (vitamin C) individually protect against EIB by improving pulmonary function and reducing airway inflammation.
+
+ The main aim of this study is to determine the comparative and additive effects of fish oil and ascorbic acid supplementation on EIB and airway inflammation in asthmatic individuals.
+
+.
+
+ Effect of Fish Oil and Vitamin C on Exercise-Induced Bronchoconstriction and Airway Inflammation in Asthma@highlight
+
+Combining fish oil and vitamin C supplementation will provide a greater anti-inflammatory effect against developing exercise-induced bronchoconstriction (EIB) than either nutritional supplement alone.
+

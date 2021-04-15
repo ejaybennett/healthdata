@@ -1,0 +1,17 @@
+(firstQuint)Open Reduction Internal Fixation of Calcaneus Fractures With and Without Bone Graft.
+
+ This study was designed as a randomized, prospective evaluation of patients who have sustained an intra-articular calcaneus fracture that requires open reduction with internal fixation as the preferred method of treatment.
+
+ Patients who desire to participate in this study will be randomized into one of two groups.
+
+ Group A will be made up of patients that undergo open reduction with internal fixation and Tricortical iliac crest bone grafting.
+
+ Group B will consist of patients that undergo open reduction with internal fixation without bone grafting.
+
+ All other surgical techniques and management of the fracture and patient will remain unchanged.
+
+.
+
+ Open Reduction Internal Fixation of Calcaneus Fractures With and Without Bone Graft@highlight
+
+The purpose of this study is to compare patient functional outcomes for surgical fixation of calcaneus fractures with and without tricortical iliac crest bone grafting

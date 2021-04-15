@@ -1,0 +1,18 @@
+(firstQuint)Evaluating Yoga for Chronic Low Back Pain.
+
+ Back problems are among the most prevalent conditions affecting adults and are a leading reason for using complementary or alternative medical (CAM) therapies.
+
+ Despite the common use of CAM therapies for back pain, little is known about how they compare with conventional treatments.
+
+ This study will lay the groundwork for a full-scale trial that compares yoga with conventional exercise and usual care for chronic low back pain.
+
+ This study will randomize 30 people with chronic low back pain to each of the following groups: yoga, a conventional therapeutic exercise program, and usual care.
+
+ There will be 12 weeks of weekly treatment and follow-up assessments via phone at 6, 12, and 26 weeks to measure each treatment's impact on symptoms, function, quality of life, and utilization and costs of back pain related care.
+
+.
+
+ Evaluating Yoga for Chronic Low Back Pain@highlight
+
+This study will compare the effectiveness of yoga classes, exercise classes, and a self-care book in the management of pain and function for people with low back pain.
+

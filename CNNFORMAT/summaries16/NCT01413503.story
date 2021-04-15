@@ -1,0 +1,28 @@
+(firstQuint)A Phase II Study of 131I- Metaiodobenzylguanidine (MIBG) for Treatment of Metastatic or Unresectable Pheochromocytoma and Related Tumors.
+
+ 1.
+
+ To assess the efficacy of high-dose 131I-MIBG in the treatment of patients with malignant pheochromocytoma and related tumors, with the basis of this initial examination being the percentage of patients in CR or PR, and the percentage of patients without PD for 3 years after the initial administration on 131I-MIBG therapy.
+
+ 2.
+
+ To describe the response rate of malignant pheochromocytoma patients treated with high-dose 131I-MIBG.
+
+ 3.
+
+ To describe the toxicity of high-dose 131I-MIBG in patients with malignant pheochromocytoma.
+
+ 4.
+
+ To describe the overall survival and failure-free survival of malignant pheochromocytoma patients treated with high-dose 131I-MIBG.
+
+ 5.
+
+ To determine the utility of using the serum level of Chromogranin A as a tumor marker for patients with malignant pheochromocytoma.
+
+.
+
+ A Phase II Study of 131I- Metaiodobenzylguanidine (MIBG) for Treatment of Metastatic or Unresectable Pheochromocytoma and Related Tumors@highlight
+
+This is an ongoing prospective Phase II clinical trial evaluating the efficacy of 131I-MIBG for the treatment of patients with metastatic or unresectable pheochromocytoma and related tumors.
+

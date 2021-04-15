@@ -1,0 +1,28 @@
+(secondQuint)Workshops for Veterans With Vision and Hearing Loss.
+
+ This pilot study will enrolled 13 Veterans with Dual Sensory Loss (DSL), age 65 to over 89.
+
+ The project headquarters in the Portland Oregon Veterans Affairs Medical Center will be tasked with the development of the workshops and writing of a Curriculum and Procedures Manual.
+
+ The Atlanta VAMC research collaborators enrolled the 13 Veterans.
+
+ Staff turnover reduced time available for enrollment and data collection.
+
+ We therefore eliminated the original comparison group design and this study had only one experimental intervention arm and no control intervention or other arm.
+
+ Veterans were chronologically enrolled who responded to recruitment letters and who passed telephone and onsite screening.
+
+ The intervention consisted of six weekly two hour workshops providing information, skills training and exercises about self-managing DSL effects on daily life.
+
+ Preliminary effectiveness data was collected and analyzed, and a large scale clinical trial will be proposed as a followup to explore the efficacy of this management approach.
+
+ This study data tracked pre and post intervention within subject changes.
+
+.
+
+ Workshops for Veterans With Vision and Hearing Loss@highlight
+
+This is a pilot study of workshops to help Veterans with both vision and hearing loss live a happier, fuller and less stressful life.
+
+ The results will be used to guide the development of a large scale clinical trial.
+

@@ -1,0 +1,14 @@
+(firstQuint)Modifying Virtual Reality Analgesia With Low-Dose Pain Medication.
+
+ This is a randomized, double-blind, placebo-controlled, within subject 2x2 factorial, repeated measures study.
+
+ Research participants will play two versions of the Virtual Reality based video game "Snow World" and be given thermal and electrical stimulus.
+
+ Each of two study visits will be identical with the exception of whether or not the participant will receive an iv infusion of a low dose pain medication or a saline placebo.
+
+.
+
+ Modifying Virtual Reality Analgesia With Low-Dose Pain Medication@highlight
+
+The purpose of this study is to determine how pain relief is modified when the investigators combine the Virtual Reality based Snow World game with certain pain medications.
+

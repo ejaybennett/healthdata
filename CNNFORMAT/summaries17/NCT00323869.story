@@ -1,0 +1,18 @@
+(firstQuint)Phase II Bevacizumab, Gemcitabine and Carboplatin in Newly Diagnosed Non-Small Cell Lung Cancer.
+
+ This is a open-label, phase 2, single-arm, multi-center study of bevacizumab combined with gemcitabine and carboplatin.
+
+ This treatment is for newly-diagnosed advanced non-small cell lung cancer (NSCLC), excluding squamous cell carcinoma.
+
+ All subjects will receive 15 mg/kg bevacizumab every 3 weeks cycle, 1000 mg/m of gemcitabine on day 1 and 8 every 3 weeks cycle and carboplatin (AUC= 5 ) every 3 weeks.
+
+ Carboplasm will be administered 1 hour prior to the gemcitabine infusion, bevacizumab will be administered 1 hour following chemotherapy infusion.
+
+ Subjects will receive a maximum of 6 cycles of chemotherapy, but treatment with bevacizumab may continue as long as patients have no evidence of progressive disease and no significant treatment-related toxicities.
+
+.
+
+ Phase II Bevacizumab, Gemcitabine and Carboplatin in Newly Diagnosed Non-Small Cell Lung Cancer@highlight
+
+A multi-center study of bevacizumab in combination with gemcitabine and carboplatin as treatment for newly-diagnosed advanced non-small cell lung cancer (NSCLC).
+

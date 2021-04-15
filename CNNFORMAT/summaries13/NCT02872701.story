@@ -1,0 +1,22 @@
+(thirdQuint)OTL38 Injection for Intraoperative Imaging of Folate Receptor Positive Lung Nodules.
+
+ This is a phase 2, multi-center, single dose, open-label, exploratory study in suspected lung cancer patients scheduled to undergo endoscopic or thoracic surgery per CT/positron emission tomography (PET) imaging based on standard of care.
+
+ Two to three hours prior to surgery, patients will be infused with OTL38.
+
+ After the patient is intubated and surgical site incised, the surgeon will locate and document all nodules identifiable by white light, manual palpation, and Near-Infrared Imaging (NIR).
+
+ This will be documented and recorded.
+
+ Surgery will be completed per surgeon's standard of care, afterwards the area will be reviewed under standard and infrared light.
+
+ All samples will be sent for pathology and immunohistochemistry (IHC) evaluation.
+
+.
+
+ OTL38 Injection for Intraoperative Imaging of Folate Receptor Positive Lung Nodules@highlight
+
+This is a phase 2, multi-center, single dose, open-label, exploratory study in suspected lung cancer patients scheduled to undergo endoscopic or thoracic surgery per CT/positron emission tomography imaging based on standard of care.
+
+ This study aims to assess the efficacy of OTL38 and Near Infrared Imaging (NIR) at identifying pulmonary nodules within the operating theater, and to assess the safety and tolerability of single intravenous doses of OTL38.
+

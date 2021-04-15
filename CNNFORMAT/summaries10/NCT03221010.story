@@ -1,0 +1,16 @@
+(thirdQuint)Use of the Motivational Interviewing in the Treatment of Smokers in Groups in Primary Health Care.
+
+ Smoking is the leading cause of preventable death and a major public health problem worldwide.
+
+ Primary health care is a strategic setting in the treatment of this problem.
+
+ The objective of this study is to evaluate the efficacy of Motivational Interview (MI) on the smoking cessation rates of the smoking groups performed by the primary care teams of the Conceicao Hospitalar Group, Porto Alegre, Brasil, and also whether there is an increase in the completion rate of the groups.
+
+ Methodology: A randomized community trial was carried out in the 12 units of this service, starting in July 2016, with randomization by cluster, where the intervention group received an 8-hour training in MI in order to associate the technique with the conventional approach, while the units of the control group used only the conventional approach.
+
+.
+
+ Use of the Motivational Interviewing in the Treatment of Smokers in Groups in Primary Health Care@highlight
+
+The objective of this study is to evaluate the efficacy of Motivational Interview (MI) on the smoking cessation rates of the smoking groups performed by the primary care teams of the Conceicao Hospitalar Group, Porto Alegre, Brasil, and also whether there is an increase in the completion rate of the groups.
+

@@ -1,0 +1,28 @@
+(secondQuint)Detection of Melanoma Markers in Lymph Nodes or Peripheral Blood of Patients With Melanoma.
+
+ OBJECTIVES: - Determine the feasibility of performing reverse transcriptase-polymerase chain reaction (RT-PCR) for five different tumor antigen genes using lymph node samples or peripheral blood from patients with melanoma.
+
+ - Determine the ability of PCR-positive lymph nodes or peripheral blood to predict relapse of disease in these patients.
+
+ - Determine the correlation of positive PCR results from peripheral blood with disease stage.
+
+ OUTLINE: Lymph node biopsies or peripheral blood are obtained from patients.
+
+ These specimens are examined by nested reverse transcriptase-polymerase chain reaction (RT-PCR) and analyzed for various tumor antigens.
+
+ Patients may choose to be told the results of this testing, but the results do not influence or change the planned therapy.
+
+ Brief counseling is required to discuss the results and their potential implications.
+
+ Patients are followed for at least 2 years.
+
+ PROJECTED ACCRUAL: A total of 30 patients for the lymph node portion and 80 patients (20 per stage of disease) for the peripheral blood portion will be accrued for this study within 3 years.
+
+.
+
+ Detection of Melanoma Markers in Lymph Nodes or Peripheral Blood of Patients With Melanoma@highlight
+
+RATIONALE: Diagnostic procedures may improve the ability to detect the presence or recurrence of disease.
+
+ PURPOSE: Diagnostic trial to detect melanoma markers in the lymph nodes or peripheral blood of patients who have melanoma.
+

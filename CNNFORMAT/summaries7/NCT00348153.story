@@ -1,0 +1,22 @@
+(thirdQuint)Adalimumab in Uveitis Refractory to Conventional Therapy (ADUR Trial).
+
+ TNF alpha Inhibitors like Infliximab and Etanercept have been very effective in treating rheumatologic diseases.
+
+ They have been used to treat severe uveitis by several groups, Suhler and coworkers have published the largest series in 2005.
+
+ Adalimumab, a recombinant, full-length immunoglobulin, is the first member of a new class of TNF antibody compounds developed to contain exclusively human sequences.
+
+ The duration of therapeutic efficacy of other TNF antibodies, which contain non-human sequences, may be limited to a greater extent by antibody responses raised in subjects over time.
+
+ We want to test the efficacy and safety of the TNF alpha Inhibitor Adalimumab in patients with active uveitis despite standard immunosuppressive therapy requiring systemic corticosteroids > 7,5mg prednisolone.
+
+.
+
+ Adalimumab in Uveitis Refractory to Conventional Therapy (ADUR Trial)@highlight
+
+TNF alpha Inhibitors have been very effective in treating rheumatologic diseases as well as uveitis.
+
+ Adalimumab is the first member of a new class of TNF antibody compounds developed to contain exclusively human sequences.
+
+ We want to test the efficacy and safety of the TNF alpha Inhibitor Adalimumab in patients with active uveitis despite standard immunosuppressive therapy.
+

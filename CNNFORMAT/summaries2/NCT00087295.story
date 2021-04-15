@@ -1,0 +1,32 @@
+(thirdQuint)S0400, FR901228 in Treating Patients With Advanced Cancer of the Urothelium.
+
+ OBJECTIVES: - Determine the response (confirmed complete and partial) in patients with advanced transitional cell carcinoma of the urothelium that has progressed after prior chemotherapy when treated with FR901228 (depsipeptide) .
+
+ - Determine progression-free and overall survival of patients treated with this drug.
+
+ - Determine the qualitative and quantitative toxic effects of this drug in these patients.
+
+ - Determine, preliminarily, the effects of this drug on reversing tumor promoter gene methylation in these patients.
+
+ - Correlate, preliminarily, tumor DNA in plasma with response or outcome in patients treated with this drug.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive FR901228 (depsipeptide) IV over 4 hours on days 1, 8, and 15.
+
+ Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients achieving a complete response receive 2 additional courses of treatment.
+
+ Patients are followed every 3 months for 1 year and then every 6 months for 2 years.
+
+ PROJECTED ACCRUAL: A total of 20-40 patients will be accrued for this study.
+
+.
+
+ S0400, FR901228 in Treating Patients With Advanced Cancer of the Urothelium@highlight
+
+RATIONALE: Drugs used in chemotherapy, such as FR901228 (depsipeptide), work in different ways to stop tumor cells from dividing so they stop growing or die.
+
+ PURPOSE: This phase II trial is studying how well FR901228 works in treating patients with advanced cancer of the urothelium that has progressed or recurred after receiving one chemotherapy regimen.
+

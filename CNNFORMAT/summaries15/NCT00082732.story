@@ -1,0 +1,38 @@
+(fifthQuint)Behavior-Based Dietary Intervention in Treating Patients With Hormone-Refractory Prostate Cancer.
+
+ OBJECTIVES: - Determine whether a behavior-based dietary intervention can motivate patients with hormone-refractory prostate cancer to adopt and maintain a dietary pattern that includes 25 g of fiber, and 80 g of soy protein powder.
+
+ - Compare bioavailable levels of testosterone in patients treated with a behavior-based dietary intervention vs observation only.
+
+ - Determine whether this dietary intervention decreases or stabilizes a rising serum prostate-specific antigen level in these patients.
+
+ - Determine whether this dietary intervention improves disease-specific survival, mediated by reduced bioavailable levels of testosterone, in these patients.
+
+ - Determine the impact of a positive intervention outcome on androgen receptors in patients treated with this dietary intervention.
+
+ OUTLINE: This is a randomized, controlled, pilot, multicenter study.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ All patients receive nutritional counseling on a healthy diet.
+
+ Patients also keep a food diary during study participation.
+
+ - Arm I (dietary intervention): Patients receive dietary intervention comprising nutritional counseling on a low-fat, high-fiber, soy supplemented diet and behavior-based activities, such as goal-setting, contracting, and stimulus control, once weekly for 6 weeks, every 3 weeks for 33 weeks, and then at weeks 44, 48, and 52.
+
+ Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+ - Arm II (observation): Patients undergo observation every 6 weeks for 36 weeks and then every 8 weeks for 18 weeks.
+
+ PROJECTED ACCRUAL: A total of 92 patients (46 per treatment arm) will be accrued for this study.
+
+.
+
+ Behavior-Based Dietary Intervention in Treating Patients With Hormone-Refractory Prostate Cancer@highlight
+
+RATIONALE: A low-fat, high-fiber diet that includes soy protein may prevent disease progression in patients with hormone-refractory prostate cancer.
+
+ Nutrition counseling may help motivate patients to follow this diet.
+
+ PURPOSE: Randomized phase I trial to study the effectiveness of behavior-based dietary interventions, such as receiving nutrition counseling, in helping patients who have hormone-refractory prostate cancer follow a low-fat, high-fiber, soy-supplemented diet.
+

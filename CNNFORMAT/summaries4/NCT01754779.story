@@ -1,0 +1,16 @@
+(firstQuint)Treatment for Calcium Phosphate Kidney Stone Disease.
+
+ We will examine in two short-term placebo-controlled cross-over metabolic studies whether citric acid or potassium citrate can reduce calcium phosphate saturation in urine of CaP stone formers.
+
+ The first study will be conducted in hypocitraturic CaP stone formers without hypercalciuria, and will compare the effects of potassium citrate, citric acid and placebo.
+
+ The second study will be conducted in hypercalciuric CaP stone formers on a thiazide diuretic who require potassium supplementation, and will compare the effects of potassium chloride alone, potassium chloride + citric acid, and potassium citrate alone.
+
+ Physicochemical assays will be applied in addition to computer-based stone risk prediction programs to assess risk of stone recurrence.
+
+.
+
+ Treatment for Calcium Phosphate Kidney Stone Disease@highlight
+
+The investigators will examine in two studies whether citric acid or potassium citrate can reduce calcium phosphate saturation in urine of Calcium Phosphate stone formers.
+

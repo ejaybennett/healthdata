@@ -1,0 +1,30 @@
+(thirdQuint)The Effect of Sildenafil and Tadalafil on Skeletal Muscle and Perceptual Fatigue.
+
+ The Investigators hypothesize that upregulation of skeletal muscle NO-cGMP mediated responses through phosphodiesterase (PDE) inhibition by sildenafil or tadalafil causes an acute anabolic response of skeletal muscle protein synthesis.
+
+ NO is well-known to elicit vasodilation through stimulation of cGMP signaling, and NO-mediated changes in muscle perfusion may influence both skeletal muscle anabolism and perceptual fatigue.
+
+ To measure skeletal muscle protein synthesis, we will infuse a stable isotope tracer of phenylalanine and measure its incorporation into skeletal muscle proteins following a dose of sildenafil, tadalafil, or placebo.
+
+ The Investigators will also determine whether differences exist between men and women in response to PDE inhibition.
+
+ As skeletal muscle NO-cGMP signaling has been implicated in fatigue responses, we will assess the acute effect of sildenafil and tadalafil on fatigue.
+
+ Fatigue can be manifested both as a performance deficit at a local level (e.
+
+g.
+
+, a reduced ability of skeletal muscle to produce power or force) as well as a subjective experience of lacking physical or mental energy.
+
+ Accordingly, we will use more than one means (skeletal muscle performance, fatigue questionnaires, accelerometers) to study fatigue.
+
+ The Investigators hypothesize that sildenafil or tadalafil will acutely reduce exercise-associated fatigability and skeletal muscle fatigue development.
+
+ The Effect of Sildenafil and Tadalafil on Skeletal Muscle and Perceptual Fatigue@highlight
+
+This study is funded by the Moody Endowment.
+
+ In this project, we will investigate the potential effect of skeletal muscle nitric oxide (NO) production on skeletal muscle anabolism, muscle strength, physical function, and body composition in older individuals.
+
+ Further, we will determine whether augmentation of NO-mediated signaling reduces fatigue and fatigability.
+

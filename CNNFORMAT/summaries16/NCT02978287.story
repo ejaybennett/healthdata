@@ -1,0 +1,28 @@
+(secondQuint)New Transporting Solution in Parathyroid Allotransplantation.
+
+ The cold ischemia of organs, has harmful effects on the tissues due to oxidative stress and inflammation.
+
+ This is physiopathologically defined as ischaemia/re-perfusion injury (IRI) in organ transplantation.
+
+ Parathyroid allotransplantation has an increased popularity at the last decade.
+
+ But the cold ischemia due to transportation of the transplant tissue is a very important problem.
+
+ Calcium sensing receptor plays a crucial role in regulating Parathormone secretion which means controlling of the calcium-dependent systemic ion homeostasis.
+
+ The investigators developed a new tissue transporting solution for parathyroid allotransplantation and the investigators measured the parathyroid cell viability and the the amount of calcium sensing receptor of the parathyroid cells at the 0.
+
+, 6.
+
+, 12.
+
+ and 24.
+
+ hours of the parathyroid cells which were placed into our new solution.
+
+.
+
+ New Transporting Solution in Parathyroid Allotransplantation@highlight
+
+The aim of this study is to measure of the parathyroid cell viability and the the amount of calcium sensing receptor of the parathyroid cells which were placed into a new transportation solution (BAVU solution) for parathyroid allotransplantation.
+

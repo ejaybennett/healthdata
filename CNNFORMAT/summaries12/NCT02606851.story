@@ -1,0 +1,23 @@
+(firstQuint)Proton Pump Inhibitor Empirical Treatment in Management of Outpatients With Gastroesophageal Reflux Disease.
+
+.
+
+ To estimate the overall responder rate after 4 weeks of Proton Pump Inhibitor empirical treatment This will be a multicenter prospective observational study carried out in China.
+
+ Investigator will collect data in a pre-specified Case Report Form from the outpatient.
+
+ Informed consents will be needed.
+
+ Investigator will provide patient diary card to each patient for them to note down the symptom frequency every day.
+
+ Main data from each outpatient will include demographics, Gerd Q, symptom frequency and Proton Pump Inhibitor empirical treatment.
+
+ Data from each outpatient will be collected on the screening day, 2 weeks and 4 weeks.
+
+.
+
+ Proton Pump Inhibitor Empirical Treatment in Management of Outpatients With Gastroesophageal Reflux Disease.
+
+@highlight
+
+China Survey of Proton Pump Inhibitor Empirical Treatment in Management of Outpatients with Gastroesophageal Reflux Disease

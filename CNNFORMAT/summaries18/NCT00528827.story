@@ -1,0 +1,36 @@
+(firstQuint)A Randomized, Double-blinded, Placebo-controlled, Dose-ranging Study of Cardene I.
+
+V.
+
+ in Pediatric Subjects With Hypertension.
+
+ Children with acute hypertensive episodes are frequently treated with the same marketed drugs as adults.
+
+ Few drugs are specifically indicated for use in children with severe hypertension.
+
+ Cardene I.
+
+V.
+
+ has been widely used in children with severe hypertension without specific dosing recommendations for children in the labeling.
+
+ This study is designed to examine the pharmacokinetics, pharmacodynamics, safety, and efficacy of using Cardene I.
+
+V.
+
+ to reduce blood pressure (BP) in children with hypertension and will provide important information to guide use in pediatric patients.
+
+.
+
+ A Randomized, Double-blinded, Placebo-controlled, Dose-ranging Study of Cardene I.
+
+V.
+
+ in Pediatric Subjects With Hypertension@highlight
+
+To define the relationship between Cardene I.
+
+V.
+
+ dose, serum concentrations, and blood pressure reduction in pediatric subjects with hypertension.
+

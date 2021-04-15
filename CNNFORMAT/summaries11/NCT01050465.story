@@ -1,0 +1,18 @@
+(firstQuint)MedlinePlus Health Prescriptions: Developing a Pragmatic Approach for Clinic Use.
+
+ The specific aim of this proposed pilot study is to compare two standardized processes (paper and electronic) to deliver a customized MedlinePlus health information prescription.
+
+ Primary Hypothesis.
+
+ Individuals in the paper prescription group will be just as likely to seek information using MedlinePlus compared with individuals in the group who receive the same customized information through an email prescription.
+
+ Secondary Hypothesis.
+
+ Individuals in the paper prescription group will be just as likely to have successful behavioral outcome measures as those in the group who receive the same customized information through an email prescription.
+
+.
+
+ MedlinePlus Health Prescriptions: Developing a Pragmatic Approach for Clinic Use@highlight
+
+The specific aim of this proposed pilot study is to compare two standardized processes (paper and electronic) to deliver a customized MedlinePlus health information prescription.
+

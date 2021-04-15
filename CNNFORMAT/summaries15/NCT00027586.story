@@ -1,0 +1,22 @@
+(secondQuint)Imatinib Mesylate in Treating Patients With Metastatic Melanoma.
+
+ OBJECTIVES: - Determine the clinical activity of imatinib mesylate (STI571) in patients with metastatic melanoma.
+
+ - Determine the side effects of this drug in these patients.
+
+ - Correlate molecular studies with responsiveness to this drug in these patients.
+
+ OUTLINE: Patients receive oral imatinib mesylate (STI571) twice daily.
+
+ Treatment continues in the absence of disease progression or unacceptable toxicity.
+
+ PROJECTED ACCRUAL: A total of 21-78 patients will be accrued for this study within 6-15 months.
+
+.
+
+ Imatinib Mesylate in Treating Patients With Metastatic Melanoma@highlight
+
+RATIONALE: Imatinib mesylate may interfere with the growth of tumor cells and may be an effective treatment for metastatic melanoma.
+
+ PURPOSE: Phase II trial to study the effectiveness of imatinib mesylate in treating patients who have metastatic melanoma.
+

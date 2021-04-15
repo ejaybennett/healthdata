@@ -1,0 +1,26 @@
+(thirdQuint)Effect of Oseltamivir on Cognitive Function in Subjects With Influenza.
+
+ Primary Objective: To determine if subjects treated with oseltamivir in addition to standard of care treatment for influenza demonstrate a greater improvement in attention as compared to subjects receiving standard of care alone.
+
+ Secondary Objectives: To determine if subjects treated with oseltamivir in addition to standard of care treatment for influenza demonstrate a greater improvement in working memory and processing speed as compared to subjects receiving standard of care alone.
+
+ Supportive Objectives: 1.
+
+ To determine if subjects treated with oseltamivir in addition to standard of care treatment for influenza demonstrate a greater improvement in self-rated alertness as compared to subjects receiving standard of care alone.
+
+ 2.
+
+ To determine if subjects treated with oseltamivir in addition to standard of care treatment for influenza demonstrate a greater improvement in self-rated calmness and contentment as compared to subjects receiving standard of care alone.
+
+ 3.
+
+ To determine if there is a correlation between the rate of improvement in symptom scores and the rate of change in attention and working memory.
+
+.
+
+ Effect of Oseltamivir on Cognitive Function in Subjects With Influenza@highlight
+
+This study has been designed to determine if subjects treated with oseltamivir in addition to standard of care treatment for influenza demonstrate a greater improvement in attention / working memory / processing speed / mood as compared to subjects receiving standard of care alone.
+
+ The cognitive tests employed are objective measures developed and administered online by HeadMinder Inc.
+

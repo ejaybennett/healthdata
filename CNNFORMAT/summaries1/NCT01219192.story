@@ -1,0 +1,12 @@
+(secondQuint)Study of M2ES in Patients With Advanced Pancreatic Cancer After Gemcitabine Treatment Failure.
+
+ To evaluate the safety and tolerability and determine the recommended dosing for the treatment in patients with advanced pancreatic cancer after fist-line Gemcitabine treatment failure.
+
+We star with the dose M2ES 15mg,then escalate to 30mg 45mg 60mg,to find the recommended dose in clinic practise.
+
+.
+
+ Study of M2ES in Patients With Advanced Pancreatic Cancer After Gemcitabine Treatment Failure@highlight
+
+The purpose of this study is to evaluate the safety and tolerability and determine the recommended dosing for the treatment in patients with advanced pancreatic cancer after fist-line Gemcitabine treatment failure.
+

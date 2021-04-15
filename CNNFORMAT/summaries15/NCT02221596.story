@@ -1,0 +1,24 @@
+(secondQuint)Vitamin D and Muscle Metabolic Function.
+
+ The investigators plan to recruit approximately 56 aged individuals with vitamin D insufficiency for a 13 week trial.
+
+ All subjects will be 60 years of age or older.
+
+ Participants will be randomized to one of four groups: vitamin D (50,000IU/wk) + aerobic training (7 days during the 13th week); vitamin D (50,000IU/wk) + normal daily activity during the 13th week; placebo + aerobic training (7 days during the 13th week); or placebo + normal daily activity during the 13th week.
+
+ Following screening and informed consent process a physical activity questionnaire will be administered.
+
+ A blood draw will then be conducted at baseline, midpoint and endpoint.
+
+ Collected blood for the purposes of this study will assess vitamin D status (25(OH)D), parathyroid hormone, ionized calcium, insulin, and a comprehensive metabolic panel.
+
+ At baseline and endpoint muscle lipid will be assessed using Magnetic Resonance Spectroscopy and muscle oxygen consumption will be determined using a novel hybrid diffuse optical instrument consisting of a near-infrared spectroscopy and a diffuse correlation spectroscopy.
+
+ In addition, at each study time point 3 dietary recalls will be completed and physical activity will be measured using an accelerometer.
+
+.
+
+ Vitamin D and Muscle Metabolic Function@highlight
+
+The purpose of this study is to identify the magnitude of muscle lipid redistribution and muscle oxygen use in individuals 60 years old or older following combined treatment of vitamin D repletion and aerobic training compared to vitamin D repletion alone, aerobic training alone, or no treatment.
+

@@ -1,0 +1,24 @@
+(secondQuint)DFD06 Cream vs Clobetasol Propionate Cream, 0.
+
+05% Hypothalamic- Pituitary-Adrenal (HPA) Axis Suppression Study in Patients With Moderate to Severe Plaque Psoriasis.
+
+ This was a 15-day, randomized, multicenter, comparator-controlled, open-label study.
+
+ Approximately 50 subjects with moderate to severe plaque psoriasis were to be randomized to treatment with DFD-06 Cream or clobetasol propionate cream in a 1:1 ratio.
+
+ Study products were applied twice daily for 15 days to all affected areas on the body excluding face, scalp, groin, axillae, and other intertriginous areas.
+
+ Subject visits were scheduled at Screening, Baseline (Day 1), Day 8, Day 15, and Day 43 (if needed to confirm recovery).
+
+ Clinical determinations of disease severity were conducted using the Investigator's Global Assessment (IGA) for overall severity at each visit.
+
+.
+
+ DFD06 Cream vs Clobetasol Propionate Cream, 0.
+
+05% Hypothalamic- Pituitary-Adrenal (HPA) Axis Suppression Study in Patients With Moderate to Severe Plaque Psoriasis@highlight
+
+The purpose of this study is to evaluate the potential of DFD06 cream to suppress the HPA (hypothalamic-pituitary-adrenal) axis as compared to clobetasol propionate cream, 0.
+
+05% cream when applied twice daily for 15 days.
+

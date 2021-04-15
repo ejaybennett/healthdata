@@ -1,0 +1,16 @@
+(firstQuint)Mesh Repair of Anterior Vaginal Wall Prolapse.
+
+ Anterior vaginal wall prolapse is the most common type of pelvic organ prolapse in postmenopausal women.
+
+ This anatomic defect has traditionally been repaired with anterior colporrhaphy plication, a series of interrupted stitches being the main surgical component.
+
+ The procedure is associated with a high recurrence rate, up to 32 % even after using paravaginal repair along with anterior colporrhaphy.
+
+It has been sought to resolve the problem of recurrence using artificial mesh as in the repair of abdominal hernias.
+
+ Comparison: Anterior vaginal wall repair with or without reinforcement with polypropylene mesh were compared in a prospective randomized study.
+
+ Mesh Repair of Anterior Vaginal Wall Prolapse@highlight
+
+The purpose of this study is to determine whether reenforcement with polypropylen mesh compared with traditional anterior colporrhaphy for anterior vaginal wall prolapse results in fewer recurrences.
+

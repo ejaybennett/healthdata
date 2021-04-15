@@ -1,0 +1,18 @@
+(secondQuint)Assessing Induction of Double Strand Breaks With Androgen Receptor Partial Agonist in Patients on Androgen Suppression.
+
+ This is a prospective, single-center, two-phase study to assess the efficacy of single pulsed-dose flutamide in creating DSBs (double strand breaks) in prostate cancer within patients receiving central androgen suppression and brachytherapy.
+
+ The initial phase is a 6-patient single-arm run-in phase to test feasibility and rule out futility of the intervention.
+
+ All patients within the run-in phase will receive 50mg flutamide prior to brachytherapy and prostatic biopsy.
+
+ If futility is ruled out (>1 patients with DSBs on biopsy), then accrual will continue in the randomized, double-blind phase.
+
+ Subjects will be randomized in a 2:1 ratio (12:6 patients), for an all-trial total of 18 patients receiving flutamide vs 6 patients receiving placebo.
+
+.
+
+ Assessing Induction of Double Strand Breaks With Androgen Receptor Partial Agonist in Patients on Androgen Suppression@highlight
+
+This is a prospective, single-center, two-phase study to assess the efficacy of single pulsed-dose flutamide in creating double strand breaks (DSBs) in prostate cancer within patients receiving central androgen suppression and brachytherapy.
+

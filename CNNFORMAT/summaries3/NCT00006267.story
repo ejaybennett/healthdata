@@ -1,0 +1,22 @@
+(secondQuint)Nitrocamptothecin in Treating Patients With Recurrent or Metastatic Ovarian Epithelial or Primary Peritoneal Cancer.
+
+ OBJECTIVES: - Determine the antitumor activity of nitrocamptothecin in patients with recurrent or metastatic ovarian epithelial or primary peritoneal cancer.
+
+ - Determine the nature and degree of toxicity of this regimen in these patients.
+
+ OUTLINE: Patients receive oral nitrocamptothecin on days 1-5.
+
+ Treatment continues every 7 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients are followed at 2 weeks, then every 3 months for 2 years, and then every 6 months for 3 years.
+
+ PROJECTED ACCRUAL: Approximately 19-51 patients will be accrued for this study within 22 months.
+
+.
+
+ Nitrocamptothecin in Treating Patients With Recurrent or Metastatic Ovarian Epithelial or Primary Peritoneal Cancer@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ PURPOSE: Phase II trial to study the effectiveness of nitrocamptothecin in treating patients who have recurrent or metastatic ovarian epithelial or primary peritoneal cancer.
+

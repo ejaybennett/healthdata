@@ -1,0 +1,16 @@
+(firstQuint)Pneumonia in Tetanus Study.
+
+ Background: Hospital-acquired pneumonia remains a common and important cause of morbidity and mortality in patients with severe tetanus who require a tracheostomy whether or not they are mechanically ventilated.
+
+ We propose to investigate if the incidence of hospital-acquired pneumonia can be reduced by nursing tetanus patients semi-recumbent at 30o rather than supine as is the current practice.
+
+ The aim of this study will be to assess the frequency of clinically suspected and microbiologically confirmed hospital acquired pneumonia in patients nursed in a semi-recumbent or supine body position.
+
+ A secondary end-point will be the mortality in each group.
+
+ Patients at risk of developing hospital acquired pneumonia (in hospital without developing pneumonia for more than two days) will be evaluated.
+
+ Pneumonia in Tetanus Study@highlight
+
+This is a randomised controlled trial of the incidence of nosocomial pneumonia in patients with severe tetanus admitted to the intensive care ward nursed in a supine or semi-recumbent position.
+

@@ -1,0 +1,20 @@
+(thirdQuint)Use of Autologous Bone Marrow Aspirate Concentrate in Painful Knee Osteoarthritis.
+
+ Patients with symptomatic mild to moderate bilateral knee osteoarthritis will be candidates for this pilot study.
+
+ Baseline data includes radiographs, MRI imaging, clinical data on knee pain and analysis of synovial fluid inflammatory markers.
+
+ Bone marrow will be aspirated from the patient's iliac crests and the cellular rich portion will be concentrated.
+
+ Randomly, one knee will be injected with the bone marrow concentrate.
+
+ The contralateral knee will be injected with only sterile saline for placebo.
+
+ Follow-up analysis of synovial fluid will be at one week and 6 months after injection; clinical data will be obtained at 3, 6 and 12 months and MRI imaging will be performed at 6 months after injection, with repeat radiographs at 12 months.
+
+ Use of Autologous Bone Marrow Aspirate Concentrate in Painful Knee Osteoarthritis@highlight
+
+The overall goal of this study is to develop regenerative cell therapy for use in patients with osteoarthritis (OA).
+
+ The primary objective of this proposal is to conduct a pilot study that assesses the safety and feasibility of using concentrated bone marrow aspirate containing MSC to treat patients with painful knee OA.
+

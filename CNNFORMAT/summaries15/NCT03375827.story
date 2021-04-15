@@ -1,0 +1,12 @@
+(secondQuint)Feasibility of an Individualized Goals of Care Discussion Guide for Advanced Breast Cancer.
+
+ The purpose of this study is to understand patient preferences for communication and decision-making for advanced breast cancer.
+
+ The investigators want to better understand what topics the participant wants their doctors and nurses to address with the participant in clinic, and the investigators want to evaluate whether asking patients to fill out a brief survey about their goals and preferences for care and giving this survey to their clinician before the next visit is a good idea that helps to improve communication and decision-making in breast cancer care.
+
+.
+
+ Feasibility of an Individualized Goals of Care Discussion Guide for Advanced Breast Cancer@highlight
+
+This research study is evaluating whether asking patients to fill out a brief survey about their goals and preferences for care and giving this survey to their clinician before the next visit helps improve communication and decision-making in breast cancer care.
+

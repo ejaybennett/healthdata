@@ -1,0 +1,26 @@
+(thirdQuint)Ezetimibe Versus Nutraceuticals in Statin-intolerant Patients.
+
+ Background Treatment with statins has a class I indication after percutaneous coronary intervention (PCI), but is often discontinued by patients due to side effects.
+
+ Pharmacologic alternatives shown to be useful after PCI include ezetimibe and nutraceuticals (i.
+
+e.
+
+ compounds derived from foods with cholesterol lowering actions).
+
+ It remains unknown, however, which of these two therapeutic approaches is more effective after PCI.
+
+ Purpose The primary objective of this study is to compare the efficacy and tolerability of ezetimibe versus a nutraceutical-based protocol in statin-intolerant patients treated with percutaneous coronary intervention.
+
+.
+
+ Ezetimibe Versus Nutraceuticals in Statin-intolerant Patients@highlight
+
+Pharmacologic alternatives in statin-intolerant patients include ezetimibe and nutraceuticals (i.
+
+e.
+
+ compounds derived from foods with cholesterol lowering actions).
+
+ The investigators will compare the efficacy and tolerability of ezetimibe versus a nutraceutical-based protocol in statin-intolerant patients treated with percutaneous coronary intervention.
+

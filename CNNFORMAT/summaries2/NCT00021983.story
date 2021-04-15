@@ -1,0 +1,32 @@
+(secondQuint)Immunotoxin Therapy in Treating Patients With Hairy Cell Leukemia.
+
+ OBJECTIVES: - Assess the toxicity and therapeutic efficacy of recombinant BL22 immunotoxin in patients with refractory or recurrent CD22+ hairy cell leukemia.
+
+ - Define the pharmacokinetics of this drug, including the terminal elimination serum half-life area under the curve and volume of distribution, in these patients.
+
+ - Evaluate the immunogenicity of this drug in these patients.
+
+ - Determine the effect of this drug on various components of the circulating cellular immune system in these patients.
+
+ OUTLINE: This is a dose-escalation study.
+
+ Patients receive recombinant BL22 immunotoxin IV over 30 minutes on days 1, 3, and 5.
+
+ Treatment repeats at least every 42 days for up to 4 courses in the absence of disease progression and sufficient neutralizing antibodies.
+
+ Cohorts of 3-6 patients receive escalating doses of recombinant BL22 immunotoxin until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose at which no more than 1 of 6 patients experiences dose-limiting toxicity.
+
+ PROJECTED ACCRUAL: A maximum of 46 patients will be accrued for this study within 3 years.
+
+.
+
+ Immunotoxin Therapy in Treating Patients With Hairy Cell Leukemia@highlight
+
+RATIONALE: An immunotoxin can locate cancer cells and kill them without harming normal cells.
+
+ This may be an effective treatment for hairy cell leukemia.
+
+ PURPOSE: Phase I trial to study the effectiveness of BL22 immunotoxin in treating patients who have refractory or recurrent hairy cell leukemia.
+

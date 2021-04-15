@@ -1,0 +1,24 @@
+(thirdQuint)Steroids in Fulminant Hepatic Failure in the Pediatric Age Group.
+
+ Fulminant hepatic failure (FHF) in children is a potentially devastating disease.
+
+ The mortality rate may reach 80-90% in the absence of liver transplantation.
+
+ FHF is the clinical manifestation of liver cell death of a critical degree with insufficient hepatocellular regeneration and characterized by coagulopathy with or without hepatic encephalopathy.
+
+ Liver injury is considered to be mainly immune mediated with augmentation of cytolytic pathways of infected hepatocytes.
+
+ For that, it was suggested that corticosteroids modulate the activity of the disease by suppressing the immune system.
+
+.
+
+ Steroids in Fulminant Hepatic Failure in the Pediatric Age Group@highlight
+
+Fulminant hepatic failure (FHF) in children is a potentially devastating disease.
+
+ The mortality rate may reach 80-90% in the absence of liver transplantation.
+
+ Liver injury is considered to be mainly immune mediated with augmentation of cytolytic pathways of infected hepatocytes.
+
+ For that, it is suggested that corticosteroids modulate the activity of the disease by suppressing the immune system.
+

@@ -1,0 +1,16 @@
+(secondQuint)Clinical Trial of the Efficacy and Safety of AC0010 in the Treatment of EGFR T790M Patients With Advanded NSCLC.
+
+ The study is a single-arm, multi-center, open-label clinical trial.
+
+ The study aims to expand the sample size based on the fixed dose recommended by the results of previous dose exploration studies in order to further evaluate the study drug's efficacy and safety with overall objective tumor response rate (ORR) as the primary efficacy evaluation indicator, and further evaluate subjects' duration of response (DOR), progression-free survival (PFS), disease control rate (DCR), overall survival (OS) and quality of life (QoL).
+
+ Safety indicators of subjects are further evaluated through adverse events, vital signs and clinical laboratory parameters.
+
+.
+
+ Clinical Trial of the Efficacy and Safety of AC0010 in the Treatment of EGFR T790M Patients With Advanded NSCLC@highlight
+
+The study is a single-arm, multi-center, open-label clinical trial.
+
+ The study aims to expand the sample size based on the fixed dose recommended by the results of previous dose exploration studies in order to further evaluate the study drug's efficacy and safety.
+

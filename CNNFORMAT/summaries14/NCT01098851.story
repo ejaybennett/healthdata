@@ -1,0 +1,30 @@
+(fifthQuint)Oxygen Saturation Monitoring During Surgery.
+
+ Patients with Obstructive Sleep Apnea (OSA) have episodes of upper airway obstruction during sleep which have been shown to be accompanied by multiple oxygen desaturations followed by short recovery intervals until rising PaCO2 causes sleep disruption/rescue arousal.
+
+ In the postoperative and conscious sedation arena, these patterns can deteriorate from a stable pattern to a severely unstable pattern which may go unrecognized and lead to an adverse event (respiratory/cardiac arrest; death).
+
+ Anesthesia and the higher consumption of analgesics produce a profound reduction in pharyngeal tone, a dampening of both chemoreceptor sensitivity and arousal/rescue response.
+
+ Thus the first 48 hours post operatively presents a vulnerable period.
+
+ Respiratory disturbances are more prominent - respiratory arrest and hypopnea being the main adverse occurrences during this period.
+
+ An algorithm has been developed that monitors saturation and indicates repetitive reductions in airflow through the upper airway and into the lungs.
+
+ Presence of this pattern in the procedural sedation patient population has not been tested for its prevalence.
+
+ This study will monitor patients during surgery to determine if this pattern occurs in this hospital setting.
+
+.
+
+ Oxygen Saturation Monitoring During Surgery@highlight
+
+Patients with Obstructive Sleep Apnea (OSA) have cyclical patterns of lower blood oxygen during sleep because of repeated episodes of upper airway obstruction that cause their breathing to stop.
+
+ When these patients have surgery, anesthetic drugs may worsen these patterns of lower blood oxygen.
+
+ This study monitors ten patients at high risk for OSA and ten patients at low risk for OSA during surgery.
+
+ Patterns of lower oxygen saturations should arise in the high risk group but not the low risk group.
+

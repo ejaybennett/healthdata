@@ -1,0 +1,18 @@
+(firstQuint)Comparison Between Surgical Access and Repeated Applications of APDT.
+
+ Scaling and root planing may be insufficient to resolve the periodontal infection resulting in residual periodontal pockets.
+
+ A method of treatment to these sites would be the surgical therapy, because it allows access to root surfaces, making possible a better decontamination.
+
+ However, the surgical approach may bring some negative points, as more discomfort and postoperative morbidity, increased transoperatory risk and increased risk of contamination.
+
+ Thus, finding other alternatives to residual pockets treatment, antimicrobial photodynamic therapy (aPDT) was recently proposed.
+
+ Therefore, the aim of this study will be to compare the approach of repeated applications of APDT versus surgical therapy for the treatment of residual pockets in generalized agressive periodontitis.
+
+.
+
+ Comparison Between Surgical Access and Repeated Applications of APDT@highlight
+
+The aim of this study will be to compare the approach of repeated applications of APDT versus surgical therapy for the treatment of residual pockets in generalized agressive periodontitis.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Effect of Diabetes Education During Retinal Ophthalmology Visits on Diabetes Control.
+
+ Although each patient with diabetes should be receiving diabetic education as part of their on-going routine medical care, it is likely that such education is delivered with different details and intensity.
+
+ Motivating a patient with diabetes to become involved in his or her care is of primary importance in achieving better systemic control.
+
+ Ocular complications from diabetes remain the most common cause of blindness among American adults 20-74 years of age.
+
+ A recent survey reported that loss of vision is the most feared of all diabetic complications.
+
+ Thus, it is possible that an educational intervention at an ophthalmology office may have additional impact beyond the current standard of diabetes education at a primary care or diabetologist/endocrinologist office alone.
+
+ This study will determine whether diabetes education in the ophthalmology office (which includes same-visit feedback of HbA1c levels, combined with standardized education regarding same-visit blood pressure, retinopathy status and overall diabetes education) can improve subsequent HbA1c as compared with current standard care in an ophthalmology office.
+
+ Materials used in this research setting must be applicable for use in ophthalmology practices.
+
+ Therefore, the materials and procedures for this study have been developed with the goal of easy translation to this audience.
+
+.
+
+ Effect of Diabetes Education During Retinal Ophthalmology Visits on Diabetes Control@highlight
+
+The purpose of this study is to assess whether glycemic control (assessed with HbA1c measurement) in individuals with type 1 or type 2 diabetes can be improved with a point-of-care measurement of HbA1c in the ophthalmologist's office combined with a personalized risk assessment for diabetic retinopathy and other complications of diabetes.
+

@@ -1,0 +1,16 @@
+(firstQuint)Amniotic Membrane Associated With Conjunctival Autograft Versus Conjunctival Autograft for Recurrent Pterygia.
+
+ Patients with recurrent pterygia without symblepharon were randomly assigned to undertake pterygium excision followed by amniotic membrane associated with a small conjunctival autograft (2x3mm) or conjunctival autograft (approximately 5x8mm) alone.
+
+ The patients were examined after 1, 7, 30, 90, 180 and 360 days after the surgery.
+
+ Recurrence was considered as a fibrovascular ingrowth of 1.
+
+5 mm or more beyond the limbus with conjunctival drag.
+
+.
+
+ Amniotic Membrane Associated With Conjunctival Autograft Versus Conjunctival Autograft for Recurrent Pterygia@highlight
+
+The purpose of this study is to compare amniotic membrane associated with conjunctival autograft versus conjunctival autograft alone in the treatment of recurrent pterygia.
+

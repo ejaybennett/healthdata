@@ -1,0 +1,44 @@
+(fifthQuint)Prevention of Anthracycline-induced Cardiotoxicity.
+
+ Anthracycline-containing chemotherapy is well known to cause dose-dependent, progressive cardiac damage in particular left ventricular dysfunction evolving to heart failure.
+
+ The development of cardiac dysfunction, even asymptomatic, leads to the exclusion of cancer patients from effective chemotherapy, with a possible negative impact on their oncologic prognosis.
+
+ The use of troponins (cTn) during cancer chemotherapy with anthracyclines (AC) allows to identify early cardiac injury before the onset of left ventricular dysfunction, with high predictive value.
+
+ ACE inhibitors (ACEi) and betablockers (BB) prescribed to cancer patients when, during the course or after the end of a chemotherapy, signs or symptoms of cardiac failure are detected, have been shown to be protective in monocentric studies.
+
+ Prophylaxis with an ACEi, enalapril and a BB, bisoprolol in patients treated with AC-chemotherapy may allow to reduce the risk of cardiovascular injury, allowing for the completion of the whole scheduled antitumoral treatment.
+
+ Sample size According to previous studies from the European Institute of Oncology IEO), an increase of circulating troponin levels is estimated to be 20% in the patients treated with anthracyclines at conventional dosage.
+
+ 134 patients in each arm (Total sample size of 268 patients) are required to detect a 50% relative risk reduction in the incidence of elevated troponins levels at a 2-sided alpha=0.
+
+05 and a 1-beta=0.
+
+60, taking into account a 5% drop-out rate.
+
+ This endpoint will allow to compare the strategy based on prevention (arm 1) with the strategy guided by troponin (arm 2).
+
+ Given the originality of the proposal and the limited resources, this study will be exploratory in nature, waiting for a larger and adequately powered clinical trial designed to observe significant differences in clinical events.
+
+ Safety Tolerability of enalapril, valsartan and bisoprolol has been proven over several years and in broad populations of cardiac patients, not only with heart failure, but also at cardiovascular risk in the absence of signs or symptoms of HF.
+
+ Specific unwanted effects in cancer patients are not expected, based on previous experiences.
+
+ Special care should be taken to avoid profound hypotension induced by enalapril, valsartan and bisoprolol in these patients.
+
+ Serious Adverse Events (SAEs) ad Suspected and Unsuspected Serious Adverse Reactions (SUSARs) will be collected and treated appropriately.
+
+.
+
+ Prevention of Anthracycline-induced Cardiotoxicity@highlight
+
+Anthracycline based anti-tumoral therapies are know to develop cardiac damage that could also lead to heart failure.
+
+ Monocentric studies proved that a treatment with ACE inhibitors (ACEi) and betablockers (BB) during the first elevation of cardiac troponin is able to reduce the incidence of heart failure (HF).
+
+ ICOS-ONE trial is a multicenter randomized trial comparing two therapeutic strategies.
+
+ The main objective is to assess whether enalapril started concomitantly to AC-containing treatments, can prevent cardiac toxicity more effectively than when enalapril is prescribed to selected patients showing laboratory evidences of injury after chemotherapy, during follow-up visits in 268 patients.
+

@@ -1,0 +1,16 @@
+(firstQuint)A Clinical Trial to Evaluate the Pharmacokinetics and Safety/Tolerability of Fimasartan and Atorvastatin in Healthy Male Volunteers.
+
+.
+
+ This is a randomized, open-label, single dose, 3x3 partial replicated crossover study to evaluate the pharmacokinetics and safety/tolerability.
+
+ Within each period, randomized subjects will be 2 dosing regimens with a fixed dose combination of Fimasartan/Atorvastatin and co-administration of Fimasartan and Atorvastatin.
+
+.
+
+ A Clinical Trial to Evaluate the Pharmacokinetics and Safety/Tolerability of Fimasartan and Atorvastatin in Healthy Male Volunteers.
+
+@highlight
+
+The purpose of this study is to evaluate the Pharmacokinetics and Safety / Tolerability of Fimasartan and Atorvastatin in Healthy Male volunteers.
+

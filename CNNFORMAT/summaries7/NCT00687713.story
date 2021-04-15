@@ -1,0 +1,14 @@
+(secondQuint)Phase 2, Double-Blind, Placebo-Controlled Trial of Bupropion for Methamphetamine Dependence.
+
+ The primary objective of this study is to assess the efficacy of bupropion in reducing methamphetamine use in subjects with methamphetamine dependence who report using methamphetamine 29 or less days during the 30 days prior to signing consent.
+
+ Secondary objectives included but were not limited to: assessing the success or failure to achieve abstinence (confirmed by at least two methamphetaminenegative urines and no methamphetamine-positive urines) each week during the last two weeks (Weeks 11 and 12) for subjects using methamphetamine 18 or less days during the 30 days prior to signing consent, assessing the safety of bupropion in this study population, assessing other measures of efficacy of bupropion in reducing methamphetamine use or craving, and other psychological assessments of methamphetamine dependence.
+
+ It is hypothesized that bupropion, compared to placebo, would be associated with an increase in the proportion of subjects who achieved abstinence (confirmed by at least two methamphetamine-negative urines and no methamphetaminepositive urines) each week during the last two weeks (Weeks 11 and 12) for non-daily users.
+
+.
+
+ Phase 2, Double-Blind, Placebo-Controlled Trial of Bupropion for Methamphetamine Dependence@highlight
+
+This study is to assess the efficacy of bupropion in reducing methamphetamine use in subjects with methamphetamine dependence who report using methamphetamine 29 or less days during the 30 days prior to the start of signing consent.
+

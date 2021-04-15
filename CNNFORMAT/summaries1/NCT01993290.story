@@ -1,0 +1,18 @@
+(secondQuint)USG Brachial Plexus Block for Upper Extremity Surgery.
+
+ The investigators will compare the BP block efficacy (for surgical anaesthesia) with the USG single-penetration multiple-injection-technique at the SCL, LIC and AX level for upper-extremity surgery (elbow, forearm, wrist, hand).
+
+ The investigators want to investigate whether the single-penetration multiple-injection-technique would provide for safe surgical anaesthesia with lower volumes of local anaesthetics than has previously been described in a comparative study at the three different levels.
+
+ 120 patients will prospectively be randomized to an USG BP block administered as a single-penetration multiple-injection-technique at one of three different levels: (1) SCL (2) LIC (3) AX.
+
+ Ropivacaine 0.
+
+75% (20 mL) will be used for all blocks prior to surgery.
+
+.
+
+ USG Brachial Plexus Block for Upper Extremity Surgery@highlight
+
+Ultrasound-guided (USG) brachial plexus (BP) block efficacy at the Supraclavicular (SCL), Lateral- Infraclavicular (LIC) and Axillary (AX) level: Randomized, observer-blinded study of the single-penetration multiple-injection-technique.
+

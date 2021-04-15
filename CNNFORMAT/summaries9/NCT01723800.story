@@ -1,0 +1,43 @@
+(fifthQuint)PI3K Inhibitor BKM120, Carboplatin, and Pemetrexed Disodium in Treating Patients With Stage IV Non-Small Cell Lung Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To determine the recommended phase 2 dose (RP2D) of BKM120 (PI3K inhibitor BKM120) that can be administered in combination with carboplatin and pemetrexed (pemetrexed disodium) in patients with advanced non-squamous non-small cell lung cancer (NSCLC).
+
+ II.
+
+ To define the dose-limiting toxicity (DLT) and other toxicities associated with the use of combination BKM120 and carboplatin and pemetrexed.
+
+ SECONDARY OBJECTIVES: I.
+
+ To evaluate the pharmacokinetic parameters of BKM120, when used in combination with carboplatin and pemetrexed.
+
+ II.
+
+ To obtain preliminary evidence of anti-tumor activity with this combination.
+
+ III.
+
+ To evaluate downstream inhibition of the phosphatidylinositol 3 kinase (PI3K) pathway.
+
+ OUTLINE: This is a dose-escalation study of PI3K inhibitor BKM120.
+
+ Patients receive pemetrexed disodium intravenously (IV) over 10 minutes followed by carboplatin IV over 30 minutes on day 1, and PI3K inhibitor BKM120 orally (PO) once daily (QD) on days 1-21.
+
+ Courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+ Patients may receive courses of PI3K inhibitor BKM120 alone or PI3K inhibitor BKM120 and pemetrexed disodium after 4-6 courses with carboplatin in the absence of unacceptable toxicity or disease progression.
+
+ After completion of study treatment, patients are followed up for 28 days.
+
+.
+
+ PI3K Inhibitor BKM120, Carboplatin, and Pemetrexed Disodium in Treating Patients With Stage IV Non-Small Cell Lung Cancer@highlight
+
+This phase I trial studies the side effects and best dose of PI3K inhibitor BKM120 when given together with carboplatin and pemetrexed disodium in treating patients with stage IV non-small cell lung cancer.
+
+ PI3K inhibitor BKM120 and pemetrexed disodium may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Drugs used in chemotherapy, such as carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+ Giving PI3K inhibitor BKM120, carboplatin, and pemetrexed disodium together may kill more tumor cells

@@ -1,0 +1,38 @@
+(fifthQuint)PET/MR in Assessing Response to Neoadjuvant Radiation Therapy in the Tx of High Grade Sarcomas.
+
+ Investigators propose that a PET/MR study at the midpoint of radiation treatment will accurately predict which patients will respond to neoadjuvant radiation therapy.
+
+ The study will enroll patients with high-grade sarcomas as identified by preoperative biopsy that will be treated with neoadjuvant radiation into the study.
+
+ The standard of care for these patients is to receive MRI scans at pre-treatment and post-treatment time points.
+
+ Patients in this study will receive their standard pre- and post-treatment imaging in the form of PET/MR, with PET conducted simultaneously with MRI, and within the context of the study they will also receive one additional PET/MR at the end of the second week of therapy.
+
+ These patients will then receive curative intent surgery and be followed in the usual fashion and assessed for local and/or distant recurrent disease.
+
+ The pathology will be assessed for completeness of resection and percent of necrosis.
+
+ On the basis of pathology, patients will be classified as responsive or non-responsive to therapy.
+
+ Quantitative measures from PET and MRI will be computed: the change in PET tumor-mean standardized uptake value (SUV) and tumor size as assessed by MRI, from pre- to post-treatment, and from pre- to mid-treatment.
+
+ The image-based quantitative measures will be correlated with the pathology outcomes to evaluate predictability of the image measures for treatment response.
+
+ Patients will be followed with the intent of further correlating image measures with clinical outcomes.
+
+.
+
+ PET/MR in Assessing Response to Neoadjuvant Radiation Therapy in the Tx of High Grade Sarcomas@highlight
+
+Purpose: To assess the utility of PET/MR in assessing response to neoadjuvant radiation therapy in the treatment of high grade sarcomas.
+
+ Participants: Adult patients with potentially curable high grade sarcomas that are being treated at UNC with neoadjuvant radiation therapy followed by potentially curative surgical resection.
+
+ Procedures (methods): Patients who are being treated for potentially curable high grade sarcomas with neoadjuvant radiation therapy followed by surgical resection undergo pre-treatment, mid-treatment, and post-treatment PET/MR and the response to treatment is assessed by evaluating change in size and FDG avidity.
+
+ Patients then undergo curative intent resection and are followed.
+
+ Their pathology is reviewed for treatment affect as is assessed by percent necrosis, size, and resection margins.
+
+ Patients are followed and assessed for recurrence.
+

@@ -1,0 +1,12 @@
+(firstQuint)Dose Escalating Study of BPI-3016 in Healthy Subjects.
+
+ BPI-3016 is a novel analogue of glucagon-like peptide-1 (GLP-1) that developed for the treatment of type 2 diabetes mellitus.
+
+ This is a randomized, double-blind, placebo-controlled, dose finding study evaluating the safety, pharmacokinetics and pharmacodynamics of subcutaneously injected BPI-3016 in Chinese healthy subjects.
+
+.
+
+ Dose Escalating Study of BPI-3016 in Healthy Subjects@highlight
+
+This is a randomized, double-blind, placebo-controlled, dose finding study evaluating the safety, pharmacokinetics and pharmacodynamics of subcutaneously injected BPI-3016 in Chinese healthy subjects.
+

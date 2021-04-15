@@ -1,0 +1,24 @@
+(secondQuint)Plasticity of Grey and White Matter in Response to Motor Skill Training in Healthy Individuals and Those With Spinal Cord Injury.
+
+ Functional recovery following human spinal cord injury (SCI) remains frustratingly limited and the majority of patients are left with severe impairments.
+
+ While rehabilitative training has been shown to improve clinical outcome following SCI and has a major effect on patients' quality of life, the neuronal mechanisms underpinning neurological and functional recovery are not well understood.
+
+ Until recently, degenerative changes in components of the CNS remote to a SCI were thought to occur slowly (over years) and correlate with the degree of disability.
+
+ Using longitudinal MRI protocols we have shown that these structural changes in fact occur early and progress both at the cord and brain level according to a specific spatial and temporal pattern (Freund et al 2013).
+
+ It is thought that these trauma-induced structural changes progress retrogradely along central motor nerve fibres of the myelinated corticospinal tract (CST) and this is accompanied over time by shrinkage of corticospinal projecting neuronal bodies.
+
+ Crucially, patients with less atrophy throughout the CST were those with better clinical recovery at twelve months.
+
+ Despite this significant recovery advantage in some patients, all participants showed irreversible tissue loss, potentially hindering further recovery.
+
+ Using the neuroimaging biomarkers established in the previous study cited above, we now aim to assess whether specific and intensive motor learning through tasks for the upper and lower limb might slow or reverse the atrophy seen in the sensorimotor system.
+
+.
+
+ Plasticity of Grey and White Matter in Response to Motor Skill Training in Healthy Individuals and Those With Spinal Cord Injury@highlight
+
+We aim to investigate the effect of motor skill training of the upper and lower limbs on the function and structure of the CNS as measured by neuroimaging parameters sensitive to changes in tissue volume and density and the properties of myelin.
+

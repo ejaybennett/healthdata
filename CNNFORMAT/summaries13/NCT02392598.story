@@ -1,0 +1,12 @@
+(firstQuint)A Hepatitis B With Hepatic Steatosis Study.
+
+ This is a multicenter, prospective and open-enrollment epidemiologic study.
+
+ All the patients with chronic hepatisis B will be enrolled in the study and followed up after 1 year, 3 years and 5 years with a visit window of +1 month.
+
+.
+
+ A Hepatitis B With Hepatic Steatosis Study@highlight
+
+This is an epidemiologic study on effect of hepatic steatosis on prognosis and outcomes of patients with chronic hepatitis B.
+

@@ -1,0 +1,14 @@
+(firstQuint)Dose-adjusted EPOCH-R in MYC Positive DLBCL.
+
+ The prognosis of MYC positive diffuse large B-cell lymphoma (DLBCL) is very poor even treated with R-CHOP regimen.
+
+ Recently, dose-adjusted EPOCH-R was shown to be effective in patients with DLBCL and relapsed/refractory Burkitt lymphoma.
+
+ The aim of this study is to evaluate the efficacy and toxicity of dose-adjusted EPOCH-R in patients with MYC positive diffuse large B-cell lymphoma.
+
+.
+
+ Dose-adjusted EPOCH-R in MYC Positive DLBCL@highlight
+
+The aim of this study is to evaluate the efficacy and toxicity of dose-adjusted EPOCH-R in patients with MYC positive diffuse large B-cell lymphoma.
+

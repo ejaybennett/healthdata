@@ -1,0 +1,34 @@
+(fifthQuint)Evaluation of the Efficacy of National Cancer Institute's Facing Forward Booklet in the Cancer Community Setting.
+
+ This study was designed to provide a preliminary evaluation of the efficacy and usability of the 2004 revised version of the booklet, Facing Forward, Life After Cancer Treatment (hereafter,Facing Forward)published by the National Cancer Institute.
+
+ Facing Forward provides early stage cancer patients during the period after completing active treatment practical ways of dealing with common problems, including guidelines for managing physical, social, and emotional health.
+
+ The study employed a randomized controlled repeated measures design and compared Facing Forward with a control document published by the National Cancer Institute, The Cancer Information Service: Questions and Answers.
+
+ The intervention arm received both Facing Forward and the control document and the control arm received only the latter.
+
+ Assessments were completed at baseline, which occurred at the patient's final cancer treatment visit or alternatively at the first follow-up visit for those scheduled to be evaluated and/or restaged within 28 days of their last treatment visit.
+
+ The first follow-up assessment occurred eight weeks following the baseline assessment via mail-home materials, and the second occurred 6 months following the baseline assessment, again via mail-home materials.
+
+ Baseline measures included background information (demographics, medical status), use of educational materials, survivorship activities engaged in, and psychological factors.
+
+ The 8-week and 6-month assessments included uptake of actions recommended in Facing Forward, and ratings of Facing Forward with respect to its usability, including the booklet's informativeness, helpfulness, understandability, and extent read, and the same psychological factors assessed at baseline.
+
+.
+
+ Evaluation of the Efficacy of National Cancer Institute's Facing Forward Booklet in the Cancer Community Setting@highlight
+
+This study was designed to provide a preliminary evaluation of the efficacy and usability of the 2004 revised version of the booklet, Facing Forward , Life After Cancer Treatment, (hereafter,Facing Forward) published by the National Cancer Institute.
+
+ Facing Forward provides early stage cancer patients during the period after completing active treatment practical ways of dealing with common problems, including guidelines for managing physical, social, and emotional health.
+
+ Assessments were completed at the patient's final cancer treatment visit.
+
+ Follow-up assessments occurred eight weeks and 6 months later.
+
+ The initial assessments covered background information (demographics, medical status), use of educational materials, survivorship activities, and psychological factors.
+
+ The follow-up assessments included use of actions recommended in Facing Forward, ratings of Facing Forward with respect the booklet's informativeness, helpfulness, understandability, and extent read, the same psychological measures used initially, and a measure of self-efficacy.
+

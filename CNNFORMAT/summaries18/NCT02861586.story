@@ -1,0 +1,44 @@
+(firstQuint)Phase II Study to Evaluate Safety and Immunogenicity of a Chikungunya Vaccine.
+
+ This is a double blinded, block-randomized, active- and placebo controlled, phase II trial, comparing two dose levels by assessing immunogenicity, safety and tolerability of MV-CHIK (a novel vaccine against Chikungunya virus).
+
+ Healthy male and female subjects aged 18-55 years will be randomized to one of six treatment groups (A, B, C.
+
+ D, M1 or M2) differing in dosage and scheduling of vaccinations.
+
+ Group A-D will be split in one arm receiving MV-CHIK and one control-arm receiving Priorix(R).
+
+ All subjects of group A.
+
+ B, C and D will receive three i.
+
+m.
+
+ injections on study day 0, 28 and 196.
+
+ Subjects of group A and B will receive MV-CHIK low dose or control-vaccine Priorix(R) (or equivalent measles vaccine) and subjects of group C and D will be treated with MV-CHIK high dose or control-vaccine (Priorix(R) or equivalent measles vaccine).
+
+ All subjects of group A, B, C and D additionally will be randomized to one of two treatment sequences: group A and C will receive MV-CHIK or control-vaccine Priorix(R) on study day 0 and 28, followed by placebo on day 196, and group B and D receive placebo on day 0 and MV-CHIK or Priorix(R) on day 28, followed by an additional vaccination of the same product on day196 (boosting vaccination).
+
+ All subjects of the measles booster group M1 and M2 will receive five i.
+
+m.
+
+ injections on study day -28, 0, 28, 168 and 196.
+
+ The first vaccination will be Priorix(R) (or equivalent measles vaccine) on study day -28.
+
+ Group M1 will receive MV-CHIK vaccinations on day 0 and day 28 and placebo on day 168 and 196.
+
+ Group M2 will receive placebo on day 0 and 28 and MV-CHIK on day 168 and on day 196.
+
+ All subjects will be followed for safety and immunogenicity evaluation until day 224.
+
+ Study duration per subject is estimated to be 33-37 weeks (~8 months), respectively.
+
+.
+
+ Phase II Study to Evaluate Safety and Immunogenicity of a Chikungunya Vaccine@highlight
+
+The purpose of this study is to evaluate the immunogenicity and safety of a novel vaccine against Chikungunya virus after one or two vaccinations by comparison of two different dose levels.
+

@@ -1,0 +1,26 @@
+(firstQuint)Safety, Efficacy and Treatment Regimen Study of ST266 in Subjects With Moderate to Severe Periodontitis.
+
+ The study is a 9-month, randomized, double-blind, parallel-design study of subjects with existing moderate to severe periodontal disease randomly assigned to one of three groups.
+
+ The primary endpoint of PD change will be evaluated following 9 months of treatment.
+
+ Subjects will be followed for 9 months for safety and radiographic evaluations.
+
+ Subjects who meet inclusion criteria will be randomized to one of three treatment groups.
+
+ Randomization will be stratified by site and smoker status (never smoked or quit smoking more than two years ago vs.
+
+ has smoked within the last two years).
+
+ Randomization will be blocked such that assignment to treatment groups both within sites and within smoker status will be approximately even (1:1:1).
+
+ Treatment will be initiated after SRP.
+
+ All subjects will be evaluated at baseline and Days 1, 15, 30, 60, 90, 180, and 270.
+
+.
+
+ Safety, Efficacy and Treatment Regimen Study of ST266 in Subjects With Moderate to Severe Periodontitis@highlight
+
+The purpose of this study is to determine whether ST266 will reduce pocket depth (PD) as an adjunctive to scaling and root planing (SRP) in subjects with moderate to severe periodontal disease.
+

@@ -1,0 +1,30 @@
+(thirdQuint)Lipid Mediators in Colonic Biopsies as Biomarkers of Disease Activity of Inflammatory Bowel Diseases.
+
+ The project is an exploratory physiopathological/translational pilot study, aiming at understanding the relative importance of the lipid compounds, especially 5,6-EET, in Inflammatory Bowel Diseases.
+
+ Using mass spectrometry, 5,6-EET and other 33 lipid metabolites will be quantified in situ in colonic biopsies from IBD patients and from control patients.
+
+ We will compare quantities of 5,6-EET in inflammatory and non-inflammatory zones of biopsies from IBD patient to biopsies from control patient.
+
+ We will establish a cluster of lipid compounds associated with pathological activity.
+
+ We will determine the exposed profile of receptor lipid mediators expressing to the 5,6-EET lipid compound and one of its signalization.
+
+ All data will be submit to statistical analysis to confirm relevance.
+
+ We expect this pilot study to help us define 5,6-EET and other components of the same metabolic family as markers for IBD activity.
+
+ It could point lipid mediators and their receptors as potential new therapeutic targets.
+
+ It will increase our knowledge on current treatment efficiency by evidencing lipid markers for the inflammatory condition.
+
+.
+
+ Lipid Mediators in Colonic Biopsies as Biomarkers of Disease Activity of Inflammatory Bowel Diseases@highlight
+
+We will quantify one of the lipid compounds (5,6 epoxy eicosatrienoic acid (5,6 EET), 5,6- EpoxyEicosaTrienoic acid) in colonic biopsies of Inflammatory Bowel Disease patients.
+
+ We will evaluate its possible use as a pathological activity biomarker and its potential as a therapeutic target.
+
+ We hypothesized that 5,6-EET is present in human colonic tissues in varying quantities depending on the pathological state of the IBD patient.
+

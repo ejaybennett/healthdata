@@ -1,0 +1,15 @@
+(firstQuint)House Dust Mite Observational Study.
+
+ House Dust Mites (HDM) are arachnids that infest bedding, carpet, upholstered furniture and fabric.
+
+ Like many other allergens, exposure to HDMA in sensitised patients is associated with poorer lung function, greater medication requirements and more asthma symptoms as well as chronic rhinosinusitis symptoms.
+
+ In contrast to other allergens, there is evidence that HDMA leads to the development of asthma, in addition to exacerbating pre-existing asthma in HDM-sensitised patients.
+
+ The proposed observational study is designed to gather information on subjects with HDM-related rhinoconjunctivitis.
+
+.
+
+ House Dust Mite Observational Study@highlight
+
+A Field Study to Observe Symptom Scores and Allergy Medication Usage in Subjects with a History of House Dust Mite-Induced Rhinoconjunctivitis

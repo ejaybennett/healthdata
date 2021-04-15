@@ -1,0 +1,18 @@
+(firstQuint)Evaluation of Spinal Cord Stimulation Pulse Rate On Clinical Outcomes.
+
+ This is a feasibility study to identify the optimal frequency for stimulation of the spinal cord to achieve maximum reduction in neuropathic back pain as measured by average Numerical rating Scale.
+
+ Twenty patients who suffer from back more than leg pain will be recruited into the study once they have satisfactory pain relief from both low and high frequency stimulations.
+
+ Each patient will then receive stimulation at four different frequencies for 2-3 weeks in a random and blinded order.
+
+ Their pain scores and function will be assessed using a variety of different tools.
+
+ The data will then be used to estimate the optimal frequency.
+
+.
+
+ Evaluation of Spinal Cord Stimulation Pulse Rate On Clinical Outcomes@highlight
+
+Clinical study to estimate the optimal frequency for stimulation of the spinal cord to achieve relief from back pain.
+

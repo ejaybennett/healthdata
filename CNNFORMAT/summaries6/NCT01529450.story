@@ -1,0 +1,19 @@
+(fifthQuint)Pilot LDE225 in Locally Advanced or Metastatic BCC + Previously Tx Non-LDE225 Smoothened Inhibitors.
+
+ This is a prospective single-center, open label, pilot study to investigate the safety and efficacy of LDE225 in patients with locally advanced or metastatic basal cell carcinoma.
+
+ Primary Objectives: cent To explore the effects of oral LDE225 on the Progression Free Survival (PFS) of individuals with locally advanced or metastatic BCC who have been previously treated with a non-LDE225 Smo inhibitor.
+
+ Secondary Objectives: - To evaluate the effect of oral LDE225 on tumor tissue biomarkers of BCC activation (e.
+
+g.
+
+ Gli and Ki67) in individuals which are non-naive to Smo inhibitors other than LDE225, at baseline and at end-of-treatment - To describe adverse effects of oral LDE225 in individuals with a history of non-LDE225 Smo inhibitor usage.
+
+ Pilot LDE225 in Locally Advanced or Metastatic BCC + Previously Tx Non-LDE225 Smoothened Inhibitors@highlight
+
+This is a prospective single-center, open label, pilot study to investigate the safety and efficacy of LDE225 in patients with locally advanced or metastatic basal cell carcinoma.
+
+ Primary Objectives: cent To explore the effects of oral LDE225 on the Progression Free Survival (PFS) of individuals with locally advanced or metastatic BCC who have been previously treated with a non-LDE225 Smo inhibitor.
+
+ Secondary Objectives: - To evaluate the effect of oral LDE225 on tumor tissue biomarkers of BCC activation (Gii 1, 2, Patched 1,2 and Ki67) in individuals which are non-na"ive to Smo inhibitors other than LDE225, at baseline and at end-of-treatment - To describe adverse effects of oral LDE225 in individuals with a history of non-LDE225 Smo inhibitor usage - To assess the overall survival rates of individuals with locally advanced BCC or metastatic BCC who have previously taken a non-LDE225 Smo inhibitor after treatment with LDE225

@@ -1,0 +1,18 @@
+(secondQuint)Phamacokinetic and Pharmacodynamic Study of Ramosetron in Chemotherapy Induced Nasea and Vomiting.
+
+ Nausea and vomiting is a common adverse event during chemotherapy treatment.
+
+ Even if preventive medicines such as dopamine receptor antagonist, corticosteroid, serotonin receptor antagonist, has been developed and used, there is residual nausea and/or vomiting in a significant percentage of patients treated for cancer.
+
+ Serotonin receptor antagonist is the most potent antiemetic agent and has been used widely.
+
+ However, the optimal dose of serotonin antagnosit based on individual symptoms is not defined.
+
+ Therefore, this study was conducted to design standardization model for optiomal serotonin antagonist concentration using pharmacodynamic study and Rhodes Index as a suggogate marker for CINV.
+
+.
+
+ Phamacokinetic and Pharmacodynamic Study of Ramosetron in Chemotherapy Induced Nasea and Vomiting@highlight
+
+This study is designted to know optimal dose of Ramosteron to control for chemotherapy induced nasea and vomoting (CINV)based on its pharmacokinetics, pharmacodynamic study and clinilcal parameters using Rhodes Index.
+

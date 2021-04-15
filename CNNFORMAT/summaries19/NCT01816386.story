@@ -1,0 +1,28 @@
+(secondQuint)Acupuncture Trial for Post Anaesthetic Recovery and Postoperative Pain.
+
+ The use of complementary approaches, especially acupuncture, has gained momentum within the last decade.
+
+ In this regard, it might be appropriate to develop a simply applicable (a) and effective (b) acupuncture regimen for the complementary support of fast-track anaesthesia.
+
+ Regarding practicability (a), it might be of interest to reduce the amount of necessary acupuncture points.
+
+ Trials have shown that single-point acupuncture is strong enough to cause relevant clinical effects (Fleckenstein et al.
+
+, 2009; Lee and Fan, 2009).
+
+ In addition, practicability means to reduce the amount of needling events; therefore the investigators suggest the use of press needles, making complete peri-anaesthetic availability possible.
+
+ Regarding effectiveness (b), it has been reported that acupuncture at Governing Vessel 26 (Du-26) may be successful in shock resuscitation (Hsu et al.
+
+, 2006).
+
+ In combination with other points it has been evaluated in a Chinese study improving the vegetative state after operation of acute subdural hematoma (Zheng, 2005).
+
+.
+
+ Acupuncture Trial for Post Anaesthetic Recovery and Postoperative Pain@highlight
+
+In the present study, the investigators want to evaluate if press needle acupuncture applied prior to surgery may contribute to the anaesthesiologic outcome.
+
+ Acupuncture might improve fast-track anaesthesia in the PACU after general surgery.
+

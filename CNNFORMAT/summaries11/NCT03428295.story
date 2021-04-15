@@ -1,0 +1,54 @@
+(fifthQuint)Dose Safety Hybrid Closed Loop and Fully Automated Closed Loop Artificial Pancreas Device in CRC.
+
+ 3.
+
+1 Overview Two independent questions will be addressed in this study.
+
+ For evaluation of the safety and efficacy of the hybrid closed loop (HCL), participants will use the hybrid closed loop during and after a standardized meal on the clinical research center.
+
+ For evaluation of the safety and efficacy of the fully automated closed loop (FACL), participants will use the system for a 24 hour clinical research center stay incorporating meals and standardized exercise.
+
+ Safety and efficacy will be evaluated by descriptive outcomes including number of completed studies and glycemic control.
+
+ 3.
+
+2 Eligibility.
+
+ Participants will be recruited from the Diabetes Registry at the Benaroya Research Institute.
+
+ Eligibile participants may enroll in the HCL, the FACL, or both studies.
+
+ HCL Study visit, Day 1 (~7 hours total): The below times are approximate and may be adjusted to accommodate the CRC schedule.
+
+ Prior to arrival at the CRC, participants will be asked to eat their normal breakfast and take their usual amount of insulin based on BG and carbohydrate content before 8am.
+
+ Once at the CRC, participants will be able to drink water ad lib, but no food other than the prescribed meals can be eaten, unless hypoglycemia intervention is necessary.
+
+ Participants will be required to check FSBG before the meal and calibrate if the FSBG value varies by >30% from CGM value.
+
+ FACL Study visit, Day 1 (~ 23 hours total): The below times are approximate and may be adjusted to accommodate the CRC schedule.
+
+ Prior to arrival at the CRC, participants will be asked to eat their normal breakfast and take their usual amount of insulin based on BG and carbohydrate content before 8 am.
+
+ Once arrived at the CRC, participants will be able to drink water, but no food other than the prescribed meals can be eaten, unless hypoglycemia intervention is necessary.
+
+ Participants will be required to check FSBG before meals, at bedtime and at 0300.
+
+ They will calibrate if the FSBG value varies by >30% from the CGM value.
+
+ They will calibrate the CGM every 12 hours as recommended by Dexcom.
+
+.
+
+ Dose Safety Hybrid Closed Loop and Fully Automated Closed Loop Artificial Pancreas Device in CRC@highlight
+
+The objective of this study is to test two different operating modes of the latest version of the Dose Safety artificial pancreas system (APS), the Dose Safety Controller (DSC version 2.
+
+3), in a population of subjects with type 1 diabetes (TID) in a hospital CRC setting.
+
+ The first mode is the Fully Automated Closed Loop (FACL) mode, in which all insulin delivery is directed by the controller and the second mode is the Hybrid Closed Loop (HCL) mode, in which insulin delivery is a hybrid between controller directed delivery and user directed insulin delivery.
+
+ There will be two study arms: HCL and FACL.
+
+ No comparisons will be made between the two arms.
+

@@ -1,0 +1,42 @@
+(thirdQuint)Short-term, Long-term and Cost-effectiveness of Treating Depression and Anxiety Disorders in Children and Adolescents.
+
+ This study aims to optimize patient-centered care and to ensure scientific and legal approval of cognitive-behavioral and psychodynamic therapy for children and adolescents in the German health-care system.
+
+ This prospective, randomized and controlled trial will therefore compare psychodynamic and cognitive behavioral therapy with a low-frequency family intervention (control intervention) for children and adolescents with depression and anxiety disorder.
+
+ Number of diagnoses or fulfilled diagnostic criteria - diagnosed by a trained psychologist who is blind for treatment condition - will be the primary outcome.
+
+ Secondary outcomes are patients and parents strain caused by symptoms, patients quality of life, global and family functioning and treatments cost effectiveness are secondary outcomes.
+
+ Patients will be recruited at the end of an inpatient hospital stay in northern Germany (Hamburg and Bremen) in two clinics for child and adolescent psychiatry and in surgery.
+
+ After gathering informed consent from parents and patients, the latter will be randomly assigned to one type of outpatient treatment (psychodynamic, cognitive behavioral therapy or family intervention).
+
+ Psychodynamic and cognitive-behavioral therapy as well as the control intervention will be provided manual-based.
+
+ Treatment sessions will be audio recorded to control adherence.
+
+ Data will be collected annually over a period of five years starting at the beginning of treatment.
+
+ This allows examination of varying treatment intervals as well as the sustainability and health economics of therapy effects.
+
+ To analyze data, comparisons of means will be performed.
+
+ Groupwise analyses of interaction will be performed for inferential testing of differences in subgroups.
+
+ Differences in therapy effects will be inferentially analyzed by multifactor analysis of covariance, analysis of variance or logistic regression.
+
+ Interaction effects and predicting variables are of special interest.
+
+ In a Subsample of 32 depressive adolescents (ages 13-16) patients expectations before and experiences whilst therapy will be analyzed by a mixed-methods-approach.
+
+.
+
+ Short-term, Long-term and Cost-effectiveness of Treating Depression and Anxiety Disorders in Children and Adolescents@highlight
+
+The current study will evaluate and compare the effectiveness of cognitive-behavioral and psychodynamic therapy.
+
+ Therefore 420 children and adolescents (ages 8-16 years) with depression and/or anxiety disorder will be randomly assigned to a treatment or a control condition.
+
+ The interventions short-term effectiveness and sustainability as well as cost-effectiveness will be examined over a 5 year period for each participant.
+

@@ -1,0 +1,20 @@
+(firstQuint)Whole Body Magnetic Resonance Angiography With Subsystolic Venous Compression.
+
+ WB-MRA is an examination that can evaluate the arteries from head to feet.
+
+ Timing of the injected bolus of contrast medium can be difficult, especially in the legs.
+
+ As the result of the WB-MRA depends on the contrast medium only being in the arteries at the time of examination, the use of venous compression is a possible way of overcoming the problem of early venous filling, that can hamper the diagnostic value of the examination.
+
+ Venous compression is performed with a blod pressure cuff around the thighs.
+
+ It is inflated to subsystolic pressure (45 mm Hg).
+
+ This elevated pressure leads to filling of the lower leg arteries and late venous filling.
+
+.
+
+ Whole Body Magnetic Resonance Angiography With Subsystolic Venous Compression@highlight
+
+To investigate the diagnostic performance of whole body magnetic resonance angiography (WB-MRA) using subsystolic venous compression of the thigh.
+

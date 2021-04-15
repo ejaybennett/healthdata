@@ -1,0 +1,32 @@
+(thirdQuint)Comprehensive-Care for Multimorbid Adults Effectiveness Study.
+
+ Patients with multi-morbidities pose a significant challenge for healthcare organizations because they require continuity of care among a wide range of long-term therapeutic paradigms for many different types of diseases.
+
+ The current study is based on a treatment model entailing a nurse-primary care physician team to provide care for patients with multiple morbidities.
+
+ Patients in the intervention group who agreed and signed the consent form to participate in the study will receive treatment by the physician - nurse team in accordance with the components of the Clalit's Comprehensive Care for Mutlimorbid Adults Project model.
+
+ Components of the intervention include: 1.
+
+ Comprehensive assessment of the patient's and family's needs 2.
+
+ Coordinated care plan based on integrated care guides 3.
+
+ "Multimorbid Action Plan" for patients 4.
+
+ All-inclussive patient centered care and caregiver support 5.
+
+ Proactive monitoring according to the plan.
+
+ Patients in the control groups will receive usual care in their primary care clinics.
+
+ The Usual Care Survey control group will complete study questionnaires at 6, 12 and 24 months after enrollement.
+
+ The Usual Care Blinded group will be assessed only retrospectively based on deidentified information from Clalit's admistrative databases.
+
+.
+
+ Comprehensive-Care for Multimorbid Adults Effectiveness Study@highlight
+
+This study is intended to examine whether directed care of a nurse working jointly with the patient's primary care physician, including a comprehensive assessment, creation of a tailored care plan, proactive follow-up, self management support and caregiver support and care coordination, can reduce hospital admissions for patients with multiple chronic conditions.
+

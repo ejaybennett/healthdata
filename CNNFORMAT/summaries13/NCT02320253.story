@@ -1,0 +1,44 @@
+(thirdQuint)REAL HEALTH-Diabetes: Reach Ahead for Lifestyle and Health-Diabetes.
+
+ Participants will be randomly assigned to one of three arms: MNT, IP, or TCC.
+
+ Participants will be enrolled in the study for a total of three years.
+
+ During those three years, participants will have 5 research visits, at baseline, where randomization occurs, 6 months, 12 months, 24 months, and 36 months.
+
+ At each research visit, participants will have a lipid panel and HbA1c sample drawn, their blood pressure, weight, and height, baseline only, taken.
+
+ Participants will also answer questionnaires that will address health behaviors, self-efficacy, measures of self-determination, depression, literacy and numeracy, food insecurity, health-related quality-of-life and patient satisfaction with quality of care.
+
+ For the group-based interventions, dietitians will deliver the adapted Look AHEAD lifestyle intervention.
+
+ The first 14 sessions will be delivered weekly and the next 5 sessions biweekly.
+
+ In the subsequent 18 months, group sessions will be delivered monthly from 6-24 months.
+
+ In addition, participants will be offered 2 individual MNT sessions in months 6-12 and 3 in months 13-24.
+
+ At these individual visits, dietitians will address diabetes-related issues and discuss tailored goals and behaviors, based on the Look AHEAD model.
+
+ Dietitians will provide ongoing feedback to participants' own PCPs about patient progress toward goals and will encourage PCPs to reinforce weight loss strategies with their patients.
+
+ Each group will contain up to 10 participants with type 2 diabetes and will last 1-1.
+
+5 hours.
+
+ The program curriculum focuses on nutrition, activity, and behavioral topics and incorporates the use of meal replacements for the first 4-16 weeks to enhance weight loss success.
+
+ In addition to the teaching component, participants who are taking insulin or medications that can cause hypoglycemia will self-monitor blood glucose levels at least 2 times per day and submit self-monitoring records for review each week, either by delivering them at the in-person sessions or by mailing, faxing, or emailing them to the study team.
+
+ Patients on oral hypoglycemics who are not adjusting medications based on blood sugar will be instructed to do targeted monitoring to determine the effects of exercise and meals on blood glucose.
+
+ The study provider at each health center will review BG records and make any needed adjustments to insulin or medication doses according to an algorithm to maintain glycemic control and prevent hypoglycemia as participants lose weight.
+
+ A trained member of the study staff will provide MNT referral participants with an educational handout emphasizing that modest weight loss (5 - 10%) via caloric restriction and gradual adoption of moderate increases in daily physical activity (equivalent to brisk walking for 30 minutes daily) is safe and effective in managing diabetes and schedule them for an appointment with a dietitian from Nutrition Services for follow up.
+
+.
+
+ REAL HEALTH-Diabetes: Reach Ahead for Lifestyle and Health-Diabetes@highlight
+
+The goal of this project is to translate the Look AHEAD intensive lifestyle intervention for type 2 diabetes and obesity into usual care at community health centers, comparing an in-person group program (IP), a telephone conference call (TCC) group program, and referral to medical nutrition therapy (MNT), the current standard of care.
+

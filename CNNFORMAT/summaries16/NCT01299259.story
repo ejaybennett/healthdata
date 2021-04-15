@@ -1,0 +1,14 @@
+(secondQuint)Improving Primary Care Follow-up for Patients With Pelvic Inflammatory Disease.
+
+ The Centers for Disease Control (CDC) recommends that patients diagnosed with pelvic inflammatory disease (PID) receive follow-up care within 72 hours of diagnosis.
+
+ However, recent studies show that the majority of teenage girls diagnosed with PID do not receive this follow-up care within 72 hours.
+
+ We hypothesize that text message reminders to girls diagnosed with PID in the emergency department (ED) will improve follow-up to their primary care provider (PCP) after being discharged from the ED.
+
+.
+
+ Improving Primary Care Follow-up for Patients With Pelvic Inflammatory Disease@highlight
+
+The investigators hypothesize that text message reminders to girls diagnosed with pelvic inflammatory disease (PID) in the emergency department (ED) will improve follow-up to their primary care provider (PCP) after being discharged from the ED.
+

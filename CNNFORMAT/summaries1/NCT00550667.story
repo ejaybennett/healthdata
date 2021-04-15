@@ -1,0 +1,26 @@
+(secondQuint)Clinical and Neuropsychological Validity of Attention-Deficit Hyperactivity Disorder in Adulthood.
+
+ Attention-deficit/hyperactivity disorder (ADHD) is a common (5-10%) childhood-onset neuropsychiatric disorder worldwide among children and adolescents with 50- 60% persistence to adulthood (3-4%).
+
+ Western studies have revealed a wide range of family/social/occupational impairment and neurocognitive deficits in adults with ADHD.
+
+ However, there is limited data on the treatment effect for adults with ADHD worldwide and there is lack of information about adult ADHD in Taiwan.
+
+ In view of this, it is warranted to conduct a study on the clinical, functional, and neurocognitive aspects of adult ADHD in Taiwanese population.
+
+ This study consists of two parts: (1) a community survey among 1000 adults to establish the validity of AAQoL; and (2) a case-control study with a sample of 60 adults, aged 18-50, with DSM-IV ADHD and 60 healthy controls matching for the age and sex structure of the ADHD group.
+
+ The instruments include a standard psychiatric diagnostic interviews using (K-SADS-E), self-administered rating scales for assessing psychopathology (ASRI), ADHD symptoms (ASRS, CGI-ADHD-S,), social and family functions (AAQoL, SDS, Moos dyadic assessment, family APGAR, GDS) and neuropsychological assessment (WAIS-III, CANTAB).
+
+ The ADHD group will be reassessed for symptom severity and neuropsychological functioning 2-3 months (ranging from 8 to 12 weeks) after the first assessment.
+
+ We anticipate that this study will provide the primitive data on the symptomatology, neuropsychological functions, quality of life, and social/family function of adult patients with ADHD, will evaluate the treatment response of medication or psychosocial intervention in the aspects of symptomatology, neuropsychological functions, quality of life, and family function; and young psychiatric researchers will learn to conduct standardized psychiatric interview and neuropsychological tests, and to collect data, conduct statistical analysis, and prepare the manuscript.
+
+ Our findings should have clinical implication in assessing and treating adult patients with ADHD and provide the preliminary data for future brain imaging, neurocognitive, and interventional studies on adult ADHD.
+
+.
+
+ Clinical and Neuropsychological Validity of Attention-Deficit Hyperactivity Disorder in Adulthood@highlight
+
+This study aims to establish the psychometric properties of the Adult ADHD Quality of Life Scale (AAQoL) and to validate the diagnosis of adult ADHD by ADHD symptoms, other clinical psychiatric symptoms, neuropsychological functioning, social/family/occupational functioning, and intervention effect.
+

@@ -1,0 +1,36 @@
+(fifthQuint)A Trial Comparing Transversus Abdominis Plane Catheter Versus Epidural After Esophagectomy.
+
+ Epidural analgesia is considered the 'gold standard' for post-operative analgesia following open esophagectomy.
+
+ Epidurals have been shown to reduce post-operative pulmonary morbidity and mortality.
+
+ However, epidurals are often associated with sympathetic blockade that creates hypotension and could therefore adversely affect the conduit.
+
+ Pain management techniques that use peripheral nerve blockade are becoming more prevalent, reducing the need for an epidural.
+
+ Transversus abdominis plane (TAP) catheters have been used in colorectal and abdominal surgery showing equivocal pain scores to epidurals.
+
+ With the minimally invasive chest approach, the analgesia coverage focuses on the abdominal incision where both epidurals and TAPs are considered standard of care.
+
+ The investigators have completed a retrospective study in preparation for a randomized control trial.
+
+ The investigators previous retrospective study found that TAP blocks/catheters are a reasonable alternative to epidurals, providing adequate pain coverage for abdominal incisions.
+
+ The study found no statistical difference in pain scores between the two groups.
+
+ The TAP group had a lower prevalence of hypotension and lower crystalloid resuscitation needs.
+
+ Pulmonary complications were similar between the two groups.
+
+ This retrospective review showed that TAP blocks are a reasonable alternative to epidurals and may reduce episodes of hypotension.
+
+ The investigators aim is to now expand this study to a randomized control trial.
+
+.
+
+ A Trial Comparing Transversus Abdominis Plane Catheter Versus Epidural After Esophagectomy@highlight
+
+A randomized trial comparing perioperative outcomes between bilateral transversus abdominis plane TAP catheters with patient controlled analgesia (PCA) to epidural for esophagectomy patients with a VATS chest approach.
+
+ Further objectives are to determine pain requirements between multiple modalities of pain control and compare the subsequent sequelae of narcotic use and blood pressure control and to compare complications such as anastomotic leak, atrial fibrillation and perioperative morbidity and mortality between the two groups.
+

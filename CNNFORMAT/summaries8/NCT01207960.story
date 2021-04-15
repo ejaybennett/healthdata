@@ -1,0 +1,22 @@
+(firstQuint)Efficacy of Eye Movement Desensitization and Reprocessing (EMDR) in Dental Phobia.
+
+ Dental phobia represents a clinical condition that affects 5-15% of the community and is characterized by severe anxiety of dental treatment which leads to avoidance of treatment and, as a consequence, severe dental as well as psychosocial problems.
+
+ Eye Movement Desensitization and Reprocessing (EMDR) has been developed for the treatment of patients with post traumatic stress disorder (PTSD).
+
+ Its efficacy in PTSD patients has often been demonstrated in randomized controlled trials.
+
+ Recently it has been demonstrated that dental phobia is often induced by traumatic events during dental treatment and goes along with symptoms of PTSD in numerous patients.
+
+ A pilot study (de Jongh et al.
+
+ 2002) gave hints on the efficacy of EMDR in four dental phobia patients with a history of traumatization during dental treatment.
+
+ This randomized wait-list control study aims to evaluate the efficacy of EMDR in a larger sample of dental phobia patients.
+
+.
+
+ Efficacy of Eye Movement Desensitization and Reprocessing (EMDR) in Dental Phobia@highlight
+
+The purpose of this study is to find out whether Eye Movement Desensitization and Reprocessing (EMDR) is effective in the treatment of patients with dental phobia.
+

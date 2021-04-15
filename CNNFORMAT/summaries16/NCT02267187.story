@@ -1,0 +1,46 @@
+(fifthQuint)Structural Fat Grafting for Craniofacial Trauma Using Manual Technique for Processing Fat Graft Material.
+
+ Clinical use of autologous fat grafting in humans was described as early as 1893, when Neuber published his report of transferring multiple small particles of fat to fill a soft tissue depression.
+
+ Over the past three decades, autologous fat grafting has become a common procedure in clinical plastic surgery, and is also employed by clinicians in other specialties.
+
+ The refinement of liposuction techniques in the 1980's made it possible to harvest the adipose grafts with low risk and without the need for a significant incision.
+
+ The liposuction aspirate could simply be reinjected at a different site.
+
+ Specialized equipment has been developed for fat grafting and is commercially available from a number of sources.
+
+ The American Society of Plastic Surgeons 2007 procedural statistics show that over 65,000 fat grafting procedures were performed in the United States (www.
+
+plasticsurgery.
+
+org) during the previous year.
+
+ Fat grafting may represent a superior method of facial reconstruction after severe trauma, but the results can be impacted by resorption of fat volume over time.
+
+ The specific aims of the study are: 1.
+
+ Assess facial appearance and soft tissue volume before and after autologous fat grafting using CT scans and 3D photography.
+
+ 2.
+
+ Assess cellular properties of the cells within the fat graft 3.
+
+ Comparison of cotton rolling to centrifugation method of autologous fat grafting 4.
+
+ Measure of quality of life in patients before and after autologous fat grafting using validated psychosocial measures.
+
+ Ten (10) subjects 18 years of age and older will be enrolled to this trial.
+
+.
+
+ Structural Fat Grafting for Craniofacial Trauma Using Manual Technique for Processing Fat Graft Material@highlight
+
+This study will examine the impact of the fat grafting procedure on facial appearance and quality of life over time by precisely measuring soft tissue volume with CT scans, assessing appearance with 2D and 3D photography and standard photography and evaluating quality of life through various validated psychosocial measures.
+
+ This study will be a very important evaluation of the effectiveness of this therapy, and will help guide clinicians in applying this technique.
+
+ Additionally, laboratory testing of the injected fat material will be performed so that the results may be correlated with clinical outcomes in the future.
+
+ The study endpoints include the analysis of the graft site via study procedures at different time points, the comparison of cotton rolling to centrifugation method of autologous fat grafting, as well as the correlation of cell behavior of the laboratory assays with clinical outcomes.
+

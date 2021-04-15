@@ -1,0 +1,20 @@
+(firstQuint)Fast Versus Slow Tenaculum Placement.
+
+ IUD insertion and endometrial biopsies are commonly performed in office procedures that use a tenaculum to stabilize the cervix.
+
+ Patient's often complain that tenaculum placement is one of the most uncomfortable parts of these procedures.
+
+ Patient's who agree to be in the study will be randomized into one of two groups, either slow tenaculum placement or fast tenaculum placement.
+
+ Throughout the procedure patient's will be asked to rate the amount of pain they are experiencing using a visual analog scale.
+
+ The researchers will then compare the two groups.
+
+ The providers will also rate what they perceived the patient's pain to be with the procedure.
+
+.
+
+ Fast Versus Slow Tenaculum Placement@highlight
+
+The purpose of the study is to investigate whether the speed of tenaculum placement affects perceived patient pain during office transcervical procedures.
+

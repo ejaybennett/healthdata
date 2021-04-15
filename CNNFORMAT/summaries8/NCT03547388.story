@@ -1,0 +1,26 @@
+(fifthQuint)Moderate Whole Body Hyperthermia for Patients Undergoing Re-irradiation for Head and Neck Cancer -Influence on the Tumor Microenvironment.
+
+ Previously irradiated patients with loco/ loco-regional recurrent head and neck squamous cell carcinomas usually undergo re-irradiation.
+
+ However prognosis of these patients is unfavourable, especially for non-human papilloma virus associated cancers.
+
+ Moderate whole body hyperthermia will be performed by water-filtered IR-A-radiation using a Heckel-HT3000 device.
+
+ Preclinical data have indicated that moderate whole body hyperthermia decreases intratumoral interstitial fluid pressure and leads to increased perfusion of the tumor.
+
+ The study investigates if this holds also true in patients and leads to a marked decrease of tumor hypoxia, measured by 18F-Fluoromisonidazole PET.
+
+ The Primary aim of the study is feasibility, defined as 80% of patients completing at least four applications of hyperthermia.
+
+ Secondary endpoints include an increase of Tumor Perfusion by the use of hyperthermia, measured by magnetic resonance Imaging during week two of Treatment and reduction of Tumor hypoxia, measured by hypoxia specific Positron emission tomography.
+
+.
+
+ Moderate Whole Body Hyperthermia for Patients Undergoing Re-irradiation for Head and Neck Cancer -Influence on the Tumor Microenvironment@highlight
+
+The aim of the study is to determine the feasibility and efficacy of moderate weekly whole Body hyperthermia Treatment during radiochemotherapy for pre-irradiated locally or regionally recurrent head and neck squamous cell carcinomas.
+
+ The Primary aim of the study is feasibility, defined as 80% of patients completing at least four applications of hyperthermia.
+
+ Secondary endpoints include an increase of Tumor Perfusion by the use of hyperthermia, measured by magnetic resonance Imaging during week two of Treatment and reduction of Tumor hypoxia, measured by hypoxia specific Positron emission tomography.
+

@@ -1,0 +1,72 @@
+(fifthQuint)Systems of Support (SOS) to Increase Colon Cancer Screening and Follow-up.
+
+ Systems of Support (SOS) to Increase Colon Cancer Screening and Follow-up A.
+
+ Specific Aims There is strong evidence that colorectal cancer screening (CRCS) decreases colorectal cancer (CRC) mortality and reduces colorectal cancer incidence.
+
+ Despite the efficacy of screening, 40-60% of eligible adults are not screened at recommended intervals, and many have never had any type of CRCS.
+
+ Screening failures occur not only from lack of screening but also from breakdowns in follow-up of positive tests, which obviates the benefits of screening.
+
+ Strategies for improving the uptake of CRCS typically focus on either patients or health care providers, without describing the infrastructure changes, or systems of support (SOS), that are required to implement and sustain these changes.
+
+ We propose a two-part study using the Chronic Care Model to organize SOS.
+
+ We will identify a cohort of Group Health patients aged 50 -73 years who have not had a colonoscopy (CS) in 10 years, a flexible sigmoidoscopy (FS) in 5 years, or a fecal occult blood test (FOBT) in 10 months.
+
+ Part One: Subjects will be randomized to receive one of four interventions of stepwise increasing intensity of support.
+
+ 1.
+
+ Usual care (UC).
+
+ 2.
+
+ Automated (UC+ mailed information, access to a cancer screening hotline, mailed FOBT cards, and a reminder card).
+
+ 3.
+
+ Assisted (UC + automated + a medical assistant) to document screening intent and assists patients via the resources already supplied or sending requests to the patient's physician.
+
+ 4.
+
+ Care management (UC + automated + assisted + cancer screening nurse support) who counsels patient and assists with this screening plan (assessing procedural risk, and ordering tests).
+
+ Part Two: Patients with a positive FOBT or a positive FS (CS needed) will be randomized to one of two follow-up intervention arms: A.
+
+ Usual care (which at Group Health includes a registry and physician alerts) or B.
+
+ Care Management (UC + cancer screening nurse who manages care after a positive test).
+
+ Our study hypotheses are that increasing levels of SOS will result in increasing CRCS rates, and care management by cancer screening nurses will increase follow-up rates after a positive test.
+
+ The primary specific aims are: 1.
+
+ To compare the effectiveness of each intervention condition on increasing CRCS rates.
+
+ 2.
+
+ To compare the effectiveness of each intervention condition on follow-up after a positive screening test.
+
+ The secondary aims are: 3.
+
+ To assess the effects of each intervention condition on participants' cognitive, affective, and social factors related to CRCS adherence and satisfaction with medical services 4.
+
+ To compare utilization, costs, and incremental cost-effectiveness of each intervention condition.
+
+.
+
+ Systems of Support (SOS) to Increase Colon Cancer Screening and Follow-up@highlight
+
+SOS is a four-arm randomized controlled study of ways to increase screening for colorectal cancer.
+
+ About 40-50% of the people age 50 and older are not up to date on screening.
+
+ This is a very important problem because screening both prevents colorectal cancer and decreases colon cancer deaths.
+
+ We are studying 3 different levels of support to help people get screened and follow-up after positive screening tests.
+
+ These involve comparing to usual care stepwise increasing in intensity approaches; an automated approach of mailing information and home screening tests, this plus phone assistance by a medical assistant, both of these plus phone counseling and care management.
+
+ We will also compare nurse assisted follow-up after a positive screening test compared to usual care By doing this study we hope to increase colon cancer screening rates, and also follow-up rates for positive screening tests.
+

@@ -1,0 +1,40 @@
+(fifthQuint)Ultrasound-enhanced Thrombolysis Versus Standard Catheter Directed Thrombolysis for Ilio-femoral Deep Vein Thrombosis.
+
+ Background Deep vein thrombosis (DVT) is a public health problem with an annual incidence of 1 per 1000.
+
+ Besides the acute risk of potentially fatal pulmonary embolism or phlegmasia cerulea dolens, these patients are at increased risk of recurrent venous thromboembolism, and in the long term 20-40% of them develop a post-thrombotic syndrome (PTS).
+
+ PTS mainly develops in patients with DVT affecting the ilio-femoral veins, adversely affects the quality of life and causes important health care costs to the society.
+
+ There's evidence that the early removal of the obstructing thrombus reduces the risk of developing a PTS, and a higher degree of thrombolysis is associated with lower incidence of PTS, better quality of life and lower risk of recurrent venous thromboembolism.
+
+ Therefore, in addition to standard anticoagulation therapy, the latest international guidelines recommend catheter-directed thrombolysis (CDT) as first-line treatment for patients with ilio-femoral DVT and low bleeding risk.
+
+ CDT refers to the infusion of thrombolytic drugs directly into the thrombus via a multisidehole catheter which is embedded in the thrombus using imaging guidance.
+
+ A further development is ultrasound-enhanced thrombolysis combining CDT with a sophisticated catheter system that employs high-frequency, low-dose ultrasound.
+
+ In vitro experiments showed that adding Ultrasound to thrombolytic drugs accelerates thrombolysis while Ultrasound exposure alone results in no thrombolysis.
+
+ Although ultrasound-enhanced thrombolysis is now widely used to treat ilio-femoral DVT or high-risk pulmonary embolism, it is currently not known if this technique is superior to standard CDT.
+
+ Objective To determine if the addition of intravascular high-frequency/low-dose ultrasound to standard CDT increases the percentage of clot lysis compared to CDT alone after treatment duration of 15 hours in patients with symptomatic ilio-femoral DVT and low bleeding risk Methods Study design: open-label (with blinding of data-analyzing physicians), randomized, controlled, single center clinical trial with a follow-up period of 12 months.
+
+ Subjects: total of 20 patients (10 in each study group) of 18-75 years of age with acute, symptomatic, objectively confirmed ilio-femoral DVT and a low bleeding risk.
+
+ Intervention: CDT using the EkoSonic Endovascular System with (CDT+US group) or without (CDT-US group) intravascular high-frequency, low-power ultrasound for 15 hours.
+
+.
+
+ Ultrasound-enhanced Thrombolysis Versus Standard Catheter Directed Thrombolysis for Ilio-femoral Deep Vein Thrombosis@highlight
+
+Patients with deep vein thrombosis (DVT) of the ilio-femoral veins have increased risk for developing post-thrombotic syndrome (PTS) and recurrent venous thromboembolism compared to more distal DVT.
+
+ There's evidence that the early removal of the obstructing thrombus by catheter directed thrombolysis (CDT) reduces the risk of developing a PTS, and a higher degree of thrombolysis is associated with lower incidence of PTS, better quality of life and lower risk of recurrent venous thromboembolism.
+
+ A further development is ultrasound-enhanced thrombolysis combining CDT with a sophisticated catheter system that employs high-frequency, low-dose ultrasound.
+
+ In vitro experiments showed that adding ultrasound to thrombolytic drugs accelerates thrombolysis while Ultrasound exposure alone results in no thrombolysis, however the superiority of ultrasound-enhanced thrombolysis over standard CDT has never been formally assessed in vivo.
+
+ The hypothesis for this study is that ultrasound-enhanced thrombolysis reaches a higher degree of thrombolysis than standard CDT in patients with symptomatic ilio-femoral DVT.
+

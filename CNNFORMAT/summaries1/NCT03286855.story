@@ -1,0 +1,56 @@
+(fifthQuint)Effectiveness of Vibrating Mesh Versus Small Volume Nebuliser in Chronic Obstructive Pulmonary Disease (COPD).
+
+ COPD is a common chronic respiratory disease.
+
+ It is characterised by repeated episodes of acute worsening of symptoms of cough, wheeze and breathlessness called exacerbations.
+
+ Exacerbations result in patients having to present to hospital for treatment.
+
+ In Ireland more than one-fifth of all inpatient hospital days for the treatment of respiratory complaints are for the treatment of COPD.
+
+ The administration of bronchodilators (medication to open the airway) is a central component of the treatment of COPD exacerbation.
+
+ In the hospital setting these are most commonly administered via a nebuliser.
+
+ The standard of care in our institution is the Hudson micromist small volume nebuliser.
+
+ However, previous studies have shown that Vibrating mesh (VM) nebulisers result in greater deposition of medication to the lungs compared to small volume nebulisers.
+
+ In addition they resulted in greater improvements in lung function and breathlessness.
+
+ This study will assess the efficacy of the Aerogen Ultra VM nebuliser in a real-world setting.
+
+ The VM nebuliser is readily available for use in the clinical setting and is used to administer bronchodilator therapy, within the terms of its CE Mark.
+
+ This nebuliser is already in routine use in hospitals within the Royal College of Surgeons in Ireland (RCSI) hospital group.
+
+ Patients hospitalised with an exacerbation of COPD will be recruited.
+
+ There will be two study groups.
+
+ Group 1 (VM Group): will receive bronchodilator (salbutamol 2.
+
+5mg/ipratropium 0.
+
+5mg) by Vibrating Mesh Nebuliser (Aerogen Ultra) with facemask and Group 2 (Standard Hospital Care): will receive bronchodilator by small volume nebuliser (Hudson Micromist) via facemask as per standard care.
+
+ Both groups will receive bronchodilator therapy four times a day which has already been prescribed by their medical team, and in accordance with recommended guidelines for treatment of COPD exacerbations.
+
+ Patients will use the nebuliser for the duration of hospital stay or a maximum of 7 days.
+
+ Lung function and breathlessness scores will be recorded.
+
+ The aim of this study is to demonstrate that better medication delivery by VM nebulizer during an exacerbation of COPD will lead to greater bronchodilation, shorter recovery time and reduced hospital length of stay.
+
+.
+
+ Effectiveness of Vibrating Mesh Versus Small Volume Nebuliser in Chronic Obstructive Pulmonary Disease (COPD)@highlight
+
+When patients get an attack of COPD, one of the main treatments is regular nebulised medications called bronchodilators.
+
+ These medications act by opening up the airways allowing patients to breathe easier and to reduce shortness of breath.
+
+ Newer nebulisers may increase the amount of medication that gets into the lungs compared to the standard nebuliser usually used in hospital.
+
+ This study is being done to assess whether increasing the amount of medication getting into the lungs using these newer nebulisers will help patients recover from a COPD exacerbation.
+

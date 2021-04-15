@@ -1,0 +1,24 @@
+(thirdQuint)Photodynamic Therapy With Porfimer Sodium in Treating Patients With Precancerous Lesions, Cancer, or Other Disease of the Aerodigestive Tract.
+
+ OBJECTIVES: - Determine the efficacy of photodynamic therapy with porfimer sodium in patients with pre-malignant lesions, carcinoma in situ, select superficial squamous cell carcinoma of the oral cavity, oropharynx, or larynx, or condemned mucosa syndrome in the upper aerodigestive tract.
+
+ - Determine the safety of this regimen in these patients.
+
+ OUTLINE: Patients are stratified according to disease condition (benign vs malignant).
+
+ Patients receive porfimer sodium IV over 3-5 minutes on day 1 and laser light activation on day 3 or 4.
+
+ After completion of study treatment, patients are followed at 3 and 4 months and then periodically for up to 2 years.
+
+ PROJECTED ACCRUAL: A total of 47 patients will be accrued for this study.
+
+.
+
+ Photodynamic Therapy With Porfimer Sodium in Treating Patients With Precancerous Lesions, Cancer, or Other Disease of the Aerodigestive Tract@highlight
+
+RATIONALE: Photodynamic therapy uses a drug that becomes active when it is exposed to a certain kind of light.
+
+ When the drug is active, precancerous cells and cancer cells are killed.
+
+ PURPOSE: This phase II trial is studying the side effects and how well photodynamic therapy with porfimer sodium works in treating patients with precancerous lesions, cancer, or other disease of the aerodigestive tract.
+

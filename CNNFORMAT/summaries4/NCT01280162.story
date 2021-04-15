@@ -1,0 +1,14 @@
+(firstQuint)Malaria Active Epidemiology and Treatment Study.
+
+ This is an active observational Cohort Study of malaria epidemiology with a nested two arm, randomized, open label Treatment Study comparing the efficacy, safety, tolerability and pharmacokinetics of a two versus three day course of Dihydroartemisinin-Piperaquine (DP) for those developing uncomplicated malaria.
+
+ At the conclusion of the Cohort Study, a subset of volunteers with documented exposure to Plasmodium vivax during the study will be treated with primaquine as presumptive anti-relapse therapy directed against the exoerythrocytic malaria stages of P.
+
+ vivax, and followed passively for an additional 6 months.
+
+.
+
+ Malaria Active Epidemiology and Treatment Study@highlight
+
+An observational cohort and malaria treatment study in Cambodia.
+

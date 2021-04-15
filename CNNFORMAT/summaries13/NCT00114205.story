@@ -1,0 +1,36 @@
+(thirdQuint)Surgery and Intrapleural Docetaxel in Treating Patients With Malignant Pleural Effusion.
+
+ OBJECTIVES: Primary - Determine the maximum tolerated dose of intrapleural docetaxel in patients with malignant pleural effusion.
+
+ Secondary - Determine the toxicity profile of this drug in these patients.
+
+ - Determine the pharmacokinetics of this drug in plasma and pleural fluid from these patients.
+
+ - Determine the response in patients treated with this drug.
+
+ OUTLINE: This is a dose-escalation study.
+
+ Patients undergo thorascopic surgery to drain the malignant pleural effusion.
+
+ An intrapleural catheter (Pleurx catheter) is then inserted for subsequent docetaxel instillation.
+
+ Approximately 24 hours after surgery, patients receive docetaxel intrapleurally over 3 minutes via the Pleurx catheter.
+
+ The Pleurx catheter is then clamped for 4 hours and the patient is placed in several different positions to ensure uniform distribution of docetaxel throughout the pleural cavity.
+
+ Cohorts of 3-6 patients receive escalating doses of intrapleural docetaxel until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity.
+
+ After completion of study treatment, patients are followed at weeks 1 and 3 and then monthly thereafter.
+
+ PROJECTED ACCRUAL: Approximately 8-24 patients will be accrued for this study.
+
+.
+
+ Surgery and Intrapleural Docetaxel in Treating Patients With Malignant Pleural Effusion@highlight
+
+RATIONALE: Giving drugs, such as docetaxel, directly into the pleura after surgery to drain the pleural effusion may help keep fluid from building up again.
+
+ PURPOSE: This phase I trial is studying the side effects, best way to give, and best dose of intrapleural docetaxel given after surgery in patients with malignant pleural effusion.
+

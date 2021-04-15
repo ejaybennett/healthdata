@@ -1,0 +1,36 @@
+(thirdQuint)Nitric Oxide Supplementation on Neurocognitive Functions in Patients With ASLD.
+
+ Argininosuccinate lyase deficiency (ASLD; also known as argininosuccinic aciduria) is the second most common urea cycle disorder (UCD) and accounts for 15-20% of all disorders of ureagenesis.
+
+ Individuals with ASLD can have unique clinical and physiologic characteristics as compared to other UCDs.
+
+ Previous work from the members of the UCDC have shown that in spite of having fewer episodes of hyperammonemia as compared to those with proximal blockade of the urea cycle, individuals with ASLD can develop intellectual and learning disabilities.
+
+ Neurocognitive deficits have been observed even in individuals without any documented hyperammonemia.
+
+ Furthermore, hepatic abnormalities including hepatomegaly, hepatic injury, fibrosis and even frank cirrhosis, and vascular issues like hypertension are well known in the disorder.
+
+ Previous work from the members of the UCDC has demonstrated a tissue- and molecular-specific role for ASL in the generation of NO.
+
+ ASL is not only required for the synthesis of L-arginine, the substrate for the synthesis of NO, but is also an integral member of a complex that is critical for synthesis of NO from arginine.
+
+ Loss of ASL can thus lead to systemic and tissue-specific NO deficiencies, which could potentially contribute to the complex phenotype including the neurocognitive deficits.
+
+ A rational therapeutic option would hence be to use a NOS-independent NO supplement.
+
+ The purpose of this study is to determine whether a dietary NO supplement, Neo-ASA, would improve general cognition, memory, executive functioning, fine motor functioning, and attention in individuals with ASLD.
+
+ In this single-center trial, double-blind, randomized, placebo-controlled, crossover study, individuals with ASLD will be assigned to receive a medication containing NO dietary supplement for 24 weeks and a placebo for 24 weeks.
+
+ General cognition, memory, executive functioning, and fine motor functioning will be assessed and compared at the end of treatment with placebo and Neo-ASA.
+
+.
+
+ Nitric Oxide Supplementation on Neurocognitive Functions in Patients With ASLD@highlight
+
+This is a study involving a dietary supplement.
+
+ Patients with argininosuccinate lyase deficiency (ASLD) will be randomly assigned to receive either a nitric oxide dietary supplement or placebo for 24 weeks, and then crossed-over to receive the other treatment for 24 weeks.
+
+ The investigators will assess the effects of the supplement in domains of general cognition, memory, executive functioning, and fine motor functioning in individuals with ASLD.
+

@@ -1,0 +1,30 @@
+(fifthQuint)Latent Structure of Multi-level Assessments and Predictors of Outcomes for Women in Recovery.
+
+ Neuroscience has made tremendous progress in understanding the basic neural circuitry that underlies important processes such as attention, memory, and basic emotion processing.
+
+ Yet, little progress has been made to utilize these insights to apply them to psychiatric populations in order to make clinically meaningful predictions.
+
+ The connection between psychiatric disorders and their underlying neurobiology has been difficult to establish.
+
+ The overarching theme of this study is to determine how biological and objective behavioral measures can contribute to improving assessment and treatment of women who attend a court diversion program (Women in Recovery [WIR]) that includes treatment for mental health symptoms.
+
+ The investigators will use the National Institute of Mental Health (NIMH) Research Domain Criteria (RDoC) framework as a heuristic approach that integrates neuroscience and psychopathology to study the positive and negative valence systems, cognition and arousal/interoception domains.
+
+ Within this framework the investigators will study a group of treatment seeking individuals with mental health conditions to determine how dysfunctions of affect, substance use, and eating behavior organize across different levels and whether these latent factors can be used to generate clinically useful prediction.
+
+ Using self-report, behavior, physiology, neural circuit, cell, molecule, and gene unit of analysis measures, the investigators propose to enroll 1000 individuals from four different cohorts over 5 years: (1) anxiety and/or depression; (2) eating problems; (3) substance use problems; and (4) healthy controls.
+
+ Each individual will undergo a multi-level assessment that consists of (a) a standardized diagnostic assessment, (b) self-report questionnaires, (c) behavioral tasks, (d) physiological measurements, (e) structural and functional magnetic resonance imaging (fMRI) and EEG, (f) biomarker and microbiome assessments, (g) blood to derive induced pluripotent stem cells, (h) and genetic and epigenetic assessments.
+
+ These individuals will be followed up for one year and will be re-assessed using a multi-domain assessment of functioning, which will include: (a) symptom severity and duration, (b) subjective well-being, (c) psychosocial function, (c) occupational function, (d) physical health, (e) utilization of mental health resources (treatment), and (f) compliance with treatment.
+
+.
+
+ Latent Structure of Multi-level Assessments and Predictors of Outcomes for Women in Recovery@highlight
+
+In this study the investigators will seek to improve their understanding of how positive and negative valence systems, cognition, and arousal/interoception are inter-related in disorders of trauma, mood, substance use, and eating behavior for women involved in a court diversion program in Tulsa, Oklahoma (Women in Recovery).
+
+ The investigators will recruit 100 individuals and use a wide range of assessment tools, neuroimaging measures, blood and microbiome collections and behavioral tasks to complete the baseline and follow-up study visits.
+
+ Upon completion, the investigators aim to have robust and reliable dimensional measures that quantify these systems and a set of assessments that should be recommended as a clinical tool to enhance outcome prediction for the clinician and assist in determining who will likely benefit from the diversion program, and to inform future revision or augmentation of the program to increase treatment effectiveness.
+

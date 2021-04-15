@@ -1,0 +1,16 @@
+(secondQuint)A Study of TAC-101 in Combination With TACE Versus TACE Alone in Asian Patients With Advanced Hepatocellular Carcinoma.
+
+ Transcatheter arterial chemoembolization (TACE) is a commonly performed procedure in the treatment of unresectable liver tumors for selected patients.
+
+ TACE is a major palliative treatment for these patients.
+
+ Most patients will have intrahepatic recurrence of their tumors following TACE.
+
+ In this study, which will be conducted in Asian countries excluding Japan, TAC-101 will be administered as maintenance therapy after TACE compared with placebo therapy after TACE to patients with advanced HCC who are being scheduled for TACE and who either have not had any previous TACE procedures or who received their most recent TACE at least 120 days before signing the Informed Consent Form (ICF) and the TACE procedure resulted in complete necrosis, to determine if TAC-101 will enhance the benefits of TACE.
+
+.
+
+ A Study of TAC-101 in Combination With TACE Versus TACE Alone in Asian Patients With Advanced Hepatocellular Carcinoma@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of TAC-101 after Transcatheter Arterial Chemoembolization (TACE) in patients with advanced, unresectable hepatocellular carcinoma (HCC) who are being scheduled for TACE.
+

@@ -1,0 +1,34 @@
+(fifthQuint)Proportion of CMV Seropositive Kidney Transplant Recipients Who Will Develop a CMV Infection When Treated With an Immunosuppressive Regimen Including Everolimus and Reduced Dose of Cyclosporineversus an Immunosuppressive Regimen With Mycophenolic Acid and Standard Dose of Cyclosporine A.
+
+ Cytomegalovirus (CMV) infection is the most frequent opportunistic viral infection after kidney transplantation.
+
+ Therefore most of the patients receive an universal prophylaxis.
+
+ On the contrary to CMV naive patients, seropositive recipients (R+) have already mounted a specific immunologic response directed against the virus, which is not completely abrogated by immunosuppressive drugs.
+
+ Although CMV infection management guidelines offer little guidance on immunosuppressive therapy for preventing CMV infection and disease, recent data plead for reappraising the place of mTOR inhibitors in this situation.
+
+ The potential anti-CMV action of these molecules could be added to their potential antitumor effect and their equivalent immunosuppressive efficacy in kidney transplant recipients at low immunological risk.
+
+ By the way, it could represent an alternative of a systematic universal prophylaxis in R+ kidney transplant recipients.
+
+ However, the proof of this anti-CMV action must be confirmed in vivo in a study, which could have a close monitoring of CMV infection.
+
+ We therefore designed a prospective multicentric randomized controlled trial comparing an immunosuppressive regimen based on everolimus and reduced dose of cyclosporine A to a regimen based on mycophenolic acid and standard dose of cyclosporine A, in order to demonstrate the superiority of the first one in the prevention of CMV infection.
+
+ Subjects will be randomized to one of the two treatment arms and will be followed for a period of 12 months.
+
+ Whole blood CMV real time PCR will be performed every week during the first three months, then every two weeks from Month 3 to Month 6, then at Months 8, 10 and 12.
+
+ Incidence of CMV infection will be compared between the two arms at 6 and 12 months post-transplantation.
+
+.
+
+ Proportion of CMV Seropositive Kidney Transplant Recipients Who Will Develop a CMV Infection When Treated With an Immunosuppressive Regimen Including Everolimus and Reduced Dose of Cyclosporineversus an Immunosuppressive Regimen With Mycophenolic Acid and Standard Dose of Cyclosporine A@highlight
+
+Cytomegalovirus (CMV) infection is the most frequent opportunistic viral infection after transplantation.
+
+ It is associated with an increased incidence of acute rejection and lower graft and patient survivals.
+
+ The goal of this study is to demonstrate that an immunosuppressive regimen associating everolimus and reduced dose of cyclosporine A can prevent acute rejection episodes as efficiently as standard regimen but also efficiently reduce the incidence of CMV infection at 6 months post-transplantation.
+

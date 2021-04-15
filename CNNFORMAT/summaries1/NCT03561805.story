@@ -1,0 +1,26 @@
+(thirdQuint)Prolonged Continuous ECG Monitoring Prior to Transcatheter Aortic Valve Implantation.
+
+ This is a prospective registry including patients accepted by the heart team for a TAVI procedure.
+
+ Patients will undergo a prolonged continuous ECG monitoring using the CardioSTAT(R) device within the 3 months prior to the TAVI procedure.
+
+ The duration of the ECG monitoring will be of 1 week.
+
+ There will be no restriction regarding the type of valve and approach used for the TAVI procedure.
+
+ All type of arrhythmic events will be recorded, as well as the specific therapeutic measures implemented upon the occurrence of the arrhythmic event.
+
+ Following the TAVI procedure, the patients will be monitored (telemetry) until hospital discharge.
+
+ All arrhythmic events during the hospitalization period will be recorded.
+
+ Clinical follow-up will be performed at 30 days, and 1 year post-TAVI, and yearly thereafter up to 5-year follow-up.
+
+.
+
+ Prolonged Continuous ECG Monitoring Prior to Transcatheter Aortic Valve Implantation@highlight
+
+Patients with severe aortic stenosis candidates for a TAVI procedure harbor a high burden of silent arrhythmic events.
+
+ Pre-procedural detection of such arrhythmias should help the investigators to implement specific therapeutic measures that may improve patient outcomes and reduce hospitalization length post-TAVI.
+

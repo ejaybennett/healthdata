@@ -1,0 +1,22 @@
+(secondQuint)Entry Into Comprehensive Methadone Treatment Via Interim Maintenance.
+
+ Waiting lists for methadone treatment programs persist, and new and more effective approaches for expanding treatment access and improving outcomes for heroin dependent individuals are needed.
+
+ Recently completed research demonstrated that so-called "Interim Methadone Maintenance" (i.
+
+e.
+
+, methadone with crisis counseling only, for individuals on waiting lists) was associated with greater entry into methadone treatment, less self-reported heroin and cocaine use, lower rates of opioid-positive drug tests, and lower rates of self-reported crime.
+
+ The present study will build on this work by comparing three levels of counseling provided with methadone treatment: 1)"Interim" Methadone Treatment; 2) "Comprehensive" Methadone Treatment (which is the name for the usual amount of counseling provided, i.
+
+e.
+
+, about once per week) and; 3)"Restored" Methadone Treatment in which the counselors will have a lower case load and will be able to provide more attention to their patients.
+
+.
+
+ Entry Into Comprehensive Methadone Treatment Via Interim Maintenance@highlight
+
+The purpose of the study is to determine whether one of three levels of counseling intensity will be associated with better treatment outcomes when combined with methadone maintenance treatment for heroin-addicted adults drawn from a methadone treatment program waiting list.
+

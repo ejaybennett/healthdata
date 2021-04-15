@@ -1,0 +1,20 @@
+(secondQuint)The Application of Pleth Variability Index in Continuous Monitoring the Volume Status of Intraoperative Patients.
+
+ Objective: To assess the value of using PVI to monitor the patient's intra-operative volume status continuously by observing the application of stroke volume variation(SVV) and pleth variability index(PVI) and their correlation in patients undergoing intestinal tumor surgeries.
+
+ Methods: 50 patients undergoing elective intestinal tumor surgery were enrolled, ASAI-III, aged 18-65 years.
+
+ After the induction of general anesthesia, cardiac index(CI), cardiac output(CO), stroke volume variability(SVV), stroke volume index(SVI) were monitored with Vigileo system, while pleth variability index(PVI) and perfusion index(PI) were monitored with Massion Radical 7 system.
+
+ During the surgery, goal directed fluid therapy was conducted according to the data of CI,SVI and SVV.
+
+ Heart rate(HR), mean arterial pressure(MAP), central venous pressure(CVP), CO, CI, SVI, SVV, PI, PVI were recorded while after the induction of anesthesia(T1), making surgical incision(T2), performing intestinal anastomosis(T3) and closing the abdominal incision(T4).
+
+ And we calculate the correlation of SVV and PVI using Pearson Correlation Analysis at different time points.
+
+.
+
+ The Application of Pleth Variability Index in Continuous Monitoring the Volume Status of Intraoperative Patients@highlight
+
+To assess the value of using pleth variability index(PVI) to monitor the patient's intra-operative volume status continuously by observing the application of stroke volume variation(SVV) and PVI and their correlation in patients undergoing intestinal tumor surgeries.
+

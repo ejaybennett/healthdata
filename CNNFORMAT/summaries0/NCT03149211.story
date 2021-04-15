@@ -1,0 +1,18 @@
+(secondQuint)To Investigate the Efficacy and Safety of UB-421 Monotherapy in HIV-1 Infected Adults.
+
+ This is an open-label, Phase III study to evaluate the efficacy, safety and tolerability of UB-421 monotherapy in suppressing viral rebound while replace HAART in virally suppressed HIV-1 infected adults.
+
+ In this study, approximately 375 subjects on stable HAART treatment will be randomized to receive either continuing HAART treatment alone (Cohort 1) or UB-421 as the monotherapy (Cohort 2) in 1:2 ratio.
+
+ For Cohort 1, subjects will receive current standard HAART treatment as the active control group.
+
+ For Cohort 2, UB-421 will be administered to enrolled subjects without HAART treatment in the Cohort 2 during the 26-week treatment period.
+
+ After treatment period, both cohort 1 and cohort 2 enter 22-week follow-up period.
+
+.
+
+ To Investigate the Efficacy and Safety of UB-421 Monotherapy in HIV-1 Infected Adults@highlight
+
+The purpose of this phase III study is to evaluate the efficacy, safety and tolerability of UB-421 monotherapy in suppressing viral rebound in HIV-1 infected adults undergoing antiretroviral treatment interruption.
+

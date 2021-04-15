@@ -1,0 +1,15 @@
+(firstQuint)A Study of the Electrocardiogram Effects and Pharmacokinetics of Ferumoxytol in Healthy Men and Women.
+
+ This trial will be conducted in order to provide an evaluation of the potential of ferumoxytol to cause cardiac arrhythmia in accordance with the International Conference on Harmonization (ICH) E14 guidance.
+
+ The purpose of this trial is to define the effects of ferumoxytol on electrocardiogram (ECG) data.
+
+ Pharmacokinetics will also be evaluated at multiple time points as specified.
+
+ Subject safety will be monitored throughout the study.
+
+.
+
+ A Study of the Electrocardiogram Effects and Pharmacokinetics of Ferumoxytol in Healthy Men and Women@highlight
+
+This study will define the effects of ferumoxytol on electrocardiogram (ECG) data as well as evaluate pharmacokinetics

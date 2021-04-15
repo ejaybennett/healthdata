@@ -1,0 +1,26 @@
+(secondQuint)Reproducibility of Ankle Brachial Index After Maximal Exercise.
+
+ Two methods are mainly used to determine the blood pressure at rest, in a non-invasive way, in order to calculate the Ankle-Brachial Index (ABI).
+
+ The first method, using a manual sphygmomanometer coupled with a Doppler probe, is considered as the reference method.
+
+ The second method requires at least one automatic sphygmomanometer.
+
+ Data from the literature show that these two methods are reproducible to assess ABI at rest.
+
+ Some authors have reported a better reproducibility of measurements with automatic tool.
+
+ Others consider that the current accuracy of automatic measurement is insufficient to replace the reference method Doppler.
+
+ Thus, the aime of the present study is to evaluate whether automatic assessment of ABI is as reliable and reproducible as the manual method.
+
+.
+
+ Reproducibility of Ankle Brachial Index After Maximal Exercise@highlight
+
+Hemodynamic changes in the lower limbs are very important and rapid after maximal exercise.
+
+ The automatic method allows a fastest measurement of the Ankle-Brachial Index (ABI).
+
+ Thus, it appears important to know whether automatic assessment of ABI is as reliable and reproducible as the manual method.
+

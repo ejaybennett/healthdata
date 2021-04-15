@@ -1,0 +1,46 @@
+(fifthQuint)Normative Datasets for Assessments Planned for Mild Traumatic Brain Injury (NORMAL).
+
+ The primary purpose of this study will develop a database from normal healthy participants for the same outcomes used in a program of studies of hyperbaric oxygen (HBO2) vs.
+
+ sham control in participants with persistent post-concussive symptoms.
+
+ This study will characterize the distribution of responses and change in responses over time for each of the outcomes and will examine associations between measures within a given normal participant and across participant characteristics such as age and gender.
+
+ It will evaluate the test-retest reliability of a series of assessments anticipated for use in the primary, secondary, and exploratory outcomes of this program of studies.
+
+ A secondary purpose of this study is to compare normative values to results from randomized exploratory studies of HBO2 vs.
+
+ sham control in participants with persistent post-concussive symptoms.
+
+ Also, investigators will examine relationships between outcome measures from normal participants (with respect to clinical equivalence, participant burden, and risk) and compare to associations observed in other studies.
+
+ In this study, normal, healthy, non-brain injured civilians and military participants (active or inactive) will undergo a battery of outcome assessments at defined test intervals to replicate the assessment battery used in a program of studies investigating the safety of HBO2 in patients with post-concussive symptoms following mild traumatic brain injury (TBI).
+
+ The planned comprehensive assessments will obtain robust neuropsychological, physiological, and neuroimaging data.
+
+ Other evaluations will include laboratory testing and evaluations of the auditory, vestibular, and visual systems.
+
+ Neuroimaging (magnetic resonance imaging and computed tomography angiography) will be assessed in participants at baseline and 6 months.
+
+ Neurological function and electroencephalography (EEG) will be assessed at baseline only.
+
+ All other in-person outcome measures will be assessed in participants at baseline, at 13 weeks, and 6 months.
+
+.
+
+ Normative Datasets for Assessments Planned for Mild Traumatic Brain Injury (NORMAL)@highlight
+
+The purpose of the research study is to collect information about brain function and structure among active duty military personnel or civilians who are healthy.
+
+ Researchers want to develop a database from normal volunteers that will be used in comparison with a similar database from active duty military with post-concussive syndrome (PCS) from a mild traumatic brain injury.
+
+ Findings from this study may be used to design larger studies that will evaluate whether hyperbaric oxygen treatments actually improve PCS.
+
+ Participants in this study will undergo numerous tests to assess physical, mental, and intellectual health and how they might change over time.
+
+ Participants will wear heart and activity monitors, undergo brain imaging, provide blood and urine for laboratory testing, and have vision, hearing, balance, and muscle function tests.
+
+ They will also complete a number of questionnaires and interviews.
+
+ This battery of tests will be repeated twice more over the course of 6 months.
+

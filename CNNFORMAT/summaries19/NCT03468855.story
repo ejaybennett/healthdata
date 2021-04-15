@@ -1,0 +1,22 @@
+(firstQuint)A Study of ATI-50002 Topical Solution for the Treatment of Vitiligo.
+
+ This is a multicenter, open-label study designed to evaluate the safety, tolerability and efficacy of ATI-50002 Topical Solution 0.
+
+46% in subjects with non-segmental facial vitiligo.
+
+ Subjects will be required to have a clinical diagnosis of non-segmental facial vitiligo effecting at least 0.
+
+25% of total body surface area (TBSA) (excluding upper and lower eyelids, mucosal lip areas, and forehead and chin areas covered by the stereotactic positioning device for photography) with at least one area of the face with normal pigmentation.
+
+ Twenty-four eligible subjects will receive ATI-50002 Topical Solution, 0.
+
+46%, BID for 24 weeks.
+
+.
+
+ A Study of ATI-50002 Topical Solution for the Treatment of Vitiligo@highlight
+
+The main objective of this study is to assess the safety, tolerability and efficacy of ATI-50002 Topical Solution, 0.
+
+46% in subjects with non-segmental facial vitiligo.
+

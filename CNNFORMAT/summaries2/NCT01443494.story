@@ -1,0 +1,14 @@
+(firstQuint)High MAP in Septic Shock With Hypertension.
+
+ The effect of mean arterial pressure (MAP) titration to higher level on microcirculation in septic shock patients with previous hypertension remains unknown.
+
+ Our goal was to assess the effect of MAP titration to patients' usual level on microcirculation in septic shock patients with previous hypertension.
+
+ We hypothesized that the increase in MAP from 65 mmHg to patients' usual level improved sublingual microcirculation.
+
+.
+
+ High MAP in Septic Shock With Hypertension@highlight
+
+We hypothesized that the increase in MAP from 65 mmHg to patients' usual level improved sublingual microcirculation.
+

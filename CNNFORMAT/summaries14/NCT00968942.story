@@ -1,0 +1,16 @@
+(firstQuint)Efficacy and Safety Study of RT001 to Treat Moderate to Severe Lateral Canthal Lines.
+
+ This is a double-blind, randomized, parallel-group, controlled, repeat dose, single center study to evaluate the efficacy and safety of a repeat application of RT001 compared to placebo gel in at least 36 subjects with moderate to severe lateral canthal lines (LCL).
+
+ Subjects will be randomized to 1 of 2 treatment groups in a 1:1 ratio (active versus placebo).
+
+ At least 36 adult volunteers who have provided informed consent and have met the study eligibility criteria will be enrolled.
+
+ There will be 18 subjects in each treatment group.
+
+.
+
+ Efficacy and Safety Study of RT001 to Treat Moderate to Severe Lateral Canthal Lines@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of 2 sequential doses of RT001 compared to placebo gel to treat moderate to severe lateral canthal lines in adults.
+

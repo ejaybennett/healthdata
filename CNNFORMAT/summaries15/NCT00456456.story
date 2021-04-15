@@ -1,0 +1,20 @@
+(firstQuint)The Daily Habits Survey.
+
+ The following opportunity is a reserach project at the American University Behavioral Pharmacology and Health Promotions Laboratory (BPHP).
+
+ The study population is 11-17 year olds.
+
+ The 30 minute online survey asks questions about behavior, sleep, and typical food consumption.
+
+ The purpose of this survey is to better understand these habits in young people and the effects of these habits on behavior and sleep.
+
+ This information will provide us with a better understanding of the daily habits in young people and guide the direction of future research projects.
+
+.
+
+ The Daily Habits Survey@highlight
+
+Online survey for 11-17 year olds about behavior, sleep, and food consumption patterns.
+
+ This survey can be completed on any computer that has internet access.
+

@@ -1,0 +1,17 @@
+(firstQuint)Surgery for Adhesive Small Bowel Obstruction in a Defined Population: a Cohort Study.
+
+ It is a population-based cohort study of patients operated for adhesive small bowel obstruction during a five-year period (2007-2012) in two Swedish neighboring regions.
+
+ Patients were identified by a broad search of operation and ICD codes.
+
+ Preoperative data as age, gender, co-morbidity, previous surgery was registered as well as mechanisms of obstruction and intraoperative data.
+
+ Short and long-term complications were analyzed.
+
+ Patients were followed to 31st January 2017 , last medical note or death.
+
+.
+
+ Surgery for Adhesive Small Bowel Obstruction in a Defined Population: a Cohort Study@highlight
+
+A cohort study of patients operated for adhesive small bowel obstruction (SBO) during a five-year period

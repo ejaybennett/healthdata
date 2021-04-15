@@ -1,0 +1,22 @@
+(firstQuint)An Evaluation of Glycemic Control Effects of Mono Therapy CKD-501 in Patients With Type 2 Diabetes Mellitus.
+
+ Diabetes Mellitus is classified into type 1 diabetes and type 2 diabetes mellitus according to the causes of diabetes onset and the treatment of symptoms.
+
+ In type 2 diabetes, the combination of insulin resistance and insulin deficiency is working.
+
+ Diabetes mellitus causing many complications and hospitalization is one of chronic metabolic disorder and diabetes mortality rate has been gradually increasing percentage.
+
+ CKD-501 is highly selective peroxisome proliferator-activated receptor-gamma agonist that decreases insulin resistance in the periphery and liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output.
+
+ In vivo, It demonstrates that CKD-501 improves even more glycemic and lipid control in comparison to rosiglitazone and pioglitazone.
+
+ The aim of this phase 3 study was to evaluate the efficacy and safety of CKD-501 once daily for 24 weeks as a monotherapy in type 2 diabetes mellitus.
+
+ Furthermore, the extension study for additional 28 weeks is designed to confirm long term safety of CKD-501 as an oral hypoglycemic agent.
+
+.
+
+ An Evaluation of Glycemic Control Effects of Mono Therapy CKD-501 in Patients With Type 2 Diabetes Mellitus@highlight
+
+The purpose of this study is to evaluate and confirm hypoglycemic efficacy and safety of CKD-501 as mono therapy in patients with type 2 diabetes treated once daily for 24 weeks in comparison to placebo.
+

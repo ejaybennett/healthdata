@@ -1,0 +1,18 @@
+(firstQuint)Demineralized Bone Matrix in Opening Wedge Osteotomy for Hallux Valgus Deformity.
+
+ Demineralized bone matrix use for filling in the space removed bone in open wedge osteotomy and correction.
+
+ The purpose this study is to test therapeutic benefits of demineralized bone matrix.
+
+ Investigator will recruit thirty patients.
+
+ Total evaluation period will be 12 months.
+
+ In this period, investigator will examine correction rate, fusion rate, functional test, adverse event.
+
+.
+
+ Demineralized Bone Matrix in Opening Wedge Osteotomy for Hallux Valgus Deformity@highlight
+
+This study evaluates the demineralized bone matrix in "Hallux valgus".
+

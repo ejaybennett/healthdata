@@ -1,0 +1,26 @@
+(secondQuint)Parent-targeted Mobile Phone Based Intervention to Increase Physical Activity in Children (P-Mobile).
+
+ Most children engage in insufficient amounts of moderate-to-vigorous physical activity.
+
+ These low levels of moderate-to-vigorous physical activity are associated with adverse health consequences including increased risk for obesity, and cardiovascular and diabetes risk factors.
+
+ Therefore, there is a need for studies that can increase physical activity levels in children.
+
+ Mobile phones are a way to deliver behavioral interventions.
+
+ Mobile phones are portable, allow for real-time data collection, and can potentially reach large numbers of people.
+
+ Text messages can also be utilized to promote behavior change.
+
+ Few mobile phone based interventions have specifically targeted child physical activity.
+
+ The aims of this pilot study were to determine the feasibility and efficacy of a physical activity promotion program targeting 6-10 year old children that is delivered to parents through mobile phones.
+
+.
+
+ Parent-targeted Mobile Phone Based Intervention to Increase Physical Activity in Children (P-Mobile)@highlight
+
+This study is designed to determine if parents can deliver an intervention that will help increase physical activity in their children.
+
+ The parents will be given the intervention through their mobile phones.
+

@@ -1,0 +1,42 @@
+(fifthQuint)A Pilot Study of Induction Chemotherapy Followed by Surgery for Locally Advanced Resectable Head and Neck Cancer.
+
+ An important observation of the induction triple chemotherapy regimen know as TPF is that there was an unprecedented high proportion of patients treated who had a complete response of their disease upon the completion of the induction phase.
+
+ In a recent study by Haddad, et al.
+
+, a biopsy was performed in all patients following induction chemotherapy and before starting concomitant chemoradiotherapy.
+
+ Patients with an incomplete response to chemoradiotherapy or who had N3 disease had a neck dissection 6 to 12 weeks after chemoradiotherapy.
+
+ Twenty-nine neck dissections were performed after chemoradiotherapy.
+
+ The neck dissection result was pathologically positive in 7 (24%) patients (all alive with no evidence of disease) and negative in 22 (76%) patients (21 alive with no evidence of disease).
+
+ Post-TPF, primary site biopsy result was negative in 64 patients (89%) and positive in 8 patients (11%).
+
+ While the protocol required all patients to subsequently receive concomitant chemoradiation regardless of disease response to the induction component of the regimen, it is reasonable to question whether the complete responder subset really needed to undergo the same intensive chemoradiation treatment compared to the partial responders.
+
+ Thus, a less intense therapy may be sufficient.
+
+ The long term goal of this protocol is to alter the model of highly effective cancer therapy from what is maximally tolerated by the patient to what is minimally necessary for a cure.
+
+ One treatment strategy for patients with advanced head and neck cancer who prove to be highly sensitive to chemotherapy is to combine the modalities of polychemotherapy and conservation surgery with the goal of avoiding radiation therapy.
+
+ For those patients whose primary disease is classified as T2-3 (resectable), and who have a complete response following induction therapy, it is feasible to perform an organ preservation tumor nidusectomy at the primary site to verify that the clinical complete response is truly pathological complete response.
+
+ Similarly, the clinical complete response observed for the associated nodal disease, can be verified pathologically by performing a selective neck dissection without causing significant morbidity.
+
+ Both tumor nidusectomy and selective neck dissection has been shown to be an effective adjuvant in this setting.
+
+ Building on these observations, the novel protocol outlined in this proposal has the potential to spare the use of radiation therapy for selective patients who have a complete response to induction chemotherapy and thereby improve their well being without compromising survival.
+
+.
+
+ A Pilot Study of Induction Chemotherapy Followed by Surgery for Locally Advanced Resectable Head and Neck Cancer@highlight
+
+This is a non-randomized open-label investigator initiated pilot study comparing follow-up therapy of advanced head and neck cancer subjects initially treated with triple induction chemotherapy.
+
+ Subjects will receive surgical treatment or combined chemoradiation therapy based on the subject's apparent clinical response.
+
+ Spared use of radiation therapy for selective patients who have a complete response to induction chemotherapy could improve well being of this patient population without compromising survival.
+

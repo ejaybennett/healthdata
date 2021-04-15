@@ -1,0 +1,16 @@
+(firstQuint)Undermining During Cutaneous Wound Closure.
+
+ The purpose of this study is to determine whether undermining during cutaneous surgery improves scar cosmesis compared to wound closure without undermining.
+
+ Our aims are to compare outcomes using a split wound model, where half the wound is undermined and the other half is not.
+
+ This will be measured via the physician observer scar assessment scale, a validated scar instrument and via wound width.
+
+ Our hypothesis is that wound undermining will result in cosmetically superior wound outcomes.
+
+.
+
+ Undermining During Cutaneous Wound Closure@highlight
+
+The purpose of this study is to determine whether undermining during cutaneous surgery improves scar cosmesis compared to wound closure without undermining.
+

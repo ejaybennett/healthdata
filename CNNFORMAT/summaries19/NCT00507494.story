@@ -1,0 +1,22 @@
+(firstQuint)Influence of Pioglitazone for Renal Transplant Function in Diabetics.
+
+ About 30 % of kidney transplant recipients will develop diabetes mellitus.
+
+ This condition is a risk factor for graft dysfunction, graft loss and increased mortality of patients.
+
+ Inflammatory reactions within the graft and proteinuria are considered as pathogenetic mechanisms.
+
+ Recent studies indicated that pioglitazone might have beneficial effects on the urinary protein excretion of type 2 diabetic patients with diabetic nephropathy and was able to reduce systemic inflammation.
+
+ This lead to the hypothesis that pioglitazone could improve proteinuria of kidney transplant patients with diabetes.
+
+ Comparison: Effects of pioglitazone vs.
+
+ placebo on proteinuria and renal function of kidney transplant recipients in a cross over study.
+
+.
+
+ Influence of Pioglitazone for Renal Transplant Function in Diabetics@highlight
+
+The purpose of this study is to test whether pioglitazone is able to prevent the progression of diabetic nephropathy in kidney transplant recipients with diabetes mellitus.
+

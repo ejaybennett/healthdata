@@ -1,0 +1,13 @@
+(firstQuint)Neonatal Brain Waves After Electrocoagulation.
+
+ Electrocoagulation is used for bleeding control on usual basis in cesarean sections and other surgical procedures .
+
+ We are planning to test the effect of electrocoagulation unipolar on neonatal brain waves compared with neonates that were exposed to bipolar electrocoagulation .
+
+Bipolar electrocoagulation should have les of an effect because of it coagulates in a close ,closed electrical cycle .
+
+.
+
+ Neonatal Brain Waves After Electrocoagulation@highlight
+
+Electrocoagulation effect of neonatal brain waves after cesarean section

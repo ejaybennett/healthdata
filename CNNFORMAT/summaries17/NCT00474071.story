@@ -1,0 +1,48 @@
+(fifthQuint)Optimum Dose of Remifentanil for Intubation in Small Children.
+
+ The introduction of propofol and short acting opioids has allowed intubation without the use of NMBA to become routine practice.
+
+ The combination of an opioid and propofol reduces laryngeal reflexes and decreases pressor response to intubation.
+
+ Identification of the optimum dose combination and sequence of remifentanil-propofol for intubation would allow clinicians to abandon the use of non depolarizing muscle relaxants.
+
+Younger children may need higher doses of Remifentanil to facilitate intubation as they are more tolerant to the respiratory depressant effect of Remifentanil.
+
+ The Remifentanil dose will be prepared in a standard fashion by an anesthesiologist not directly involved in the study from the data given to them by a research assistant.
+
+ The anesthesiologists performing laryngoscopy will be one of the four investigators.
+
+ There will be a standard starting dose, which must be as close to the population mean as possible.
+
+ All subjects will receive a minimum dose of 1 mu g/kg remifentanil which has been shown to produce acceptable intubating conditions.
+
+ The dose of remifentanil for the following subject in each group will be determined from the dose used in the previous subject and response to intubation using an" up and down" sequential-allocation technique described by Dixon.
+
+ The mean remifentanil intubation dose will be obtained by calculating the midpoint concentration of all independent pairs of patients involving a crossover (ie.
+
+ Intubation scores all1 to intubation scores not all 1).
+
+ Mean remifentanil intubation dose would be the average of the crossover midpoints in each subgroup.
+
+ In addition the standard deviation of remifentanil dose will be the standard deviation of the crossover midpoints in each group.
+
+ Patient demographics (age/sex/weight), and time to return of spontaneous ventilation will be expressed as mean +/- standard deviation.
+
+ The inter-group comparisons will be performed using analysis of variance with a difference of 0.
+
+5 mu g/kg considered to be significant and a p<0.
+
+05 considered statistically significant.
+
+.
+
+ Optimum Dose of Remifentanil for Intubation in Small Children@highlight
+
+The routine medications to relax the muscles of the throat are an anesthetic drug, propofol, in combination with an ultra short acting pain medicine, remifentanil.
+
+ Remifentanil is used to reduce the amount of propofol required but also to decrease the natural cough reflex to the breathing tube being inserted.
+
+The purpose of this study is to find the dose of remifentanil when combined with propofol which provides the best conditions for intubation without cough in infants and small children.
+
+Younger children may need higher doses of Remifentanil to facilitate intubation as they are more tolerant to the respiratory depressant effect of Remifentanil.
+

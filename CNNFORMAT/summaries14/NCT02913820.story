@@ -1,0 +1,28 @@
+(secondQuint)Association of Snowfall and Myocardial Infarction.
+
+ Besides classical cardiovascular risk factors such as smoking, obesity, elevated cholesterol levels and diabetes there are also acute factors potentially triggering acute coronary events.
+
+ The impact of air temperature (changes) or humidity are of potential relevance.
+
+ In addition, exercise and the associated increase in oxygen demand of the myocardium and blood pressure is another trigger for plaque rupture and the acute onset of myocardial infarction.
+
+ Male patients as well as patients with previous coronary heart disease or little regular exercise are at increased risk.
+
+ Possible additional mechanisms of exercise induced myocardial infarction are vasospasm and changes in blood clotting.
+
+ Changes in the ambient temperature (warm to cold) can also induce vasospasm which might result in reduced perfusion and plaque rupture.
+
+ It seems that male patients are more involved than female patients.
+
+ Taking the exercise and the ambient temperature changes into consideration, heavy snowfall with consecutive snow shoveling is an augmented risk for acute myocardial infarction.
+
+ The rationale of the study is to test if the above mentioned constellation of environmental factors as well as potential increased exercise have a significant and independent impact on the incidence of myocardial infarctions.
+
+ Association of Snowfall and Myocardial Infarction@highlight
+
+Changes in the ambient temperature (esp.
+
+ warm to cold) as well as exercise are triggers for vasospasms and plaque rupture.
+
+ Weather data (temperature, precipitation in general as well as snowfall and changes in atmospheric pressure) will be correlated with the incidence of myocardial infarctions.
+

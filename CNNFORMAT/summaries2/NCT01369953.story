@@ -1,0 +1,60 @@
+(fifthQuint)Informed Consent for Whole Genome Sequencing: Ideals and Norms Referenced by Early Participants.
+
+ Since 2007, the cost of sequencing a diploid human genome has fallen dramatically, from approximately $70 million to $20,000 (Illumina, 2010).
+
+ As affordable sequencing platforms become more widely available, the advancement of biomedical science will draw increasingly on whole genome sequencing research requiring large cohorts of diverse populations (Lunshof et al.
+
+, 2009; Need & Goldstein, 2009).
+
+ Key policy, ethical and legal implications of these developments will need to be understood in order to promote the efficacy and effectiveness of genomic research going forward.
+
+ In addition to information about well-understood regions of the genome both sought-after and incidental whole genome sequencing yields results of probabilistic, uncertain, and changing significance over indefinite periods of time.
+
+ Sequence data is most useful when shared widely among investigators in conjunction with detailed clinical information (Angrist, 2010).
+
+ It may have implications for individuals and families and be of unclear clinical significance.
+
+ As such, the boundary between clinical and research testing is dissolving, and standards for returning test results to research participants are non-existent (McGuire & Lupski, 2010).
+
+ The difficulty of acquiring informed consent for studies involving whole genome sequencing is therefore a topic of active debate within the biomedical research community.
+
+ This proposed study approaches both informed consent and genomic medicine as iterative constructs shaped by civic values and social norms.
+
+ Understanding the civic and social contexts where informed consent takes place is crucial in order to adapt it to new realities in genomic research.
+
+ An overall aim of this inquiry is to solicit feedback on the informed consent process from some of the earliest adopters of whole genome sequencing in research.
+
+ A more specific goal is to characterize the salient personal and public references accessed by participants around the time of the informed consent process.
+
+ By highlighting trends in and relationships between these civic values and social norms, we aim to advance the development of an ethically and socially relevant vocabulary with which to broker terms of use for personal sequence data.
+
+ Participants will be recruited from two NIH protocols employing whole genome sequencing for distinct purposes.
+
+ The ClinSeqTM Study is a large-scale medical sequencing project investigating the causal role of genetics in cardiovascular disease enrolling both symptomatic and healthy individuals.
+
+ The Whole Genome Medical Sequencing for Gene Discovery Study (WGMS) enrolls children and adults for full sequencing with the aim of discovering the genetic etiology of rare conditions.
+
+.
+
+ Informed Consent for Whole Genome Sequencing: Ideals and Norms Referenced by Early Participants@highlight
+
+Since 2007, the cost of sequencing a diploid human genome has fallen dramatically, from approximately $70 million to $20,000.
+
+ As affordable sequencing platforms become more widely available, the advancement of biomedical science will draw increasingly on whole genome sequencing research requiring large cohorts of diverse populations.
+
+ Key policy, ethical and legal implications of these developments will need to be understood in order to promote the efficacy and effectiveness of genomic research going forward.
+
+ An overall aim of this project is to obtain feedback on the informed consent process from some of the earliest particpants in studies using whole genome sequencing.
+
+ A more specific goal is to characterize the salient personal and public references accessed by participants around the time of the informed consent process.
+
+ By highlighting trends in participants views about study participation around the time of the initial informed consent process, we aim to advance the development of an ethically and socially relevant vocabulary with which to negotiate future terms of use for personal sequence data in genomic research.
+
+ Participants will be asked to complete a one-time, semi-structured telephone interview lasting approximately 45 minutes in the period 2-8 weeks following their initial informed consent session at the NIH.
+
+ They will be recruited from two NIH protocols employing whole genome sequencing for distinct purposes.
+
+ They The ClinSeqTM Study is a large-scale medical sequencing project investigating the causal role of genetics in cardiovascular disease enrolling both symptomatic and healthy individuals.
+
+ The Whole Genome Medical Sequencing for Gene Discovery Study (WGMS) enrolls children and adults for full sequencing with the aim of discovering the genetic etiology of rare conditions.
+

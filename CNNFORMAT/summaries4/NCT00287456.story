@@ -1,0 +1,44 @@
+(thirdQuint)Use of the Insulin Pump in Cystic Fibrosis Patients With Impaired Glucose Tolerance or CFRD and in Type 1 Diabetes Patients.
+
+.
+
+ The insulin pump provides standard treatment for many patients with type 1 and type 2 diabetes and has been proven to be more effective in blood glucose control than subcutaneous injections.
+
+ However, the pump has not been utilized for CF related diabetes.
+
+ The insulin pump is connected to the patient via a small plastic catheter.
+
+ The catheter is inserted with a 24 gauge needle (in a fashion similar to an IV catheter) just under the skin.
+
+ The catheter is then changed every three days.
+
+ The patient wearing the pump may then give himself or herself a "bolus dose" of insulin every time he or she eats, without needing to give a shot.
+
+ A further advantage of the pump is that a very low dose of basal insulin may be given throughout the day.
+
+ This low dose of insulin mimics the normal pancreas and may be especially advantageous for the insulin deficient CF patient.
+
+ It is likely that bolus dosing will improve high HGP and will be more effective than subcutaneous insulin.
+
+ Furthermore, continuous basal insulin will likely improve protein catabolism.
+
+ This is a pilot study to determine efficacy of the insulin pump.
+
+ Each subject will be provided with the pump and with all materials needed for use with the pump.
+
+ Each patient will also be provided with a glucose meter and test strips.
+
+ He/she will be asked to wear the pump for six months and to check his/her blood sugar levels three to four times per day.
+
+ Prior to the pump placement and at the end of six months, each patient will undergo the following measurements: 1) whole body protein turnover using the stable isotope [1-13C] leucine; 2) DEXA scan for measurement of lean body mass; 3) anthropometric measurements; 4) Hemoglobin A1c.
+
+.
+
+ Use of the Insulin Pump in Cystic Fibrosis Patients With Impaired Glucose Tolerance or CFRD and in Type 1 Diabetes Patients.
+
+@highlight
+
+We hypothesize use of the insulin pump will improve body weight, lean body mass, whole body protein turnover, hepatic glucose production (HGP), and blood sugar control in CF patients with impaired glucose tolerance or patients with CF related diabetes (CFRD).
+
+ We further hypothesize that HGP is also elevated in children/adolescents with type 1 diabetes and that the insulin pump will result in decreased HGP.
+

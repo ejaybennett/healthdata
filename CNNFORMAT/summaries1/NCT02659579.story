@@ -1,0 +1,28 @@
+(fifthQuint)Evaluating the Effectiveness of the Reader Organisation's Get Into Reading Intervention.
+
+ This is a Randomised Control Trial to test whether The Reader Organisation's Shared Reading Programme is more effective at improving the language development of children than a free library reading group.
+
+ Intervention group: Fifty parents of children (3 to 4-years of age) will be recruited to take part in a 8 weeks long shared reading programme.
+
+ The shared reading programme is comprised of two different modules: a) 'Magical Storytimes', in which a collection of shared book reading sessions are led by a project worker and b) 'Stories for You and Yours', in which parents will be taught how to choose books and read interactively with their child.
+
+ Control group: Fifty further families, matched for age and background will be recruited to a reading control group and asked to attend a weekly shared reading group at a library where parents/children will read in a shared pre-school library reading group, coordinated by a group facilitator.
+
+ Location: The Shared Reading Programme will take place in the child's nursery (in nurseries across Liverpool).
+
+ Control group parents and children will attend a weekly reading group at a library.
+
+ All standardised tests, for all children, will take place in the child's nursery.
+
+ Language gains from pre- to post- intervention will be measured.
+
+.
+
+ Evaluating the Effectiveness of the Reader Organisation's Get Into Reading Intervention@highlight
+
+The investigators will evaluate the effectiveness of a parent-child shared reading intervention run by The Reader Organisation.
+
+ The investigators will be asking parents and children across Liverpool to either (i) attend a weekly shared reading programme or (b) to attend a weekly children's reading group at a library.
+
+ The investigators will look at how the reading groups affect children's language development, by comparing children's language development before having gone to these groups and after they have attended these groups.
+

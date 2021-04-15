@@ -1,0 +1,20 @@
+(secondQuint)Bivalirudin in Stable Ischemic Heart Disease Patients Undergoing PCI.
+
+ Bivalirudin is widely used as an anticoagulant during percutaneous coronary intervention (PCI) for coronary heart disease.
+
+ Prolonging infusions may decrease myocardial damage associated with bivalirudin use during primary PCI .
+
+ However, whether prolonging infusions of bivalirudin could prevent ischemic complications is unknown.
+
+ The investigators examined the effects of prolonged drug infusion after elective PCI.
+
+ The investigators hypothesized that continuing the bivalirudin infusion commenced during the procedure at the PCI recommended dose for 4 hours would prevent myocardial damage.
+
+.
+
+ Bivalirudin in Stable Ischemic Heart Disease Patients Undergoing PCI@highlight
+
+Prolonging infusions may decrease myocardial damage associated with bivalirudin use during primary PCI.
+
+ The investigators hypothesized that continuing the bivalirudin infusion commenced during the procedure at the PCI recommended dose for 4 hours would prevent myocardial damage.
+

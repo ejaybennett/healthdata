@@ -1,0 +1,20 @@
+(secondQuint)Local CO2 Increases Core and Wound Temperature.
+
+ Eighty adult patients undergoing open colon surgery will be randomized to either: standard warming measures including heating sheets, warming of fluids, and insulation of limbs and head, or to additional insufflation of humidified carbon dioxide (approx.
+
+ 30C, approx.
+
+ 80-100% relative humidity) via a simple humidifier (sterile warmed water) connected to a gas diffuser (Cardia Innovation AB) that is able to create a local atmosphere of 100% carbon dioxide (humidified ) in the open wound cavity.
+
+ PRIMARY AIM The primary aim of this study is to evaluate if humidified carbon dioxide insufflated into an open surgical wound can be used to warm the core, open wound cavity, and the wound edges during major abdominal surgery.
+
+ SECONDARY AIMS Secondary aims are to evaluate possible differences between the groups regarding complications and clinical differences including histological signs.
+
+.
+
+ Local CO2 Increases Core and Wound Temperature@highlight
+
+Eighty adult patients undergoing open colon surgery will be randomized to either:standard warming measures or to additional insufflation of humidified carbon dioxide in the open wound cavity during major abdominal surgery.
+
+ PRIMARY AIM is to test if core and local temperature can be increased.
+

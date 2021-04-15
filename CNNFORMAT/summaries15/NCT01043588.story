@@ -1,0 +1,14 @@
+(secondQuint)TRP Versus Photo Selective Vaporization for Obstructive Benign Prostatic Hyperplasia Management.
+
+ The aim of this study is to compare medical efficacy and cost effectiveness of two surgical options for obstructive BPH management : transurethral resection of the prostate with photo selective vaporization of the prostate using the high powered 532nm laser.
+
+ Patients were randomized in two groups after inclusion.
+
+ Perioperative data were collected, and follow-up was conducted for one month.
+
+.
+
+ TRP Versus Photo Selective Vaporization for Obstructive Benign Prostatic Hyperplasia Management@highlight
+
+The aim of this study is to compare medical efficacy and cost effectiveness of two surgical options for obstructive BPH management : transurethral resection of the prostate with photo selective vaporization of the prostate using the high powered 532nm laser.
+

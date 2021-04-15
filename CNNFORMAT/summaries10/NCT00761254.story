@@ -1,0 +1,16 @@
+(firstQuint)Domperidone for Relief of Gastrointestinal Disorders.
+
+ Domperidone is the only medication that is a true prokinetic with a low percentage of side effects that is useful in the treatment of certain GI conditions, including gastroparesis and other motility disorders.
+
+ According to recent regulations, writing prescriptions for subject to obtain domperidone outside the United States has been determined to be illegal and the FDA has issued warnings against pharmacies compounding domperidone.
+
+ The legal way of administering domperidone is by obtaining an Investigational New Drug Application.
+
+ This study is an effort to both follow federal regulations and provide the medication to subjects who would benefit from it where standard therapy has failed.
+
+.
+
+ Domperidone for Relief of Gastrointestinal Disorders@highlight
+
+The purpose of this study is to make Domperidone available to patients with gastrointestinal disorders who have failed standard therapy and who might benefit from it.
+

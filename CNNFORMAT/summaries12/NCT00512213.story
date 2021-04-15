@@ -1,0 +1,30 @@
+(secondQuint)Immunonutrition Versus Standard Enteral Nutrition Before Major Surgery.
+
+ Malnutrition affects about 20-50% of all patients in hospital [1, 2].
+
+ Major surgery further increases postoperative malnutrition and immunity reduction.
+
+ Therefore, postoperative complication and infection rates after major surgery exceed 30% [3-6].
+
+ The nutritional risk score (NRS) [1] is based on the ESPEN (European society of parenteral and enteral nutrition) screening guidelines and identifies patients who are likely to benefit from nutritional support.
+
+ Patients with a NRS 3 are considered severely undernourished, or to have a certain degree of severity of disease in combination with certain degree of malnutrition [7].
+
+ In a prospective cohort study patients with a NRS 3 had significant more infectious and overall complications after major abdominal surgery [4, 7, 8].
+
+ Several studies showed a benefit by nutritional support on complications [3, 5, 6].
+
+ International guidelines suggest therefore preoperative oral nutritional support for malnourished patients undergoing major surgery [9].
+
+ However, it remains controversial whether standard enteral nutrition (SEN) or immunonutrition (IN) is preferable [9].
+
+ IN, containing arginine, ribonucleic acid and omega-3 polyunsaturated fatty acids aims to improve the nutritional status, immunological function and clinical outcome [5, 10].
+
+.
+
+ Immunonutrition Versus Standard Enteral Nutrition Before Major Surgery@highlight
+
+The aim of this trial is to compare preoperative Imunnonutrition with standard enteral nutrition regarding morbidity after major abdominal surgery in patients with NRS greater 3.
+
+ The primary end point is the complication rate until 30 days after surgery.
+

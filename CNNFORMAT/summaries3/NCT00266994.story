@@ -1,0 +1,46 @@
+(fifthQuint)HTRS TE Registry (ThromboEmbolism Registry).
+
+ Hereditary defects that predispose to thromboembolism (TE) and its complications afflict 5-8% of the U.
+
+S population.
+
+ Annually, ~60,000 Americans die from TE and half of the survivors suffer long-term morbidity.
+
+ Despite these staggering statistics, little is known about the clinical characteristics or epidemiology of the inherited risk factors for TE.
+
+ Less is known regarding the acquired risk factors or the phenotype of TE in persons with multiple risk factors, yet preliminary data suggest that as many as 10% of patients may have multiple risk factors.
+
+ Data from several studies, primarily involving adult subjects, shows that in a population of consecutively studied thrombosis patients, that one of the five most common inherited predispositions will occur in ~33.
+
+8%.
+
+ Antithrombin (AT) is the least common (~1.
+
+9%) of these, while Factor V Leiden (FVL) is the most common (~18.
+
+8%).
+
+ Most children who suffer from TE have indwelling catheters to assist therapy of underlying medical conditions, or are sick neonates.
+
+ Thus, the contribution of molecular risk factors in children is largely unknown, with the exception of sparse retrospective data.
+
+ The TE Registry may help clearly define the clinical phenotype, epidemiology, and complications seen in patients with TE associated with known molecular risk factors.
+
+.
+
+ HTRS TE Registry (ThromboEmbolism Registry)@highlight
+
+The TE Registry is a multi-institutional bioinformatics database for the collection of data relevant to TE.
+
+ Participating HTRS affiliated study centers may enroll patients and enter data in the TE Registry by completing enrollment and data entry forms and transmitting them to the study center.
+
+ The purpose of this study is to improve our understanding of the epidemiology, pathophysiology, and outcome of patients suffering from thromboembolism (TE) events.
+
+ The initial objectives of the registry are: - Evaluate the epidemiology and clinical characteristics of known prothrombotic risk factors in persons with TE.
+
+ - Identify the frequency and nature of complications associated with TE and its treatment.
+
+ - Describe the phenotypes and complications seen in persons with multiple molecular risk factors for TE.
+
+ - Compare the epidemiology, clinical characteristics, and complications seen in patients with and without known risk factors for TE.
+

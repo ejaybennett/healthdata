@@ -1,0 +1,32 @@
+(fifthQuint)The Clinical Diagnosis Meaning of MIF in Coronary Heart Disease.
+
+ MIF is a pleiotropic cytokine that promote the inflammatory response.
+
+ MIF is expressed in several cell types,including monocytes/macrophages, vascular smooth muscle and cardiomyocytes, and is released on stimulation from pre-formed storage pools.
+
+ A foreign study reported that MIF had demonstrated to offer protection from I/R-injury by activating adenosine monophosphate-activated protein kinase (AMPK) and inhibiting c-Jun Nterminal kinase (JNK)-induced apoptosis of cardiomyocytes.
+
+ In addition, animal experiments showed that MIF was reduced in aged heart compared with young heart.
+
+ Coronary heart disease is a chronic ischemic disease, in which MIF may play as a protective factor during the whole procedure.
+
+ We observed individuals who will be taking coronary angiography during the hospitalization.
+
+ Individuals will be assigned to coronary-artery-disease group, which included acute coronary syndromes and stable ischemic heart disease, or non-coronary-artery-disease group, according to coronary angiography.
+
+ All participants will be extracted 3ml blood sample 5 minutes before coronary angiography.
+
+ Coronary-artery-disease group will be taken another two blood samples, 5 minutes after the opening of the balloon and 5 minutes after the stents have been implanted, respectively.
+
+.
+
+ The Clinical Diagnosis Meaning of MIF in Coronary Heart Disease@highlight
+
+Macrophage migration inhibitory factor (MIF) is a pleiotropic cytokine that promote the inflammatory response.
+
+In animal studies, it has been found that MIF is released in the ischaemic heart, promoting glucose uptake and protecting the heart from ischaemia-reperfusion injury.
+
+The MIF concentration, influenced by age and myocardial ischemia, have different impact on myocardial functional recovery after ischemia.
+
+Therefore, the purpose of this experiment is to study the clinical significance of MIF in patients with coronary heart disease.
+

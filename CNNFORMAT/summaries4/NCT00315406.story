@@ -1,0 +1,34 @@
+(thirdQuint)Determining Disease Activity Biomarkers in Individuals With Polyarteritis Nodosa.
+
+ PAN, also known as systemic necrotic vasculitis, was the first recognized form of primary systemic vasculitis.
+
+ PAN causes the inflammation of small- to medium-sized blood vessels, especially those supplying the nerves, skin, kidneys, gastrointestinal tract, heart, eye, and genitals.
+
+ Unlike another form of vasculitis called microscopic polyangiitis, PAN does not usually cause glomerulonephritis, a type of kidney disease, or vasculitis in the very smallest blood vessels (arterioles, capillaries, and venules).
+
+ There are no radiographic or serologic tests that can reliably measure disease activity in PAN.
+
+ Currently, clinicians must rely on patients' symptoms, signs, laboratory tests, and imaging to guide treatment decisions, but such data are rarely consistently reliable in determining PAN disease activity.
+
+ This study will use new scientific methods to discover new biomarkers that can be used to monitor disease activity in PAN patients.
+
+ These biomarkers may be used to help direct clinical care for PAN patients and assist in future drug development.
+
+ Study visits will occur monthly for the first year, then every 3 months thereafter for the remainder of the study.
+
+ Blood and urine collection will occur at every visit.
+
+ A physical exam and medical and medication history will occur every 3 months; also, participants will be asked to complete several questionnaires to assess disease activity, health status, and tobacco, alcohol, and drug use.
+
+ Participants may have additional study visits if a disease flare or disease-related complications occur during the study.
+
+.
+
+ Determining Disease Activity Biomarkers in Individuals With Polyarteritis Nodosa@highlight
+
+Polyarteritis nodosa (PAN) is a rare immune system disorder that causes swelling and damage to small- and medium-sized blood vessels in the body.
+
+ In order to properly treat this disease, it is critical that the level of disease activity can be determined over the course of the disease.
+
+ The purpose of this study is to determine new biological markers, or biomarkers, that may be used to assess the severity of disease in people with PAN.
+

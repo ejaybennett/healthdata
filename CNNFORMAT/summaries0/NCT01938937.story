@@ -1,0 +1,16 @@
+(firstQuint)The Effect of Acute Transcranial Bright Light on Anxiety Symptoms.
+
+ Subjects (n=30) with anxiety symptoms will be recruited into the study.
+
+ To be included into the study, subjects have to get at least seven points in BAI(Becks Anxiety Inventory).
+
+ At the beginning of the study subject will be randomly assigned to 12 minutes of acute transcranial bright light or placebo exposure group.
+
+ Anxiety symptoms will be measured using Spielberger State-Trait Anxiety Inventory (STAI, form Y1)self-rating questionnaire just before and 10 and 110 minutes after the experiment.
+
+.
+
+ The Effect of Acute Transcranial Bright Light on Anxiety Symptoms@highlight
+
+The purpose of this study is to determine if transcranially administered bright light has acute effect on anxiety symptoms.
+

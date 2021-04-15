@@ -1,0 +1,18 @@
+(thirdQuint)Evaluation of Use of Plastic Bags to Prevent Neonatal Hypothermia-Part I.
+
+ This study will compare the incidence of hypothermia during the first hour after birth in preterm/low birth weight infants randomized to receive WHO thermoregulation care and a plastic bag (without drying) covering the torso and lower extremities (control group) or WHO thermoregulation care and a plastic bag (without drying) covering the torso, upper and lower extremities, and a portion of their head (intervention group).
+
+ The axillary temperature of each infant will be taken initially within 15 minutes of birth and later at 1 hour after birth as the infant is removed from the plastic bag.
+
+ Seizures, hyperthermia, room temperature, and death will be recorded throughout the hospitalization for all infants.
+
+ With an estimated baseline hypothermia rate of 41% and a 21% absolute risk reduction (51% relative risk reduction), a sample size of 182 will be used to have a power of 80% and a confidence interval of 95%.
+
+.
+
+ Evaluation of Use of Plastic Bags to Prevent Neonatal Hypothermia-Part I@highlight
+
+The overall hypothesis is that plastic bags used in combination with WHO thermoregulation care will reduce the incidence of hypothermia in preterm/low birth weight and full term infants when compared to routine WHO thermoregulation care alone.
+
+ Part I is for preterm/low birth weight infant with or without plastic head cover used during resuscitation.
+

@@ -1,0 +1,14 @@
+(secondQuint)A Morbidity-Mortality and Remodeling Study With Valsartan.
+
+ Several recent clinical trials have demonstrated that angiotensin II receptor blockers (ARBs) have cardiovascular as well as renal protective effects.
+
+ However, it is a problem that the number of Asian patients is very little in these trials.
+
+ The researchers examine the treatment meaning by ARB about the prognosis of the patient who amalgamates either among high blood pressure, the ischemic heart disease, and congestive heart failures.
+
+.
+
+ A Morbidity-Mortality and Remodeling Study With Valsartan@highlight
+
+The JIKEI HEART Study has been designed to investigate whether concomitant treatment with valsartan, an angiotensin II receptor blocker (ARB), in addition to conventional treatment, will improve the prognosis of 3000 Japanese patients with cardiovascular diseases.
+

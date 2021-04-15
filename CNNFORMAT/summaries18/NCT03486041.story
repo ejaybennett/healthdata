@@ -1,0 +1,26 @@
+(thirdQuint)Comprehensive Behavioral (ComB) Model of Treatment for Trichotillomania.
+
+ Treatment based on the ComB model has been influential in the field of body-focused repetitive behaviors (BFRB's), but there is limited empirical research on its efficacy.
+
+ Our first project (Falkenstein et al.
+
+, 2016) developed a 12-session manual for ComB and a method for evaluating therapist adherence to the model that can be used reliably and provided encouraging (uncontrolled) data on the effects of ComB through 3-month follow-up.
+
+ The proposed project extends the earlier work in two main ways: (a) using random assignment to ComB vs.
+
+ comparison condition to test whether ComB works better than the passage of time + demand characteristics of being in a TTM study alone; and (b) gathering initial evidence on how ComB works.
+
+ Treatment will be conducted at two sites -- Washington, DC (American University and the Behavior Therapy Center of Greater Washington) and Chicago (University of Chicago).
+
+ Participants in the Minimal Attention Control condition will receive ComB therapy after the post-treatment [week 12] assessment is conducted.
+
+ Uncontrolled follow-up data will be collected through 3 (MAC condition) or 6 (immediate ComB condition) months after the end of ComB treatment.
+
+.
+
+ Comprehensive Behavioral (ComB) Model of Treatment for Trichotillomania@highlight
+
+This study will be the first randomized controlled trial of Comprehensive Behavior Modification (ComB) as a treatment of trichotillomania (TTM).
+
+ ComB treatment (12 weekly sessions, following a manual developed in an earlier treatment development project) will be compared to Minimal Attention Control among adults (N = 42) with TTM.
+

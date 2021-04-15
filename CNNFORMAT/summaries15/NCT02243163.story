@@ -1,0 +1,23 @@
+(secondQuint)Effect of Yoga on Life Quality and Immunity in Breast Cancer Patients After Operation and or Chemotherapy.
+
+ It is well-known that exercise promote immune regulation for better life quality.
+
+ However, the mechanism for better immunity and life quality is not clear.
+
+ We postulate that Ayurveda yoga might benefit breast cancer women with completion of operation and/or chemotherapy and radiotherapy.
+
+ The benefits could be due to immune modulation, and improve health perception and life quality, and even potential decrease of cancer relapse.
+
+ The study patients will do yoga twice a week for 12 weeks.
+
+ The study primary endpoints are 1) to improve personal health perception, 2) to improve life quality and 3) to enhance human immunity.
+
+ The study secondary endpoint will follow up the immunity changes 3 months after the intervention.
+
+ We anticipate to reach the primary endpoints and to publish the primary results in one year, the secondary endpoint will complete in the second year.
+
+.
+
+ Effect of Yoga on Life Quality and Immunity in Breast Cancer Patients After Operation and or Chemotherapy@highlight
+
+The purpose of study is to investigate if yoga exercise improve life quality and immune status in breast cancer patients after complete treatment (including surgery and / or radiotherapy and / or chemotherapy)

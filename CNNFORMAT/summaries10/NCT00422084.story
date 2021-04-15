@@ -1,0 +1,18 @@
+(secondQuint)Pyronaridine Artesunate (3:1) Versus Coartem in P Falciparum Malaria Patients.
+
+ Artemisinin-based combination therapies (ACTs) are considered today by WHO to be the best anti-malarials in terms of efficacy and lower propensity to resistance.
+
+ Pyronaridine artesunate is a new ACT in development to treat acute uncomplicated malaria.
+
+ Pyronaridine and artesunate are antimalarial agents with a history of clinical use both separately and in combination with other drugs.
+
+ Each drug has powerful anti-schizonticidal actions.
+
+ The aim of a fixed dose combination of pyronaridine and artesunate in the treatment of uncomplicated acute malaria is to provide rapid reduction in parasitemia with a once-daily three-day regimen, thereby improving compliance and reducing the risk of recrudescence through the slower elimination of pyronaridine.
+
+.
+
+ Pyronaridine Artesunate (3:1) Versus Coartem in P Falciparum Malaria Patients@highlight
+
+The purpose of this study is to compare the efficacy and safety of the fixed combination of pyronaridine artesunate (180:60 mg) with that of Coartem(R) (artemether lumefantrine) in children and adults with acute uncomplicated P falciparum malaria.
+

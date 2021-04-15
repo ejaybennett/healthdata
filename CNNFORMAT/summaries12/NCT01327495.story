@@ -1,0 +1,22 @@
+(secondQuint)PROS-2 Dose Response Effects of Exogenous Testosterone on the Prostate.
+
+ The investigators overall goals are (i) to determine the relationship between serum and prostate tissue hormone concentrations in men in response to increasing doses of exogenous androgens; (ii) to determine the impact that alterations in serum and tissue testosterone concentrations have on prostate epithelial cell function and phenotype; and (iii) to determine the relationships between prostatic androgens and alterations in the tissue microenvironment.
+
+ The investigators will perform a study in healthy, middle-aged men to address the following Specific Aims: Specific Aims: To compare the dose-response relationships between serum testosterone and intraprostatic androgens and androgen action, and serum testosterone and anabolic activity in healthy, middle-aged men.
+
+ Hypothesis: The investigators hypothesize that very low levels of serum testosterone will lower concentrations of intraprostatic testosterone and dihydrotestosterone (DHT).
+
+ However, when serum testosterone concentrations are within or even above the normal range there will be no significant increases in intraprostatic testosterone and dihydrotestosterone.
+
+ In contrast, the investigators expect that anabolic activity will increase with increasing concentrations of circulating testosterone.
+
+ Secondarily, the investigators hypothesize that increasing levels of serum testosterone beyond the low normal range will have little impact on androgen action within the prostate.
+
+ Approach: The investigators will conduct a randomized, placebo-controlled trial in healthy men who are medically castrated and administered one of five different doses of testosterone gel (Androgel) for 12 weeks.
+
+.
+
+ PROS-2 Dose Response Effects of Exogenous Testosterone on the Prostate@highlight
+
+The investigators will conduct a three-month, randomized, placebo-controlled trial comparing the effects of increasing doses of androgen supplementation with Testosterone (T) gel on the prostate in healthy men who are treated with acyline to block gonadal androgen production.
+

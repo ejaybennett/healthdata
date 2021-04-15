@@ -1,0 +1,38 @@
+(fifthQuint)Borderline Resectable Pancreatic Cancer: Gemcitabine/Docetaxel and Oxaliplatin Based Chemo/RT.
+
+ Subjects must have biopsy proven adenocarcinoma of the pancreas which is bidimensionally measurable on CT.
+
+ Cancer must be considered locally advanced (not able to be treated surgically).
+
+ Subjects must not have received prior treatment for pancreatic cancer.
+
+ Subjects must not have received prior radiation therapy to the abdomen or pelvis (for any reason).
+
+ Subjects cannot be receiving immunosuppressive therapy (e.
+
+g.
+
+ prednisone, methotrexate).
+
+ Eligible subjects will receive initial chemotherapy regimen to include eight cycles of Gemcitabine and Docetaxel.
+
+ All subjects will be re-evaluated for surgery - if tumor has shrunk enough, subject will undergo surgery, followed by additional chemotherapy of Oxaliplatin, 5FU and Alpha-interferon and radiation therapy; once subject has recovered from side effects of the chemo/radiation therapy, they will receive a final chemotherapy regimen of four cycles of Gemcitabine and docetaxel.
+
+ Subjects who are not surgical candidates after eight cycles of chemotherapy will undergo an additional four cycles of Gemcitabine and docetaxel followed by reassessment for surgery.
+
+ If they are a surgical candidate, they will undergo surgery followed by chemo/radiation therapy regimen.
+
+ If they are not a surgical candidate, they will undergo the chemo/radiation therapy regimen.
+
+ Subjects may be removed from the study treatment for the following reasons: - The investigator feels the subject is not benefitting from treatment - The subject chooses to discontinue for any reason - The subject experiences side effects which are considered to be unacceptable - The subject has an increase in the size of their tumor.
+
+ Borderline Resectable Pancreatic Cancer: Gemcitabine/Docetaxel and Oxaliplatin Based Chemo/RT@highlight
+
+This study is being conducted to find out what effects (good and bad) that a combination of treatment with chemotherapy, radiation therapy and surgery has on you and your pancreatic cancer.
+
+ The chemotherapy drugs to be used: Gemcitabine, Docetaxel, Oxaliplatin, 5-FU and alpha-interferon.
+
+ The goal is to decrease the size of the tumor, so that removal by surgery can be performed.
+
+ Current treatments for this stage of pancreas cancer offer less than ideal results, with little opportunity for treatment with curative intent.
+

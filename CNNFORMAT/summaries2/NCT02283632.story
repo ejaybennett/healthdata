@@ -1,0 +1,14 @@
+(firstQuint)A Trial of the Jejunal Diversion Procedure.
+
+ The Jejunal Diversion procedure is an adaptation of a jejuno-jejunostomy, which is a surgical procedure often used to address a mix of pathological conditions.
+
+ The safety of the Jejunal Diversion procedure is not in question, but rather understanding the gastrointestinal signalling effects.
+
+ Up to 25 eligible subjects will be enrolled into the trial.
+
+ Enrollment will stop once 15 subjects have undergone the Jejunal Diversion procedure.
+
+ A Trial of the Jejunal Diversion Procedure@highlight
+
+This is a single site trial to assess metabolic effects in subjects after a Jejunal Diversion procedure was performed.
+

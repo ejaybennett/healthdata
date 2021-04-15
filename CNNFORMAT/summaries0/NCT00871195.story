@@ -1,0 +1,26 @@
+(thirdQuint)A Noninvasive Test for Fetal RHD Genotype.
+
+ In the United States and Canada, routine obstetrical care includes a blood test to determine the blood type of the mother (ABO and RhD).
+
+ An antibody screen for anti-red cell antibodies in the mother's serum is also performed.
+
+ Postpartum prophylactic treatment of RhD negative women with anti-D immunoglobulin to prevent "RhD Disease", or hemolytic disease of the fetus/newborn, was initiated in the 1960's.
+
+ In the mid 1980's, the routine administration of antenatal anti-D immunoglobulin became the standard of care as well.
+
+ Although these treatments have dramatically reduced the incidence of RhD Disease, approximately 40% of all RhD negative pregnancies continue to receive unnecessary injections of antenatal anti-D immunoglobulin.
+
+ Genotyping platforms such as MALDI-TOF mass spectrometry allow for precise and sensitive detection of fetal-specific (paternally derived) alleles in maternal plasma.
+
+ In this study, Sequenom's MassARRAY technology will be used to assess a noninvasive test for fetal RHD genotyping in a clinical setting.
+
+.
+
+ A Noninvasive Test for Fetal RHD Genotype@highlight
+
+The objective of this study is to evaluate the performance of Sequenom's noninvasive test for fetal RHD genotype.
+
+ The test uses MALDI-TOF mass spectrometry to detect DNA.
+
+ The study is specifically designed to determine whether RHD typing using free fetal DNA in maternal circulation can accurately predict the neonatal RhD phenotype at birth.
+

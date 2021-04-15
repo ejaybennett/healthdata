@@ -1,0 +1,20 @@
+(firstQuint)EAGLE European Post Market Study.
+
+ BioMatrix CRD is a CE marked device that is intended to repair focal articular cartilage lesions or osteochondral defects in the knee.
+
+ BioMatrix CRD cent is a sterile, biphasic, bioresorbable scaffold designed to aid in the repair of cartilage and subchondral bone.
+
+ The device serves as a scaffold for cellular and extracellular matrix ingrowth supporting the regeneration of cartilage and subchondral bone.
+
+ The purpose of this post-market study is to confirm the safety and performance of the BioMatrix CRD for its intended use.
+
+ Fifty (50) patients will be enrolled at up to 10 hospitals in Europe.
+
+ Patients will be followed for 2 years post-operative to examine the rate of adverse events associated with the device, track improvement in knee pain and knee function over time, and assess the quality of repair tissue.
+
+.
+
+ EAGLE European Post Market Study@highlight
+
+Prospective, multi-center, non-randomized, historical controlled, post-market study of patients requiring surgical repair of a focal articular cartilage lesion or osteochondral defect in the knee.
+

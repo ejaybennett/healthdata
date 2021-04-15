@@ -1,0 +1,13 @@
+(firstQuint)Tall Stature Women Fetal Weight Estimation.
+
+ Women undergoing delivery after week 39 will be estimated of their fetal wight with clinical estimation and then sonographic estimation.
+
+ each women will be case control 1:1 for the actual fetal weight of the delivery.
+
+ the fetal weight will be blinded for each estimation.
+
+ Primary outcome is the actual fetal weight Secondary outcomes will be mode of delivery, fetal complication as APGAR score and fetal hypoxia and maternal complication as perineal laceration.
+
+ Tall Stature Women Fetal Weight Estimation@highlight
+
+To investigate the difference of clinical VS sonographic fetal weight estimation of tall women stature (above 10t percentile)

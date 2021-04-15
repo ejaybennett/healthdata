@@ -1,0 +1,26 @@
+(thirdQuint)Mild Valvar Pulmonary Stenosis.
+
+ Young children (less than or equal to 2 years of age) with mild valvar pulmonary stenosis are unlikely to develop worsening stenosis with age and periodic cardiac evaluation is not warranted.
+
+ To describe the clinical course of children with mild valvar pulmonary stenosis diagnosed in early childhood.
+
+ To examine the clinical practice patterns of cardiologists caring for these patients.
+
+ Retrospective chart review of all children diagnosed with mild valvar pulmonary stenosis born between 1984 and 2003 and followed by Sibley Heart Center Cardiology.
+
+ Patient variables will include: pulmonary valve gradient, need for catheterization, exercise intolerance and endocarditis.
+
+ Practice variables will include: frequency of follow-up, number of echocardiographic studies, exercise limitations.
+
+.
+
+ Mild Valvar Pulmonary Stenosis@highlight
+
+Mild valvar pulmonary stenosis can be detected in 1/10,000 live births.
+
+ Historical data suggested that most of these patients do well.
+
+ Nonetheless, the majority of these patients is followed periodically by a pediatric cardiologist and may undergo repeated echocardiographic studies to follow the gradient.
+
+ Such follow-up can be costly and it is not know if there is any benefit to periodic evaluation.
+

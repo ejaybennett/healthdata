@@ -1,0 +1,24 @@
+(firstQuint)Efficacy Study of Nicorandil on Neointima.
+
+ In the era of bare metal stent (BMS), the restenosis rate was about 25%.
+
+ The introduction of drug-eluting stent (DES) reduces restenosis rate to 4%-10%.
+
+ Neointimal hyperplasia and restenosis remain to be problems after DES implantation.
+
+ Besides, DES causes an increase in uncovered struts, late stent thrombosis, neoatherosclerosis, and heterogeneous neointima.
+
+ Diabetes mellitus (DM) results in increased risk for atherosclerosis, in-stent restenosis, neoatherosclerosis and late-stent thrombosis.
+
+ Nicorandil, a hybrid of adenosine triphosphate-sensitive potassium (K-ATP) channel opener and nitrates, has been shown to reduce target vessel revascularization after stent implantation, target lesion revascularization after rotational atherectomy, and restenosis in patients undergoing percutaneous coronary intervention (PCI).
+
+ Intracoronary optical coherence tomography(OCT) has emerged as a high-resolution imaging method for analysis of neointima that grows over the stent.
+
+ We aim to examine the effect of nicorandil on the neointima after coronary DES implantation in patients with unstable angina and DM.
+
+.
+
+ Efficacy Study of Nicorandil on Neointima@highlight
+
+The investigators aim to investigate the effect of oral nicorandil on neointima after coronary drug-eluting stent implantation in patients with diabetic mellitus.
+

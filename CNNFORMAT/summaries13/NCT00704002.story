@@ -1,0 +1,16 @@
+(secondQuint)Conservative Versus Operative Treatment of Displaced Neck Fractures of the Fifth Metacarpal.
+
+ The aim of this study is to provide criteria for treatment decisions in patients with isolated, displaced neck fractures of the fifth metacarpal.
+
+ The primary outcome criterion is the functional status measured by the Disability of the Arm, Shoulder and Hand (DASH) questionnaire.
+
+ Secondary outcome criteria are pain, range of motion (ROM), grip strength, and radiological parameters.
+
+.
+
+ Conservative Versus Operative Treatment of Displaced Neck Fractures of the Fifth Metacarpal@highlight
+
+This is a prospective, randomized, multi-center pilot study of isolated, displaced neck fractures of the fifth metacarpal.
+
+ The patients are randomly assigned to osteosynthesis with antegrade intramedullary splinting or conservative treatment.
+

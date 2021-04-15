@@ -1,0 +1,22 @@
+(secondQuint)Remifentanil/Sufentanil for CABG+/-AVR Evaluated by Recovery, Cognitive Function, Haemodynamics and Biochemical Markers.
+
+.
+
+ 1.
+
+ Haemodynamic effects, evaluated by invasive haemodynamic data (arterial line and PAC) of opioid given as single drug and in combination with Propofol (first 30 patients only).
+
+ 2.
+
+ Cognitive dysfunction evaluated by standard test preoperative and postoperative day 1, 4 and 30 3.
+
+ Recovery quality and time parameters using objective ICU score criteria 4.
+
+ Cardioprotection effect evaluated by myocardial biochemical markers obtained preoperative and postoperative 4, 9 and 18 hours.
+
+ Remifentanil/Sufentanil for CABG+/-AVR Evaluated by Recovery, Cognitive Function, Haemodynamics and Biochemical Markers.
+
+@highlight
+
+To evaluate the effect on cognitive function, recovery, cardioprotection and haemodynamics of standard Remifentanil anaesthesia to standard Sufentanil anaesthesia in patients undergoing coronary artery bypass with or without aortic valve replacement.
+

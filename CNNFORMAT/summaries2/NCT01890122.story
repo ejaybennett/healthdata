@@ -1,0 +1,30 @@
+(secondQuint)Efficacy and Safety of Alogliptin and Metformin Fixed-Dose Combination in Participants With Type 2 Diabetes.
+
+ The drug being tested in this study is a fixed-dose combination tablet of alogliptin and metformin to treat people who have diabetes.
+
+ This study will look at glycemic control in people who take alogliptin and metformin FDC compared with alogliptin or metformin alone.
+
+ The study will enroll approximately 640 patients.
+
+ Participants will be randomly assigned (by chance, like flipping a coin) to one of the four treatment groups-which will remain undisclosed to the participant and study doctor during the study (unless there is an urgent medical need): - Alogliptin 12.
+
+5 mg twice daily (BID) - Metformin hydrochloride (HCl) 500 mg BID - Alogliptin 12.
+
+5 mg and Metformin HCl 500 mg FDC BID - Placebo (dummy inactive pill) - this is a tablet/capsule that looks like the study drug but has no active ingredient.
+
+ All participants will be asked to take 2 tablets and 1 capsule twice a day at the same time each day throughout the study.
+
+ All participants will be asked to record any hypoglycemic events in a diary.
+
+ This multi-center trial will be conducted in China, South Korea, Taiwan and Malaysia.
+
+ The overall time to participate in this study is 34 weeks.
+
+ Participants will make 11 visits to the clinic.
+
+.
+
+ Efficacy and Safety of Alogliptin and Metformin Fixed-Dose Combination in Participants With Type 2 Diabetes@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of alogliptin and metformin fixed-dose combination (FDC) as compared with alogliptin alone or metformin alone on Type 2 Diabetes Mellitus (T2DM).
+

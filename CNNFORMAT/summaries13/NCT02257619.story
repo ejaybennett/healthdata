@@ -1,0 +1,14 @@
+(firstQuint)Study of INCB039110 in Combination With Docetaxel in Subjects With Non-Small Cell Lung Cancer.
+
+ Sponsor decision to not initiate part 2 of the trial and Part 2 of the study was not conducted.
+
+ In Part 2, the randomized portion, the objective is to evaluate and compare the overall survival of subjects with previously treated advanced or metastatic non-small cell lung cancer (NSCLC) when treated with itacitinib in combination with docetaxel versus docetaxel alone.
+
+ The secondary objectives of this study (Part 2) are to evaluate and compare the efficacy of the 2 treatment groups with respect to progression-free survival, overall tumor response, and duration of response, and to evaluate and compare disease control, safety, and tolerability of itacitinib in combination with docetaxel versus docetaxel alone.
+
+.
+
+ Study of INCB039110 in Combination With Docetaxel in Subjects With Non-Small Cell Lung Cancer@highlight
+
+The primary objectives of this study is to evaluate the safety and tolerability of itacitinib in combination with docetaxel and to select doses for further evaluation (Part 1, safety run-in portion).
+

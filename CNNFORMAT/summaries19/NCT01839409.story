@@ -1,0 +1,13 @@
+(firstQuint)Biological Rhythms and Vestibular System.
+
+ The purpose of this study is to study the relationship between the vestibular system and chronobiology.
+
+ Two parts will be performed.
+
+ In the first one patients with bilateral vestibular areflexia will be compared to control subjects.
+
+ In the second the effect of vestibular stimulation on circadian rhythms will be evaluated.
+
+ Biological Rhythms and Vestibular System@highlight
+
+The purpose of this study is to study the relationship between the vestibular system and chronobiology

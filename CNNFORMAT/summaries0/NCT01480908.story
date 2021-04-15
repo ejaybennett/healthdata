@@ -1,0 +1,42 @@
+(fifthQuint)Right Bundle Branch Block After Surgical Closure of Ventricular Septal Defect.
+
+ Right bundle branch block is an exceedingly frequent complication in heart surgery, and especially in patients who have undergone surgical closure of a ventricular septal defect which is the most common congenital heart disease.
+
+ How this bundle branch block effects the right ventricle of the heart on a long-term basis for this group of patients, is still unknown.
+
+ As a part of a PhD-study we therefore will try to illustrate this by echocardiography, MRI, exercise testing and other investigations 15 to 20 years after the surgical procedure.
+
+ The study population thus consists of three different groups: 1.
+
+ Patients whom undergone surgical closure of ventricular septal defect without postoperative right bundle branch block, 2.
+
+ VSD-operated patients with right bundle branch block and 3.
+
+ Healthy controls with no significant medical issues matched on age and sex.
+
+ By carrying out the tests mentioned the right ventricles systolic function, diastolic function, the patients maximal exercise capacity and a lot of other parameters will be evaluated in the three groups of patients and compared amongst each other.
+
+ The perspective therefore is the ability to point out a specific group of patients with an inferior outcome and with a possible need for further intervention.
+
+ An additional perspective is to increase the awareness of protecting the bundle branch during the operation.
+
+.
+
+ Right Bundle Branch Block After Surgical Closure of Ventricular Septal Defect@highlight
+
+The most common congenital heart disease is the ventricular septal defect, and after surgical closure of a such defect, an arrythmia called the right bundle branch block, is very frequent.
+
+ Therefore the aim of this study is to investigate if this group of patients has inferior outcomes compared to the group without this arrythmia after surgical closure and compared to a group of healthy control subjects.
+
+ All patients will be undergoing 1.
+
+ exercise testing, 2.
+
+ echocardiography, 3.
+
+ echocardiography during exercise, and 4.
+
+ MRI.
+
+ The perspective is the ability to point out a group of patients with a possible need of further intervention, and additionally to increase the awareness of protecting the electrical system of the heart during the operation.
+

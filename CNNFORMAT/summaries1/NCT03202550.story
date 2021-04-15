@@ -1,0 +1,30 @@
+(secondQuint)Oral Sedation During Cervical Dilator Placement.
+
+ Potential participants will be first introduced to the study via routine intake call.
+
+ Participants will be identified at the participant's office visits to the Johns Hopkins' Women's Center for Family Planning.
+
+ If a patient desires D&E for a second trimester pregnancy, the patient will first receive standard counseling.
+
+ Only after providing written informed consent for the procedure will the patients be screened for eligibility in the study.
+
+ If the patient is eligible the participant will be asked by a member of the research team if the patient is interested in participating.
+
+ If the patient is, the study will be explained to the participant and written consent will be obtained after participant is given the opportunity to have all questions answered.
+
+ The study is randomized, double-blind, placebo-controlled trial involving 2 arms.
+
+ Participants will first complete a survey to collect demographic data.
+
+ Participants in both arms will receive the institution's current standard analgesia for cervical dilator placement.
+
+ In addition to this standard regimen, participants will be randomized to receive either: (1) a dose of two oral placebo pills, or (2) 1mg of oral lorazepam with 5 mg of oral oxycodone prior to cervical dilator placement.
+
+.
+
+ Oral Sedation During Cervical Dilator Placement@highlight
+
+This will be a randomized, double-blind, placebo-controlled trial involving 2 arms.
+
+ It will be comparing the effects of placebo compared to 1 mg oral lorazepam/5 mg oral oxycodone on pain scores during cervical dilator placement prior to dilation and evacuation (D&E).
+

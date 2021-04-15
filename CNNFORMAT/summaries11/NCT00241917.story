@@ -1,0 +1,24 @@
+(fifthQuint)A Video-Based HCV Curriculum for Drug Users.
+
+ Injection drug users are at high risk for contracting hepatitis C (HCV).
+
+ Very few culturally-specific educational tools have been developed to improve outcomes in this population.
+
+ We hypothesize that measurable improvements in HCV testing, hepatitis A and B vaccinations, and testable knowledge, attitudes, and motivations may be elicited by such a curriculum.
+
+ In this study, we will investigate the impact of a 4-module short video educational series on these measures in in-treatment drug users maintained on methadone.
+
+ Subjects will be enrolled in 3 sequential cohorts of 150 each: usual care, a 4 weekly sequential video cohort, and a single-session intervention in which the 4 videos are viewed at once.
+
+ Subjects will undergo written testing for knowledge, attitudes about transmission behaviors, and motivations toward behavior change before the intervention, 4 weeks after the intervention, and 12 weeks after the intervention.
+
+ Additionally, we will measure and compare the rates of HCV testing and HAV/HBV vaccinations before and at the 12-week time point in all cohorts.
+
+.
+
+ A Video-Based HCV Curriculum for Drug Users@highlight
+
+The investigators hypothesize that a well-designed hepatitis C (HCV)video education curriculum for high-risk drug users will show measurable benefits in improving HCV testing, hepatitis A and B vaccinations, and HCV knowledge, attitudes, and motivations toward transmission behavior change.
+
+ The investigators will use a 4-part modular video series designed for at-risk drug users, and in this 12 week study will assess its impact on testing/vaccinations as well as knowledge, attitudes, and motivations in methadone-maintained drug users as compared to a usual-care intervention.
+

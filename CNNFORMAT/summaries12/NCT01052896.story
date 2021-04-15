@@ -1,0 +1,20 @@
+(secondQuint)Gabapentin in Functional Dyspepsia Refractory to Proton Pump Inhibition.
+
+ In this pilot study we hypothesize that the patients on gabapentin will have an increase in the adequacy of dyspepsia symptom control at two months as well as improvement in dyspepsia symptom index scores which are a surrogate of quality of life measures, when compared to placebo.
+
+ While functional dyspepsia is divided into four subtypes most studies have grouped all four as 'functional dyspepsia' and treated them as one.
+
+ Proton pump inhibition may benefit those with epigastric pain or burning but typically not those with post-prandial fullness or early satiety.
+
+ (Tack et al).
+
+ Those patients with symptoms refractory to proton pump inhibition might benefit from a medication that modifies visceral hypersensitivity such as gabapentin.
+
+ It is possible that by modifying their pain syndrome we can decrease the need for follow-up appointments and improve patient quality of life.
+
+.
+
+ Gabapentin in Functional Dyspepsia Refractory to Proton Pump Inhibition@highlight
+
+The purpose of this study is to evaluate the effectiveness of gabapentin on symptom control in patients with defined functional dyspepsia refractory to conventional proton pump inhibitor therapy and to compare these effects to that of placebo.
+

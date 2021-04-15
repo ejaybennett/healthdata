@@ -1,0 +1,18 @@
+(secondQuint)Efficacy of Post-operative Antibiotic Prophylaxis for Thoracic Surgery Requiring Tube Thoracostomy.
+
+ There is currently no evidence-based standard for the extended use of prophylactic antibiotics in patients receiving thoracic surgery that results in the placement of a tube thoracostomy (chest tube).
+
+ The rationale for this prophylaxis is that antibiotics directed at typical skin flora may reduce the rate of infectious complications, such as surgical site infection and empyema.
+
+ Currently, clinicians' approach to post-operative antibiotic prophylaxis in patients undergoing tube thoracostomy associated with thoracic and cardio-thoracic surgery varies widely.
+
+ While reducing the infectious complications of thoracic surgery is an important goal, it is also important to reduce the use of unnecessary antibiotics.
+
+ As there is equipoise on the benefit of extended antibiotic prophylaxis for tube thoracostomy, our study will examine two prevailing clinical practices and attempt to determine if one leads to better patient outcomes.
+
+.
+
+ Efficacy of Post-operative Antibiotic Prophylaxis for Thoracic Surgery Requiring Tube Thoracostomy@highlight
+
+The purpose of this study is to evaluate if post-operative antibiotic prophylaxis decreases infectious complications when compared to pre-operative antibiotics alone, in patients undergoing elective thoracic surgery requiring tube thoracostomy (chest tube).
+

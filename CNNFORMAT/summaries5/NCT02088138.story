@@ -1,0 +1,18 @@
+(firstQuint)Functional Electrical Stimulation in Cardiac Patients.
+
+ This randomized controlled trial aimed to evaluate the effects of functional electrical stimulation (FES) in patients with stage II and III cardiac rehabilitation (CR) on the variables strength, endurance and muscle tropism lower limb, functional capacity and quality of life.
+
+ To this were invited to participate in the study cardiac patients registered in the database of the cardiology department of the University Hospital of Santa Maria.
+
+ The sample included patients of both sexes undergoing coronary artery bypass grafting or valve replacement.
+
+ The subjects were divided into two groups: placebo group (PG) or functional electrical stimulation group (FESG).
+
+ To verify the effect of this intervention, before and after the protocol patients underwent the following evaluations: one repetition maximum test, sit-and-stand test, perimetry thighs, the six-minute walk test and evaluate the quality of life through The Medical questionnaire Study 36-item Short-Form Health Survey (SF-36).
+
+.
+
+ Functional Electrical Stimulation in Cardiac Patients@highlight
+
+The purpose of this study was to determine the effects of Functional Electrical Stimulation (FES) on physical performance and quality of life of patients in cardiac rehabilitation.
+

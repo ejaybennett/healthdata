@@ -1,0 +1,34 @@
+(thirdQuint)Zoledronate in Treating Osteopenia or Osteoporosis in Postmenopausal Women Receiving Letrozole for Stage I, Stage II, or Stage IIIA Primary Breast Cancer.
+
+ OBJECTIVES: Primary - Assess changes in total lumbar spine bone mineral density (BMD) from baseline to 12 months in postmenopausal women treated with zoledronate for osteopenia or osteoporosis and letrozole for hormone receptor-positive, stage I-IIIA primary breast cancer.
+
+ Secondary - Determine changes in total lumbar spine BMD from baseline to 2, 3, 4, and 5 years in these patients.
+
+ - Determine changes in femoral neck BMD from baseline to 1, 2, 3, 4, and 5 years in these patients.
+
+ - Determine time to disease progression in these patients.
+
+ OUTLINE: This is an open-label, multicenter study.
+
+ - Adjuvant aromatase inhibitor therapy: Patients receive oral letrozole daily for up to 5 years in the absence of disease progression or unacceptable toxicity.
+
+ - Osteoporosis management: Patients receive zoledronate IV over 15 minutes on day 1.
+
+ Patients also receive oral elemental calcium twice daily and oral vitamin D daily for 6 months.
+
+ Treatment repeats every 6 months for up to 5 years in the absence of disease progression or unacceptable toxicity.
+
+ Patients undergo total lumbar spine and hip (femoral neck) bone density testing by dual energy x-ray absorptiometry (DXA) at baseline and annually for 5 years.
+
+ After completion of study therapy, patients are followed at 4 weeks.
+
+ PROJECTED ACCRUAL: A total of 60 patients will be accrued for this study.
+
+.
+
+ Zoledronate in Treating Osteopenia or Osteoporosis in Postmenopausal Women Receiving Letrozole for Stage I, Stage II, or Stage IIIA Primary Breast Cancer@highlight
+
+RATIONALE: Zoledronate may reduce bone loss in patients receiving letrozole for breast cancer.
+
+ PURPOSE: This clinical trial is studying how well zoledronate works in treating osteopenia or osteoporosis in postmenopausal women receiving letrozole for stage I, stage II, or stage IIIA primary breast cancer.
+

@@ -1,0 +1,20 @@
+(secondQuint)Myrcludex B Plus Pegylated Interferon-alpha-2a in Patients With HBeAg Negative HBV/HDV Co-infection.
+
+ The study is designed to evaluate safety and efficacy of MXB in a subset of HBV infected patients who are co-infected with HDV.
+
+ Hepatitis delta represents the most severe form of chronic viral hepatitis and there is no approved treatment option available for patients infected with both HBV and HDV.
+
+ 24 patients will be randomised into 3 arms: pre-treatment with MXB followed by PEG-INF-a treatment versus a combination of both drugs versus PEG-INF-a.
+
+ Prolonged blockade of HBV entry into hepatocytes should also block infection with HDV particles (which uses hepatitis B surface antigen (HBsAg) as its envelope) and thus provide a therapeutic option for this otherwise hardly treatable disease.
+
+ PEG-INF-a is used for the treatment of chronic hepatitis delta.
+
+ The study endpoints are virological response (HBsAg, hepatitis delta virus ribonucleic acid (HDV RNA), hepatitis B virus deoxyribonucleic acid (HBV DNA)), as well as safety and tolerability and drug immunogenicity.
+
+.
+
+ Myrcludex B Plus Pegylated Interferon-alpha-2a in Patients With HBeAg Negative HBV/HDV Co-infection@highlight
+
+Randomized open-label substudy of daily Myrcludex B (MXB) plus pegylated interferon-alpha-2a (PEG-INF-a) in patients with hepatitis B e antigen (HBeAg) negative chronic hepatitis B virus (HBV) co-infected with hepatitis delta virus (HDV).
+

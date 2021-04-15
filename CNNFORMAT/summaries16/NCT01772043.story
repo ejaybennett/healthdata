@@ -1,0 +1,14 @@
+(thirdQuint)Duchenne Muscular Dystrophy Tissue Bank for Exon Skipping.
+
+ The purpose of this tissue bank is to collect blood and skin samples from participants who are diagnosed with Duchenne muscular dystrophy (DMD) and carry one of nine specific changes in the dystrophin gene.
+
+ The specific dystrophin changes that we are interested in studying are those that would work with exon-skipping therapies in patients with DMD, specifically deletions of the follow exons: 10-52, 13-50, 29-50, 43-52, 44, 43-50, 45-50, 45-52, 46, 46-47, 46-48, 46-49, 46-51, 46-53, 46-55, 46-60, 47-50, 47-52, 48-50, 49-50, 50, 52, 52-63, 48-52, 49-52, 50-52.
+
+ These blood and skin samples will be held in a tissue bank at Carolinas Medical Center for future DMD research.
+
+.
+
+ Duchenne Muscular Dystrophy Tissue Bank for Exon Skipping@highlight
+
+We will utilize the Cooperative International Neuromuscular Research Group (CINRG) network to collect and store tissue and blood from patients with Duchenne muscular dystrophy (DMD) with specific genetic mutations within the dystrophin gene that could be treated by antisense oligonucleotide (AO) drugs.
+

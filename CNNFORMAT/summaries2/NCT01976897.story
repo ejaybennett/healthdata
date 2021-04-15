@@ -1,0 +1,28 @@
+(secondQuint)Effect of the Physiological Angular Position of the Resting Knee on Pressure at the Heel/Surface Interface.
+
+ The secondary objectives of this study are: A.
+
+ To evaluate the relationship between the angle of flexion of the knee in DDPD and the average pressure throughout the heel area (Pmean).
+
+ B.
+
+ To evaluate the relationship between the angle of flexion of the knee in DDPD and the contact surface of the heel area (Stal) where the pressure is greater than 60 mm Hg.
+
+ C.
+
+ To evaluate the inter-operator concordance for the knee flexion angle measurement in DDPD via photos.
+
+ D.
+
+ To evaluate the inter-operator concordance for skin marks used to measure knee flexion angles in DDPD via photos (only one knee for 30 patients).
+
+ E.
+
+ To evaluate the inta-operator concordance (measures on 2 consecutive days) for skin marks used to measure knee flexion angles in DDPD via photos (for 30 patients).
+
+.
+
+ Effect of the Physiological Angular Position of the Resting Knee on Pressure at the Heel/Surface Interface@highlight
+
+The main objective of this study is to evaluate the relationship between the angle of knee flexion in a supine position with joint relaxation (DDPD) and the maximum interface pressure at the heel area (PtAl).
+

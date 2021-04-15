@@ -1,0 +1,18 @@
+(secondQuint)A Clinical Trial to Evaluate the Safety and Tolerability of Dexlansoprazole Injection in Healthy Chinese AdultsPart 2.
+
+ This is a single center, open-label, multiple-dose clinical trial.
+
+ 5 dosing groups were designed, including 15mg q12h,30mg q12h,15mg qd,30mg qd in dexlansoprazole treatment arm for 5 days, and 30 mg q12h in an active comparator, lansoprazole, treatment arm for 5 days.
+
+ The study will enroll approximately 70 participants with 14 cases in each group.
+
+ Participants will make 3 visits to the clinic including 8-day of confinement to the clinic.
+
+.
+
+ A Clinical Trial to Evaluate the Safety and Tolerability of Dexlansoprazole Injection in Healthy Chinese AdultsPart 2@highlight
+
+This is a single center, open-label, multiple-dose phase 1 clinical trial.
+
+ This study will determine the pharmacokinetics (PK), pharmacodynamics (PD), safety and side-effect profile of an investigational dexlansoprazole injection after multiple intravenous administration in healthy Chinese adults.
+

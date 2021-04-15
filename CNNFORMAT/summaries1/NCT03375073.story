@@ -1,0 +1,24 @@
+(secondQuint)Positive Communication and Clinical Performance in Anaesthetic Care.
+
+.
+
+ When caregivers deal with acute stressful adverse events, cognitive overload and negative emotions can impair cognitive abilities and decrease clinical performance.
+
+ The beneficial effect of positive communication on patients' emotions has widely been studied.
+
+ However, the emotional and cognitive impact of positive communication between caregivers remains uninvestigated.
+
+ The primary purpose of this trial is to study the impact of positive communication between anaesthetic teams during medical transmissions on clinical performance for managing a subsequent stressful unexpected adverse event.
+
+ Secondary outcomes are to study the impact of positive communication on physiological (heart rate variability) and psychological (psychometric scales) levels of stress.
+
+.
+
+ Positive Communication and Clinical Performance in Anaesthetic Care.
+
+@highlight
+
+The emotional and cognitive impact of positive communication between caregivers remains uninvestigated.
+
+ The investigators hypothesize that positive communication during medical transmission can increase clinical performance for managing a subsequent stressful unexpected adverse event.
+

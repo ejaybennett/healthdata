@@ -1,0 +1,41 @@
+(fifthQuint)DOX as a Potential Treatment for Methamphetamine Dependence.
+
+ Purpose: To determine the effects of treatment with doxazosin, compared to treatment with placebo, on methamphetamine-induced craving and subjective effects in methamphetamine-dependent human volunteers.
+
+ Secondary aims are to clarify the genetics of substance abuse, potentially leading to improved methods to diagnosis those at risk and to help develop better therapeutic interventions and to develop a new saliva-based test for the detection and measurement of drugs of abuse.
+
+ Design/Procedure: Twenty non-treatment-seeking methamphetamine-dependent volunteers will complete procedures during treatment with placebo and study medication, in random order, using a within-subjects, double-blind, placebo-controlled design.
+
+ There will be a two week period between each phase.
+
+ The dose of doxazosin needed to alter the effects of methamphetamine is unknown and preclinical animal studies have not been conducted.
+
+ Because of this, initially the investigators will study the effects of a low dose of doxazosin (4mg daily) compared to placebo daily.
+
+ Methamphetamine (0, 10, and 30mg, smoked) will be administered during treatment with 4mg doxazosin/placebo.
+
+ Methamphetamine will be administered in ascending dose (10mg followed by 20mg) with the 0mg dose randomly interspersed to maintain the blind.
+
+ Cardiovascular measures and subjective effects ratings will be assessed following methamphetamine administration.
+
+ Participants will be monitored for stability on days 11 and 12 and discharged from the hospital on day 13.
+
+ If 4mg doxazosin treatment is well tolerated but is not associated with alterations in the effects of methamphetamine, a second group of subjects will be studied using the same sample size.
+
+ Treatment will begin at 1mg and increased by 1mg increments every three days until 8mg is reached.
+
+ Placebo will be dosed identically.
+
+ All study procedures will be identical as described above.
+
+.
+
+ DOX as a Potential Treatment for Methamphetamine Dependence@highlight
+
+The purpose of the study is to asses the potential interactions between methamphetamine and doxazosin in methamphetamine-dependent volunteers who are not seeking treatment.
+
+ The study will evaluate the effects of doxazosin on the cardiovascular and subjective effects of methamphetamine in a human laboratory study.
+
+ The primary objective is to determine the safety of treatment with doxazosin in methamphetamine-dependent volunteers by examining hemodynamic and subjective effects of administration of ascending doses of methamphetamine and a placebo dose during treatment with doxazosin.
+
+ The secondary objective is to determine effects of treatment with doxazosin, as compared to placebo, on subjective effects produced by administration of methamphetamine or placebo

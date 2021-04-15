@@ -1,0 +1,26 @@
+(firstQuint)Histamine H2 Antagonism as Adjuvant Therapy in Treatment Resistant Schizophrenia.
+
+ Histamine functions as a neurotransmitter in the brain.
+
+ It has an important role as modulator of the release of other neurotransmitters, including dopamine.
+
+ The histamine receptors are widely expressed in the brain, H1 and H2 receptors are post-synaptic, H3 a pre-synaptic autoreceptor.
+
+ There is an abundance of neurobiologic data from animal and human studies supporting the role of histamine in the pathogenesis and treatment of psychoses.
+
+ In 1990 a case report of a treatment resistant subject with schizophrenia whos symptoms improved markedly when he was prescribed a H2 antagonist because of peptic ulcer.
+
+ Later, a open-label trial including 18 patients has been performed, reporting significant symptom reduction, especially on negative symptoms.
+
+ Also the subjective comments both by the subjects and the investigators in that study were optimistic and suggested an effect primarily on negative symptoms.
+
+ The present study will be the first double-blind, randomized, placebo controlled, parallel group study of the subject matter.
+
+ The study focuses on treatment resistant schizophrenia cases in the stable phase.
+
+.
+
+ Histamine H2 Antagonism as Adjuvant Therapy in Treatment Resistant Schizophrenia@highlight
+
+The purpose of the study is to investigate whether blockade of the histamine H2 receptors in the brain will have any beneficial effect on the symptoms of subjects with schizophrenia.
+

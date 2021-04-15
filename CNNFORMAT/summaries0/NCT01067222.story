@@ -1,0 +1,23 @@
+(firstQuint)Efficacy and Safety Study of BF2.
+
+649 in the Treatment of Excessive Daytime Sleepiness in Narcolepsy.
+
+ BF 2.
+
+649, a new experimental drug, significantly decreases, in patient with narcolepsy, the excessive daytime sleepiness (EDS) evaluated by Epworth Sleepiness Scale (ESS), according the results of two previous clinical studies.
+
+ The objective of this study is to determine the efficacy and safety of BF2.
+
+649 administered by escalating dose (10, 20 or 40 mg/d) in narcoleptic patients with excessive daytime sleepiness versus placebo and Modafinil as assessed by both of objective and subjective measures including ESS, MWT, patients sleep diary.
+
+ 60 patients with narcolepsy with or without cataplexy will be included.
+
+.
+
+ Efficacy and Safety Study of BF2.
+
+649 in the Treatment of Excessive Daytime Sleepiness in Narcolepsy@highlight
+
+The objective of this study is to evaluate the efficacy and safety of BF2.
+
+649 administered by individual titration in narcoleptic patients with excessive daytime sleepiness (EDS)

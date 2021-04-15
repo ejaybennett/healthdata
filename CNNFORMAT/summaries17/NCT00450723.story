@@ -1,0 +1,40 @@
+(thirdQuint)Thoracoscopic Sentinel Lymph Node Biopsy in Patients With Stage I or Stage II Breast Cancer.
+
+ OBJECTIVES: - Determine the occurrence rate of internal mammary sentinel lymph nodes in patients with medially or centrally located stage I or II breast cancer.
+
+ - Determine the safety, feasibility, and success rate of thorascopic internal mammary sentinel lymph node biopsy in these patients.
+
+ - Determine the rate of metastatic disease in internal mammary sentinel lymph nodes obtained thoracoscopically in these patients.
+
+ OUTLINE: Patients undergo standard axillary sentinel lymph node dissection during surgery (i.
+
+e.
+
+, lumpectomy or mastectomy).
+
+ Patients receive a radioactive tracer (i.
+
+e.
+
+, technetium Tc 99m sulfur colloid) and isosulfan blue by peritumoral injection for identification of the axillary and internal mammary sentinel lymph nodes (IMSLN).
+
+ Identified axillary sentinel lymph nodes are dissected.
+
+ Identified IMSLNs are removed through the lumpectomy/mastectomy incision, if accessible.
+
+ If they are not accessible, patients undergo thorascopic IMSLN biopsy to remove the nodes.
+
+ All removed sentinel lymph nodes (axillary or internal mammary) are examined for gross and microscopic carcinoma for future therapy planning.
+
+ PROJECTED ACCRUAL: A total of 50 patients will be accrued for this study.
+
+.
+
+ Thoracoscopic Sentinel Lymph Node Biopsy in Patients With Stage I or Stage II Breast Cancer@highlight
+
+RATIONALE: Diagnostic procedures, such as thoracoscopic sentinel lymph node biopsy, may help find breast cancer that has spread to lymph nodes between the breasts.
+
+ It may also help doctors plan the best treatment.
+
+ PURPOSE: This clinical trial is studying how well thoracoscopic sentinel lymph node biopsy finds sentinel lymph nodes that are located between the breasts in patients with stage I or stage II breast cancer.
+

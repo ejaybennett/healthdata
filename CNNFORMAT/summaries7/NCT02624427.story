@@ -1,0 +1,14 @@
+(firstQuint)Goldmann Applanation Tonometry, Dynamic Contour Tonometry, and Corvis ST Tonometer.
+
+ The aim of the study is to approach the "true" Intra ocular pressure (IOP) by correlating the difference between IOP by Goldmann Applanation Tonometry to the IOP by Dynamic Contour Tonometry to the biomechanical parameters of the cornea measured by Corvis ST.
+
+ Therefore the investigators gain new findings about the influence of the biomechanical corneal parameters on the IOP.
+
+ In order to do so the investigators want to examine 50 Glaucoma eyes and 50 non-Glaucoma Eyes with Goldmann Applanation Tonometry, Dynamic Contour Tonometry, and Corvis ST.
+
+.
+
+ Goldmann Applanation Tonometry, Dynamic Contour Tonometry, and Corvis ST Tonometer@highlight
+
+The study is investigating Intra ocular pressure (IOP) by Goldmann Applanation Tonometry, Dynamic Contour Tonometry, and the Corvis ST tonometer.
+

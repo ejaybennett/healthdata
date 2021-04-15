@@ -1,0 +1,20 @@
+(secondQuint)MR-guided High Intensity Focused Ultrasound (HIFU) on Pediatric Solid Tumors.
+
+ Magnetic Resonance (MR)-guided high intensity focused ultrasound (HIFU) is an innovative technique that allows for non-invasive thermal ablation of tissue.
+
+ Advantages over conventional local tumor control such as surgery, radiation, or radiofrequency are that MR-HIFU is completely non-invasive, non-ionizing, and enables ablation of large tumor volumes with avoidance of adjacent tissue injury.
+
+ This study will evaluate the safety and feasibility of MR-HIFU ablative therapy in children, adolescents, and young adults with refractory or relapsed solid tumors that are located in bone or soft tissue in close proximity to bone.
+
+ Patients 30 years of age with refractory or relapsed solid tumors with measurable target lesions that are located in bone or soft tissue in close proximity to bone are eligible.
+
+ Tolerability will be defined during the 14 days following MR-HIFU ablation.
+
+ Patients will continue to be followed for tumor response and secondary outcomes for up to one year post ablation treatment.
+
+.
+
+ MR-guided High Intensity Focused Ultrasound (HIFU) on Pediatric Solid Tumors@highlight
+
+The purpose of this study is to determine if Magnetic Resonance guided High Intensity Focused Ultrasound ablative therapy is safe and feasible for children, adolescents, and young adults with refractory or relapsed solid tumors.
+

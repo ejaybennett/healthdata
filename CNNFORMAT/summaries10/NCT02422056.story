@@ -1,0 +1,12 @@
+(firstQuint)Acid Tranexamic Effectiveness in Reducing the Intraoperative Bleeding in Palatoplasty.
+
+ Double-blind randomized study comparing intraoperative bleeding in palatoplasty between patients who received tranexamic acid at a dose of 10mg / kg bolus followed by continuous infusion of 1 mg / kg / h until the end of the procedure and patients receiving placebo in similar arrangements.
+
+ Besides the impact on the volume of intraoperative bleeding the incidence of postoperative wound dehiscence in the first week and the incidence of oronasal fistulas after 1 month were evaluated.
+
+.
+
+ Acid Tranexamic Effectiveness in Reducing the Intraoperative Bleeding in Palatoplasty@highlight
+
+Randomized study evaluating the role of tranexamic acid in reducing intraoperative bleeding in palatoplasty.
+

@@ -1,0 +1,32 @@
+(thirdQuint)Citrus Beverages and Gastrointestinal Function.
+
+ In this randomized, double-blind, controlled trial, healthy adults will be asked to consume daily servings of orange juice containing either 0 g (n=120; control) or 180 g (i.
+
+e.
+
+ 10 g fiber; n=120) of orange pomace for 3 weeks to assess the effect of the pomace on stool frequency.
+
+ Blood samples will be obtained to assess the effect of the pomace on metabolic markers.
+
+ Stool samples will be collected for analyses of the effect of the pomace on fecal bacteria known to be associated with health benefits (e.
+
+g.
+
+, bifidobacteria).
+
+ For exploratory analyses, additional groups will be asked to consume orange juice containing 90 g of pomace (i.
+
+e.
+
+ 5 g fiber; n=40) or orange-flavored, calorie-matched water (n=40); outcomes from the water group will be compared to those of the 0 g pomace juice group to assess any effects of the juice alone, and outcomes from the 90 g pomace group will be compared to those of the 180 g and 0 g groups in microbiota analyses.
+
+.
+
+ Citrus Beverages and Gastrointestinal Function@highlight
+
+The purpose of this study is to evaluate the effect of daily intake of orange pomace on gastrointestinal function as measured by stool frequency.
+
+ Additional outcomes will include aspects of digestive health, diet quality, and fasting blood glucose and lipid concentrations.
+
+ Possible explanations for the mechanism of the pomace will be explored in microbial ecology analyses.
+

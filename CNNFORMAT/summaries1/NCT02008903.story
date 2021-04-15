@@ -1,0 +1,43 @@
+(fifthQuint)Esophageal String Test in Eosinophilic Esophagitis.
+
+ Eosinophilic esophagitis (EoE) is an increasingly recognized rare disease of children and adults characterized by symptoms including nausea, vomiting, abdominal pain, dysphagia and food impaction that occur in conjunction with esophageal eosinophilia.
+
+ To date, the only method to make EoE diagnoses and follow treatment responses in EoE is invasive endoscopy with biopsy.
+
+ While endoscopy is generally safe, an accurate, less invasive, inexpensive, comprehensive and durable test is urgently needed to determine therapeutic efficacy.
+
+ To address this need, the investigators will use a novel application of an existing technology, the Enterotest cent (a string-based test used to detect intestinal Giardiasis), to measure esophageal inflammation (herein termed the Esophageal String Test - EST).
+
+ The investigators supportive Preliminary Data provide proof-of-principle for the ability of ESTs to capture esophageal inflammatory mediators in luminal samples from patients affected with EoE.
+
+ The investigators prospective study demonstrates that: (1) levels of eosinophil-derived granule proteins (MBP1, EDN, ECP, EPX, CLC/Gal-10) in esophageal mucosal biopsies correlate with levels quantitated in EST-captured samples, i.
+
+e.
+
+, levels in luminal secretions captured by the EST correlate with mucosal inflammation, and (2) these luminal biomarkers of eosinophilic inflammation significantly correlate with EoE disease activity.
+
+ These findings provide strong support for using ESTs as novel minimally invasive instruments to monitor therapeutic efficacy in EoE.
+
+ The global objective of this project is therefore to bring the "Esophageal String Test" (EST) to commercialization, so that it can be used to monitor therapeutic efficacy in children and adults with EoE.
+
+ The investigators hypothesize that ESTs will capture an EoE Biomarker Panel (EBP) reflective of disease activity.
+
+ The Specific Aims are to: (1) Identify an EoE Biomarker Panel (EBP) that will improve the sensitivity and specificity of the EST for monitoring disease activity and (2) Validate the ability of the EST EBP to monitor therapeutic efficacy in 1-hour sampling time.
+
+ The investigators supportive Preliminary Data demonstrate the feasibility of using ESTs in both children and adults with EoE to measure disease activity (esophageal inflammation) in an overnight (12-hour) test, and shorter time periods, currently performed before a scheduled endoscopy with biopsy.
+
+ In this project, The investigators propose to shorten this time frame to a 1-hour test, a clinically relevant time point that will markedly facilitate its use and potential impact in the outpatient clinic setting.
+
+ Public Health Relevance/Impacts: At least four major impacts should result from these studies: (1) Identification of an EBP will permit monitoring of esophageal inflammation in EoE; (2) the EBP will be relevant to following disease progression, treatment responses, management and pathogenesis of EoE, (3) validation of the EST EBP will enable development of rapid and inexpensive assays to follow treatment responses, thus reducing the number of follow-up endoscopies with biopsy that are currently performed, and (4) provide a device to monitor EoE disease activity where endoscopy with biopsy may not be available or affordable.
+
+.
+
+ Esophageal String Test in Eosinophilic Esophagitis@highlight
+
+The overall goal of this study is to develop a novel minimally invasive device, the Esophageal String Test (EST) to monitor esophageal inflammation during treatment of the rare disease Eosinophilic Esophagitis (EoE) in a safe and efficacious manner.
+
+ This study is broken down into 2 specific aims: Specific Aim 1: Identify the EoE Biomarker Panel (EBP) that will improve the sensitivity and specificity of the EST for documenting esophageal inflammation in a 1-hour time point.
+
+ Specific Aim 2: Validate the ability of the EST EBP to monitor therapeutic efficacy in a 1-hour sampling time.
+
+ Funding Source - FDA OOPD

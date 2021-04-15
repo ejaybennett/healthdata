@@ -1,0 +1,48 @@
+(fifthQuint)Clinical Burden of Anemia in Inflammatory Bowel Disease (RIDART1).
+
+ BACKGROUND Anemia is the most common extraintestinal manifestation of IBD, occurring in 6 to 74 percent of patients.
+
+ This wide range in the prevalence of anemia is related to differences in study design, in the criteria used to define anemia and to the increasing awareness of anemia in these patients.
+
+ According to a recent meta-analysis of European studies involving 2192 IBD patients, the overall prevalence of anemia in Europe was 27%, ulcerative colitis patients being less likely to develop anemia than those with Crohn's disease.
+
+ Therefore, anemia represents a significant clinical and social burden in IBD management; this is more evident in southern Europe where the prevalence of anemia is close to 40%.
+
+ Most cases of anemia in IBD are due to iron deficiency (IDA) and to anemia of inflammation (AI).
+
+ Guidelines concerning the diagnosis and treatment of IDA in IBD have been published by the European Crohn's and Colitis Organisation.
+
+ According to present guidelines iron supplementation should be started when IDA is present or even in the presence of iron deficiency without anemia.
+
+ A meta-analysis of iron supplementation studies in IBD-associated IDA found that intravenous iron is more effective and better tolerated than oral iron supplementation, but the sample size of the included studies was small; absolute indications for intravenous iron include severe anemia (haemoglobin mu g/L and transferrin saturation <20% are required for the diagnosis of isolated IDA and for the association of IDA and inflammation.
+
+ We plan to involve at least 60 IG-IBD Centers in this observational study.
+
+ We expect to include 2000 anemic patients in the study; approximately 80 to 90% of these patients will have some form of iron deficiency and/or AI.
+
+ This will allow to evaluate differences in prevalence of IDA and AI according to gender, age, diagnosis, time from diagnosis, presence of inflammation, activity, extension and behaviour of the disease, and to evaluate variables associated with type and severity of anemia in both univariate and multivariate analysis.
+
+ Expected duration of subject participation to both the observational and the therapeutic trials will be 24 weeks; all anemic patients recruited in the study will undergo screening to investigate the mechanism of anemia, and follow-up evaluation will be performed at weeks 4, 12 and 24.
+
+ At follow-up, informations about the treatment of anemia, fatigue and quality of life must be collected.
+
+ OBJECTIVES Primary endpoint of this observational study is to determine the prevalence of anemia in Italian patients with IBD.
+
+ Secondary objectives of the study are a) to investigate the pathogenesis of anemia in IBD, with a particular focus on the differential diagnosis between IDA and AI, and how disease activity, extension or behavior influence the relative frequency of IDA and AI; b) to verify the adherence to ECCO guidelines for the treatment of IDA in IBD (the proportion of patients with IDA that receive adequate iron supplementation); c) to administer dedicated questionnaires to the patients in order to measure the influence of anemia on fatigue and quality of life among IBD patients.
+
+.
+
+ Clinical Burden of Anemia in Inflammatory Bowel Disease (RIDART1)@highlight
+
+Anemia is the most common extraintestinal manifestation of IBD, occurring in 6 to 74 percent of patients.
+
+ Most cases of anemia in IBD are due to iron deficiency (IDA) and to anemia of inflammation (AI).
+
+ Although the ECCO diagnostic criteria for IDA are simple, and iron supplementation represents a cheap and usually effective treatment, many IBD patients with IDA are not properly treated.
+
+ The inconsistent adherence, by many physicians, to treatment guidelines for IDA in IBD is often motivated by the belief that mild to moderate degrees of anemia may not have a significant impact on the patient's quality of life or do not represent the main clinical problem of the patient, that oral iron supplementation may adversely affect disease activity, and that parenteral iron administration may cause severe side effects.
+
+ On this basis, we aim to perform a longitudinal, prospective, observational study whose main objective is the determination of the prevalence of anemia in IBD patients in Italy.
+
+ Secondary objectives of the study are a) to investigate the pathogenesis of anemia in IBD, with a particular focus on the differential diagnosis between IDA and AI, and how disease activity, extension or behavior influence the relative frequency of IDA and AI; b) to verify the adherence to ECCO guidelines for the treatment of IDA in IBD (the proportion of patients with IDA that receive adequate iron supplementation); c) to administer dedicated questionnaires to the patients in order to measure the influence of anemia on fatigue and quality of life among IBD patients.
+

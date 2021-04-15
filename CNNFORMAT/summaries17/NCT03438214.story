@@ -1,0 +1,16 @@
+(thirdQuint)Effect of Intermittent Infusion Versus Continuous Infusion of Vancomycin on Kidney Failure in Critically Ill Patients.
+
+ The vancomycin is a glycopeptide antimicrobial which has been used for 50 years against gram-positive microorganisms and remains effective against multiresistant bacteria as the methicillin resistant Staphylococcus aureus (MRSA), the main microorganism causing nosocomial infections.
+
+ Around the world, the continuous infusion of vancomycin has been studied and associated with less rate of nephrotoxicity.
+
+ This is a randomized, controlled multicenter clinical trial that will compare continuous infusion with the intermittent vancomycin infusion, the relationship between infusion type with rate of nephrotoxicity and the time to target therapeutic serum in critically ill patients at the intensive care units of the Cancer Institute of the State of Sao Paulo (ICESP) and the Heart Institute (Incor).
+
+.
+
+ Effect of Intermittent Infusion Versus Continuous Infusion of Vancomycin on Kidney Failure in Critically Ill Patients@highlight
+
+This is a randomized, controlled multicenter clinical trial.
+
+ The purpose of this study is to compare the continuous infusion of vancomycin with intermittent infusion regarding the effectiveness to reach the target serum level and the relationship between infusion type and nephrotoxicity in critically ill patients.
+

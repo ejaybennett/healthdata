@@ -1,0 +1,106 @@
+(fifthQuint)Development and Dissemination of Oral Health Risk Assessment and Referral Guidelines.
+
+ The project "Development and Dissemination of a Priority Oral Health Risk Assessment and Referral Tool - PORRT" is designed as an education and training intervention in medical and dental practices statewide.
+
+ Various evaluation activities, the purpose of the subcontract, will take place during the four years (see attached timeline).
+
+ The project will collect data statewide on use of guidelines and changes occurring in medical and dental practices in adopting the guidelines.
+
+ In addition through a RCT in 75 sites, we will measure the adoption rate of guideline use and the quality and effectiveness of referrals occurring as a result of guideline adoption.
+
+ This multi-phase project is the logical next step in our work with IMB medical practices throughout the state as it seeks to incorporate dental providers by increasing referrals for those children whose dental care cannot be managed in a medical home.
+
+ And it seeks to revise through a systematic review of the literature the risk assessment form used by all IMB practices.
+
+ The planning phase of the project will focus on the development and refinement of the risk assessment and referral tool (PORRT).
+
+ This will be accomplished through a systematic review of the literature to provide the scientific evidence for risk factors for ECC, and if sufficient information can be derived from the literature, we will develop a three-state (normal, non-cavitated and cavitated lesions) Markov-model to enable comparisons of ECC incidence rates among children with different risk factors.
+
+ A revised PORRT with supporting evidence and guidance on its use will then be pilot tested in five medical practices during year 1 of the project (sites to be selected once the tool is completed).
+
+ This pilot will be conducted by the OHS.
+
+ Results from the pilot will be incorporated into the development of a final tool and the accompanying documentation (the guidelines) and used in the implementation of the education intervention in the selected 75 RCT sites.
+
+ (The education intervention is the responsibility of the OHS.
+
+) Prior to the initiation of the RCT, a statewide baseline survey will be carried out during year 2 with all primary care medical providers who see at least 10 Medicaid patients under three years of age per month.
+
+ This self-completed, mail survey will assess oral health knowledge regarding infants and toddlers, and the likelihood of adoption of the PORRT instrument in the medical practices.
+
+ (The questionnaire is not yet developed but will be submitted at a later date for IRB approval along with its accompanying consent form.
+
+) Data entry and analysis will take place at UNC and will follow all normal procedures for maintaining confidentiality and protection of human subjects.
+
+ The randomized controlled trial will begin during year 2.
+
+ The education intervention and the dissemination of the PORRT tool and guidelines will occur only in the selected 75 RCT practices.
+
+ The RCT will compare passive distribution of guidelines by mail to an in-office intervention consisting of guideline distribution combined with educational outreach providing training in guideline use and patient mediated information provided by the risk and referral assessment tool (PORRT).
+
+ The three-arm trial will consist of 25 medical practices that have never participated in IMB and 25 practices that are currently participating, both of which will receive the guidelines through the mail, and 25 practices currently participating in IMB that will receive the more intense in-office training intervention.
+
+ We hypothesize that effect measures (guideline implementation, and referral quantity, quality and effectiveness) will be most favorable in those practices with the intense intervention, least favorable in those practices that have not participated in the IMB program and somewhat effective for those practices that are participating in IMB but only receive the passive dissemination of guidelines.
+
+ Six months following the initiation of the education intervention, site visits to all RCT practices will take place to collect copies of the completed PORRT forms and to conduct brief interviews with practice managers on the use and adoption of the tool.
+
+ The OHS will be responsible for these visits as they are the implementing agency in the grant.
+
+ Copies of the completed PORRTs will be sent to UNC for data entry and analysis.
+
+ Data from the forms will be entered by project staff in an ACCESS based data entry system, which will be password protected.
+
+ No personal identifiers will be entered.
+
+ All PORRT forms will be stored in locked filing cabinets.
+
+ PORRT data will be used to measure the quantity of referral activity among the RCT practices (percent of patients with PORRTs, number of referrals made, percent of forms with referrals, completeness of forms).
+
+ Beginning at three months following the start of the education intervention a dental record review of referred patients will take place in one geographic area (county) pertaining to the more intense intervention site of the RCT.
+
+ The OHS will be responsible for conducting these record reviews in the dental offices located in the geographic catchment area of the medical practices.
+
+ The objective of the records review is to collect information on referrals received from participating medical providers, and on the treatment provided in dental offices to these referred patients.
+
+ The evaluation of this data will look at the risk and disease status of patients referred for care.
+
+ The records review data will be analyzed by UNC.
+
+ The data will allow us to evaluate the quality of referral activity occurring as a result of the intense education intervention and PORRT distribution.
+
+ Referral effectiveness will be evaluated by looking at pre and post treatment Medicaid claims from this geographic area to ascertain the portion of patients with a dental visit.
+
+ The follow-up provider survey will be conducted statewide during year 3 of the project.
+
+ The results from this survey will allow us to look at use of guidelines and barriers to implementation, comparing RCT with non-RCT practices.
+
+ The final phase of the project will focus on data analysis and manuscript preparation.
+
+ The statewide implementation of the education intervention will be determined by the results of the RCT.
+
+.
+
+ Development and Dissemination of Oral Health Risk Assessment and Referral Guidelines@highlight
+
+Purpose: 1.
+
+ Revise the existing oral health risk assessment tool (known as the Encounter Form in the IRB-approved project DENT-1527) and develop accompanying guidelines for its use and distribution.
+
+ 2.
+
+ Evaluate the education intervention to accompany the distribution of the new risk assessment tool - the Priority Oral Health Risk Assessment and Referral Tool - PORRT and guidelines.
+
+ 3.
+
+ Evaluate the extent to which the education intervention affects physicians' screening and referral performance (use of guidelines, appropriateness and quality of referrals).
+
+ Participants: Primary care medical and dental providers in North Carolina.
+
+ Procedures (methods): UNC will engage in a systematic literature review of dental caries risk and a simulation analysis in order to finalize the design of the PORRT referral tool and its accompanying guidelines.
+
+ Medical providers will be surveyed statewide regarding their oral health screening practices with children under three years of age, and a randomized controlled trial will be implemented in 75 of these practices to evaluate guideline dissemination and effectiveness.
+
+ Referral behavior will be evaluated through an analysis of the completed PORRT forms and a record review in dental practices serving as referral sites.
+
+ Medicaid claims analysis will determine referral effectiveness for the RCT sites compared to the state as a whole.
+

@@ -1,0 +1,24 @@
+(fifthQuint)The Effect of Parental Presence on Dental Fear.
+
+ 150 children aged between five and seven years presenting for the first dental visit, whose parents consented to participate in the study were selected from patients reporting to the dental clinics Riyadh Colleges of Dentistry and Pharmacy using convenience sampling.
+
+ Only children who were classified as anxious but able to cope were included in the study (Rating 2 on the Venham's scale).
+
+ Pulse rate for each patient was measured at six different clinical situations.
+
+ 1) Baseline 2) Seating of the child at the chair, 3) Arrival of the dentist, 4) Administration of local anesthesia 5) During the procedure, 6) End of Appointment.
+
+ Based on the accompanying person the children were classified as children accompanied by mothers alone, children accompanied by fathers alone, children accompanied by both parents.
+
+ The behavior of the child at each situation was recorded using the modified Venham's scale at each interval.
+
+ The heart rate and oxygen saturation were recorded using pulse oxymetry.
+
+ The Effect of Parental Presence on Dental Fear@highlight
+
+150 children aged between five and seven years presenting for the first dental visit, whose parents consented to participate in the study were selected from patients reporting to the dental clinics Riyadh Colleges of Dentistry and Pharmacy using convenience sampling.
+
+ Pulse rate for each patient was measured at different clinical situation starting from patient parent separation until end of appointment using a pulse oximeter, Data which collected was statistically analyzed using appropriate statistical analyses using SPSS ver.
+
+19 data processing software.
+

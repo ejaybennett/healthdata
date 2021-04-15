@@ -1,0 +1,15 @@
+(firstQuint)Ketamine on Acute Pain in Females and Males.
+
+ Ketamine is assumed to be a NMDA receptor antagonist which provides analgesia from acute postoperative pain(and other types of pain) subanesthetic doses.
+
+ Gender differences in ketamine analgesia are not known.
+
+ This placebo-controlled,randomised, parallel group study investigates the analgesic dose-response effect of ketamine in subanesthetic doses in female and male patients following surgical removal of third molars.
+
+ Comparisons: Placebo and ketamine in females and males.
+
+.
+
+ Ketamine on Acute Pain in Females and Males@highlight
+
+The purpose of the study is to determine whether equal subanesthetic doses of racemic ketamine is equally effective on females and males after surgical removal of third molars

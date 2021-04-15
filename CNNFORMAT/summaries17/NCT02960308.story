@@ -1,0 +1,32 @@
+(thirdQuint)Whole-Neck Computed Tomography Perfusion Scan in Imaging Patients With Head and Neck Tumors.
+
+ PRIMARY OBJECTIVES: I.
+
+ To assess the difference in whole-neck computed tomography perfusion (WNCTP) parameters (blood volume [BV], blood flow [BF], capillary permeability [CP] and mean transit time [MTT]) between head and neck tumor masses (benign or malignant) and adjacent normal skeletal muscle within the same patient.
+
+ II.
+
+ To assess whether the difference in WNCTP parameters between tumor masses and adjacent normal skeletal muscle is different between patients with benign tumor versus (vs.
+
+) malignant tumor.
+
+ III.
+
+ To assess the correlation in WNCTP parameters between tumor masses and adjacent normal skeletal muscle.
+
+ IV.
+
+ Determine if more suspicious cervical lymph nodes will be seen using the whole-neck coverage employed in WNCTP compared to the limited coverage of traditional neck CTP.
+
+ OUTLINE: Patients undergo WNCTP scan over 2-3 minutes during standard of care computed tomography (CT).
+
+ After completion of study, patients are followed up within 2 days.
+
+.
+
+ Whole-Neck Computed Tomography Perfusion Scan in Imaging Patients With Head and Neck Tumors@highlight
+
+This pilot clinical trial studies how well whole-neck computed tomography perfusion scans work in imaging patients with head and neck tumors.
+
+ Diagnostic imaging procedures, such as whole-neck computed tomography perfusions scans, may provide more information about the blood supply to head and neck tumors which may help doctors plan better treatment.
+

@@ -1,0 +1,16 @@
+(secondQuint)Enhancing Physical Activity and Weight Reduction Through Smartcare and Financial Incentives.
+
+ To test the feasibility and potential impact of smartcare with or without financial incentives, the study employed a three-arm, open label randomized controlled trial design: control, smartcare, and smartcare plus financial incentives.
+
+ The investigators hypothesized that the 'smartcare + financial incentive' arm will show the greatest change in outcomes, followed by the 'smartcare' only arm, and lastly the control arm.
+
+ Specific aims of the study are as follows: - To quantify the effectiveness of a 'smartcare' intervention to promote physical activity and reduce weight over a 12 week period.
+
+ - To quantify the incremental effectiveness of adding financial incentives to 'smartcare' intervention.
+
+ Enhancing Physical Activity and Weight Reduction Through Smartcare and Financial Incentives@highlight
+
+The investigators are planning to conduct a pilot RCT of young obese population to evaluate the effect of smartcare with or without financial incentives for 12 weeks.
+
+ Participants will be randomly assigned to a three-arm of control, smartcare, and smartcare plus financial incentives group.
+

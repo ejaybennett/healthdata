@@ -1,0 +1,19 @@
+(firstQuint)Comparison Imaging System Between Spatially Modulated Quantitative Spectroscopy and Skin Spect Dermoscopy.
+
+ The researcher can compare the spectroscopic data from the two systems as well as the relative concentrations of melanin, oxy- and deoxy- hemoglobin calculated from the measurements.
+
+ Skin Spect can measure larger area of skin, whereas Spatially modulated quantitative spectrometer is a point-based measurement.
+
+Therefore, larger nevi will require multiple Spatially modulated quantitative spectrometer measurements for comparison with corresponding sub-regions of the larger Skin Spect measurements.
+
+ Only sub-regions of the image data from Skin Spect that match the locations Spatially modulated quantitative spectrometer acquired data will be used in this correlation study.
+
+ This researcher ensure that the spectral data collected by the two instruments are collected from the same spatial locations, should lesion heterogeneity be present.
+
+.
+
+ Comparison Imaging System Between Spatially Modulated Quantitative Spectroscopy and Skin Spect Dermoscopy@highlight
+
+The purpose of this study is to obtain skin spectroscopic data from two imaging systems.
+
+ Comparison groups: - Skin Spect dermoscope - Spatially modulated quantitative spectrometer

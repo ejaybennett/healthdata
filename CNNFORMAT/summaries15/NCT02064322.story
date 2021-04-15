@@ -1,0 +1,14 @@
+(firstQuint)SAIF: Sacroiliac Fusion Study.
+
+ This is a prospective, non-randomized, single center study to collect data on fusion and pain reduction following implantation of the SImmetry device.
+
+ Up to 15 total subjects will be implanted and followed for 24 months.
+
+ Data will be collected pre-operatively, at implant, discharge, and at specified follow-up time points (6 weeks, 3 months, 6 months, 12 months, 24 months.
+
+).
+
+ SAIF: Sacroiliac Fusion Study@highlight
+
+The purpose of the SAIF study is to evaluate the SImmetry Sacroiliac Joint Fusion System for fusion and pain reduction of the SI joint.
+

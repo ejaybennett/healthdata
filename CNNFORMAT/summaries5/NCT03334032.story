@@ -1,0 +1,23 @@
+(firstQuint)Incomplete Total Body Protein Recovery in Adolescent Patients With Anorexia Nervosa.
+
+ Background: Bone health and growth during adolescence require adequate Total Body Protein (TBPr).
+
+ Re-nutrition for patients with anorexia nervosa (AN) should aim to normalize body composition, i.
+
+e.
+
+ recovery of fat mass and TBPr.
+
+ Objective: The study intended to analyze predictors of protein status, including exercise status, in adolescents with AN, and to investigate whether weight gain would replete body protein deficits.
+
+ Methods: The investigators assessed TBPr in a longitudinal, observational study as height-adjusted nitrogen index (NI) using in-vivo neutron activation analysis in adolescents with AN at the commencement of refeeding (T0), as well as seven months thereafter (T1), and in age-matched normal weight controls.
+
+ Lean tissue and fat mass were assessed with Dual-Energy X-Ray Absorptiometry (DXA).
+
+ BMI, BMI-SDS and lean tissue mass were tested as predictors of protein status using Receiver Operating Characteristic (ROC) analysis.
+
+.
+
+ Incomplete Total Body Protein Recovery in Adolescent Patients With Anorexia Nervosa@highlight
+
+The study aimed to assess protein accretion during weight gain in adolescent patients with Anorexia nervosa

@@ -1,0 +1,20 @@
+(firstQuint)The Efficacy and Safety Study of High Dose Donepezil in Parkinson's Disease With Dementia.
+
+ This study is open-label, prospective, randomized paralleled study.
+
+ The investigators evaluate the efficacy of high-dose donepezil in patients with Parkinson's disease with dementia (PDD) who have taken standard donepezil (10mg) for 12 weeks.
+
+ The participants, who sign the informed consent, are assigned into two groups randomly (high-dose donepezil group and standard donepezil group).
+
+ All participants will be maintained the medication for 24 weeks and assessed cognitive function at 24 weeks.
+
+ They will visit to clinic for 3 times (4, 12, 24 weeks) to assess cognitive function and adverse event.
+
+ After the end of study, all participants were administrated by standard dose donepezil again.
+
+.
+
+ The Efficacy and Safety Study of High Dose Donepezil in Parkinson's Disease With Dementia@highlight
+
+The purpose of this study to evaluate the safety and efficacy of high-dose donepezil (23mg) in Parkinson's disease with dementia compared to standard dose donepezil.
+

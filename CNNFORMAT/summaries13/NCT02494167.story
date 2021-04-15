@@ -1,0 +1,96 @@
+(fifthQuint)Administration of Donor Multi TAA-Specific T Cells for AML or MDS (ADSPAM).
+
+ To make donor derived multiTAA-specific T cells, the investigators will collect blood from the patient's stem cell donor, and mix the donor's T cells with small pieces of tumor proteins WT1, PRAME, NY-ESO-1, and Survivin.
+
+ These protein fragments stimulate the donor T cells to grow and react against these proteins in such a way that they will recognize and kill cancer cells that express these proteins.
+
+ Once sufficient numbers of multiTAA-specific T cells have been made, the investigators test them to make sure they target the patient's cancer cells, but not their normal healthy cells.
+
+ The multiTAA-specific T cells will be administered as a single intravenous (IV) infusion over 10 minutes.
+
+ The patient's cancer will be assessed within 4 weeks prior to the T cell infusion, and then 4-6 weeks after the infusion.
+
+ If at least 4 weeks after the infusion there is no change or a reduction in the number of cancer cells measured in the bone marrow, or a decline in cancer-specific markers in the blood, patients may receive up to six (6) additional doses of T cells at least 4 weeks apart.
+
+ All of the treatments will be given by the Center for Cell and Gene Therapy at Houston Methodist Hospital or Texas Children's Hospital.
+
+ For at least 4 weeks after the infusion, patients may not receive any other anti-cancer treatments, such as radiation therapy, or chemotherapy.
+
+ Patients who do receive any other therapies will be taken off treatment and will not be able to receive additional doses of T cells.
+
+ However, drugs such as 5-azacytidine (Vidaza), decitabine (Dacogen), or lenalidomide (Revlimid) will be allowed during infusions.
+
+ This is a dose escalation study, which means that at the beginning, patients will be started on the lowest dose (1 of 3 different levels) of T cells.
+
+ Once that dose level proves safe, the next group of patients will be started at the next highest dose.
+
+ This process will continue until all 3 dose levels have been studied.
+
+ If side-effects are too severe, the dose will be lowered or the T cells injections will be stopped.
+
+ MEDICAL TESTS BEFORE TREATMENT: Before being treated, patients will undergo a series of standard medical tests: - Measurement of AML/MDS (done by bone marrow biopsy or tests on blood or other tissues) - Pregnancy test, if patient is a female who can have children.
+
+ MEDICAL TESTS DURING TREATMENT Patients will undergo standard medical tests on the day of infusion: - Physical exam.
+
+ - Blood test to measure blood cells, kidney and liver function.
+
+ MEDICAL TESTS AFTER TREATMENT: - Blood tests to measure blood cells, kidney and liver function on week 4.
+
+ - Measurement of AML/MDS 4-6 weeks after the T cells infusion and 8-12 weeks after the infusion (done by bone marrow biopsy and tests done on your blood or other tissues).
+
+ To learn more about the way the T cells are working in the patient's body, an extra 20-40 mL (4-8 teaspoons) of blood will be taken before the infusion, and at weeks 1, 2, 4 and 8.
+
+ Afterwards, blood will be collected at 3, 6, 9 and 12 months after the infusion.
+
+ Blood should come from the central intravenous line, and should not require extra needle sticks.
+
+ Investigators will use this blood to see how long the T cells last, and to look at the immune response to the patient's cancer.
+
+ Investigators will also look at this in bone marrow and other tissue samples collected from the patient at the time points stated above (pre-infusion, 4 - 6 weeks and 8 - 12 weeks post infusion).
+
+ Patients will be followed for up to one year from the date of the last T cell infusion, so that the investigators can learn more about the way the T cells are working, how long the T cells last in the body, and to assess the immune response to the cancer.
+
+ Patients who receive additional doses of T cells will undergo the same tests and evaluations performed for each dose as described above.
+
+ Patients will then be contacted once a year for up to 4 additional years (total of 5 years follow-up) to evaluate their disease response long-term.
+
+.
+
+ Administration of Donor Multi TAA-Specific T Cells for AML or MDS (ADSPAM)@highlight
+
+This research study uses special blood cells called multiple tumor-associated antigen (TAA)-specific T cells (a new experimental therapy) to treat patients with acute myeloid leukemia (AML) or myelodysplastic syndrome (MDS) which has come back, or may come back, or has not gone away after standard treatment, including an allogeneic hematopoietic stem cell transplant (HSCT).
+
+ The investigators have previously used this sort of therapy to treat Hodgkin or non-Hodgkin lymphomas that are infected with Epstein-Barr virus (EBV), the virus that causes infectious mononucleosis ("mono" or the "kissing disease"), Epstein Barr virus (EBV).
+
+ EBV is found in cancer cells of up to half of all patients with Hodgkin and non-Hodgkin lymphoma.
+
+ This suggests that it may play a role in causing lymphoma.
+
+ The cancer cells infected by EBV are able to hide from the body's immune system and escape being killed.
+
+ The investigators previously tested whether special white blood cells (called T cells) that were trained to kill EBV-infected cells could affect these tumors, and in many patients the investigators found that giving these trained T cells causes a complete or partial response.
+
+ In several lymphomas and other types of cancer like AML or MDS, the cancer cells do not have EBV.
+
+ The do however express other proteins that can be targeted in the same way.
+
+ The investigators have been able to infuse such tumor-targeted cells into up to 10 patients with lymphoma who do not have EBV, and seen some complete responses.
+
+ Importantly, the treatment appears to be safe.
+
+ Therefore, the investigators now want to test whether the investigators can direct these special T cells against other types of cancers that carry similar proteins called tumor-associated antigens (TAAs).
+
+ These proteins are specific to the cancer cell, so they either do not show up, or show up in low quantities, or normal human cells.
+
+ The investigators will grow T cells from patients' stem cell donors in the laboratory in a way that will train them to recognize the tumor proteins WT1, NY-ESO-1, PRAME, and Survivin, which are expressed on most AML and MDS cancer cells.
+
+ The cells will be infused at least 30 days post-allogeneic stem cell transplant.
+
+ In this study, the investigators want see whether these cells will be able to recognize and kill cancer cells that express these proteins.
+
+ These donor-derived multiTAA-specific T cells are an investigational product not yet approved by the U.
+
+S.
+
+ Food and Drug Administration The purpose of this study is to find the largest safe dose of donor-derived tumor protein multiTAA-specific T cells for patients with AML or MDS.
+

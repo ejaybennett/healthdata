@@ -1,0 +1,22 @@
+(thirdQuint)Safety, Efficacy and Tolerability Study of Paliperidone Extended-Release (ER) in Participants With Schizophrenia.
+
+ This is a single arm (one group of participants), multi-center, 6-month study to explore the tolerability, safety and efficacy of flexibly dosed paliperidone ER in participants with schizophrenia previously unsuccessfully treated with an oral antipsychotic medication.
+
+ Antipsychotic medications are drugs that are helpful in the treatment of psychosis and have a capacity to ameliorate thought disorders.
+
+ Unsuccessfully treated means that, despite the participant was treated with an adequate dose of an appropriate oral antipsychotic for an adequate period of time, previous treatment is considered unsuccessful due to lack of efficacy, lack of tolerability or safety, lack of compliance and/or other reasons.
+
+ Throughout the study the investigators will adjust the dosage of each participant based on the individual needs.
+
+ In general, the recommended paliperidone ER dose will be 6 milligram once daily.
+
+ Participants can be either in- or outpatients and they may take their study drug with or without food.
+
+ Participants who will complete this 6-month study and would like to continue will be eligible to be enrolled in an extension phase until paliperidone ER is available.
+
+.
+
+ Safety, Efficacy and Tolerability Study of Paliperidone Extended-Release (ER) in Participants With Schizophrenia@highlight
+
+The purpose of this study is to explore the efficacy of flexibly dosed paliperidone extended-release (ER) in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions and hallucinations, and withdrawal into the self) who were previously unsuccessfully treated with other oral antipsychotics.
+

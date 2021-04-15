@@ -1,0 +1,42 @@
+(fifthQuint)Integrating Data, Algorithms and Clinical Reasoning for Surgical Risk Assessment.
+
+ Postoperative complications significantly increase morbidity, mortality and cost after surgery.
+
+ In the current clinical practice the prediction of the risk for developing complications after surgery is manly based on physicians' clinical judgment.
+
+ The predictive accuracy of that judgment is limited and poorly studied.
+
+ The investigators will design an intelligent perioperative system (IPS) as the set of computer software and algorithms that in real-time predict risk for postoperative complications using routine clinical data in electronic health records.
+
+ The system is designed as the self-learning system with the ability to interact with physicians and solicit their feedback.
+
+ This study will compare the clinical judgment of physicians with computer generated risk scores for patients undergoing major surgery.
+
+ All surgeons and anesthesiologists at large single-center tertiary academic center will be recruited to participate in this study.
+
+ The IPS system will be implemented in real time and will generate risk scores for postoperative complications for patients planned to undergo surgery performed by the physicians enrolled in the study.
+
+ Physicians will be asked to provide their risk scores (using visual analog risk scale from 0-100) for the same patients before and after interacting with the IPS.
+
+ They will also have the opportunity to review computer-generated risk scores and provide their feedback.
+
+ The information will be collected during two six-month periods.
+
+ At the end of each 6-months period predicted risk estimates will be compared to the true occurrence of the complications.
+
+ Predictive performance of physicians' risk scores will be compared to IPS generated risk scores using the comparison between area under the receiver-operating curve (AUC), sensitivity, specificity and positive and negative predicted values.
+
+.
+
+ Integrating Data, Algorithms and Clinical Reasoning for Surgical Risk Assessment@highlight
+
+Brief Summary: The goal of this study is to implement and test an intelligent perioperative system (IPS) that in real-time predicts risk for postoperative complications using routine clinical data collected in electronic health records.
+
+ The accuracy of computer-generated risk scores will be compared to physician's risk scores for the same patients.
+
+ Physicians will be also asked to provide the opinion regarding the computer-generated risk scores using interactive interface with the program.
+
+ The information regarding the risk scores performance will be collected during the two 6-month periods.
+
+ The accuracy of IPS and physicians will be compared at the end at those two time periods.
+

@@ -1,0 +1,40 @@
+(fifthQuint)Patient Activation After DXA Result Notification.
+
+ Bone mineral density (BMD) peaks in early adulthood and declines progressively with aging.
+
+ As BMD declines from normal, to low (formerly called osteopenia), to osteoporosis, risk of fractures progressively increases.
+
+ In an effort to prevent bone loss and reduce fracture risk, most widely accepted guidelines including the U.
+
+S.
+
+ Preventive Services Task Force and Surgeon General's Office now recommend BMD screening of older adults using dual energy x-ray absorptiometry (DXA).
+
+ The rationale for screening is that patients and their providers will use DXA results as a "cue to action" and take necessary steps to enhance bone health through lifestyle modification (e.
+
+g.
+
+, weight bearing exercise), Calcium/Vitamin D supplementation, and pharmacotherapy when indicated.
+
+ However, multiple studies have demonstrated that patients and providers often fail take recommended actions following DXA testing, thus defeating much of the purpose of screening.
+
+ Over the past five years we have systematically developed and pilot tested a low-cost and practical patient activation intervention based upon the Health Belief Model.
+
+ The intervention consists of the DXA scanning center mailing each patient a customized letter containing the results of their DXA scan plus educational information about osteoporosis, supplemented by a follow-up phone call from a nurse educator.
+
+ Preliminary studies have demonstrated that the intervention is well received by both patients and providers and enhances bone-related quality of care.
+
+ The overarching objective of the current proposal is to rigorously examine the impact of our patient activation intervention on bone-related quality of care in adults undergoing screening DXA scans through a randomized-controlled trial conducted at three study sites.
+
+ In addition, we will examine the real-world costs associated with our intervention and the impact of our intervention on the overall cost-effectiveness of BMD screening.
+
+ We hypothesize that the activation intervention will increase optimization of Calcium/Vitamin D intake, enhance use of pharmacotherapy when indicated, will improve patient satisfaction with their bone-related healthcare, and improve patients' osteoporosis specific knowledge when compared with usual care.
+
+ Patient Activation After DXA Result Notification@highlight
+
+There is growing evidence that patients undergoing bone mineral density testing (BMD) often do not take important steps to improve their bone health.
+
+ The investigators will conduct a randomized-controlled trial to evaluate the impact of a novel and practical patient activation intervention (mailing patients their bone density test results) on the quality of bone-related healthcare and the cost-effectiveness of BMD testing.
+
+ Equally important, the investigators intervention could easily be modified to include other patient populations and chronic diseases.
+

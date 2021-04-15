@@ -1,0 +1,26 @@
+(fifthQuint)Neurotoxicity of Spinal Anesthesia With Ropivacaine and Bupivacaine.
+
+ With the approval from the Bioethical Committee of the University of Rzeszow, informed written consent will be obtained from all patients.
+
+ A sample size of 60 patients was calculated to obtain at least 25% reduction of glutamate concentration in the cerebrospinal fluid in the ropivacaine group with 0,05 significance and power of 0,8.
+
+ Consenting patients, scheduled for orthopaedic surgery under spinal anesthesia will be randomly (1:1) assigned using closed envelopes to receive intrathecally ropivacaine or bupivacaine as a single shot before the start of surgery, followed by bolus doses of the same local anesthetic as required during the surgery, and continuous infusion of the same local anesthetic for 24 h for postoperative pain relief.
+
+ All block will be performed in the sitting position, and the drug will be administered in supine position through the catheter in the intrathecal space.
+
+ Blood and cerebrospinal fluid samples will be drawn at predetermined time intervals centrifuged as required and frosen in -70deg C until analysis.
+
+ Eligibility Ages eligible for study 18 years and older (Adult, Senior) Sexes Eligible for the Study: All Accepts Healthy Volunteers: No Inclusion Criteria: Orthopedic procedures in the lower limbs Written informed consent Exclusion criteria Patients' refusal Known allergies to study medications Anatomic, posttraumatic and postoperative deformations of the spinal column making placement of intrathecal catheter impossible Neurological contraindications Any other contraindications for spinal anesthesia (coagulations disorders, antiplatelet or anticoagulant treatment, infection at the puncture site.
+
+ Inability to comprehend or participate in pain scoring scale.
+
+ Neurotoxicity of Spinal Anesthesia With Ropivacaine and Bupivacaine@highlight
+
+Consenting patients, scheduled for orthopaedic surgery under spinal anesthesia will be randomly assigned (1:1) to receive ropivacaine or bupivacaine as a single shot before the start of surgery, followed by bolus doses of the same local anesthetic as required during the surgery, and continuous infusion of the same local anesthetic for 24 hours postoperatively.
+
+ Primary Outcome Measures: Evaluation of changes in concentrations of glutamate in the cerebrospinal fluid and in the blood.
+
+ Secondary outcomes: : Evaluation of changes in concentrations of selected mediators of inflammatory response (IL-1, IL-6, TNF and others) and selected chemokines as markers of the glia damage.
+
+ Hemodynamic stability during the surgery, and efficacy of postoperative analgesia will be also evaluated.
+

@@ -1,0 +1,96 @@
+(fifthQuint)BRCA Main Home Nutritional Intervention-random Study.
+
+ The risk.
+
+ Women carrying harmful mutation in BRCA1 or BRCA2 gene are at higher risk to develop breast and/or ovarian cancer than the general population.
+
+ 12 percent of all U.
+
+S.
+
+ women are going to develop breast cancer sometime during their lives (Howlader N, Noone AM, Krapcho M, et al.
+
+ (eds).
+
+ SEER Cancer Statistics Review, 1975-2011, National Cancer Institute.
+
+ Bethesda, MD,), while this risk goes up to 65 percent for women who inherit a BRCA1 mutation and 45 percent for those who inherit a BRCA2 mutation by the age of 70 (PMID: 17416853).
+
+ Similarly, 1.
+
+4 percent of women in the general population who will develop ovarian cancer sometime during their lives whereas 39 percent of women who inherit a BRCA1 mutation and 11 to 17 percent of women who inherit a BRCA2 mutation will develop ovarian cancer by age 70 (PMID: 17416853).
+
+ The risk associated with these mutations is likely to be underestimated since few studies comparing the risk to develop cancer between general population and mutation carriers have been carried out so far.
+
+ It must be noted that family history of cancer, which specific BRCA1 or BRCA2 mutation has been inherited and reproductive history play a role in cancer risk.
+
+ Modifying the risk.
+
+ Epidemiologists have found a strong association between obesity and the risk of developing breast cancer in postmenopausal women (Ballard-Barbash R, Berrigan D, Potischman N, Dowling E.
+
+ Obesity and cancer epidemiology.
+
+ Springer-Verlag New York, LLC, 2010).
+
+ On the contrary moderate to high physical activity decreases breast cancer risk in both pre and postmenopausal women (Ballard-Barbash R, Hunsberger S, Alciati MH.
+
+ Journal of the National Cancer Institute 2009; 101(9):630-643.
+
+).
+
+ It is well known that obesity as well as sedentary lifestyle are two significant predictors of development of insulin resistance and Type 2 diabetes mellitus (T2DM) (PMID: 21602457).
+
+ The molecular mechanisms for these associations are still unknown, but chronic sustained hyperinsulinemia in these insulin-resistant patients appears to play a central role in the carcinogenesis process.
+
+ Several studies have also shown an increase in breast cancer risk among women who have increased testosterone levels, reduced levels of sex hormone-binding globulin (SHBG), and hence elevated levels of bioavailable androgens and estrogens not bound to SHBG (PMID: 21330633).
+
+ Collectively, these observations lead to the hypothesis that breast cancer risk may be increased in women with elevated plasma insulin levels.
+
+ Many studies have related relatively high plasma IGF-I and low IGF binding protein-3 (IGFBP-3) levels with increased risk of breast cancer in pre-menopausal women (PMID: 9593409), prostate cancer in men (PMID: 9438850), colorectal cancer in men and women (PMID: 10203281), and lung cancer in men and women (PMID: 10793110) as well as in angiogenesis, metastasis and in resistance to chemotherapy (PMID: 16931767; PMID: 23098677).
+
+ Targeting the IGF system is therefore a promising anticancer therapy and a new tool for oncologists (PMID: 16931767).
+
+ Inhibition of GH/IGF1 secretion or action decreases the incidence and the rate of progression of cancers in animal studies.
+
+ Dwarf mice deficient in growth hormone receptor have lower incidence and delayed occurrence of neoplastic lesions than their wild-type counterpart.
+
+ In addition, mice with nonfunctioning GHRH receptor and thus very low GH and IGF1 levels, show almost complete inhibition of growth of transplanted human breast cancer cells (PMID: 8603394).
+
+ Evidence from bio-gerontology research from our laboratories show that cycles of short-term fasting/starvation (STS) or low calorie diet can improve health span of laboratory animals, whose effect is partly mediated by reduced circulating insulin-like growth factor 1 (IGF-1) (PMID: 26094889).
+
+ The Ecuadorian growth hormone receptor deficient cohort, with very low circulating IGF-1 level, show low blood insulin level, higher insulin sensitivity and very low incidence of cancer (PMID: 21325617).
+
+ Our group has also demonstrated that protein consumption, especially animal proteins, increases IGF1 level and is associated with elevated cancer risk in a US cohort ranging from age 50 to 65 (PMID: 26094889).
+
+ Finally, evidence is accumulating pointing to Epigenetics as a potential mechanistic link between diet, energy metabolism, and gene expression modulation (PMID: 22152918; PMID: 22444501).
+
+ The epigenome, even though established at pre-natal level, undergoes several changes throughout the lifetime.
+
+ The epigenome records a variety of dietary, lifestyle, behavioral, and social cues, providing thus an interface between the environment and the genome.
+
+.
+
+ BRCA Main Home Nutritional Intervention-random Study@highlight
+
+Women carrying harmful mutation in BRCA1 or BRCA2 gene are at higher risk to develop breast and/or ovarian cancer than the general population.
+
+ Many observations lead to the hypothesis that breast cancer risk may be increased in women with elevated plasma insulin-like growth factor 1 (IGF-1) and insulin levels.
+
+ Targeting the IGF system is therefore a promising anticancer therapy and a new tool for oncologists.
+
+ Evidence from bio-gerontology research from our laboratories show that cycles of short-term fasting/starvation (STS) or low calorie diet can improve health span of laboratory animals, whose effect is partly mediated by reduced circulating IGF-1.
+
+ Investigators in our group have demonstrated that protein consumption, especially animal proteins, increases IGF-1 level and is associated with elevated cancer risk in a US cohort ranging from age 50 to 65 (PMID: 26094889).
+
+ It was also showed that alternating prolonged fasting and nutrient-rich medium extended yeast lifespan independently of the status of the established pro-longevity genes.
+
+ Prolonged Fasting (PF) has also been shown in preliminary studies to decrease the side effects of chemotherapy, an effect now being tested in multiple larger randomized clinical trials (PMID: 26590477).
+
+ The main hypothesis of this proposal is that a combination of protein restriction, fasting, fasting mimicking diet (FMD), and restriction of specific amino acids may be able to decrease cancer incidence in a cohort of people at high risk of developing tumors (BRCA1/2).
+
+ Our group plan to verify the safety, effectiveness and impact of a specially formulated longevity dietary regimen (low protein fish- and plant-based) and of FMD repeated cycles on the levels of endogenous hormones in a cohort of people at increased cancer risk.
+
+ Since the duration of the project will not give us the opportunity to directly measure cancer incidence in humans we will test: 1a) the variation of a number of widely recognized susceptibility biomarkers predictive of cancer incidence in a cohort human carriers of BRCA1/2 mutations in response to the dietary interventions; 1b) cancer incidence and progression in genetically engineered mice (K14Cre Brca1flox/flox Trp53+/flox and K14Cre Brca1+/flox Trp53-/- mice) predisposed to develop hereditary breast cancer in response to corresponding dietary interventions.
+
+ Investigators will also test epigenetic alterations associated with these interventions in: 2a) DNA samples from muscle biopsies of a subgroup of humans; 2b) breast epithelial tissue in mice.
+

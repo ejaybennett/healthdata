@@ -1,0 +1,70 @@
+(fifthQuint)Response Shift in Sinus Surgery Outcomes.
+
+ Introduction The most common goal of functional endoscopic sinus surgery (FESS) is to improve quality of life (QOL).
+
+ Changes in QOL or treatment effect can be measured using validated instruments completed by patients.
+
+ One's perception of QOL is often a dynamic experience and has been shown to be affected by current medical and emotional state.
+
+ This phenomenon is known as response shift in QOL research and can be measured by using the Then-test.
+
+ This test asks patients to complete the same pre-operative survey of their symptoms during the post-operative period.
+
+ This test aims to characterize any changes in one's perception of the pre-operative condition.
+
+ The aim of this study is to assess the significance of response shift on sinus surgery outcomes measured using the sino-nasal outcome test (SNOT-20), a validated questionnaire used to assess the severity of symptoms related to chronic rhinosinusitis.
+
+ Methods This was a prospective cohort study approved by the University of Washington IRB.
+
+ We approached all patients who underwent FESS for chronic rhinosinusitis from 2010-2012 who completed a pre-operative SNOT-20.
+
+ We aimed to recruit 30 patients.
+
+ Patients were mailed 2 SNOT-20 forms and a transition QOL scale at least 6 months after surgery.
+
+ Patients were instructed to complete 1 SNOT-20 according to their pre-operative symptoms (then-test) and the other according to their post-operative symptoms.
+
+ The difference between the pre- and post-operative SNOT-20 was calculated which represents the treatment effect, while the difference between the pre-operative SNOT-20 and then-test represents the response shift.
+
+ A student t-test was used to compare these differences.
+
+ Results A total of 32 complete responses were obtained.
+
+ Using a 0 to 5 SNOT-20 scale, the average treatment effect was -0.
+
+96 (p=0.
+
+00) and the average response shift was +0.
+
+42 (p=0.
+
+01).
+
+ The negative treatment effect signifies an improvement in QOL.
+
+ The positive response shift signifies that on average, patients thought they were even more symptomatic prior to surgery.
+
+ The actual treatment effect is the sum of treatment effect and response shift which was -1.
+
+38.
+
+ Discussion Response shift exists and can be quantified in FESS outcomes.
+
+ The actual treatment effect was more profound when taking into account response shift, therefore future studies should account for this often unmeasured, potential change in QOL.
+
+.
+
+ Response Shift in Sinus Surgery Outcomes@highlight
+
+The aims of the study are: 1)to assess pre and post-operative Quality of Life (QOL) as measured by the Sino-Nasal Outcomes Test(SNOT)-20 questionnaire and 2)determine the significance of response shift on treatment effect.
+
+ This is a prospective cohort study.
+
+ The investigators will recruit patients who are within a 6 month post-functional endoscopic sinus surgery (FESS) timeframe and completed a pre-operative SNOT-20.
+
+ The investigators will ask subjects to complete two more SNOT-20 forms and a Transition Quality of Life (QOL) scale.
+
+ The SNOT-20 forms will be labelled "pre" and "post" operative.
+
+ The "pre" should be completed based on subject's memory of their condition prior to surgery and "post" based on how they feel now.
+

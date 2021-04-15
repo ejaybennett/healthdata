@@ -1,0 +1,17 @@
+(thirdQuint)Consumer Access to Personal Health Information for Asthma Self-Management.
+
+ This study is a multi-centre, randomized controlled trial comparing a web-based (Smart phone mobile device, tablet and/or personal computer PC) asthma action plan application to best practice/usual care within an asthma program.
+
+ A third external comparator arm will compare participants to all patients with asthma in Ontario using data obtained from the Ontario Asthma Surveillance Information System (OASIS) cohort, created from administrative data sets within the Institute for Clinical Evaluative Sciences (ICES).
+
+ Subjects will be randomly assigned in blocks of four, stratified by site to, in a ratio of 1:1 intervention or control arms.
+
+ The study will enrol approximately 400 patients in total at all study sites.
+
+.
+
+ Consumer Access to Personal Health Information for Asthma Self-Management@highlight
+
+This study is to compare Smart phone mobile device and/or web based application asthma action plan to the standard of care paper based asthma action plan within an asthma program.
+
+ The Primary hypothesis: Health Outcome - The Breathe mobile health and web-based application improves asthma related quality of life more than conventional best practice

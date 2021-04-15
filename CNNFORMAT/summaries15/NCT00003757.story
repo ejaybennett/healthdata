@@ -1,0 +1,22 @@
+(thirdQuint)Rituximab in Treating Patients With Refractory or Recurrent Hairy Cell Leukemia Following Cladribine Therapy.
+
+ OBJECTIVES: - Determine the rate of complete and partial remission, remission duration, and relapse free survival after treatment with rituximab in patients with refractory or recurrent hairy cell leukemia who previously received cladribine.
+
+ - Determine the acute and long term toxicity of rituximab in these patients.
+
+ OUTLINE: This is an open-label, multicenter study.
+
+ Patients receive rituximab IV over several hours once a week for 4 weeks.
+
+ Patients are followed every 3 months for 3 years and every 6 months thereafter.
+
+ PROJECTED ACCRUAL: A total of 8-25 patients will be accrued for this study within 3 years.
+
+.
+
+ Rituximab in Treating Patients With Refractory or Recurrent Hairy Cell Leukemia Following Cladribine Therapy@highlight
+
+RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver tumor-killing substances to them without harming normal cells.
+
+ PURPOSE: Phase II trial to study the effectiveness of monoclonal antibody therapy consisting of rituximab in treating patients with refractory or recurrent hairy cell leukemia following cladribine therapy.
+

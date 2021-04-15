@@ -1,0 +1,18 @@
+(firstQuint)Effect of Hypocaloric Diet and Exercise in Obese Women Who Are Subjected to IVF Cycle.
+
+ The objective of this study is showing that obesity significantly affects the in vitro fertilization cycles lowering the reproductive capacity.
+
+ The study is been performed in Hospital de la Santa Creu i Sant Pau and Fundacio Puigvert of Barcelona.
+
+ Patients recluted are obese women with sterility problems that require in vitro fertilization (IVF) with a body mass index BMI between 30-35.
+
+ Its a randomised study in which half of the patients undergo to a 6 weeks program of diet and exercice.
+
+ We will analyse the response to ovaric stimulation, the results of the egg retrieval (ovocyte number and quality), rates of fecundation, embryo implantation and clinical gestation.
+
+.
+
+ Effect of Hypocaloric Diet and Exercise in Obese Women Who Are Subjected to IVF Cycle@highlight
+
+The purpose of this study is to determine the impact of diet and physical exercise program on pregnancy rate and live birth in obese women who undergo an IVF cycle.
+

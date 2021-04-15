@@ -1,0 +1,32 @@
+(secondQuint)Interleukin-2 Following Bone Marrow Transplantation in Treating Patients With Hematologic Cancer.
+
+ OBJECTIVES: I.
+
+ Determine the toxicity and maximum tolerated dose of interleukin-2 following allogeneic T-cell depleted bone marrow transplant in patients with hematologic malignancies at high risk of relapse.
+
+ II.
+
+ Determine the optimal dose of interleukin-2 in this regimen which will result in maximal natural killer cell and lymphokine activated killer cell activity in vitro.
+
+ OUTLINE: This is a dose escalation study.
+
+ Patients receive CD34+ stem cell augmented donor bone marrow on day 0 on another protocol.
+
+ Patients then receive interleukin-2 (IL-2) subcutaneously on day 30.
+
+ Treatment continues for 12 weeks in the absence of dose limiting toxicity.
+
+ Cohorts of 4 patients receive escalating doses of IL-2 until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose prior to that which causes at least grade 3 toxicity.
+
+ PROJECTED ACCRUAL: A total of 18-24 patients will be accrued for this study within 12-18 months.
+
+.
+
+ Interleukin-2 Following Bone Marrow Transplantation in Treating Patients With Hematologic Cancer@highlight
+
+RATIONALE: Interleukin-2 may stimulate a person's white blood cells to kill cancer cells.
+
+ PURPOSE: Phase I trial to study the effectiveness of interleukin-2 following bone marrow transplantation in treating patients who have hematologic cancer at risk of relapse.
+

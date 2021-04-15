@@ -1,0 +1,46 @@
+(fifthQuint)Evaluation of the Effect of a Speech Detection Tool on the Improvement of Phonation in Neuromuscular Patients Dependent on Mechanical Ventilation.
+
+ Nowadays, the first line treatment of chronic respiratory failure in neuromuscular disorder is non invasive ventilation (NIV).
+
+ However, while NIV can compensate the respiratory disability and significantly delays significantly the necessity for invasive ventilation with a tracheostomy (IVT), it is used for significant periods of time during daytime in patients with severe respiratory failure and can therefore interfere with patients' speech.
+
+ Moreover, if NIV becomes inefficient, IVT may be required to pursue ventilatory support to treat the respiratory failure; tracheostomy also interferes with phonation and specific adaptations are necessary to optimize phonation and speech quality.
+
+ Adaptation of ventilation parameters (mainly triggering sensitivity and use of positive expiratory pressure (PEP)) can significantly improve speech quality and therefore ventilated patients' communication.
+
+ These adapted parameters are not strictly necessary for ventilation outside of speaking periods.
+
+ It would be of interest to be able to use them exclusively during speech.
+
+ In neuromuscular patients, the major motor disability constitutes a challenge as most patients are unable to use themselves the controls of their ventilator (and to potentially switch to a speech adapted ventilation program).
+
+ We want to evaluate a device able to automatically detect speech and to transitorily switch from the patient's usual ventilation parameters to speech specific parameters set to optimize phonation quality.
+
+ Specific adaptations differs between NIV or IVT, therefore we will evaluation two groups of ventilation dependent patients divided according to their ventilation mode.
+
+ We believe that this device may improve the speech of NIV patients as well as IVT patients.
+
+ Patients would benefit from an appropriate ventilator support without any ventilation desynchronization during speech.
+
+ Speech would be more fluent and natural which would result in improved communication.
+
+ Objectives The main objective of this study is to demonstrate that phonation is improved by the use of a device allowing the transitory switch to specific speech parameters of ventilation in neuromuscular ventilator dependent patient whether during NIV or during IMT.
+
+.
+
+ Evaluation of the Effect of a Speech Detection Tool on the Improvement of Phonation in Neuromuscular Patients Dependent on Mechanical Ventilation@highlight
+
+Ventilation is a major treatment of respiratory failure due to neuromuscular disorders.
+
+ First line treatment is noninvasive ventilation (NIV) but in some situations, especially in case of NIV inefficiency, invasive ventilation with tracheostomy (IVT) may be required.
+
+ In both situations, patients may become dependent on ventilatory support with the disease evolution.
+
+ Ventilation then can interfere speech and the quality of communication of the patients.
+
+ Modification of the ventilation parameters may result in improved speech quality (for example, positive expiratory pressure (PEP) while not necessary for ventilation quality can dramatically improve speech in tracheostomized patients).
+
+ Therefore, it would be of interest to allow patients to benefit from these specific parameters when they need to speak without maintaining them when patients are not speaking.
+
+ We want to evaluate a specific ventilator feature which can detect speech and switch to specific ventilation parameters adapted for speech We believe that this feature will improve significantly speech quality in patients dependant either on NIV or IVT.
+

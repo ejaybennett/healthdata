@@ -1,0 +1,50 @@
+(thirdQuint)Nutrition Education for Low-Income Healthy Participants Who Eat an Unhealthy Diet.
+
+ OBJECTIVES: - Test culturally and linguistically appropriate English and Spanish language versions of a motivational and instructional video and low literacy written nutrition materials that focus on improving eating habits, particularly decreasing fat consumption and increasing fruit and vegetable intake in non-Hispanic and Hispanic low-income participants, to determine which intervention components are most effective in decreasing fat intake and increasing fruit and vegetable intake.
+
+ - Determine if participants who receive tailored nutrition information in several mailings (MT) decrease their fat consumption and increase their fruit and vegetable intake more than participants who receive such information in one mailing (ST).
+
+ - Determine if participants who receive tailored nutrition information in several sequential "interactively retailored" mailings (MTI) decrease their fat consumption and increase their fruit and vegetable intake more than MT participants.
+
+ - Compare dietary change achieved from the above tailored educational approaches with a comparison group that receives nontailored written nutritional materials (NT).
+
+ - Compare the differential costs of the above tailored educational approaches.
+
+ - Study the results of the randomized trial in terms of specific eating behaviors, stage of change, self-efficacy, decisional balance, and barriers to making dietary changes.
+
+ OUTLINE: This is a randomized, controlled study.
+
+ Participants complete a baseline interview.
+
+ A subset of participants completes a second interview at baseline.
+
+ Participants are then randomized to 1 of 4 education arms.
+
+ - Arm I (non-tailored written nutrition materials): Participants receive non-tailored written nutrition information in 1 installment.
+
+ - Arm II (tailored nutrition information): Participants receive tailored written nutrition information in 1 installment.
+
+ Participants also receive a motivational and instructional video.
+
+ - Arm III (tailored nutrition information in multiple mailings): Participants receive tailored written nutrition information in 4 smaller installments over 12 weeks.
+
+ Participants also receive a motivational and instructional video.
+
+ - Arm IV (multiple sequential "interactively tailored" mailings): Participants receive tailored written nutrition information and a motivational and instructional video as in arm III.
+
+ Participants may mail in follow-up assessments in order to retailor the information they receive in later installments.
+
+ After completion of study intervention, patients are followed at 4 and 7 months.
+
+ PROJECTED ACCRUAL: A total of 2,000 participants will be accrued for this study.
+
+.
+
+ Nutrition Education for Low-Income Healthy Participants Who Eat an Unhealthy Diet@highlight
+
+RATIONALE: Decreasing the amount of fat in the diet and increasing fruit and vegetable intake may help prevent some types of cancer.
+
+ Giving low-income participants easy-to-read written nutrition materials and an instructional and motivational videotape may help improve eating habits.
+
+ PURPOSE: This randomized clinical trial is studying how well nutrition education improves the eating habits of low-income healthy participants who eat an unhealthy diet.
+

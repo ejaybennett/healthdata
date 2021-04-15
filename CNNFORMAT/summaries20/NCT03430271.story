@@ -1,0 +1,24 @@
+(secondQuint)Enhancing Independence Using Group-based Community Interventions for Healthy AGing in Elders: the ENGAGE Pilot Study.
+
+ Older adults who lose their mobility experience a poorer quality of life, are less likely to remain independent in the community and have higher rates of chronic disease, falls and mortality.
+
+ Recent results from the Lifestyle Interventions and Independence for Elders (LIFE) study demonstrated that a structured program of physical activity (PA) reduced the onset of major mobility disability in at-risk older adults by up to 28% over a 2.
+
+6 year period.
+
+ Despite the public health significance of this study, to-date no study has attempted to translate LIFE PA to broader populations of at-risk older adults in community-based settings.
+
+ To address this knowledge gap, and to aid the design of a larger pragmatic trial of LIFE PA in community-based settings, the investigators conducted the ENhancing independence using Group-based community interventions for healthy AGing in Elders (ENGAGE) pilot study.
+
+ The investigators examined the safety and feasibility of translating LIFE PA into the existing infrastructure of a community-based senior center.
+
+ The investigators also explored the preliminary real-world effectiveness of PA on physical performance and several other important health related outcomes for older persons, including cognitive function, quality of life, depressive symptoms and frequency of falling.
+
+.
+
+ Enhancing Independence Using Group-based Community Interventions for Healthy AGing in Elders: the ENGAGE Pilot Study@highlight
+
+This study will be conducted to determine the safety and feasibility of translating a physical activity intervention (LIFE Study) into a community setting.
+
+ Study outcomes include physical performance, safety, and feasibility of conducting the LIFE PA intervention in a community setting.
+

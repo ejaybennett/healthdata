@@ -1,0 +1,12 @@
+(firstQuint)Hospital to Home Outcomes.
+
+ To identify barriers to successful transitions that are most meaningful to patients and families, and use these identified barriers to iteratively adapt an existing nurse home visit program to address these barriers.
+
+ This study will also test the efficacy of a nurse home visit intervention in improving post-discharge outcomes through a randomized controlled trial.
+
+.
+
+ Hospital to Home Outcomes@highlight
+
+Home Nurse Visit post discharge.
+

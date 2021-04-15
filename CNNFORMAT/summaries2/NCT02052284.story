@@ -1,0 +1,38 @@
+(fifthQuint)The Application of Sterile Water to the Skin of Extremely Low Birth Weight (ELBW) Infants.
+
+ Extremely low birth weight (ELBW) infants have significant transepidermal water loss immediately after birth.
+
+ This significant fluid loss is related to proportionally large extracellular pool of fluids, the immaturity of the skin barrier, and the relatively large surface area exposed to evaporation.
+
+ Water depletion in this population is associated with development of significant electrolyte imbalance in the form of hypernatremia, hyperkalemia, hyperglycemia and hyperosmolarity.
+
+ In order to compensate for these losses, clinicians have to progressively increase fluid intake.
+
+ Excessive fluid intake in the first days of life is associated with worsening patent ductus artriosus (PDA), necrotizing enterocolitis (NEC), bronchopulmonary dysplasia (BPD) and mortality.
+
+ Also skin integrity is important to protect against skin infection and secondary sepsis.
+
+ Based on recent studies and relevant data, the risk of sepsis in ELBW is up to 40% nationwide, but only about 25% at GWUH Water application is a benign treatment that is routinely applied to the skin of premature babies and was shown to decrease skin colonization.
+
+ The current practice at GWUH is to clean the bodies of premature infants using a piece of damp cloth with warm water.
+
+ This is performed at birth and consequently every other days.
+
+ The study group will receive more frequent and standardized applications.
+
+ The investigators hypothesize that application of sterile water in ELBW infants is associated with decreased fluid requirements in the first week of life.
+
+ As a secondary outcome, the investigators hypothesize that sterile water application is associated with improved skin integrity, decreased incidence of BPD with no increased incidence of skin or systemic infections.
+
+.
+
+ The Application of Sterile Water to the Skin of Extremely Low Birth Weight (ELBW) Infants@highlight
+
+Extremely low birth weight infants have significant water loss through their skin immediately after birth.
+
+ This significant fluid loss is because they have large amounts of fluids, have immature skin and large surface area.
+
+ Loss of fluids is associated with many complications.
+
+ The investigators hypothesize that application of sterile water to the skin of these infants is associated with decreased fluid requirements in the first week of life , improve skin integrity and decrease some complications of prematurity.
+

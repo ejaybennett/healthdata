@@ -1,0 +1,20 @@
+(secondQuint)A Parenting and Self-Care Intervention for HIV Infected Mothers.
+
+ Worldwide, close to half the adults living with HIV are women and a large proportion of these women are of child-bearing age.
+
+ Whereas anyone living with HIV faces the physical challenges of living with a chronic disease, as well as the material and social impact of the stigma associated with the disease, mothers living with HIV must also meet the demands of childrearing while mitigating the negative impact of the disease upon their family.
+
+ Mothers with HIV report that this is their greatest source of stress.
+
+ Moreover, children of these mothers, growing up with a parent with a chronic, stigmatized, and often fatal disease, are considered a high-risk group.
+
+ The IMAGE intervention was designed to improve parenting and self-care skills in mothers with HIV in order to improve the mother's physical and mental health as well as the child's mental health and behavioral adjustment.
+
+.
+
+ A Parenting and Self-Care Intervention for HIV Infected Mothers@highlight
+
+The IMAGE intervention was developed to improve parenting and self-care skills in mothers infected with HIV.
+
+ It is expected that an improvement in these areas will in turn improve the mother's physical and mental health as well as the child's mental health and behavioral adjustment.
+

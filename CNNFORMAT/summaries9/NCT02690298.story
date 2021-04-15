@@ -1,0 +1,33 @@
+(fifthQuint)Evaluation of ExSpiron Measurements Derived Without Patient Specific Calibration.
+
+ In order to evaluate the performance of the device under the range of conditions encountered in the clinical environment, the respiratory volume monitor (RVM) was tested throughout a range of respiratory rates and also during erratic breathing patterns.
+
+ At 4 and 36 breaths per minute (the extremes of the rates anticipated to be encountered in the clinical setting), and during erratic breathing, RVM and spirometry measurements were found to be highly-correlated (r=0.
+
+98 0.
+
+01 (mean 95%CI) at 4 breaths/min, 0.
+
+97 0.
+
+01 at 36, and 0.
+
+93 0.
+
+04 during erratic breathing).
+
+ These studies also included calibration of the ExSpiron to the spirometer.
+
+ The primary objective of the study is to compare the minute ventilation (MV), tidal volume (TV) and respiratory rate (RR) measurements collected and reported by the ExSpiron, without prior ExSpiron calibration, against acquired MV, TV, and RR measurements from an ExSpiron with prior individual specific calibration to a spirometer using either a Wright Spirometer or a Morgan Flow Volume Loop (FVL) Pneumotachograph Spirometer.
+
+ A secondary objective will be to confirm the PadSet functionality after 24 hours of wear in accordance with current labeling.
+
+.
+
+ Evaluation of ExSpiron Measurements Derived Without Patient Specific Calibration@highlight
+
+Previous studies have shown that the ExSpiron cent can provide non-invasive, real-time, accurate measurements of minute ventilation (MV), tidal volume (TV) and respiratory rate (RR) after calibration with a spirometer.
+
+ The purpose of this study is to compare the MV, TV and RR values measured by the ExSpiron cent without prior spirometer calibration to values obtained with a spirometer calibration.
+
+ In this study, the MV and TV values will be compared between the ExSpiron cent with and without prior patient-specific calibration of the ExSpiron cent to a spirometer

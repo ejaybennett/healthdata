@@ -1,0 +1,20 @@
+(firstQuint)Rosuvastatin Treatment for Intracranial Arterial Stenosis Based on Magnetic Resonance Angiography.
+
+ The purpose of this study is to investigate the effects of rosuvastatin treatment on degree of intracranial arterial stenosis in two years.
+
+ Dyslipidemia patients with intracranial arterial stenosis will be enrolled under informed consent in this study.
+
+ Rosuvastatin (5mg) will be orally administered once daily.
+
+ Dose of rosuvastatin will be adjusted to control serum LDL-c level under 1.
+
+8mmol/L.
+
+ Primary outcome is the progression of intracranial stenosis on magnetic resonance angiography (MRA) after two years.
+
+.
+
+ Rosuvastatin Treatment for Intracranial Arterial Stenosis Based on Magnetic Resonance Angiography@highlight
+
+The purpose of this study is to investigate the effects of rosuvastatin treatment on degree of intracranial arterial stenosis.
+

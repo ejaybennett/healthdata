@@ -1,0 +1,14 @@
+(secondQuint)Men's Prostate Awareness Church Training.
+
+ The specific aims of the project are to 1) develop, and 2) test the efficacy of a spiritually-based cancer communication intervention to increase IDM for prostate cancer screening among African American men in church settings, and including women as supportive "health partners".
+
+ A randomized controlled trial is utilized, in which churches will be randomized to: 1) male-only educational groups; and 2) co-educational groups where women supportive "health partners" are invited to attend with the men in dyads, and then break out into men's and women's discussion groups.
+
+ These two approaches are compared through use of cluster randomized design to determine whether the addition of the women health partner increases the intervention efficacy in the study outcome of informed decision making for prostate cancer screening.
+
+.
+
+ Men's Prostate Awareness Church Training@highlight
+
+The objective of the Prostate Cancer Education in African American Churches project is to develop and evaluate a spiritually-based educational intervention for Informed Decision Making (IDM) for prostate cancer screening to be delivered to African American men in church settings.
+

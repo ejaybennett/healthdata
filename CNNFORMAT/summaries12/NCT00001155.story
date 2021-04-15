@@ -1,0 +1,18 @@
+(thirdQuint)Treatment of Wegener's Granulomatosis With Cyclophosphamide.
+
+ The purpose of the protocol is to continue to treat patients with Wegener's granulomatosis who have already entered the study, and to treat new patients.
+
+ The investigators will attempt to correlate the clinical response with specific immunosuppressive effects of drug administration.
+
+ The investigators are accumulating data on the optimal duration and side effects of therapy.
+
+ Age Range: greater than 1 year.
+
+ Treatment of Wegener's Granulomatosis With Cyclophosphamide@highlight
+
+The purpose of this protocol is to continue to treat patients with Wegener's granulomatosis who have already entered the study, and to treat new patients.
+
+ The investigators will attempt to correlate the clinical response with specific immunosuppressive effects of drug administration.
+
+ The investigators are accumulating data on the optimal duration and side effects of therapy.
+

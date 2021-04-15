@@ -1,0 +1,16 @@
+(thirdQuint)Evaluation of Response to the Neoadjuvante Chemotherapy for Advanced Ovarian Cancer by Multimodal Functional Imaging.
+
+ This study evaluates the therapeutic response by modern FMRI and PET techniques with the perspective to exploit multimodal data (fusion MRI/PET).
+
+ The Sponsor would like to optimize the respective performances and to define the early assessment criteria, at the first detox, of the treatment efficacy, with and without antiangiogenic agent.
+
+ It is a single center evaluation of the study treatment.
+
+.
+
+ Evaluation of Response to the Neoadjuvante Chemotherapy for Advanced Ovarian Cancer by Multimodal Functional Imaging@highlight
+
+This study evaluates the therapeutic response by modern FMRI and PET techniques with the perspective to exploit multimodal data (fusion MRI/PET).
+
+ The Sponsor would like to optimize the respective performances and to define the early assessment criteria, at the first detox, of the treatment efficacy, with and without antiangiogenic agent.
+

@@ -1,0 +1,28 @@
+(secondQuint)The Head Injury-associated Photosensitivity and Pupillary Function (HIPP) Study.
+
+ The pupils inside the eyes constrict in response to light stimulation.
+
+ Different classes of cells within the human retina initiate this response.
+
+ Recent research suggests that one of the ganglion cell types involved in this pupil response also plays a role in the photophobia experienced by migraine sufferers.
+
+ The main aim of this study is to determine whether this type of ganglion cell becomes 'hypersensitive' after traumatic brain injury, thereby contributing to symptoms of increased photosensitivity experienced by many of these individuals.
+
+ In the first session of this study, subjects will be asked questions about their sensitivity to light and the reaction of their eyes' pupils to flashing red and blue lights will be measured.
+
+ The subjects will be given a full eye examination to rule out other causes of increased photosensitivity.
+
+ In some cases, subjects will be asked to attend a second session roughly two weeks later.
+
+ They will be asked to wear a watch that measures their daily activity/sleep rhythms and light exposure during this inter-session period.
+
+ During the second session, further testing of the pupil responses to blue and red flickering light will be performed.
+
+.
+
+ The Head Injury-associated Photosensitivity and Pupillary Function (HIPP) Study@highlight
+
+After a head injury, many people find that exposure to light causes them increased discomfort.
+
+ By measuring how the pupil in the eye constricts to flashes of red and blue light, this study will investigate whether this phenomenon is due to a change in the eye's sensitivity to light.
+

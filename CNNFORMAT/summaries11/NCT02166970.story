@@ -1,0 +1,26 @@
+(fifthQuint)Single Versus Multiple Deployment of Metallic Stents for Inoperable Malignant Hilar Biliary Obstruction.
+
+ In Bismuth II-IV hilar cholangiocarcinoma patients with a predicted survival of longer than 3 months, metallic stent performance is superior to plastic stenting for palliation with respect to outcomes and cost-effectiveness.
+
+ However, the optimal stent type and the extent of drainage are issues that remain to be definitively decided.
+
+ The optimal endoscopic management strategy is contentious.
+
+ The investigators conduct the present study to prospectively in multi-centers compare unilateral (single) with bilateral (multiple) deployment in inoperable malignant biliary obstructions to clarify the clinical outcomes of these two deployment methods using metallic stents.
+
+ First as an unilateral or bilateral stent will be deployed according to criteria.
+
+ In bilateral group, stent-in-stent or side-by-side deployment will be included.
+
+.
+
+ Single Versus Multiple Deployment of Metallic Stents for Inoperable Malignant Hilar Biliary Obstruction@highlight
+
+In Bismuth II-IV hilar cholangiocarcinoma patients with a predicted survival of longer than 3 months, metallic stent performance is superior to plastic stenting for palliation with respect to outcomes and cost-effectiveness.
+
+ However, the optimal stent type and the extent of drainage are issues that remain to be definitively decided.
+
+ The optimal endoscopic management strategy is contentious.
+
+ The investigators conduct the present study to prospectively in multi-centers compare unilateral (single) with bilateral (multiple) deployment in inoperable malignant biliary obstructions to clarify the clinical outcomes of these two deployment methods using metallic stents.
+

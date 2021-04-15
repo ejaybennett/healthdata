@@ -1,0 +1,28 @@
+(secondQuint)Diet and Hereditary Haemorrhagic Telangiectasia.
+
+ Hereditary Haemorrhagic Telangiectasia (HHT) affects 1 in 5,000 people, usually causing nosebleeds, skin blood spots, and/or anaemia as a result of bleeding from the nose or gut.
+
+ The majority of people with HHT also have abnormal blood vessels (arteriovenous malformations) in internal organs such as the lungs, liver and brain.
+
+ Management of this multisystem disorder is highly challenging.
+
+ The Lead Applicant has spent 20 years working on this rare disease, and identified multiple areas where more evidence is required to assist clinicians and patients with this lifelong condition.
+
+ A particular issue is whether the diet influences HHT or its complications in any way.
+
+ In this study, people will fill in two questionnaires, one giving details of their diet, and another details of their nosebleeds.
+
+ They will also be asked to consider participating in an accessory study arm which includes weighing food for one week and providing a food diary, in addition to having a single set of blood test.
+
+.
+
+ Diet and Hereditary Haemorrhagic Telangiectasia@highlight
+
+Hereditary Haemorrhagic Telangiectasia (HHT) affects 1 in 5,000 people.
+
+ The purpose of this study is to provide data regarding the diet and nosebleed frequency using a questionnaire.
+
+ This will be filled in by people with HHT.
+
+ The questionnaire has been designed in paper format.
+

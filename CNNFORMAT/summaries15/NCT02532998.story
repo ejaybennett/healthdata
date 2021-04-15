@@ -1,0 +1,15 @@
+(firstQuint)A Study to Assess the Pharmacodynamic Effect of Single Doses of AZD9977 in Healthy Male Subjects.
+
+ This study will be a phase I study to assess the pharmacodynamics of AZD9977 following single-dose administration to healthy male subjects.
+
+ It is a single-blind (with regards to AZD9977 and AZD9977 Placebo), randomized, four-treatment, four-period crossover design, with a potential 5th and 6th randomized cross-over treatment period.
+
+ In this study eplerenone is used as a positive control and fludrocortisone will be used as a challenge agent.
+
+ In addition the safety, tolerability and pharmacokinetics will be assessed.
+
+.
+
+ A Study to Assess the Pharmacodynamic Effect of Single Doses of AZD9977 in Healthy Male Subjects@highlight
+
+This is a Phase I, Randomized, Single-Blind, Crossover Study to Assess the Pharmacodynamics of AZD9977 following Single-Dose administration to healthy male subjects

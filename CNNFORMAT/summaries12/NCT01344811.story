@@ -1,0 +1,22 @@
+(firstQuint)Effects of Telemonitoring Service for Obesity Care.
+
+ 1.
+
+ Objectives : To evaluate superiority of U(Ubiquitous)-Healthcare(hereinafter referred to as Smart Care) Service being combined conventional treatment with health care service, in comparison to conventional treatment in obese patients with metabolic syndrome.
+
+ 2.
+
+ Test and control group - Test groups : The subject group who is receiving health care services using conventional treatment (hospital visit) and Smart Care Service (Telemonitoring).
+
+ - Control group : The subject group who is receiving conventional treatment (hospital visit).
+
+ 3.
+
+ Target Subject: Obese patients with metabolic syndrome.
+
+.
+
+ Effects of Telemonitoring Service for Obesity Care@highlight
+
+A randomized, open, parallel, multi-center trial to evaluate weight loss efficacy of Smart Care Service in obese patients with metabolic syndrome.
+

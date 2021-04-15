@@ -1,0 +1,16 @@
+(secondQuint)Evaluate Educational Interventions for Increasing Fertility Knowledge and Awareness.
+
+ Fertility knowledge and awareness is considered insufficient in women of reproductive age from developed countries.
+
+ The objective of this study is to evaluate if educational interventions in oocyte donors increase on their level of fertility knowledge and awareness through a RCT.
+
+ The investigators will evaluate the effect of the interventions through a questionnaire filled in at first visit (pre-test) and at the end of the treatment (post-test); the investigators will compare the increase in the total score between groups.
+
+.
+
+ Evaluate Educational Interventions for Increasing Fertility Knowledge and Awareness@highlight
+
+Fertility knowledge and awareness is considered insufficient in women of reproductive age from developed countries.
+
+ The objective of this study is to evaluate if educational interventions in oocyte donors increase on their level of fertility knowledge and awareness.
+

@@ -1,0 +1,14 @@
+(thirdQuint)Effects of Electrical Muscle Stimulation on Waist Circumference in Adults.
+
+ Background: This randomized, placebo-controlled, double-blind, controlled study was designed to investigate the efficacy of electrical muscle simulation (EMS) for treatment of waist circumference (WC) reduction in abdominal obese adults.
+
+ Methods: 60 patients with abdominal obese, man with WC > 90 cm and woman with WC > 80 cm, received EMS as experimental group (EG) or transcutaneous electrical nerve stimulation (TENS) as control group (CG) 5 times a week for 12 weeks.
+
+.
+
+ Effects of Electrical Muscle Stimulation on Waist Circumference in Adults@highlight
+
+This randomized, placebo-controlled, double-blind, controlled study was designed to investigate the efficacy of electrical muscle simulation (EMS) for treatment of waist circumference (WC) reduction in abdominal obese adults.
+
+ 60 patients with abdominal obese, man with WC > 90 cm and woman with WC > 80 cm, received EMS as experimental group (EG) or transcutaneous electrical nerve stimulation (TENS) as control group (CG) 5 times a week for 12 weeks.
+

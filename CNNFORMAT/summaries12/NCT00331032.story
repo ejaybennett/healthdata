@@ -1,0 +1,54 @@
+(fifthQuint)VivaGel in Healthy Young Women.
+
+ Over half of global human immunodeficiency virus (HIV) infections occur among those aged 18-24 years and young women are at a particularly high risk of acquiring genital herpes caused by herpes simplex virus type 2 (HSV-2) and other sexually transmitted infections (STI).
+
+ This is a phase I, randomized, double blind, clinical trial of twice-daily vaginal VivaGel cent (n equals 40) versus placebo gel (n equals 20).
+
+ The primary aim of this protocol is to test the safety and tolerability of VivaGel cent in young women, with the long-term aim of testing the efficacy of this compound in preventing HSV-2 in a future phase II/III trial.
+
+ A total of 60 young women aged 18-24, non-pregnant, previously sexually active, STI and HIV free, in San Francisco and in Kisumu, Kenya will participate in this study.
+
+ Eligibility screening will include medical history, pelvic exam with a Pap smear, urine pregnancy testing, HIV and STI counseling and testing, hematology testing and liver and renal function testing.
+
+ Eligible participants will undergo a pelvic exam with colposcopy.
+
+ Vaginal swabs will be collected to evaluate H2O2-producing lactobacilli and Gram stain, Chlamydia, gonorrhea, and prostate specific antigen (PSA) (to confirm lack of exposure to semen).
+
+ Endocervical samples will be collected to measure immunological status.
+
+ Blood will be collected to conduct hematology and liver and renal function testing, and plasma will be collected and stored for batch testing.
+
+ Subjects will be provided with the investigational product or placebo, given a Daily Study Record, instructed how to use the product, complete the Daily Study Record, and report any adverse events (AEs).
+
+ Follow-up visits will occur on Days 2, 7, 14, and 21.
+
+ The primary study objective will be to determine the safety and tolerability of VivaGel cent applied vaginally twice daily for 14 days in HIV negative and STI-free young women.
+
+ Safety assessments, comparing the VivaGel cent group to the placebo gel group, will include: incidence and severity of AEs, including genital tract signs and symptoms and mucosal changes as observed by colposcopy; vaginal microflora, including colonization with H2O2-producing lactobacilli; and laboratory parameters, including serum chemistry and hematology.
+
+ The tolerability assessment, comparing the VivaGel cent group to the placebo gel group will include the proportion of participants who discontinued product use due to overt (i.
+
+e.
+
+ observable) AEs, ascertained through a standardized questionnaire.
+
+ The secondary objective of the study will be to report the effect of VivaGel cent applied vaginally twice daily for 14 days on the immune microenvironment in the lower genital tract of young women.
+
+ Specifically, this will be tested by determining its effect on: the number and activation levels of endocervical immune cell populations; Secretory Leukocyte Protease Inhibitor (SLPI) levels; innate mucosal defenses, including local levels of cytokines in cervical secretions, and Toll-Like Receptor (TLR) expression by cervical immune cells; and the presence and expression levels of the HIV co-receptors CCR5 and CXCR4, and of their principal chemokine ligands by endocervical immune cells.
+
+.
+
+ VivaGel in Healthy Young Women@highlight
+
+The purpose of this study is to test the safety and tolerability of a medication applied vaginally twice daily in females versus placebo (inactive substance).
+
+ Study participants will include 60 women, ages 18-24, non-pregnant, previously sexually active, Human Immunodeficiency Virus (HIV) negative and sexually transmitted infection (STI) free, in San Francisco or Kisuma, Kenya.
+
+ Each study participant will be followed for 14 days of product use and an additional 7 days for safety assessments.
+
+ Study procedures will include a physical exam with a pap smear, urine testing, blood sample testing, and a colposcopy (exam of the vagina and cervix using a lighted magnifying instrument).
+
+ Information learned from this study may help to develop a safe and effective medication that could prevent herpes simplex virus and HIV.
+
+ Participants may be involved in study related procedures for up to 55 days.
+

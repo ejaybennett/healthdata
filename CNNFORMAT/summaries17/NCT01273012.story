@@ -1,0 +1,12 @@
+(firstQuint)Cost-effectiveness of Infloran (TM) in Treating Acute Childhood Diarrhea in Phramongkutklao Hospital.
+
+ Probiotics have been proved to shorten duration of diarrhea in children; whether they are cost-effective is less clear.
+
+ We'd like to validate the use of Infloran, a proprietary probiotic sold in Thailand, in terms of its cost-effectiveness compared to standard diarrhea care in our hospital setting.
+
+.
+
+ Cost-effectiveness of Infloran (TM) in Treating Acute Childhood Diarrhea in Phramongkutklao Hospital@highlight
+
+The purpose of this study is to determine whether the probiotic Infloran is cost-effective in treating acute childhood diarrhea.
+

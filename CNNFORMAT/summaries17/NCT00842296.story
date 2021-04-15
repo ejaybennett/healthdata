@@ -1,0 +1,12 @@
+(secondQuint)ClosureFAST - Radiofrequency Great Saphenous Vein Treatment.
+
+ The purpose of this study is to confirm that the ClosureFAST system can be used as an alternative to the current ClosurePlus catheter for treating the GSV and to accumulate pivotal data for optimization of the operating parameters.
+
+ The results from this study will be used to further evaluate the risks and benefits of the ClosureFAST device and to obtain clinical evidence that the treatment provides effective and durable clinical outcomes.
+
+.
+
+ ClosureFAST - Radiofrequency Great Saphenous Vein Treatment@highlight
+
+The purpose of this study is to confirm that the ClosureFAST system can be used as an alternative to the current ClosurePlus catheter for treating the GSV and to accumulate pivotal data for optimization of the operating parameters.
+

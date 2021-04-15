@@ -1,0 +1,16 @@
+(firstQuint)Role of Metabolites in Nicotine Dependence (2) - 5.
+
+ Previous studies have shown that cotinine, a metabolite of nicotine, antagonizes some of the effects of nicotine.
+
+ One study showed that nicotine eliminates some of the beneficial effects of the nicotine patch in reducing withdrawal symptoms.
+
+ The purpose of this study was to examine the effects of cotinine.
+
+ The results generally showed no effects on self-administration of cigarettes, although higher serum nicotine levels were observed on the highest doses of cotinine compared to placebo or lower doses of cotinine.
+
+.
+
+ Role of Metabolites in Nicotine Dependence (2) - 5@highlight
+
+The purpose of this study is to determine the effects of varying doses of cotinine on cigarette self-administration.
+

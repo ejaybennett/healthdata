@@ -1,0 +1,12 @@
+(secondQuint)Fusariosis in Solid-Organ Transplant Recipients.
+
+ This exempt chart review study will try to determine the clinical presentation, prognostic factors, response to different treatment modalities and mortality among patients diagnosed with fusariosis after solid-organ transplantation.
+
+This will help determine prognostic factors, response to different treatment modalities and mortality among patients diagnosed with fusariosis after solid-organ transplantation.
+
+.
+
+ Fusariosis in Solid-Organ Transplant Recipients@highlight
+
+This exempt chart review study will try to determine the clinical presentation, prognostic factors, response to different treatment modalities and mortality among patients diagnosed with fusariosis after solid-organ transplantation.
+

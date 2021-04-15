@@ -1,0 +1,14 @@
+(firstQuint)Phase 3 Study of Hydrocodone Bitartrate Controlled-release Capsules in Subjects With Chronic Low Back Pain.
+
+ A randomized Phase 3, placebo-controlled multi-center study to evaluate the safety, efficacy and tolerability of Hydrocodone Bitartrate controlled-release capsules in subjects with chronic low back pain.
+
+ Subjects will go through an open-label conversion and titration phase followed by a randomized double-blind treatment phase of Hydrocodone (HC)-Controlled-Release (CR) vs.
+
+ Placebo.
+
+ The trial will consist of a Screening Phase (up to 14 days), an open-label Conversion and Titration Phase (up to 6 weeks), a 12-week placebo-controlled Treatment Phase, and a 2-week Follow-Up Phone Call.
+
+ Phase 3 Study of Hydrocodone Bitartrate Controlled-release Capsules in Subjects With Chronic Low Back Pain@highlight
+
+The purpose of the study is to evaluate the safety and efficacy of Hydrocodone Bitartrate controlled-release capsules in subjects with chronic low back pain.
+

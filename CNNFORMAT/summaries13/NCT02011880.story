@@ -1,0 +1,24 @@
+(thirdQuint)Standardization Research of TCM Syndrome Differentiation and Treatment on Advanced Breast Cancer.
+
+ OBJECTIVES: - Evaluate the effect of the Chinese herbal medicine on relieving the bone pain for patients with breast cancer bone metastasis.
+
+ - Evaluate the effect of the Chinese herbal medicine on improving the quality of life and shrinking and slowing the growth of the cancer in women with breast cancer bone metastasis.
+
+ OUTLINE: This is a randomized,multicentric, placebo-controlled, double-blind study.
+
+ Patients are dynamic randomized to one of two treatment arms.
+
+ - Arm I:Patients receive traditional Chinese medicine(trial drugs) and endocrine therapy for 3 months.
+
+ - Arm II:Patients receive placebo and endocrine therapy for 3 months.
+
+ All patients will be followed up for another 3 months with the trial drugs and endocrine therapy.
+
+ According to the sample size estimate:There are 296 patients (148 per treatment arm)will be collected in this trial.
+
+.
+
+ Standardization Research of TCM Syndrome Differentiation and Treatment on Advanced Breast Cancer@highlight
+
+The purpose of this clinical research study is to learn if the clinical effects of combined Chinese herbal medicine with endocrine therapy is better than endocrine therapy alone in improving the quality of life and shrinking and slowing the growth of the cancer in women with breast cancer bone metastasis.
+

@@ -1,0 +1,52 @@
+(fifthQuint)Dysfunctional Breathing in Difficult Asthma.
+
+.
+
+ Hypothesis Dysfunctional breathing patterns are more prevalent in patients with a diagnosis of difficult to treat asthma than healthy volunteers.
+
+ Design This will be an open, prospective study, recruiting sequential patients admitted electively to undergo the difficult asthma protocol (DAP).
+
+ These patients are generally admitted during a period of stability, but still have significant symptoms despite asthma therapy.
+
+ Healthy volunteers will be recruited from hospital staff and their family and friends.
+
+ We will recruit patients over a 12 to 18 month period and hope to enrol 60 patients.
+
+ On the final day of their 4 day admission, patients will be asked to wear the life vest from 0800hrs.
+
+ During the morning they will undergo a 6 minute walk to test to assess their responses during exercise.
+
+ They will also be reviewed by the supervising consultant to discuss the results of their investigations.
+
+ While wearing the shirt, the patient will be asked to keep a diary of their activities and symptoms.
+
+ The Life Shirt can be removed by the patient at the time of discharge.
+
+ 20 Healthy volunteers will be recruited from the hospital staff.
+
+ They will be asked to wear the life vest while undertaking their normal daily activities.
+
+ They will also undertake a 6 minute walk test.
+
+ Tidal volume, minute volume and respiratory rate will be recorded at rest and during exertion, aided by the patient diary.
+
+ Breathing pattern and features of dysfunctional breathing, such as frequent sighs, will also be noted.
+
+ This will subsequently be correlated with the assessment of the supervising consultant with regard to the presence of dysfunctional breathing.
+
+ Data will also be analysed with regard to whether there are any differences between healthy volunteers, patients felt to have asthma, and those felt not to have asthma by their admitting consultant.
+
+.
+
+ Dysfunctional Breathing in Difficult Asthma.
+
+@highlight
+
+We plan to use the Life Shirt to record tidal volume, respiratory rate and breathing pattern over a 6 hour period in patients admitted with difficult asthma.
+
+ The Life Shirt will also be used to collect the same data over the same time period in a group of healthy controls.
+
+ This data will then be correlated with the assessment of the supervising consultant as to whether the patient has any element of dysfunctional breathing contributing to their symptoms.
+
+ It is hoped that the data obtained may in future be used to offer treatment to those patients with dysfunctional breathing.
+

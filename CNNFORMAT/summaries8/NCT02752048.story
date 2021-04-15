@@ -1,0 +1,16 @@
+(firstQuint)A Phase IIa Study of TAS-205 for Duchenne Muscular Dystrophy.
+
+ Duchenne Muscular Dystrophy (DMD) is the most common fatal genetic disorder diagnosed in childhood, affecting approximately 1 in 3,500 lives male births.
+
+ DMD patients suffer from a relentless decline in muscle strength that impairs the ability of walking and breathing, resulting in their lives with wheelchairs and then loss of upper body function.
+
+ The main objective of this study is to evaluate the efficacy after 24-week repeated oral doses of TAS-205 in patients with DMD in an exploratory manner.
+
+ The objective of this study is also to evaluate the safety, the dose-response and the urinary excretion of pharmacodynamic (PD) marker after 24-week repeated oral doses of TAS-205 in DMD patients.
+
+.
+
+ A Phase IIa Study of TAS-205 for Duchenne Muscular Dystrophy@highlight
+
+The objective of this study is to evaluate the efficacy after 24-week repeated oral doses of TAS-205 in patients with Duchenne Muscular Dystrophy (DMD) in an exploratory manner.
+

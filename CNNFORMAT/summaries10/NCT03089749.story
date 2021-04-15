@@ -1,0 +1,22 @@
+(firstQuint)Characterization of Human Autoantibody Titers After Central Nervous System Insult.
+
+ Study Objectives: We aim to: 1.
+
+ Quantitate CNS autoantibody development in human blood using ELISA after human brain injury, spinal cord injury, and intra-axial brain surgeries.
+
+ We also aim to characterize the temporal course of this response.
+
+ 2.
+
+ Characterize how CNS autoantibody levels correlate with specific injury patterns as well as radiographic and clinical measures of injury severity.
+
+ 3.
+
+ Determine how intercurrent infection and a history of prior CNS insult affects the temporal course and magnitude of autoantibody production.
+
+.
+
+ Characterization of Human Autoantibody Titers After Central Nervous System Insult@highlight
+
+The aim of the study is to quantitate Central Nervous System (CNS) autoantibody development in human blood using ELISA after human brain injury, spinal cord injury, and intra-axial brain surgeries.
+

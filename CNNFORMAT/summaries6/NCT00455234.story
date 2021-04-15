@@ -1,0 +1,90 @@
+(fifthQuint)Rapid Tranquillization Trial: TREC-India II.
+
+ Participants: Consecutive adult psychiatric patients presenting to the department of psychiatry as outpatients, or those who are admitted, who have violent, aggressive or agitated behavior.
+
+ Inclusion criteria 1.
+
+ The attending physician feels that intramuscular sedation is clearly indicated because of agitation, aggression or violent behaviour, and 2.
+
+ The physician does not feel that either one of the interventions poses an additional risk for the patient.
+
+ 3.
+
+ The patient or a responsible relative provides informed consent to participate in the trial.
+
+ Exclusion Criteria 1.
+
+ Patients who lack capacity to give informed consent and who do not have a relative to obtain consent from will be excluded from the study protocol.
+
+ 2.
+
+ The physician feels either one of the interventions poses a risk for the patient.
+
+ Ethical considerations Good evidence on the treatment of acutely disturbed patients is missing because of the perceived difficulty in performing trials in non-consenting patients.
+
+ However, close reading of the recent draft of the Helsinki declaration reveals that trials in non-consenting patients are permitted on 2 conditions: (1) no other context exists in which to answer the question, and (2) all trial participants get clear therapeutic benefit from whichever arm they are randomized to.
+
+ So placebos cannot be used in these studies.
+
+ The present trial proposes to study the efficacy of two interventions that are reportedly effective and safe in the management of acute violence, but whose relative merits are unclear, and shall only enroll participants whose relatives provide consent, if they themselves are unable to do so, as is likely in this context.
+
+ Randomisation and allocation concealment Randomisation will be in accordance with a computer generated list of random numbers in varying sized blocks of less than 10 prepared by the UK collaborator.
+
+ This collaborator will send the randomisation codes electronically to an investigator with no clinical responsibilities in the trial, who will work with the pharmacist to prepare sequentially numbered, sealed, opaque, identical cardboard boxes that will have either Haloperidol 5 mgs * 2 ampoules + promethazine 50 mgs * 1 ampoule or Olanzepine 10 mg * 1 vial + water for injection, according to the randomisation sequence, plus a disposable syringe and needle and study forms.
+
+ The outside of the box will have a form in which the participants' ID, scores on the Clinical Global Impression Severity Scale (Guy, 1976), and clinical diagnosis will be recorded whilst blind to the contents of the box.
+
+ Procedure: Once eligibility of a patient is ensured, the next consecutive box shall be taken from the emergency cupboard and this will constitute randomization.
+
+ The duty doctor shall record the severity of the episode and the initial diagnosis on the form stuck to the outside of the sealed intervention pack.
+
+ The box shall then be opened and the intervention administered.
+
+ The patient will then followed up at 15, 30, 60 and 120 min by the treatment team and at 240 min and at 2 weeks by the study coordinators.
+
+ Data will also obtained from the case notes as well as from interviews with relatives and the treatment team.
+
+ Blinding: The study will be blind until the point of treatment assignment, which will minimize selection bias.
+
+ After assignment, ratings for the first 2 h will not be blind as the management team will need to know the prescribed medications.
+
+ This is a pragmatic trial that evaluates real-world interventions that are not given blind.
+
+ However, at each of the assessment points in the first two hours, 30 % of the ratings will be additionally rated by one of the investigators who will be blind to the interventions.
+
+ In addition, one of the investigators who will be blind to interventions given shall undertake ratings at 240 min.
+
+ At this time, they will also guess the allocated intervention, to assess their blinding.
+
+ Outcomes: Patients shall be rated at each assessment point on whether they are tranquil or asleep; in addition, the time of onset of tranquillization and sleep will be noted.
+
+ Participants will be considered to be tranquil when they are calm and not exhibiting agitated, aggressive or dangerous behavior to others, property, or to themselves.
+
+ They will considered to be asleep if, on inspection, they appear to be sound asleep and are not aroused by ambient disturbances; the depth of this apparent slumber will not assessed further.
+
+ They shall also be rated on the Clinical Global Impression - Severity (CGI-S) scale at entry, and the CGI-Improvement (CGI-I) scale (Guy, 1976) with respect to aggression and violence, the Simpson-Angus extra pyramidal side-effects rating scale (Simpson & Angus, 1970) and the Barnes Akathisia Scale (Barnes, 1989) at each assessment point; any other clinically important adverse effect, especially dystonia, will be noted.
+
+ These assessments shall be conducted only on participants who are awake, as extra pyramidal symptoms are usually not apparent during sleep or, in the case of dystonia or akathisia, are likely to prevent sleep.
+
+ Other outcomes within the first 4 hours will be the use of additional medication for control of agitated or aggressive behavior, the use of physical restraints, the need for further medical attention and numbers absconding.
+
+ Participants shall also be followed up 2 weeks later to check for adverse effects.
+
+ The primary outcome will be 'tranquil or asleep by 4 hours'.
+
+ The inter-rater reliability of the investigators in rating outcomes shall be established to be satisfactory before the commencement of the trial.
+
+.
+
+ Rapid Tranquillization Trial: TREC-India II@highlight
+
+Three hundred consecutive adult patients presenting to the emergency services of the department of psychiatry and who are diagnosed by the treating doctor to be needing tranquillization to control agitated or aggressive behavior will be randomized to receive either Injection Olanzepine I.
+
+M.
+
+ or Injection Haloperidol 10mg + Injection Promethazine 50 mg in this parallel group, block randomized, centrally-randomzed, allocation-concealed, assessor-blinded pragmatic clinical trial.
+
+ The main outcome measure that the two treatments would be compared on would be the clinical state of the patient 4 hours after intervention, but the rate of tranquillization, degree of sedation, proportions tranquil and / or asleep at 15, 30, 60 and 240 minutes, need for additional medication, use of physical restraints, doctors called back, numbers absconding and adverse effects at each of these time points would also be compared.
+
+ Compliance with oral medication and adverse effects at the end of 2 weeks would also be compared.
+

@@ -1,0 +1,30 @@
+(fifthQuint)Targeted Interdisciplinary Model for Evaluation and Treatment of Neuropscyhiatric Symptoms.
+
+ TIME (Targeted Interdisciplinary Model for Evaluation and treatment of neuropsychiatric symptoms) is a multicomponent intervention based on the theoretical framework of cognitive behavioral therapy (CBT).
+
+The TIME trial includes a three months cluster randomized trial in 36 nursing homes with 164 participants with dementia and a high level of agitation.
+
+ Each nursing home defines a cluster and will be randomized to receive either the intervention with TIME or a brief two hours education-only intervention about dementia and NPS for the control group.
+
+ TIME consists of a manual based multicomponent program which includes a rigorous assessment, the treatment, and the evaluation of neuropsychiatrc symptoms (NPS).
+
+ The staff, physicians and nursing home managers receive a one-day education.
+
+ Three nurses from each unit will receive further education including practical and theoretical training for three hours.
+
+ Measurements at patient level are taken at baseline prior to randomization and at eight and twelve weeks.
+
+ The primary outcome measure is agitation.
+
+ Mixed methods will be used to follow, measure and explore the implementation process and the effect at individual staff level and at organization level.
+
+.
+
+ Targeted Interdisciplinary Model for Evaluation and Treatment of Neuropscyhiatric Symptoms@highlight
+
+Almost all people who suffer from dementia experience neuropsychiatric symptoms (NPS) in the course of the disease.
+
+ TIME (Targeted Interdisciplinary Model for Evaluation and treatment of neuropsychiatric symptoms) is a multicomponent intervention based on the theoretical framework of cognitive behavioral therapy (CBT).
+
+ The TIME trial is designed to assess the effects of TIME on NPS in nursing homes patients with dementia and the implementation process at staff and organization level.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Physical Therapy in Addition to Standard Care Following C-Section.
+
+ Cesarean section (C-section) represents the most commonly performed inpatient surgical procedure, with recent prevalence estimates of 1.
+
+3 million annually (approximately 22% of first births) in the United States.
+
+ Currently, postoperative recovery support is typically characterized by verbal and written instructions regarding lifting and pelvic rest as well as slow return to activity and exercise.
+
+ There are multiple known complications during and after the postpartum period following Cesarean section deliveries.
+
+ Some of the most common are back pain (up to 53% prevalence reported), bowel and bladder issues (20-30% prevalence reported), and scar tissue/adhesions.
+
+ Multiple studies have indicated a higher incidence of low back and pelvic girdle pain in patients following Cesarean section compared to an unassisted vaginal delivery (estimates range from 2-5 times increase).
+
+ The purpose of this study is to determine whether a physical therapy program which includes scar management, core retraining, and lumbar and pelvic joint mobilization will significantly impact the postpartum recovery following Cesarean section during the immediate postpartum period and during the first 1.
+
+5 years following childbirth.
+
+.
+
+ Physical Therapy in Addition to Standard Care Following C-Section@highlight
+
+The purpose of this study is to determine whether a physical therapy program which includes scar management, core retraining, and lumbar and pelvic joint mobilization will significantly impact the postpartum recovery following Cesarean section during the immediate postpartum period and during the first 1.
+
+5 years following childbirth.
+
+ All patients who enroll in the study will receive standard treatment following a C-section delivery.
+
+ Subjects will be randomized into one of two groups; one group will receive physical therapy in addition to standard post C-section treatment, and the other group will receive standard post C-section treatment with no additional physical therapy.
+
+ Both groups will complete questionnaires regarding their pain and recovery from C-section delivery to determine if there is a difference in recovery between the group receiving physical therapy and the group not receiving physical therapy.
+

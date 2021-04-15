@@ -1,0 +1,16 @@
+(secondQuint)Impulsivity, Neural Deficits and Cocaine Addiction.
+
+ This study is designed to explore putative differences in impulsive behaviors and decision making in cocaine-addicted and healthy control subjects using functional magnetic resonance imaging (fMRI), single photon emission tomography (SPECT), and neurocognitive tasks.
+
+ We predict that cocaine-addicted subjects will demonstrate neurocognitive and neural alterations in measures of impulsivity and decision-making when compared to healthy controls.
+
+ That is, cocaine-addicted subjects will show both decreased activation and decreased resting measures of regional cerebral blood flow (rCBF) of the brain structures associated with impulsivity and decision-making.
+
+ Furthermore, neurocognitive and neural deficits associated with impulsivity and decision-making will be associated with each other and with measures indicative of an impulsive relapse and altered decision making.
+
+.
+
+ Impulsivity, Neural Deficits and Cocaine Addiction@highlight
+
+The purpose of this study is to assess neurocognitive and associated neural regions/circuitry disruptions relevant to impulsive relapse in cocaine-addicted subjects, and the relationship of the cognitive and neural mechanisms of impulsivity/decision-making to relapse style.
+

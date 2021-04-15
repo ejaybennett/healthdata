@@ -1,0 +1,42 @@
+(thirdQuint)Simplified Drug Regimens for HIV Patients in ACTG 388 or Patients Who Responded to A First Potent Combination Regimen.
+
+ ACTG 388 was designed to evaluate two four-drug regimens compared with a three-drug regimen in patients who were relatively treatment naive.
+
+ Based on the increased complexity and toxicity of four-drug regimens and the resultant negative impact on response as compared with three-drug regimens, studies evaluating simplified potent regimens appear warranted.
+
+ This study will evaluate simpilified drug regimens designed to enhance virologic activity without necessarily increasing the number of antiretroviral drugs.
+
+ The study regimens will be assessed for both virologic control and tolerability.
+
+ The study population will include patients previously enrolled in ACTG 388 and patients with prior advanced HIV disease who received and responded to potent antiretroviral therapy without evidence of virologic relapse.
+
+ Patients will be stratified according to ACTG 388 treatment or non-ACTG 388 study participation.
+
+ Patients will then be randomized to receive either a protease inhibitor (PI)-sparing regimen of 2 nucleoside reverse transcriptase inhibitors (NRTIs) with efavirenz (EFV) (Arm I) or an NRTI-sparing regimen of EFV with lopinavir/ritonavir (LPV/r) (Arm II).
+
+ Arm I options are enteric-coated didanosine (ddI-EC) plus lamivudine (3TC), ddI-EC plus zidovudine (ZDV), ZDV plus 3TC (or Combivir), stavudine (d4T) plus 3TC, or ddI-EC plus d4T (with exceptions as noted in the protocol).
+
+ Only LPV/r, EFV, d4T, and ddI are provided by the study; other medications are obtained by nonstudy prescription.
+
+ All patients are evaluated for safety and for virologic and immunologic responses at Weeks 4 and 8, then every 8 weeks until the study ends.
+
+ In addition, all patients have assessments for fat redistribution, fasting lipid profiles, fasting insulin levels, venous lactate levels, and treatment adherence.
+
+ Patients will be followed for 1.
+
+5 to 3 years.
+
+ Interim safety analyses will be conducted in June 2002 and June 2003.
+
+ Patients in this study may also enroll in A5125s, a fat distribution and bone mineral density substudy.
+
+.
+
+ Simplified Drug Regimens for HIV Patients in ACTG 388 or Patients Who Responded to A First Potent Combination Regimen@highlight
+
+ACTG 388 was a clinical trial that compared three- and four-drug anti-HIV drug regimens and demonstrated the effectiveness of a three-drug regimen.
+
+ This study will compare the ability of two different three-drug anti-HIV drug regimens to reduce levels of HIV in the blood.
+
+ The study will also evaluate whether patients discontinue the regimens because of drug side effects.
+

@@ -1,0 +1,22 @@
+(thirdQuint)RegistRare: a Retro-prospective Registry of Rare Primary Headaches in Italian Tertiary Headache Centres.
+
+ We planned to collect data from May 1, 2014 and afterwards, by means of both retrospective and prospective approaches.
+
+ All patients who have received or will receive a diagnosis of rare primary headache will be asked to participate and, to this aim, to give their informed consent.
+
+ Each participating Centre should have received the approval of the competent Ethics Committee before commencing any study procedures.
+
+ The registry will contain anagraphic information and data about diagnosis, treatment, comorbidity, and clinical features of the headache.
+
+ Patients' data will be coded through the Italian Health System unique identifier, in order to avoid duplications of patients referring to more than one Centre and also to monitor multiple referrals.
+
+ A web-based open source platform (SurveyMonkey.
+
+org) will be used to collect data.
+
+.
+
+ RegistRare: a Retro-prospective Registry of Rare Primary Headaches in Italian Tertiary Headache Centres@highlight
+
+Retro-prospective survey on specific and overall prevalence and incidence of rare primary headaches (Part One, Chapter 3 and Chapter 4, ICHD-3 beta) in patients referred to Italian Tertiary Headache Centres in a 3-year (May 1, 2014-April 30, 2017 - retrospective data) and annually (from May 1, 2017 - prospective data).
+

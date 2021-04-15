@@ -1,0 +1,38 @@
+(thirdQuint)Daylight-mediated Photodynamic Therapy of Actinic Keratoses:Comparing 0.
+
+2%HAL With 16%MAL.
+
+ Study recruites 16-20 voluuntering patients with symmetrical actinic damage on face or scalp.
+
+ Treatment sites are randomized to receive either hexylaminolaevulinate 0.
+
+2% or methylaminolaevulinate ( 16% MAL) as photosensitizers (0.
+
+25mm-thick layer).
+
+ A web-based validated program (Research Randomizer) generated a randomized list to define the treatment sides.
+
+ The randomization results were kept blinded from the investigators who conducted the follow-up visits, from the pathologist, and the patients.
+
+ Pre-treatment procedures include application of sunscreen for 15 minutes and curettage of the treatment area.
+
+ Illumination is performed using 2 hours daylight-exposure.
+
+ Efficacy is assessed clinically, and histologically at 3 and 12 months by blinded observers.
+
+ Pain during and after treatments and adverse reactions at one week are recorded.
+
+.
+
+ Daylight-mediated Photodynamic Therapy of Actinic Keratoses:Comparing 0.
+
+2%HAL With 16%MAL@highlight
+
+This pilot study compares two photosensitizers, hexylaminolaevulinate (HAL) and methylaminolaevulinate (MAL), in treatment of actinic keratoses.
+
+ Study is conducted using randomized split-face design.
+
+ Efficacy is assessed clinically, and histologically at 3 and 12 months.
+
+ Pain during and after treatments and adverse reactions at one week are recorded.
+

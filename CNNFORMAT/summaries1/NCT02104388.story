@@ -1,0 +1,14 @@
+(firstQuint)Safety and Efficacy Study of SJP-0035 Ophthalmic Solution in Patients With Moderate to Severe Corneal Epithelial Disorders.
+
+ There is currently no product approved for corneal epithelial wound healing.
+
+ A Phase 1 Study SJP-0035/1-01 was conducted in healthy volunteers to investigate the safety, tolerability, and pharmacokinetic profile of SJP-0035 ophthalmic solution and to determine the appropriate dose to be evaluated in patients with moderate to severe corneal epithelial disorders.
+
+ This Phase 2a study is being conducted to evaluate the safety and efficacy of SJP-0035 ophthalmic solution in patients to promote corneal epithelial wound healing in conditions associated with corneal epithelial disorders.
+
+.
+
+ Safety and Efficacy Study of SJP-0035 Ophthalmic Solution in Patients With Moderate to Severe Corneal Epithelial Disorders@highlight
+
+The purpose of the study is to determine if SJP-0035 ophthalmic solution is effective in promoting corneal epithelial wound healing in conditions associated with corneal epithelial disorders.
+

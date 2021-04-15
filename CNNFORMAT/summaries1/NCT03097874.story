@@ -1,0 +1,32 @@
+(thirdQuint)Adaptive Treatment for Adolescent Anorexia Nervosa.
+
+ Potential subjects aged 12 to 18 with anorexia nervosa (AN) will be recruited from Stanford University, University of California, San Francisco, and other bay-area medical programs and clinics.
+
+ If participants are deemed eligible, participants will be invited for a baseline interview (about 2 hours in duration) during which the investigators will conduct interviews and collect questionnaire measures.
+
+ Then, participants and participants' families will begin Family Based Treatment (FBT) with a study therapist at Stanford University or University of California, San Francisco, respectively.
+
+ At session 4, if participants have not gained 2.
+
+4kg, an indicator of early treatment response, participants and participants' families will be randomized to receive either treatment as usual (FBT) or an adaptive form of FBT, during which families will receive additional Intensive Parental Coaching (IPC).
+
+ If participants have reached weight milestones (i.
+
+e.
+
+, 2.
+
+4kg at session 4), participants will continue FBT as usual.
+
+ At 3 months of treatment and end of treatment, the investigators will collect the same measures taken at baseline.
+
+ The investigators also ask that families participate in 6- and 12-month follow-up, respectively.
+
+.
+
+ Adaptive Treatment for Adolescent Anorexia Nervosa@highlight
+
+The investigators are conducting a randomized controlled trial using an adaptive design for adolescents (ages 12-18) with anorexia nervosa to compare standard Family Based Treatment (FBT) to adaptive FBT with an Intensive Parental Coaching (IPC) component.
+
+ If participants do not reach expected milestones by session 4 of treatment, participants may be randomized to receive additional IPC or continue treatment as usual with regular FBT.
+

@@ -1,0 +1,22 @@
+(thirdQuint)Safety, Tolerance and Activity of HE3286 in Patients With Type 2 Diabetes Mellitus.
+
+ Hollis-Eden Pharmaceuticals, Inc.
+
+ is developing a new class of therapeutics for the treatment of Type 2 diabetes.
+
+ The investigational drug, HE3286, holds the potential to be the first in a new class of insulin sensitizers with a potentially novel mechanism of action that may improve the current therapeutic options available to a T2DM patient.
+
+ This is a phase II, double-blind, randomized, placebo-controlled study of the safety, tolerance and activity of HE3286 in patients with type 2 diabetes mellitus.
+
+ Patients receiving stable metformin or who are drug-naive will receive study treatment (HE3286 or placebo) for a treatment period of 12-weeks.
+
+ Changes in hemoglobin A1c (HbA1c) will be assessed over a treatment period of 12-weeks.
+
+.
+
+ Safety, Tolerance and Activity of HE3286 in Patients With Type 2 Diabetes Mellitus@highlight
+
+This is a phase II, double-blind, randomized, placebo-controlled study of the safety, tolerance and activity of HE3286 in patients with type 2 diabetes mellitus.
+
+ Patients receiving stable metformin or who are drug-naive will receive study treatment (HE3286 or placebo) for a treatment period of 12-weeks.
+

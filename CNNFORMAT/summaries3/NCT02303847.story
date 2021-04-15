@@ -1,0 +1,20 @@
+(secondQuint)Ultra-low Dose Oral Ketamine for Chronic Pain in the Primary Care Setting.
+
+ Chronic pain is a major national public health issue, affecting about 100 million adults in the United States.
+
+ Opioid pain medications are commonly used for treatment of chronic pain, but their use is fraught with consequences including an increasing prevalence of misuse, abuse, and overdose death, and side effects which lead to a reduced quality of life.
+
+ An effective and safe medication that would improve control of chronic pain while reducing reliance on opioid medications would be valuable for patients, medical providers and society at large.
+
+ Ketamine, commonly used as an intravenous anesthetic agent, has been shown to have analgesic and opioid-sparing effects in the peri-operative period and in the palliative care setting.
+
+ Based on promising preliminary data from an open-label treatment trial, this project is a pilot study to evaluate the analgesic and opioid-sparing effects of ketamine in an ultra-low dose oral formulation as a novel intervention for treatment of chronic non-cancer pain in the primary care outpatient setting.
+
+ The design of the proposed study is a randomized controlled two week parallel-group trial, with 32 patients receiving either the active treatment or placebo twice daily.
+
+.
+
+ Ultra-low Dose Oral Ketamine for Chronic Pain in the Primary Care Setting@highlight
+
+This project is a pilot study to evaluate the analgesic and opioid-sparing effects of ketamine in an ultra-low dose oral formulation as a novel intervention for treatment of chronic non-cancer pain in opioid-tolerant patients in the primary care outpatient setting.
+

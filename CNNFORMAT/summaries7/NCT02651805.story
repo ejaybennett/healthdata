@@ -1,0 +1,54 @@
+(fifthQuint)Mechanical Insufflator-exsufflator to Control Mucus Hypersecretion in Patients in Palliative Care - A Feasibility Study.
+
+ Investigators will conduct a feasibility study for a future fast track randomized trial, which will be carried out in the Americo Brasiliense State Hospital and conducted by the Spirometry and Respiratory Physiotherapy Laboratory from the Federal University of Sao Carlos, Brazil.
+
+ The concept of feasibility is defined as "capable of being done or carried out" and studies which aim is to verify the feasibility intends to verify if a larger clinical trial would have a acceptable probability of success in proving the efficacy of an intervention 24.
+
+ The importance of feasibility studies has been discussed since health research resources are frequently wasted in large clinical trials with interventions with small impact, studies with insufficient power, or even using measures and outcomes that do not reflect the expected changes caused by the interventions.
+
+ Furthermore, these studies are essential when dealing with populations that usually lead to an increased chance of losing the follow-up or a high number of missing data, such as palliative care.
+
+ Both groups will receive the therapy with the mechanical insufflators-exsufflator, however, the Mechanical insufflation-exsufflation group will receive it as in a fast track way, while the usual care, will receive the usual care for more 24 hours, and then they will receive one session of Mechanical Insufflation-Exsufflation.
+
+ After this 24 hours period, the patients will be asked what therapy they would like to receive each time they need help to deal with hypersecretion until the end of the hospitalization, or until the physician responsible for the patient consider the hypersecretion was controlled.
+
+ The allocation through fast track has been used due to ethical reasons, in order to maintain the randomized and controlled aspects of the research, and yet provide the opportunity to all patients to be benefited of the new intervention before the end of the study.
+
+ Furthermore, an increase in the acceptability and retention of the participants is expected, since they are going to receive the new therapy in some moment of the study, which may be during or after the follow-up 28.
+
+ The cross-over design was not chosen, since the wash-out period necessary to this model of study might lead to a period without treatment for vulnerable patients, with expected short life time.
+
+ Usual Care The patients will receive the treatment according to the hospital protocol to deal with hypersecretive patients (suctioning that can be preceded by respiratory physiotherapy and nebulisation).
+
+ A trained member of the nurse staff or a physiotherapist will be responsible for providing the therapy.
+
+ A member of the research team will collect in the patients' records all the therapies provided by the staff to control hypersecretions.
+
+ Mechanical Insufflation-Exsufflation The settings used in the Mechanical Insufflator-Exsufflator will be the same of a previous study, where were used: six assisted cough cycles with pressures of 40 to -40cmH2O; the inspiratory time of 3s; the expiratory time 4s and a pause between cycles of 4s.
+
+ The patients will be instructed to cough alongside the exsufflation phase, with exception of Chronic Obstructive Pulmonary Disease patients which will be instructed to exhale slowly.
+
+ An oral-nasal mask will be used as interface, but in patients with tracheotomy, the device will be connected to it.
+
+.
+
+ Mechanical Insufflator-exsufflator to Control Mucus Hypersecretion in Patients in Palliative Care - A Feasibility Study@highlight
+
+Patients with advanced chronic diseases may suffer with respiratory secretion and available therapies to control this condition are uncomfortable or little effective in palliative care patients.
+
+ Therefore, alternative therapies should be tested, assessing clinically relevant outcomes in palliative care, such as comfort during therapy and the number of interventions required in a day.
+
+ Mechanical Insufflation-Exsufflation is an option that presents advantages, since it can be used in patients with minimum cooperation and is non-invasive, which may lead to higher comfort during therapy.
+
+ The aim of the study is to verify the feasibility of a clinical trial comparing the effects of Mechanical Insufflation-Exsufflation with usual care in hospitalized palliative care patients that are suffering with respiratory secretion.
+
+ Patients allocation will follow a "fast-track allocation design", in which included patients will be randomized in two groups: 1.
+
+ Receive Mechanical Insufflation-Exsufflation therapy in the moment that is assigned to this group; 2.
+
+ will receive 24h of usual care and after that will be allowed to choose between usual care or Mechanical Insufflation-Exsufflation Therapy.
+
+ The assessments will be: Time from the first intervention until the need of a following intervention, discomfort due therapy, discomfort due respiratory secretion, palliative outcome scale, number of adverse events and number of interventions during 24h period.
+
+ The primary outcome is to verify the feasibility of developing a future larger clinical trial to assess the effects of the use of Mechanical Insufflation-Exsufflation to control respiratory secretions in patients in palliative care.
+

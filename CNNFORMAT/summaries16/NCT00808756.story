@@ -1,0 +1,14 @@
+(firstQuint)Study on Fermentable Carbohydrates in Healthy Infants.
+
+ Breast-fed infants have a lower occurrence of episodes of sickness compared with formula-fed infants, and this has been ascribed to their different flora composition.
+
+ The purpose of this project is to study the effect of fermentable carbohydrates in the nutrition of healthy infants.
+
+ Additionally, other metabolic parameters will be investigated and compared to breast-fed infants.
+
+.
+
+ Study on Fermentable Carbohydrates in Healthy Infants@highlight
+
+The purpose of this project is to study the effect of fermentable carbohydrates in the nutrition of healthy infants.
+

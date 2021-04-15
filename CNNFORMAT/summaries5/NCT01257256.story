@@ -1,0 +1,12 @@
+(thirdQuint)Investigating the Relationships Among Illness Cognition, Social Support, Stress, and Emotional Reactions of Infertile Patients.
+
+ The current study attempted to explore the relationships among stressors (cognitions of illness, socioeconomic status, social support, marital stressor, social stressor, etc), perceived stress level, and emotional reactions (anxiety and depression) of infertile patients and to propose the measurement and structural models of infertile aniexty and depression.
+
+ Structural Equation Modeling (SEM) will be utilized through AMOS 17 to analyze the data, construct the initial model, and afterward present the modified structural model of the psychological responses for infertile patients.
+
+.
+
+ Investigating the Relationships Among Illness Cognition, Social Support, Stress, and Emotional Reactions of Infertile Patients@highlight
+
+The current study attempted to explore the relationships among stressors (cognitions of illness, socioeconomic status, social support, marital stressor, social stressor, etc), perceived stress level, and emotional reactions (anxiety and depression) of infertile patients and to propose the measurement and structural models of infertile aniexty and depression.
+

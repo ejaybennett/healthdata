@@ -1,0 +1,56 @@
+(fifthQuint)Erlotinib Alone or in Combination With Radiation Therapy in Treating Young Patients With Refractory or Relapsed Malignant Brain Tumors or Newly Diagnosed Brain Stem Glioma.
+
+ OBJECTIVES: Primary - Establish the maximum tolerated dose of single-agent erlotinib hydrochloride in pediatric patients with refractory or relapsed malignant brain tumors and in combination with radiotherapy in pediatric patients with newly diagnosed brain stem glioma.
+
+ Secondary - Determine dose-limiting toxicities of these regimens.
+
+ - Define the safety profile of these regimens.
+
+ - Characterize the pharmacokinetic behavior of erlotinib hydrochloride in these patients.
+
+ - Evaluate the efficacy of these regimens.
+
+ - Correlate expression and mutations of epidermal growth factor receptor with treatment response.
+
+ OUTLINE: This is a multicenter, nonrandomized, open-label, dose-escalation study of erlotinib hydrochloride.
+
+ Patients are assigned to 1 of 2 treatment groups according to disease.
+
+ - Group 1 (refractory or relapsed malignant brain tumors): Patients receive oral erlotinib hydrochloride once daily on days 1-21.
+
+ Treatment repeats every 21 days in the absence of unacceptable toxicity or disease progression.
+
+ Cohorts of 3-6 patients receive escalating doses of erlotinib hydrochloride until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity (DLT).
+
+ - Group 2 (newly diagnosed brain stem glioma): Patients receive oral erlotinib hydrochloride once daily on days 1-21.
+
+ Treatment repeats every 21 days in the absence of unacceptable toxicity or disease progression.
+
+ Beginning on day 1, patients also undergo radiotherapy 5 days a week for 6 weeks .
+
+ Cohorts of 1-2 patients receive escalating doses of erlotinib hydrochloride until the MTD is determined.
+
+ The MTD is defined as the dose resulting in 25% of patients experiencing DLT at 6 weeks.
+
+ Blood is collected for pharmacokinetic assessments and pharmacogenetic genotyping for analysis of enzyme polymorphisms.
+
+ Tumor tissue may be assessed for epidermal growth factor receptor mutations.
+
+ After completion of study treatment, patients are followed every 3 months.
+
+ PROJECTED ACCRUAL: A total of 48 patients will be accrued for this study.
+
+.
+
+ Erlotinib Alone or in Combination With Radiation Therapy in Treating Young Patients With Refractory or Relapsed Malignant Brain Tumors or Newly Diagnosed Brain Stem Glioma@highlight
+
+RATIONALE: Erlotinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.
+
+ Radiation therapy uses high-energy x-rays to kill tumor cells.
+
+ Giving erlotinib together with radiation therapy may kill more tumor cells.
+
+ PURPOSE: This phase I trial is studying the side effects and best dose of erlotinib when given alone or together with radiation therapy in treating young patients with refractory or relapsed malignant brain tumors or newly diagnosed brain stem glioma.
+

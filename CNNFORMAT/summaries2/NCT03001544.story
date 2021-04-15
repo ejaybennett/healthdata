@@ -1,0 +1,14 @@
+(firstQuint)Study of Safety and Biomarker Efficacy of TS23 in Healthy Volunteer.
+
+ This is a first-in-human, Phase 1 study of the safety, pharmacokinetics and pharmacodynamics of TS23 in healthy male volunteers.
+
+TS23 is a monoclonal antibody that inactivates alpha 2-antiplasmin.
+
+ Four dose cohorts of six subjects will be studied in a single ascending dose trial at one clinical center.
+
+.
+
+ Study of Safety and Biomarker Efficacy of TS23 in Healthy Volunteer@highlight
+
+This study is designed to determine the safety, pharmacokinetics and pharmacodynamics of a single intravenous dose of TS23 in healthy adults.
+

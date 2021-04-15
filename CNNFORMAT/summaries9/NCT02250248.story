@@ -1,0 +1,20 @@
+(firstQuint)AttraX Putty vs.
+
+ Autograft in XLIF.
+
+ This is a single-center, prospective, randomized study.
+
+ Subjects will be recruited from patients already under the Investigator's care who are indicated for XLIF with iliac crest bone graft (ICBG) autograft or AttraX Putty.
+
+ To minimize bias, all consecutive patients at a given investigational site who meet eligibility requirements will be asked to consent to participate in the study whereby the biologic (ICBG autograft or AttraX Putty) will be randomly assigned.
+
+ All subjects will be followed for 24 months following surgery to quantify the clinical and radiographic improvements of each biologic compared to baseline and in comparison with each other.
+
+.
+
+ AttraX Putty vs.
+
+ Autograft in XLIF@highlight
+
+The objective of this study is to evaluate the clinical success of AttraX Putty as a bone graft substitute for autograft in XLIF procedures.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Investigating Central Mechanisms of Overactive Bladder in Adults With Parkinson's Disease.
+
+ Overactive bladder (OAB) is a physical problem that causes strong urges to urinate, frequent urination, and sometimes urinary incontinence (accidental loss of urine control) commonly in patients with Parkinson' disease (PD) severely impacting their quality of life.
+
+ Unfortunately OAB in adults with PD is difficult to treat.
+
+ This is largely because the mechanisms underlying OAB in adults with PD are not known.
+
+ Recent functional MRI (fMRI) studies suggest that certain areas of the brain have an important role in OAB.
+
+ Blood oxygenation level dependent (BOLD) fMRI is an imaging technique in which neural activity of a region of the brain can be measured by fluctuation in the BOLD signal.
+
+ It is hoped that the findings of this study will allow the development of new treatments for adults with Parkinson's disease and overactive bladder.
+
+.
+
+ Investigating Central Mechanisms of Overactive Bladder in Adults With Parkinson's Disease@highlight
+
+This study investigates the central mechanisms of Overactive Bladder (OAB) in Patients with Parkinson's Disease (PD).
+
+ The plan is to enroll 10 adults with Parkinson's disease and Overactive bladder (PD + OAB) and 10 adults with Parkinson's disease only (PD).
+
+ Both groups will undergo fMRI (functional MRI).
+

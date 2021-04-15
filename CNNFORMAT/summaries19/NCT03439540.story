@@ -1,0 +1,20 @@
+(firstQuint)Influence of Plantago Major on Mineral Metabolism and Selected Biochemical Parameters in Obese Women.
+
+ The purpose of the study is to determine whether oral Plantago major supplementation affects cardiometabolic risk factors, mineral content, and lifestyle in obese women.
+
+ In previous research it was found that the Plantago maxima extract counteracts the development of adipose tissue in rats on a high-fat diet.
+
+ In addition, antioxidative, anti-inflammatory and antidiabetic action of Plantago has been demonstrated.
+
+ Moreover, it has been shown that Plantago influences lipolysis in obese mice and ameliorates metabolic processess in obese rats.
+
+ The project is due to evaluate the effect of oral supplementation with selected Plantago species - Plantago major in obese patients on: - the content of minerals in blood, hair and urine - total cholesterol, HDL and LDL cholesterol and triglycerides blood concentration, - blood glucose and insulin concentration, - blood pressure, - anthropometric parameters: body mass, body height, waist and hip circumferences - body content measured by bioimpedance: % of fat tissue and % of muscle tissue - quality of life 70 subjects will be randomized into two groups and receive oral Plantago major extract (the first group) or oral placebo (the second group) once daily for 2 months.
+
+ At baseline and at completion (after 2 months) fasting blood, urine and hair samples will be collected and abovementioned parameters will be measured.
+
+.
+
+ Influence of Plantago Major on Mineral Metabolism and Selected Biochemical Parameters in Obese Women@highlight
+
+Effect of oral supplementation with Plantago major on cardiometabolic risk factors and mineral content and lifestyle in obese women: double-blind, randomized clinical trial.
+

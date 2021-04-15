@@ -1,0 +1,23 @@
+(fifthQuint)Rosuvastatin to Decrease Residual Immune Activation in HIV Infection.
+
+ Methodology Phase II pilot study; open-label; non comparative, bicentric, on-off design Estimated enrolment 40 subjects Outcomes Primary outcome : cent Variation at month 3 in the proportion of CD8 T lymphocytes co-expressing CD38 and HLA-DR Secondary outcomes : - Evolution of plasma/serum levels of CRP-HS, IL-6, soluble CD14 between baseline and month 3 and between month 3 and month 6 - Evolution of markers of CD4 T-cell activation (HLA-DR, Ki67) and CD8 T-cell activation (CD38, HLA-DR, Ki67) between baseline and month 3 and between month 3 and month 6 and evolution of the CD4/CD8 ratio between baseline and month 3 and between month 3 and month 6 - Evolution of CD4 T-cell count between baseline and month 3 - Evolution of HDL and LDL cholesterol between baseline and month 3 and between month 3 and month 6 - Relationship between HDL cholesterol and CD4/CD8 ratio at baseline, month 3 and month 6 - Relationship between the levels of T-cell activation and of plasma HIV-RNA levels at a detection level of 3 copies/mL - Adverse events grade > 2 Eligibility Inclusion criteria - HIV-infected patients receiving a combination of antiretroviral therapy for at least 24 months, unchanged since at least 18 months, exhibiting plasma HIV-RNA level below 20 copies and circulating CD4 T cell count below 500/mm3 - No indication for a treatment with statins (LDL cholesterol 10 mg/mL - Co-infection with HCV (except if HCV cure), chronic HBV infection with active replication of HBV - Indication for a treatment with statins - Pregnancy - CPK > 3x Normal values - ALT or AST > 2x Normal values - TG > 4 mmol/L - DFG < 60 mL /min/1.
+
+73 m2 - Personal or familial history of genetic muscular disease - History of muscular or hepatic toxicity with a statin or a fibrate - Liver disease (TP < 70%).
+
+ - Hypothyroidism - Concomitant treatment with : Ketoconazole, Itraconazole, Ciclosporine, Erythromycine, Cimetidine, Quinidine, Diltiazem, Verapamil, systemic corticosteroids, Phenobarbital, Phenytoine, Carbamazepine, Rifampicine, Lansoprazole - Vaccination during the study Intervention Rosuvastatin (20 mg/d per os) Intervention duration: 3 months Follow-up for 3 additional months Statistical methods Bilateral Two-sided paired Wilcoxon to analyze the variation in the proportion of CD8 T lymphocytes that co-express CD38 and HLA-DR at month 3 (primary outcome).
+
+ The evolution of parameters of interest between 2 visits will also be analyzed using bilateral two-sided paired Wilcoxon test.
+
+ Statistical significance will be considered for p< 0.
+
+05.
+
+ Substudies Estimated planning or Study / Trial timetable Trial/study start date: April 2012 Enrolment period: 12 months Subject participation duration: 6 months Total trial/study duration: 18 months Estimated study/trial completion date: October 2013 [default date: date of last follow-up of last included patient, else justify the chosen date: date of "gel de la base de donnees", date of end of substudies analyses (think to delay for sampling transport, duration of technical analyses)] Study / Trial design Phase II open-label pilot bicentric non comparative study.
+
+ Patients eligible will receive Rosuvastatin for 3 months while continuing antiretroviral therapy.
+
+ Patients will be followed-up 3 additional months after stopping the study drug (on-off design).
+
+ Rosuvastatin to Decrease Residual Immune Activation in HIV Infection@highlight
+
+Participating countries: France Objectives Principal objective To evaluate, in HIV-1 infected patients receiving effective antiretroviral therapy, the effect of the addition of Rosuvastatin (dose of 20mg/day) for 3 months, on CD8 T cell activation as assessed by the proportion of peripheral CD8 T cells that co-express the activation markers CD38 and HLA-DR Secondary objectives To evaluate the effect of Rosuvastatin administration on residual CD4 and CD8 T cell activation To evaluate the effect of Rosuvastatin administration on the main serum soluble biomarkers of activation (CRP- HS, D-dimers, IL-6 and soluble CD14) To evaluate the effect of Rosuvastatin administration on CD4 T-cell count and on the CD4/CD8 T-cell ratio To study the relationship between the level of immune activation and the level of residual HIV replication in plasma To study the effect of Rosuvastatin administration on lipid profiles and the correlation between the HDL cholesterol and the CD4/CD8 T-cell ratio To evaluate the tolerance of Rosuvastatin at the dose of 20 mg/day

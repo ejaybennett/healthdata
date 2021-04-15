@@ -1,0 +1,26 @@
+(thirdQuint)fMRI Study Examining Effects of D-cycloserine in Specific Phobia.
+
+ Exposure and Response Prevention (ERP) therapy has become the treatment of choice for specific phobias.
+
+ ERP involves systematic and repeated exposure to a feared or anxiety-provoking stimulus, leading to habituation and extinction of the fear response.
+
+ Animal models of fear extinction have shown that acute administration of D-cycloserine (DCS) prior to exposure to a feared stimulus enhances extinction of that fear.
+
+ A recent study in human subjects with height phobia (a specific phobia) has also demonstrated that DCS facilitates the effects of ERP therapy.
+
+ Current theories postulate that DCS facilitates fear extinction by enhancing the learning process and increasing consolidation of memories, but the neural mechanisms underlying this process are not understood.
+
+ The proposed research aims to elucidate these mechanisms by using fMRI to measure brain activation during 1) symptom provocation and verbal learning two hours post-medication, and 2)repeated symptom provocation and verbal recognition one week post-medication.
+
+ This research will also examine the effects of DCS on cognitive functioning using neuropsychological testing both two house and one week post-medication.
+
+.
+
+ fMRI Study Examining Effects of D-cycloserine in Specific Phobia@highlight
+
+The research team hopes to use brain imaging and mental testing to learn more about specific phobias and the treatment of phobia.
+
+ When given directly prior to therapy sessions, D-cycloserine has been shown to enhance the effects of therapy.
+
+ This study hopes to identify reasons why D-cycloserine has this effect by measuring brain activity.
+

@@ -1,0 +1,18 @@
+(thirdQuint)Skeletal Muscle and Platelet Mitochondrial Dysfunction During Sepsis.
+
+ The primary aim of the study is to demonstrate that mitochondrial dysfunction occurs in both skeletal muscle and circulating platelets of severely septic and septic shock ICU-admitted patients, as compared to otherwise healthy surgical ones.
+
+ In order to better clarify the pathogenesis of mitochondrial dysfunction during sepsis, cardiogenic shock patients (suffering from systemic hypoperfusion) will act as additional controls.
+
+ Markers of oxidative stress will be measured in tissue samples from septic patients.
+
+ The clinical relevance of mitochondrial dysfunction during sepsis will be assessed in terms of both skeletal muscle and platelet function.
+
+.
+
+ Skeletal Muscle and Platelet Mitochondrial Dysfunction During Sepsis@highlight
+
+The primary aim of the study is to demonstrate that mitochondrial dysfunction occurs in both skeletal muscle and circulating platelets of severely septic and septic shock ICU-admitted patients.
+
+ Secondary aims are to clarify the pathogenesis and the clinical relevance of mitochondrial damage during sepsis.
+

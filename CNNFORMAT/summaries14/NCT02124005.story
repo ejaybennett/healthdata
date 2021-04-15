@@ -1,0 +1,26 @@
+(firstQuint)Evaluation of the Minimum Effective Concentration of Bupivacaine (EC50) in Femoral Block for Analgesia by Ultrasound After Knee Surgery.
+
+ 45 patients classified as ASA P1 or P2 aged between 18 and 65 candidates for elective knee operation via arthroscopy were included in the study.
+
+ All patients received femoral nerve block guided by ultrasound with bupivacaine, 22 ml.
+
+ The first patient at a concentration of 0.
+
+25%.
+
+ The other patients with higher or lower concentrations if the first patient has pain> 3 or <3 on visual analogic scale respectively after awakening of surgical anesthesia.
+
+ For surgical anesthesia each patient will undergo general anesthesia.
+
+ At the end of the surgical procedure and anesthetic awakening patients will be evaluated for analgesia by verbal numeric scale.
+
+ The modified Dixon method was used to find the EC50 and EC95 of bupivacaine for analgesia of femoral nerve block guided by ultrasound.
+
+ Concentration still correlated with motor block and side effects.
+
+.
+
+ Evaluation of the Minimum Effective Concentration of Bupivacaine (EC50) in Femoral Block for Analgesia by Ultrasound After Knee Surgery@highlight
+
+The purpose of the study is to determine the minimum effective concentration of bupivacaine (EC50) in femoral block for analgesia by ultrasound after knee surgery.
+

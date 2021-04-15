@@ -1,0 +1,20 @@
+(firstQuint)Effect of Myofascial Release by Foam Rolling on Back Muscles Endurance.
+
+ Self-myofascial release performed with a foam roller is an incoming technique what is very popular in sport.
+
+ Scientific literature currently suggests that the effects of self-myofascial release are mediated by the stimulation over neural and connective tissue.
+
+ There is evidence that this stimulation could improve the maximum range of motion and decrease muscle soreness.
+
+ Nonetheless, there is few evidence about the effects of self-myofascial release on muscle endurance.
+
+ Given the increased use of autonomously (self-treatment) in the athlete population, this study aims to assess the effect of a low back short application (60 seconds) on the back extensor muscles endurance measured by the Biering-Sorensen test.
+
+ With the obtained results we want to elaborate an evideced based recommendation about its use prior to physical activity or sports competition.
+
+.
+
+ Effect of Myofascial Release by Foam Rolling on Back Muscles Endurance@highlight
+
+This study evaluate the effect of the a low back self-application of myofascial release using a foam rolling on back muscles endurance measured by the Biering-Sorensen test.
+

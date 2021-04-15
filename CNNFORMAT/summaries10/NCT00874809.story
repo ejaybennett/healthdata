@@ -1,0 +1,17 @@
+(secondQuint)Diabetes Mellitus Type 2 Basal Insulin Dosing Requirements Study.
+
+ Subjects will be taught CHO counting after which they will be introduced to an insulin pump.
+
+ They will wear the insulin pump for three weeks to adjust to the pump and its functions.
+
+ Then the subject will wear a Continuous Glucose Monitoring System to determine rate changes needed to achieve short-term near normal glucose control.
+
+ The primary endpoint is what are the mean number of changes in the basal infusion rate and what are the mean differences and mean duration of these changes.
+
+ The secondary endpoint is what mathematical formulas describe the relationship between the dosing factors and do they significantly differ from those previously established by King and Armstrong.
+
+.
+
+ Diabetes Mellitus Type 2 Basal Insulin Dosing Requirements Study@highlight
+
+The main purpose of this study is to determine the number of daily basal insulin rate changes that are needed to achieve short-term near normal glucose control in insulin pump patients with type 2 diabetes

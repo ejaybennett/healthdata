@@ -1,0 +1,16 @@
+(firstQuint)Spiration IBV Valve System and Spiration Airway Sizing Kit.
+
+ IBV(R) Valve System The Spiration(R) IBV Valve System is a device to control prolonged air leaks of the lung, or significant air leaks that are likely to become prolonged air leaks following lobectomy, segmentectomy, or lung volume reduction surgery (LVRS).
+
+ An air leak present on postoperative day 7 is considered prolonged unless present only during forced exhalation or cough.
+
+ An air leak present on day 5 should be considered for treatment if it is: 1) continuous, 2) present during normal inhalation phase of inspiration, or 3) present upon normal expiration and accompanied by subcutaneous emphysema or respiratory compromise.
+
+ IBV Valve System use is limited to 6 weeks per prolonged air leak.
+
+.
+
+ Spiration IBV Valve System and Spiration Airway Sizing Kit@highlight
+
+This procedure allows patients to use the Humanitarian Use Device, IBV(R) Valve System.
+

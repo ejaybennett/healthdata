@@ -1,0 +1,12 @@
+(firstQuint)Evaluation of Balloon-based Cryoablation of Human Esophageal Epithelium.
+
+ The purpose of this study is to evaluate the histological results of a cryoablation technique used to ablate human esophageal mucosa.
+
+ The performance and safety of the cryoablation technique will also be evaluated.
+
+.
+
+ Evaluation of Balloon-based Cryoablation of Human Esophageal Epithelium@highlight
+
+The purpose of this study is to evaluate a cryoablation technique used to ablate human esophageal mucosa.
+

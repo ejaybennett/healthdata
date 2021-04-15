@@ -1,0 +1,20 @@
+(firstQuint)Neodymiun:Yttrium Aluminum Garnet Laser in Caries Prevention of Primary Teeth: One-year Follow-up.
+
+ The aim of this controlled clinical study was to evaluate the Neodymiun:yttrium aluminum garnet laser, with or without fluoride, in prevention of occlusal caries in the primary dentition.
+
+ High caries risk children (7.
+
+61.
+
+4 years) were selected for this study and received the following treatments: G1-1st molar was negative control, and the 2nd molar received a resin sealant; G2-1st molar was negative control, and the 2nd molar received laser irradiation (100 milliJoule, 5 Hertz - 0.
+
+5 Watts); G3-1st molar received only fluoride gel and the 2nd molar received fluoride gel + laser irradiation; G4-1st molar received only fluoride varnish and the 2nd molar received fluoride varnish + laser irradiation.
+
+ Patients were followed up to 12 months to evaluate the formation of white-spot lesions and/or caries cavities by three calibrated observers.
+
+.
+
+ Neodymiun:Yttrium Aluminum Garnet Laser in Caries Prevention of Primary Teeth: One-year Follow-up@highlight
+
+The aim of this controlled clinical study was to evaluate the Nd:YAG laser, with or without fluoride, in prevention of occlusal caries in the primary dentition.
+

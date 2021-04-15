@@ -1,0 +1,34 @@
+(thirdQuint)Combination of Telmisartan 40 mg Plus Hydrochlorothiazide (HCTZ) 12.
+
+5 mg vs.
+
+ Telmisartan 40 mg Alone in Patients With Essential Hypertension Who Fail to Respond Adequately to Telmisartan Monotherapy.
+
+ This is a multi-centre, randomised, double-blind, double-dummy, active-controlled, parallel-group study in patients with essential hypertension who fail to respond adequately to telmisartan (Micardis) 40 mg monotherapy.
+
+ After a screening and a 2-week washout period (screening period), the patients will enter 4-week open-label run-in period with telmisartan (Micardis) 40 mg monotherapy to assess eligibility.
+
+ The study will be terminated for those who have responded to telmisartan (Micardis) 40 mg monotherapy at the end of 4-week open-label run-in period with telmisartan (Micardis) 40 mg monotherapy (mean seated DBP < 90 mmHg).
+
+ About 200 patients not responding adequately to telmisartan (Micardis) 40 mg monotherapy will be randomised and treated for 8 weeks with once-daily administration of either telmisartan (Micardis) 40 mg or a fixed dose combination of telmisartan 40 mg and HCTZ 12.
+
+5 mg (double-blind treatment period).
+
+ Study Hypothesis: The hypothesis is that the fixed dose combination of telmisartan 40 mg and HCTZ 12.
+
+5 mg is superior to the monocomponent of telmisartan (Micardis) 40 mg in pat ient with essential hypertension who fail to respond adequately to telmisartan monotherapy.
+
+ Comparison(s): For the primary comparison the change from baseline in mean stated trough DBP at the end of the 8-week double-blind treatment will be expressed.
+
+.
+
+ Combination of Telmisartan 40 mg Plus Hydrochlorothiazide (HCTZ) 12.
+
+5 mg vs.
+
+ Telmisartan 40 mg Alone in Patients With Essential Hypertension Who Fail to Respond Adequately to Telmisartan Monotherapy@highlight
+
+The objective of this trial is to demonstrate that the fixed dose combination of telmisartan 40 mg and HCTZ 12.
+
+5 mg is superior to the monocomponent of telmisartan (Micardis, Gliosartan, Kinzal, Kinzalmono, Predxal, Pritor, Samertan, Telmisartan) 40 mg in patients with essential hypertension who fail to respond adequately to telmisartan monotherapy.
+

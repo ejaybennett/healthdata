@@ -1,0 +1,18 @@
+(fifthQuint)The Antihypertensives and Vascular, Endothelial and Cognitive Function Trial.
+
+ There is mounting evidence that hypertension, which affects more than 65% of the US elderly population, accelerates cognitive decline and increases the risk of functional disability among older individuals.
+
+ Hypertension is also associated with cerebral blood flow reduction and dysregulation which contribute to further cognitive and functional impairment.
+
+ Drugs that inhibit angiotensin II (ACEI and ARB) are commonly used antihypertensives and may have a protective effect on cognitive function, cerebral blood flow and physical function compared to other antihypertensives such as hydrochlorothiazide (HCTZ).
+
+ A total of 100 individuals will be recruited for this pilot 3-arm randomized study to investigate the effects of: (i) 12 months treatment with candesartan (ARB) compared to hydrochlorothiazide (HCTZ) and (ii) 12 months treatment with lisinopril (ACEI) compared to HCTZ and (iii) to estimate the effect size difference between lisinopril and losartan on cognition, cerebral blood flow regulation, and functional measures in a sample of elderly hypertensive individuals with objective evidence of cognitive impairment.
+
+.
+
+ The Antihypertensives and Vascular, Endothelial and Cognitive Function Trial@highlight
+
+The purpose of this study is to examine the effects of blood pressure medications on cognition and blood flow in hypertensive elderly patients with cognitive impairment.
+
+ The hypothesis is that treatment with an angiotensin receptor blocker (ARB) or an angiotensin-converting enzyme inhibitor (ACEI) will be associated with a slower rate of further cognitive decline, improved cerebral blood flow and its regulation, and preserved physical function as compared to treatment with a diuretic (HCTZ), independent of blood pressure level.
+

@@ -1,0 +1,36 @@
+(fifthQuint)Efficacy of L-Ornithine L-Aspartate in Acute Hepatic Encephalopathy.
+
+.
+
+ The main impact of hepatic encephalopathy in patients with cirrhosis is not related to costs, but its association with decreased survival and quality of life and should therefore clearly established the effectiveness of therapeutic interventions used in this disorder.
+
+ At the end of the nineteenth century to the ammonium was identified as the main agent responsible for the development of the syndrome of hepatic encephalopathy.
+
+ Since then, reduced nitrogen compounds from the intestine are considered the main therapeutic measure.
+
+ On this conceptual base, nonabsorbable disaccharides are the first line therapy in hepatic encephalopathy.
+
+ Current knowledge indicates that other organs such as muscle, brain and kidney are involved in the generation of ammonium, which has set the pace for the development of new treatments, able to act systemically in metabolism and elimination of ammonia .
+
+ L-ornithine L-aspartate (LOLA) lowers ammonium concentrations in animal and humans models with hyperammonemia.
+
+ There are no adequate clinical trials comparing the efficacy of LOLA infusion against lactose enemas in the treatment of acute hepatic encephalopathy.
+
+.
+
+ Efficacy of L-Ornithine L-Aspartate in Acute Hepatic Encephalopathy.
+
+@highlight
+
+Hepatic encephalopathy is caused by the effects on the brain of substances that under normal circumstances are efficiently metabolized in the liver.
+
+ The hyperammonemia is the main factor responsible for the development of hepatic encephalopathy.
+
+ In patients with cirrhosis, the reduction in hepatocellular function and generation of portosystemic shunts contribute to increase serum ammonium.
+
+ The current therapeutic approaches, are aimed at reducing blood ammonium levels.
+
+ Administration of the non-absorbable disaccharides, have become standard treatment of hepatic encephalopathy.
+
+There are no adequate clinical trials comparing the efficacy of L-Ornithine-L-Aspartate (LOLA) infusion against lactose enemas in the treatment of acute hepatic encephalopathy.
+

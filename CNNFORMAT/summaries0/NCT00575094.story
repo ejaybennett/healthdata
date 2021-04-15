@@ -1,0 +1,18 @@
+(firstQuint)Study Evaluating the Safety and Efficacy of Intravenous Tigecycline to Treat Hospitalized Japanese Subjects.
+
+ This is a multicenter, open-label study evaluating the safety and efficacy of tigecycline in the treatment of Japanese subjects with CAP.
+
+ Subjects with clinical signs and symptoms of CAP who meet the eligibility requirements will be considered for enrollment.
+
+ Qualifying subjects will be assigned to receive tigecycline via IV administration for 7 to 14 consecutive days.
+
+ The exact duration of administration of the study drug will be at the discretion of the investigator, based on the subject's condition.
+
+ Subjects will be followed for safety until the test-of-cure (TOC) assessment 10 to 21 days after the last dose of therapy, and for efficacy until TOC assessment.
+
+.
+
+ Study Evaluating the Safety and Efficacy of Intravenous Tigecycline to Treat Hospitalized Japanese Subjects@highlight
+
+To purpose of this study is to assess the safety and tolerability of intravenous (IV) tigecycline in hospitalized subjects of Japanese descent with community-acquired pneumonia (CAP).
+

@@ -1,0 +1,16 @@
+(secondQuint)Exercise and Quality of Life in Leukemia Patients.
+
+ The purpose of this randomized, prospective, longitudinal study is to evaluate the impact of an exercise intervention on patient-reported anxiety, depression, fatigue, and sleep disturbances outcomes among acute leukemia patients.
+
+ The study will include 2 groups for a total sample size of 30: n=15 control group and n=15 intervention group.
+
+ Each patient enrolled in the intervention arm will participate in an exercise program for the duration of their hospitalization, 4-6 weeks on average during the first treatment (induction chemotherapy).
+
+.
+
+ Exercise and Quality of Life in Leukemia Patients@highlight
+
+The purpose of this study is to evaluate the impact of an exercise intervention on patient-reported anxiety, depression, fatigue, and sleep disturbances among acute leukemia patients.
+
+ The investigators hypothesize that exercise will reduce fatigue in acute leukemia patients.
+

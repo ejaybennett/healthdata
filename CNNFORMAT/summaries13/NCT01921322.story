@@ -1,0 +1,21 @@
+(secondQuint)Sensor Augmented Pump Therapy Versus Multiple Daily Injection Therapy.
+
+ Primary objective: To compare the length of time to achieve target glucose range using Self-Monitoring Blood Glucose (SMBG), as reference method, with the 722 Paradigm Real-Time insulin pump versus MDI Secondary Objectives: To compare glycemic variability (using CGM as reference method) with the 722 Paradigm Real-Time insulin pump versus MDI This is a prospective, randomized (open label), multi-center study.
+
+ The clinical study staff will conduct screening tests according to inclusion/exclusion criteria in order to verify the subject's eligibility for the study.
+
+ Inpatient Period A patient is admitted into hospital for treatment of diabetes Randomization Subjects are randomized (at a 1:1 ratio) to group A or B in the study database.
+
+ A total of 80 subjects will be randomized into 2 study groups: - Group A will wear 722 Paradigm Real-Time System (treated with 24h per day insulin infusion) - Group B will be on MDI and wear the CGMS-Gold (treated with 4 insulin injections).
+
+ It is anticipated that the total duration for the study will be within one year from site initiation to finalization of all data entry and monitoring.
+
+ Each subject will participate in the study approximately 2 weeks.
+
+.
+
+ Sensor Augmented Pump Therapy Versus Multiple Daily Injection Therapy@highlight
+
+This is a prospective, randomized (open label), multi-center and post-market study.
+
+ The study is to compare effectiveness of sensor-augmented pump (SAP) therapy versus multiple daily injection (MDI) therapy in hospitalized patients with insulin treating type 2 diabetes in China

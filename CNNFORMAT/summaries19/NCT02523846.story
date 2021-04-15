@@ -1,0 +1,26 @@
+(thirdQuint)Patient Re-education vs.
+
+ Background Morphine to IV-PCA in Patient With Unsatisfactory Analgesia Post Laparotomy.
+
+ In this study, investigators have a second inclusion criteria for subject recruitment.
+
+ For subjects who meet this criteria meaning their dynamic pain (when blowing incentive spirometer) is 4/10 after starting on IV-PCA Morphine will be randomized in to 2 groups.
+
+ One group will receive patient re--education with an additional background morphine infusion and the other group will receive re--education only.
+
+ The second highlight for this study is regarding the background morphine calculation.
+
+ The background morphine is calculated according to this formula: Total morphine requirement in the first 24 hours post surgery (mg) = 100 - Age (year) So, the background morphine infusion will be calculated based on subject's age and half of their 24 hours requirement will be infused over 24 hours.
+
+ This formula was published by Pamela Macintyre in her paper titled " Age is the Best Predictor of Postoperative Morphine Requirement".
+
+.
+
+ Patient Re-education vs.
+
+ Background Morphine to IV-PCA in Patient With Unsatisfactory Analgesia Post Laparotomy@highlight
+
+The purpose of this study is to improve IV-Patient Controlled Analgesia (IV-PCA) technique for postoperative analgesia.
+
+ Investigators are comparing between patient re-education and the background morphine infusion among patients who fail to achieve satisfactory analgesia using IV-PCA Morphine after laparotomy.
+

@@ -1,0 +1,16 @@
+(firstQuint)Docetaxel/Epirubicin/Bevacizumab as First Line Therapy for Metastatic HER2 Negative Breast Cancer.
+
+ A phase II trial with 142 patients demonstrated that therapy with docetaxel plus epirubicin is highly active first-line therapy for metastatic breast cancer, with acceptable toxicity profile.
+
+ Recently initial therapy of metastatic breast cancer with paclitaxel plus bevacizumab demonstrated prolonged progression-free survival, as compared with paclitaxel alone.
+
+ This study will evaluate the efficacy and toxicity of docetaxel-epirubicin combination plus bevacizumab as first line treatment in patients with metastatic and HER2 negative breast cancer.
+
+ Furthermore, the efficacy of the combination therapy will be correlated with the presence of circulating tumor cells (CTCs) in this population.
+
+.
+
+ Docetaxel/Epirubicin/Bevacizumab as First Line Therapy for Metastatic HER2 Negative Breast Cancer@highlight
+
+This study will evaluate the efficacy and toxicity of docetaxel-epirubicin combination plus bevacizumab as first line treatment in patients with metastatic and HER2 negative breast cancer.
+

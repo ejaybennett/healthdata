@@ -1,0 +1,26 @@
+(thirdQuint)Inositol to Reduce Retinopathy of Prematurity.
+
+ Approximately 1760 infants are to be enrolled at approximately 18 NICHD Neonatal Research Network (NRN) Centers (approximately 44 sites) in the United States.
+
+ Infants meeting the study selection criteria and for whom informed consent is obtained will be randomized to receive either 80 mg inositol/kg/day or placebo, administered in divided doses every 12 hours (40 mg/kg/dose).
+
+ Study drug will be administered daily, starting within 12 to 72 hours of birth and continued until the earliest of 34 weeks PMA, 10 weeks chronologic age, or the time of hospital discharge or transfer.
+
+ Inositol or placebo will be administered IV until enteral feedings reach 120ml/kg/day (or sooner if the infant is no longer receiving IV fluids), at which time the same dose and formulation will be administered enterally every 12 hours.
+
+ For publication purposes, the analysis of the primary efficacy outcome will consider the entire study population.
+
+ In support of a new drug application (NDA) for use of myo-Inositol 5% Injection to increase survival without severe ROP through the determination of acute/final ROP status, the analysis of the primary efficacy outcome will be conducted for the entire study population and separately within pre-specified regulatory sub-studies created by administratively splitting infants enrolled at each study center into two sub-studies.
+
+ Assessments performed during the study include customary newborn intensive care procedures including repeat eye examinations until ROP status is final (which often extends after discharge), measurements of growth, cranial ultrasounds or other imaging per usual practice, and the collection of clinical diagnoses throughout hospitalization to evaluate other common morbidities of extreme preterm birth.
+
+ Adverse events will be recorded from time of treatment initiation until 7 days after the last dose of study drug, and concurrent medications will be recorded from 24 hours prior to randomization until 7 days after the last dose of study drug or until discharge or transfer if sooner.
+
+ Using the separate NICHD Follow-up protocol, longer term data will be collected at 22-26 months corrected age, including growth, neurodevelopmental testing, overall health status, rehospitalizations, surgeries and diagnoses, including ophthalmic diagnoses and treatments since discharge.
+
+.
+
+ Inositol to Reduce Retinopathy of Prematurity@highlight
+
+This is a Phase 3, randomized, double-masked, placebo-controlled study designed to determine the effectiveness of myo-Inositol 5% Injection to increase the incidence of survival without severe Retinopathy of Prematurity (ROP) through acute/final ROP determination up to 55 weeks postmenstrual age (PMA) in premature infants <28 0/7 weeks' gestation.
+

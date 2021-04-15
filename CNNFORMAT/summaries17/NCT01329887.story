@@ -1,0 +1,14 @@
+(firstQuint)The Effect of Ketanserin on the Microcirculation in Sepsis.
+
+ This is a pilot study, including 10 ICU patients with severe sepsis with MFI < 2,5 after fulfillment of a strict resuscitation protocol.
+
+ At the start of the study, a baseline SDF measurement is made, when MFI < 2,5 inclusion in the study is permitted and intravenous ketanserin administration is started and subsequently increased, guided by the effect on sublingual MFI, until a safe maximum dosage is reached.
+
+ Safety margins for hypotension are defined in the study protocol.
+
+.
+
+ The Effect of Ketanserin on the Microcirculation in Sepsis@highlight
+
+This study is an evaluation of the effect of ketanserine on sublingual microcirculation in intensive care patients with severe sepsis.
+

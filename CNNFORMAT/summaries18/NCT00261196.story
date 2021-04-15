@@ -1,0 +1,12 @@
+(firstQuint)Collagenase in the Treatment of Adhesive Capsulitis (Frozen Shoulder).
+
+ In a random, placebo controlled, double blind study, collagenase injection therapy will be investigated for it's ability to lyse the adhesions associated with the shoulder capsule in adhesive capsulitis (frozen shoulder).
+
+ Treatment success may obviate the need for extensive physical therapy and/or shoulder arthroscopy (surgery) to correct this condition and restore normal and pain free shoulder motion.
+
+.
+
+ Collagenase in the Treatment of Adhesive Capsulitis (Frozen Shoulder)@highlight
+
+The purpose of this study is to test collagenase injection therapy to dissolve adhesions causing frozen shoulder.
+

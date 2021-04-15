@@ -1,0 +1,18 @@
+(secondQuint)Dopamine Agonists Withdrawal Study of Invasive Prolactinomas Involving the Cavernous Sinus.
+
+ For giant or large invasive prolactinomas involving the cavernous sinus, whether the drug can be safely withdrawn after the tumor volume and prolactin(PRL) level have been effectively controlled through pharmacological treatment still remains unknown.
+
+ The study objects are patients with invasive prolactinomas involving the cavernous sinus, which were invaded the cavernous sinus to an extent corresponding to Grade III or IV, according to the classification scheme of Knosp and colleagues, who had undergone pharmacological treatment including bromocriptine or cabergoline.
+
+ Observation will be started after drug withdrawal criteria are reached (PRL remains normal level for no less than two years; tumor volume has shrank more than 50%, and the distance is more than 5mm between tumor and optical nerve),the patients are randomized to withdrawal group or continue treatment group.
+
+Observational items include changes of PRL level, tumor volume as well as vision acuity and visual fields.
+
+ If elevated PRL or tumor relapse is observed, pharmacological treatment will be restarted.
+
+.
+
+ Dopamine Agonists Withdrawal Study of Invasive Prolactinomas Involving the Cavernous Sinus@highlight
+
+The purpose of this study is to observe whether dopamine agonists can be safely withdrawn after the tumor volume and prolactin level of invasive prolactinomas involving the cavernous sinus have been effectively controlled through pharmacological treatment.
+

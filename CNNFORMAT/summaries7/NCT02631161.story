@@ -1,0 +1,18 @@
+(firstQuint)Glass Hybrid Versus Composite Restorations of Non-carious Cervical Lesions.
+
+ This is a prospective, randomized, monocenter parallel group study on restoration of tooth with non-carious cervical restorations.
+
+ Each patient receives cervical restoration(s) either with glass hybrid EQUIA forte or with composite resin/adhesive combination Filtek Supreme XT/Clearfil SE Bond in anterior/posterior tooth region.
+
+ Restorations will be provided by one experienced operator.
+
+ One of two independent examiners will evaluate the restorations at baseline (1 week after placement), and after 18, and 36 months according to the FDI criteria.
+
+ Reliability of examination will be assessed on a random sample of 30 restorations.
+
+.
+
+ Glass Hybrid Versus Composite Restorations of Non-carious Cervical Lesions@highlight
+
+A glass hybrid restorative system (EQUIA forte) clinically compared to a composite resin based material (Clearfil SE Bond, Filtek Supreme XT) for the treatment of dental non-carious cervical lesions.
+

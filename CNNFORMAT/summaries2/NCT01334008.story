@@ -1,0 +1,16 @@
+(firstQuint)Study of Circulating Tumoral DNA in Metastatic Choroidal Melanoma.
+
+ Technique development: In first step, the different available techniques will be evaluated for specificity and sensibility using serial dilutions of cell lines with or without GNAQ mutation.
+
+ Validation: The tumor DNA detection rate will be estimated from metastatic uveal patient's blood.
+
+ The investigators will study 40 patients to obtain at least 15 patients bearing a GNAQ mutation in the primitive tumor or in metastasis.
+
+ With those 15 patients, the investigators will determinate the most sensitive technique and the best cost/efficiency ratio.
+
+.
+
+ Study of Circulating Tumoral DNA in Metastatic Choroidal Melanoma@highlight
+
+Circulating tumor DNA detection and quantification in patients with metastatic choroidal melanoma.
+

@@ -1,0 +1,30 @@
+(fifthQuint)Prochymal Adult Human Mesenchymal Stem Cells for Treatment of Moderate-to-severe Crohn's Disease.
+
+ Human mesenchymal stem cells (MSCs), derived from healthy adult volunteer human donors, can be obtained from bone marrow donation and cultured in the laboratory.
+
+ MSCs have shown the ability to find injured tissue, reduce and control inflammation, and assist in tissue repair.
+
+ Prochymal cent MSCs will be infused into patients with moderate-to-severe Crohn's disease.
+
+ Infusions will occur on two separate days, 7-10 days apart.
+
+ Patients will be monitored for reduced Crohn's disease symptoms.
+
+ Patients will receive high or low dose.
+
+ Study is open label.
+
+.
+
+ Prochymal Adult Human Mesenchymal Stem Cells for Treatment of Moderate-to-severe Crohn's Disease@highlight
+
+Human mesenchymal stem cells (MSCs), derived from healthy adult volunteer human donors, can be obtained from bone marrow donation and cultured in the laboratory.
+
+ MSCs have shown the ability to find injured tissue, reduce and control inflammation, and assist in tissue repair.
+
+ Prochymal cent MSCs will be infused into patients with moderate-to-severe Crohn's disease.
+
+ Infusions will occur on two separate days, 7-10 days apart.
+
+ Patients will be monitored for reduced Crohn's disease symptoms.
+

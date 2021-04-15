@@ -1,0 +1,14 @@
+(firstQuint)Screening of Healthy Adults for Genetic Variations That Control Fatty Acid Processing.
+
+ Healthy African American and Caucasian persons will be screened for specific differences in genes that control how fats are processed in the body.
+
+ Persons with the needed genotypes will be added to a database of healthy persons who may be asked to join a larger study comparing differences in diet on lipid metabolism and inflammatory biomarkers as well as future studies.
+
+ A key hypothesis for the larger study is that variations in genes involved in lipid metabolism play a role in determining levels of long chain polyunsaturated fatty acids (LC-PUFAs).
+
+.
+
+ Screening of Healthy Adults for Genetic Variations That Control Fatty Acid Processing@highlight
+
+The purpose of this research study is to screen healthy African American and Caucasian persons for specific differences in genes that control how fats are processed in the body.
+

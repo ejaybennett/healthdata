@@ -1,0 +1,20 @@
+(secondQuint)Study of Nab-Paclitaxel and Ramucirumab as Second-line Treatment for Patients With Metastatic Gastroesophageal Cancer.
+
+ Adenocarcinoma of the esophagus and the gastroesophageal junction (GE junction) is the ninth most common cancer worldwide.
+
+ Ramucirumab (Cyramza(R)), a monoclonal antibody, is approved as a single agent and in combination with paclitaxel as a treatment for patients with metastatic gastric or GE junction adenocarcinoma whose cancer has progressed after prior chemotherapy.
+
+ Nab-paclitaxel (Abraxane(R)) is an albumin-based formulation of paclitaxel which was developed to improve the therapeutic index and reduce toxicity.
+
+ Nab-paclitaxel is approved in over 40 countries/regions for treatment of various metastatic cancers including breast cancer, non-small cell lung cancer (NSCLC), and pancreatic cancer.
+
+ In this Phase II study, the investigators propose to combine the less toxic nab-paclitaxel to increase tumor uptake of the drug and improve efficacy while minimizing side effects.
+
+ The biological rationale of using this combination is that ramucirumab will inhibit tumor angiogenesis and nab-paclitaxel will induce apoptosis of the rapidly dividing tumor cell.
+
+.
+
+ Study of Nab-Paclitaxel and Ramucirumab as Second-line Treatment for Patients With Metastatic Gastroesophageal Cancer@highlight
+
+The purpose of this study is to determine whether nab-Paclitaxel (Abraxane(R)) and ramucirumab (Cyramza(R)) are effective when used in combination for treating patients with metastatic gastroesophageal cancer who have either progressed or not responded to prior therapy.
+

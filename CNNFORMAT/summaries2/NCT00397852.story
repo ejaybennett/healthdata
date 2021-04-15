@@ -1,0 +1,16 @@
+(firstQuint)Dislocated Stable Distal Both-Bone Forearm Fractures in Children.
+
+ children who arrive at the emergency unit with a dislocated both-bone distal forearm fracture will be asked to join the trial.
+
+ After informed consent, a randomization between 2 kinds of treatment will be done: K-wire fixation or no K-wire fixation of the fracture after a stable reposition.
+
+ Outpatient clinic visits till a follow-up of 6 months.
+
+ During these visits we will investigate: the number of re-dislocations, re-operations, consolidation and dislocation on X-ray, function of both arms, complains in daily living and complications.
+
+.
+
+ Dislocated Stable Distal Both-Bone Forearm Fractures in Children@highlight
+
+We create a randomized clinical trial between treatment with and without Kirschner wire fixation of a stable dislocated distal both-bone forearm fracture.
+

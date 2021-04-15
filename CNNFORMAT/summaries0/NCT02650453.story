@@ -1,0 +1,24 @@
+(secondQuint)Ongoing Registry of Deep Venous Reconstructions.
+
+ Literature has shown endovenous reconstructions to be safe en effective in treating deep venous obstructive disease.
+
+ Deep venous obstruction can develop in cases of (iliac) vein compression syndromes (e.
+
+g.
+
+ May-Thurner syndrome) or in cases of post-thrombotic syndrome.
+
+ In patients with both significant complaints (objectively measured) and venous obstruction objectified on imaging (duplex ultrasonography, magnetic resonance venography, CT-venography) stenting is indicated.
+
+ In cases of extensive post-thrombotic damage to the veins of the lower extremity endophlebectomy (surgical desobstruction) of the common femoral vein can be warranted.
+
+ This operation is generally combined with the creation of an arteriovenous fistula.
+
+ Data of patients treated in our tertiary medical centre are entered in a prospective digital database, and continuously updated.
+
+.
+
+ Ongoing Registry of Deep Venous Reconstructions@highlight
+
+Ongoing registration of deep venous obstructive disease patients treated by means of percutaneous transluminal angioplasty (PTA) and stenting with or without endophlebectomy (surgical desobstruction, also termed endovenectomy) of the common femoral vein and/or arteriovenous fistula creation.
+

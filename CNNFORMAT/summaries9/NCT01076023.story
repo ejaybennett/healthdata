@@ -1,0 +1,20 @@
+(secondQuint)Cohort Study in Type 2 Diabetes in China.
+
+ The number of diabetes patients around the world has increased from 30 million in 1985 to the current 180 million, and is expected to grow to 366 million in 2025, with 75 percent occurring in developing countries such as India and China.
+
+ In China, economic prosperity and changes in diet and lifestyles have resulted in steep increase in prevalence of overweight, obesity, and diabetes.
+
+ Type 2 diabetes mellitus is associated with an increased risk for both micro-and macrovascular complications, and cardiovascular diseases (CVD) are the most common causes of death in these patients.
+
+ Preventing the onset or the worsening of the cardiovascular diseases is thus one of the most important goals in managing type II diabetes.
+
+ This study is designed to better understand the incidence of cardiovascular events under current patterns of treatment in type 2 diabetic patients with either 3 or more risk factors for cardiovascular disease such as older age, hypertension, dyslipidemia, etc, or existing or prior history of coronary artery disease and stroke.
+
+ Approximately 1000 patients from major hospitals across several regions of China will be recruited for this study.
+
+.
+
+ Cohort Study in Type 2 Diabetes in China@highlight
+
+This study is designed to assess the incidence of cardiovascular events occurred within an 12 month follow up period in type 2 diabetic patients with either high risk of cardiovascular disease (CVD) or history of coronary artery disease (CAD) or stroke.
+

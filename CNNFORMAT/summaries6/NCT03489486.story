@@ -1,0 +1,37 @@
+(fifthQuint)Presepsin (sCD14-ST) for Prediction of Perioperative Risk - MET-REPAIR Nested Cohort Study.
+
+ Major non-cardiac surgery is still associated with relevant cardiovascular mortality and morbidity.
+
+ In Europe, in-hospital mortality exceeded 7% in patients with coronary artery disease and in those with congestive heart failure.
+
+ Within 30 days of non-cardiac surgery procedures, 8% of patients will suffer a major cardiovascular event.
+
+ Immunological processes, increased recruitment and infiltration of innate and adaptive immune cells into atherosclerotic lesions, have been shown to drive perioperative atherosclerotic lesion progression and plaque destabilization and are thought to promote plaque rupture.
+
+ When classical monocytes are activated to inflammatory non-classical monocytes, the membrane-bound cell surface protein CD14 is released into circulation.
+
+ In plasma, soluble CD14 (sCD14) is cleaved by lysosomal proteases.
+
+ The N-terminal 13kDa fragment constitutes sCD14 subtype (sCD14-ST), also called presepsin.
+
+ Presepsin has been established as a marker for early identification of patients with systemic infections.
+
+ Recently, presepsin has been proposed as a biomarker for preoperative risk prediction in cardiac surgery.
+
+ Our preliminary results in a limited number of patients suggest that presepsin is associated with major adverse cardiovascular and cerebrovascular events after non-cardiac surgery as well with all-cause mortality.
+
+ Presepsin might have a test characteristic superior to conventional risk assessment on the basis of the revised cardiac risk index (RCRI), high-sensitivity cardiac Troponin-T (hs-cTnT) and N-terminal prohormone of brain natriuretic peptide (NT-proBNP).
+
+ Preoperative presepsin quantification might help to identify non-cardiac surgery patients prone to experience perioperative major adverse cardiovascular and cerebrovascular events.
+
+.
+
+ Presepsin (sCD14-ST) for Prediction of Perioperative Risk - MET-REPAIR Nested Cohort Study@highlight
+
+Multicentre international prospective cohort study designed to evaluate whether preoperative presepsin (sCD14-ST) is associated with the composite endpoint: all-cause mortality and major adverse cardiovascular or cerebrovascular events (MACCE) after elevated risk non-cardiac surgery.
+
+ If so: 1.
+
+ What is the optimal cut-off for presepsin to predict the composite endpoint all-cause mortality and MACCE? 2.
+
+ Does the calculated optimal cut-off improve prediction of the composite endpoint all-cause mortality and MACCE when added to clinical data and established biomarkers?

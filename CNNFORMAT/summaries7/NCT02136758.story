@@ -1,0 +1,18 @@
+(secondQuint)Cardiovascular Risk Clinic.
+
+ The main hypothesis to be tested in the Cardiovascular Risk Clinic was: Can individualized therapeutic lifestyle plans in conjunction with molecular analysis lead to informative assessments of disease risk that can reduce risk factors for diabetes and cardiovascular disease.
+
+ Our main objectives were: A.
+
+ To investigate the effect of lifestyle modification on: (1) physiological measurements of coronary artery disease (CAD) including carotid intima-media thickness (CIMT), exercise stress tests, blood pressure, body mass index (BMI), and weight; (2) plasma markers associated with development of CAD such as lipids and triglycerides; and (3) molecular characteristics such as gene expression signatures and protein profiles.
+
+ B.
+
+ To determine if patients with heart disease or risk factors that would promote heart disease can achieve and adhere to the goals of a lifestyle change program in a non-residential, out-patient setting.
+
+.
+
+ Cardiovascular Risk Clinic@highlight
+
+This study was a prospective, randomized trial designed to investigate the efficacy of moderate lifestyle modification for improving the clinical status of patients with coronary artery disease or patients with risk factors that promote coronary artery disease.
+

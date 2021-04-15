@@ -1,0 +1,26 @@
+(secondQuint)1.
+
+2% Rosuvastatin Subgingivally Delivered In Chronic Periodontitis With Type 2 Diabetes Mellitus.
+
+ Background: The purpose of this double-masked, randomized, controlled clinical trial was to evaluate the effects of subgingival delivery of 1.
+
+2% Rosuvastatin gel as an adjunct to scaling and root planing (SRP) on clinical and radiographic parameters and compare this method with SRP plus placebo gel alone in chronic periodontitis (CP) with type 2 DM patients.
+
+ Methods: Eighty CP patients with type 2 DM are included in this study.
+
+ They were divided into two groups: 1) SRP + 1.
+
+2% Rosuvastatin gel (RSV group); 2) SRP + Placebo gel (Placebo group).
+
+ At baseline, 3, 6 and 9 months after treatment, clinical measurements, including plaque index (PI), modified sulcus bleeding index (mSBI), probing depth (PD), clinical attachment level (CAL) and radiographic parameters intrabony defect depth (IBD), percentage change in radiographic defect depth reduction (DDR%) were assessed.
+
+.
+
+ 1.
+
+2% Rosuvastatin Subgingivally Delivered In Chronic Periodontitis With Type 2 Diabetes Mellitus@highlight
+
+The purpose of the present study was to evaluate the effects of subgingival delivery of 1.
+
+2% Rosuvastatin (RSV) gel as an adjunct to scaling and root planing in chronic periodontitis (CP) with Type 2 diabetes mellitus patients.
+

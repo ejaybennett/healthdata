@@ -1,0 +1,26 @@
+(thirdQuint)Registry for Patients Undergoing Pulmonary Procedures.
+
+ This is a retrospective and prospective data registry of all pulmonary diagnostic and therapeutic interventional pulmonary procedures at a single academic center.
+
+ All pulmonary procedures upon completion will be entered into a database by the participating investigator performing the procedure.
+
+ For both diagnostic and therapeutic cases, the data will require additional input 1-4 weeks after the procedure in order to place the diagnosis and follow-up data.
+
+ Retrospective data will only be collected for patients that had their procedures prior to approval of this registry.
+
+ Study data will be collected and managed using REDCap (Research Electronic Data Capture) electronic data (CTSA Awared - Award Number UL1RR031990) capture tools hosted at Virginia Commonwealth University.
+
+ REDCap is a secure, web-based application designed to support data capture for research studies.
+
+ The prison population will also be included in the registry in order to examine the effects of pulmonary procedures on a special population.
+
+.
+
+ Registry for Patients Undergoing Pulmonary Procedures@highlight
+
+The purpose of this research study is to examine the safety, tolerability, and effectiveness of currently available pulmonary procedures when used to diagnose or treat different diseases.
+
+ This study will collect information that may influence the outcome of the procedure and identify factors that may affect the procedures yield or safety.
+
+ The information will be entered into a registry or data storage.
+

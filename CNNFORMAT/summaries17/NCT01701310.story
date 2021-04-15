@@ -1,0 +1,40 @@
+(thirdQuint)IVICA: Intravenous Iron in Colorectal Cancer Associated Anaemia.
+
+ Patients who are anemic at the time of operation have been shown to have an increased frequency of complications including wound infection and longer post-operative admissions.
+
+ Similarly, patients who are anemic at the time of their cancer operation are more likely to require a blood transfusion which may increase the risk of recurrence of the cancer.
+
+ At present, oral iron is often used to treat anemia preoperatively in an attempt to minimize the risk above.
+
+ This drug is often poorly tolerated due to the side effect profile.
+
+ Blood transfusions can also be administered but expose the patient to other risks including infection and transfusion associated reactions.
+
+ In order to overcome these issues, intravenous iron preparations have been developed and have improved in safety.
+
+ This is a multi-center, randomized, open label clinical trial, which looks to investigate the efficacy of intravenous iron is in the treatment of preoperative anemia in colorectal patients.
+
+ Patients will be randomized to receive intravenous ferric carboxymaltose (treatment group) or oral ferrous sulphate (control).
+
+ The outcomes reviewed will include the amount and frequency of blood transfusions received, changes in patient blood profiles, patient quality of life scores, operative complications and hospital length of stay.
+
+ The role of hepcidin as a biomarker of treatment response will also be assessed.
+
+ The primary hypothesis to be tested is that intravenous iron will decrease transfusion rates.
+
+ To detect a significant clinical difference in blood transfused consistent with previous published data (1 unit), 58 patients will be required in each arm of the study with 90% power (alpha 0.
+
+05).
+
+ Randomization will be performed independently to the trial team using a computer generated variable block randomization program.
+
+ All data will be confidentially recorded on a Case Report Form, as will drug reactions and side effects.
+
+.
+
+ IVICA: Intravenous Iron in Colorectal Cancer Associated Anaemia@highlight
+
+116 eligible patients with confirmed non-metastatic colorectal adenocarcinoma and anemia will be randomized to receive either oral ferrous sulphate (control) or intravenous ferric carboxymaltose (intervention).
+
+ It is hypothesized that intravenous iron supplementation is more efficacious than oral iron therapy.
+

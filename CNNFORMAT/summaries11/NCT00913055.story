@@ -1,0 +1,16 @@
+(firstQuint)Open Label Study of Octreotide Implant in Patients With Acromegaly.
+
+ An open-label, randomized, multi-center, parallel-group, Phase I/II study conducted in 30 male and female patients with acromegaly.
+
+ Eligible patients received 1 implant, either hydrated or non-hydrated, within 7 days of their Screening Visit.
+
+ The octreotide implant was inserted subcutaneously in the inner aspect of their non-dominant arm under local anesthesia.
+
+ Blood samples for the determination of insulin-like growth factor 1 (IGF-1), growth hormone (GH), and octreotide serum concentrations were collected at predetermined timepoints within the first 6 weeks after implantation.
+
+.
+
+ Open Label Study of Octreotide Implant in Patients With Acromegaly@highlight
+
+To evaluate the pharmacokinetic (PK) and pharmacodynamic (PD) response of a hydrated and non-hydrated 84 mg octreotide implant in patients with acromegaly in the first 6 weeks of treatment.
+

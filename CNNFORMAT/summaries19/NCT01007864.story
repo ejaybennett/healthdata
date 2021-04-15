@@ -1,0 +1,24 @@
+(thirdQuint)Influence of Piribedil (Clarium) on Vigilance and Cognitive Function in Patients With Parkinson's Disease Compared to Other Non-Ergot Dopamine Agonists.
+
+ Treatment of motor symptoms associated with PD by non-ergot dopamine agonists has been proven to be effective, both as monotherapy and in combination with levodopa.
+
+ Non-motor symptoms like cognitive or sleep-related disorders and disturbed vigilance, however, are common in PD and can significantly worsen health and quality of life of the patient and family members.
+
+ Some of these non-motor symptoms may also be caused by the antiparkinsonian medication per se.
+
+ The Committee for Proprietary Medicinal Products (CPMP) initiated a review of dopamine agonists in relation to episodes of sudden onset of sleep already in 2000 which resulted in special warnings of somnolence and sudden sleep attacks in the non-ergot dopamine agonists' summary of product characteristics.
+
+ Beneficial effects of piribedil on parameters of vigilance and cognition have been described in several studies.
+
+ But, as it seems, no study has been performed so far to identify such effects in the setting of a comparative study with different oral non-ergot dopamine agonists in patients with PD, and utilizing vigilance and cognitive parameters as primary and main secondary objective.
+
+ The neuropsychological tests being applied in this study are validated and routinely used tests in studies investigating different aspects of attention or vigilance and cognition.
+
+.
+
+ Influence of Piribedil (Clarium) on Vigilance and Cognitive Function in Patients With Parkinson's Disease Compared to Other Non-Ergot Dopamine Agonists@highlight
+
+The purpose of this clinical trial is to investigate the effects of the non-ergot dopamine agonist piribedil on vigilance and cognitive performances in patients with Parkinson's disease in comparison with other oral non-ergot dopamine agonists.
+
+ It should be tested whether piribedil is superior to continued pramipexole or ropinirole treatment regarding improvement of reduced vigilance and cognitive performance in patients with Parkinson's disease.
+

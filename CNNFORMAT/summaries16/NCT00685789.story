@@ -1,0 +1,14 @@
+(firstQuint)Acupuncture With Deqi And Psychological Effects in Treatment of Bell's Palsy.
+
+ Through long-term clinical practice,acupuncture treatment on facial paralysis has been generally proved effective;the large number of ancient and modern medical literature also have suggested that acupuncture is beneficial for facial paralysis.
+
+ However,a scientific basis is still needed to be established to make sure the efficacy of acupuncture be recognized internationally.
+
+This study will adopt a series of international practice scales ,such as House Brackmann Scale,Facial Disability Index(FDI),World Health Organization Quality of Life-BREF (WHOQOL-BREF), Cattell Personality Factors (16PF),and Cancellation test to evaluate the role of deqi and neuropsychological factors in the acupuncture treatment for Bell's Palsy.
+
+.
+
+ Acupuncture With Deqi And Psychological Effects in Treatment of Bell's Palsy@highlight
+
+The purpose of this study is to observe the influence of Deqi and neuropsychological factors on effects of acupuncture treatment for Bell's Palsy.
+

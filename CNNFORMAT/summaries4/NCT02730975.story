@@ -1,0 +1,24 @@
+(thirdQuint)Pharmacokinetic Food-effect Study of Abiraterone Acetate (AA) in Castration Resistant Prostate Cancer.
+
+ Abiraterone acetate (AA) has been approved for the treatment of mCRPC after docetaxel progression at doses of 1.
+
+000 mg per day taken in fasting conditions.
+
+ However, it has been described both the significant food-effect on bioavailability up to 5 to 10 times folder increase depending on the fat content of the diet.
+
+ These data come from the analysis of a small number of patients in phase I studies conducted in the early stages of drug development and some exploratory study in healthy subjects.
+
+ There is not prospective randomized study that has analyzed the real impact of the normal diet in the bioavailability of the drug (not a fatty diet like has been used in initial studies).
+
+ Given the particular epidemiology of mCRPC (relatively frequent pathology), and taking into account recent data which indicates positive results of AA treatment in patients who had not previously received chemotherapy, a significant use of this drug is anticipated in the uro-oncology community in the coming years.
+
+ The precise definition of dose according to the food-effect on bioavailability may be critical not only from a purely medical perspective and / or pharmacological but even for its socioeconomic impact in our health system.
+
+ The hypothesis for this study is to prove that AA administered in reduced doses with standard diet presents a suitable pharmacokinetic profile which would achieve therapeutic levels in blood, so that regimens lower than currently approved in association with food can be used in future studies on efficacy.
+
+.
+
+ Pharmacokinetic Food-effect Study of Abiraterone Acetate (AA) in Castration Resistant Prostate Cancer@highlight
+
+ABIFOOD study is a randomized open-labelled, phase I study to evaluate food effect in the pharmacokinetic parameters of abiraterone acetate (AA) at reduced doses, versus AA in fasting conditions at conventional doses, in castration resistant prostate cancer (mCRPC) patients who have progressed to docetaxel.
+

@@ -1,0 +1,26 @@
+(firstQuint)Effect of Antacid on Bioavailability of Febuxostat After Administration of a Febuxostat 80 mg Extended-Release Capsule.
+
+ The drug being tested in this study is called febuxostat extended-release (XR).
+
+ Febuxostat XR is being tested to assess if antacids affect how the drug moves throughout the body.
+
+ This study will look at lab safety and side effects in people who take febuxostat XR.
+
+ This cross-over study will enroll approximately 36 patients.
+
+ Participants will be randomly assigned to one of four treatment sequences.
+
+ All participants will receive the following study medications by the end of the study: - Febuxostat XR 80 mg capsules - Maalox Advance Regular Strength liquid containing Aluminum Hydroxide 200 mg, Magnesium Hydroxide 200 mg, and Simethicone 20 mg/5 mL or equivalent All participants will be administered one dose of one or both of the study medications on Day 1 of four separate study periods.
+
+ This single-centre trial will be conducted in the United States.
+
+ The overall time to participate in this study is up to 84 days.
+
+ Participants will make 5 visits to the clinic including four 4-day periods of confinement to the clinic, and will be contacted by telephone 30 days after last dose of study drug for a follow-up assessment.
+
+.
+
+ Effect of Antacid on Bioavailability of Febuxostat After Administration of a Febuxostat 80 mg Extended-Release Capsule@highlight
+
+The purpose of this study is to assess the effect of antacid administration, and its timing, on the bioavailability of a single dose of febuxostat extended-release (XR) 80 mg.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Comparison of Secretin-enhanced Magnetic Resonance Cholangiopancreatography (S-MRCP) to Endoscopic Pancreatic Function Test (ePFT) in Diagnosing Pancreatic Exocrine Insufficiency.
+
+ Surgical resection offers the only hope of cure for pancreatic adenocarcinoma.
+
+ While perioperative mortality rates have declined in recent years, pancreatic resection is still associated with significant postoperative malnutrition, maldigestion, and glucose intolerance, mostly as a result of pancreatic insufficiency.
+
+ Quantifying individual pancreatic function remains a challenge, but is essential in improving the survival and quality of life of pancreatic cancer patients.
+
+ Secretin-enhanced magnetic resonance cholangiopancreatography (S-MRCP) has recently emerged as a widely-accepted noninvasive technique to assess morphological changes in pancreatic ducts, as well as functional secretory capacity of the gland.
+
+ The aim of our study is to evaluate S-MRCP as a means to evaluate for pancreatic exocrine insufficiency.
+
+ This will be a prospective study of twelve patients who have undergone pancreatic resection and who have symptoms of abdominal pain, steatorrhea or weight loss.
+
+ We will be comparing quantitative parameters of S-MRCP (maximal change in pancreatic duct diameter and volume before and after secretin administration) with endoscopic pancreatic function testing (maximal bicarbonate concentration in duodenal aspirate after secretin administration).
+
+.
+
+ Comparison of Secretin-enhanced Magnetic Resonance Cholangiopancreatography (S-MRCP) to Endoscopic Pancreatic Function Test (ePFT) in Diagnosing Pancreatic Exocrine Insufficiency@highlight
+
+The aim of our study is to evaluate S-MRCP, in comparison to direct pancreatic function, to measure pancreatic exocrine function in patients who have symptoms suspicious for insufficiency.
+
+ We hypothesize that S-MRCP imaging parameters will correlate well with the direct pancreatic exocrine functioning.
+

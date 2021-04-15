@@ -1,0 +1,40 @@
+(fifthQuint)Pharmacogenetics of Disulfiram for Cocaine.
+
+ Dopamine, a type of neurotransmitter, is the brain's "feel good" chemical.
+
+ The amount of dopamine in the body may be an important factor in how cocaine addicts respond to treatment.
+
+ Disulfiram, like cocaine, enhances dopamine activity.
+
+ Upon taking disulfiram, subsequent intake of cocaine may elevate dopamine to excessive levels that produce extreme discomfort.
+
+ DBH is an enzyme that breaks down dopamine.
+
+ A particular variation in the DBH gene can affect the amount of dopamine that is released in the body.
+
+ Therefore, cocaine addicts with varying DBH genes may respond differently to treatment.
+
+ The purpose of this study is to compare the effectiveness of disulfiram in preventing relapse among methadone-maintained individuals addicted to both cocaine and opioids who may have different DBH genes.
+
+ This 17-week study will begin with a 2-week methadone stabilization period.
+
+ Participants will then be randomly assigned to receive a daily dose of either 250 mg of disulfiram or placebo for 12 weeks, while concurrently receiving methadone treatment.
+
+ All participants will stop receiving study medication at Week 14, at which point they will undergo a 4-week methadone detoxification period.
+
+ Participants will report cocaine and other drug use, as well as any cocaine cravings that they experience.
+
+ Cocaine levels will be monitored throughout the study with urine tests.
+
+ The DBH gene of each participant will be examined to determine its specific make-up and any particular variations.
+
+.
+
+ Pharmacogenetics of Disulfiram for Cocaine@highlight
+
+Previous research has shown that disulfiram, a medication sometimes used for treating alcoholism, discourages cocaine use among cocaine addicts who are undergoing methadone treatment.
+
+ By blocking the enzyme dopamine beta hydroxylase (DBH), disulfiram increases levels of dopamine and produces an unpleasant sense of hyperstimulation and discomfort in cocaine users.
+
+ This study will evaluate the effectiveness of disulfiram in preventing drug relapse among cocaine and opiate addicts with varying inherited levels of DBH.
+

@@ -1,0 +1,13 @@
+(firstQuint)Real Life of Aflibercept In FraNce: oBservatiOnnal Study in Wet AMD.
+
+ The study is both retrospective and prospective to collect local real life data on patients under routine treatment.
+
+ The observation period starts on January 2014.
+
+ Patients who have received the 1st injection with Eylea from January 2014 will be enrolled.
+
+ Patients will be followed up for a period of 48 months or until it is no longer possible.
+
+ Real Life of Aflibercept In FraNce: oBservatiOnnal Study in Wet AMD@highlight
+
+The purpose of this study is to collect real-life data on patients with wet age related macular degeneration (AMD) for whom treatment with Eylea was initiated

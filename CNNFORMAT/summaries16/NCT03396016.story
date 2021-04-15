@@ -1,0 +1,58 @@
+(fifthQuint)Plasmatic Factor V as a Predictor of Graft Dysfunction After Liver Transplantation.
+
+ There is no widely accepted biomarker to assess hepatic function after Liver Transplantation (LT).
+
+ Factor V is a coagulation cofactor that is primarily produced by the liver.
+
+ Factor V has a short half-life and its production does not depend on vitamin K, relying mainly on liver function.
+
+ These singular characteristics make Factor V plasmatic levels strictly linked to liver function.
+
+ Previous data has suggested a correlation between factor V levels and graft dysfunction.
+
+ The investigators hypothesize that Factor V may predict graft dysfunction after LT, and become a reliable biomarker for hepatic function after LT.
+
+ Therefore, the aim is to validate the use of Factor V as a predictor of graft dysfunction after LT.
+
+ This is a single-center prospective validation study.
+
+ Participants (patients undergoing LT at the University Health Network) will have plasmatic Factor V levels measured on postoperative days (POD) 1, 2, 3, 5 and 7.
+
+ Participants will be followed up to 12 months.
+
+ The study primary outcome will be early graft dysfunction as defined by Olthoff et al.
+
+ Secondary outcomes will be 3-, 6- and 12-months graft and patient survival.
+
+ Graft loss will be defined as need for retransplantation in the study period.
+
+ Potential confounders will be assessed in a multivariate regression model.
+
+ No other intervention will be done to the patients.
+
+ The results of this study may validate the use of this biomarker for graft dysfunction and mortality after LT.
+
+ These results will impact LT research and direct patient care.
+
+.
+
+ Plasmatic Factor V as a Predictor of Graft Dysfunction After Liver Transplantation@highlight
+
+Factor V is a coagulation cofactor that is primarily produced by the liver.
+
+ Previous data has suggested a correlation between factor V levels and graft dysfunction.
+
+ The investigators hypothesize that Factor V may be a reliable biomarker for hepatic function after LT.
+
+ Therefore, the aim of this study is to validate the use of Factor V as a predictor of graft dysfunction after LT.
+
+ This is a single-center prospective validation study.
+
+ Patients undergoing LT at the University Health Network will have plasmatic Factor V levels measured during postoperative week 1.
+
+ Patients will be followed up to 12 months.
+
+ The study outcomes will be early graft dysfunction, and graft and patient survival.
+
+ Graft loss will be defined as need for retransplantation in the study period.
+

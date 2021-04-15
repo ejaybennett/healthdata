@@ -1,0 +1,20 @@
+(secondQuint)Effects of Dextrose on Knee Osteoarthritis.
+
+ A total of 106 patients will be collected.
+
+ The participants will be randomized into two groups, including hyaluronic acid group and hyaluronic acid combined dextrose group.
+
+ The hyaluronic acid group will receive 3 times of hyaluronic acid injection per week in three weeks; the hyaluronic acid combined dextrose group will receive 3 times of hyaluronic acid combined dextrose injection per week in three weeks.
+
+ The pain, physical activity, and functional performance will be evaluated.
+
+ All the evaluations will be re-evaluated at one week after injection, one month after injection, three months after injection, and six month after injection.
+
+ Subjects and the evaluator will be both blinded to the group's classification during the whole course of study.
+
+.
+
+ Effects of Dextrose on Knee Osteoarthritis@highlight
+
+Using double blind, randomized controlled design to study the immediate, short-term and intermediate-term therapeutic effects of ultrasound guided hyaluronic acid injection and hyaluronic acid combined dextrose injection to patients with knee osteoarthritis.
+

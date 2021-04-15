@@ -1,0 +1,22 @@
+(thirdQuint)Effect of Body-mass Index (BMI) on Median Effective Dose of Intrathecal Hyperbaric Bupivacaine.
+
+ The effect of BMI on requirements of local anesthetics used in spinal anesthesia has not been well established.
+
+ The investigators tried to quantify the effect of BMI on spinal anesthesia by comparing the median effective dose (ED50)of intrathecal bupivacaine between two different BMI groups.
+
+ The investigators determined the ED50 and ED 95 of intrathecal hyperbaric bupivacaine of subjects with BMI below 27.
+
+5 kg/m2, and subjects with BMI over 27.
+
+5 kg/m2, respectively.
+
+ By comparing the difference of ED50 and ED95 between the groups, the investigators tried to quantify the effect of BMI on the bupivacaine dose requirement.
+
+.
+
+ Effect of Body-mass Index (BMI) on Median Effective Dose of Intrathecal Hyperbaric Bupivacaine@highlight
+
+The effect of Body-mass index (BMI) on requirements of local anesthetics used in spinal anesthesia has not been well established.
+
+ The investigators tried to quantify the effect of BMI on spinal anesthesia by comparing the median effective dose of intrathecal bupivacaine between two different BMI groups.
+

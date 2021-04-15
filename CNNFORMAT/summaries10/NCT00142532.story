@@ -1,0 +1,30 @@
+(thirdQuint)Acupuncture for Post-Thoracotomy Pain.
+
+ Rationale: Acupuncture is the insertion of very fine needles into the skin to treat symptoms.
+
+ In recent years, researchers have come to understand how acupuncture might work in terms of nerve stimulation and the release of chemical messages in the body.
+
+ Researchers have found evidence that acupuncture is useful in treating a variety of conditions, including headache, nausea, and pain after surgery.
+
+ Pain is a common problem after surgery for lung cancer.
+
+ Many patients experience pain in the first few days after surgery, despite medication.
+
+ In some patients, this pain can last for many months or years afterwards.
+
+ Purpose: A pilot study of acupuncture in patients undergoing lung cancer surgery was conducted previously and found that this study was feasible to implement and well-received by patients.
+
+ We now wish to conduct a larger study in order to determine the effects of acupuncture on pain in patients undergoing surgery for lung cancer.
+
+ - To determine whether acupuncture versus placebo acupuncture after thoracotomy reduces pain or analgesic use - To determine whether acupuncture affects the immediate post-operative period and/or 30, 60,90 days and approximately 12 months later.
+
+.
+
+ Acupuncture for Post-Thoracotomy Pain@highlight
+
+Pain after surgery for lung cancer (thoracotomy) may persist for years and require long-term analgesic use.
+
+ Prior studies have shown that acupuncture reduces pain and medication use in the early post-operative period after abdominal surgery, suggesting that acupuncture may have a role in preventing chronic post-thoracotomy pain.
+
+ This study is being done in order to determine the effects of acupuncture on pain in patients undergoing surgery for lung cancer.
+

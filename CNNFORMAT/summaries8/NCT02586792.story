@@ -1,0 +1,58 @@
+(fifthQuint)H7N9 Boost in Healthy Adults.
+
+ This is a Phase II, open-label study in up to 50 males and non-pregnant females, 19 to 50 years old, inclusive, who are in good health and meet all entry criteria.
+
+ The study is designed to assess the safety, reactogenicity, and immunogenicity of a single dose of a monovalent inactivated influenza A/H7N9 virus vaccine (45 mcg of HA/0.
+
+75 mL) manufactured by Sanofi Pasteur administered to healthy adults who previously received two doses of monovalent inactivated influenza A/H7N7 virus vaccine manufactured by Sanofi Pasteur or one or two doses of placebo in Protocol 07-0023.
+
+ All subjects will receive a single dose of the inactivated influenza A/H7N9 vaccine delivered intramuscularly.
+
+ Reactogenicity will be measured by the occurrence of solicited injection site and systemic reactions from the time of the study vaccination Day 1/Visit 01 through 8 days after the study vaccination.
+
+ Unsolicited non-serious adverse events (AEs) will be collected from the time of the study vaccination through roughly 28 days after the study vaccination.
+
+ Serious adverse events (SAEs) and new-onset chronic medical conditions will be collected from the time of the study vaccination through roughly 6 months after the study vaccination.
+
+ Immunogenicity testing against A/H7N9 and A/H7N7 antigens will include performing hemagglutination inhibition (HAI) and neutralizing (Neut) antibody assays on serum obtained immediately prior to the study vaccination, and roughly 8 and 28 days after the study vaccination.
+
+ An additional 60 mL of venous blood will be drawn immediately prior to the study vaccination, and roughly 8 and 28 days after the study vaccination for exploratory cellular immunology assays.
+
+ The duration of this study for each subject will be roughly 6 months.
+
+ The primary objectives are 1.
+
+ to assess the safety and reactogenicity of a single dose monovalent inactivated influenza A/H7N9 virus vaccine in individuals who previously received two intramuscular doses of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+ 2.
+
+ To assess the serum hemagglutination inhibition (HAI) antibody responses against A/H7N9 roughly 28 days following receipt of a single dose of a monovalent inactivated influenza A/H7N9 virus vaccine in individuals who previously received two intramuscular doses of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+ The secondary objectives are 1.
+
+ To assess study-vaccine related unsolicited non-serious adverse events following receipt of one dose of a monovalent inactivated influenza A/H7N9 virus vaccine in individuals who previously received two intramuscular doses of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+ 2.
+
+ To assess new-onset chronic medical conditions following receipt of one dose of a monovalent inactivated influenza A/H7N9 virus vaccine in individuals who previously received two intramuscular doses of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+3) To assess the serum HAI antibody responses against A/H7N9 at baseline and about 8 days following receipt of a single dose of a monovalent inactivated influenza A/H7N9 virus vaccine in individuals who previously received two intramuscular doses of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+ 4.
+
+ To assess the serum neutralizing (Neut) antibody responses against A/H7N9 at baseline and roughly 8 and 28 days following receipt of a one dose of a monovalent inactivated influenza A/H7N7 virus vaccine or are A/H7 vaccine-naive.
+
+.
+
+ H7N9 Boost in Healthy Adults@highlight
+
+The study will be an open-label phase 2 clinical trial of a single dose of an inactivated H7N9 influenza vaccine (non-adjuvanted).
+
+ The subjects of the study will have previously participated in DMID trial 07-0023, evaluating inactivated Influenza A/H7N7 vaccine.
+
+ In the previous study healthy adults 18 to 40 years old were randomized to receive two doses, 28 days apart, of placebo or 7.
+
+5, 15, 45, or 90 ug of the influenza vaccine by IM injection in a 1:1 ratio (N=25/vaccine group and 25 in placebo group).
+
+ The primary objectives are to 1) assess the safety and reactogenicity of a single dose A/H7N9 vaccine in individuals who previously received two IM doses of an A/H7N7 vaccine or are A/H7 vaccine-naive and 2) To assess the serum hemagglutination inhibition (HAI) antibody responses against A/H7N9 approximately 28 days following receipt of a single dose of A/H7N9 vaccine in individuals who previously received two IM doses of A/H7N7 vaccine or are A/H7 vaccine-naive.
+

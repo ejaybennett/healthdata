@@ -1,0 +1,15 @@
+(secondQuint)Effect of FDG-PET/CT for Simulation and Radiation Treatment Planning in Oral Cancer Patients.
+
+ Radiotherapy improves local control and overall survival for oral cavity cancer patients after surgery.
+
+ However, limited locoregional control remains a key issue in the management of oral cavity carcinomas.
+
+ Appropriate target selection is a key issue in the radiotherapy of oral cavity cancer.
+
+ The purpose of this study is to determine the locoregional control in PET/CT based radiotherapy treatment planning in the treatment of oral cancer.
+
+ Effect of FDG-PET/CT for Simulation and Radiation Treatment Planning in Oral Cancer Patients@highlight
+
+This study evaluates the effect of FDG-PET/CT for Simulation and Radiation Treatment Planning in oral Cancer patients.
+
+ Progress-free survival (PFS) will be compared with historical control as defined in the protocol

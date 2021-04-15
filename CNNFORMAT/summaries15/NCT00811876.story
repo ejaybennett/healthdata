@@ -1,0 +1,19 @@
+(firstQuint)Retrospective, Non-interventional Study of Depo-Eligard.
+
+.
+
+ The study will provide data on the tolerance, safety and acceptance of Depo-Eligard(R) (leuproreline acetate) when used in routine clinical practice.
+
+ Data on efficacy parameters such as testosterone, PSA levels, symptoms and treatment failure, if available will be collected.
+
+It will reflect the way Depo-Eligard(R) is used in routine clinical practice and how PSA, testosterone levels, symptoms and treatment failure, are used as parameters in the treatment for Prostate Cancer.
+
+ Patient data will be collected after a treatment period of six months.
+
+.
+
+ Retrospective, Non-interventional Study of Depo-Eligard.
+
+@highlight
+
+Study will evaluate the real-world effectiveness of Depo-Eligard(R) after six months of treatment

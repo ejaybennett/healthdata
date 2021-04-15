@@ -1,0 +1,26 @@
+(fifthQuint)Using Visual Feedback to Influence Rapid Response in the Treatment of Eating Disorders.
+
+ There is a growing body of research indicating that the best predictor of treatment outcome for eating disorders is a "rapid response" - or a 65% drop in symptoms such as binge eating or purging - in the first four weeks of Cognitive Behavior Treatment (CBT).
+
+ Research is only now beginning to look at whether it is possible to increase the number of rapid responders by directly encouraging this behavior in patients.
+
+ This study has two aims: 1) to validate information obtained about symptoms in a Weekly Symptom Checklist (WSC) against information obtained in clinical interview; and 2) to examine whether, in a context where rapid response is being discussed and actively encouraged, the rates of rapid response can be improved by providing patients with visual of symptom change in the first weeks of treatment.
+
+ Investigators hypothesize that there will be significant correspondence between the WSC and clinical interview.
+
+ Investigators also hypothesize that being given a visual of symptom change in the first weeks of treatment will result in higher rates of rapid response in patients being encouraged to achieve these objectives; and that rapid response will be related to higher rates of symptom remission at the end of treatment.
+
+ Participants will be 40 patients diagnosed with Bulimia Nervosa, Binge Eating Disorder or Purging Disorder.
+
+ These patients will be spread across 6 treatment groups.
+
+ Three groups will be randomly selected (balanced across clinicians) to either receive or not receive visual feedback on change in frequency of symptoms based on their responses to the Weekly Symptom Checklist (WSC).
+
+.
+
+ Using Visual Feedback to Influence Rapid Response in the Treatment of Eating Disorders@highlight
+
+This study has two aims: 1) to test the validity of an eating disorder symptom checklist against an established clinical interview; and 2) to examine whether providing eating disorder patients with visual graphs of their symptom frequency in the early sessions of active treatment will lead to higher numbers of patients achieving a "rapid response" (65% reduction in symptoms in the first 4 weeks of treatment).
+
+ Groups where patients receive visual graphs of symptom frequency will be compared with groups where patients do not receive visual graphs of symptom frequency on rates of rapid response to cognitive behavior treatment for eating disorders.
+

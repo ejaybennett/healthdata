@@ -1,0 +1,14 @@
+(secondQuint)A Safety, Pharmacokinetics, and Pharmacodynamics Study of ABX464 in HIV-1 Seronegative and Seropositive Adults.
+
+ The purpose of the ABX464-005 study is to characterize the systemic and mucosal immunological sequelae associated with exposure to ABX464 and to explore selected immunological endpoints, compartmental pharmacokinetics, and pharmacodynamics.
+
+ The site will screen and enroll 12 HIV-infected subjects who will receive 150 mg ABX464 orally once daily for 28 days (Cohort 1).
+
+ Following completion of this cohort a further 24 subjects will be enrolled: 12 HIV-uninfected subjects will receive 50 mg ABX464 orally once daily for 28 days (Cohort 2) and 12 HIV-infected subjects (Cohort 3) who will 50 mg ABX464 orally once daily for 84 days.
+
+.
+
+ A Safety, Pharmacokinetics, and Pharmacodynamics Study of ABX464 in HIV-1 Seronegative and Seropositive Adults@highlight
+
+The purpose of the ABX464-005 study is to characterize the systemic and mucosal immunological sequelae associated with exposure to ABX464 and to explore selected immunological endpoints, compartmental pharmacokinetics, and pharmacodynamics.
+

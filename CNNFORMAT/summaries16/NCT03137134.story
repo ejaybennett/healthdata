@@ -1,0 +1,20 @@
+(firstQuint)A Study to Evaluate the Effects of Food and Esomeprazole on the Pharmacokinetics of Crizotinib in a Coated Microsphere Formulation.
+
+.
+
+ This study is an open-label, randomized, 4-period, 5-treatment, 6-sequence study in adult healthy volunteers.
+
+ Subjects will receive up to four separate single oral 300 mg doses of a coated microsphere (cMS) formulation of crizotinib.
+
+ Period 1 through Period 3 will evaluate the effect of food, and, the effect of multiple doses of a gastrointestinal acid reducing agent, esomeprazole, in fasted state, on the pharmacokinetics (PK) of crizotinib cMS.
+
+ Period 4 will evaluate whether apple sauce or orange juice may reduce the effect of multiple doses of esomeprazole on the PK of crizotinib cMS, if there is an effect.
+
+.
+
+ A Study to Evaluate the Effects of Food and Esomeprazole on the Pharmacokinetics of Crizotinib in a Coated Microsphere Formulation.
+
+@highlight
+
+This study will estimate the effect of food and the proton pump inhibitor, esomeprazole on the pharmacokinetics of crizotinib in a coated microsphere formulation.
+

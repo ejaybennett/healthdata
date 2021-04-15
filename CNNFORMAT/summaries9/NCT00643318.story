@@ -1,0 +1,16 @@
+(secondQuint)CyberKnife Radiosurgical Treatment of Inoperable Early Stage Non-Small Cell Lung Cancer.
+
+ The objectives of this clinical evaluation are to assess the outcomes of patients who undergo stereotactic radiosurgery (SRS) to treat primary early stage non-small cell lung cancer (NSCLC) in patients (comprising of two cohorts, peripheral and central) who are not candidates for surgical resection because of high operative risks.
+
+ In particular, the effect of CyberKnife SRS on clinical response rate, local control, progression-free survival, overall survival, dyspnea and QOL (for U.
+
+S.
+
+ sites), and radiological findings over two years after treatment will be evaluated.
+
+.
+
+ CyberKnife Radiosurgical Treatment of Inoperable Early Stage Non-Small Cell Lung Cancer@highlight
+
+The purpose of this study is to assess the short and long-term outcomes after CyberKnife stereotactic radiosurgery for early stage non-small cell lung cancer (NSCLC) in patients who are medically inoperable.
+

@@ -1,0 +1,58 @@
+(fifthQuint)Neurovascular Changes Induced by Chemotherapy.
+
+ The purpose of the present study was to test the hypothesis that doxorubicin and cyclophosphamide adjuvant chemotherapy (CHT) acutely induces neurovascular and hemodynamic changes in patients with breast cancer.
+
+ To test this hypothesis, the patients were submitted in two experimental sessions, saline and chemotherapy, respectively.
+
+ Saline Session.
+
+ After fasting for 2 hours and abstaining from caffeine for 24 hours, the patients were positioned in a supine position.
+
+ An intra-venous catheter was placed into the brachial venous in the contralateral arm of the breast surgery.
+
+ Microelectrodes were positioned for MSNA measures in right leg, cuffs were placed around the leg for blood flow assessments and finger cuff was placed in 3 finger of hand for measurement of hemodynamic variables.
+
+ After the instrumentation, an interval of 10 minutes was allowed, followed by blood sample collections for measurement of MPEs and, hemodynamic and neurovascular measures by period of 15 minutes (pre-infusion).
+
+ Then, dexamethasone 20 mg and ondansetron 8 mg were administered i.
+
+v.
+
+, followed by saline 0,09%, during 45 minutes.
+
+ During saline infusion were continuously measured the neurovascular and hemodynamic variables.
+
+ Finally, after saline administration, another blood sample was collected for MPEs dosing, followed by continuous measurement of hemodynamic and neurovacular variables by 15 minutes period (Figure 1).
+
+ Chemotherapy session.
+
+ After a 2 to 3 day-interval, the patients were again positioned in a supine position in a temperature-controlled room (22oC).
+
+ An intra-venous catheter was placed into the brachial venous in the contralateral arm of the breast surgery.
+
+ Then, microelectrodes were positioned in the contralateral leg of the first session for MSNA measures.
+
+ Likewise, cuffs were placed around the contralateral leg of the first protocol for blood flow assessments.
+
+ After the instrumentation, an interval of 10 minutes was allowed, followed by blood sample collections and basal hemodynamic and neurovascular measures.
+
+ Then, dexamethasone 20 mg and ondansetron 8 mg were administered, i.
+
+v.
+
+, followed by doxorubicin and cyclophosphamide, during 45 minutes.
+
+ During doxorubicin and cyclophosphamide infusions were continuously measured the neurovascular and hemodynamic variables.
+
+ Finally, after doxorubicin plus cyclophosphamide administration, another blood sample was collected for EMPs dosing, followed by continuous measurement of hemodynamic and neurovacular variables by 15 minutes period.
+
+ Neurovascular Changes Induced by Chemotherapy@highlight
+
+The purpose of the present study was to test the hypothesis that doxorubicin and cyclophosphamide adjuvant chemotherapy (CHT) acutely induces neurovascular and hemodynamic changes in patients with breast cancer.
+
+ To test this hypothesis, women with breast cancer (stage II-III) underwent two experimental sessions, saline (SL) and CHT.
+
+ In the CHT session, doxorubicin (60 mg/m2) and cyclophosphamide (600mg/m2) were administred in 45 min.
+
+ In the SL session, a matching saline volume to that of the CHT session was infused over 45 min.
+

@@ -1,0 +1,166 @@
+(fifthQuint)Predictive Value of the FORE-SIGHT Monitor for Hemodynamic Deterioration.
+
+ 1.
+
+ Background Accurate hemodynamic monitoring often requires the use of invasive tools or catheters.
+
+ Many of these tools, available for adults, cannot be used for critically ill infants and children, because of their size, and because these invasive techniques carry a high risk of complications.
+
+ Non-invasive monitoring techniques that allow for detecting critical hemodynamic states are of high interest in this population.
+
+ FORE-SIGHT cent is a non-invasive tool to measure cerebral tissue oxygen saturation.
+
+ Cerebral tissue oxygen saturation (SctO2) values are important to clinicians because cerebral hypoxia (lack of oxygen supply to brain tissue) is one of the leading causes of brain injuries that occur in many surgical and clinical situations.
+
+ The FORE-SIGHT cent Cerebral Oximeter utilizes optically-based Near Infra-Red Spectroscopy (NIRS) technology to monitor absolute SctO2.
+
+ It works by projecting harmless near infra-red light through the scalp and skull and into the brain via a disposable sensor on the patient's forehead.
+
+ The device measures the light that is returned to detectors on the sensor and analyzes this information utilizing patented algorithms to determine absolute cerebral tissue oxygen saturation levels.
+
+ The FORE-SIGHT cent is designed to monitor SctO2 in a continuous way, and provides clinicians an opportunity to intervene before damage to the brain occurs.
+
+ The monitor is currently part of the standard monitoring for children undergoing cardiopulmonary bypass, in the operating theatre, and is often continued in the postoperative phase in the pediatric intensive care unit (PICU) of the university hospitals Leuven.
+
+ Several studies have pointed to the potential advantages of SctO2 monitoring in the peri-operative phase after cardiac or abdominal surgery in adults [1,2,3,4], as well as in children undergoing surgical corrections of congenital cardiac defects [5,6,7].
+
+ Low SctO2 values are associated with worse outcome, and correspond with data from other monitors indicating that the oxygen content of the brain at that time is insufficient.
+
+ In particular, the duration of SctO2 desaturations below 55%, 60%, and 65%, is predictive for postoperative complications [8].
+
+ These studies, however, have only analyzed the use of NIRS as a tool to monitor the brain at times when it is at the highest risk, during complex surgery with a compromised circulation.
+
+ Although there is no evidence that has demonstrated that decision making based on NIRS data is favorable for patient outcome, many centers use NIRS as a monitoring tool outside of the surgical environment.
+
+ Because the brain is very sensitive to changes in oxygenation, monitoring of SctO2 might provide an indication of critical changes in the hemodynamic state of the patient, and thus serve as a monitor for the general hemodynamic status of the patient.
+
+ The present study wishes to examine the added value of SctO2 monitoring over the routine monitoring of pediatric patients in PICU, in the postoperative phase after cardiac surgery.
+
+ Ideally, in order to be of added value, SctO2 changes should precede an episode of hemodynamic deteriorations.
+
+ Prediction is at the heart of intensive care medicine, where physicians make use of their medical knowledge and all the patient-related data in order to foresee changes in the patient's condition, and administer the appropriate (preventive) treatments.
+
+ An intensive care unit (ICU) is a very data-rich environment with several information sources, such as admission records, medical history, laboratory analyses of samples, medication and treatment records, and monitoring of vital signals.
+
+ A Patient Data Management System (PDMS) (MetaVision(R), iMD-Soft(R), Boston, MA) was installed in our ICU starting in February 2006.
+
+ This PDMS software automatically collects and integrates the data from the multiple information sources.
+
+ One of the benefits of having all patient-related data in an integrated format is that it can be readily analyzed through the use of computational techniques in general and data mining in particular.
+
+ These techniques make use of the information in large databases to automatically generate models that can be used for prediction (e.
+
+g.
+
+ to predict a patient's probability of survival in ICU).
+
+ In previous studies our research group has shown the high predictive performances than can be obtained with data mining models in the intensive care domain.
+
+ In this study we will make use of data mining techniques to assess the predictive power of SctO2-monitoring for future hemodynamic deterioration of the PICU patient after cardiac surgery, by analyzing data collected in the PDMS, including the FORE-SIGHT cent NIRS.
+
+ 2.
+
+ Aims of the project cent To assess the independent predictive power of the FORE-SIGHT cent NIRS signal for future hemodynamic deterioration of critically ill infants and children, in the postoperative phase after cardiac surgery.
+
+ cent To assess the predictive power of the FORE-SIGHT cent NIRS signal for outcome in critically ill infants and children, in the postoperative phase after cardiac surgery.
+
+ 3.
+
+ Study design Prospective, observational, non-interventional study.
+
+ All eligible children will be monitored with the FORE-SIGHT cent , from admission until they are weaned off mechanical ventilation.
+
+ Typically, patients admitted after cardiac surgery in the PICU of the university hospitals Leuven are mechanically ventilated between 12 hours and two weeks [8].
+
+ The FORE-SIGHTTM SctO2 signal will be blinded to the bedside clinician and will be stored in the PDMS system for analysis.
+
+ The first 20 minutes of data after arrival to the ICU will not be used for the analysis, since during this time the patient typically stabilizes to the new environment after transport, and the data are therefore not characteristic of the ICU stay.
+
+ Data from these patients will be used for analysis, to build predictive models.
+
+ A copy of the PDMS database, after removal of all data that refer to the identity of the patients, will be used for data analysis.
+
+ Data mining models, such as simple logistic regression models, but also more advanced machine learning techniques (models automatically learned by a computer algorithm, such as Decision Tree models [9], Bayesian Networks, Gaussian Processes, Support Vector Machines, .
+
+.
+
+.
+
+), will assess the independent predictive power of the FORE-SIGHT cent signal over the routinely monitored data.
+
+ 1.
+
+ FORE-SIGHT cent for early detection of future hemodynamic instability.
+
+ First, models will be built to assess the independent predictive power of the FORE-SIGHT cent signal to detect episodes of hemodynamic instability 10 minutes in advance.
+
+ Since cardiac output is not directly measured invasively in children, such an episode is evidenced by indirect signs.
+
+ If one of more of the following criteria is met, this is considered to be an episode of hemodynamic instability.
+
+ 1.
+
+ Hemodynamic monitoring cent Heart Rate >160 or cent Systolic Blood Pressure cent Venous Saturation (SvO2) cent Lactate > 2 mmol/L on arterial blood gas sampling 3.
+
+ Clinical observation cent Urine Output rate cent for prediction of outcome.
+
+ Second, models will be built to assess whether the FORE-SIGHT cent signal is predictive for hospital and ICU Length of Stay (LOS ), mortality, and duration of (invasive or non-invasive) mechanical ventilator support.
+
+ In order to assess predictive performance for the 2 predictive tasks, the following statistics will be used: the positive predictive value, the area under the ROC curve (AUROC), the Hosmer-Lemeshow statistic, calibration-in-the-large, calibration-slope and Brier scores.
+
+ The positive predictive value is the proportion of positive instances that are correctly classified.
+
+ It reflects the probability that a positive result corresponds to the underlying condition being tested for.
+
+ The AUROC is a measure of the model's ability to discriminate between positive and negative instances.
+
+ Usually AUROC as evaluation is preferred above accuracy as it allows to trade off the possibly different costs of incorrectly classifying a negative instance as positive, or equivalently to tradeoff between the model's sensitivity and specificity.
+
+ The Hosmer-Lemeshow statistic, calibration-in-the-large and the calibration-slope are used to determine whether a model is well calibrated.
+
+ These test assess whether the observed event rates match expected event rates in subgroups of the population.
+
+ Models for which expected and observed event rates in subgroups are similar are said to be well calibrated.
+
+ Overall model performance will be assessed with the Brier Score and its normalized version, the Brier Scaled Score.
+
+ Accurate models have a low overall prediction error and therefore a low Brier Score (below the base case value for each task).
+
+ 4 Study population All children younger than 12 years of age, admitted to the PICU of the Leuven University hospitals Leuven after cardiac surgery are eligible for the study, if they meet the following inclusion criteria: - Mechanically ventilated upon ICU admission or intubated after admission - Arterial line in place.
+
+ - Expected to stay at least 24h in the PICU.
+
+ Patients with actual or potential brain damage, such as traumatic brain injury patients, patients with brain tumors, or patients after cardiopulmonary resuscitation (CPR) are excluded.
+
+ Patients with a condition or a wound that prohibits the placement of a forehead sensor are also excluded.
+
+ The study will collect data for a period of 1,5 year.
+
+ 300 critically ill children will be recruited.
+
+ Approximately 20% of the PICU patients exhibit clinical deterioration events, and with a median (IQR) length of stay of 3 (2-7) days [8] and at least one event per day, we expect a minimum of 180 events of clinical deterioration in the yearly population.
+
+ From previous studies with a similar event distribution [15,16] we expect our models to result in a sensitivity (and specificity) of at least 0.
+
+8, with an alpha error of 5% and a statistical power of 80%.
+
+ The study will therefore have the required statistical power to detect the potential of the FORE-SIGHT cent NIRS signal in predicting clinical deterioration.
+
+.
+
+ Predictive Value of the FORE-SIGHT Monitor for Hemodynamic Deterioration@highlight
+
+The postoperative period after congenital heart surgery in children can be a very critical episode, where it is of utmost importance to closely monitor the circulation in these patients.
+
+ Invasive hemodynamic monitoring tools available in the adult population, are often not suitable to use in small children.
+
+ The Fore-Sight(TM) is a non-invasive monitor for brain tissue oxygenation (SctO2), by projecting harmless near-infrared light trough the skin, skull, and brain via a disposable sensor that is applied on the forehead of patients.
+
+ In many centres, the Fore-Sight (TM) is part of the routine monitoring of children during cardio-pulmonary bypass for congenital heart surgery.
+
+ Although the monitor has not been tested for this purpose, it is often continued in the postoperative phase in the intensive care unit (ICU), where it is used to monitor the hemodynamic situation of the patient.
+
+ The purpose of the present study is to examine and validate the use of the Fore-Sight monitor for hemodynamic monitoring of children in the postoperative phase after cardiac surgery.
+
+ The study hypothesis is whether SctO2 desaturations are predictive for future hemodynamic deterioration of the patient, and whether these SctO2 desaturations are predictive for the outcome of these patients.
+

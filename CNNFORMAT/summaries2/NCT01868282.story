@@ -1,0 +1,64 @@
+(fifthQuint)Study of Pain Management Techniques Following Anterior Cruciate Ligament Repair Surgery.
+
+ Performance of arthroscopic knee repairs on day care basis necessitates adequate post-operative analgesia for successful home discharge since post-operative pain is known to be the commonest cause of unanticipated readmissions of day care patients.
+
+ Early return to activity is also crucial to ensure adequate surgical outcomes.
+
+ Anterior cruciate ligament (ACL) repair is commonly performed by arthroscopic approach with an ipsilateral hamstring-gracilis graft.
+
+ This has shown to be superior to patellar tendon grafts with regards to pain and functional outcomes after surgery.
+
+ Postoperative pain from the graft donor site and anterior knee pain form the surgery can lead to decreased range of motion and poor rehabilitation.
+
+ A variety of regional anesthetic techniques are being tried for out-patient knee surgery like spinal adjuvants; intra and peri-articular injection, single injection and continuous blocks of the femoral and sciatic nerves, oral pills and cryoanalgesia.
+
+ Opioid based analgesia with or without co-analgesics is not suited for dynamic pain relief since A and A nerve fibres that carry pain are poorly inhibited by opioids while effectively inhibited by local anesthetics.
+
+ Multimodal analgesic regimens work well for ambulatory surgeries especially when combined with regional analgesic techniques.
+
+ Regional techniques decrease opioid consumption and hence opioid related side effects.
+
+ Intra and peri-articular injections have a short duration of action compared to nerve blocks apart from the concerns of chondrotoxicity of intra-articular local anesthetics.
+
+ Although femoral- and sciatic nerve blocks provide adequate analgesia, the weakness of the quadriceps and hamstrings can prevent early rehabilitative efforts and also pose a risk for patient falls following home discharge.
+
+ Hence, novel regional techniques of analgesia like blocking the infrapatellar branch of saphenous nerve, graft site injections of local anesthetics through the arthroscopic sleeve and single injection adductor canal block have been tried.
+
+ Isolated sensory block of the surgical and graft site without motor block is the Holy Grail in search for these ambulatory patients.
+
+ Saphenous nerve, the terminal branch of femoral nerve supplies the majority of the knee joint.
+
+ The femoral nerve exits the adductor canal and gives the terminal branch of saphenous nerve which lies between the Sartorius muscle and femoral artery in the sub-sartorial canal.
+
+ Subsartorial canal block has been successfully utilized for forefoot surgery and knee arthroplasty but this has not been evaluated for ACL repairs.
+
+ Saphenous nerve can be successfully blocked in the subsartorial canal without the risks of leg weakness but this alone is insufficient to provide analgesia to the graft donor site which is usually the gracilis tendon and the hamstrings tendon.
+
+ Depositions of local anesthetics around the harvested muscle or blockade of the nerve supplying it are attractive strategies to decrease donor site pain but have not been explored for this purpose in a randomized fashion.
+
+ The investigators hypothesize that the combination of any of the above two techniques to decrease donor site pain along with subsartorial saphenous nerve block can provide adequate analgesia in these patients.
+
+ The anterior branch of the obturator nerve needs to be blocked since it supplies the gracilis muscle.
+
+ To decrease the donor site pain, the saphenous nerve block can be combined with block of the anterior branch of obturator nerve.
+
+ Alternatively, the saphenous nerve block can be combined with deposition of local anesthetic around the graft donor muscles.
+
+ The extent to which the two techniques benefit the patients in terms of overall analgesia and the graft site analgesia has not been evaluated.
+
+ With this background, the investigators want to compare the analgesic efficacy of subsartorial saphenous nerve block with either perihamstrings infiltration or blockade of the anterior division of obturator nerve in patients undergoing ACL reconstruction with ipsilateral autograft from gracilis and hamstring muscles.
+
+.
+
+ Study of Pain Management Techniques Following Anterior Cruciate Ligament Repair Surgery@highlight
+
+Patients scheduled to undergo knee arthroscopy with anterior cruciate ligament repair with graft from the ipsilateral hamstrings and gracilis will be randomized to one of three groups.
+
+ All patients will receive subsartorial saphenous nerve block.
+
+ Along with this, Group 1 will receive perihamstring local anesthetic infiltration (Hamstring block), Group 2 will receive blockade of the anterior division of obturator nerve and Group 3 (control group) will receive sham injections of hamstrings and anterior division obturator nerve.
+
+ All patients will receive co-analgesics for home discharge.
+
+ The study will evaluate the efficacy of subsartorial saphenous nerve block alone or in combination with either hamstring block or obturator block with regards to postoperative analgesia especially the donor site pain and total analgesic consumption.
+

@@ -1,0 +1,28 @@
+(thirdQuint)Study of Biomarkers in Patients Undergoing Chemotherapy for Metastatic Colorectal Cancer.
+
+ OBJECTIVES: Primary - Research the oncogenetic parameters and pharmacogenetic and pharmacokinetic predictors of therapeutic response and toxic effects.
+
+ Secondary - Study the correlations between the pharmacogenetic and pharmacokinetic parameters.
+
+ - Study the predictive value of these parameters on disease-free and overall survival.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients receive 1 of 4 chemotherapy regimens: - Regimen 1: Fluorouracil and leucovorin calcium - Regimen 2: Capecitabine and leucovorin calcium - Regimen 3: Irinotecan hydrochloride - Regimen 4: Oxaliplatin Tumor and blood samples are collected before the start of chemotherapy and are examined by pharmacogenetic analysis.
+
+ Clinical and biological parameters are also studied.
+
+ Blood samples are also collected during the first course of chemotherapy for pharmacokinetic studies.
+
+ After completion of study therapy, patients are followed periodically for 3 years.
+
+.
+
+ Study of Biomarkers in Patients Undergoing Chemotherapy for Metastatic Colorectal Cancer@highlight
+
+RATIONALE: Studying samples of blood and tumor tissue in the laboratory from patients with cancer receiving chemotherapy may help doctors understand the effect of chemotherapy on biomarkers.
+
+ It may also help doctors predict how patients will respond to treatment.
+
+ PURPOSE: This phase IV trial is studying biomarkers in patients undergoing chemotherapy for metastatic colorectal cancer.
+

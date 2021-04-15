@@ -1,0 +1,38 @@
+(firstQuint)Testing the Effect of Adding Chronic Oral Azithromycin to Inhaled Tobramycin in People With CF.
+
+ This study is a prospective, randomized, double-blinded, placebo-controlled trial of azithromycin 500mg taken orally thrice weekly vs.
+
+ placebo in subjects with cystic fibrosis and chronic airway infection with P.
+
+ aeruginosa who are utilizing chronic inhaled tobramycin therapy.
+
+ It will include approximately 120 subjects able to complete a primary 6-week study phase.
+
+ Subjects will be at least 12 years old with a baseline FEV1 between 25-100% predicted.
+
+ Subjects will continue to use clinically prescribed inhaled tobramycin cycled on/off every 4 weeks.
+
+ They will be provided over-encapsulated azithromycin 500mg tablets or placebo during the primary study phase.
+
+ An optional extension phase will be offered to all subjects completing the primary 6-week study.
+
+ This 8-week extension phase will include an initial 4 weeks without use of inhaled tobramycin or other inhaled antibiotics, followed by a 4-week period with inhaled tobramycin use.
+
+ All subjects participating in the extension phase of the study will be provided azithromycin 500mg tablets to be taken thrice weekly for the entire 8-week period.
+
+ This study will investigate how use of chronic oral azithromycin affects some of the previously demonstrated benefits to health when using inhaled tobramycin.
+
+ The primary measurements will focus on lung function.
+
+ Additional measurements will focus on disease-related quality of life as reported by subjects in the trial.
+
+ Exploratory outcomes, including measurements of safety, are also planned.
+
+.
+
+ Testing the Effect of Adding Chronic Oral Azithromycin to Inhaled Tobramycin in People With CF@highlight
+
+This is a study to examine the effect of combining chronic oral azithromycin with inhaled tobramycin in adolescent and adult subjects with cystic fibrosis who are chronically infected with P.
+
+ aeruginosa.
+

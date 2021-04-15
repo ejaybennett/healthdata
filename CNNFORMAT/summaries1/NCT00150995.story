@@ -1,0 +1,20 @@
+(firstQuint)Tetrathiomolybdate in Hormone Refractory Prostate Cancer.
+
+ Tetrathiomolybdate or TM, a drug developed for Wilson's Disease, removes copper from the bloodstream.
+
+ Copper is a key factor in angiogenesis (blood vessel growth)- a process that occurs normally in the body but becomes uncontrolled in cancerous cells.
+
+ Tetrathiomolybdate essentially wages war against copper, which serves to choke off tumor growth.
+
+ Realizing the key role of copper in angiogenesis, researchers have begun exploring treatment with Tetrathiomolybdate for different types of cancers.
+
+ This clinical trial will evaluate the effectiveness of Tetrathiomolybdate in the treatment of patients with hormone refractory prostate cancer.
+
+ Hormone refractory prostate cancer refers to advanced disease in which the patient no longer responding to conventional hormonal treatment.
+
+.
+
+ Tetrathiomolybdate in Hormone Refractory Prostate Cancer@highlight
+
+Purpose: The aim of this clinical trail is to evaluate Tetrathiomolybdate (TM) in the treatment of hormone refractory prostate cancer.
+

@@ -1,0 +1,12 @@
+(firstQuint)Ion Therapy Patient Registry.
+
+ During and up to 10 years after radiation therapy data regarding tumor control and treatment response as well as acute and late toxicities will be collected at regular time intervals.
+
+ Additionally quality of life and sociodemographic status will be assessed in all study patients and neurocognitive assessment will be performed in patients undergoing ion radiation of the brain.
+
+.
+
+ Ion Therapy Patient Registry@highlight
+
+The purpose of the study is the prospective and standardized data collection of patients treated with ion therapy at MedAustron.
+

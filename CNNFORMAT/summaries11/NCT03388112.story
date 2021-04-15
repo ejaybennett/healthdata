@@ -1,0 +1,12 @@
+(firstQuint)Shanghai Infants Gut Microbiome Associated Study.
+
+ This study aims to examin the impact of probiotics under 2 separate conditions, probiotics concurrent administration with antibiotic and probiotics administration during the recovery phase.
+
+Birth,7 days,14 days(or 21 days) and 42 days data will be collected and put into analysis to provide somes suggestions on the probiotics use in the clinical for the infants treated with antibiotics.
+
+.
+
+ Shanghai Infants Gut Microbiome Associated Study@highlight
+
+The purpose of this study is to evaluate the effect of probiotics on the gut microbiome of infants treated with antibiotics.
+

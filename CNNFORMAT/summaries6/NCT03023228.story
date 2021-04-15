@@ -1,0 +1,20 @@
+(secondQuint)Diabetes To Go: An Inpatient Diabetes Survival Skills Education Program.
+
+ This study was a prospective, nonrandomized pilot study conducted among adults with uncontrolled diabetes admitted to the Medicine Service of an urban tertiary teaching hospital were consented to participate in a pilot study which provided diabetes survival skills education.
+
+ Based on knowledge deficits identified on a diabetes knowledge pre-test the patient was directed to view video content corresponding to those deficiencies and content on sick days and diabetes complications.
+
+ Evaluation measures were diabetes knowledge, medication adherence, and hospital admissions plus emergency department visits at and/or 3months before baseline and at 2 weeks and 3 months post-discharge.
+
+ There was improvement in diabetes knowledge and medication adherence, which was sustained to 3 months.
+
+ A trend was observed toward reduction in emergency department and/or hospital admissions from 3 months pre-intervention to 3 months post-discharge for uncontrolled diabetes.
+
+ This knowledge-based program successfully provided survival skills education to hospital patients with uncontrolled diabetes and demonstrated preliminary evidence of a positive impact on medication adherence and a trend toward reduction in hospital and emergency department admissions.
+
+.
+
+ Diabetes To Go: An Inpatient Diabetes Survival Skills Education Program@highlight
+
+A learner-centered diabetes survival skills self-management education program was provided to adults with uncontrolled diabetes in the hospital and generated preliminary evidence of impact on medication adherence and a trend toward reduction in hospital and emergency department admissions.
+

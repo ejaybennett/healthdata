@@ -1,0 +1,46 @@
+(fifthQuint)SafERteens M-Coach.
+
+ The specific aims are to: 1) Compare the efficacy of adaptive interventions (AIs) that begin with BI+TM (brief intervention + text messaging) vs.
+
+ BI+HC (brief intervention + remote health coach) on reducing alcohol misuse and violent behaviors among youth while in the Emergency Department (ED); and, 2) Identify the most efficacious second-stage strategy post-ED visit for those who initially respond and for those who do not.
+
+ Specifically, 700 youth (ages 14-20) in the ED screening positive for alcohol use and violent behaviors will be randomly assigned to: BI+TM or BI+HC.
+
+ After receiving the SafERteens BI in the ED, youth will complete weekly assessments over an 8 week period to tailor intervention content and measure mechanisms of change, with one month determination of participant response (e.
+
+g.
+
+, binge drinking, violence).
+
+ Responders in each arm will be re-randomized to continued condition (e.
+
+g.
+
+, stay the course or maintenance), or reduced condition (e.
+
+g.
+
+, stepped down).
+
+ Non-responders will be re-randomized to continued condition (e.
+
+g.
+
+, stay the course or maintenance), or intensified condition (e.
+
+g.
+
+, stepped up).
+
+ Follow-up assessments will take place at 4 and 8 months post-baseline.
+
+.
+
+ SafERteens M-Coach@highlight
+
+This study will use a SMART (Sequential, Multiple Assignment Randomized Trial) design to optimize adaptive interventions (AIs) for adolescents reporting alcohol misuse and violent behaviors.
+
+ The study will test the efficacy of state-of-the-art adaptive intervention delivery approaches (text messaging, remote therapy) for reducing alcohol use and violent behaviors among urban teens.
+
+ Given the morbidly/mortality associated with alcohol use and violence, this study will have significant impact by using a SMART design to identify the optimal intervention strategy to produce and sustain outcomes among at-risk youth.
+

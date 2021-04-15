@@ -1,0 +1,24 @@
+(secondQuint)Effectiveness of Cervicothoracic Manipulative Treatment in Unilateral Shoulder Impingement Syndrome: A Randomized Controlled Trial.
+
+.
+
+ Design: Randomized Clinical Trial.
+
+ Objective: to determine the effects of manipulative techniques for the ervicothoracic spine versus home exercises on pain, disability, and range of movement in patients with unilateral shoulder inmingement syndrome.
+
+ Methods and Measures: ninety-two subjects will be randomly assigned to one of two groups.
+
+ Intervention: For 5-weeks, the groups 1 will undergo tratment comprising manipulative protocol techniques for the cervicothoracic spine (2/week) and the group 2 will develop a home exercise (2/week).
+
+ Main Outcome Measures: Intensity of pain, disability, and range of motion data will be collected at baseline, and 24hr after the last therapy application.
+
+ Mixed-model analyses of variance will be used to examine the effects of the treatment on each outcome measure.
+
+.
+
+ Effectiveness of Cervicothoracic Manipulative Treatment in Unilateral Shoulder Impingement Syndrome: A Randomized Controlled Trial.
+
+@highlight
+
+The objective of this protocol is to compare degree of improvement can be achieved in patients with shoulder pain by treatment with Manipulative Techniques for the cervicothoracic spine versus home exercises.
+

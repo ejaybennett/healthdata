@@ -1,0 +1,42 @@
+(secondQuint)Investigation of the Efficacy of 2.
+
+5% and 5% Cis-urocanic Acid in Patients With Moderate or Severe Atopic Dermatitis.
+
+ This is a Phase II multi-centre, double-blinded, vehicle-controlled, repeated and multiple dose, study to evaluate dose response, safety, tolerability and efficacy of 2.
+
+5% and 5% cis-UCA compared to placebo, and investigator-blinded to compare the safety, tolerability and efficacy of cis-UCA to the active comparator Protopic(R) 0.
+
+1% in patients with moderate or severe chronic atopic dermatitis treated for up to 28 days.
+
+ The primary objective is to compare the efficacy of two different doses of cis-UCA (2.
+
+5% and 5%) with placebo for up to 28 days in adult patients with moderate or severe chronic atopic dermatitis to determine the dose of cis-UCA for further clinical development.
+
+ Secondary objectives are as follows: - To evaluate safety and tolerability of cis-UCA after topical twice daily doses of 2.
+
+5% and 5% for up to 28 days in adult patients with moderate or severe chronic atopic dermatitis.
+
+ - To evaluate dose response after topical twice daily doses of 2.
+
+5% and 5% for up to 28 days in adult subjects with moderate or severe chronic atopic dermatitis.
+
+ - To compare the efficacy and safety of 2.
+
+5% and 5% of cis-UCA to the efficacy and safety of 0.
+
+1% Protopic(R) after topical twice daily doses for up to 28 days in adult patients with moderate or severe chronic atopic dermatitis The key eligibility criteria are the following: patients with moderate or severe chronic atopic dermatitis, at least 18 years of age, with no current treatment for atopic dermatitis with active systemic medication or active topical treatment in the planned investigational area, and with no history of any significant disease that would affect the use of cis-UCA or comparator.
+
+ In total, up to 150 adult patients (both males and females; at least 20% of each gender) with moderate or severe chronic atopic dermatitis will be included in the study.
+
+ Up to 36 adult patients (both males and females) will be included in each treatment arm.
+
+.
+
+ Investigation of the Efficacy of 2.
+
+5% and 5% Cis-urocanic Acid in Patients With Moderate or Severe Atopic Dermatitis@highlight
+
+The purpose of this study is to evaluate dose response, safety, tolerability and efficacy of 2.
+
+5% and 5% cis-UCA in comparison to placebo and active comparator in the treatment of adult patients with moderate or severe chronic atopic dermatitis.
+

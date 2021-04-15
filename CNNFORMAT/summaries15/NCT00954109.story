@@ -1,0 +1,16 @@
+(firstQuint)Acute Cardiovascular and Metabolic Effects of Exercise Training in Individuals With Insulin Resistance.
+
+ Participants will undergo a screening procedure, including telephone screening and physical examination, as well as determination of body composition and fitness.
+
+ Participants will be asked to complete 5-10 days of supervised exercise training and will undergo testing to assess cardiovascular and metabolic responses to an oral glucose tolerance test, including muscle sympathetic nerve activity, blood flow, and circulating glucose and insulin concentrations at baseline and following training.
+
+ In addition, day-to-day variations in blood glucose will also be monitored.
+
+ The overall aim of the project is to determine whether or not acute exercise training influences postprandial metabolic, vascular or autonomic nervous system responses in individuals with insulin resistance or T2D.
+
+.
+
+ Acute Cardiovascular and Metabolic Effects of Exercise Training in Individuals With Insulin Resistance@highlight
+
+The overall aim of the project is to determine whether or not exercise influences cardiovascular or nervous responses to meal ingestion in individuals with insulin resistance or type 2 diabetes.
+

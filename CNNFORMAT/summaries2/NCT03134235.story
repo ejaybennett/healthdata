@@ -1,0 +1,34 @@
+(firstQuint)Effects of a 4-week Raw, Plant-based Diet on Anthropometric and Cardiovascular Risk Factors.
+
+ Plant-based diets have emerged in the literature as effective therapeutic strategies in the reduction of body weight, serum lipids and blood pressure.
+
+ In addition, raw fruit and vegetable consumption has also been associated with the reduction of these clinical indicators.
+
+ Participants were instructed to follow a prescribed, raw, plant-based dietary intervention for four weeks.
+
+ All animal products, including eggs and dairy, were excluded.
+
+ Cooked foods, free oils, soda, alcohol and coffee were also to be excluded.
+
+ All meals and snacks were provided to the participants for the full duration of the intervention.
+
+ Emphasized were raw fruits and vegetables, while seeds, avocado, raw oats, raw buckwheat, and dehydrated foods were prepared as condiments.
+
+ Vitamin, herbal, and mineral supplements were to be discontinued unless otherwise clinically indicated.
+
+ Participants were not advised to alter their exercise habits.
+
+ Participants came to a total of 4 follow-up visits.
+
+ A laboratory panel was obtained at baseline and at 4-weeks.
+
+ A 24-hour recall was also conducted at baseline and at 4-weeks.
+
+ Anthropometrics, hemodynamics, and medication needs were assessed on a weekly basis.
+
+.
+
+ Effects of a 4-week Raw, Plant-based Diet on Anthropometric and Cardiovascular Risk Factors@highlight
+
+This study evaluates the effects of a prescribed 4-week raw, plant-based dietary intervention in the treatment of excess body weight, hypercholesterolemia, and hypertension in the clinical setting.
+

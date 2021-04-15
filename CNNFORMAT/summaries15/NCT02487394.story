@@ -1,0 +1,44 @@
+(thirdQuint)Protein Biomarker Discovery and Validation in Chronic Obstructive Pulmonary Disease (COPD) And Asthma.
+
+ There are two Phases to this study broken into two arms.
+
+ In Phase I, our propose to use discovery proteomics and high throughput techniques to identify protein expression signatures.
+
+ The total planned size of Phase I is 100 patients.
+
+ Patients will be divided into two identical arms based on smoking status.
+
+ One arm will contain subjects who are active smokers and the other arm will contain subjects with no active smoking.
+
+ Active smoking will be defined as daily use of cigarettes, pipes, cigarillos or cigars at time of entry into the study and through duration of study.
+
+ No active smoking defined as never smoking or having stopped smoking for 5 years or greater.
+
+ Each arm will contain 50 subjects, 26 with COPD (Stage II and III with 13 subjects in each) along with 24 asthmatics (Mild to Moderate disease with 12 subjects in each).
+
+ The investigators will not recruit Stage IV COPD due to the heightened risk of bronchoscopy in these patients.
+
+ In the second Phase, is to establish and validate the predictive value of proteomic signatures for therapeutic responses using inhaled corticosteroids.
+
+ For Phase II, the investigators will recruit a total of 80 subjects that will include subjects who are continuing in the study from Phase I.
+
+ Patients continuing from Phase I will wait 4-6 weeks from bronchoscopy before starting Phase II.
+
+ This will be done in order to avoid having the prior bronchoscopy affecting the Phase II results.
+
+ Phase II will again be divided into two arms based on active smoking status as discussed previously.
+
+ Each arm will contain 40 subjects, 20 with COPD (Stage II and III with 10 subjects in each) along with 20 asthmatics (Mild to Moderate disease with 10 subjects in each).
+
+.
+
+ Protein Biomarker Discovery and Validation in Chronic Obstructive Pulmonary Disease (COPD) And Asthma@highlight
+
+The purpose of the study is to better understand the function of asthma and COPD, and response to therapy.
+
+ There are two Phases to this study broken into two arms.
+
+ In Phase I, our propose is to use discovery proteins and techniques to identify protein expression signatures.
+
+ In Phase II, is to establish and validate the predictive value of protein signatures for treatment responses using inhaled corticosteroids.
+

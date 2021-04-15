@@ -1,0 +1,24 @@
+(firstQuint)Maturity and Motor Fitness.
+
+ The investigators examined the issue in adolescent boys (n = 107) aged from 13.
+
+0 to 13.
+
+9 years.
+
+ The maturity status was assessed using a self-assessment of stage of pubic hair based on the criteria of Tanner.
+
+ Body composition and maximal voluntary knee extension torque (KET) were determined using a bioelectrical impedance analyzer and a static myometer, respectively.
+
+ Sprint velocity was measured by a non-motorized treadmill.
+
+ Jump height was calculated from the following equation; g * (flight time)2 * 8 * 10-1.
+
+ The flight time during jumping was measured by a matswitch system.
+
+.
+
+ Maturity and Motor Fitness@highlight
+
+The current study examined the effect of maturity on the sprint and jump performances in a single year age group of 13 year old boys.
+

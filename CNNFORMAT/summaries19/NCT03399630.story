@@ -1,0 +1,12 @@
+(firstQuint)Injection of Autologous Adipose Tissue for Treatment of Osteoarthritis in the Knee.
+
+ This clinical trial is a single site, double blinded, paired within groups, controlled clinical study to investigate the safety and efficacy in the use of adult autologous adipose tissue for the treatment of pain associated with joint OA.
+
+ The hypothesis of this trial is that the treatment will be safe and the proposed clinical outcome measures of reduced pain resulting from the treatment of OA of the knee joint with autologous adipose tissue will be superior to a placebo control treatment.
+
+.
+
+ Injection of Autologous Adipose Tissue for Treatment of Osteoarthritis in the Knee@highlight
+
+Evaluating the safety and efficacy of a single injection of autologous adipose tissue for treatment of osteoarthritis of the knee.
+

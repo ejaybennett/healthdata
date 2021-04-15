@@ -1,0 +1,26 @@
+(thirdQuint)Study of the Safety, Efficacy, & PK of Pegunigalsidase Alfa (PRX-102) 2 mg/kg IV Administered Every 4 Weeks in Fabry Disease Patients.
+
+ This is an open-label switchover study to assess the safety, efficacy, and pharmacokinetics of pegunigalsidase alfa treatment of 2 mg/kg every 4 weeks in patients previously treated with enzyme-replacement therapy (ERT): agalsidase alfa or agalsidase beta, for at least 3 years and on a stable dose (>80% labelled dose/kg) for at least the last 6 months.
+
+ Following screening, patients will be enrolled and switched from their current ERT (approximately 15 patients on each ERT) to receive intravenous (IV) infusions of pegunigalsidase alfa 2 mg/kg every 4 weeks for 52 weeks (total of 14 infusions).
+
+ At the time of enrollment, premedication, if used for the agalsidase alfa or agalsidase beta infusions before enrollment, will be continued using the same premedication regimen during the first infusion with pegunigalsidase alfa and then will be gradually tapered down at the Investigator's discretion during the next infusions based on protocol-specified criteria.
+
+ First infusions of pegunigalsidase alfa will be administered under controlled conditions at the investigation site.
+
+ Based on the protocol-specified criteria, patients will be able to receive their pegunigalsidase alfa infusions at a home care setup once the Investigator and Sponsor Medical Monitor agree that it is safe to do so.
+
+ Safety and efficacy exploratory endpoints will be assessed throughout the 52-week study.
+
+ In the case of clear clinical deterioration, the treatment may be changed to 1.
+
+0 mg/kg every 2 weeks at the Investigator's discretion and discussion with the Medical Monitor.
+
+.
+
+ Study of the Safety, Efficacy, & PK of Pegunigalsidase Alfa (PRX-102) 2 mg/kg IV Administered Every 4 Weeks in Fabry Disease Patients@highlight
+
+This open-label switchover study will assess the safety, efficacy, and pharmacokinetics of pegunigalsidase alfa (PRX-102) 2 mg/kg administered every 4 weeks for 52 weeks in Fabry patients previously treated with ERT: agalsidase alfa or agalsidase beta for at least 3 years.
+
+ Safety and efficacy exploratory endpoints will be evaluated throughout the study period and pharmacokinetics will be obtained on Day 1 and Week 52.
+

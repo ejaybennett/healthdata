@@ -1,0 +1,12 @@
+(secondQuint)Safety and Efficacy of IMCgp100 Versus Investigator Choice in Advanced Uveal Melanoma.
+
+ This Phase II study is designed to evaluate the safety and efficacy of IMCgp100 compared with Investigator's Choice (dacarbazine, ipilimumab or pembrolizumab) in HLA-A*0201 positive adult patients with advanced UM treated in the first line setting with no prior systemic or liver-directed chemo-, radio- or immune-therapy administered in the advanced setting (prior surgical resection of liver metastases and adjuvant systemic therapy are acceptable).
+
+ Comparison of the IMCgp100 efficacy results in this Phase II study will be made with the concurrently randomized arm (Investigator's Choice) with a primary endpoint of overall survival (OS) and secondary efficacy endpoints of progression-free survival (PFS), objective response rate (ORR), duration of response (DOR), and disease control rate (DCR).
+
+.
+
+ Safety and Efficacy of IMCgp100 Versus Investigator Choice in Advanced Uveal Melanoma@highlight
+
+To evaluate the overall survival of HLA-A*0201 positive adult patients with previously untreated advanced UM receiving IMCgp100 compared to Investigator's Choice of dacarbazine, ipilimumab, or pembrolizumab.
+

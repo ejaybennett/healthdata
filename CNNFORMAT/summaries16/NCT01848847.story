@@ -1,0 +1,16 @@
+(firstQuint)Relationship Between Bladder Distention and Hysteroscopy Application.
+
+ Women who should have diagnostic hysteroscopy procedure will be randomly allocated into two groups.
+
+ In the first group hysteroscopy will be performed with a filled bladder and in the second group procedure will be performed with an empty bladder.
+
+ The women will be assigned into groups randomly.
+
+ The duration of the procedure, feasibility of the procedure and tolerability of procedure will be recorded.
+
+.
+
+ Relationship Between Bladder Distention and Hysteroscopy Application@highlight
+
+The purpose of the study is to investigate the advantages and disadvantages of bladder filling during hysteroscopy procedure.
+

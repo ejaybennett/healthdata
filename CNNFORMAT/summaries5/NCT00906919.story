@@ -1,0 +1,22 @@
+(secondQuint)The Effectiveness of Diabetes Patient Education and Self-Management Education in Persons With Type 2 Diabetes.
+
+ In the current health care environment, it is unacceptable for patient education programs to merely provide information.
+
+ Rather, educational programs must concentrate on behavior change and on supporting patients to become more confident and motivated in participating in managing their health.
+
+ Persons with type 2 diabetes attending a Diabetes Education Centre will be assigned to either a group that receives regular professionally-led diabetes patient education (control group) or to to a group that receives regular professionally-led diabetes patient education augmented by lay-led self-management education i.
+
+e.
+
+, the Stanford six-session Chronic Disease Self-Management Program (experimental group).
+
+ Data will be collected at two points in time (0 and 6 months).
+
+ Outcome measures will show if participants who receive self-management training in addition to regular patient education are able to:manage their diabetes more effectively; engage in the specific behaviors that keep the condition from worsening; achieve more control over their condition; and use the health care system more effectively.
+
+.
+
+ The Effectiveness of Diabetes Patient Education and Self-Management Education in Persons With Type 2 Diabetes@highlight
+
+The goal of this randomized controlled trial is to determine if greater effectiveness can be achieved by the addition of lay-led self-management patient education to regular professionally-led diabetes patient education in comparison to regular professionally-led diabetes patient education only.
+

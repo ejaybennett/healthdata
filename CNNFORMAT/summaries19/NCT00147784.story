@@ -1,0 +1,33 @@
+(secondQuint)HEPMET-1: Evaluate the Feasibility, Mental Sideeffects and the Efficacy of Hepatitis C Treatment in a MMT Group.
+
+.
+
+ Chronic infection with the hepatitis C virus (HCV) is a health problem worldwide.
+
+ In Norway, there are about 3000 patients participating in Methadone Maintenance Treatment(MMT) programs.
+
+ A prevalence study at the MMT treatment unit in Kristiansand, showed that more than 90 % of 177 patients have been infected with hepatitis C.
+
+ A major problem with anti-HCV treatment for this group is the lack of compliance and retention in treatment.
+
+ Further, due to the high incidence of psychological disorders in opioid dependent patients, this may also complicate anti-HCV treatment.
+
+ Drug addicted in MMT treatments programs may find themselves excluded from Hepatitis C treatment.
+
+ Due to better treatment efficacy with the new PEG-INF's and encouraging reports from 14 weeks studies, it may be easier to motivate opioid dependents to fulfill treatment.
+
+ Weekly psychological follow-up of these patients will further increase the possibility of opioid dependents in MMT to be able to complete anti-HCV treatment.
+
+ The aim of this study is to focus on this patients situation, and strengthen their possibility to have a real opportunity to get treatment.
+
+ We therefore wish to make a pilot study to investigate the feasibility, efficacy and psycological side-effects of the treatment.
+
+.
+
+ HEPMET-1: Evaluate the Feasibility, Mental Sideeffects and the Efficacy of Hepatitis C Treatment in a MMT Group.
+
+@highlight
+
+- To evaluate if weekly psychological follow-up make opioid dependent patients in MMT able to accomplish 14 weeks treatment with Peginterferon alfa-2a (PEG-INF) and ribavirin to the same extent than non-opioid dependents.
+
+ - To determine the efficacy of this anti-HCV treatment

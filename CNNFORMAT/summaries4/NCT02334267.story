@@ -1,0 +1,14 @@
+(secondQuint)Acid-Base Composition With Use of hemoDialysates.
+
+ Approximately 10-20 prevalent hemodialysis patients will be recruited.
+
+ Subjects will randomized to receive one weekly hemodialysis treatment using each of the two acetate acid dialysate buffers of NaturaLyte and GranuFlo, which will be assigned in a random fashion.
+
+ Acetate and bicarbonate concentrations will be assessed before, at eight time points during, and six time points after the completion of hemodialysis.
+
+.
+
+ Acid-Base Composition With Use of hemoDialysates@highlight
+
+This study is a prospective, single center, single blind (patient and laboratory), randomized, cross-over, two week investigation of intradialytic acid-base kinetics and physiology associated with use of two commercial acid dialysate concentrates in prevalent hemodialysis patients.
+

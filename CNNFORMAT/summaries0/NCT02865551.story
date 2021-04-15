@@ -1,0 +1,30 @@
+(thirdQuint)Urinary Retention After Vaginal Delivery With Epidural Anesthesia.
+
+.
+
+ An explanation about the study will be delivered to each participant and each participant will sign a confirmed consent.
+
+ Patients will be randomized between 2 groups of treatment: 1.
+
+ intermittent catheterization applied every 4 hours during labor.
+
+ 2.
+
+ foley catheter inserted adjacent to epidural anesthesia.
+
+ In patients with a foley catheter, the catheter will be removed soon after delivery.
+
+ Participants will be followed by a clinician post labor.
+
+ An abdominal US will be performed either 4 hours after delivery or after the participant urinates to check the bladder volume.
+
+ Patient information including demographic information, information regarding the patient`s pregnancy and delivery will be collected from the patient`s electronic record.
+
+.
+
+ Urinary Retention After Vaginal Delivery With Epidural Anesthesia.
+
+@highlight
+
+The investigators intend to compare the rate of urinary retention among female patients after vaginal delivery under epidural anesthesia, depending on bladder catheterization type, either by a foley catheter inserted adjacent to epidural anesthesia or intermittent catheterization applied every 4 hours during labor.
+

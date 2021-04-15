@@ -1,0 +1,12 @@
+(thirdQuint)Evaluation of Efficacy of House Dust Mite Immunotherapy in Children With Bronchial Asthma.
+
+ According to Global Initiative for Asthma treatment of asthma is based on avoidance of allergens, pharmacological treatment, and specific immunotherapy.
+
+ The aim of the study is to assess the effect of specific immunotherapy (SIT) to dust mites on clinical symptoms, reliever drugs usage, inhaled glucocorticosteroid usage, quality of life, lung function, bronchial hyperreactivity with methacholine, and presence and type of allergy after three years of SIT in children with asthma.
+
+.
+
+ Evaluation of Efficacy of House Dust Mite Immunotherapy in Children With Bronchial Asthma@highlight
+
+The aim of the study is to assess the effect of specific immunotherapy (SIT) to dust mites on clinical symptoms, reliever drugs usage, inhaled glucocorticosteroid usage, quality of life, lung function, bronchial hyperreactivity with methacholine, and presence and type of allergy after three years of SIT in children with asthma.
+

@@ -1,0 +1,20 @@
+(firstQuint)A 52 Week Open Label Extension Trial Following the Recurrence Prevention Study R076477-SCH-301 to Evaluate the Safety and Tolerability of Paliperidone ER in Subjects With Schizophrenia.
+
+.
+
+ The primary objective of the open-label extension was the long-term assessment of safety and tolerability of ER OROS paliperidone 3 to 15 mg/day in subjects diagnosed with schizophrenia.
+
+ In addition, the long-term efficacy and effect of ER OROS paliperidone on overall functioning and personal and social functioning, as well as quality of life, health economics, and subjective sleep measures, was explored.
+
+ This open-label extension study followed a recurrence prevention study (R076477-SCH-301) that had both an open-label run-in/stabilization phase and a double-blind, placebo-controlled phase.
+
+ Open-label study drug (ER OROS paliperidone 3 mg to 15 mg/day) was administered for 52 weeks.
+
+.
+
+ A 52 Week Open Label Extension Trial Following the Recurrence Prevention Study R076477-SCH-301 to Evaluate the Safety and Tolerability of Paliperidone ER in Subjects With Schizophrenia.
+
+@highlight
+
+The purpose of the study was an Open Label Extension to the recurrence prevention study to evaluate long-term safety and tolerability of paliperidone ER in subjects with schizophrenia.
+

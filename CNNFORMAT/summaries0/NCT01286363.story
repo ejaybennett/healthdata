@@ -1,0 +1,15 @@
+(firstQuint)Facial Patterns and Masticatory Symmetries.
+
+ Dolichofacial subjects presents poorer mechanical advantage, less efficiency in masticatory muscles during mastication and in generating bite force, smaller occlusal contact area and masticatory capacity when compared to brachyfacial individuals.
+
+ Wide, bilateral chewing cycles were related to better masticatory performance, however, unilateral chewing was reported to be very common in population, and it has been associated to lateral asymmetry on bite force and occlusal contact area.
+
+ It has been reported that dolichofacial subjects need greater muscular effort during mastication when compared to meso and brachyfacial subjects.
+
+ This may cause functional overloading of weaker masticatory muscles, and may lead to functional asymmetries.
+
+.
+
+ Facial Patterns and Masticatory Symmetries@highlight
+
+The purpose of this study is to evaluate chewing side preference, and lateral asymmetry of occlusal contact area and bite force of individuals with different craniofacial patterns

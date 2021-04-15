@@ -1,0 +1,16 @@
+(secondQuint)Validation of a Multi-gene Test for Lung Cancer Risk.
+
+ Because more than 160,000 individuals die of lung cancer/year in the United States alone, it is important to use the best possible methods to determine whether increased surveillance of individuals at highest risk for lung cancer will result in reduced lung cancer mortality.
+
+ The Lung Cancer Risk Test (LCRT) proposed for evaluation promises to accurately identify the 10-15% of the population that is most susceptible to lung cancer based on genetic predisposition.
+
+ More than 90 million individuals in the United States alone are demographically at high risk for lung cancer and potential candidates for increased surveillance.
+
+.
+
+ Validation of a Multi-gene Test for Lung Cancer Risk@highlight
+
+The purpose of this study is to determine the validity of a multi-gene Lung Cancer Risk Test (LCRT).
+
+ In the process, the investigators will establish a bank of NBEC samples and corresponding blood samples from individuals demographically at increased risk for lung cancer.
+

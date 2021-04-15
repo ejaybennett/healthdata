@@ -1,0 +1,32 @@
+(thirdQuint)Dolastatin 10 in Treating Patients With Refractory or Relapsed Acute Leukemia, Myelodysplastic Syndrome, or Chronic Myelogenous Leukemia.
+
+ OBJECTIVES: I.
+
+ Determine the maximum tolerated dose and dose limiting toxicity of dolastatin 10 in patients with chronic myelogenous leukemia in blast phase, refractory or relapsed acute leukemia, or myelodysplastic syndromes.
+
+ II.
+
+ Assess the possible antileukemia effect of this treatment in these patients.
+
+ OUTLINE: This is a dose escalation study.
+
+ Patients receive dolastatin 10 intravenous (IV) bolus once every 3 weeks.
+
+ Patients receive 2-12 courses of therapy in the absence of disease progression and unacceptable toxicity.
+
+ In the absence of dose limiting toxicity (DLT) in the first cohort of 3 patients, subsequent cohorts of 3 patients each receive escalating doses of dolastatin 10.
+
+ If DLT occurs in 2 of 3 patients at a given dose level, then dose escalation ceases and the next lower dose is declared the maximum tolerated dose.
+
+ Patients are followed until death.
+
+ PROJECTED ACCRUAL: This study will accrue up to 25 patients within 8 months.
+
+.
+
+ Dolastatin 10 in Treating Patients With Refractory or Relapsed Acute Leukemia, Myelodysplastic Syndrome, or Chronic Myelogenous Leukemia@highlight
+
+RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.
+
+ PURPOSE: Phase I trial to study the effectiveness of dolastatin 10 in treating patients who have refractory or relapsed acute leukemia, chronic myelogenous leukemia in blast phase, or myelodysplastic syndrome.
+

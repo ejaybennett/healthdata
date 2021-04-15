@@ -1,0 +1,16 @@
+(firstQuint)Combination Entecavir and Peginterferon Therapy in HBeAg-Positive Immune-Tolerant Adults With Chronic Hepatitis B.
+
+ To determine the efficacy of treatment with 8 weeks of entecavir followed by 40 weeks of both entecavir and peginterferon in the treatment of chronic hepatitis B in hepatitis B "e" antigen (HBeAg) positive adults who are in the immune tolerant phase.
+
+ To evaluate safety and sustained responses after treatment with entecavir and peginterferon alfa-2a in the treatment of chronic hepatitis B in HBeAg positive adults who are in the immune tolerant phase.
+
+ A single arm treatment study of 8 weeks of entecavir followed by 40 weeks of both entecavir and peginterferon alfa-2a in adults with HBeAg-positive chronic hepatitis B with normal or near normal alanine aminotransferase (ALT) levels and high serum levels of hepatitis B virus (HBV) DNA ("immune tolerant" HBeAg-positive chronic hepatitis B).
+
+ All participants followed for 48 weeks after treatment discontinuation (week 96 for those who completed treatment).
+
+.
+
+ Combination Entecavir and Peginterferon Therapy in HBeAg-Positive Immune-Tolerant Adults With Chronic Hepatitis B@highlight
+
+The investigators evaluated the safety and efficacy of a short lead-in course (8 weeks) of entecavir followed by combination of entecavir plus peginterferon alfa-2a for 40 weeks.
+

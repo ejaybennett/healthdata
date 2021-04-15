@@ -1,0 +1,11 @@
+(secondQuint)Randomized Controlled Trial of Higher-Volume Feedings in Preterm Neonates.
+
+ The proposed trial is designed to test the primary hypothesis that in preterm infants weighing 1001-2500 grams at birth and who are less than or equal to 32 weeks gestation, feeding goals of 180-200 ml/kg/day will increase weight gain (g/k/day) from time of enrollment to discharge home or 36 weeks post-menstrual age (PMA)(whichever comes first) more than the commonly used feeding goal volume of 140-160 ml/kg/day (usual feeding goal).
+
+ This is a pilot study to determine the safety of increased volumes of feedings as opposed to fortification of feedings.
+
+.
+
+ Randomized Controlled Trial of Higher-Volume Feedings in Preterm Neonates@highlight
+
+The primary hypothesis is that preterm infants who are less than or equal to 32 weeks gestation and weigh 1001-2500 grams at birth will have an increase in weight gain with a feeding goal of 180-200 ml/kg/day more than the commonly used feeding goal of 140-160 ml/kg/day

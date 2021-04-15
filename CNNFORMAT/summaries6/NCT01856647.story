@@ -1,0 +1,24 @@
+(fifthQuint)Pilot Study Characterizing Adipose Tissue Leukocytes by Flow Cytometry/Microscopy in Lean, Obese and Psoriatic Subjects.
+
+ Obesity is an insulin resistance-associated metabolic disorder which is a hallmark of and risk factor for type 2 diabetes and the metabolic syndrome.
+
+ It is also often linked to cardiovascular disease, certain cancers (e.
+
+g.
+
+, colorectal, esophageal, endometrial, and ovarian), and inflammatory diseases (e.
+
+g.
+
+, psoriasis, osteoarthritis,inflammatory bowel disease).
+
+The phenotyping of subcutaneous adipose tissue (SAT) hematopoetic cells from obese subjects by flow cytometry, microscopy and gene expression will enable us to identify inflammation in this tissue and may help us to understand the causes and consequences of obesity in order to determine how these cells might be implicated in the initiation and/or progression of the aforementioned diseases.
+
+.
+
+ Pilot Study Characterizing Adipose Tissue Leukocytes by Flow Cytometry/Microscopy in Lean, Obese and Psoriatic Subjects@highlight
+
+Obesity is an insulin resistance-associated metabolic disorder which is a hallmark of and risk factor for type 2 diabetes and the metabolic syndrome, often linked to cardiovascular disease, certain cancers and inflammatory diseases.
+
+The phenotyping of subcutaneous adipose tissue (SAT) hematopoetic cells from obese subjects by flow cytometry, microscopy and gene expression will enable us to identify inflammation in this tissue and may help us to understand the causes and consequences of obesity in order to determine how these cells might be implicated in the initiation and/or progression of the aforementioned diseases.
+

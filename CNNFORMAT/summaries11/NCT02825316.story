@@ -1,0 +1,18 @@
+(secondQuint)Mediterranean Diet as an add-on Therapy for Induction of Remission in Patients With Active Crohn's Disease.
+
+ The Mediterranean diet has been associated with anti-inflammatory properties and with decreased risk for several chronic diseases.
+
+ However, the effect of Mediterranean diet has not been evaluated in patients with inflammatory bowel diseases.
+
+ The purpose of this study is to determine whether Mediterranean diet is superior to a low residue diet as an add-on therapy for induction of remission in adult patients with active Crohn's disease and to evaluate its effects on clinical, inflammatory and microbial parameters.
+
+ Seventy eligible patients will be randomly assigned to one of two dietary interventions: Mediterranean diet or low residue diet, as an add-on therapy for induction of remission of active Crohn's disease.
+
+ The effect of the dietary regimens on clinical, inflammatory and microbial parameters will be assessed at 8 and 52 weeks.
+
+.
+
+ Mediterranean Diet as an add-on Therapy for Induction of Remission in Patients With Active Crohn's Disease@highlight
+
+This clinical study is designed to evaluate the effect of Mediterranean diet as an add-on therapy for induction of remission in adult patients with active Crohn's disease and to evaluate its effects on clinical, inflammatory and microbial parameters.
+

@@ -1,0 +1,54 @@
+(fifthQuint)Dobutamine Stress Cardiac Magnetic Resonance Versus Echocardiography for the Assessment of Outcome.
+
+ Are the Two Imaging Modalities Comparable?.
+
+ Background: Both DSE and DCMR are implemented in the daily diagnostic work-up of patients with ischemic heart disease.
+
+ Although DCMR was previously shown to aid the diagnostic classification of patients with suspected CAD with higher sensitivity and accuracy compared to that provided by DSE, the value of the 2 techniques for the risk stratification of patients with CAD has not been investigated so far.
+
+ Methods: Patients with suspected or known CAD underwent either DSE or DCMR for clinical reasons using the same standardised high-dose dobutamine/atropine protocol.
+
+ Patient matching was performed for age, gender and coronary risk factors.
+
+ Wall motion was assessed at rest and during maximum stress, and outcome data including cardiac death and non-fatal myocardial infarction (defined as hard cardiac events) and 'late' revascularization performed >90 days after the MR-scans were prospectively collected at least 6 months after DSE or DCMR.
+
+ Follow-up Data: Personnel unaware of the stress testing results contacts each subject or an immediate family member and the date of this contact was used for calculating the follow-up time duration.
+
+ Outcome data is collected from a standardized questionnaire and determined from patient interviews at the outpatient clinic or by telephone interviews.
+
+ Reported clinical events are confirmed by review of the corresponding medical records in our electronic Hospital Information System (HIS), contact with the general practitioner, referring cardiologist or the treating hospital.
+
+ Cardiac death and nonfatal myocardial infarction are registered as major cardiac events.
+
+ Cardiac death is defined as death from any cardiac cause (lethal arrhythmia, myocardial infarction, or congestive heart failure) or sudden unexpected death occurring without another explanation.
+
+ Myocardial infarction is defined by angina of >30 minutes duration and either ST segment elevation of 2mm in 2 consecutive ECG leads or a rise in troponin T of 0.
+
+03 mu g/l.
+
+ Other events include clinically indicated coronary arterial revascularization by percutaneous coronary angioplasty (PCI) or coronary artery bypass graft (CABG).
+
+ In case of 2 simultaneous cardiac events, the worst event was selected (cardiac death>non-fatal myocardial infarction>revascularization).
+
+.
+
+ Dobutamine Stress Cardiac Magnetic Resonance Versus Echocardiography for the Assessment of Outcome.
+
+ Are the Two Imaging Modalities Comparable?@highlight
+
+Dobutamine stress echocardiography (DSE) and cardiac magnetic resonance (DCMR) are both established non-invasive techniques, used in the clinical routine for the diagnostic classification and risk stratification of patients with suspected or known coronary artery disease (CAD).
+
+ In this regard, regional wall motion abnormalities (WMA) during dobutamine stress, precede the development of ST-segment depression and anginal symptoms, enabling the detection of anatomically significant CAD and the assessment of clinical outcomes.
+
+ In a head-to-head comparison between the 2 techniques, favourable diagnostic characteristics in terms of higher sensitivity and accuracy were noted for DCMR compared to DSE.
+
+ Although it has been reported that stress induced WMA both in DCMR and in DSE are independent predictors for hard cardiac events such as cardiac death or myocardial infarction, the value of the 2 techniques for the risk stratification of patients with CAD has not been compared to each other so far.
+
+ Comparison of these 2 non-invasive techniques is important, because referring physicians need to know which modality is more reliable for the identification of patients at higher risk for subsequent cardiac events, who would benefit from early invasive therapy.
+
+ In the investigators study the investigators therefore sought to compare the ability of DSE versus DCMR to predict subsequent hard cardiac events and revascularization procedures in a patient cohort with high CAD prevalence.
+
+ Their predictive value was compared to that of conventional atherogenic risk factors and to resting WMA.
+
+ In addition, the investigators sought to determine if both techniques are equally suitable for structuring invasive or conservative treatment according to the presence or absence of inducible ischemia, respectively.
+

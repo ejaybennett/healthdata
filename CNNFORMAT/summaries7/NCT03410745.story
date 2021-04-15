@@ -1,0 +1,14 @@
+(firstQuint)Cartilage Adaptation and Response to Interleukins and Exercise.
+
+ By using stabile isotope labelling, this study will track the formation and destination of newly formed cartilage collagen in adult humans scheduled for knee replacement surgery due to osteoarthritis.
+
+ The collagen formation as well as the effect on the cytokine content of the synovial fluid will be examined both at rest and in response to 4 weeks of exercise/training.
+
+ Overall the project aims to improve the basic understanding of cartilage development and function in relation to osteoarthritis prevention.
+
+.
+
+ Cartilage Adaptation and Response to Interleukins and Exercise@highlight
+
+This study will examine the effect of exercise on the turnover of collagen in articular cartilage and the content of cytokines in the synovial fluid from human adults with osteoarthritis.
+

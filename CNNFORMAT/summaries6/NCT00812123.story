@@ -1,0 +1,16 @@
+(secondQuint)Calcineurin Free Immunosuppression in Renal Transplant Recipients.
+
+ This pilot study is designed to show differences in efficacy, safety and cost between the two regimens.
+
+ Its main purpose is to provide information, if calcineurin free immunosuppressive treatment is a valuable alternative in the treatment of de novo kidney transplant recipients.
+
+ Furthermore, by investigating the side effects in both arms it will be possible to decide, if the absence of calcineurin inhibition and lack of nephrotoxicity will outweigh the adverse effects of Rapamycin.
+
+ With the obtained information it will be possible to plan a larger trial, which is warranted to compare the mentioned treatment regimens in more detail.
+
+.
+
+ Calcineurin Free Immunosuppression in Renal Transplant Recipients@highlight
+
+The main purpose of this study is to obtain preliminary information on the efficacy, safety and cost of two regimens, Rapamycin / MMF / steroid therapy and Cyclosporine A Neoral / MMF / steroid therapy, used in the prevention of acute rejection following renal transplantation.
+

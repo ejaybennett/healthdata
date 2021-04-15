@@ -1,0 +1,22 @@
+(thirdQuint)Dual Antiplatelet Therapy Tailored on the Extent of Platelet Inhibition.
+
+ Several studies documented the presence of a high variability in the individual response to antiplatelet therapies in terms of extent of platelet function inhibition.
+
+ This laboratory finding is the so-called aspirin or clopidogrel resistance which we prefer to define residual platelet reactivity (RPR) on antiplatelet therapy.
+
+ A growing body of evidence is demonstrating the clinical relevance of this laboratory parameter, i.
+
+e.
+
+ patients with RPR are at higher risk of a subsequent adverse cardiovascular event.
+
+ In particular, it has been demonstrated that RPR measured by light transmittance aggregometry induced by ADP or by the point of care assay VerifyNow P2Y12 identifies patients which, after coronary revascularization with stent implantation, at higher risk of a potentially catastrophic event such as stent thrombosis.
+
+ No randomized trials are available in the literature on the efficacy and safety of an antiplatelet therapy tailored on the extent of platelet function inhibition.
+
+.
+
+ Dual Antiplatelet Therapy Tailored on the Extent of Platelet Inhibition@highlight
+
+The purpose of this study is to evaluate the efficacy (reduction of major ischemic events at 6 and 12 months of follow-up) of a tailored clopidogrel therapy in patients with UA/NSTEMI undergoing PCI with stent implantation and wiht a documented residual platelet reactivity assessed by a point of care system (VerifyNow P2Y12).
+

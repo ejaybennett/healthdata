@@ -1,0 +1,18 @@
+(firstQuint)A Phase 0, Open Label, Multi-center Exploratory and Safety Study of [F-18]T807.
+
+ Siemens Molecular Imaging (SMI) is seeking to determine if [F-18]T807 might be useful as a non-invasive assessment tool in the clinical evaluation of subjects with conditions associated with tau protein aggregates, such as Alzheimer's disease.
+
+ The information collected under this exploratory study will not be used for diagnostic purposes, assessments of the participant's response to therapy or for clinical management of the participants.
+
+ However, this exploratory study will provide baseline information on the safety, biodistribution, and dosimetry of [F-18]T807.
+
+ These data will aid in the design of future studies of [F-18]T807 in patients with Alzheimer's disease.
+
+ Overall, this study will provide initial data that inform the development of [F-18]T807 as the first PET imaging agent for human tau protein related pathology.
+
+.
+
+ A Phase 0, Open Label, Multi-center Exploratory and Safety Study of [F-18]T807@highlight
+
+[F-18]T807 is being developed as a diagnostic radiopharmaceutical for PET imaging of the human brain.
+

@@ -1,0 +1,20 @@
+(firstQuint)Safety and Efficacy of Six Months Dual Antiplatelet Therapy After Drug-Eluting Stenting.
+
+ Drug elution from stent struts is associated with less smooth muscle cell proliferation and delayed stent strut re-endothelialization.
+
+ Thus it seems conceivable that a longer duration of dual antiplatelet therapy (aspirin and clopidogrel) after DES implantation is needed.
+
+ However, no studies have been done to investigate which is the optimal antiplatelet therapy duration after DES implantation.
+
+ Therefore, the objective of the randomized, double-blind, placebo-controlled ISAR-SAFE study is to evaluate the safety and efficacy of a 6 month versus a 12 month duration of clopidogrel therapy after DES implantation.
+
+ Patients on clopidogrel therapy at least 6 months after DES implantation, who do not require a reintervention will be randomized to an additional 6 month period of clopidogrel or placebo.
+
+ The patients will be followed-up for 9 months after randomization.
+
+.
+
+ Safety and Efficacy of Six Months Dual Antiplatelet Therapy After Drug-Eluting Stenting@highlight
+
+The purpose of this study is to determine whether a 6 month duration of clopidogrel therapy after DES implantation is not inferior to that of a 12 month therapy.
+

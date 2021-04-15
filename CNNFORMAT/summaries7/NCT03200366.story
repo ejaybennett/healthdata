@@ -1,0 +1,44 @@
+(fifthQuint)Comparing Interventions to Increase Colorectal Cancer Screening.
+
+ Colorectal cancer (CRC) often can be prevented through regular screening and although multiple screening tests are available, colonoscopy is often the only screening test offered to patients.
+
+ Unfortunately, up to half of people in some hospitals who receive a recommendation and are scheduled for colonoscopy do not complete the test.
+
+ Reasons for not completing colonoscopy include lack of awareness of the need for, and benefits of, screening, fear of pain, fear of finding cancer, unpleasantness of the bowel preparation, cost, transportation issues, and the unwillingness to undergo an invasive test in the absence of symptoms.
+
+ The process of bowel cleansing is one of the most challenging aspects of having a colonoscopy.
+
+ Interventions that improve patients' knowledge about CRC screening, including test options other than colonoscopy, enhance access, improve skills needed to complete CRC screening, and reduce barriers will lead to greater numbers of people being screened.
+
+ Patient navigation and computer tailored interventions have been shown to be effective approaches to increase CRC and other cancer screening but there is no evidence of their comparative effectiveness.
+
+ The purpose of this study is to compare two health system-based interventions, with one another and with usual care, to increase completion rates among a diverse sample of patients.
+
+ The investigators will enroll an ethnically diverse group of 750 men and women aged 50-75 who are at average risk for CRC and were referred and scheduled for colonoscopy at one endoscopy department but canceled or did not attend their scheduled appointment.
+
+ Participants will be randomized to receive: (1) a mailed tailored digital video disc (DVD) alone; 2) the mailed tailored DVD plus a telephone-based Patient Navigator; or 3) usual care.
+
+ Data will be collected at baseline, at 6 months and at 9 months post-baseline.
+
+ Interviews to assess receipt, viewing, and satisfaction with the tailored DVD will be conducted 2 weeks after mailing.
+
+ Satisfaction with the patient navigator will be assessed at 6 months.
+
+ Multivariable logistic regression analyses will be used to test the interventions' effects on CRC screening test completion and, for those who complete colonoscopy, quality of bowel preparation.
+
+ The investigators will also examine whether these interventions change knowledge about CRC and screening as well as health beliefs (perceived risk, perceived benefits, barriers, and self-efficacy) about screening.
+
+ From this study, the investigators will learn how effective these two standardized, easy to disseminate health system-based interventions are compared to each other and to usual care.
+
+ If the interventions are found to be equally effective, or differentially effective for different subgroups of patients, healthcare systems may consider implementing one or both of these interventions in their settings.
+
+.
+
+ Comparing Interventions to Increase Colorectal Cancer Screening@highlight
+
+The purpose of this study is to test different approaches to help people understand the purpose of colorectal cancer (CRC) screening, two screening test options available, and the barriers to screening so they can make informed decisions about CRC screening.
+
+ Participants will be randomly assigned to one of three groups: (1) one group will receive a tailored digital video disc (DVD) in the mail; (2) another group will receive the mailed DVD plus telephone calls from a patient navigator; and (3) the third group will receive the care normally provided by the healthcare system's endoscopy department.
+
+ The investigators hypothesize the following: (1) participants who receive the tailored DVD plus the patient navigation intervention will have higher rates of CRC screening with the fecal immunochemical test (FIT), colonoscopy, or either screening test compared to those who receive the tailored DVD alone; (2) participants who receive either intervention (DVD only or DVD plus patient navigation) will have higher rates of CRC screening with FIT, colonoscopy, or either screening test than those who receive usual care; and (3) participants who receive either intervention who complete colonoscopy will have better quality of bowel preparation, less anxiety about the procedure, and greater satisfaction with the colonoscopy experience than those who receive usual care.
+

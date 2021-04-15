@@ -1,0 +1,16 @@
+(secondQuint)VisONE Heart Failure Study: Pilot.
+
+ This 12 month study is intended to validate the early benefits observed with Asymptomatic Diaphragmatic Stimulation (ADS) as a primary form of heart failure therapy with low rates and severity of adverse effects.
+
+ Medical refractory symptomatic heart failure patients with reduced ejection fraction and no evidence of arrhythmias or ventricular dysynchrony will undergo laparoscopic implantation of the VisONE cent implantable system comprised of a pulse generator and two leads, programmed to deliver cardiac-gaited diaphragmatic stimulation pulses at asymptomatic outputs.
+
+ Patients will be followed in pre-specified durations of 1,3,6 and 12-months using a series of evaluations of hemodynamic, echocardiographic, heart failure status, diaphragmatic function, implanted system data and standard safety measures including adverse events, for comparison with their baseline values.
+
+ The results are intended to be used for designing a subsequent larger study for performing statistical power calculations.
+
+.
+
+ VisONE Heart Failure Study: Pilot@highlight
+
+This is a pilot for evaluating the benefits and risks of chronically delivering Asymptomatic Diaphragmatic Stimulation in medical refractory heart failure patients using the VisONE cent implantable system for 12 months.
+

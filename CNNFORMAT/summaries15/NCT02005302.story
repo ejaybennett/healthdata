@@ -1,0 +1,20 @@
+(secondQuint)Optimizing Treatment Programs for Chronic Kidney Disease-mineral and Bone Disorder and Malnutrition.
+
+ This study will enroll chronic kidney disease patients, stage 3 to 5ND, who have chronic kidney disease mineral and bone disease (CKD-MBD) and malnutrition as defined by Kidney Disease Improvement Global Outcome (KDIGO) Guidelines.
+
+ Patients in five centers will be randomized.
+
+ A total of 600 patients will be enrolled, 150 patients receiving Vitamin D2 treatment virus 150 patients receiving calcitriol treatment, and another 150 patients receiving low protein diet virus 150 patients receiving normal protein diet.
+
+ Outcomes will be assessed as proportion of patients achieving target blood levels on calcium, phosphorus, parathyroid hormone, 25 hydroxyvitamin D, albumin and hemoglobin.
+
+ Other outcomes will also be assessed, which include secondary hyperparathyroidism (sHPT), vascular calcification, cardiovascular diseases, nutritional status and quality of life.
+
+.
+
+ Optimizing Treatment Programs for Chronic Kidney Disease-mineral and Bone Disorder and Malnutrition@highlight
+
+Multi-center, prospective, randomized, controlled study to verify the clinical effectiveness of K / DOQI guidelines.
+
+ The efficiency and safety of Vitamin D2 and low protein diet treatment for prevention and treatment of CKD-MBD and malnutrition in CKD3-5 (ND) patients.
+

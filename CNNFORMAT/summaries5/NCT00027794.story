@@ -1,0 +1,32 @@
+(secondQuint)Radical Prostatectomy in Treating Patients With Locally Advanced Prostate Cancer.
+
+ OBJECTIVES: - Determine the success rate of radical prostatectomy in patients with locally advanced adenocarcinoma of the prostate.
+
+ - Determine the serious toxic event rate of this surgery in these patients.
+
+ - Determine the pN status of patients treated with this surgery.
+
+ - Determine the percentage of patients found to have organ-confined tumors (pT2) after undergoing this surgery.
+
+ - Determine the 2-year prostate-specific antigen-free survival rate of patients treated with this surgery.
+
+ - Determine the surgical morbidity rates of patients treated with this surgery.
+
+ OUTLINE: This is a multicenter study.
+
+ Patients undergo limited pelvic lymphadenectomy and then radical retropubic prostatectomy.
+
+ Patients who are found to have pN-positive disease receive further treatment according to the investigator's discretion.
+
+ Patients with pN0 disease are followed every 3 months for 1 year and then every 4 months for 1 year.
+
+ PROJECTED ACCRUAL: A total of 32-74 patients will be accrued for this study.
+
+.
+
+ Radical Prostatectomy in Treating Patients With Locally Advanced Prostate Cancer@highlight
+
+RATIONALE: Radical prostatectomy may be an effective treatment for locally advanced prostate cancer.
+
+ PURPOSE: Phase II trial to study the effectiveness of radical prostatectomy in treating patients who have locally advanced prostate cancer.
+

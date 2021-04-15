@@ -1,0 +1,38 @@
+(fifthQuint)A Randomized Double Blind Placebo Controlled Study of the Effect of Swallowed Beclomethasone Dipropionate on Inflammatory Markers in Adult Patients With Eosinophilic Esophagitis.
+
+ EoE is an increasingly recognized clinicopathological diagnosis, characterized by a marked accumulation of eosinophils in the esophageal mucosa.
+
+The presence of eosinophils and association of the disease with food allergy and allergic rhinitis suggests an atopic disease.
+
+ Allergic diseases are associated with T-helper 2 lymphocytes (TH2) predominant cytokines such as interleukins 4, 5, 13 (IL4, IL5, IL13), which are known to induce IgE synthesis and promote eosinophilic infiltration.
+
+ Granulocyte-Monocyte Colony Stimulating Factor (GM-CSF) and Transforming Growth Factor (TGF) - beta are cytokines which are associated with many eosinophilic disorders.
+
+ Swallowed steroid is a conventional treatment that has been shown to improve symptoms and decrease number of eosinophils in the esophagus in patients with EoE.
+
+ However, no studies have investigated the effect of swallowed steroid on markers of TH2 inflammation in adult patients with EoE.
+
+Currently repeated endoscopic biopsy of esophagus is the only tool to monitor response to treatment.
+
+ Serum ultra- sensitive CRP is a non-invasive marker of inflammation in cardiovascular and gastrointestinal disorders.
+
+ This study proposes to investigate the correlation of disease activity with this potential marker of inflammation in adult patients with EoE which has not been previously studied.
+
+ Specific Aim #1: To measure the baseline level of a proposed panel of inflammatory markers: serum ultra-sensitive CRP and peripheral eosinophils, as well as tissue eosinophils, mast cells, CD4 cells, IL-4, IL-5, IL-13, GM-CSF and TGF-beta in the esophagus in adult patients with eosinophilic esophagitis.
+
+ Specific Aim #2: To determine the impact of 8 week course of treatment with swallowed beclomethasone on the levels of the inflammatory markers measured in Specific Aim #1.
+
+ Specific Aim #3: To determine the correlation between the levels of the proposed panel of inflammatory markers and symptoms of EoE before and after 8 weeks of treatment with swallowed beclomethasone.
+
+.
+
+ A Randomized Double Blind Placebo Controlled Study of the Effect of Swallowed Beclomethasone Dipropionate on Inflammatory Markers in Adult Patients With Eosinophilic Esophagitis@highlight
+
+The investigators hypothesize that swallowed beclomethasone leads not only to improvement of symptoms and decreased number of eosinophils in esophageal mucosa, but also to a decrease in other markers of tissue inflammation like mast cells, CD4+ T lymphocytes, IL4, IL-5, IL13, GM-CSF and TGF-beta as well as serum ultra-sensitive C-Reactive Protein (CRP).
+
+ The investigators aim to characterize the response of esophageal inflammation to swallowed topical glucocorticoids, and identify biomarkers to assess response to treatment.
+
+ This research will elucidate the effect of treatment with beclomethasone on various inflammatory markers in EoE, which is currently not well-understood.
+
+ This work will explore the pathophysiology of EoE, and has the potential to find a non-invasive biomarker such as high-sensitivity CRP that can be used to monitor the response to treatment.
+

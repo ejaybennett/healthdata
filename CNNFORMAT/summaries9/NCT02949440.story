@@ -1,0 +1,20 @@
+(secondQuint)A Study of Laparoscopic Right Hemicolectomy Using the Caudal-to-cranial Approach.
+
+ To compare the caudal-to-cranial approach with the medial-to-lateral approach in laparoscopic right hemicolectomy for the advance right colon cancer.
+
+ A prospective randomized controlled trial will be performed in the GI department,the Guangdong provincial hospital of Chinese Medicine from October 2016 to October 2024.
+
+The sample size,150 cases with advanced right colon cancer, will be needed after calculated by the statistics .
+
+The 150 cases will be randomly divided into two groups: laparoscopic radical right hemicolectomy using the caudal-to-cranial(CtC) approach(GroupCtC) and laparoscopic radical right hemicolectomy using the medial-to-lateral(MtL) approach (GroupMtL).
+
+ Primary outcomes are the operative time,The secondary outcomes are the total blood loss,the number of lymph nodes dissected,the average time of ground activities,the time to first flatus,the hospital stay,the intra-operative complication and the post-operative complication,and others' outcomes are the Disease-free survival rate(DFS) at 3 years and 5 years,the Overall survival rate(OS)at 3 years and 5 years.
+
+The data in two groups will be compared.
+
+.
+
+ A Study of Laparoscopic Right Hemicolectomy Using the Caudal-to-cranial Approach@highlight
+
+To investigate the clinical application value of laparoscopic radical right hemicolectomy using the caudal-to-cranial approach versus the medial-to-lateral approach by prospective randomized controlled clinical study.
+

@@ -1,0 +1,16 @@
+(firstQuint)Symptoms and Clinical Signs of Hypogonadism in Testicular Cancer Survivors.
+
+ Recent studies have shown that metabolic syndrome is common among testicular cancer.
+
+ Patients with low levels of testosterone appear to be at higher risk of metabolic syndrome.
+
+ A substantial number of testicular cancer survivors might be in a state of "compensated hypogonadism" with testosterone levels low in the normal range due to an increased LH-drive from the pituitary gland.
+
+ Whether this specific groups of testicular cancer survivors are at increased risk of cardio-vascular disease and might benefit from testosterone substitution is yet to be clarified.
+
+.
+
+ Symptoms and Clinical Signs of Hypogonadism in Testicular Cancer Survivors@highlight
+
+The purpose of this study is to investigate the prevalence of signs and symptoms of hypogonadism in three groups of testicular cancer survivors.
+

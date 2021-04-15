@@ -1,0 +1,11 @@
+(firstQuint)Atorvastatin for the Prophylaxis of Acute GVHD in Patients Undergoing Matched Sibling Allogeneic Transplantation.
+
+ This is a phase II study of atorvastatin for the prophylaxis of acute GVHD in patients undergoing matched-sibling allogeneic HSCT.
+
+ This study will explore a two-pronged acute GVHD prophylaxis strategy, consisting of pre-treating consenting sibling donors with atorvastatin before stem cell collection, followed by the addition of atorvastatin to methotrexate/tacrolimus-based GVHD prophylaxis.
+
+.
+
+ Atorvastatin for the Prophylaxis of Acute GVHD in Patients Undergoing Matched Sibling Allogeneic Transplantation@highlight
+
+Atorvastatin for prevention of acute GVHD

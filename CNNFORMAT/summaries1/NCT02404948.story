@@ -1,0 +1,18 @@
+(firstQuint)PRV-based Detection of CAD in Comparison to Standard Methods.
+
+ The study will validate a pulse wave based algorithm for the detection of coronary artery disease (CAD) with parameters from standard methods.
+
+ Subjects will be patients admitted to coronary angiography due to suspected CAD.
+
+ Pulse wave signals will be analyzed according to novelly established algorithm regarding the presence of CAD and/or myocardial ischemia.
+
+ These results be compared to the diagnoses made by coronary angiography (primary endpoint): presence of minimum one coronary artery stenose >=50%.
+
+ For secondary analyses, results will be compared to parameters form echocardiography and cardiogoniometry.
+
+.
+
+ PRV-based Detection of CAD in Comparison to Standard Methods@highlight
+
+This is a validation study comparing a pulse wave based algorithm for the detection of coronary artery disease with parameters from coronary angiography, echocardiography and cardiogoniometry.
+

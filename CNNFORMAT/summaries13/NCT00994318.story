@@ -1,0 +1,20 @@
+(secondQuint)Ferric Carboxymaltose (FCM) Assessment in Subjects With Iron Deficiency Anaemia and Non-dialysis-dependent Chronic Kidney Disease (NDD-CKD).
+
+ After an initial screening period of up to 4 weeks, eligible subjects were randomised (1:1:2) to 1 of the following 3 treatment arms for a period of 52 weeks.
+
+ 1.
+
+ FCM regimen (maximum single intravenous doses of 1,000 mg of iron) targeting a ferritin level of 400-600 mcg/L.
+
+ 2.
+
+ FCM regimen (maximum single intravenous doses of 200 mg of iron) targeting a ferritin level of 100-200 mcg/L.
+
+ 3.
+
+ Daily oral iron with 200 mg iron/day (100 mg twice daily).
+
+ Ferric Carboxymaltose (FCM) Assessment in Subjects With Iron Deficiency Anaemia and Non-dialysis-dependent Chronic Kidney Disease (NDD-CKD)@highlight
+
+Phase IIIb study to evaluate the long-term efficacy of ferric carboxymaltose (FCM) (using targeted ferritin levels to determine dosing) or oral iron in non-dialysis-dependent chronic kidney disease (NDD-CKD) subjects with iron deficiency anaemia (IDA).
+

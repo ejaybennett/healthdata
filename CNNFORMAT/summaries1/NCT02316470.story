@@ -1,0 +1,49 @@
+(thirdQuint)Dose-Confirmation, Immunogenicity and Safety Study of the Clostridium Difficile Vaccine Candidate VLA84 in Healthy Adults Aged 50 Years and Older.
+
+ Phase II Study.
+
+ This is a randomized, controlled, observer-blind Phase 2 study which aims to confirm the optimal dose and formulation of VLA84 in healthy adults aged 50 years of age.
+
+ The study will be enrolled in two age strata, subjects aged 50 - 64 years and subjects aged 65 years and older, in a 1:1 ratio.
+
+ 500 subjects (thereof, 250 aged 50 - 64 years and 250 aged 65 years and older) will be randomized in a 3:3:3:1 ratio to receive either VLA84 75 mu g w/o Alum, VLA84 200 mu g w/o Alum, VLA84 200 mu g w/ Alum (150 subjects each), or placebo (50 subjects).
+
+ Vaccinations consist of two i.
+
+m.
+
+ injections administered in close proximity to each other in the deltoid region at Day 0, 7 and 28, starting with the non-dominant arm and alternating arms between the vaccination days.
+
+ The study will investigate the immunogenicity and safety of VLA84 up to six months after the last vaccination, i.
+
+e.
+
+ 210 days per subject.
+
+ The study includes eight outpatient visits on days 0, 7, 14, 28, 35, 56, 120 and 210.
+
+ Serum will be collected to assess humoral immunity at days 0, 7, 14, 28, 35, 56, 120 and 210.
+
+ The study is OBSERVER blind.
+
+ This means only pre-defined study staff will be unblinded, e.
+
+g.
+
+, staff responsible for IMP accountability, preparation and administration, monitor responsible IMP accountability, or safety staff in case of safety reasons.
+
+ All other persons involved in study conduct will remain blinded.
+
+.
+
+ Dose-Confirmation, Immunogenicity and Safety Study of the Clostridium Difficile Vaccine Candidate VLA84 in Healthy Adults Aged 50 Years and Older.
+
+ Phase II Study@highlight
+
+Phase 2, randomized, observer-blind, placebo-controlled, multi-centric study including 4 parallel study groups.
+
+ 500 Subjects (thereof, 250 aged 50 - 64 years and 250 aged 65 years and older) will be randomized in a (3:3:3:1) ratio to receive either VLA84 75 mu g w/o (without) Alum, VLA84 200 mu g w/o Alum, VLA84 200 mu g w/ (with) Alum (150 subjects each), or placebo (50 subjects), as i.
+
+m.
+
+ (intramuscular) vaccinations into alternating arms, on Days 0, 7 and 28

@@ -1,0 +1,26 @@
+(thirdQuint)Synaptic Plasticity Imaging With Diffusion MRI.
+
+ This study is devoted to explore brain plasticity by 2 modes of diffusion weighted imaging (DWI) of the brain : - functional imaging using DWI and BOLD - anatomical studies using DWI Theses DWI exams use high b-factor to sample tissue microstructure/metabolism.
+
+ To correlated these DWI changes with anatomical ones, we used anatomical imaging like T1 maps and susceptibility-based maps.
+
+ First, the relatively new technique of diffusion functional magnetic Resonance (DfMRI) was explored to obtain activation of brain following visual stimulations.
+
+ These modality was compared to BOLD and anatomical venography.
+
+ The DWI exams for anatomical (tractography) used both high angular resolution directional diffusion encoding (18 directions) and high b-values (as high as b=12 000 s/mm) to obtain precise knowledge about tissue microstructure.
+
+ Study was approved by the National French Institute of Health and by french organism for biomedical studies (AFFSAPS).
+
+ Study involve 35 subjects, with 5 additional subjects for eventual rejection because of ineligibility criterion, and compare 15 young (20-30 years) to aged healthy people (60-80 years).
+
+ Then, anatomical studies are devoted to obtain microstructures information about brain areas that are changed with age, and to validate fully the feasibility of the DfMRI approach.
+
+.
+
+ Synaptic Plasticity Imaging With Diffusion MRI@highlight
+
+Diffusion MRI employed in functional imaging has the potential to probe directly brain activation instead of blood changes like the BOLD technique.
+
+ The researchers investigated these rapid synaptic plasticity changes with visual activation followed by BOLD and diffusion functional MRI as well as anatomical (venography, tractography by diffusion) features in young and aged subjects.
+

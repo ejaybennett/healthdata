@@ -1,0 +1,38 @@
+(fifthQuint)A Placebo-Controlled Study of Clonidine for Fecal Incontinence.
+
+.
+
+ Available therapeutic options for idiopathic fecal incontinence (FI) are limited and unsatisfactory.
+
+ In addition to weak anal sphincters, our data suggest that reduced rectal capacity may contribute to rectal hypersensitivity and the symptom of rectal urgency in FI.
+
+ During a 4 week study, oral clonidine restored rectal capacity and improved fecal continence in women with urge-predominant FI.
+
+ Clonidine improves fecal continence and stool consistency in diarrhea-predominant irritable bowel syndrome (IBS).
+
+ Therefore, we now propose a placebo-controlled study of clonidine for FI.
+
+ Our aims are to (i) compare the effects of clonidine and placebo, to be given for 4 weeks, on symptoms, anal pressures, rectal compliance and sensation in women with FI.
+
+ Forty four women (18-75 y) with urge predominant "idiopathic" FI and 4 episodes of FI during a 4 week screening period will be recruited to this study.
+
+ Thereafter, patients will be treated with clonidine or placebo for 4 weeks.
+
+ Bowel symptoms will be recorded in a diary.
+
+ Anal sphincter pressures, rectal compliance and sensation will be evaluated before and during treatment with clonidine.
+
+.
+
+ A Placebo-Controlled Study of Clonidine for Fecal Incontinence.
+
+@highlight
+
+Fecal incontinence is the involuntary leakage of stool from the anus.
+
+ Doctors at Mayo Clinic are doing a research study to assess the effects of a medication, clonidine, on fecal incontinence and rectal functions in women.
+
+ Clonidine has been approved by the Food and Drug Administration (FDA) for treating high blood pressure, but not for treating incontinence and rectal functions.
+
+ The hypothesis of this study is clonidine will improve fecal incontinence, increase rectal capacity and reduce rectal sensation to a greater extent than placebo in women.
+

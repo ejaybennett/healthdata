@@ -1,0 +1,12 @@
+(firstQuint)Follow-up Study to Evaluate Sustained Clearance Rates of Actinic Keratoses up to One Year.
+
+ This is a Phase 3 longitudinal and observational study.
+
+ Subjects who previously enrolled in studies GW01-0702, GW01-0703, GW01-0704, and GW01-0705 and were completely cleared of their AK lesions in the selected treatment area at the end-of-study visit will return for follow-up visits at 6 and 12 months after the EOS visit or until a recurrence of AKs.
+
+ The NCT numbers for the above mentioned studies are: NCT00603798 - for Studies GW01-0703 and GW01-0705 NCT00605176 for Studies GW01-0702 and GW01-0704.
+
+ Follow-up Study to Evaluate Sustained Clearance Rates of Actinic Keratoses up to One Year@highlight
+
+The objective of this study was to obtain long-term sustained clearance rates for subjects previously treated with imiquimod creams in studies GW01-0702, GW01-0703, GW01-0704 and GW01-0705.
+

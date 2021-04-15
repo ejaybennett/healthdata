@@ -1,0 +1,52 @@
+(fifthQuint)Ovarian Stimulation With Recombinant Gonadotropins vs.
+
+ Human Menopausal Gonadotropin in In Vitro Fertilization.
+
+ Data were retrospectively collected from the clinical charts of our In Vitro Fertilization (IVF) Unit database.
+
+ Among 3,416 cases recorded in the database, patients classified as expected poor responders and/or expected normal responders, requiring an average daily gonadotropin dose of 150-300 IU, were selected.
+
+ A total of 848 patients matched this criterion and were included in the final analysis; of these, 398 (Group A) had been stimulated with rFSH+rLH, whereas 450 (Group B) had been treated with hMG.
+
+ Patients in Group A (n=398) had been stimulated either with a starting dose of 150-300 International Units per day (IU/d) recombinant Follicle Stimulating Hormone (rFSH) plus 75-150 IU/d recombinant Luteinising Hormone (rLH) in 2:1 ratio.
+
+ On day 6-7 of ovarian stimulation, the gonadotropin dose had been adapted according to the ovarian response, always maintaining the same rFSH:rLH ratio.
+
+ Patients in Group B (n=450) had received 150-300 IU/d human Menopausal Gonadotropin, eventually adjusting the dose on day 6-7 of ovarian stimulation.
+
+ Either medication had been administered within a "long" protocol with Gonadotropin-releasing Hormone (GnRH)-agonist or a "short" protocol with GnRH-antagonist.
+
+ The COS regimen (type of protocol and type of medication) had been prescribed in the absence of any pre-fixed criteria at the time of prescription by different physicians of the Unit, basing the choice of appropriate dosages on the clinical experience, considering parameters such as age, small antrall follicle count and basal day 3 FSH.
+
+ The classical "long" protocol had been performed administering the GnRH-agonist buserelin (900 mcg/d intranasally) from day 21 of the preceding cycle.
+
+ In the "short" protocol, the GnRH-antagonist cetrorelix had been started at a subcutaneous dose of 0.
+
+25 mg/d according to a flexible schedule, when at least one follicle 14 mm diameter was observed at ultrasound (US).
+
+ COS had been monitored by transvaginal US plus serum estradiol (E2) measurement performed every second day from stimulation day 6-7.
+
+ From stimulation day 6-7 onward, checkpoints had been performed until at least one dominant follicle had reached 18 mm diameter, with appropriate E2 levels.
+
+ At this point, ovulation had been triggered by injecting subcutaneously 10,000 IU of human Chorionic Gonadotropin, and transvaginal US-guided oocyte aspiration (OPU) had been performed approximately 36-37 hours after hCG injection under local anesthesia (paracervical block).
+
+ Classical IVF or ICSI had followed, according to the clinical indication.
+
+ After two days of in vitro culture, embryos had been scored and 1-3 of them had been transferred in uteri using a soft catheter under US guidance.
+
+ The luteal phase had been supported administering 180 mg/d natural progesterone for 15 days.
+
+ Pregnancy had been assessed by serum hCG assay after 15 days from embryo transfer and then confirmed if at least one gestational sac was visualized at transvaginal US after two further weeks.
+
+.
+
+ Ovarian Stimulation With Recombinant Gonadotropins vs.
+
+ Human Menopausal Gonadotropin in In Vitro Fertilization@highlight
+
+The purpose of this retrospective study was to assess the outcome of In Vitro Fertilization (IVF) according to the type of medication used for controlled ovarian stimulation (COS).
+
+ The study compared the pregnancy rate obtained by 398 patients who had received COS with recombinant Follicle Stimulating Hormone (rFSH) plus recombinant Luteinising Hormone (rLH) in 2:1 ratio vs.
+
+ the one observed in 450 patients who had been treated with human Menopausal Gonadotropin (hMG), stratifying results according to the number of retrieved oocytes.
+

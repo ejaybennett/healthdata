@@ -1,0 +1,12 @@
+(firstQuint)Study of Safety, Tolerability and Pharmacokinetics of NRX-1074 in Normal Healthy Volunteers.
+
+ NRX-1074 is a N-methyl-D-aspartate (NMDA) receptor functional partial agonist with efficacy in animal models of affective disorders including major depressive disorder.
+
+ The purpose of this study is to evaluate the safety and tolerability of multiple oral (PO) ascending doses of NRX-1074 as evidenced by the incidence and severity of adverse events (AEs), changes in serum chemistry, hematology, and urinalysis, changes in physical examination findings, psychotomimetic findings and subject-reported symptoms.
+
+.
+
+ Study of Safety, Tolerability and Pharmacokinetics of NRX-1074 in Normal Healthy Volunteers@highlight
+
+The purpose of this study is to assess the safety and tolerability of multiple oral (PO) ascending doses of NRX-1074 in normal healthy volunteers.
+

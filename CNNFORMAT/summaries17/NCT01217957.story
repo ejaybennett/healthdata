@@ -1,0 +1,44 @@
+(fifthQuint)A Study of Ixazomib Administered in Combination With Lenalidomide and Low-Dose Dexamethasone in Patients With Newly Diagnosed Multiple Myeloma.
+
+ The drug being tested in this study is called ixazomib.
+
+ Ixazomib was being tested to treat people who had newly diagnosed multiple myeloma who had not previously received systemic treatment.
+
+ This study was conducted in two Phases.
+
+ Phase 1 looked at side effects and lab results in people who took ixazomib to determine the MTD and RP2D.
+
+ Phase 2 looked at overall response rates and side effects in people who took ixazomib.
+
+ The study enrolled 15 patients in Phase 1 and 50 patients in Phase 2.
+
+ Participants in Phase 1 were assigned to cohorts and received ixazomib 1.
+
+68, 2.
+
+23, 2.
+
+97, or 3.
+
+95 mg/m^2 in addition to dexamethasone 40 mg and lenalidomide 25 mg.
+
+ Participants in Phase 2 received ixazomib 4.
+
+0 mg fixed dose in addition to dexamethasone 40 mg and lenalidomide 25 mg.
+
+ In both Phases study treatment was administered in 28-day Cycles as follows: ixazomib Days 1, 8 and 15, dexamethasone Days 1, 8, 15 and 22, and lenalidomide 25 mg Days 1 through 21.
+
+ This multi-center trial was conducted in the United States.
+
+ The overall time to participate in this study was 12, 28-day cycles with the option to continue into a maintenance portion in the absence of disease progression or unacceptable toxicity.
+
+ Participants made multiple visits to the clinic and a final visit 30 days after last dose of study drug for a follow-up assessment.
+
+.
+
+ A Study of Ixazomib Administered in Combination With Lenalidomide and Low-Dose Dexamethasone in Patients With Newly Diagnosed Multiple Myeloma@highlight
+
+The purpose of Phase 1 of this study was to determine the safety, tolerability, maximum tolerated dose (MTD), and recommended Phase 2 dose (RP2D) of oral ixazomib administered in combination with lenalidomide and low-dose dexamethasone in participants with newly diagnosed multiple myeloma (NDMM).
+
+ The purpose of Phase 2 of this study was to determine the overall response rate (ORR) and further evaluate the tolerability and toxicity of the combination of oral ixazomib, lenalidomide, and low-dose dexamethasone in patients with NDMM.
+

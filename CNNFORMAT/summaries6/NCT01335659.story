@@ -1,0 +1,12 @@
+(firstQuint)Main Branch Versus Side Branch Ostial Lesion.
+
+ Angiographic evaluation for ostial lesions is reported to be inaccurate in the assessment of the functional and clinical significance of a lesion.
+
+ The investigators studied the relations between coronary angiography (CAG), intravascular ultrasound (IVUS) and fractional flow reserve (FFR) in coronary ostial lesions.
+
+.
+
+ Main Branch Versus Side Branch Ostial Lesion@highlight
+
+The investigators studied the relations between coronary angiography (CAG), intravascular ultrasound (IVUS) and fractional flow reserve (FFR) in coronary ostial lesions.
+

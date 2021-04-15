@@ -1,0 +1,12 @@
+(firstQuint)Safety & Tolerability of MTS in Children Aged 6-12 Diagnosed With ADHD & Previously Treated With Extended-Release Methylphenidate Therapy.
+
+ Attention-Deficit/Hyperactivity Disorder (ADHD) is a psychiatric disorder characterized by 3 main symptoms: inattention, hyperactivity and impulsivity.
+
+ This study will assess the safety and tolerability of SPD485 while attempting to establish the appropriate starting dose for subjects previously on an existing long-acting methylphenidate product.
+
+.
+
+ Safety & Tolerability of MTS in Children Aged 6-12 Diagnosed With ADHD & Previously Treated With Extended-Release Methylphenidate Therapy@highlight
+
+This study will assess the safety and tolerability of MTS while attempting to establish the appropriate starting dose for subjects previously on an existing long-acting methylphenidate product.
+

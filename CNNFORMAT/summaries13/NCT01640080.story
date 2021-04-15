@@ -1,0 +1,26 @@
+(firstQuint)A Study of the Efficacy of Intravenous Esketamine in Adult Patients With Treatment-Resistant Depression.
+
+ This is a double-blind (neither physician nor patient knows the treatment that the patient receives), double-randomization (the study drug is assigned by chance), placebo-controlled (placebo is an inactive substance that is compared with a drug to test whether the drug has a real effect in a clinical trial), multiple dose titration study in adult patients with treatment resistant depression (TRD).
+
+ The study will assess the efficacy of esketamine at 24 hours after dosing on Day 1, administered as a 0.
+
+40 mg/kg and 0.
+
+20 mg/kg intravenous (i.
+
+v.
+
+) infusion, compared with placebo in improving symptoms of depression in patients with TRD, using the Montgomery-Asberg Depression Rating Scale (MADRS).
+
+ The study will consist of 3 phases: a screening phase of up to 2 weeks, a 7-day double-blind treatment phase (Day 1 to Day 7), and a 4-week posttreatment (follow up) phase.
+
+ The interval between the first and last dose of study medication is 3 days.
+
+ The total study duration for each patient will be a maximum of 7 weeks.
+
+.
+
+ A Study of the Efficacy of Intravenous Esketamine in Adult Patients With Treatment-Resistant Depression@highlight
+
+The purpose of this study is to assess the efficacy of esketamine compared with placebo in improving symptoms of depression in patients with treatment resistant depression.
+

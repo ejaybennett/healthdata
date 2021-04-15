@@ -1,0 +1,16 @@
+(secondQuint)Effects of Berberine Hydrochloride and Bifidobacterium in Prediabetes Prevention and Treatment.
+
+ Gut microbiota may play an important role in patients with prediabetes.
+
+ Berberine, which is usually used as an antibiotic drug, has been reported a potential glucose-lowering effect in vitro and in vivo studies.
+
+ Bifidobacterium, as a familiar probiotics, can modulate gut microbiota and improve glucose and lipid metabolism in animal experiments.
+
+ Therefore, the aim of this study is to assess the beneficial effects of Bifidobacterium and Berberine Hydrochloride on lowering glucose and delaying progress to diabetes in patients with prediabetes and to detect the potential mechanism.
+
+.
+
+ Effects of Berberine Hydrochloride and Bifidobacterium in Prediabetes Prevention and Treatment@highlight
+
+The aim of this study is to assess the beneficial effects of Bifidobacterium and Berberine Hydrochloride on lowering glucose and delaying progress to diabetes in patients with prediabetes and to detect the potential mechanism.
+

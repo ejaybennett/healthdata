@@ -1,0 +1,34 @@
+(firstQuint)The Efficacy of Zinc-biofortified Rice in Bangladeshi Children.
+
+ Rationale: Around the world and estimated 30% of the population is at risk of Zinc deficiency, mainly due to monotonous plant base diets and the poor bioavailability of this sources.
+
+ One staple food crop which is low in zinc content is rice.
+
+ Therefore, zinc deficiency is highly common in Asia.
+
+ Zinc plays a major role in child growth and neurobehavioral development.
+
+ Furthermore, it is linked to infection control and normal immune response.
+
+ One way to add extra zinc to someone's diet is zinc bio fortification of staple crops, which can be a cost saving sustainable approach to improve zinc nutrition.
+
+ However, data on long-term intake of biofortified crops with zinc is scarce and efficacy of newly developed rice crops high in zinc are not well known.
+
+ Objective: The objective is to assess the efficacy of a newly developed zinc biofortified rice variety on plasma zinc concentrations in children in a rural area of Bangladesh when compared to their controls in a 9 month randomized controlled trial (RCT).
+
+ Study design: A double randomized control trial.
+
+ Study population: Stunted children whom are zinc deficient at start of the study intervention determined by plasma zinc levels mu mol/L.
+
+ Main study parameters/endpoints: The difference in zinc status between the intervention and control group expressed in blood plasma zinc levels.
+
+ Plasma zinc will be measured 4 times during the intervention period.
+
+ Besides plasma zinc other zinc biomarkers will be tested for their usefulness.
+
+.
+
+ The Efficacy of Zinc-biofortified Rice in Bangladeshi Children@highlight
+
+To assess the efficacy of the zinc biofortified rice on plasma zinc concentrations in infants from a rural area of Bangladesh.
+

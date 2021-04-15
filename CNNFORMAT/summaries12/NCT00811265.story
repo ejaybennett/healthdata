@@ -1,0 +1,14 @@
+(firstQuint)Safety Evaluation of ExAblate MRgFUS for Prostate Cancer.
+
+ The objective of this study is to evaluate safety, compatibility and imaging quality of the ExAblate MRgFUS system for prostate cancer, under simulated use conditions.
+
+ No acoustic energy will be delivered and no focused ultrasound therapy will be performed.
+
+ This is an imaging only study.
+
+.
+
+ Safety Evaluation of ExAblate MRgFUS for Prostate Cancer@highlight
+
+Evaluate the safety, compatibility and imaging quality of the ExAblate MRgFUS system.
+

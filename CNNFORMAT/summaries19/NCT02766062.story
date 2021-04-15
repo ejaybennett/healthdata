@@ -1,0 +1,14 @@
+(firstQuint)Effects of Propofol and Sevoflurane on Early POCD in Elderly Patients With Metabolic Syndrome.
+
+ By now, a series risk factors of cardiovascular diseases, which are also related to the development of postoperative cognitive dysfunction (POCD), are becoming more common.
+
+The investigators don't know whether propofol based anesthesia has a more severe impact on early postoperative cognitive function than sevoflurane in elderly patients with metabolic syndrome.
+
+ In this study, the investigators want to investigate propofol versus sevoflurane anesthesia on the effects of early postoperative cognitive function in elderly patients with metabolic syndrome.
+
+.
+
+ Effects of Propofol and Sevoflurane on Early POCD in Elderly Patients With Metabolic Syndrome@highlight
+
+The purpose of this study is to investigate propofol versus sevoflurane anesthesia on the effects of early postoperative cognitive function in elderly patients with metabolic syndrome.
+

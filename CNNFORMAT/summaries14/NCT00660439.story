@@ -1,0 +1,38 @@
+(thirdQuint)Treatment Effects of Narrative Exposure Therapy.
+
+ In this study we want to compare Narrative Exposure Therapy (NET) to Waiting list controls.
+
+ Adult patients with diagnosed Posttraumatic Stress Disorder following different types of trauma, will be included.
+
+ Clinicians in psychiatric outpatient clinics will treat patients with NET, either immediately after assessment, or after a second assessment 3 months later.
+
+ All patients will also be assessed 1 and 6 months after treatment completion.
+
+ All patients will be assessed for psychiatric symptoms by the Mini International Neuropsychiatric Interview (version 5.
+
+0.
+
+0) and the Clinician-Administered PTSD Scale.
+
+ Patients will also answer several questionnaires (IES-R, SCL-90, BDI-II, DES and UCL).
+
+ Baseline level of the stress hormone cortisol will be collected in saliva for measuring the diurnal cycle.
+
+ We will investigate if patients with Posttraumatic Stress Disorder will show more symptom improvement with NET than those on the waiting list (i.
+
+e.
+
+ no intervention) in addition to measuring potential differences in cortisol between the groups.
+
+.
+
+ Treatment Effects of Narrative Exposure Therapy@highlight
+
+This study compares Narrative Exposure Therapy with a Waiting list control group, both consists of traumatized patients with diagnosed Posttraumatic Stress Disorder.
+
+ The main aim is to investigate if the patients psychiatric symptoms and levels of the stress hormone cortisol will improve more after Narrative Exposure Therapy than the Waiting list (i.
+
+e.
+
+ no intervention).
+

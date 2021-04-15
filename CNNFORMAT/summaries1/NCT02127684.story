@@ -1,0 +1,18 @@
+(firstQuint)Frequent Dosing Regimen of Lucentis for Subjects With Persistent Diabetic Macular Edema Despite Standard antiVEGF Dosing.
+
+ This is an open-label, subject masked, phase II study of intravitreally administered ranibizumab in subjects with persistent diabetic macular edema.
+
+ Persistent diabetic macular edema is defined as subjects who still have central subfield thickness on SD-OCT of greater than 320 microns after having received at least 3 previous doses of AntiVEGF therapy in the past 5 months.
+
+ Consented, enrolled subjects will be randomized into two subgroups: (1) standard dosing of monthly 0.
+
+3mg ranibizumab or (2) 0.
+
+3mg ranibizumab given 2 weeks apart for 5 doses followed by monthly dosing.
+
+.
+
+ Frequent Dosing Regimen of Lucentis for Subjects With Persistent Diabetic Macular Edema Despite Standard antiVEGF Dosing@highlight
+
+The investigators would like to investigate the efficacy of more frequent treatment with Lucentis for subjects with persistent diabetic macular edema despite standard dosing regimen.
+

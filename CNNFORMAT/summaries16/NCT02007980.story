@@ -1,0 +1,14 @@
+(firstQuint)Indwelling Stent Discoloration Project.
+
+ The aim of this study is to identify the root cause for the significant discolouration of Boston Scientific Percuflex based stents observed in some patients, particularly those from Japan.
+
+ We will also test and compare them to stents from Canadian patients.
+
+ Furthermore, we will determine whether the discolouration promotes bacterial adhesion and/or encrustation of the stent.
+
+.
+
+ Indwelling Stent Discoloration Project@highlight
+
+The aim of this study is to identify the root cause for the significant discolouration of Boston Scientific Percuflex based stents.
+

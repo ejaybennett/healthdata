@@ -1,0 +1,14 @@
+(firstQuint)Cervical Spine Motion During Tracheal Intubation: Video Laryngoscope vs Rigid Video Stylet.
+
+ In patients with an unstable cervical spine, neck extension during tracheal intubation may result in harmful events such as spinal cord injury.
+
+ Thus, it is important to minimize cervical spine motion in these patients.
+
+ In this randomized crossover study, investigators are going to compare cervical spine motion during tracheal intubation using video laryngoscope or rigid video stylet in patients with simulated cervical immobilization.
+
+.
+
+ Cervical Spine Motion During Tracheal Intubation: Video Laryngoscope vs Rigid Video Stylet@highlight
+
+In this study, investigators are going to compare cervical spine motion during tracheal intubation using video laryngoscope or rigid video stylet in patients with simulated cervical immobilization.
+

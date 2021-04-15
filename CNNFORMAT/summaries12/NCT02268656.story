@@ -1,0 +1,19 @@
+(thirdQuint)Effect-site Concentration of Propofol for I-gel Insertion During Anesthesia Induction With a Single-dose Dexmedetomidine.
+
+ Before anethetic induction, infuse dexmedetomidine 0.
+
+5 mcg/kg for 2 minutes and after injection of lidocaine 30 mg, propofol infusion by using target controlled infusion (TCI) pump.
+
+ Effect site concentraion of propofol start from 5 and changes the concentration as previous response to i-gel insertion as up and down methods.
+
+ Failure of previous subjects are defined as difficulty to mouth open, severe nausea and couph and laryngeal spasm, and not loss of consciousness.
+
+.
+
+ Effect-site Concentration of Propofol for I-gel Insertion During Anesthesia Induction With a Single-dose Dexmedetomidine@highlight
+
+Before anethetic induction, infuse dexmedetomidine 0.
+
+5 mcg/kg for 2 minutes and after injection of lidocaine 30 mg, propofol infusion by using target controlled infusion (TCI) pump.
+
+ Effect site concentraion of propofol start from 5 and changes the concentration as previous response to i-gel insertion as up and down methods

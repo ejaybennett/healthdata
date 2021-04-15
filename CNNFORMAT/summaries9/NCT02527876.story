@@ -1,0 +1,14 @@
+(firstQuint)Exercise, Activity and Smoking in Young Adults.
+
+ The purpose of this study is to evaluate how physical activity levels change in young adults when they start a specific exercise program.
+
+ Physical activity levels will be monitored daily via a FitBit Flex.
+
+ Outcome measures include number of minutes of activity per day and distance traveled per day.
+
+.
+
+ Exercise, Activity and Smoking in Young Adults@highlight
+
+The purpose of this study is to evaluate how physical activity levels change in young adults when they start a specific exercise program.
+

@@ -1,0 +1,60 @@
+(fifthQuint)A Study to Evaluate the Effect of Nasal Insulin on Postprandial Glycemic Control in Type 2 Diabetic Patients.
+
+ This study is being conducted to evaluate the effect on postprandial glucose levels and safety of Nastech's insulin nasal spray compared with a rapid acting insulin (i.
+
+e.
+
+, insulin aspart) in Type 2 diabetics.
+
+ Insulin aspart is marketed as NovoLog(R) in the United States and NovoRapid(R) in Europe.
+
+ The target for the patient titration scheme is that the 60 minute glucose reading does not increase more than 3.
+
+3 mmol/L (60 mg/dL) above the fasting glucose level AND does not result in hypoglycemia at any time within four hours post meal.
+
+ NovoLog doses will be chosen based on a patient's current prandial insulin dose, or a dose of 25% of their basal insulin dose or 8 IU if on oral antidiabetic therapy only.
+
+ Then patients will be titrated up or down for up to three additional consecutive treatments from the initial dose (potential of 4 doses of NovoLog).
+
+ Once a patient reaches their target titrated dose with NovoLog they are then titrated with nasal insulin.
+
+ The nasal doses will correspond to the injectable dose based on bioavailability.
+
+ For example, the nasal formulation being tested in this study has a 17%-28% bioavailability compared to NovoLog.
+
+ Therefore a 25 IU nasal dose corresponds to a 4-7 IU NovoLog injectable dose.
+
+ The patients will be titrated up or down per dose with nasal insulin for up to three additional consecutive treatments from the initial dose (potential of 4 doses of nasal insulin).
+
+ Once a patient has been successfully titrated with NovoLog and then nasal insulin, they will be randomized to a two-way crossover where they will be given NovoLog and Nasal insulin.
+
+ There will be at least a 20 hour washout period between titration and randomization stages.
+
+ Patients will be monitored for symptoms consistent with hypoglycemia.
+
+ If needed, treatment with oral carbohydrates such as glucose tablets, fruit juices, non-diet soda will be provided.
+
+ In the event a patient is unable to take oral glucose, intravenous 20% glucose solution (D20) will be available.
+
+.
+
+ A Study to Evaluate the Effect of Nasal Insulin on Postprandial Glycemic Control in Type 2 Diabetic Patients@highlight
+
+Insulin is a hormone which is produced by the human pancreas for the lowering of blood sugar.
+
+ In patients who don't produce enough insulin, additional insulin must be given several times per day by injections.
+
+ Nastech Pharmaceutical Company Inc.
+
+ has developed a new insulin nasal spray, as a possible way to improve patient compliance with intensive insulin treatment plans.
+
+ This study is being conducted to see how Nastech's insulin nasal spray affects post-meal glucose levels compared with rapid acting insulin (i.
+
+e.
+
+, insulin aspart) in Type 2 diabetics who are already taking oral antidiabetic medications and/or insulin therapy.
+
+ Insulin aspart is marketed as NovoLog(R) in the United States.
+
+ The safety of insulin nasal spray and how well it is tolerated as compared to NovoLog will also be evaluated.
+

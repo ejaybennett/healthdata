@@ -1,0 +1,22 @@
+(secondQuint)Registry to Evaluate Maintenance Treatment With Venofer in Pediatric Patients With Chronic Kidney Disease.
+
+ This will be a multicenter, observational, prospective registry collecting long-term (12-month) safety, tolerability, and laboratory data.
+
+ Subjects will be screened for inclusion criteria if on hemodialysis (HD), peritoneal dialysis (PD) or have non-dialysis dependent (NDD) chronic kidney disease (CKD).
+
+ Treatment-emergent adverse events (adverse events starting from the time of the 1st dose of Venofer administered on study) will be collected via site entry of data into a web-based system.
+
+ Each research investigator will be responsible for entering adverse event information on the appropriate clinical research form as well as reporting such events to the sponsor.
+
+ Number of Subjects: 50 evaluable subjects (i.
+
+e.
+
+, took at lease one dose of Venofer and have safety data recorded at the 12 month time point).
+
+.
+
+ Registry to Evaluate Maintenance Treatment With Venofer in Pediatric Patients With Chronic Kidney Disease@highlight
+
+The current registry is being undertaken to assess the long-term (12 month) safety and tolerability of Venofer in the pediatric population with chronic kidney disease that requires intravenous iron maintenance therapy.
+

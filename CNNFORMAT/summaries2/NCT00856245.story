@@ -1,0 +1,24 @@
+(secondQuint)Evaluate Rituximab in Obtaining PCR (Polymerase Chain Reaction) Negative Leukapheresis Product in Patients With Relapsed Follicular Lymphoma.
+
+ Following the first relapse, patients with follicular type of Non-Hodgkin's lymphoma may have an option to receive high dose chemotherapy followed by autologous (from you) blood stem cell transplantation.
+
+ One of the common causes of relapse is persistence of lymphoma cells in the bone marrow and in the collected stem cell products.
+
+ Patients who do not have a complete response after traditional chemotherapy, have a greater chance of the lymphoma returning even after receiving high dose chemotherapy with stem cell transplantation.
+
+ In order to improve the response and decrease the relapse rate, additional therapy may be used to kill the lymphoma cells by using antibodies both before and after the transplantation.
+
+ Antibodies are protein made by white cells in our body to fight off infection and sometimes tumor.
+
+ Rituxan (rituximab) is an antibody that is effective against your type of lymphoma.
+
+ Researchers have reported that patients show an improved response and a lower chance of relapse when using rituximab with high dose chemotherapy with autologous stem cell transplantation.
+
+ It is unknown how effective rituximab is in clearing persistence of minimal remaining disease in patients with follicular lymphoma.
+
+.
+
+ Evaluate Rituximab in Obtaining PCR (Polymerase Chain Reaction) Negative Leukapheresis Product in Patients With Relapsed Follicular Lymphoma@highlight
+
+Researchers hope to learn if adding rituximab with high doses of chemotherapy and stem cell transplantation will help patients get rid of their lymphoma cells from the bone marrow and stem cell collections.
+

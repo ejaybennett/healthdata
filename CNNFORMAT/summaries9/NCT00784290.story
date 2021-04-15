@@ -1,0 +1,18 @@
+(secondQuint)Phase I/II Study of TSU-68 for Advanced Hepatocellular Carcinoma.
+
+ As HCC is a highly vascular tumor, a number of antiangiogenic agents have been tested for the treatment of HCC.
+
+ Orantinib is an orally administered, small-molecule, multiple receptor tyrosine kinase inhibitor that targets vascular endothelial growth factor receptor-2 (VEGFR-2), platelet-derived growth factor receptor (PDGFR), and fibroblast growth factor receptor (FGFR).
+
+ Phase I studies that have been conducted in Japan for patients with solid tumors recommended a dosage of 400 mg bid.
+
+ As a potent antiangiogenic agent, Orantinib is also expected to be effective against HCC.
+
+ However, because most HCC patients have accompanying liver cirrhosis or hepatitis, its safety must be reevaluated in the presence of liver function impairment.
+
+.
+
+ Phase I/II Study of TSU-68 for Advanced Hepatocellular Carcinoma@highlight
+
+The purpose of this study is to evaluate the safety and efficacy of Orantinib, an oral tyrosine kinase inhibitor of vascular endothelial growth factor receptor-2, platelet-derived growth factor receptor, and fibroblast growth factor receptor, in patients with advanced hepatocellular carcinoma (HCC).
+

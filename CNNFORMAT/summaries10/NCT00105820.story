@@ -1,0 +1,44 @@
+(fifthQuint)Evaluation Study of TIDES Depression Care Quality Improvement Intervention.
+
+ Objectives: Our primary objective is to evaluate whether collaborative care EBQI results in increased rates of assessment and appropriate management of depression and decreased depressive symptomatology for veterans.
+
+ Our secondary objective is to evaluate the effect of EBQI on organizational outcomes.
+
+ Methods: Three VISNs, 10, 16 and 23, are participating.
+
+ Three primary care clinics within each VISN are randomized, two to the intervention and one to usual care, for a total of nine study sites.
+
+ In the intervention clinics, VA leadership, assisted by study staff, tailor and implement a depression care program for patient assessment, patient self-management support, provider education, primary and mental health collaboration, and care management.
+
+ The usual care clinics participate only in the evaluation.
+
+ Patient recruitment is through a telephone interview.
+
+ Patients who are at risk for major depression are recruited, 67 from each site.
+
+ Patient outcomes including depression symptom severity on the PHQ-9 and the VA SF-12 are being assessed by telephone at six months post enrollment.
+
+ Other outcome variables are adequacy of antidepressant trials, psychotherapy and specialty care visits, and treatment adherence.
+
+ A utilization and cost analysis will be conducted.
+
+ VISN and VAMC leadership are surveyed to assess organizational outcomes.
+
+ Data is being collected through VA administrative databases, patient and staff interviews, and study records.
+
+ Power calculations and data analysis planning reflect the clustered sample design.
+
+.
+
+ Evaluation Study of TIDES Depression Care Quality Improvement Intervention@highlight
+
+In spite of the impact on veteran1/4s health status and treatment cost, depression is under-diagnosed and under-treated.
+
+ The goal of this study is to learn how to implement a previously tested, effective collaborative care model for improving the quality of depression care across multiple Veterans Integrated Service Networks (VISNs).
+
+ To achieve this goal, we are conducting a randomized controlled trial of evidence-based quality improvement (EBQI), a dissemination method that relies on expert design and local implementation of evidence-based practice interventions.
+
+ We hypothesize that EBQI will result in increased rates of assessment and appropriate management of depression.
+
+ Results will be useful in designing realistic chronic care programs and performance measures for continuing care improvement.
+

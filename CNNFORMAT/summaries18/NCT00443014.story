@@ -1,0 +1,88 @@
+(fifthQuint)The Dementia Study in Northern Norway.
+
+ Nine municipalities with 11807 inhabitants 65 years and older were allocated to intervention or control, five and four municipalities in each group, respectively.
+
+ A panel of psychiatric nurses, university lecturers and members of the competence centre of dementia in Northern Norway have worked out a program of stimulation therapy adjusted to each participant taking the stage of functional impairment, education level and work experience into consideration.
+
+ The individual stimulation program is selected and implemented, based on the life history for each patient, and carried out for a minimum of 30 minutes 5 days a week in the intervention group, as compared to the control group receiving routine care.
+
+ The individual stimulation program was monitored and adjusted during the period of intervention.
+
+ All patients included in the nine municipalities were randomized to donepezil or placebo in a double blind manner.
+
+ Consequently, the present study has a double design; - an open prospective non-pharmaceutical intervention with control group, to which a double blind and randomized placebo-controlled trial is superimposed (2x2 factorial design).
+
+ Each patient have been followed-up for one year.
+
+ The clinical period was three years, two of them allocated recruitment and the third to secure a one-year intervention for all participants.
+
+ The Progress of the Study The recruitment of patients through routine general practice has not been successful.
+
+ The participating general practitioners (GP) rarely examined patients suffering from cognitive impairment.
+
+ Sometimes patients with a presumptive diagnosis of dementia were prescribed cholinesterase inhibitors (ChEI) without a preceding clinical examination.
+
+ As a result of this lack of corporation only 27 patients were recruited to the study during the first year.
+
+ During the subsequent six months some of the nine participating municipalities reorganized their caring routines for patients suffering from dementia.
+
+ More patients were examined and diagnosed and another 60 patients were recruited to the study.
+
+ As a consequence of the unsatisfactory progress in recruiting patients to the study by GPs in routine clinical practice, the study protocol was changed and the recruiting procedures were supplemented by a population-based screening.
+
+ The study population (65 years+) was invited to attend the survey by responding to and return a postal questionnaire containing five simple questions regarding memory and cognitive deficits.
+
+ The screening program was accomplished in June 2007 with a response rate of approximately 32 % for self-reported memory deficits.
+
+ An algorithm categorizes the responders.
+
+ Those belonging to the category with the highest risk of having a diagnosis of dementia were invited to a clinical examination carried out by physicians from the study administration.
+
+ Those fulfilling the inclusion criteria were then asked to be included in this Dementia Study in Northern-Norway.
+
+ More than 700 responders answered NO to the five questions about cognitive impairment but YES to a question about participating in the study.
+
+ From this group of presumptively cognitive healthy people we randomly draw a sample of 500 persons who was invited to participate in a control group for the AD participants.
+
+ Of these 200 individuals were confirmed cognitively healthy and included in the control group.
+
+ The two groups have been compared according to clinical data, co-morbidity and drug consumption.
+
+ A biobank containing whole blood, plasma and serum from AD participants and the cognitively healthy control group is established.
+
+ The stimulation program was executed as presupposed, and the randomisation procedures and administration of the medical treatment (placebo/donepezil) has been accomplished without any problems.
+
+ The following papers have been published in BMC Methodology and in BMC Geriatrics: http://www.
+
+biomedcentral.
+
+com/1471-2318/11/58 http://www.
+
+biomedcentral.
+
+com/1471-2288/10/35.
+
+ The Dementia Study in Northern Norway@highlight
+
+The Dementia Study in Northern Norway is an open controled intervention trial carried out in nine rural municipalities, five of which allocated to intervention and four to control.
+
+ A RCT with donepezil and placebo is superimposed on all patients included in the study.
+
+ In this way the study has a 2x2 factorial design.
+
+ The outcome measures are changes in cognitive performance and ADL function measured by standardized cognitive and neuropsychological tests every four months during a one-year follow-up.
+
+ The main goal of this study is to examine the effect of systematically and individually adjusted stimulation therapy on cognitive function in patients having recent diagnoses of Alzheimers disease (AD).
+
+ A secondary goal is to examine whether or not ChEI has an additional effect on cognitive function superimposed on stimulation therapy.
+
+ From January 2006 to 31th March 2008 187 patients with a recent diagnosis of dementia were included.
+
+ Patients were recruited by GPs in routine practice (n=87) and by a population based screening (n=100).
+
+Screening recruited younger patients with a higher MMSE-score, and relatively more men.
+
+ All over, women were older and at a more serious disease stage.
+
+ After age adjusting significantly more women were living single and required more supports from the community nursery.
+

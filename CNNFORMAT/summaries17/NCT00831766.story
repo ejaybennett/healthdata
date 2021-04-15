@@ -1,0 +1,33 @@
+(thirdQuint)Idarubicin + Cytarabine and Lenalidomide in Patients With Myelodysplastic Syndrome (MDS), Acute Myeloid Leukemia (AML).
+
+ All three drugs are FDA approved to treat patients in the United States of America.
+
+ Idarubicin and Cytarabine combination therapy is a standard treatment for patients with acute myeloid leukemia (AML).
+
+ Lenalidomide is FDA approved to retreat patients with Multiple Myeloma or Myelodysplastic syndrome with a specific change in their DNA.
+
+ Loss of a specific part of DNA is also seen in some patients with AML.
+
+ This is a phase 1/2, dose-escalation trial of Lenalidomide given in combination with idarubicin + cytarabine.
+
+ During phase 1, we will enroll patients with AML involving del 5q31; 2) patients with MDS RAEB-2 associated with monosomy 5 or segmental deletion involving 5q31, either alone or with additional cytogenetic abnormalities, and 3) older patients with any type of karyotypic profile in whom an effective and reliable standard of care remains to be developed.
+
+ All 3 groups of patients define a population of patients with very poor prognoses.
+
+ Dose escalation of lenalidomide will use a standard 3x3 design.
+
+ Dose escalation of Lenalidomide only will take place, while the doses of idarubicin and cytarabine will be constant.
+
+ This trial will have an induction component, consolidation component, and maintenance component.
+
+ Overall safety and MTD will be determined from the induction phase only.
+
+ During phase 2, we will enroll only patients with AML age 60 years.
+
+ During phase 2, the efficacy of this combination of Lenalidomide + idarubicin + cytarabine, at the maximum tolerated dose (MTD) for Lenalidomide (determined during phase 1), will be tested.
+
+.
+
+ Idarubicin + Cytarabine and Lenalidomide in Patients With Myelodysplastic Syndrome (MDS), Acute Myeloid Leukemia (AML)@highlight
+
+The purpose of this study is to: - Test the safety of the research study drug, lenalidomide, when given with Idarubicin and Cytarabine - See how many respond to combination treatment with lenalidomide, Idarubicin and Cytarabine - See how long people respond to this combination therapy - See how long people live after being treated with this combination of drugs

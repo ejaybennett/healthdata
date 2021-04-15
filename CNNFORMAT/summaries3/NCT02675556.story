@@ -1,0 +1,20 @@
+(firstQuint)Allogeneic Human Mesenchymal Stem Cells (hMSCs) Infusion in Patients With Treatment Resistant Depression.
+
+ This is a phase I study, with eight subjects in the pilot phase and eighty (80) subjects fulfilling all inclusion/exclusion criteria's will be randomly assigned to receive allogeneic Human Mesenchymal Stem Cell (hMSCs) or placebo in a 1:1 blinded fashion.
+
+ The 8 subjects in the pilot phase will receive a single infusion of 100 million hMSCs.
+
+ 40 patients will receive a single administration of allogeneic hMSCs and another 40 patients will receive a single administration of Placebo in a 1:1 blinded fashion.
+
+ Following infusion, patients will be followed at 2, 4, 6, 8, 10 and 12 week's post-infusion to complete all safety and efficacy assessments.
+
+ During these 12 weeks starting after the week 2 visit subjects will have a phone call in-between their visits.
+
+ Patients will additionally be followed for up to 12 months post-infusion.
+
+.
+
+ Allogeneic Human Mesenchymal Stem Cells (hMSCs) Infusion in Patients With Treatment Resistant Depression@highlight
+
+This study is intended to evaluate the safety and potential efficacy of Allogeneic Human Mesenchymal Stem Cell Infusion versus placebo in patients with Treatment Resistant Depression.
+

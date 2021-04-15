@@ -1,0 +1,28 @@
+(secondQuint)Postmarketing Vedolizumab Milk-Only Lactation Study in Lactating Women With Active Ulcerative Colitis or Crohn's Disease.
+
+ The drug being tested in this study is called vedolizumab.
+
+ This post-marketing milk-only lactation study will assess concentrations of vedolizumab in breast milk of lactating women with active UC or CD who are receiving vedolizumab therapeutically.
+
+ The study will enroll approximately 12 participants.
+
+ All participants who received an established vedolizumab maintenance regimen or has completed induction therapy for the treatment of active UC or CD.
+
+ 30-minute IV infusion of 300 mg vedolizumab.
+
+ This multi-center trial will be conducted in the United States.
+
+ The overall time to participate in this study is 3 months.
+
+ Participants will make visits to clinic, study site or HCP office at Screening, Check-in (Day -1).
+
+ Visits on Days 4, 8, 15, or 29 may be completed at the participant's home setting in the presence of a qualified nurse, or at a clinic, study site or other HCP office.
+
+ The study exit/follow-up safety assessment will occur on Day 57(3).
+
+.
+
+ Postmarketing Vedolizumab Milk-Only Lactation Study in Lactating Women With Active Ulcerative Colitis or Crohn's Disease@highlight
+
+The purpose of this study is to assess the concentration of vedolizumab in breast milk of lactating women with active ulcerative colitis (UC) or Crohn's disease (CD) who are receiving vedolizumab therapeutically.
+

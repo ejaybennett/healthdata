@@ -1,0 +1,20 @@
+(firstQuint)Folate Metabolism in Normal Weight and Obese Women of Child-bearing Age.
+
+ Current recommendations established in 1998, specify that all women capable of becoming pregnant consume 400 micrograms of folate daily from supplements, fortified foods, or both, in addition to consuming food folate from a varied diet.
+
+ Despite this recommendation, obese women have a lower folate status than women of normal weight which suggests that obesity may have a negative impact on folate metabolism.
+
+ Therefore, the objective of this study is to determine if there are differences in the metabolic response to a single dose of folate between normal weight and obese women of child bearing age.
+
+ The two groups of women will be given the currently recommended amount of folic acid, 400 micrograms, and blood samples will be taken before the vitamin is given and at various points afterwards to determine serum folate response to the folate dose.
+
+ Results of this research should help determine if folate requirements are higher for obese than for non-obese women.
+
+ The long-term goal of this and follow-up studies is to generate data that will contribute to the evidence base used by scientific advisory panels to determine whether dietary folate intake recommendations should be based on body weight.
+
+.
+
+ Folate Metabolism in Normal Weight and Obese Women of Child-bearing Age@highlight
+
+The purpose of this study is to determine if there is a difference in the short term response in serum folate after a single dose of folic acid in normal weight and obese women of childbearing age.
+

@@ -1,0 +1,28 @@
+(thirdQuint)Impact of Different Breakfast Meals on Food Choices, Eating Behaviors and Brain Activation.
+
+ Although breakfast seems to be positively associated with healthy eating patterns and food choices later in the day, eating behaviours are a complex interaction of several factors.
+
+ Nutritional requirements are not only affected by the body homeostasis, but also by environmental signals, as cultural and social habits, lifestyle, etc.
+
+ These parameters evoke reward-related and motivational signals influencing our daily eating behaviour choices.
+
+ Most of the theories on food regulation propose two parallel systems interacting with food consumption homeostatic and reward-related systems.
+
+ For all these reasons, there is an increasing interest on motivational and decisional aspects of food choices, eating behaviours and how they are influenced by food characteristics.
+
+ This project aims to explore the association between compositional and perceived characteristics of a breakfast meal with nutritional/biochemical/physiological variables.
+
+ The approach will be the evaluation of appetite, food intake as well as metabolic and compensatory responses to foods consumed during the day.
+
+ Volunteers (n=15) will be fed with 4 different breakfast meals (one control and three iso-caloric with different glycemic indexes) and several different parameters will be evaluated, as biological parameters linked to satiety, food choices during a free lunch buffet, psycho-physiological and biological mechanisms underlying the compensatory effect and attentional components in the postprandial period.
+
+ The participants will complete, in randomized order, the four breakfast meals, on four different weeks, separated by at least one week.
+
+.
+
+ Impact of Different Breakfast Meals on Food Choices, Eating Behaviors and Brain Activation@highlight
+
+This project aims to demonstrate that the best breakfast meal is the one able to improve the best postprandial hunger, satiety and adiposity regulators profile as well as the best reward-related gratification, due to hedonistic parameters.
+
+ To do this, 4 different breakfasts will be tested and blood tests, food choices, and attentional components will be analysed.
+

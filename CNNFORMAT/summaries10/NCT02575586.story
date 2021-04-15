@@ -1,0 +1,32 @@
+(thirdQuint)Effectiveness of Deep Dry Needling on Muscle Tone in Healthy Subjects.
+
+ Methods: It is a double-blinded randomized clinical trial where subjects are healthy volunteers from the city of Toledo between 18 and 40 years.
+
+ There will be an intervention group (dry needling into the medial MTrP of soleus muscle) and a control group (dry needling distal to the MTrP but into the taut muscle band of soleus muscle).
+
+ The intervention will be a unique session.
+
+ Intervention: Dry needling technique will be performed by locating the taut band and the Myofascial Trigger Point.
+
+ After that, a thin needle (0,32x40mm) is introduced directly into a Myofascial Trigger Point with the aims to generate a "local twitch response" that are involuntary contractions of the muscle fibers.
+
+ This puncture may reproduce patient's symptoms, and causes muscle relaxation to achieve at the same time the relief of muscle tension and pain and also to recover the metabolism of the muscle.
+
+ Assessment: The mechanical and the neural properties of muscle tone were evaluated using an isokinetic dynamometry and H-reflex test measurement, respectively Isokinetic dynamometric technique is considered a valid biomechanics method to measure muscle tone in non-injured subjects.
+
+ The H-reflex has been utilized as a probe to study neurophysiological phenomena.
+
+ This measurement can be used to assess the response of the nervous system to various neurologic conditions, musculoskeletal injuries, application of therapeutic modalities, pain, exercise training, and performance of motor tasks.
+
+ Outcome measures: Outcome measures will include passive resistive torque to ankle dorsiflexion, dorsiflexion passive range of motion (PROM), maximal isometric voluntary force (MIVF) and H-reflex and M-response measurements and they will be evaluated before, at 10 min and 1 week after the intervention.
+
+.
+
+ Effectiveness of Deep Dry Needling on Muscle Tone in Healthy Subjects@highlight
+
+The main objective of this study is to analyze the effect of dry needling of the soleus muscle to modulate muscle tone in healthy non-injured subjects.
+
+ The secondary objective is to study if effects occur due to changes in the neural or mechanical component (or both).
+
+ Hypothesis: Deep Dry Needling of the latent medial Myofascial Trigger Point (MTrP) of the soleus muscle produces changes in muscle tone varying the passive resistance torque at a rate of 180/ s.
+

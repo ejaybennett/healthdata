@@ -1,0 +1,30 @@
+(fifthQuint)Treatment Using 177Lu-DOTA-EB-TATE in Patients With Advanced Neuroendocrine Tumors.
+
+ Neuroendocrine tumors (NETs) are a heterogeneous group of neoplasms that can develop anywhere in the body and arise from neuroendocrine cells throughout the endocrine system.
+
+ The most recent NCCN guidelines for unresectable and metastatic NET recommend somatostatin analogues as first-line treatment, but do not recommend a particular treatment sequence for the remaining therapies.
+
+ Radiolabeled somatostatin analogue therapy, also known as peptide receptor radionuclide therapy has become a well-accepted treatment for patients with well to moderately differentiated unresectable or metastatic NETs and disease progression after first-line treatment.
+
+ However, a major problem in the therapeutic use of 177Lu-Dotatate has been its short half-life and fast rate of clearance.
+
+ This study was designed to compare the efficacy of a long-lasting radiolabeled somatostatin analogue 177Lu-DOTA-EB-TATE with 177Lu-DOTA-TATE in patients with advanced metastatic neuroendocrine tumors.
+
+.
+
+ Treatment Using 177Lu-DOTA-EB-TATE in Patients With Advanced Neuroendocrine Tumors@highlight
+
+This is an open-label, non-controlled, non-randomized study to investigate the long-lasting radiolabeled somatostatin analogue based peptide receptor radionuclide therapy and evaluate response to 177Lu-DOTAEB-TATE in patients with advanced metastatic neuroendocrine tumors.
+
+ Different groups with doses of 0.
+
+37GBq-0.
+
+74GBq (10-20 mCi) and 1.
+
+85GBq (50 mCi)of 177Lu-DOTA-EB-TATE,3.
+
+7GBq (100 mCi)of 177Lu-DOTA-TATE will be injected intravenously.
+
+ All patients will undergo 68Ga-DOTATATE PET/CT scans before and after the treatment.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Ranolazine in Diastolic Heart Failure.
+
+ This is a randomized, double-blind, placebo-controlled proof-of-concept study of ranolazine in patients with heart failure with preserved ejection fraction (HFpEF).
+
+ Patients will be randomized to receive ranolazine or placebo in a 1.
+
+5:1 ratio (12 ranolazine: 8 placebo).
+
+ Treatment will consist of intravenous infusion of study drug followed by oral treatment for a total of 14 days treatment period.
+
+ Study contact will be made approximately 14 days after the treatment period to assess safety.
+
+ Cardiac catheterization will be performed for LV pressures and hemodynamic measurements before and after drug administration.
+
+ Doppler ECHO, CPET, and NT-pro-BNP determination will be performed at screening and at end of study.
+
+ Adverse events and safety labs will be monitored and collected.
+
+.
+
+ Ranolazine in Diastolic Heart Failure@highlight
+
+Patients with CAD and clinical symptoms of heart failure or patients with suspected heart failure with preserved ejection fraction (HFpEF) will be enrolled.
+
+ Study drug will be given as continuous IV infusion followed by oral treatment for 13 days.
+
+ LV pressures and hemodynamic data will be measured prior to and after administration of study drug.
+
+ In addition, Doppler ECHO, cardiopulmonary exercise testing (CPET), and NT-pro-BNP determination will be performed.
+
+ Adverse events and safety labs will be collected and monitored.
+

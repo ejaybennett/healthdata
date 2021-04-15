@@ -1,0 +1,20 @@
+(thirdQuint)Efficacy of Multiple Micronutrient Fortified Biscuits and Deworming in Vietnamese School Children.
+
+ Concurrent micronutrient deficiencies are prevalent in schoolchildren in Vietnam.
+
+ These deficiencies not only lead to anemia, impair growth, increase susceptibility to infection, impair work capacity, but also impair cognitive development and impair learning ability.
+
+ The risk of micronutrient deficiencies and anemia increases when individuals are exposed to intestinal helminth infections.
+
+ Schoolchildren are a neglected group with regard to micronutrient interventions, and school programs afford an excellent opportunity to improve health of these groups.
+
+ Food fortification with multi-micronutrients is a cost-effective and sustainable strategy, but is not yet implemented on a large scale in Vietnam.
+
+ Furthermore, little is known about whether high prevalence of intestinal helminthic infection in schoolchildren limits the effect of fortification when this is not combined with regular de-worming.
+
+.
+
+ Efficacy of Multiple Micronutrient Fortified Biscuits and Deworming in Vietnamese School Children@highlight
+
+The aim of this study is to identify the effect of a school-based food fortification intervention with multi-micronutrients with or without deworming to improve anemia, micronutrient status, cognitive function, health (morbidity and reinfestation rate) and growth (ponderal) in Vietnamese primary schoolchildren.
+

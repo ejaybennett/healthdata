@@ -1,0 +1,64 @@
+(fifthQuint)Promotion of Oesophageal Motility to Prevent Regurgitation and Enhance Nutrition Intake in ICU Patients.
+
+.
+
+ Malnutrition in the ICU is a known cause for increased morbidity and mortality and providing artificial nutrition is part of standard care in ICUs worldwide.
+
+ While malnutrition is a risk factor for adverse outcomes related to critical illness, what is more difficult to prove is the value of optimal amounts of nutrition.
+
+ Nevertheless, large-scale observational studies of critically ill patients suggest that optimal amounts and timely provision of nutritional intake is associated with reduced infectious complications, duration of mechanical ventilation, and mortality, along with perceptions of faster physical recovery.
+
+ Smaller RCTs demonstrate that greater nutrition intake is associated with improved weaning from mechanical ventilation while larger RCTs do suggest non-significant improvements in long-term physical functional performance (6 minute walk test at 12 months) and a significant improvement in 60-day quality of life.
+
+ In contrast, there are large-scale RCTs that fail to demonstrate a positive treatment effect of enhanced nutritional intake.
+
+ However, these trials have been criticized for study heterogeneous groups of low 'nutritional-risk' patients.
+
+ Patients who benefit the most from optimal nutritional supplementation are high-nutritional risk.
+
+ Recent data suggests that tolerating 80% of the prescribed amounts of protein and calories is associated with improved clinical outcome and may serve as a quality indicator for ICU practice.
+
+ Currently, around the world, more than 75% of nutritionally-high risk patients are systematically underfed receiving less than 80% of prescribed amounts.
+
+ Thus, the investigators conclude that greater efforts to improve nutrition intake in ICU patients are warranted.
+
+ Early enteral nutrition (EN) is supported by mechanistic data delineating its physiologic effects, which provide both non-nutritional and nutritional benefits to the critically ill patient.
+
+ EN should be started as soon as possible following admission to the ICU in order to achieve the non-nutritional benefits and minimize the development of a protein-calorie deficit that frequently occurs during the first week of critical illness.
+
+ The non-nutritional benefits are derived from several physiologic mechanisms that maintain structural and functional gut integrity, preventing increases in intestinal permeability.
+
+ Immune mechanisms elicited by EN result in attenuation of oxidative stress and the inflammatory response while supporting the humoral immune system.
+
+ Enteral feeding modulates metabolic responses that help decrease insulin resistance.
+
+ The nutritional benefits are derived from delivery of exogenous nutrients, which provide sufficient protein and calories, deliver micronutrients and antioxidants, and maintain lean body mass.
+
+ Because many factors impede delivery of early EN in the ICU setting, patients routinely get approximately 50% of the calories and protein that are required.
+
+ Our mission, at E-Motion Medical, is to improve outcome for critically ill patients by lowering their risk of infection and enabling them to have better nutritional intake.
+
+ To achieve that, novel technology was developed that reduces gastric reflux and promotes GI motility, via electric stimulation to the esophageal mucosa.
+
+ The investigators believe our technology will improve gastric emptying, reduce reflux and aspiration of gastric content, and enable more adequate delivery of enteral nutrition to critically-ill patients predisposed to delayed gastric emptying.
+
+.
+
+ Promotion of Oesophageal Motility to Prevent Regurgitation and Enhance Nutrition Intake in ICU Patients.
+
+@highlight
+
+Early enteral feeding is a key component of the management of critically ill patients receiving mechanical ventilation.
+
+ However, enteral feeding has been associated with serious complications such as gastro-esophageal reflux, with both overt and micro pulmonary aspiration, which potentially increases the risk to nosocomial pneumonia.
+
+ Many critically ill patients experience poor tolerance of early enteral nutrition because of impaired gastric motility, which leads to a sequence of delayed gastric emptying, increased gastric volume, gastro esophageal reflux, vomiting, aspiration, and VAP.
+
+ Early and adequate enteral feeding in ICU patients is correlated with decreased overall infections rates, ventilator and intensive care unit (ICU) days, costs, and mortality.
+
+ This study is intended to assess the efficacy and safety of the E-Motion System (i.
+
+e.
+
+ E-Motion tubeTM and E-Motion EPG 1000TM) in improving tolerance to enteral nutrition by inducing esophageal motion by means of electrical stimulation in ICU patients.
+

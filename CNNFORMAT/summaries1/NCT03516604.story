@@ -1,0 +1,16 @@
+(thirdQuint)PF-04995274 and Emotional Processing in Un-medicated Depression.
+
+ This study uses a double-blind, placebo-controlled, randomised between-groups design to test if administration of a serotonin receptor subtype 4 (5HT4) agonist called PF-04995274 has positive effects on emotional processing and neural activity in unmedicated depressed patients.
+
+ Participants are patients who fulfill criteria for current episode of Major Depressive Disorder (MDD), and they will be randomised to receive 7 days treatment with either PF-04995274 (15 mg daily), citalopram (20 mg daily) or a matched placebo.
+
+ Participants will come for a Screening Visit, a First Dose Visit, Research Visit One (including MRI scan) and Research Visit Two (including measures of emotional processing and non-emotion cognition).
+
+.
+
+ PF-04995274 and Emotional Processing in Un-medicated Depression@highlight
+
+This study will test whether seven days administration of a serotonin receptor subtype 4 (5HT4) agonist called PF-04995274 has positive effects on emotional processing and neural activity in unmedicated depressed patients compared to placebo.
+
+ The study will also include a group of patients randomised to seven days administration of citalopram (20 mg), which is a standard treatment for depression.
+

@@ -1,0 +1,46 @@
+(fifthQuint)Management Strategies For Electrical Status Epilepticus During Sleep.
+
+ Electrical status epilepticus in sleep (ESES), also known as continuous spikes and waves during slow sleep (CSWS), is an age related, self - limiting disorder characterized by: 1.
+
+ epilepsy with different seizure types, 2.
+
+ neuropsychological regression, and 3.
+
+ typical EEG pattern of continuous epileptiform activity during non-rapid eye movement sleep (NREM).
+
+ During wakefulness, the EEG shows focal/multifocal spikes that increase in frequency during the acute stage.
+
+ During sleep, ESES appears and is characterized by (1) marked potentiation of epileptiform discharges during non-REM sleep, leading to (2) a (near)-continuous, bilateral, or occasionally lateralized slow spikes and waves, (3) and these spikes and waves occur "during a significant proportion" of the non-REM sleep with a threshold ranging from 25% to 85% The exact incidence of CSWS is not known.
+
+ In pediatric neurology clinics, a reported frequency of 0.
+
+2% of childhood epilepsies most probably underestimates the incidence of CSWS.
+
+ CSWS is a devastating syndrome, which requires prompt treatment, the efficacy of which is checked with regular intervals, e.
+
+g.
+
+ three or six months.
+
+ Although epilepsy resolves with time in most cases, many children are left with significant cognitive or language impairment.
+
+ Longer duration of ESES appears to be the major predictor of poor outcome.
+
+ So, early recognition and effective therapy are necessary to improve long-term prognosis in this condition.
+
+ The goal of treatment is not only to control clinical seizures but also to improve neuropsychological functions and prevent potential cognitive deterioration.
+
+ There was no agreement on best treatment, but potential candidates included high-dose benzodiazepines, valproate, levetiracetam, and corticosteroids.
+
+.
+
+ Management Strategies For Electrical Status Epilepticus During Sleep@highlight
+
+Electrical status epilepticus during slow wave sleep is a condition in which the epileptic patient starts to develop neurocognitive deterioration, any type of seizures and continuous electrical activity in the EEG during non rapid eye movement sleep.
+
+ It is an age related condition and will resolve spontaneously at around the age of puberty.
+
+ However if left untreated or treatment is delayed, it may lead to permanent neurocognitive deterioration.
+
+ Thus early diagnosis and treatment is essential in these children to preserve neurocognitive function.
+

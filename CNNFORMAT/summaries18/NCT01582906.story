@@ -1,0 +1,69 @@
+(fifthQuint)A Survivorship Care Plan for Gynaecological Cancer Patients.
+
+ Purpose and design We conducted a preliminary qualitative study last year (Rec Ref 10/H0608/56) where gynaecological patients reported unmet rehabilitation care needs, both physical and psychosocial.
+
+ At the end of treatment patients said that they were unaware of how to resolve these needs.
+
+ They also reported that they wanted support and information to manage consequences of cancer and treatment themselves rather than become 'overmedicalised' and require treatment from a professional, if that were possible (Sandsund et al.
+
+, 2011).
+
+ Since there is as yet no body of evidence to prove a best model of delivery we have developed this study to reflect the intervention participants in the study suggested would best support them.
+
+ During the preliminary study participants made suggestions that may improve their journey through treatment.
+
+ Of the five focus groups all suggested a meeting in clinic with a rehabilitation professional at the end of their treatment to explore their rehabilitation needs.
+
+ The intervention was as such described and defined by the patients in the preliminary study.
+
+ After the study was analysed and presented to the Rehabilitation Research Group discussions started regarding research questions and a design for this interventional study.
+
+ The Head of Therapies, a representative from the Psychological Care/ Psychological Support Service and a Nurse Consultant in Living with and Beyond Cancer have been involved in the development of the protocol from the preliminary study in order to ensure its' conduct will be feasible within The Royal Marsden NHS Foundation Trust (RM).
+
+ There have been discussions amongst the research group and the authors as to the best way to clinically screen for physical and psychosocial problems.
+
+ The FACTG, the EORTC and the Distress Thermometer were most thoroughly considered.
+
+ The Distress Thermometer was chosen as the questions were felt to best cover issues we felt the participant group may have.
+
+ It has been used in a National Cancer Survivorship Initiative/ Department of Health project for which RM was one of the sites.
+
+ on evaluation of the project it was found to be clinically useful as a screening tool and was acceptable to our patients.
+
+ The European Organisation for Research and Treatment of Cancer Quality of life Questionnaire - C30 (EORTC QLQC30),General Self Efficacy Scale (GSES), Short Form 36 (SF36) were chosen for their wide use in rehabilitation intervention studies because of their ability to detect change over time reliably in cancer populations.
+
+ We believe that the primary outcome measure the EORTC will be sensitive enough to detect changes due to the intervention.
+
+ The statistician has given advice to this regard and provided the statistical support for the study to date.
+
+ A Health Economist who is involved with other studies at RM has developed the study specific forms to measure the economic evaluation of impact on health and social care provision.
+
+ She will perform the cost analysis of this information to see if the intervention has had any health or social economic impact.
+
+ The patient's perspectives of the intervention will be sought using qualitative interviews for a randomised sample of those completing the study.
+
+ This will be used to assess the acceptability of the intervention to patients.
+
+.
+
+ A Survivorship Care Plan for Gynaecological Cancer Patients@highlight
+
+After treatment women surviving gynaecological cancer may experience lateeffects and longterm challenges specific to their disease and treatment resulting in functional deficits and a reduction in societal integration (Yabroff et al.
+
+, 2004, Yadav, 2007).
+
+ The available research on best models of posttreatment rehabilitation support for women posttreatment for gynaecological cancer is limited.
+
+ The primary objective of this study is to determine if there is any additional benefit, over usual rehabilitation care, of additional rehabilitation appointments to develop a survivorship care plan on cancer specific health related quality of life.
+
+ Secondary objectives are to determine any additional benefit to general selfefficacy, generic health related quality of life or social and health economics for patients who have completed treatment for stage I or II gynaecological cancer.
+
+ Also to explore the patient's perspectives of the intervention.
+
+ The study will be open to patients attending the outpatient gynaecological clinics of the Royal Marsden NHS Foundation Trust having recently completed treatment for Stage I or II gynaecological cancer.
+
+ They will report that they have experienced a physical or psychosocial need resulting from the disease or its treatment; be aged over 18 years and be willing and able to articulate their needs.
+
+ The study will last for six months for each participant.
+
+ It will involve completing questionnaires and attending two extra rehabilitation appointments to develop a survivorship care plan at the hospital may also include attending for an interview about being involved in the study for those randomised to the intervention group

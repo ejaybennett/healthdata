@@ -1,0 +1,32 @@
+(firstQuint)Rectal and Oral Omeprazole Treatment of Reflux Disease in Infants.
+
+.
+
+ Omeprazole is a highly effective drug for the treatment of gastroesophageal reflux disease (GERD) in infants.
+
+ Infants, aged 0-12 months, require a non-standard dose of omeprazole.
+
+ Due to this fact extemporaneous formulations of omeprazole are administered to these infants.
+
+ The oral bioavailability of omeprazole in nonproprietary formulations may be unpredictable and produce variable degrees of drug exposure.
+
+ The dose range for GERD management in pediatric studies using omeprazole is 0.
+
+3 - 3.
+
+5 mg/kg/day.
+
+ Dosing information, aged-specific pharmacodynamic and pharmacokinetic data are not available in infants, aged 0-12 months.
+
+ Two adult studies at healthy volunteers suggest that an omeprazole suppository is an effective dosage form.
+
+This study is designed to evaluate and to compare the efficacy, the pharmacodynamics and the pharmacokinetics of oral and rectal omeprazole treatment in infants with gastroesophageal reflux disease.
+
+.
+
+ Rectal and Oral Omeprazole Treatment of Reflux Disease in Infants.
+
+@highlight
+
+The purpose of this study is to compare the efficacy of oral and rectal omeprazole treatment in infants with gastroesophageal reflux due to esophageal atresia or congenital diaphragmatic hernia.
+

@@ -1,0 +1,32 @@
+(secondQuint)Trial of Oxaliplatin, Cytosine Arabinoside, Dexamethasone With Rituxan (ROAD) in Patients With Relapsed Non-Hodgkins Lymphoma.
+
+ Patients with B-cell NHL that comes back after chemotherapy are typically treated with cisplatin, high-dose cytosine arabinoside and dexamethasone (DHAP) or other platinum-based treatments.
+
+ Recent studies have shown a 37% response rate in patients with large cell lymphoma to immunotherapy with Rituxan.
+
+ Patients <75 years old and in otherwise good health may be candidates for high dose therapy with stem cell rescue if they have disease that remains sensitive to chemotherapy.
+
+ Typically, patients are administered 2 cycles of DHAP or ICE (ifosfamide, carboplatin, and etoposide) and, if the disease responds, they proceed to high-dose therapy with stem cell support.
+
+ Even patients not considered transplant candidates are also often treated with DHAP or ICE or other salvage regimens.
+
+ It is likely that the response rate with DHAP alone in patients eligible for transplant is <59%.
+
+ Recent studies have attempted to improve on the results from DHAP or ICE by combining them with rituxan.
+
+ NCCTG has just completed a phase II trial of R-DHAP.
+
+ Preliminary results of the R-ICE protocol indicate a higher response rate and longer time to progression than traditional ICE.
+
+ The problem with DHAP and ICE is that they are associated with significant side effects and specifically, with DHAP the cisplatin often causes kidney problems.
+
+ In fact, some patients who are considered transplant eligible before DHAP may become transplant ineligible simply by the kidney side effects.
+
+ Clearly, there is a need to improve the quality of life of patients undergoing treatment and to avoid the kidney problems.
+
+.
+
+ Trial of Oxaliplatin, Cytosine Arabinoside, Dexamethasone With Rituxan (ROAD) in Patients With Relapsed Non-Hodgkins Lymphoma@highlight
+
+The goals of this protocol are to determine the effect of oxaliplatin, cytosine arabinoside, and dexamethasone with Rituxan (ROAD) as treatment for patients with relapsed CD20+ B-cell non-Hodgkins lymphoma (NHL).
+

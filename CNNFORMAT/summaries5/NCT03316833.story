@@ -1,0 +1,12 @@
+(secondQuint)The Rolex Registry.
+
+ The ROLEX study is a prospective, non-randomized, European, multi-center registry.
+
+ Four hundred and fifty patients with unprotected left main coronary artery disease (ULMCAD) will be enrolled at up to 40 European sites.
+
+ The main objective of the study is to assess the safety and efficacy of the new-generation zotarolimus-eluting stent Resolute Onyx in the treatment of ULMCAD, both isolated or in association with two- or three-vessel coronary artery disease.
+
+ The Rolex Registry@highlight
+
+The primary objective of this study is to assess the safety and efficacy of the new-generation zotarolimus-eluting stent Resolute Onyx in the treatment of unprotected left main coronary artery disease (ULMCAD), both isolated or in association with two- or three-vessel coronary artery disease.
+

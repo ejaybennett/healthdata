@@ -1,0 +1,22 @@
+(secondQuint)Subclinical Delirium and Clinical Outcome.
+
+ Delirium has been associated with clinical outcome in critical care setting.
+
+ This syndrome has been associated with longer length of stay in ICU and hospital, longer duration of mechanical ventilation and higher mortality rate.
+
+ however, its subclinical form has not been investigated.
+
+ The subclinical syndrome is defined by CAM-ICU, in which several features of delirium are fulfilled but the diagnostic criteria are not fulfilled.
+
+ The investigators aimed to establish the association of subclinical delirium with outcome.
+
+.
+
+ Subclinical Delirium and Clinical Outcome@highlight
+
+Delirium has been associated with clinical outcomes in critical care setting.
+
+ However, its subclinical form has not been investigated.
+
+ The investigators aimed to establish the association of subclinical delirium with outcome.
+

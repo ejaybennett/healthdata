@@ -1,0 +1,48 @@
+(fifthQuint)HEPFER-Evaluation of a New Phenotypic Biological Marker in Genetic Type 1 Hemochromatosis.
+
+ HFE-related hereditary hemochromatosis has a highly variable penetrance : 1% of homozygous women and 30% of homozygous men would develop a clinically expressed disease.
+
+ No predictive phenotypic or genetic markers are available.
+
+ The Iron Reabsorption Index (IRI), recently described by our group, correspond to the daily amount of reabsorbed iron for a subject whose iron stock is less than 50 mu g / L and stabilized with maintenance phlebotomy.
+
+ For one patient, the IRI is constant over time, probably related to the functional deficit underlying.
+
+ Unfortunately, IRI is a retrospective marker requiring at least one year of treatment, which limits its practical interest and directs its use for research activity.
+
+ We're looking for a more simple phenotypic marker readily available in clinical practice, which would predict at the time of diagnosis the evolution of the disease and therefore would better define the therapeutic options.
+
+ The pathophysiology of hemochromatosis is a dysregulation of hepcidin synthesis.
+
+ We assume that hepcidin / ferritin ratio could be a phenotypic marker like the IRI, stage disease independent and constant over time.
+
+ Indeed H/F ratio may reflect the adaptability of hepcidin production regulation for a level of iron stock No data are available on the validated values of this ratio.
+
+ The aim of the project is to determine the intra-individual variations of the H / F ratio over time during maintenance therapy and to assess the correlation with the IRI.
+
+ The study involve 30 C282Y homozygous men, followed in a reference center with phlebotomy maintenance therapy and stabilized at a low level of ferritin ( mu g / L) for at least 1 year.
+
+ The intra-individual variation of H/F ration will be determine by 5 samples every 14 days for 8 weeks.
+
+ The correlation with IRI will be validated externally by the iron load observed at diagnosis.
+
+ We will take into account other known variation factors like liver damages associated with hemochromatosis at diagnosis.
+
+.
+
+ HEPFER-Evaluation of a New Phenotypic Biological Marker in Genetic Type 1 Hemochromatosis@highlight
+
+HFE(High iron FE)-related hereditary hemochromatosis has a highly variable penetrance.
+
+ No phenotypic or genetic markers can predict the disease.
+
+ The Iron Reabsorption Index (IRI), recently described by our group, correspond to the daily reabsorbed iron for a subject whose iron stock is stable and less than 50 mu g / L.
+
+ The IRI is constant over time, reflecting the importance of the underlying functional deficit.
+
+ Hepcidin / ferritin (H / F) ratio may be an independent and constant over time marker of disease stage.
+
+No data are available on the validated values of this ratio.
+
+ The goal of this project is to determine the intra-individual variations of the H / F ratio over time during maintenance therapy and to assess the correlation with the IRI.
+

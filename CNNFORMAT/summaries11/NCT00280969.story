@@ -1,0 +1,21 @@
+(thirdQuint)Comparing the Effectiveness Between Ritonavir Boosted Atazanavir and Efavirenz for the First HIV Treatment.
+
+ A selection study in treatment naive HIV patients to compare the virologic success rate of once daily antiretroviral treatment regimens at the 48th week with Epzicom(lamivudine and abacavir) plus efavirenz and Epzicom plus ritonavir boosted atazanavir.
+
+ The superior regimen will be hired to the comparative study to the current first line regimen (tenofovir plus lamivudine plus efavirenz) The primary endpoint is antiretroviral effect at the 48th week.
+
+ The secondary endpoint is;1.
+
+ Evaluation of immunological effect and safety in 48 weeks.
+
+ 2.
+
+Evaluation of antiretroviral effect, immunological effect and safety in 49 to 96 weeks.
+
+.
+
+ Comparing the Effectiveness Between Ritonavir Boosted Atazanavir and Efavirenz for the First HIV Treatment@highlight
+
+A selection study in treatment naive HIV patients to compare the virologic success rate of once daily antiretroviral treatment regimens at the 48th week with Epzicom(lamivudine and abacavir) plus efavirenz and Epzicom plus ritonavir boosted atazanavir.
+
+ The superior regimen will be hired to the comparative study to the current first line regimen (tenofovir plus lamivudine plus efavirenz)

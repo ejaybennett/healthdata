@@ -1,0 +1,31 @@
+(secondQuint)UBT as a Diagnostic Tool for HP Prevalance.
+
+ The non-invasive methods for the diagnosis of Hp are the Urea Breath Test (UBT) and serological tests.
+
+ The serological tests includes ELISA test in serum for Hp antibody and in stool for Hp antigen.
+
+ Serum ELISA Hp antibody is not sensitive for showing active infection and the titres do not decrease even after successful eradication.
+
+ Serology test cannot be used for those who have previously been treated for Hp, as the decline in titre of Hp antibodies is too slow to be of practical use.
+
+ The stool Hp antigen detection test is more sensitive and specific as it detects bacterial antigens which will only be positive in the presence of Hp.
+
+ However, it is cumbersome to collect stool and laboratory services are required.
+
+ The C14 Urea Breath Test (UBT) is an office based test with sensitivity and specificity comparable to that of the stool antigen test.
+
+ The diagnostic validity of these tests depends on the prevalence of H pylori infection.
+
+ A higher prevalence would be associated with higher sensitivity and lower specificity.
+
+ The safety profile of the urea breath test is very favourable, and no major side effects are associated with it.
+
+ The aims of this study are to estimate H pylori prevalence in Pakistan among the adult dyspeptic population and to validate the sensitivity and specificity UBT in our population.
+
+ UBT as a Diagnostic Tool for HP Prevalance@highlight
+
+The prevalence of H.
+
+ pylori infection in Pakistan is unknown and investigators want to assess it in dyspeptic patients utilizing UBT.
+
+ At the same time investigators want to validate UBT sensitivity and specificity in Pakistani patients

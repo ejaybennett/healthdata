@@ -1,0 +1,16 @@
+(firstQuint)Expanding Patient Applicability With Polymer Sealing Ovation Alto Stent Graft IDE (Investigational Device Exemption) Study.
+
+ A prospective clinical evaluation of the effectiveness of the Ovation Alto Abdominal Stent Graft System when used in the treatment of subjects with abdominal aortic aneurysm (AAA).
+
+ The primary objective is to evaluate treatment success at 12 months with the Ovation Alto Abdominal Stent Graft system.
+
+ The study will have up to 16 sites, and up to 75 patients based on attrition rates.
+
+ The follow-up intervals will be at 1, 6, and 12 months following initial implant procedure.
+
+.
+
+ Expanding Patient Applicability With Polymer Sealing Ovation Alto Stent Graft IDE (Investigational Device Exemption) Study@highlight
+
+A prospective clinical evaluation of the effectiveness of the Ovation Alto Abdominal Stent Graft System when used in the treatment of subjects with abdominal aortic aneurysm (AAA).
+

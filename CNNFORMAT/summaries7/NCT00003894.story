@@ -1,0 +1,38 @@
+(thirdQuint)Thalidomide in Treating Patients With Chronic Graft-Versus-Host Disease Following Bone Marrow Transplant.
+
+ OBJECTIVES: I.
+
+ Determine the efficacy of thalidomide in patients with steroid dependent or refractory chronic graft vs host disease following an allogeneic bone marrow transplant.
+
+ II.
+
+ Determine the toxicity of this regimen in these patients.
+
+ OUTLINE: This is a randomized study.
+
+ Patients are stratified according to the type of bone marrow transplant received (allogeneic vs matched unrelated donor) and type of chronic graft vs host disease (steroid dependent vs steroid refractory).
+
+ Patients receive either oral thalidomide or placebo 2-4 times a day for 6 months.
+
+ The drug is then tapered until stopped.
+
+ If disease recurs, the drug may be restarted for a second 6 month course.
+
+ The maximum duration of treatment is 18 months.
+
+ Patients continue on steroid therapy, which is tapered during study therapy.
+
+ If no response is seen after 8 weeks, patients may cross over to the other alternate drug.
+
+ Patients are followed weekly for 1 month, then every month for 1 year.
+
+ PROJECTED ACCRUAL: A total of 36 patients (18 per arm) will be accrued for this study.
+
+.
+
+ Thalidomide in Treating Patients With Chronic Graft-Versus-Host Disease Following Bone Marrow Transplant@highlight
+
+RATIONALE: Thalidomide may interfere with the body's ability to recognize transplanted bone marrow cells as foreign and may help treat patients with graft-versus-host disease.
+
+ PURPOSE: Randomized phase II trial to study the effectiveness of thalidomide in treating patients who have chronic graft-versus-host disease following bone marrow transplantation.
+

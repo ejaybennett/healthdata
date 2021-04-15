@@ -1,0 +1,18 @@
+(secondQuint)Study of beta2-Microglobulin Removal by Standard Versus New High Cut-Off Haemodialysis Membrane.
+
+ Despite advances in treatment of kidney diseases, morbidity and mortality of chronic dialysis patients remains unsatisfactory.
+
+ Standard haemodialysis membranes remove middle-sized molecule solutes poorly such as beta2-microglobulin, which has a pathogenic role in dialysis-related amyloidosis.
+
+ Pre-dialysis beta2-microglobulin concentration has been shown to be independently predictive of mortality.
+
+ A new polyamide haemodialysis membrane has been developed with increased pore size to increase the removal of middle-sized uraemic toxins such as beta2-microglobulin.
+
+ This study aims to evaluate the effectiveness of the new membrane in beta2-microglobulin removal compared with standard haemodialysis membrane in dialysis patients and the degree of increased loss of albumin as a potential limiting factor of its use.
+
+.
+
+ Study of beta2-Microglobulin Removal by Standard Versus New High Cut-Off Haemodialysis Membrane@highlight
+
+The purpose of this study is to determine whether a novel haemodialysis membrane, compared with the standard dialysis membrane, will increase the removal of beta2-microglobulin in chronic dialysis patients.
+

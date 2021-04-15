@@ -1,0 +1,82 @@
+(fifthQuint)Adrenal Function After Living Kidney Donation.
+
+ Due the lack of suitable donor organs a large proportion of kidney transplantations is now performed from living donors.
+
+ In the year 2002 the number of living donors surpassed the number of cadaveric donors in Switzerland (Swisstransplant, Swiss Transplant Society 2005).
+
+ Kidney grafts from living donors have superior long-term outcome (Hariharan S, N Engl J Med 2000).
+
+ At the University Hospital Zurich 28 of the 84 kidney transplantations performed in the year 2004 were from living donors.
+
+ During living donor nephrectomy the renal artery and renal vein are transected as far away from the kidney as possible, to ensure an adequate vessel length for the subsequent transplantation procedure.
+
+ The arterial supply of the adrenal glands is accomplished by several small vessels (ca.
+
+ 5-15), while the venous drainage is usually dependent on a single vein.
+
+ While the right-sided adrenal vein drains directly into the inferior vena cava (IVC), the left-sided adrenal vein drains into the renal vein.
+
+ Variants are relatively rare and occur in 5% of cases (Sebe P, Surg Radiol Anat 2002).
+
+ Therefore, during donor nephrectomy of the left kidney the adrenal vein is transected, while this is not necessary on the right side.
+
+ The question addressed in this clinical trial is whether left-sided donor nephrectomy affects the left adrenal gland.
+
+ This might be compensated immediately by the contralateral gland or it might lead to a measurable functional adrenal deficit.
+
+ Such an adrenal insufficiency could be detrimental to the immediate postoperative course.
+
+ The intermediate-term outcome of the adrenal glands is also of interest, as an impairment of the left adrenal gland will lead to a hypertrophy of the contralateral gland.
+
+ Few scientific publications have addressed these questions.
+
+ There are case reports of acute intra- and postoperative adrenal insufficiency in patients undergoing nephrectomy with adrenalectomy (Cassinello Ogea C, Rev Esp Anestesiol Reanim 2002, Henrich WL, Urology 1976, Messiant F, Ann Fr Anesth Reanim 1993, Safir MH, Geriatr Nephrol Urol 1998).
+
+ A small prospective study in patients undergoing radical nephrectomy (including adrenalectomy) did not find signs of adrenal insufficiency (Bischoff P, Anaesthesist 1997).
+
+ However a subgroup analysis of a newer study demonstrated adrenal insufficiency in radical versus adrenal-sparing nephrectomy (Yokoyama H, BJU Int 2005).
+
+ The study hypothesis is that left-sided donor nephrectomy (i.
+
+e.
+
+ with transaction of the adrenal vein) is deleterious to the left adrenal gland and causes a measurable transient adrenal insufficiency after the operation.
+
+ The primary study endpoint is the assessment of adrenal function after donor nephrectomy.
+
+ This is done by an ACTH stimulation test, performed at baseline, in the first week after the operation and 4 weeks after the operation.
+
+ Comparisons are performed between baseline and postoperative values, as well as between left-sided kidney donors (n=20) and right-sided kidney donors (n=10).
+
+ A secondary study endpoint is to assess the morphological response of both adrenal glands after donor nephrectomy.
+
+ To this end MRI and volumetry of the adrenal glands is performed at the same time points, with the hypothesis that left-sided nephrectomy will lead to an involution of the left adrenal followed by hypertrophy of the right adrenal.
+
+.
+
+ Adrenal Function After Living Kidney Donation@highlight
+
+The success of kidney transplantation is hampered by the shortage of organs.
+
+ One attractive strategy is the use of kidneys from living donors.
+
+ During the donor operation the kidney artery, kidney vein and ureter have to be interrupted as far as possible from the kidney to have sufficient length for the reconnection of these structures in the transplant operation.
+
+ An adrenal gland is situated at the upper pole of each kidney.
+
+ While the arterial supply is accomplished by many small vessels, the venous drainage is only through one vein.
+
+ On the right side the adrenal vein empties directly into the inferior vena cava (the large vessel transporting blood from the lower body to the heart).
+
+ In contrast, on the left side the adrenal vein empties into the kidney vein, which in turn drains to the inferior vana cava.
+
+ Due to these anatomical differences a left-sided removal of a kidney always necessitates an interruption of the left adrenal vein, while a right-sided kidney removal does not.
+
+ As the venous drainage of the left adrenal gland is closed during living kidney donation, the gland is most likely functionally impaired.
+
+ This can be compared to a right-sided kidney donation, where the adrenal vein is left intact.
+
+ These comparisons are performed by adrenal function tests before, one week after and one month after kidney donation.
+
+ These function tests consist of blood values drawn after stimulation with a hormone drug.
+

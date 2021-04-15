@@ -1,0 +1,26 @@
+(thirdQuint)Gene Expression in Normal Tissue and Tumor Tissue From Patients Who Have Undergone Surgery For Kidney Cancer.
+
+ OBJECTIVES: Primary - Determine the expression levels of novel genes and proteins (HFARP, HAMGR28, HE9NG77) in frozen normal tissue and tumor tissue samples from patients who have undergone nephrectomy for renal cell cancer.
+
+ - Correlate gene and protein expression levels with disease stage, tumor size, and pathology reports (e.
+
+g.
+
+, cell type, grade, and tissue architecture) in order to evaluate the rate of gene and protein expression as targets for future therapeutic interventions.
+
+ Secondary - Compare proteomic screening of potential biomarkers using existing plasma and/or urine samples from patients with renal cell cancer or breast cancer stored in the CCCWFU Tumor Tissue Core with tissue samples from patients enrolled in this study.
+
+ OUTLINE: Normal and tumor tissue collected from patients who have undergone nephrectomy and diagnostic and therapeutic intervention for renal cell cancer is analyzed for histopathological expression and compared to normal kidney cells by northern blot.
+
+ Tissue samples are evaluated by RNA and protein extraction and analyzed by gel electrophoresis, blotting, and phosphor-imaging for induction or suppression of genes and protein levels.
+
+ These data are correlated with clinical stage, tumor size, and histopathological grade and architecture of the patient's disease.
+
+.
+
+ Gene Expression in Normal Tissue and Tumor Tissue From Patients Who Have Undergone Surgery For Kidney Cancer@highlight
+
+RATIONALE: Studying the genes and proteins expressed in tissue samples from patients with cancer may help doctors identify biomarkers related to cancer.
+
+ PURPOSE: This laboratory study is evaluating gene and protein expression in normal tissue and tumor tissue from patients who have undergone surgery for kidney cancer.
+

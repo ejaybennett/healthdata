@@ -1,0 +1,22 @@
+(thirdQuint)Clinical Outcome After Anterior Cervical Decompression and Fusion and Cervical Total Disc Replacement.
+
+ The study population consists of patients who are suffering from neck and cervicobrachial pain because of degenerative diseases of the cervical spine.
+
+ In that population conservative treatment such as analgesia and physiotherapy is no more sufficient, so that surgery is necessary.
+
+ For surgical treatment are chosen either total disc replacement with an cervical disc prostheses or anterior cervical decompression and fusion.
+
+ In the context of this work the clinical success of these surgical methods should be analasied by means of the neck disability index (NDI), the visual analogue scale (VAS) in centimeter, clinical examinations, the satisfaction of patients with the surgery and the occurrence of adverse events.
+
+ The included patients are examined and seen before and after the surgery.
+
+ Furthermore the two different methods are compared to each other in order to detect a possible advantage of one type of surgery.
+
+.
+
+ Clinical Outcome After Anterior Cervical Decompression and Fusion and Cervical Total Disc Replacement@highlight
+
+The aim of this study is to examine the clinical outcome after anterior cervical decompression and fusion, and cervical disc prostheses in general.
+
+ Additionally these two surgical methods for degenerative diseases of the cercival spine are analyzed comparatively in order to see whether one procedure should be preferred.
+

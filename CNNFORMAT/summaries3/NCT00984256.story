@@ -1,0 +1,26 @@
+(firstQuint)Weekly Dosing of Malarone  for Prevention of Malaria.
+
+ In this study, two groups of volunteers will be exposed to malaria through the bites of infected mosquitoes.
+
+ In one group, volunteers will be randomly assigned to one of 5 arms.
+
+ Each of these arms will receive a different dose of Malarone(R), a drug known to prevent malaria when taken daily.
+
+ Each of these doses will be lower than the maximum approved dose of this medicine.
+
+ The other group will not be treated with any drug that could prevent symptoms or infection.
+
+ After exposure, both groups will be monitored for a period of approximately 3 months to see if they develop symptoms of malaria.
+
+ Any subjects who do so will be treated with appropriate medications.
+
+ Subjects in both groups will have their blood checked regularly during this period for the presence of malaria parasites.
+
+ At the completion of the study, results will be analyzed to determine whether any of the doses of Malarone might effectively prevent malaria if taken weekly rather than daily.
+
+.
+
+ Weekly Dosing of Malarone  for Prevention of Malaria@highlight
+
+The purpose of this study is to determine whether Malarone (R), which is a drug approved to prevent malaria when taken daily, will still effectively prevent malaria if taken weekly.
+

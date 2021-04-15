@@ -1,0 +1,44 @@
+(fifthQuint)Superior Venous Access, Midline vs Ultrasound IVs.
+
+ This is a randomized controlled trial to determine if the midline catheter is superior to the ultrasound guided IV with respect to survival at 72 hours.
+
+ Aim 1: To determine if UGPIVs have a higher failure rate than midline catheters within 72 hours of placement.
+
+ There are several reasons why UGPIVs may fail.
+
+ UGPIVs are shorter than midline catheters, and shorter catheters may fail due to infiltration which can be a result of malposition as well as having the catheter pull out of the vessel.
+
+ It is being hypothesized that by using a midline catheter with a guidewire for placement with additional catheter length placed into the vessel, midlines will be superior to UGP\Vs with regards to survival time of the catheter.
+
+ The investigators will assess catheter survival daily until 72 hours (when UGPIV are recommended to be changed).
+
+ The total lifetime of the midline catheters will be recorded.
+
+ Aim 2: To perform a direct cost analysis of UGPIV against that of the midline catheter.
+
+ This study will not be large enough to complete a robust cost effectiveness analysis to compare UGPIV to mid line catheters.
+
+ As a part of this study the investigators will collect information including but not limited to: the number of catheters used for IVA attempts, time for placement of each device complications, and need for additional IVA during hospitalization.
+
+ Aim 3: For patients that remain hospitalized at 72 hours a satisfaction survey will be administered to determine patient experience and preference for the type of vascular access that they receive.
+
+.
+
+ Superior Venous Access, Midline vs Ultrasound IVs@highlight
+
+Obtaining intravenous access (IVA) is the most common procedure performed in the emergency department (ED).
+
+ Placement of IVA allows for blood work and delivery of intravenous fluids and medications.
+
+ The implementation of ultrasound guided peripheral IVs (UGPIV) have allowed for ultrasound to be used to place an IV into patients with difficult vein access (DVA).
+
+ An alternative device to place is a midline catheter (MC).
+
+ The use of MCs against UGPIV has not been compared in a randomized study.
+
+ Aim 1: To determine if UGPIVs have a higher failure rate than midline catheters within 72 hours of placement.
+
+ Aim 2: To collect information to perform a direct cost analysis of UGPIV against that of the midline catheter.
+
+ Aim 3: Assess patient satisfaction.
+

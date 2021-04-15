@@ -1,0 +1,28 @@
+(secondQuint)Extension Study Evaluating the Long Term Safety and Efficacy Study of CYT387 in Primary Myelofibrosis (PMF) or Post-polycythemia Vera (PV) or Post-essential Thrombocythemia (ET).
+
+ The myeloproliferative neoplasms (MPN), most notably polycythemia vera (PV), essential thrombocythemia (ET), and primary myelofibrosis (PMF) are a diverse but inter-related suite of clonal disorders of pluripotent hematopoietic stem cells (Tefferi et al.
+
+, 2008).
+
+ The MPN share a range of biological, pathological, and clinical features including the relative overproduction of one or more cells of myeloid origin, growth factor independent colony formation in vitro, marrow hypercellularity, extramedullary hematopoiesis, spleno- and hepatomegaly, and thrombotic and/or hemorrhagic diatheses (Tefferi et al.
+
+, 2005).
+
+ This is a multi centre, open-label, extension study of the core study (CCL09101).
+
+ The primary aims of the study will be to determine the long term safety and tolerability of orally-administered CYT387 when administered as a capsule dose, on a 28-day treatment cycle.
+
+ Following completion of the core study (CCL09101), patients who have tolerated the drug and derived clinical benefit will continue to be treated with CYT387 administered orally.
+
+ Subjects will be evaluated every three months for up to 24 cycles of CYT387 treatment.
+
+ Subjects will return for a follow-up visit 30 days after completion of the last dose of study drug.
+
+.
+
+ Extension Study Evaluating the Long Term Safety and Efficacy Study of CYT387 in Primary Myelofibrosis (PMF) or Post-polycythemia Vera (PV) or Post-essential Thrombocythemia (ET)@highlight
+
+This extension protocol to the core study CCL09101 allows patients who have tolerated the drug and derived a clinical benefit, to continue to receive treatment beyond the 9 cycles of the core protocol.
+
+ Long term safety and efficacy of CYT387 will be evaluated.
+

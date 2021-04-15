@@ -1,0 +1,18 @@
+(secondQuint)Integrative Medicine of IgA Nephropathy.
+
+ The present study was designed to identify the efficacy and safety of Integrative Medicine by joint oral steroid medicine on liver-kidney yin deficiency, severe IgA nephropathy.
+
+ Furthermore, search for potential diagnostic predictor in IgA Nephropathy by Proteomics and Metabolomics.
+
+ Combined with TCM Syndrome research, the investigators will clarify targets or mechanisms of herbal treatment.
+
+ Eventually, to form a more clinically appropriate standardized combination treatment of severe IgA nephropathy.
+
+.
+
+ Integrative Medicine of IgA Nephropathy@highlight
+
+The present study was designed to identify the efficacy and safety of Integrative Medicine by joint oral steroid medicine on liver-kidney yin deficiency, severe IgA nephropathy.
+
+ Furthermore, search for potential diagnostic predictor in IgA Nephropathy by Proteomics and Metabolomics.
+

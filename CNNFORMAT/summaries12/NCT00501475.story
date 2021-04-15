@@ -1,0 +1,16 @@
+(secondQuint)NAC in Preventing CIN in CRF Patients Who Need Enhanced CT Scan in ED.
+
+ CIN is frequent in CRF patients.
+
+ However most studies about CIN has been focusing on elective PCI patients.
+
+ There is no study that the NAC nor sodium bicarbonate would help in preventing CIN in CRF patients who need enhanced CT scan in ED.
+
+ Our intention was to investigate the effect of NAC or sodium bicarbonate in preventing the aggravation of renal function in chronic renal failure when enhanced computed tomography scan is checked in emergency room.
+
+.
+
+ NAC in Preventing CIN in CRF Patients Who Need Enhanced CT Scan in ED@highlight
+
+The purpose of this study is to evaluate the effect of NAC or sodium bicarbonate in preventing the aggravation of renal function in chronic renal failure when enhanced computed tomography scan is checked in emergency room.
+

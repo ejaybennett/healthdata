@@ -1,0 +1,14 @@
+(secondQuint)NSABP Biospecimen Discovery Project.
+
+ This study will be conducted at select NSABP sites where investigators are willing to give paclitaxel plus trastuzumab or a trastuzumab/pertuzumab-based combination as the initial component of neoadjuvant therapy as a pilot for a comprehensive 'omics approach using next generation sequencing and protein expression and post-translational modification analysis using mass spectrometry (MS) based and Reverse Phase Protein Array-based proteomics.
+
+ Tumor samples will be obtained at baseline and 48 to 72 hours after initial drug treatment to study variation in the biological responses to these agents.
+
+ The study of tumors both before and early after the first treatment probes the biological responses to treatment and is rich source of predictive biomarkers.
+
+.
+
+ NSABP Biospecimen Discovery Project@highlight
+
+This study is a biospecimen discovery project that will serve as a pilot for a comprehensive 'omics approach using fresh core biopsy tissue and blood samples for DNA and protein analysis, as well as paired tumor-normal exome DNA and RNA sequencing.
+

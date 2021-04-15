@@ -1,0 +1,28 @@
+(fifthQuint)Effects of Training in a Virtual Environment in Healthy Elderly.
+
+ The objective of this work is to compare the effects of two balance training programs, one Nintendo Wii Fit-based and the other traditionally-based without the use of a gaming system, on balance, gait, functionality and cognition ability in older adults.
+
+ It is a prospective, single blinded, randomized clinical trial performed at Center of Research of the courses of Speech Therapy, Physical Therapy and Occupational Therapy of Sao Paulo University.
+
+ Thirty-two older adults are randomly in control and experimental group, 16 each one.
+
+ Both groups performed 14 training sessions, twice a week, for seven weeks.
+
+ Each session is composed of a 30 minute-global-exercise series including stretching, muscle strength and axial mobility exercises.
+
+ After this, both groups performed more 30 minutes of balance training: the control group performed balance exercises without external cues, visual or auditory feedbacks or cognitive stimulations; the experimental group performed the balance training with 10 Wii Fit games which stimulated motor and cognitive functions.
+
+ The main outcome measures are: (1) Mini-BESTest of Dynamic Balance Evaluation; (2) Dynamic Gait Index (DGI); (3) Montreal Cognitive Assessment (MoCA); and (4) Falls Efficacy Scale - International (FES-I).
+
+.
+
+ Effects of Training in a Virtual Environment in Healthy Elderly@highlight
+
+The objective of this work was to compare the effects of two balance training programs, one Nintendo Wii Fit-based and the other traditionally-based without the use of a gaming system, on the (1) balance, (2) gait, (3) functionality and (4) cognition ability in older adults.
+
+ It is a prospective, single blinded, randomized clinical trial performed at Center of Research of the courses of Speech Therapy, Physical Therapy and Occupational Therapy of Sao Paulo University.
+
+ Thirty-two older adults are randomly in control and experimental group, 16 each one.
+
+ The study includes only participants scoring at least 24 in the Mini-Mental State Examination to rule out effects of dementia; without the presence of depression, according to the Geriatric Depression Scale of Yesavage - version 15 (GDS-15 5) and scores on the Berg Balance Scale (EBB 41).
+

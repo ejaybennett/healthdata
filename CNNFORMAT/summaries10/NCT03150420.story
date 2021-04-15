@@ -1,0 +1,12 @@
+(secondQuint)A Phase 3 Clinical Trial of Intravenous Sodium Thiosulfate in Acute Calciphylaxis Patients.
+
+ This Phase 3, multicenter, randomized, double-blind, placebo-controlled clinical trial will evaluate the efficacy and safety of intravenous Sodium Thiosulfate Injection for treatment of acute calciphylaxis-associated pain in chronic hemodialysis patients.
+
+ Acute calciphylaxis- associated pain intensity will be the primary outcome measure.
+
+.
+
+ A Phase 3 Clinical Trial of Intravenous Sodium Thiosulfate in Acute Calciphylaxis Patients@highlight
+
+This multicenter, randomized, double-blind, placebo-controlled clinical trial will evaluate the efficacy and safety of intravenous Sodium Thiosulfate Injection for treatment of acute calciphylaxis-associated pain in chronic hemodialysis patients.
+

@@ -1,0 +1,16 @@
+(secondQuint)Trazodone in Painful Diabetic Neuropathy.
+
+ This is a randomized, double-blind, placebo controlled, double-dummy, dose finding, parallel group, multicentre, international, prospective, pilot study.
+
+ The present study is planned to assess the efficacy and the safety of an 8-week treatment period with low doses of trazodone (30 mg daily or 60 mg total daily, respectively) administered to patients affected by painful diabetic neuropathy.
+
+ Gabapentin will be administered together with the investigational drug in open label conditions in order to assure an effective pharmacological treatment to all patients.
+
+ A slow titration of gabapentin will be applied in this trial in order to control possible side effects when co-administered with trazodone.
+
+.
+
+ Trazodone in Painful Diabetic Neuropathy@highlight
+
+The aim of the study is to collect preliminary information on the effect of low doses of trazodone on pain intensity in patients with painful diabetic neuropathy and to evaluate the neuropathic pain symptoms, anxiety, sleep, quality of life, safety and tolerability.
+

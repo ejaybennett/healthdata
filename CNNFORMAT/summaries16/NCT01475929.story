@@ -1,0 +1,14 @@
+(firstQuint)Effect of Probiotic Supplement on Bowel Function.
+
+ The aim of the intervention is to analyse the effect of a probiotic supplement in a dose-responsive set up on symptoms of irritable bowel syndrome (IBS).
+
+ Fulfillment of Rome III criteria will be used as inclusion criterion.
+
+ Subjective assessment of bowel symptoms, IBS-related quality of life and adequate relief will be assessed as outcome measures.
+
+.
+
+ Effect of Probiotic Supplement on Bowel Function@highlight
+
+The purpose of this study is to analyse the effect of probiotic supplement on symptoms of irritable bowel syndrome.
+

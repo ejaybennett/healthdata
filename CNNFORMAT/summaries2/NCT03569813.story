@@ -1,0 +1,42 @@
+(fifthQuint)Pre-exposure Prophylaxis (PrEP) at Home.
+
+ Clinical guidance calls for quarterly follow-up visits for individuals taking PrEP.
+
+ Yet these visits impose burdens on the healthcare system and on patients that could hinder persistence of patients in PrEP care.
+
+ Preliminary data indicate that a home-based care system for PrEP is feasible, acceptable, and may increase patient willingness to remain in care.
+
+ This study explores the effect of a home-based PrEP support system on maintenance in PrEP care.
+
+ The study will enroll 396 participants into a stratified randomized, controlled trial comparing the PrEP@Home intervention arm to the standard of care control arm.
+
+ The study seeks to explore intervention performance among highly impacted groups, and therefore will target a sample that is 50% Black and 50% aged 18-34 years.
+
+ Individuals in the intervention and control arms will have a baseline study visit, in which patients will be prescribed PrEP.
+
+ Participants randomized to the intervention arm will receive home care for PrEP at months 3, 6, 9, and 12.
+
+ Home care will include a mailed package with materials for HIV/sexually transmitted infection (STI)/creatinine specimen self-collection, materials for return shipping, and a link to an electronic, self-report behavioral assessment.
+
+ Home care will also include access to the intervention version of the study app to facilitate patient-provider and patient-system interactions.
+
+ Study clinicians will monitor patients in home care, and renew prescriptions as indicated.
+
+ Control arm participants will be linked to a local PrEP provider, where they will be seen for quarterly clinic visits per standard of care.
+
+ Control participants will have access to the control version of the study app that contains only research elements pertinent to their participation in the control arm of the study.
+
+ At months 6 and 12, all participants will be mailed materials for dried blood spot (DBS) self-collection to allow for measurement of tenofovir diphosphate (TFV-DP) levels.
+
+ The primary outcome is a comparison of the levels of TFV-DP, a measure that provides information regarding protective levels of PrEP, for the intervention relative to the control arm.
+
+.
+
+ Pre-exposure Prophylaxis (PrEP) at Home@highlight
+
+This study is a randomized clinical trial of PrEP@Home, a home care system for Human Immunodeficiency Virus (HIV) Pre-Exposure Prophylaxis (PrEP).
+
+ Individuals entering into PrEP care at an initial in-person study visit will be randomized to the PrEP@Home system for home-based PrEP care follow-up visits or to the control standard of care for clinic-based follow-up visits.
+
+ The primary aim of this study is to assess protective levels of PrEP medication for the intervention arm compared to the control arm.
+

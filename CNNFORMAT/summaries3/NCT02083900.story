@@ -1,0 +1,14 @@
+(firstQuint)Use of Banana Leaf Dressing on Donor Site Wounds.
+
+ Prospective Randomized double-blind controlled trial comparing the healing rate, infection rate, pain score, ease of care and scar formation of Banana leaf dressing versus hydrocolloid dressing.
+
+ Adult patients with no uncontrolled medical condition admitted at Philippine General Hospital Burn Center requiring split thickness skin graft for their burn.
+
+ this is to compare the efficacy and safety of Banana Leaf Dressing with Hydrocolloid dressing among patients undergoing split thickness skin graft for their burn.
+
+.
+
+ Use of Banana Leaf Dressing on Donor Site Wounds@highlight
+
+Prospective Randomized double-blind controlled trial comparing the healing rate, infection rate, pain score, ease of care and scar formation of Banana leaf dressing versus hydrocolloid dressing.
+

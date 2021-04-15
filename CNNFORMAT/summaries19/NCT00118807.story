@@ -1,0 +1,24 @@
+(secondQuint)Trial of the Effectiveness of AQ/AS, SP/AQ and SP/CQ for Uncomplicated Malaria in Gambian Children.
+
+ Children aged 0.
+
+5-10 years presenting at health centres with fever or history of fever and other symptoms suggestive of malaria will be screened; children found to have uncomplicated Plasmodium falciparum malaria will be randomized to receive treatment with AS/AQ, SP/AQ or SP/CQ.
+
+ A drug dispenser will supervise the first dose of medication and subsequent doses will be given to the child's parent to be administered at home, unsupervised by the study team.
+
+ Patients will be visited at home three days later.
+
+ Unused medication will be counted and the mother will be asked about the number of doses the child received and any side effects.
+
+ Children will be seen again 2 and 4 weeks after treatment to collect finger prick samples for packed cell volume (PCV) and malaria microscopy.
+
+ The primary endpoint is clinical failure by day 28.
+
+ Analysis will be by intention to treat.
+
+.
+
+ Trial of the Effectiveness of AQ/AS, SP/AQ and SP/CQ for Uncomplicated Malaria in Gambian Children@highlight
+
+The purpose of this trial is to compare the effectiveness of three combination treatments for uncomplicated malaria when given in operational settings, without supervision of doses other than the first dose.
+

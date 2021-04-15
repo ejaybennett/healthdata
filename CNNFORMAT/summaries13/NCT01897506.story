@@ -1,0 +1,14 @@
+(secondQuint)Assessing Risk of Food Insecurity Within Households of Children With Food Allergy.
+
+ Specific Aim 1 To describe food insecurity in families of the pediatric allergy population, specifically comparing the prevalence of food insecurity rates between households of food allergic patients and households of allergic patients without food allergy.
+
+ Specific Aim 2 To examine health literacy in parents of patients in the pediatric allergy population, comparing food insecure patients with and without food allergy to food secure patients with food allergy.
+
+ Specific Aim 3 To examine quality of life in food allergic patients' households using the food allergy impact scale, comparing food allergic patients' households with food insecurity to food allergic patients' households without food insecurity.
+
+.
+
+ Assessing Risk of Food Insecurity Within Households of Children With Food Allergy@highlight
+
+Our central hypothesis is that dietary limitations introduced by food allergy will contribute to increased food insecurity in households with food allergic children when compared to food insecure households without food allergic children.
+

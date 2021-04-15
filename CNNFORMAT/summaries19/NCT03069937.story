@@ -1,0 +1,24 @@
+(firstQuint)Phase II Study of Docetaxel Before Degarelix in Patients With Newly Diagnosed Metastatic Prostate Cancer.
+
+.
+
+ This study will look at two drugs, docetaxel and degarelix, which are both FDA approved for the treatment of prostate cancer.
+
+ Docetaxel is a standard chemotherapy treatment for metastatic prostate cancer.
+
+ Degarelix is an androgen deprivation therapy (ADT) agent that decreases the amount of testosterone in the body, which helps to fight tumor growth.
+
+ Usually, docetaxel is given after ADT.
+
+ This study will look at how your cancer changes when docetaxel is started before ADT.
+
+ You are being asked to participate in this study because you have metastatic prostate cancer that can be treated with docetaxel and ADT.
+
+.
+
+ Phase II Study of Docetaxel Before Degarelix in Patients With Newly Diagnosed Metastatic Prostate Cancer.
+
+@highlight
+
+The purpose of this study is to look at patient outcomes when docetaxel is started prior to ADT with degarelix.
+

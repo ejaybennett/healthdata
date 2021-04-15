@@ -1,0 +1,12 @@
+(firstQuint)ORIC-I: Optimizing Recovery From Intensive Care: Mechanical Ventilation and Delirium.
+
+ Intensive care unit delirium is a serious medical condition that is associated with increased morbidity and mortality.
+
+ In this study, 304 delirious mechanically ventilated subjects will be randomized to haloperidol 5mg IV every 12 hours or placebo to determine if treatment with haloperidol improves short and long-term mortality.
+
+.
+
+ ORIC-I: Optimizing Recovery From Intensive Care: Mechanical Ventilation and Delirium@highlight
+
+The purpose of this study is to determine if treating delirious intensive care unit patients with haloperidol improves mortality.
+

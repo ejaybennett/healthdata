@@ -1,0 +1,20 @@
+(thirdQuint)Prevention Trial: Immune-tolerance With Alum-GAD (Diamyd) and Vitamin D3 to Children With Multiple Islet Autoantibodies.
+
+ The primary objective of this study is to evaluate if immune-tolerance with Alum-formulated GAD (Diamyd), combined with high dose Vitamin D3, may delay or stop the autoimmune process leading to clinical type 1 diabetes (diagnosed according to American Diabetes Association criteria) in non-diabetic 4-17.
+
+99 year old children with ongoing beta-cell autoimmunity as indicated by positive islet autoantibodies.
+
+ The secondary objective is to demonstrate that treatment with Diamyd is safe in children at risk for type 1 diabetes.
+
+ The children will be followed for 5 years in the study.
+
+ Primary endpoint is proportion of subjects diagnosed with type 1 diabetes in each treatment arm.
+
+ Secondary endpoints are 1) safety, 2) change in metabolic status from normal to impaired glucose metabolism in the group of children with normal glucose metabolism at baseline screening.
+
+.
+
+ Prevention Trial: Immune-tolerance With Alum-GAD (Diamyd) and Vitamin D3 to Children With Multiple Islet Autoantibodies@highlight
+
+The purpose of this study is to evaluate if immune-tolerance with Alum-formulated GAD (Diamyd), in combination with high dose Vitamin D3, may delay or stop the autoimmune process leading to clinical type 1 diabetes in non-diabetic children with ongoing beta-cell autoimmunity as indicated by positive islet autoantibodies.
+

@@ -1,0 +1,18 @@
+(secondQuint)Acute Lymphoblastic Leukemia Relapse in Sweden 2003-2007.
+
+ This is a national, multicenter, prospective, population-based study of outcome among adult patients aged 19 to 65 years with ALL relapse diagnosed during 2003-2007 in Sweden.
+
+ Most of the patients had primary treatment according to National guidelines for ALL as recommended by The Swedish Adult ALL Group (SVALL).
+
+ The guidelines suggest two different treatment protocols for early relapses, and retreatment according to the initial therapy for late relapses, with the intention to proceed to allogeneic SCT in CR2 for eligible patients.
+
+ The aim of the current study was to assess outcome among adult patients after first ALL relapse, and the utilization and efficacy of recommended protocols and of allogeneic SCT in this setting.
+
+.
+
+ Acute Lymphoblastic Leukemia Relapse in Sweden 2003-2007@highlight
+
+A minority of patients with adult acute lymphoblastic leukemia (ALL) relapse are rescued.
+
+ The aim of this population-based study was to assess the results of reinduction treatment and allogeneic stem cell transplantation (SCT) in second complete remission (CR) in Sweden 2003-2007.
+

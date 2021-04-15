@@ -1,0 +1,16 @@
+(secondQuint)PET/MR Assessment of Sipuleucel T Treatment for Metastatic Castration Resistant Prostate Cancer.
+
+ Recent studies of treatments of prostate cancer through stimulation of adaptive immune response have indicated the linear measurements by computed tomography (CT) and nuclear scans used to assess tumor response by Response Evaluation Criteria in Solid Tumors (RECIST) were inadequate and the value of progression-free survival (PFS) as a predictive surrogate endpoint of survival was lost.
+
+ The objective of this study is to provide an initial evaluation of the utility of PET/MR imaging measures for the prediction of immunological response to SipT therapy.
+
+ Investigators expect to identify an"imaging-signature" of response to SipT based on changes in metabolism, perfusion, oxygenation and cellularity of metastasis and its correlation with immunological and clinical response.
+
+ This approach will help elucidate the mechanism of activity and dynamics of immune antitumor responses to SipT in vivo and to identify new parameters of tumor response and predictive value than current RECIST and PFS standards.
+
+.
+
+ PET/MR Assessment of Sipuleucel T Treatment for Metastatic Castration Resistant Prostate Cancer@highlight
+
+This study intents to provide an initial evaluation of the utility of positron emission tomography and magnetic resonance (PET/MR) imaging measures for the prediction of immunological response to Sipuleucel T (SipT) therapy.
+

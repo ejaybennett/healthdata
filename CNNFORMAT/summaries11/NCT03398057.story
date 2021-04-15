@@ -1,0 +1,24 @@
+(secondQuint)Effect of Health Education on Female Teachers' Knowledge and Practices Regarding Early Breast Cancer Detection and Screening in the Jazan Area: A Quasi-Experimental Study.
+
+ A two-group quasi-experimental design was conducted among 150 female teachers, who were selected from 75 schools of the Jazan General Administration of Education.
+
+ Schools were chosen by a simple cluster randomization method.
+
+ Schools were non-randomly assigned to either the intervention or control group.
+
+ Eligible participants were recruited by a simple randomization method, proportional to the total number of teachers at each school.
+
+ Those in the intervention group (n=75 teachers) were compared to the control group (n=75 teachers) at baseline, as well as at 6 weeks and 3 months post-intervention.
+
+ Study aim: Assess effectiveness of health education on improving knowledge and practices regarding Breast cancer(BC) early detection and screening tools among female teachers after six weeks, three months in health education group in compare with control group.
+
+ Specific objectives: Estimate level of awareness among female teachers regarding knowledge and practices of BC early detection and screening tools in Jazan area schools.
+
+ Measure the impact of health education on female teachers knowledge and practices regarding BC early detection and screening tools in health education group in compare with control group.
+
+ So Research questions are: What is the current awareness level of female teachers in Jazan area schools regarding knowledge and practices of BC early detection and screening tools? Does health education improve knowledge and practices regarding BC early detection and screening tools among female teachers in Jazan area schools in health education group more than control group?.
+
+ Effect of Health Education on Female Teachers' Knowledge and Practices Regarding Early Breast Cancer Detection and Screening in the Jazan Area: A Quasi-Experimental Study@highlight
+
+The purpose of this study is to assess the effectiveness of health education in improving the knowledge and practices of female teachers regarding screening tools and the early detection of breast cancer.
+

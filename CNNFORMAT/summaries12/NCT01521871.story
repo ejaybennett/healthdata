@@ -1,0 +1,34 @@
+(fifthQuint)Tissue Glue (Cyanoacrylate) Versus Conventional Suture in Kidney Donors.
+
+ At Oslo University Hospital Rikshospitalet, the principal investigator have since 1998 been involved in developing minimally invasive techniques for living donor nephrectomy (LDN).
+
+ Since 2009 all LDN's have been performed by laparoscopic, hand-assisted technique; by means of 'handport' and 3 laparoscopic ports (5/12 mm).
+
+ The investigators consider use of tissue glue instead of suture as another small step towards less invasive surgery.
+
+ Since 2000 there has been many reports, and even Cochrane reviews on the use/safety of tissue glue for skin closure.
+
+ However, very few randomised studies have been performed with the latest generation tissue glue; Cyanoacrylate, with a critical mixture of octyl-:butyl-acrylate.
+
+ And in Norway there has been no research in this field.
+
+ On this basis, the investigators intend to examine skin closure in living donors, a very healthy/homogenous study population, subjected to laparoscopic, hand-assisted nephrectomy, by a prospective, randomised trial: Tissue glue (Cyanoacrylate (Liquiband)) versus conventional, intracutaneous suture and dressing (1 : 1; 30 + 30 donors).
+
+ Primarily, the investigators will examine wound healing/complications by wound observation at postop.
+
+ days 2 + 4 + 'at departure', with numerical scales for secretion, gaps, edema, rubor - as well as infection/bacteriology and complications/ reinterventions.
+
+ In addition, the donors' self-satisfaction with the wound handling will be registered.
+
+ Furthermore, the investigators will look at time consumption during surgery, price, stay in hospital and cosmesis judged at 2-3 months postoperatively.
+
+.
+
+ Tissue Glue (Cyanoacrylate) Versus Conventional Suture in Kidney Donors@highlight
+
+By means of a prospective, randomised trial the investigators want to examine skin closure in living donors - subjected to laparoscopic, hand-assisted nephrectomy - by tissue glue (Cyanoacrylate (Liquiband)) versus conventional, intracutaneous suture and dressing (1 : 1; 30 + 30 donors).
+
+ Study hypothesis: (i) Latest generation tissue glue (Cyanoacrylate (Liquiband)) is at least as good as conventional suture regarding wound healing/complications.
+
+ (ii) Peroperatively, tissue glue is faster than conventional suture.
+

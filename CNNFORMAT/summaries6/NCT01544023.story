@@ -1,0 +1,26 @@
+(thirdQuint)TiLoop Bra for Breast Reconstruction.
+
+ An alternative to ADM is the usage of a titanium-coated polypropylene mesh (TCPM=TiLOOP(R) Bra), which is approved for breast reconstruction in Europe.
+
+ The surgical approach is identical in comparison to ADM reconstruction and has been described previously.
+
+ This titanium coated lightweight mesh consists of a monofilament structure and was initially invented for hernia repair which has a good biocompatibility.
+
+ Observed cellular reactions like proliferation and apoptosis were at the lowest level when using this lightweight TCPM compared to not titanium-coated meshes (pure polypropylene (PP), pure lightweight PP mesh or PP mesh incorporating resorbable polyglactic acid).
+
+ Histopathological analysis of an intraoperative sample of a TCPM after expander/implant BR demonstrated a well incorporated mesh with only weak inflammatory reactions.
+
+ Preliminary data of in-vitro investigations at the investigators institute confirms the good biocompatibility of this TCPM in distinctive breast tissues (fibroblasts, fat cells, muscle cells) Although meshes are used in a large scale there are no sufficient clinical data regarding safety and outcome.
+
+ In this multicenter study the investigators are able to investigate a large cohort of patients undergoing implant based breast reconstruction using a TCPM.
+
+.
+
+ TiLoop Bra for Breast Reconstruction@highlight
+
+A new approach for single stage implant based breast reconstruction (BR) is the use of a titanium-coated polypropylene mesh (TCPM) as an alternative to acellular dermal matrix (ADM).
+
+ These TCPM have a good biocompatibility and can be used in a similar way as ADM.
+
+ This study addresses indications, limitations and complications of TCPM in implant based breast reconstruction.
+

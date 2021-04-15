@@ -1,0 +1,38 @@
+(thirdQuint)Breath Ammonia Method for H.
+
+ Pylori Detection: Phase II.
+
+ Healthy volunteers will undergo testing for H.
+
+ pylori infection using a 14-C urea breath test, and the results will be compared to an experimental ammonia breath test.
+
+ The breath sample will be collected by an investigational device that the patient will be exposed to consisting of a plastic mouth-piece which is attached to a T-tubing section having a side-arm port through which a fiberoptic ammonia sensor is inserted inside the tube.
+
+ To meet the Phase II specific aim, the scope of the clinical trials is expanded addressing the following specific objectives: - Test refinements of the sensing system (hardware, software, & breath test device) - Determine whether a urea dose-response effect exists following urea ingestion, - Define the optimal cutoff values for expired breath ammonia to allow optimal discrimination of H.
+
+ pylori infected vs.
+
+ uninfected persons.
+
+ - Determine the appropriate time interval for breath ammonia testing following urea ingestion.
+
+ - Determine whether there is a change in breath ammonia level after H.
+
+ pylori treatment.
+
+.
+
+ Breath Ammonia Method for H.
+
+ Pylori Detection: Phase II@highlight
+
+The objective is to evaluate the utility of a breath ammonia sensing device.
+
+ In this study we will assess the effect of H.
+
+ pylori infection on breath ammonia levels by measuring whether there is a change in the pattern or quantity of breath ammonia seen in H.
+
+ pylori positive patients compared to H.
+
+ pylori negative patients.
+

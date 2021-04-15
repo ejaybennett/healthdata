@@ -1,0 +1,18 @@
+(secondQuint)Docetaxel and Gemcitabine With Filgrastim-SD/01 Support in Patients With Advanced Non-Small Cell Lung Carcinoma.
+
+ Docetaxel and Gemcitabine given on day 1 and 8 of a 21-day schedule has substantial activity in non-small cell lung cancer.
+
+ Both first and second-line patients have response rates comparable to or better than other standard combination regimens.
+
+ Grade 3/4 neutropenia occurs in up to half of patients not given growth factor support.
+
+ Studies demonstrate that a single dose of Filgrastim-SF/01 at 100 mg/kg effectively enhances post chemotherapy neutrophil recovery in a manner similar to that of daily Filgrastim.
+
+ This current study is designed to characterize the incidence of grade 3/4 neutropenia when a fixed dose of Filgrastim-SD/01 is added to a well-studied myelosuppressive chemotherapy regimen consisting of Gemcitabine and Docetaxel.
+
+.
+
+ Docetaxel and Gemcitabine With Filgrastim-SD/01 Support in Patients With Advanced Non-Small Cell Lung Carcinoma@highlight
+
+Determine whether patients have a decreased incidence of grade 3 and grade 4 neutropenia when Filgrastim-SD/01 is given with docetaxel and gemcitabine in patients with advanced non-small cell lung cancer.
+

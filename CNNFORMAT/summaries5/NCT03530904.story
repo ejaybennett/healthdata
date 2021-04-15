@@ -1,0 +1,20 @@
+(thirdQuint)Comparison Between Early and Late Mobilization After Cardiac Device Implantation.
+
+ Mobilization after cardiac implantable electronic devices (CIED) implantation is highly variable between centers, some discharging home after 3-4 hours while others request bed restriction for 24 hours.
+
+ Concern about lead dislodgements due to early mobilization are probably not justified.
+
+ Bed restriction may result in considerable inconvinience to the patients.
+
+ Patients will be randomally assigned to early mobilization (after 4 hours) or bed restriction till the morning after the procedure.
+
+ Primary outcome: lead malfunction, patients' satisfaction.
+
+ Comparison Between Early and Late Mobilization After Cardiac Device Implantation@highlight
+
+Mobilization after cardiac implantable electronic devices (CIED) implantation is highly variable between centers, some discharging home after 3-4 hours while others request bed restriction for 24 hours.
+
+ Concern about lead dislodgements due to early mobilization are probably not justified.
+
+ Bed restriction may result in considerable inconvenience to the patients.
+

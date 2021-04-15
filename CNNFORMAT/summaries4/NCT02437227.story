@@ -1,0 +1,30 @@
+(thirdQuint)A Phase I, First in Man Study to Evaluate the Safety and Tolerability of a panRAF Inhibitor (CCT3833/BAL3833)in Patients With Solid Tumours.
+
+ Metastatic malignant melanoma is the 5th most common cancer in the UK, with a notable proportion of young patients.
+
+ The development of immunotherapies (such as Ipilimumab), and targeted therapies (such as Vemurafenib, a BRAF inhibitor) have resulted in improved survival outcomes for patients but is still only measured in months and not years.
+
+ These targeted therapies are also only useful for patients with the relevant genetic mutation, leaving a significant proportion of patients without targeted therapy options.
+
+ The need for more effective (and ideally curative) melanoma treatments remains.
+
+ The Institute of Cancer Research, with funding from the Wellcome Trust, have created and developed a new panel of inhibitors that aim to more effectively terminate the growth, spread and survival signals that sustain the cancer.
+
+ The broader targets allow patients possessing a range of genetic mutations to potentially benefit from this targeted therapy.
+
+ It is hoped that these drugs could be used as both primary therapy for treatmentnaive patients as well as rescue therapy for those who have progressed on other targeted therapies.
+
+ This is a phase 1 study to evaluate the safety and effectiveness of one of these new compounds, CCT 3833, and to define the maximum tolerated dose in patients with advanced melanoma.
+
+ The study also aims to examine the way that CCT3833 works within the body.
+
+ Once the maximum tolerated dose has been established a small number of melanoma patients, with specific mutations and at different treatment option stages, will be treated to gain additional safety information and an initial indication of the possible efficacy of CCT3833 on melanoma tumours.
+
+.
+
+ A Phase I, First in Man Study to Evaluate the Safety and Tolerability of a panRAF Inhibitor (CCT3833/BAL3833)in Patients With Solid Tumours@highlight
+
+The study is a first in man, dose escalation study to evaluate the safety, tolerability and how the drug works in the body in patients with all solid tumours.
+
+ The aim of this study is to determine the most effective dose of the study drug that can then be further investigated in patients with advanced melanoma.
+

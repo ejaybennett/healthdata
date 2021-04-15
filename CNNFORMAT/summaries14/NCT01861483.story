@@ -1,0 +1,12 @@
+(firstQuint)Vessel Resection and Reconstruction of Biliary Tract Cancers.
+
+ The vessel resection and reconstruction of hepatic artery and portal vein in biliary tract cancer surgery is still controversial.
+
+ In this study, we retrospectively evaluate the diagnostic image, pathology, peri-operative events, recurrence, and prognosis in these patients, as a multi-center surveillance.
+
+.
+
+ Vessel Resection and Reconstruction of Biliary Tract Cancers@highlight
+
+To investigate the vessel resection and reconstruction in biliary tract cancer.
+

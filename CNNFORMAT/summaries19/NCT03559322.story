@@ -1,0 +1,13 @@
+(firstQuint)Real World Experiences of the iNAP Lite in OSA Adults in Taiwan.
+
+ Obstructive sleep apnea (OSA) impacts sleep quality of patients, which contributes significantly to hypertension, stroke, myocardial infarction and other health problems.
+
+ Intraoral devices, such as tongue retaining devices, palatal lifting devices and mandibular repositioning devices designed to increase the patency of the airway and to decrease airway obstruction, are used to treat OSA.
+
+ To this end, we are conducting a prospective, observational, post-market surveillance study to evaluate the long-term safety and efficacy of the iNAP(R) Lite sleep therapy system (iNAP(R) Lite), a tongue and soft palate retaining intraoral device, in adults with OSA.
+
+.
+
+ Real World Experiences of the iNAP Lite in OSA Adults in Taiwan@highlight
+
+A Prospective, Observational, Post-market Surveillance Study to Evaluate the Long-term Safety and Efficacy of the iNAP(R) Lite Sleep Therapy System in Adults with Obstructive Sleep Apnea

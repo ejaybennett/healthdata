@@ -1,0 +1,18 @@
+(thirdQuint)Study of High Dose Vitamin C On Outcome in Cardiac Surgery Patients.
+
+ Patients undergoing cardiac surgery are at significant risk for multiple major complications beyond those associated with other major operations.
+
+ Most patients survive these events, but up to 10% develop injury to organ systems including the kidneys, lungs, pancreas, brain, etc.
+
+ It has been shown that the stress that occurs during this critical period (cardiac surgery) leads to early decrease of many of the body's resources such as Vitamin C (ascorbic acid) which seem to contribute to these complications.
+
+ This study will investigate the effects of high doses of intravenous (IV) Vitamin C administered before, during and after the cardiac surgery.
+
+.
+
+ Study of High Dose Vitamin C On Outcome in Cardiac Surgery Patients@highlight
+
+It has been shown that the stress that occurs during cardiac surgery leads to early decrease of many of the body's resources such as Vitamin C (ascorbic acid) which may contribute to complications after surgery.
+
+ This study will investigate the effects of high doses of intravenous (IV) Vitamin C on the outcome and complications after cardiac surgery.
+

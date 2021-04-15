@@ -1,0 +1,20 @@
+(thirdQuint)Lifestyle Modification and Potato Consumption.
+
+ Our primary objective is to compare the effects of potato consumption to those of commonly consumed carbohydrate sources on glucose tolerance and other cardiometabolic risk factors in overweight and obese, glucose intolerant men and women participating in a lifestyle intervention program.
+
+ We hypothesize that consumption of potatoes is a healthy adjunct to lifestyle intervention in overweight and obese glucose intolerant adults.
+
+ Our specific aims include: (1) to evaluate of the effects of the consumption of potatoes (high or low resistant starch) vs.
+
+ commonly consumed carbohydrate sources on glucose tolerance; and (2) to determine the extent to which potato consumption alters markers of lipid metabolism and inflammation in the context of a lifestyle intervention program.
+
+.
+
+ Lifestyle Modification and Potato Consumption@highlight
+
+The investigators hypothesize that consumption of potatoes is a healthy adjunct to lifestyle intervention in overweight and obese glucose intolerant adults.
+
+ We will evaluate the effects of the consumption of potatoes (high or low resistant starch) vs.
+
+ commonly consumed carbohydrate sources on glucose tolerance; and ( the extent to which potato consumption alters markers of lipid metabolism and inflammation in the context of a lifestyle intervention program.
+

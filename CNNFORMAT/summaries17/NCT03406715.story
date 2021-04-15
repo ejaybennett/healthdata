@@ -1,0 +1,34 @@
+(thirdQuint)Combination Immunotherapy-Ipilimumab-Nivolumab-Dendritic Cell p53 Vac - Patients With Small Cell Lung Cancer (SCLC).
+
+ During the Induction Immunotherapy phase (4 x 21 day cycles) of the study, participants will receive Ipilimumab and Nivolumab on Day 1 of each cycle for 4 cycles.
+
+ Participants will receive the p53 vaccine on Days 1 and 15 of cycle 1 and then again on Day 8 of Cycle 2.
+
+ Beginning on Day 1 of Cycle 5 participants will start Maintenance Immunotherapy.
+
+ During this phase of the study, participants will receive Nivolumab only on Day 1 of every 4 week period.
+
+ Participants will also receive the p53 vaccine three additional times (every 4 weeks over a 12 week period).
+
+ During Maintenance Immunotherapy you will continue to receive Nivolumab only on Day 1 of each additional 4 week period that you take part until your disease progresses.
+
+ The Retreatment phase of the study may be available to participants whose doctor feels they would benefit from retreatment and if they qualify for this retreatment.
+
+ During retreatment, participants would receive the combination of Ipilimumab and Nivolumab or Nivolumab alone every three weeks for a maximum of one additional year.
+
+ P53 Vaccine production The p53 vaccine will be made by inserting the p53 gene (a gene is a hereditary unit of all living organism within a cell) into a subset of the participant's own white blood cells.
+
+ The insertion of the gene into their white blood cells will occur in the laboratory, after their cells have been extracted from their body through a procedure called leukopheresis (similar to dialysis).
+
+.
+
+ Combination Immunotherapy-Ipilimumab-Nivolumab-Dendritic Cell p53 Vac - Patients With Small Cell Lung Cancer (SCLC)@highlight
+
+The purpose of this study is to find out what effects (good and bad) immunotherapy treatment using the p53 vaccine (Ad.
+
+p53-DC) in combination with Nivolumab and Ipilimumab has on small cell lung cancer.
+
+ Immunotherapy is a cancer therapy that uses the body's immune system to fight cancer cells.
+
+ This study can be divided into three different phases: initial Induction Immunotherapy, Maintenance Immunotherapy and Retreatment.
+

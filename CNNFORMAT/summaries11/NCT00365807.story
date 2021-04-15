@@ -1,0 +1,22 @@
+(secondQuint)Examination of a Treatment Program for Overweight Children, Adolescents, and Their Families.
+
+ The primary objective of the present investigation was to determine the effectiveness of an empirically supported intervention for pediatric overweight in two outpatient clinical settings.
+
+ A number of previous randomized clinical trials have demonstrated the efficacy of behaviorally-based group interventions for overweight children and their families.
+
+ As called for by Kazdin and Weisz (1998) and Chambless and Hollon (1998) the proposed investigation was designed to demonstrate the effectiveness of such a treatment in a clinical setting, and to examine the effects of the intervention on children's quality of life (QOL).
+
+ Because the clinical impact of empirically supported interventions is mitigated by economic and consumer variables, a secondary aim of the proposed investigation was to examine (1) the cost-effectiveness of an outpatient group intervention for pediatric obesity, and (2) the consumer satisfaction with the proposed intervention.
+
+ Finally, an additional exploratory aim was to examine predictors of adherence to treatment for the intervention.
+
+.
+
+ Examination of a Treatment Program for Overweight Children, Adolescents, and Their Families@highlight
+
+The current study examined the effectiveness of a behaviorally-based group intervention for overweight children and their families.
+
+ The target intervention was compared to an enhanced standard of care treatment.
+
+ The impact of both treatment programs on numerous outcomes was explored.
+

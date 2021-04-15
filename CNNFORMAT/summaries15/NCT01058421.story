@@ -1,0 +1,34 @@
+(fifthQuint)Treatment of Critical Illness Polyneuromyopathy.
+
+ Acute respiratory failure is a heterogeneous disorder that results in more than 300,000 Americans requiring admission to an intensive care unit for invasive mechanical ventilatory support each year.
+
+ Though acute respiratory failure is a pulmonary disorder, patients who survive are not limited by respiratory symptoms after discharge.
+
+ Rather persistent neuromuscular weakness is the primary disorder that adversely affects their quality of life and ability to function on a daily basis.
+
+ Weakness in these survivors is related to the development of critical illness polyneuromyopathy (CIPNM).
+
+ Presently, there are no therapies to treat the estimated 110,000 acute respiratory failure survivors who have developed CIPNM each year.
+
+ Based on the results of our national surveys of physical therapists and intensive care physicians, the utilization and types of physical therapy for patients recovering from acute respiratory failure with neuromuscular weakness varies significantly depending on the type of hospital and primary diagnosis of the patient.
+
+ The investigators plan to perform a randomized clinical trial to determine the effectiveness of an intensive four week physical therapy program for patients with acute respiratory failure.
+
+ This trial will determine the efficacy of the physical therapy programs that is currently performed in a non-evidence based manner for patients with acute respiratory failure across the United States.
+
+ If successful, this study will pave the way for a larger multi-center clinical trial of intensive physical therapy for survivors of acute respiratory failure.
+
+.
+
+ Treatment of Critical Illness Polyneuromyopathy@highlight
+
+Acute respiratory failure is a heterogeneous disorder that results in more than 300,000 Americans requiring admission to an intensive care unit for invasive mechanical ventilatory support each year.
+
+ Though acute respiratory failure is a pulmonary disorder, patients who survive their hospitalization are not limited by respiratory symptoms after discharge.
+
+ Rather persistent neuromuscular weakness is the primary disorder that adversely alters their quality of life and ability to function on a daily basis.
+
+ In this application the investigators plan to conduct a randomized clinical trial called the Do It Now study (Diagnosis and Treatment of Neuromuscular Weakness) to determine the effectiveness of an intensive physical therapy program for patients recovering from acute respiratory failure.
+
+ This trial will establish the efficacy of the physical therapy programs that is currently performed for patients with acute respiratory failure in a non-evidence based manner across the United States.
+

@@ -1,0 +1,17 @@
+(firstQuint)Efficacy and Safety Profiles of Combination Sedation Propofol With Midazolam and Meperidine.
+
+.
+
+ ERCP is commonly done under sedation with midazolam and meperidine, however some studies showed varying outcomes of this conventional sedation for maintained sedation.
+
+ Propofol is increasing used for sedation in gastrointestinal procedure owing to its rapid recovery profiles but the complications associated with propofol are not negligible.
+
+The investigators prospectively compare the efficacy, induction time, recovery time, patient satisfaction and side effect between propofol based and conventional sedations in patients undergoing ERCP.
+
+.
+
+ Efficacy and Safety Profiles of Combination Sedation Propofol With Midazolam and Meperidine.
+
+@highlight
+
+The purpose of this study is to compare efficacy and safety of combination of propofol and midazolam with meperidine versus midazolam and meperidine for ambulatory ERCP

@@ -1,0 +1,24 @@
+(thirdQuint)Plasticity-based Adaptive Cognitive Remediation for Alzheimer Disease.
+
+ The normal aging has a devastating effect on our cognitive ability to learn and remember, on the speed with which the investigators process information, and on our ability to reason.
+
+ By 2050, nearly 14 million individuals in the US will be living with Alzheimer's disease (AD), up from 5 million in 2013.
+
+ AD is the most common cause of dementia, resulting in the loss of cognitive functions such as memory, reasoning, language, and cognitive, social, physical, and emotional control, to the extent that losses interfere with activities of daily living and necessitate continuous monitoring and care.
+
+ Many studies now show that the processing machinery of the brain is plastic and remodeled throughout life by learning and experience, enabling the strengthening of cognitive skills or abilities.
+
+ Research has shown that brief, daily computerized cognitive training that is sufficiently challenging, goal-directed and adaptive enables intact brain structures to restore balance in attention and compensate for disruptions in cognitive functioning.
+
+ The study aims to understand how our computer program can affect cognition and attention in those with aging brain.
+
+.
+
+ Plasticity-based Adaptive Cognitive Remediation for Alzheimer Disease@highlight
+
+The primary objective of this study is to evaluate the effects of the experimental treatment (cognitive training) further outlined in this protocol on the cognitive abilities (e.
+
+g.
+
+, processing speed, attention, working memory, and executive function), brain functionality, functional status and quality of life of individuals with age-related cognitive decline as compared to a computer-based active control.
+

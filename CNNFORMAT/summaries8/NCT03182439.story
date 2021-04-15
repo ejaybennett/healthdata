@@ -1,0 +1,30 @@
+(secondQuint)Accuracy of Commercially Available Heart Rate Monitors III.
+
+ This study will assess the accuracy of four of the best-selling optical heart rate monitors when worn by cardiac rehabilitation patients.
+
+ During testing, each subject will wear: 1.
+
+ Two different optical heart rate monitors (one on each wrist) 2.
+
+ A Polar chest-strap based monitor 3.
+
+ ECG leads The types of wrist-worn heart rate monitors assigned to each subject will be randomly assigned.
+
+ The location (left or right wrist) will also be randomly assigned.
+
+ Heart rate will be assessed using each of the 4 monitors with the subject on the exercise machines under each of the following conditions: 1.
+
+ Pre-exercise 2.
+
+ Treadmill: at 3, 5 and 7 min.
+
+ 3.
+
+ Stationary Cycle: at 3, 5 and 7 min.
+
+.
+
+ Accuracy of Commercially Available Heart Rate Monitors III@highlight
+
+The objective of this study is to evaluate the accuracy of four heart rate monitors in cardiac rehabilitation patients during typical, supervised cardiac rehabilitation involving exercise on a treadmill and/or stationary bicycle.
+

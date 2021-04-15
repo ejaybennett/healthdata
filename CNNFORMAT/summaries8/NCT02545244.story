@@ -1,0 +1,26 @@
+(thirdQuint)Effectiveness of Black Tea Mouthwash on Plaque Formation.
+
+ The study titled "Effectiveness of Black Tea Mouthwash on Plaque formation: A Randomized Controlled Clinical Trial" conducted at Department of Periodontics,during February 2015 till July 2015 included three interventional arms with 15 subjects each who had chronic generalized plaque-induced gingivitis.
+
+ All subjects underwent scaling and randomly allocated into three groups as Black tea,Green tea and Chlorhexidine.
+
+ Those in black tea, green tea and Chlorhexidine groups advised to rinse with 0.
+
+5% Black tea, 0.
+
+5% green tea and 0.
+
+12% Chlorhexidine aqueous based solutions for 30 seconds twice daily half an hour after brushing teeth respectively.
+
+ Gingival Index (Loe and Silness 1963) and Plaque Index (Silness and Loe, 1964) recorded at baseline and 2 weeks after intervention in all subjects.
+
+ Results were analyzed using SPSS Statistical software version 20.
+
+.
+
+ Effectiveness of Black Tea Mouthwash on Plaque Formation@highlight
+
+The study was conducted to measure the effectiveness of Black Tea in reducing the deposits on teeth.
+
+ It also compares the effect between use of black tea mouthwash and green tea mouthwash to that of chlorhexidine in reducing plaque deposition on teeth in a two weeks long clinical trial among adults of 18-40 years of age.
+

@@ -1,0 +1,22 @@
+(firstQuint)First in Man Aer-O-Scope.
+
+ A clinical study in Zagreb Croatia, intended to evaluate the Aer-O-Scope Colonoscope System.
+
+ The study includes 120 subjects and has the following endpoints: Evaluation of the Aer-O-Scope advancement, imaging and retraction throughout the Colon.
+
+ Safety: No occurrence of any device related major adverse event (for details see section 9.
+
+5) Efficacy: 1.
+
+ Advancement of device towards the ceacum and retraction 2.
+
+ Visualization of the colon mucosa by the traveling imaging device 3.
+
+ Procedure duration 4.
+
+ Handling and operation (assessment by operator).
+
+ First in Man Aer-O-Scope@highlight
+
+A single center study intended to evaluate the Aer-O-Scope Colonoscope System.
+

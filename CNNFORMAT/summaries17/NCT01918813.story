@@ -1,0 +1,34 @@
+(fifthQuint)Risk of Methicillin-resistant S.
+
+Aureus (MRSA) Infections in MRSA Carrier Under Introduction of Rapid MRSA Screening.
+
+ Target screening for nasal carriage of MRSA by polymerase chain reaction (PCR) was performed before or on admission.
+
+ In order to identify MRSA nasal acquisition while on the ward, all patients who were negative before surgery were re-screened every 7 days until discharge.
+
+ The inclusion criteria for screening were patients undergoing inflammatory bowel disease surgery on ward A, and those undergoing major hepato-biliary-pancreatic surgery on ward B.
+
+ Investigators classified enrolled patients into preoperative MRSA nasal carriage, postoperative nasal acquisition in patients who were negative for PCR assay before surgery, and non-nasal MRSA carriage during hospitalization.
+
+ Development of postoperative infections caused by MRSA was assessed according to the nasal MRSA carriage status.
+
+ MRSA infections rate was also compared between the 2-years of the intervention period and the previous 2-year control period on each ward.
+
+ Control measures in identified MRSA carriers consisted of contact precautions, antibiotic prophylaxis with a single dose of vancomycin 1g in addition to cephalosporins, and topical decolonization of MRSA (application of 2% mupirocin ointment twice daily to nares for 5 days and a bath with 4% chlorhexidine daily for 3-5 days).
+
+ Although contact precautions were used when caring for MRSA-colonized patients, isolation/cohorting was not routinely practiced.
+
+.
+
+ Risk of Methicillin-resistant S.
+
+Aureus (MRSA) Infections in MRSA Carrier Under Introduction of Rapid MRSA Screening@highlight
+
+This study was designed to evaluate the effect of a targeted preoperative Methicillin-resistant Staphylococcus aureus (MRSA) detection by polymerase chain reaction (PCR) on either endogenous or exogenous postoperative MRSA infections in a high risk population undergoing gastroenterological surgery.
+
+ The primary endpoint was to investigate whether the potentially high incidence of MRSA infections in patients with MRSA nasal colonization before surgery can be prevented with a PCR-based strategy.
+
+ The second endpoint was to investigate the impact of acquisition of MRSA colonization after surgery on the occurrence of MRSA infections.
+
+ Investigators hypothesize that postoperative MRSA infection is prevented by a targeted screening strategy in preoperative MRSA carrier, and there is limited effect in patients with postoperative MRSA acquisition.
+

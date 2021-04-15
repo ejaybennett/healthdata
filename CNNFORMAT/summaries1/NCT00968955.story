@@ -1,0 +1,16 @@
+(thirdQuint)Effect of Local Infiltration Analgesia in Total Hip Arthroplasty.
+
+ In spite of being one of the last century's most successful surgical procedures in treatment of advanced osteoarthritis total hip arthroplasty is still associated with postoperative pain and delayed rehabilitation.
+
+ We therefore decided to evaluate the effects of per-operative local infiltration analgesia with ropivacaine 0,2 % (150 ML) versus placebo on acute postoperative pain intensity in a well defined, multimodal, fast-track setup after hip arthroplasty.
+
+ The technique is widely used as standard treatment in many European centers despite its limited evidence.
+
+.
+
+ Effect of Local Infiltration Analgesia in Total Hip Arthroplasty@highlight
+
+The purpose of the study is to compare the effects of per-operative local infiltration analgesia with ropivacaine 0,2 % (150 ML) versus placebo on acute postoperative pain intensity after total hip arthroplasty.
+
+ The hypothesis is that local infiltration analgesia reduces the acute postoperative pain intensity.
+

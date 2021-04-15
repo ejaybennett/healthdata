@@ -1,0 +1,62 @@
+(fifthQuint)IBUPAP Study for Pain Management in Children.
+
+ The investigators' hypothesize the combination of oral ibuprofen and acetaminophen (APAP) is superior to either analgesic alone plus placebo for pediatric emergency department patients with acute mild to moderate traumatic/non-traumatic pain 1.
+
+ Intent to Treat, prospective, randomized, double-blind trial.
+
+ 2.
+
+ Primary outcome: Pain reduction via NRS/FACES pain scale at times 0 and 60 minutes from administration of medication(s).
+
+ Secondary outcomes: Antipyretic effects, level of analgesia achieved with each patient diagnosis(es), incidence and type of adverse effect(s), and patients' and parents' satisfaction with achieved level of analgesia.
+
+ 3.
+
+ Population : ages 3 - 17.
+
+ Sample size 90 patients (30 per arm).
+
+ Group 1: oral ibuprofen at 10mg/kg dose and placebo of equal volume; Group 2: oral APAP at 15 mg/kg dose and placebo of equal volume; and, Group 3: oral ibuprofen at 10 mg/kg dose and APAP at 15mg/kg dose.
+
+ 4.
+
+ Location: Urban tertiary care hospital Pediatric ED with 40,000 annual departmental visits.
+
+ 5.
+
+ Duration of Enrollment: 1 year from commencement of the study.
+
+ 6/7.
+
+ Patients will be enrolled and randomized upon triage by an assigned nurse dedicated to the study into one of three groups by using a blocks-randomization scheme for every 15 patients maintained by the ED pharmacists.
+
+ 8.
+
+ For patients experiencing breakthrough pain, oral morphine sulfate at 0.
+
+2mg/kg will be provided.
+
+ Group 1: oral ibuprofen at 10 mg/kg dose and placebo of equal volume; Group 2: oral APAP at 15 mg/kg dose and placebo of equal volume; and, Group 3: oral ibuprofen at 10 mg/kg dose and APAP at 15mg/kg dose.
+
+ Medications including placebo will be given via prefilled syringes of identical volume, color and flavor.
+
+ Level of analgesia will be assessed at times 0 and 60 minutes from administration of medication(s).
+
+ All enrolled patients, health care practitioners, and research associates will be blinded to the study medication(s) given and to the allocation sequence.
+
+ Pharmacist(s) who are aware of the study medication(s) will not enroll patients.
+
+ The allocation sequence code will only be revealed to the researchers once recruitment, data collection, and data entry are completed.
+
+.
+
+ IBUPAP Study for Pain Management in Children@highlight
+
+Current literature supports ibuprofen and APAP are the most commonly used analgesics in the pediatric ED for acute mild to moderate traumatic/non-traumatic pain.
+
+ However, the analgesic benefits of combination ibuprofen and APAP in this specific setting does not exist, but instead only as it applies to pediatric patients with postoperative pain.
+
+ Thus, we have designed a double-blind, randomized, controlled clinical trial to evaluate analgesic efficacy, safety and feasibility of combination therapy to potentially broaden its clinical application in the pediatric ED.
+
+ The investigators' hypothesize that combination oral ibuprofen and APAP therapy is superior to either drug alone and is an excellent analgesic modality for controlling acute mild to moderate traumatic/non-traumatic pain in the pediatric ED.
+

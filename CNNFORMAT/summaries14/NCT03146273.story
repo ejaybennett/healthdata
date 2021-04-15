@@ -1,0 +1,25 @@
+(firstQuint)Study of Absorption Characteristics of Two Multivitamin Mineral Formulations (Gel vs.
+
+ Tablet/Capsule).
+
+ This clinical study is designed to evaluate difference in the AUC of the absorption of Multivitamin and minerals: 1.
+
+ Tablet/capsule administration - up to 20 healthy volunteers will be recruited to the study.
+
+ The tablet/capsule will be administered as a single dose after 12 hours of fasting.
+
+ The participants will be monitored during 6 hours for the level of minerals and Multivitamin minerals in the blood, adverse events and vital signs.
+
+ 2.
+
+ Gel administration - the gel will be administrated to the same group of patients in the single dose after 12 hours of fasting.
+
+ The participants will be monitored during 6 hours for the level of minerals and Multivitamin minerals in the blood, adverse events and vital signs.
+
+.
+
+ Study of Absorption Characteristics of Two Multivitamin Mineral Formulations (Gel vs.
+
+ Tablet/Capsule)@highlight
+
+This clinical study is designed to evaluate difference in the AUC of the absorption of Multivitamin and minerals defined in the protocol

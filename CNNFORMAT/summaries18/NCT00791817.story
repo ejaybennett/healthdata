@@ -1,0 +1,16 @@
+(firstQuint)Study to Evaluate Potential Food Effects.
+
+ A food-effect study which will be conducted at any time during the MRD study period on one single cohort of subjects using 200 mg oral dose of PG 760564.
+
+ Half the group will be given a high fat diet and the other half will fast.
+
+ They will ten be crossed over.
+
+.
+
+ Study to Evaluate Potential Food Effects@highlight
+
+Half the group will be given a high fat diet and the other half will fast.
+
+ They will then be crossed over.
+

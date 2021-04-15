@@ -1,0 +1,14 @@
+(firstQuint)Study Evaluating the Association of Antibiotic Measures and Control of Bacterial Resistance.
+
+ Primarily, this study is designed to assess the efficacy of piperacillin/tazobactam in reducing the cases of colonization and infection of extended-spectrum betalactamases (ESBLs) producing E.
+
+coli or K pneumoniae, S aureus methicillin resistant (MRSA) and Enterococcus vancomycin resistant (VRE).
+
+ Secondly, this study plans to determine the acquisition rate of ESBL producing E Coli or K pneumoniae, methicillin resistant S Aureus (MRSA) and vancomycin resistant Enterococcus spp (VRE), both pre- and post-intervention.
+
+.
+
+ Study Evaluating the Association of Antibiotic Measures and Control of Bacterial Resistance@highlight
+
+Assess efficacy of piperacillin/tazobactam in reducing the cases of colonization and infection of bacteria.
+

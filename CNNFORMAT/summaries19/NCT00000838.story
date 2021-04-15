@@ -1,0 +1,28 @@
+(fifthQuint)Antiviral Activity of and Resistance to Lamivudine in Combination With Zidovudine, Stavudine, or Didanosine.
+
+ 3TC may be uniquely effective in combination with AZT due to the interaction of AZT and 3TC resistance mutations.
+
+ One explanation is that the M184V mutation, which confers resistance to 3TC, suppresses AZT resistance.
+
+ This benefit of 3TC may not extend to combination therapy with other nucleoside analogs.
+
+ Patients are randomized to either a ddI limb or d4T limb, then randomized a second time to one of six treatment arms, as follows: ddI alone, d4T alone, 3TC/AZT (on both ddI and d4T limbs), 3TC/ddI, and 3TC/d4T.
+
+ Treatment is given for 48 weeks.
+
+ At study week 24, patients on monotherapy will have 3TC added to their regimen (in a blinded fashion).
+
+ PER AMENDMENT 10/18/96: A treatment extension phase has been added to the study design in order to allow subjects who complete 48 weeks of therapy to remain on their same blinded treatment until approximately 2 months after the last enrolled subject completes 48 weeks on the study.
+
+.
+
+ Antiviral Activity of and Resistance to Lamivudine in Combination With Zidovudine, Stavudine, or Didanosine@highlight
+
+To evaluate the efficacy, safety, and pharmacokinetics of lamivudine (3TC) combined with zidovudine (AZT), stavudine (d4T), or didanosine (ddI) in comparison with d4T or ddI monotherapy in HIV-infected patients with no prior nucleoside therapy.
+
+ 3TC may be uniquely effective in combination with AZT due to the interaction of AZT and 3TC resistance mutations.
+
+ One explanation is that the M184V mutation, which confers resistance to 3TC, suppresses AZT resistance.
+
+ This benefit of 3TC may not extend to combination therapy with other nucleoside analogs.
+

@@ -1,0 +1,36 @@
+(secondQuint)BMS-599626 in Treating Patients With Metastatic Solid Tumors.
+
+ OBJECTIVES: Primary - Determine the maximum tolerated dose, biologically active dose, and recommended phase II dose(s) of BMS-599626 in patients with metastatic HER2/neu-overexpressing primary solid tumors.
+
+ Secondary - Determine the safety and tolerability of this drug in these patients.
+
+ - Determine the pharmacokinetics of this drug in these patients.
+
+ - Determine the effect of this drug on biomarkers and predictive markers of HER1 and HER2 in skin and tumor in these patients.
+
+ - Evaluate tumor metabolic activity in response to this drug in these patients.
+
+ - Determine, preliminarily, evidence of anti-tumor activity of this drug in these patients.
+
+ OUTLINE: This is an open-label, dose-escalation, multicenter study.
+
+ Patients receive oral BMS-599626 once daily on days 1-21.
+
+ Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Cohorts of 3-6 patients receive escalating doses of BMS-599626 until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 6 patients experience dose-limiting toxicity.
+
+ Once the MTD is determined, 20 patients are treated at that dose level.
+
+ PROJECTED ACCRUAL: Approximately 3-60 patients will be accrued for this study within 1 year.
+
+.
+
+ BMS-599626 in Treating Patients With Metastatic Solid Tumors@highlight
+
+RATIONALE: BMS-599626 may stop the growth of tumor cells by blocking the enzymes necessary for their growth.
+
+ PURPOSE: This phase I trial is studying the side effects and best dose of BMS-599626 in treating patients with metastatic solid tumors.
+

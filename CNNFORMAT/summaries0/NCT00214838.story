@@ -1,0 +1,12 @@
+(firstQuint)An Open-Label Study of the Safety and Efficacy of Atiprimod Treatment for Patients With Advanced Cancer.
+
+ The primary objectives of this study are to identify the maximum tolerated dose(MTD) and to evaluate safety of atiprimod in patients with advanced cancer.
+
+ The secondary objectives of this study are 1) to measure the pharmacokinetics of atiprimod and 2) to evaluate the efficacy of atiprimod treatment in patients with advanced cancers and 3) to compare the pharmacokinetics of atiprimod tablets and capsules at the starting dose, with the intent of switching to capsules for the dose escalation if the capsules pose no safety issues.
+
+.
+
+ An Open-Label Study of the Safety and Efficacy of Atiprimod Treatment for Patients With Advanced Cancer@highlight
+
+The primary objectives of this study are to identify the maximum tolerated dose and to evaluate safety of atiprimod in patients with advanced cancer.
+

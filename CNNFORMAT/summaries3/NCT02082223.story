@@ -1,0 +1,12 @@
+(firstQuint)Individualized Preoperative Rehabilitation Pilot.
+
+ Our overall goal is to investigate if pre-operative interventions can address patients' and patients' care givers quality of life/resilience deficits and thus improve outcomes.
+
+ This initial pilot study will test the feasibility of offering patients and their care givers prehabilitation interventions prior to complex gastrointestinal surgery such as pancreatectomy, esophagectomy, proctectomy, or hepatectomy.
+
+.
+
+ Individualized Preoperative Rehabilitation Pilot@highlight
+
+A pilot to test feasibility of improving patient/caretaker quality of life and resilience.
+

@@ -1,0 +1,13 @@
+(firstQuint)Genetic Variation in Organic Cation Transport 1 (OCT1) and Its Significance for Morphine Pharmacokinetics.
+
+ The purpose of the experiment is to investigate the effect of known genetic variants in organic cation transporter 1 (OCT1) on the effect of morphine after major surgery.
+
+ This is primarily done by investigating systemic exposure of morphine in a cohort of patients undergoing scheduled laparoscopic colon or laparoscopic rectum surgery, and as pain treatment with intravenous (iv) morphine at the end of and after surgery (primary endpoints).
+
+ As a secondary endpoint, we will investigate the effect (pharmacodynamics) of morphine in the same patients by registering pain during rest and activity, side effects and the degree of sedation at appropriate time intervals.
+
+.
+
+ Genetic Variation in Organic Cation Transport 1 (OCT1) and Its Significance for Morphine Pharmacokinetics@highlight
+
+The main objective of the trial is to investigate the effect of known genetic variants in organic cation transporter 1 (OCT1) on the effect of morphine after major surgery

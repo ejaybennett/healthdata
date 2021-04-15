@@ -1,0 +1,18 @@
+(firstQuint)Evaluation of Compression Therapy in Patients With Mild to Moderate PAD or Diabetes Mellitus.
+
+ Aim of this prospective clinical study is the Evaluation of the Effect of Compression Therapy on the Microcirculation in Patients With Leg Edema and Mild to Moderate PAD or Diabetes Mellitus.
+
+ The microcirculation should be assessed by a combination of laserdoppler flowmetry and white light tissue spectrometry (O2C Device, Parameters sO2, Flow, rHb).
+
+ By this, it is possible to detect the influence of the compression therapy on the skin microcirculation.
+
+ Therefore, three study arms should be investigated, all patients clinically suffering under leg edema: healthy volunteers, patients with mild to moderate PAD and diabetics.
+
+ All patients are recieveing compression therapy (Compression stockings class I for three hours, after a short break compression stockings class II for 3 hours) under Perfusion assessment control (O2C device).
+
+.
+
+ Evaluation of Compression Therapy in Patients With Mild to Moderate PAD or Diabetes Mellitus@highlight
+
+Aim of this prospective clinical study is the Evaluation of the Effect of Compression Therapy on the Microcirculation in Patients With Leg Edema and Mild to Moderate PAD or Diabetes Mellitus.
+

@@ -1,0 +1,40 @@
+(secondQuint)A Study of Pazopanib With CAPEOX in AGC Patients.
+
+ Despite improvements in the early diagnosis of gastric cancer, many patients present with inoperable disease and an effective, novel combination treatment is urgently needed for these patients population.
+
+ A recent meta-analysis demonstrated that chemotherapy improves survival for patients with advanced gastric cancer compared with best supportive care alone [hazard ratio (HR) 0.
+
+39, 95% confidence interval (CI) 0.
+
+28-0.
+
+52] and that combination chemotherapy is superior to monotherapy (HR 0.
+
+83, 95% CI 0.
+
+74-0.
+
+93) (Wagner et al.
+
+, 2006).
+
+ For advanced gastric cancer, 5-FU in combination with cisplatin (FP regimen) is commonly used reference regimen, which are successfully replaced by capecitabine and oxaliplatin in recent phase III trial (Cunningham et al.
+
+, 2008; Okines et al.
+
+, 2009).
+
+ In phase II trial, CAPEOX (capecitabine combined with oxaliplatin) regimen also showed promising activity for the metastatic gastric cancer (Park et al.
+
+, 2006; Park et al.
+
+, 2008).
+
+ In order to improve survival of metastatic gastric cancer patients, various clinical trials incorporated novel molecularly targeted agent in combination with the reference arm.
+
+.
+
+ A Study of Pazopanib With CAPEOX in AGC Patients@highlight
+
+In order to improve survival of metastatic gastric cancer patients, we plan to to conduct a phase II trial of CapeOx with 800 mg once-daily pazopanib as a first-line chemotherapy in metastatic gastric cancer patients.
+

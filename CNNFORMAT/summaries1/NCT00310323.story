@@ -1,0 +1,12 @@
+(secondQuint)Hepatic Drug Biotransformation in Children With Obstructive Sleep Apnea.
+
+ The purpose of this study is to determine the effect of chronic intermittent nocturnal hypoxia on selected hepatic drug-metabolizing enzyme systems in children with OSAS.
+
+ The specific aims are to evaluate the activities of cytochrome P450 (CYP)1A2, N-acetyltransferase-2 (NAT-2), xanthine oxidase (XO)and CYP2D6 in children with OSAS and to determine the effect of OSAS treatment on the activities of these enzyme systems.
+
+.
+
+ Hepatic Drug Biotransformation in Children With Obstructive Sleep Apnea@highlight
+
+The purpose of this research study is to determine the effect of chronic nighttime low oxygen saturations on selected body systems (liver) that break down drugs in children with obstructive sleep apnea syndrome (OSAS).
+

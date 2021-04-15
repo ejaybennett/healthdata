@@ -1,0 +1,38 @@
+(fifthQuint)LACTIN-V Study for Recurrent Bacterial Vaginosis.
+
+ This is a Phase II-b multicenter randomized double-blind placebo-controlled trial to assess the efficacy of repeated doses of LACTIN-V compared to placebo in preventing BV recurrence in women diagnosed with BV.
+
+ The study will also assess the safety of LACTIN-V by comparing the incidence of AEs between women randomized to LACTIN-V or placebo.
+
+ The study plans to enroll 228 non-pregnant, pre-menopausal women age 18 to 45 years.
+
+ Women will be randomized 2:1 to receive LACTIN-V or placebo.
+
+ Potentially eligible women will start a standard 5-day course of MetroGel.
+
+ Women will return to the study clinic within 2 days after completing the 5-day course of MetroGel to re-evaluate eligibility criteria and review the BV test results from the screening visit.
+
+ Women with Amsel criteria > /=3 and Nugent score 4-10 will be instructed to administer the LACTIN-V or placebo at home for 5 consecutive days and then twice weekly for 10 weeks.
+
+ The primary objectives of this study are: 1) To estimate the efficacy of repeated doses of LACTIN-V (2 x109 cfu/dose) as compared to placebo in preventing BV recurrence by 12 weeks following treatment of BV with MetroGel vaginal gel (MetroGel).
+
+ 2) To assess the safety of LACTIN-V over 24 weeks by comparing the incidence of AEs between individuals randomized to LACTIN-V or placebo.
+
+ Secondary objectives are: 1) To investigate the colonization of LACTIN-V (presence of L.
+
+ crispatus CTV-05 in the vaginal specimen) and fluctuations over 12 weeks, in relation to menses and sexual intercourse 2) To evaluate user acceptability and tolerability of LACTIN-V over 12 weeks, including perceptions around method of delivery and dosing.
+
+ 3) To measure long-term colonization of LACTIN-V at 24 weeks (12 weeks after last dosing) 4) To estimate the long-term efficacy of repeated doses of LACTIN-V (2 x 109 cfu/dose) as compared to placebo in preventing BV recurrence at 24 weeks (12 weeks after last dosing).
+
+ LACTIN-V Study for Recurrent Bacterial Vaginosis@highlight
+
+This Phase 2b trial is designed to provide a screening evaluation for the hypothesis that, following a 5-day treatment with MetroGel(R) to treat BV, L.
+
+ crispatus CTV-05 (LACTIN-V, Osel, Inc.
+
+) administered at 2 x 10^9 cfu/dose using a vaginal applicator reduces the 12-week incidence of BV recurrence when compared to placebo.
+
+ The primary objectives of this study are: 1) To estimate the efficacy of repeated doses of LACTIN-V (2 x 10^9 cfu/dose) as compared to placebo in preventing BV recurrence by 12 weeks following treatment of BV with MetroGel vaginal gel (MetroGel).
+
+ 2) To assess the safety of LACTIN-V over 24 weeks by comparing the incidence of AEs between individuals randomized to LACTIN-V or placebo.
+

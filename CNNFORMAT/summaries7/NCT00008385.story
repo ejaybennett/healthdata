@@ -1,0 +1,42 @@
+(fifthQuint)Selenium in Preventing Tumor Growth in Patients With Previously Resected Stage I Non-small Cell Lung Cancer.
+
+ OBJECTIVES: Primary Objective: - Determine the efficacy of selenium in terms of reducing the incidence of second primary lung tumors in participants with previously resected stage I non-small cell lung cancer.
+
+ Secondary Objectives: - Evaluate the qualitative and quantitative toxicity of selenium in these patients.
+
+ - Compare the incidence of specific cancers, mortality from cancer, and overall survival of participants treated with selenium vs those treated with placebo.
+
+ OUTLINE: This is a randomized, double-blinded, placebo-controlled, multicenter study.
+
+ Participants are stratified according to smoking status (actively smoking or stopped less than 1 year ago vs.
+
+ stopped at least 1 year ago vs.
+
+ never smoked or no more than 100 cigarettes ever), gender, and stage and previous therapy (stage IA vs.
+
+ stage IB with previous therapy vs.
+
+ stage IB with no previous therapy).
+
+ Participants are randomized in a 1:2 ratio to arm I and arm II.
+
+ - Arm I: Participants receive an oral yeast placebo as in arm II.
+
+ - Arm II: Participants receive oral selenium yeast daily for 6 months.
+
+ Treatment repeats every 6 months for 8 courses for a total of 4 years in the absence of unacceptable toxicity.
+
+ Participants are followed annually (every 12 months) for 10 years.
+
+ PROJECTED ACCRUAL: A total of 1,960 participants will be accrued for this study within 4 years.
+
+.
+
+ Selenium in Preventing Tumor Growth in Patients With Previously Resected Stage I Non-small Cell Lung Cancer@highlight
+
+RATIONALE: Chemoprevention therapy is the use of certain drugs to try to prevent the development or recurrence of cancer.
+
+ It is not yet known if selenium is effective in preventing the growth of new tumors in patients with previously resected non-small cell lung cancer.
+
+ PURPOSE: This randomized phase III trial is studying selenium to see how well it works compared to a placebo in preventing the development of second primary lung tumors in patients who have undergone surgery to remove stage I non-small cell lung cancer.
+

@@ -1,0 +1,24 @@
+(thirdQuint)Clinical Calibration & Validation of a Next-Generation Blood Pressure Monitor for Patient Management.
+
+ The Cloud DX Pulsewave Health Monitor is a non-invasive wrist cuff blood pressure device that is licensed by Health Canada with Food and Drug Administration approval.
+
+ Systolic and diastolic pressures are measured via the arterial pulse waveform of the left radial artery.
+
+ Initially, the blood pressure algorithm was created and calibrated using the auscultatory method.
+
+ The purpose of this study is to calibrate the device to the clinical gold standard of peripheral and central intra-arterial pressures.
+
+ The device acquires a pulse signal in real-time, stores signal and measurement data, and displays stored signal and measurement data for interpretation via internet servers where it is accessible by end-users (physicians and/or patients).
+
+ The system provides secure accounts for both in-patient and out-patient monitoring.
+
+ Cloud DX's Pulsewave Health Monitor servers are housed in a secure data center.
+
+ Privacy measures are to SSAE16 SOC-1 Type-II compliance: 1) restricted secure access, 2) dedicated firewall, 3) HTTPS channel communication via website, 4) self-encrypting hard-drives rendered useless if removed from the server.
+
+.
+
+ Clinical Calibration & Validation of a Next-Generation Blood Pressure Monitor for Patient Management@highlight
+
+The objective of the Cloud DX Pulsewave Health Monitor study is to prospectively calibrate and validate a novel, non-invasive wrist cuff blood pressure device against the gold standard for hemodynamic monitoring (intra-arterial pressure) in voluntarily consented patient participants who are scheduled for an elective cardiac catheterization procedure for clinically valid reasons.
+

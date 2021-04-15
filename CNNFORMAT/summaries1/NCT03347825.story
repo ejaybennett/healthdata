@@ -1,0 +1,25 @@
+(firstQuint)Retrospective Multi-Center Study to Compare Perioperative Outcomes for Robotic-assisted Lobectomy With Those Associated With VATS and Open Lobectomy for Lung Cancer.
+
+ This is a multi-center, retrospective chart review study of all consecutive lobectomies performed for clinical stage IA, IB, IIA, IIB and IIIA lung cancer, performed by participating surgeons at their respective institutions that meet all inclusion and exclusion criteria.
+
+ All cases of lobectomy performed for clinical stages, IA, IB, IIA, IIB and IIIA lung cancer via robotic-assisted, VATS (video assisted thoracic surgery) and open approach that meet the study inclusion and exclusion criteria will be considered for inclusion in the study.
+
+ The chart review and data collection will be performed in a reverse chronological order starting at 30 days prior to IRB approval of the study at the institution and going back to 2013 (i.
+
+e most current data in 2017 and chronologically going back through 2013).
+
+ The retrospective chart review and data collection is anticipated to occur in two phases: Phase-I: Phase I will include chart review and data collection of clinical stage IB, IIA, IIB, IIIA cases from approximately 30-days prior to IRB approval of the study in 2017 or early 2018 and will continue retrospectively thru January 1, 2013 at each institution.
+
+ Phase-II: This phase will be initiated after completion of phase-I at each institution and will include chart review and data collection of clinical stage IA cases from approximately 30-days prior to IRB approval of the study in 2017 or early 2018 and will continue retrospectively thru January 1, 2013 at each institution.
+
+ Depending on availability of research coordinator resource (s) at each institution, the institution can choose to complete the data collection of both the phases either simultaneously or sequentially.
+
+ Baseline patient characteristics, perioperative and post-operative short term clinical and pathological outcomes data will be obtained from hospital records.
+
+ Each participating institution will contribute approximately 100-800 cases from one or more surgeons.
+
+ Since the data will have been de-identified, and is archival in nature, there will be no active subject recruitment and no patient consenting is required.
+
+ Retrospective Multi-Center Study to Compare Perioperative Outcomes for Robotic-assisted Lobectomy With Those Associated With VATS and Open Lobectomy for Lung Cancer@highlight
+
+The main objective of this study is to compare perioperative outcomes for robotic-assisted lobectomy with those associated with VATS and open lobectomy for lung cancer

@@ -1,0 +1,18 @@
+(firstQuint)Optimizing Early Enteral Nutrition in Severe Stroke.
+
+ Of high mortality and morbidity, severe stroke is associated with devastating damages in neurologic, respiratory, circulatory and many other systems.
+
+ The outcomes of patients with severe stroke depend largely on medical strategies on acute stage, especially on nutritional support management.
+
+ Unfortunately, clinical evidence are sparse and the ideal initial feeding strategy remains disputable.
+
+ The IF-STROKE study aims to provide reliable data on the effects of modified full enteral feeding (target recruitment 200) and permissive underfeeding in patients with acute severe stroke (target recruitment 200) compared to full enteral feeding (target recruitment 200).
+
+ Patients presenting with acute ( 12 or NIHSS 11) and dysphagia (defined by Water Swallowing Test) will be randomly assigned to full enteral feeding, modified full enteral feeding, or permissive underfeeding treatment for 7 days.
+
+.
+
+ Optimizing Early Enteral Nutrition in Severe Stroke@highlight
+
+The purpose of this academic lead study is to explore the ideal nutritional support strategy for patient with acute severe stroke.
+

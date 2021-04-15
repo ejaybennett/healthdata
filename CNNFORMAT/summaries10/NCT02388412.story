@@ -1,0 +1,18 @@
+(thirdQuint)18F-NaF-PET for Identification of TCFA.
+
+ It has been well known that mechanism of acute coronary syndrome is plaque rupture and occlusion of coronary artery by this plaque rupture.
+
+ Until now, evaluation of vulnerable plaque have been mainly performed with invasive imaging modalities such as optical coherence tomography or intravascular ultrasound.
+
+ Recently, positron emission tomography(PET) using 18F-Sodium fluoride (NaF) showed promising results for detecting vulnerable plaques in some pilot studies.
+
+ In this study, we will evaluate the diagnostic accuracy of 18F-NaF PET for non-invasively detecting vulnerable plaque, diagnosed by optical coherence tomography (OCT).
+
+.
+
+ 18F-NaF-PET for Identification of TCFA@highlight
+
+Recently, positron emission tomography(PET) using 18F-Sodium fluoride (NaF) showed promising results for detecting vulnerable plaques in some pilot studies.
+
+ In this study, the investigators will evaluate the diagnostic accuracy of 18F-NaF PET for non-invasively detecting vulnerable plaque, diagnosed by optical coherence tomography (OCT).
+

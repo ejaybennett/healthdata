@@ -1,0 +1,18 @@
+(firstQuint)Unilateral Approach for Bilateral Decompression of Lumbar Canal Stenosis.
+
+ Lumbar stenosis is one of the common spinal pathologies; it presents with back pain, leg pain, and neurogenic claudication .
+
+ Although different surgical modalities are available, the main objective of the operation is decompression of nerve roots and the spinal cord.
+
+ Minimally invasive surgical procedures and microsurgical unilateral laminotomy with bilateral spinal canal decompression (ULBD) have been reported to achieve this goal .
+
+ The objective of lumbar decompression is to decompress the neural elements while preserving stability and the spinous processes.
+
+ The object of this study is to compare outcomes following minimally invasive unilateral laminectomy for bilateral decompression (ULBD) to a standard "open" laminectomy for LSS.
+
+.
+
+ Unilateral Approach for Bilateral Decompression of Lumbar Canal Stenosis@highlight
+
+The purpose of this study was to compare standard open laminectomy with ULBD approach in regard to efficiency, safety, and clinical outcome.
+

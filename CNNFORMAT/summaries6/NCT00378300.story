@@ -1,0 +1,44 @@
+(fifthQuint)The Effects of Probiotics in Atopic Dermatitis.
+
+ The central hypothesis of this study is that a subset of commercially available probiotic formulations will ameliorate moderate to severe atopic dermatitis in children by inducing the development of T Regulatory (Treg) cells.
+
+ We specifically hypothesize that the probiotic mixture that induces Treg activity in vitro, will also improve the severity of atopic dermatitis in a specific patient by inducing Treg activity in vivo.
+
+ 1.
+
+ We will determine whether probiotic mixtures are better able to ameliorate the severity of atopic dermatitis when compared to patients treated with placebo.
+
+ We will conduct a 4-week randomized, double-blind, placebo controlled clinical trial designed to evaluate the efficacy of probiotics in reducing the clinical severity of atopic dermatitis as assessed by our primary outcome measure, the SCORing Atopic Dermatitis (SCORAD) index.
+
+ We specifically hypothesize that probiotics will clinically improve the disease.
+
+ 2.
+
+ We will assess whether probiotic mixtures induce the development of T regulatory cells in patients with atopic dermatitis.
+
+ A.
+
+ We will measure the relative levels of Tregs in peripheral blood before and after probiotic or placebo administration in order to assess whether the probiotic mixtures alter Treg development in vivo, and whether these changes correlate with improvement in clinical scores.
+
+ Primary outcomes will be measurements of gene expression and absolute increases in cell population.
+
+ We specifically hypothesize that probiotics will increase Treg activity.
+
+ B.
+
+ We will also determine if all patients' Tregs have in vitro responses to probiotics.
+
+ This data will be used to correlate whether clinical responders in the study also have strong in vitro responses.
+
+.
+
+ The Effects of Probiotics in Atopic Dermatitis@highlight
+
+The purpose of this study is to study the clinical effects of taking probiotics in patients who have moderate to severe atopic dermatitis.
+
+ There has been several studies showing improvement in the severity of atopic dermatitis after taking probiotics.
+
+ The mechanism of this improvement is currently unknown.
+
+ We propose that probiotics improve atopic dermatitis by stimulating, or increasing, the activity of a special type of cell called the T Regulatory cell--which can suppress the activity of allergic disease.
+

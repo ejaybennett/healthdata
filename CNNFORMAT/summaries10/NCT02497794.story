@@ -1,0 +1,60 @@
+(fifthQuint)The Effect of Gum Chewing on Bowel Function After Cesarean Section.
+
+ For elective cases, all participants are going to given nothing by mouth since midnight before surgery, and all operations are going to perform in the morning.
+
+ For those who had emergency cesarean section, nothing is going to given per oral for at least 4 hours before the start of the operation.
+
+ Operation data is going to recorded including surgical setting, type of cesarean section, previous surgery, adhesion and operation time.
+
+ After operation, the participants are going to randomly assigned into two groups by using cards.
+
+ The patients are going to randomized into two groups by using a sealed enveloped system.
+
+ A blue card and an orange card are going to sealed in separate envelopes.
+
+ Blue card means patients will chewgum.
+
+ The patients in the study group, will chew one sugar less gum for 30 minutes in postoperative 3.
+
+, 5.
+
+ and 7.
+
+ hours.
+
+ The control group will be followed without chew gum.
+
+ Both patient groups will be mobilized in postoperative 6 hour and 8 hour after the operation, juicy food will be given.
+
+ It will be introduced to solid foods after bowel movements and gas output occurs.
+
+ All patients postoperatively 4, 6, 8, 10, 12, 24 and 48 hours will be examined and bowel sounds will be oscult.
+
+ Gas evolution is still not, enema will be applied.
+
+ All patients will note the time of first rumbling of the stomach, first feeling of hunger and the first gas outlet.
+
+.
+
+ The Effect of Gum Chewing on Bowel Function After Cesarean Section@highlight
+
+This study is a randomised controlled trial that included 150 pregnant women undergoing cesarean in Sisli Ethal Training and Research Hospital, Department of Obstetrics and Gynecology, Istanbul, Turkey.
+
+ It was carried out in the period from October 1, 2015 to December 31, 2015.
+
+ After operation, the participants are going to randomly assigned into two groups by using cards.
+
+ The patients are going to randomized into two groups by using a sealed enveloped system.
+
+The patients in the study group, will chew one sugar less gum for 30 minutes in postoperative 3.
+
+, 5.
+
+ and 7.
+
+ hours.
+
+ The control group will be followed without chew gum.
+
+ All patients will note the time of first rumbling of the stomach, first feeling of hunger and the first gas outlet.
+

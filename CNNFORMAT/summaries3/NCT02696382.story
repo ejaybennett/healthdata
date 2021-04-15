@@ -1,0 +1,34 @@
+(fifthQuint)Improving Function in Older Veterans With Hospital-Associated Deconditioning.
+
+ Hospital associated deconditioning is a common and profound contributor to functional decline in older adults.
+
+ Skeletal muscle weakness and atrophy are commonly observed in older adults with deconditioning after a hospitalizations, leading to chronic functional deficits.
+
+ This is especially concerning for elderly Veterans, a population who tends to suffer from more chronic conditions and have decreased physical function than the general older adult population.
+
+ Therefore, Veterans may be at even higher risk for developing disability in activities of daily living after hospitalization and be homebound.
+
+ Home health physical therapy may be the ideal venue for addressing this functional decline as around 3 million older adults receive home health services following hospital discharge.
+
+ These services, however, tend to be low intensity and do not appear to adequately address deficits in function or performance of home and community mobility.
+
+ To address these concerns, the investigators have developed and tested an innovative, short-duration, home-based, high intensity exercise program designed for application immediately following hospitalization.
+
+ This protocol will dose twelve therapy visits over the course of 30 days to determine whether visit frontloading has any effect on outcomes.
+
+ The investigators are using a series of high resistance therapy exercises following acute hospitalization to determine if progressive high intensity therapy sustainability improves physical function more than standard home health physical therapy after an acute hospitalization in older Veterans.
+
+ Outcomes will spotlight physical function, community mobility, Activities of Daily Living, quality of life, and cognition.
+
+.
+
+ Improving Function in Older Veterans With Hospital-Associated Deconditioning@highlight
+
+The investigators plan to test an innovative, home-based, short duration, high intensity exercise program designed for application in the immediate post-hospitalization period in older Veterans.
+
+ Preliminary data suggest a more intensive approach to physical therapy in older adults after hospitalization is safe and maximizes mobility more than usual care.
+
+ The Veterans participating in the high intensity exercise program will receive therapy utilizing higher resistance exercises.
+
+ Outcomes from this group will be compared to data collected from the patients receiving standard, lower resistance therapies.
+

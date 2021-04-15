@@ -1,0 +1,43 @@
+(fifthQuint)The Retinal Function in Relation to Glucose Changes.
+
+ Study 1: 24 type 2 diabetics with minimal diabetic retinopathy but varying HbA1c level.
+
+ Study 2: 24 type 2 diabetics with minimal diabetic retinopathy.
+
+ Study 3: 24 type 2 diabetics with minimal diabetic retinopathy.
+
+ Plan of trial: Study 1: Test individuals will be examined at baseline: Prior history of illness, eye examination, blood test, fundusphoto and fullfield-ERG.
+
+ Afterwards test individuals will take an oral glucose tolerance test (OGTT) which results in a peak in blood glucose after approx.
+
+ 2 hours, whereafter the blood glucose level normalizes.
+
+ Immediately after the sugar intake test individuals will be examined by repeated fullfield-ERG's and blood glucose measurements (every 30 min) until the blood glucose level has been normalized.
+
+ Study 2: Test individuals will be examined at baseline: Prior history of illness, eye examination, blood test, fundusphoto and dark adaptation.
+
+ Afterwards test individuals will take an oral glucose tolerance test (OGTT) which results in a peak in blood glucose after approx.
+
+ 2 hours, whereafter the blood glucose level normalizes.
+
+ 80 minutes after the sugar intake test individuals will be examined by repeated dark adaptation and blood glucose measurements.
+
+ Study 3: Test individuals will be examined at baseline: Prior history of illness, eye examination, blood test, fundusphoto.
+
+ Afterwards test individuals will take an oral glucose tolerance test (OGTT) which results in a peak in blood glucose after approx.
+
+ 2 hours, whereafter the blood glucose level normalizes.
+
+ At baseline (fasting) and 80 minutes after the sugar intake test individuals will be examined by redfree photos of optic disc and blood glucose measurements.
+
+.
+
+ The Retinal Function in Relation to Glucose Changes@highlight
+
+This project has the following specific purposes: - To develop a clinically usable test to determine the blood glucose level or HbA1c-level, to which the retina is adapted.
+
+ This will be performed by means of ERG implicit time measurements in relation to the blood glucose level during an oral glucose tolerance test (OGTT) and inter- or extrapolation to the level of blood glucose (or HbA1c) where implicit time is normal.
+
+ - To examine darkadaptation in diabetics in relation to changes in the glucose level.
+
+ - To examine vessel diameter changes in diabetic individuals when changing the glucose level transiently

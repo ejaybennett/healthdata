@@ -1,0 +1,16 @@
+(firstQuint)In Situ Caries of Fluoride Toothpastes.
+
+ Topical fluorides have been proven to be clinically effective in the prevention of dental caries.
+
+ It is generally agreed that anti-caries effect of fluoride (F) is mainly by decreasing the rate of enamel demineralization and enhancing the rate of enamel remineralization.
+
+ An in-situ Surface Micro-hardness (SMH) test is widely used to evaluate enamel demineralization and remineralization during the caries process.
+
+ The aim of this study was to evaluate the efficacy of toothpaste formulations containing fluoride from different sources [sodium fluoride (NaF) and sodium monofluorophosphate (NaMFP)] using an in situ caries model.
+
+.
+
+ In Situ Caries of Fluoride Toothpastes@highlight
+
+This study is to evaluate the effect of fluoride dentifrices on enamel with artificial caries lesions in an in situ model.
+

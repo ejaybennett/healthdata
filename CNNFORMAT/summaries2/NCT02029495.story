@@ -1,0 +1,14 @@
+(firstQuint)Study of Efficacy, Safety and Effect on Radiographic Progression of Brodalumab in Subjects With Psoriatic Arthritis.
+
+ The primary objective of this study is to evaluate the efficacy of brodalumab, compared to placebo, in subjects with psoriatic arthritis.
+
+ The key secondary objective is to evaluate the efficacy of brodalumab compared to placebo at week 16 and week 24.
+
+ The safety objective of this study is to evaluate the safety profile of brodalumab in subjects with psoriatic arthritis.
+
+.
+
+ Study of Efficacy, Safety and Effect on Radiographic Progression of Brodalumab in Subjects With Psoriatic Arthritis@highlight
+
+The primary objective of this study is to evaluate the efficacy of brodalumab, compared to placebo, in subjects with psoriatic arthritis.
+

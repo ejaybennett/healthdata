@@ -1,0 +1,14 @@
+(secondQuint)Better Patient Selection to Transcatheter Aortic Valve Implantation.
+
+ In this prospective observation study we will investigate whether a preoperative test of myocardial contractile reserve can predict adverse outcome after TAVI.
+
+ We intend to examine preoperative myocardial contractile reserve by use a low dose dobutamine test and relate this to pre-existing myocardial focal and diffuse myocardial fibrosis detected by new cardiac magnetic resonance imaging (MRI) methods and new echocardiographic methods.
+
+ These measures will be primarily related to long term (12 months) mortality.
+
+.
+
+ Better Patient Selection to Transcatheter Aortic Valve Implantation@highlight
+
+This study evaluates whether a preoperative assessment of myocardial contractile reserve by tissue Doppler Imaging and myocardial fibrosis by cardiac magnetic resonance imaging (MRI) can enhance the patient selection and risk stratification to transcatheter aortic valve implantation.
+

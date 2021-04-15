@@ -1,0 +1,55 @@
+(fifthQuint)Commitment and Motivation in a Brief DBT Intervention for Self Harm.
+
+ Client motivation is related to therapeutic change (Ryan, Lynch, Vansteenkiste, & Deci) and low motivation is a pervasive issue for clients with BPD (e.
+
+g.
+
+, Skodal et al.
+
+, 1983).
+
+ DBT (Linehan, 1993) is an effective treatment for BPD and was developed in part to address client motivation.
+
+ Within DBT there are commitment strategies that are used to help clients establish clear goals and increase motivation to work on them.
+
+ These strategies were designed to help people commit to eliminating self-harm as well as other behaviours.
+
+ People are more motivated to work effectively towards goals for which they are autonomously motivated (Deci & Ryan, 2000).
+
+ Despite their importance in DBT, commitment strategies have never been studied.
+
+ This study will examine whether commitment strategies are associated with an increase in autonomous motivation and a decrease in self harm behaviour.
+
+ This research will address two primary questions: 1) Are commitment strategies associated with an increase in autonomous motivation to decrease self-harm behaviour?; and 2) Does autonomous motivation mediate a relationship between commitment strategies and change in self-harm behaviour? The investigators will also address a secondary question related to predictors of autonomous motivation.
+
+ Our hypotheses are as follows: 1) The group receiving psychoeducation enhanced with commitment strategies will have higher levels of autonomous motivation compared to the psychoeducation control group; and 2) autonomous motivation will mediate the relationship between commitment strategies and decreases in self harm behaviour.
+
+ Additionally, autonomy support, low therapist judgment, and goal concordance between client and therapist will independently contribute to predicting client autonomous motivation.
+
+ Research in this area is needed in light of the challenges presented by the low motivation that often characterizes individuals with borderline traits who engage in self-harm behaviour.
+
+ No studies to date have examined DBT's commitment strategies, thus, the effect of these treatment strategies is unknown and needs to be established.
+
+ Additionally, identifying specific variables that are associated with motivation to eliminate self-harm will help inform the refinement treatment strategies.
+
+ Finally, few studies have examined the role of autonomous motivation and treatment outcome.
+
+.
+
+ Commitment and Motivation in a Brief DBT Intervention for Self Harm@highlight
+
+Research suggests that individuals with Borderline Personality Disorder (BPD) experience low motivation for change (Skodal, Buckley, & Charles, 1983).
+
+ Dialectical Behavior Therapy (DBT; Linehan, 1993) includes commitment strategies that are designed to improve motivation.
+
+ No studies have examined the effectiveness of these strategies.
+
+ The proposed study will evaluate the efficacy of a brief DBT intervention consisting of commitment strategies plus skills training for people who self-harm.
+
+ Participants will be randomly assigned to either a single orientation session of (1) commitment strategies plus psychoeducation or (2) psychoeducation.
+
+ Immediately following their orientation session, all participants will be enrolled in a 90 minute group skills training session.
+
+ Primary outcomes include autonomous motivation and frequency of self harm behaviours.
+
+ Assessments will be conducted at six time points: baseline, after the initial orientation session, after the skills training group session, and at one week, one month, and three month follow-up

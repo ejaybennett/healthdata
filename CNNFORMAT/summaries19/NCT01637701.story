@@ -1,0 +1,20 @@
+(firstQuint)Plasmakinetic Enucleation of the Prostate to Treat Benign Prostatic Hypertrophy Patients With Large Prostate.
+
+ Despite the availability of numerous minimally invasive alternatives, monopolar transurethral resection of the prostate (TURP) remains the most frequently performed operation for benign prostatic hypertrophy (BPH) with small to moderate size prostates.
+
+ Nevertheless, TURP for large prostates is associated with various complications and unsatisfactory long-term results.
+
+ B-TURP and PkEP have both been proved to have more favorable postoperative outcomes than monopolar TURP.
+
+ But whether B-TURP or PkEP is better remain controversial.
+
+ We aim to compare the perioperative and postoperative characters of PkEP with B-TURP for BPH patients with large prostate.
+
+ Moreover, we evaluate the long-term results of both approaches.
+
+.
+
+ Plasmakinetic Enucleation of the Prostate to Treat Benign Prostatic Hypertrophy Patients With Large Prostate@highlight
+
+The goal of this study is to compare the perioperative and postoperative characters of plasmakinetic enucleation of the prostate(PkEP) with bipolar TURP(B-TURP) for BPH patients with large prostate.
+

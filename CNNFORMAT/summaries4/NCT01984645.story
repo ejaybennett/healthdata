@@ -1,0 +1,16 @@
+(secondQuint)Primary-care-provider Identification And Notification.
+
+ The investigators will interview the participating providers to understand if they were aware of the admission of their patients, and how they want to get involved in the care of that patient while he/she is in hospital.
+
+ The investigators will also look at the data in the Electronic Health Record system to understand how providers are acting in response to the notifications.
+
+ Lastly, the investigators will determine if the notifications have resulted in any change in the care of the patients, specifically in terms of the number of days from discharge until the next clinic visit.
+
+.
+
+ Primary-care-provider Identification And Notification@highlight
+
+New York-Presbyterian Hospital has created a system that notifies its primary care providers whenever their patients are admitted to the hospital.
+
+ In this study, the investigators want to evaluate how accurate this system is and how it is affecting the primary providers and their health care delivery.
+

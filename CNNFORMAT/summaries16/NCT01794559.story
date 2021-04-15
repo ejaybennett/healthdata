@@ -1,0 +1,28 @@
+(fifthQuint)Study to Evaluate the Safety and Efficacy of PEER Interactive Versus Treatment as Usual in Subjects With a Primary Diagnosis of Depression.
+
+ This study is prospective in nature.
+
+ Subjects in the control group will be treated according to treatment as usual and best judgment of the treating physician.
+
+ For the experimental group the treating physician will follow the guidance of the subject's PEER Interactive Report as regards sensitivity to on-label medications and classes of medication.
+
+ The subjects will be washed out of all current medications prior to having an EEG, which is necessary to generate the PEER Interactive Report.
+
+ The wash out period for outpatients is no longer than 14 days.
+
+ The subjects will be followed for 6 months after the initial treatment, or until the patient has achieved maximum medical improvement (MMI).
+
+ The patient will be seen on a routine basis and assessments will be made at each interaction to evaluate the patient's improvement in mental health.
+
+ The subjects will also be closely evaluated to determine if they are experiencing any psychiatric specific adverse events.
+
+ The investigator is allowed to treat the patient according to their best medical judgment, which may include adding or changing medications, seeing the patient more frequently, or other interventions such as the use of sleep aids.
+
+.
+
+ Study to Evaluate the Safety and Efficacy of PEER Interactive Versus Treatment as Usual in Subjects With a Primary Diagnosis of Depression@highlight
+
+This is a prospective, multicenter, randomized, double-blind, controlled study to evaluate the effectiveness of PEER Interactive to inform treatment in subjects with a primary diagnosis of depression with comorbidity of non-psychotic behavioral disorders versus treatment as usual, as determined by the investigator.
+
+ The primary measurement for improvement of the subjects depression will be a self-evaluation questionnaire, Quick Inventory of Depressive Symptomatology-Self Report 16 , but the investigators will also collect information on their clinical global improvement and any reduction in adverse events.
+

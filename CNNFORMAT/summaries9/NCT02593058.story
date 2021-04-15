@@ -1,0 +1,30 @@
+(thirdQuint)Positive Emotions Program for Schizophrenia (PEPS).
+
+ Recent literature has distinguished the negative symptoms associated with a diminished capacity to experience (apathy, anhedonia) from those which are associated with a limited capacity for expression (emotional blunting, alogia).
+
+ The apathy-anhedonia syndrome tends to be associated with a poorer prognosis than the symptoms related to diminished expression, suggesting that it is the more severe facet of the psychopathology.
+
+ However the efficacy of drug-based treatments and psychological interventions on primary negative symptoms remains limited.
+
+ There is a clear clinical need for developing treatments for negative symptoms.
+
+ The Positive Emotions Programs for Schizophrenia (PEPS) teaches skills to help overcome defeatist thinking and to increase the anticipation and maintenance of positive emotions.
+
+ PEPS involves eight one-hour group sessions, administered using visual and audio materials as part of a PowerPoint presentation of slides projected onto a screen.
+
+ The goal of the study is to establish if PEPS is clinically effective by using a randomized, controlled and assessor-blind trial.
+
+ A combination of PEPS plus treatment as usual will be compared to treatment as usual alone.
+
+ Participants diagnosed with a schizophrenia spectrum disorder will undergo either intervention for eight weeks.
+
+ Testing will evaluate individuals' current psychopathology and ability to savor pleasure and will be performed at the time of inclusion, at the end of the eight-week intervention and at six month follow-up.
+
+.
+
+ Positive Emotions Program for Schizophrenia (PEPS)@highlight
+
+This study evaluates the addition of a 8 session psychological program, called Positive Emotions Program for Schizophrenia (PEPS) to improve motivation and pleasure in adults with schizophrenia.
+
+ Half of the participants will receive their usual treatment and PEPS in combination, while the other half will receive usual treatment only.
+

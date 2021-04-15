@@ -1,0 +1,32 @@
+(thirdQuint)Effects of Combined Spinal Direct Current Stimulation on Upper Limb Recovery in Acquired Brain Injury.
+
+ Acquired brain injury (ABI) is the leading cause of neurological disability in the United States and accounts for the poor physical health and the social dysfunction evident in survivors.
+
+ Hemiparesis due to acquired brain injury is the primary cause of disability and arm paresis is perceived as the primary cause of disability by individuals who have suffered ABI because of the limitations it creates in performing activities of daily living (ADL).
+
+ Rehabilitation of the impaired limb is essential for improving motor function after ABI, yet only 31% of ABI survivors receive outpatient rehabilitation.
+
+ Therefore, effective therapy for upper-limb paresis must be addressed.
+
+ Approximately 80% of all ABI survivors suffer from upper limb paresis and only 18% of these individuals gain full motor recovery with conventional treatments in the year following ABI.
+
+ The study will use cross-over, randomized, sham controlled, double-blinded design in which 10 participants with subacute or chronic ABI will be assigned to receive either active anodal spinal stimulation, cathodal spinal stimulation, and sham spinal stimulation experiments for the same duration in a random order.
+
+ In all the experiments participants will receive robotic assisted training for duration of 1.
+
+5 hours.
+
+ The first 20 minutes of training will be coupled with spinal stimulation.
+
+ Treatment will be administered at an intensity of 5 sessions per week for 2 weeks.
+
+.
+
+ Effects of Combined Spinal Direct Current Stimulation on Upper Limb Recovery in Acquired Brain Injury@highlight
+
+This study will compare different polarities of transcutaneous spinal direct current stimulation combined with robotic-assisted arm training in adults with acquired brain injury (ABI).
+
+ Participants will receive 20 minutes of 2.
+
+5 milliamps (mA) anodal, cathodal, and sham transpinal direct current stimulation (tsDCS) over cervical spine combined with high intensity robotic-assisted arm training, five days a week, for 2 consecutive weeks.
+

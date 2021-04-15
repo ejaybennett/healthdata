@@ -1,0 +1,12 @@
+(firstQuint)Analysis of Stannous Fluoride in GCF and Subgingival Plaque.
+
+ This is pilot study involving approximately 20 subjects with at least 20 dental pockets between 2- 4mm with bleeding for sampling.
+
+ Subjects will have up to 10 sites identified as "sampling sites" that will have supragingival plaque, subgingival plaque, and gingival crevicular fluid (GCF) collected at Baseline, 30 minutes, 24 hours, and Week 2.
+
+.
+
+ Analysis of Stannous Fluoride in GCF and Subgingival Plaque@highlight
+
+The amount of stannous fluoride in GCF and subgingival plaque samples will be analyzed.
+

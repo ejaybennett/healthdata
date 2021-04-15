@@ -1,0 +1,28 @@
+(secondQuint)VEGF Trap in Treating Patients With Solid Tumors or Non-Hodgkin's Lymphoma.
+
+ OBJECTIVES: - Determine the long-term safety and tolerability of VEGF Trap in patients with incurable relapsed or refractory solid tumors or non-Hodgkin's lymphoma with stable or responding disease after receiving treatment on protocol MSKCC-01131.
+
+ - Determine the biological effect of this therapy on suppressing tumor growth or progression in these patients.
+
+ - Determine the steady state concentration of VEGF Trap over time in these patients.
+
+ - Determine whether patients develop antibodies to this therapy during extended exposure.
+
+ OUTLINE: This is an extension study for patients who showed evidence of stable disease or complete or partial remission after completing treatment on protocol MSKCC-01131.
+
+ Patients continue to receive VEGF Trap subcutaneously once weekly for up to an additional 6 months in the absence of unacceptable toxicity.
+
+ Patients receive treatment at the same dose level as on protocol MSKCC-01131.
+
+ Patients are followed at approximately 30 days.
+
+ PROJECTED ACCRUAL: A maximum of 30 patients will be accrued for this study.
+
+.
+
+ VEGF Trap in Treating Patients With Solid Tumors or Non-Hodgkin's Lymphoma@highlight
+
+RATIONALE: VEGF Trap may stop the growth of solid tumors or non-Hodgkin's lymphoma by stopping blood flow to the cancer.
+
+ PURPOSE: Phase I trial to study the effectiveness of VEGF Trap in treating patients who have relapsed or refractory solid tumors or non-Hodgkin's lymphoma.
+

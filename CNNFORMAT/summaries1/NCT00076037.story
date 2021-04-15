@@ -1,0 +1,44 @@
+(fifthQuint)Safety of and Immune Response to a New HIV Vaccine: HIV CTL MEP.
+
+ Prime-boost vaccine strategies are aimed at inducing different types of immune responses and enhancing the overall immune response, a result that may not occur with a single type of vaccine.
+
+ This trial will evaluate the safety and immunogenicity of an HIV multi-epitope peptide cytotoxic T lymphocyte (HIV CTL MEP) vaccine developed as part of a prime-boost strategy and designed to be administered in combination with an HIV DNA vaccine.
+
+ The HIV CTL MEP vaccine is a mixture of four synthetic peptides, each containing one of three different HIV CTL epitopes derived from env or gag.
+
+ The use of multiple conserved CTL epitopes will address the extraordinary diversity found among HIV strains.
+
+ The vaccine is administered with RC529-SE, an analogue of monophosphoryl lipid A.
+
+ The vaccine/adjuvant combination will be evaluated with or without coadministration of granulocyte-macrophage colony-stimulating factor (GM-CSF).
+
+ Participants will be randomly assigned to receive either the vaccine with the RC529-SE adjuvant, the vaccine with both adjuvants (RC529-SE and GM-CSF), or a placebo.
+
+ The vaccine, adjuvants, and placebo will all be given as an injection into the upper arm.
+
+ Participants will have 11 study visits.
+
+ Study visits will include a physical exam, medical interview, and blood and urine tests.
+
+ Participants will receive an injection at three of these visits: study entry and Months 1 and 3.
+
+ Participants will be followed for 1 year after the last injection.
+
+.
+
+ Safety of and Immune Response to a New HIV Vaccine: HIV CTL MEP@highlight
+
+The effectiveness of a vaccine can be improved by using a "prime boost strategy" or by using an adjuvant.
+
+ A prime boost strategy is the administration of one type of vaccine (the primer) followed by the administration of another type vaccine (the booster).
+
+ An adjuvant is a substance that can enhance the immune response when given at the same time as a vaccine.
+
+ This study will evaluate the safety of and immune response to a vaccine designed to be used as part of a prime boost strategy.
+
+ The study will also evaluate the vaccine when given with an adjuvant.
+
+ The vaccine in this study is not produced from live HIV or from infected cells.
+
+ It does not contain HIV, and it cannot cause HIV infection.
+

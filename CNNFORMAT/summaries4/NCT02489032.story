@@ -1,0 +1,24 @@
+(thirdQuint)Web-Based Training for EAP Alcohol Screening, Brief Intervention, and Refer.
+
+ In Phase 2, the investigators propose to develop the SBIRT Training & Support Tool with two components: (1) online SBIRT Training for call-center and face-to-face practitioners conducting alcohol SBIRT and (2) SBIRT Support Tool with mobile/web interactive alcohol screening tools and brief intervention protocols to facilitate use of SBIRT by practitioners.
+
+ The SBIRT Training component will provide practitioners with the skills, knowledge, motivation, and self-efficacy to: (a) screen their clients for unhealthy alcohol use with validated screening tools; (b) provide brief, motivational interviewing-informed intervention; and (c) make appropriate referrals.
+
+ The training program will incorporate the Phase 1 content and expand the curriculum to include the use of additional validated alcohol screening tools.
+
+ Content for alcohol SBIRT will be derived from NIAAA evidence-based materials.
+
+ The SBIRT Support Tool will provide a mobile/web interface for practitioners to use interactive screening and brief intervention forms with (a) prompts for validated questions in the screening or brief intervention; (b) motivational interviewing-informed dialogue suggestions; (c) online resources (i.
+
+e.
+
+, standard drink list; importance, confidence rulers); and (d) alcohol education and referral information.
+
+ The practitioner will use the SBIRT Support Tool to (a) screen clients for alcohol use with interactive validated screening tools; (b) provide brief intervention for individuals based on their screening score; and (c) provide referral to treatment for individuals based on their screening score.
+
+.
+
+ Web-Based Training for EAP Alcohol Screening, Brief Intervention, and Refer@highlight
+
+The goal of the proposed research is to complete the development of a web-based program to train Employee Assistance Program (EAP) and EAP-affiliated managed behavioral health organization (MBHO) practitioners to conduct screening, brief intervention, and referral to treatment (SBIRT) for problem alcohol use among working adults.
+

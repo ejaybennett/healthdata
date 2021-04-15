@@ -1,0 +1,16 @@
+(thirdQuint)Shape and Dimensions of the Upper Airway in Infants Using Computed Tomography Imaging.
+
+ Using imaging modalities (CT, MRI), the funnel-shape of the airway in children has been questioned and subglottis rather than cricoid is considered the narrowest part with the shape of airway defined as elliptical with the subglottis as the narrowest region.
+
+ This is the first study using imaging modality (2D CT images) to determine the airway shape and dimensions in neonates and infants.
+
+ The purpose of this investigation was to determine any differences in airway shape between infants and children, and to evaluate the dimensional transition between the subglottic area and the cricoid ring.
+
+.
+
+ Shape and Dimensions of the Upper Airway in Infants Using Computed Tomography Imaging@highlight
+
+Cricoid is considered the narrowest part with the shape of airway defined as elliptical with the subglottis as the narrowest region.
+
+ This study using imaging modality (2D CT images) is done to determine any differences in airway shape between infants and children, and to evaluate the dimensional transition between the subglottic area and the cricoid ring.
+

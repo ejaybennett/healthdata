@@ -1,0 +1,28 @@
+(firstQuint)Four Week, Pharmacodynamic/Pharmacokinetic, Efficacy, and Safety Study of Lunacalcipol (CTA018).
+
+ This is a prospective, open-label, PD, safety, PK and efficacy study of Lunacalcipol Injection.
+
+ Approximately 12 subjects will be randomized into 1 of 2 treatment groups receiving either 180 mu g (n=4) or 270 mu g (n=8) Lunacalcipol Injection in a 1:2 ratio, respectively.
+
+ All subjects are planned to receive a total of 11 doses of the study drug given three times per week (tiw) over 24 days (day 1 to day 24), administered not more often than every other day.
+
+ Previously defined criteria relating to serum levels of iPTH, Ca, and P will be reviewed by the Medical Monitor to determine subject safety.
+
+ If any of the criteria are observed, subjects will be discontinued from the study, receiving no further administration of the study drug and will be followed for safety.
+
+ Safety data will be reviewed by the Medical Monitor for the first 2 subjects in the 270 mu g group.
+
+ If the first 2 subjects meet dose group discontinuation criteria, including treatment emergent calciphylaxis, treatment-emergent adverse events (TEAEs) related to elevated serum Ca levels, or a reported death associated with elevated serum Ca levels or related to study drug, subjects beyond the first 2 will not be dosed.
+
+ A Data and Safety Monitoring Board (DSMB) will be appointed to provide an independent evaluation of all safety data, including all laboratory results and serious adverse events (SAEs).
+
+ The DSMB will conduct its review after 4 subjects in the 270 mu g dose group have completed at least 6 doses, at any time death is reported, or at the request of the DSMB.
+
+ The DSMB will also conduct an additional review at the End of Study.
+
+.
+
+ Four Week, Pharmacodynamic/Pharmacokinetic, Efficacy, and Safety Study of Lunacalcipol (CTA018)@highlight
+
+Open-label, pharmacodynamic, safety, pharmacokinetic and efficacy study of Lunacalcipol Injection.
+

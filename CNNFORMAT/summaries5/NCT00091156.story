@@ -1,0 +1,36 @@
+(fifthQuint)Gefitinib After Chemotherapy in Treating Patients With Stage IIIB or Stage IV Non-Small Cell Lung Cancer.
+
+ OBJECTIVES: Primary - Compare overall survival of patients with stage IIIB or IV non-small cell lung cancer that did not progress on prior first-line palliative induction chemotherapy when treated with adjuvant gefitinib vs placebo.
+
+ Secondary - Compare progression-free survival of patients treated with these regimens.
+
+ - Determine the safety and toxicity of gefitinib in these patients.
+
+ OUTLINE: This is a randomized, placebo-controlled, double-blind, multicenter study.
+
+ Patients are stratified according to initial disease stage (IIIB vs IV), WHO performance status at the end of prior first-line palliative induction chemotherapy (0-1 vs 2), best patient response to prior first-line palliative induction chemotherapy (objective response vs stable disease), and participating center.
+
+ Patients are randomized to 1 of 2 treatment arms.
+
+ - Arm I: Patients receive oral gefitinib once daily.
+
+ - Arm II: Patients receive oral placebo once daily.
+
+ In both arms, treatment continues in the absence of disease progression or unacceptable toxicity.
+
+ Patients are followed every 3 months for 2 years and then every 6 months thereafter.
+
+ PROJECTED ACCRUAL: A total of 598 patients (299 per treatment arm) will be accrued for this study within 8.
+
+5 years.
+
+.
+
+ Gefitinib After Chemotherapy in Treating Patients With Stage IIIB or Stage IV Non-Small Cell Lung Cancer@highlight
+
+RATIONALE: Gefitinib may stop the growth of tumor cells by blocking the enzymes necessary for their growth.
+
+ It is not yet known whether giving gefitinib after initial chemotherapy is effective in delaying the recurrence of non-small cell lung cancer.
+
+ PURPOSE: This randomized phase III trial is studying gefitinib to see how well it works compared to placebo in delaying tumor recurrence in patients who have undergone initial chemotherapy for stage IIIB or stage IV non-small cell lung cancer.
+

@@ -1,0 +1,28 @@
+(firstQuint)Survivin Peptide Vaccination for Patients With Advanced Melanoma, Pancreatic, Colon and Cervical Cancer.
+
+ As prognosis of advanced melanoma, pancreatic, colon and cervical cancer remains gloomy, new therapeutic modalities have to be developed to improve the patients clinical outcome.
+
+ Immunotherapy, which targets tumor associated antigens of tumor cells or tumor stroma, is currently an intensively investigated, novel therapeutic option.
+
+ As survivin is expressed both by neoplastic cells as well as by endothelial cells of the tumor vasculature, this antigen is an intriguing target molecule.
+
+ Spontaneous cytotoxic T-cell responses against different survivin epitopes in cancer patients underline the relevance of survivin-directed immunological trials.
+
+ This study is comprised of a peptide vaccine with HLA-A1, -A2 and -B35 restricted survivin epitopes in Montanide ISA-51 for patients with stage IV melanoma, advanced pancreatic, colon and cervical carcinoma.
+
+ The vaccine is applicated as a deep subcutaneous injection.
+
+ Vaccination is administered for the first 2 months weekly, afterwards every 4 weeks.
+
+ Standard staging examinations are performed every three months.
+
+ Clinical, laboratory and immunological monitoring is done every month.
+
+Diagnostic leucapheresis is performed before first vaccination and afterwards every 2 months.
+
+.
+
+ Survivin Peptide Vaccination for Patients With Advanced Melanoma, Pancreatic, Colon and Cervical Cancer@highlight
+
+This study evaluates the safety, the immunological response and the clinical outcome of a vaccination with survivin peptides for patients with advanced melanoma, pancreatic, colon and cervical carcinoma.
+

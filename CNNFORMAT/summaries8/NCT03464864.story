@@ -1,0 +1,17 @@
+(firstQuint)Pharmacokinetics, Safety and Tolerability of Treprostinil Inhalation Powder in Healthy Normal Volunteers.
+
+ Up to 48 subjects will be enrolled in 8 cohorts of 6 subjects each.
+
+ The treatments are intended to establish the maximum tolerated dose in healthy normal volunteers, starting at 30 mcg.
+
+ Each subject will receive one dose of Treprostinil Inhalation Powder by oral inhalation during the treatment period.
+
+ A total of 12 pharmacokinetic blood samples will be collected from each subject.
+
+ Plasma pharmacokinetic samples will be analyzed for treprostinil.
+
+.
+
+ Pharmacokinetics, Safety and Tolerability of Treprostinil Inhalation Powder in Healthy Normal Volunteers@highlight
+
+A Dose-Rising Clinical Trial to Evaluate the Pharmacokinetics, Safety and Tolerability of Treprostinil Inhalation Powder in Healthy Normal Volunteers

@@ -1,0 +1,44 @@
+(fifthQuint)Ferric Citrate for the Transition From CKD Stage 4/5 to CKD Stage 5D.
+
+ This is an up to 50 week, phase 3, clinical trial in patients with estimated glomerular filtration rate (eGFR) 20 ml/min/1.
+
+73m2.
+
+ It will be comprised of an up to 36-week non-dialysis period (NDP), or until such time as subjects require renal replacement therapy (RRT) with dialysis when they will immediately roll into a 12-week dialysis period (DP).
+
+ The study will consist of up to 16 clinic visits over a maximum period of 50 weeks.
+
+ There will be a screening period of up to 14 days after which subjects will be randomized into the NDP in a 2:1 ratio to receive either FC (n=150) or SOC (n=75).
+
+ Each eligible participant will be randomized to either fixed dose open-label ferric citrate (FC) or standard of care (SOC) treatment.
+
+ Participants randomized to SOC will receive care directed by their primary nephrologist throughout the study duration with the only restriction being that they cannot receive treatment with FC during the NDP or DP.
+
+ Participants randomized to FC will receive it throughout the study duration.
+
+ 220 participants were screened to randomize 200 subjects 2:1 (FC:SOC) into the NDP.
+
+ It is anticipated that 35-45% of participants will reach the dialysis period (DP) during the 36 week follow up.
+
+ Participants who initiate RRT with dialysis will enter the Dialysis Period (DP) during which those participants previously assigned to ferric citrate will continue to receive open-label ferric citrate and those previously assigned to SOC will receive open-label, non-FC phosphate binders at the discretion of their treating physician.
+
+ During this period all participants will be treated to standard of care guidelines which suggest that if serum phosphate is above the upper limit of normal (4.
+
+5 mg/dL), it should be reduced.
+
+ During the DP, dose of P binders, use of ESA, intravenous iron and blood transfusions will be at the discretion of the primary treating nephrologist.
+
+ Participants assigned to the SOC treatment arm may not receive FC at any point during the study.
+
+ Only participants that begin permanent RRT with dialysis will be eligible to enter the 12 week DP.
+
+ Participants that do not begin RRT after 9 months participation in the NDP will be deemed to have reach the end of study and have end of study procedures performed.
+
+.
+
+ Ferric Citrate for the Transition From CKD Stage 4/5 to CKD Stage 5D@highlight
+
+It is the investigators hypothesis that participants treated with Ferric Citrate (FC) during the non-dialysis CKD stage (4/5) with sufficient duration prior to initiating RRT, will result in improved biochemical control of anemia (Hb, TSAT) and mineral metabolism (P, FGF23) and furthermore, will result in a reduced need for ESA and intravenous iron.
+
+ The investigators further hypothesize that effective treatment of anemia and mineral metabolism with FC in the pre-dialysis and transition period will result in improved physical functioning, reduced hospitalization and reduced total cost of care when compared to participants receiving contemporaneously provided standard of care therapy.
+

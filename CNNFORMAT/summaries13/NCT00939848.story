@@ -1,0 +1,30 @@
+(thirdQuint)Cediranib Versus Placebo Plus Cisplatin/Gemcitabine Chemotherapy for Patients With Advanced Biliary Tract Cancers.
+
+ Although there is currently no standard chemotherapy for patients with advanced biliary tract cancers (ABC) the UK ABC-02 study (the largest study by far in this patient group, n=410) is likely to define CisGem as the global standard of care for this disease based on a significantly improved progression-free survival and overall survival compared to gemcitabine alone.
+
+ Vascular endothelial growth factor (VEGF) is a pivotal stimulus of physiologic and pathologic angiogenesis, including the sustained neo-vascularisation required to support solid tumour growth.
+
+ Human biliary tract carcinoma cells have higher expression of VEGF both in cell lines and tissues (detected in 75.
+
+6% of 33 resected clinical specimens) and this is associated with significantly higher levels of microvessel density and the presence of intrahepatic metastases.
+
+ Cediranib is a highly potent inhibitor of VEGF receptor 2 tyrosine kinase and VEGF-induced signalling in endothelial cells.
+
+ It has been safely combined with a CisGem regimen in lung cancer patients.
+
+ Aims This trial aims to evaluate the effect on progression-free survival of cediranib in combination with CisGem chemotherapy compared to CisGem and placebo.
+
+ Summary of study Consenting patients with ABC (inoperable, locally advanced, recurrent or metastatic) will receive CisGem chemotherapy and either cediranib (experimental arm) or placebo (standard arm) orally.
+
+ Treatment will continue until disease progression (chemotherapy will stop at 24 weeks) with tumour reassessment by CT/MRI scans at 12-weekly intervals.
+
+ All patients will be followed up for survival analysis.
+
+.
+
+ Cediranib Versus Placebo Plus Cisplatin/Gemcitabine Chemotherapy for Patients With Advanced Biliary Tract Cancers@highlight
+
+As a result of our previous NCRN study (ABC-02) cisplatin and gemcitabine (CisGem) is likely to become the international standard of care for patients with advanced biliary tract cancer (submitted: ASCO 2009).
+
+ This study, ABC-03, will determine whether the addition of cediranib(an oral Vascular Endothelial Growth Factor Receptor inhibitor) to CisGem will improve the time to disease progression in this patient group.
+

@@ -1,0 +1,14 @@
+(secondQuint)Local Treatment of Metastatic Melanoma With Autologous Lymphocytes and the Bispecific Antibody rM28.
+
+ Phase I/II clinical trial to analyze safety and efficiency of intralesional application of the bispecific single chain antibody rM28 and autologous PBMCs in patients with metastatic melanoma stage III/IV and unresectable metastasis.
+
+ The antibody is directed against epitops of human CD28 and the melanoma associated surface antigen HMV-MAA.
+
+ Treatment over 5 days with dose escalation.
+
+.
+
+ Local Treatment of Metastatic Melanoma With Autologous Lymphocytes and the Bispecific Antibody rM28@highlight
+
+Phase I/II clinical trial to analyze safety and efficiency of intralesional application of the bispecific single chain antibody rM28 and autologous PBMCs in patients with metastatic melanoma stage III/IV and unresectable metastasis.
+

@@ -1,0 +1,20 @@
+(thirdQuint)Genetic and Morphological Analysis of Thyrotoxic Periodic Paralysis.
+
+ Chinese males of their third and forth decades are extremely predisposed to periodic paralysis when they are hyperthyroid.
+
+ Due to their imbalanced predilection to the disease, genetic variance is considered to be critical to the pathogenesis.
+
+ In addition, since proximal limb skeletal muscles are the major sites of target, and they are also believed to play a role in the disease generation.
+
+ Thus, we intend to analyze the genetic and morphological variances between TPP patients and pure hyperthyroidism patients and simultaneously the relation between genetic variance and morphological difference.
+
+ In this way, we hope to provide evidence for a better understanding of the disease.
+
+.
+
+ Genetic and Morphological Analysis of Thyrotoxic Periodic Paralysis@highlight
+
+The study aims to analyze the genetic variance between thyrotoxic periodic paralysis (TPP) patients and pure hyperthyroidism individuals.
+
+ Meanwhile, the investigators also intended to evaluate the morphological difference in effected skeletal muscles and investigate their relation with genetic variance.
+

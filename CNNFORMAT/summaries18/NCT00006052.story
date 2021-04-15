@@ -1,0 +1,36 @@
+(secondQuint)STI571 in Treating Patients With Accelerated Phase Chronic Myelogenous Leukemia.
+
+ OBJECTIVES: I.
+
+ Determine the safety of STI571 in patients with accelerated phase Philadelphia chromosome positive (or chromosome negative and Bcr/Abl positive) chronic myelogenous leukemia.
+
+ II.
+
+ Determine the rate of hematological response to this treatment in these patients.
+
+ III.
+
+ Determine the improvements in symptomatic parameters with this treatment in these patients.
+
+ IV.
+
+ Determine the cytogenetic response to this treatment in these patients.
+
+ V.
+
+ Determine the time to treatment failure in these patients after receiving this treatment.
+
+ OUTLINE: Patients receive oral STI571 daily.
+
+ Treatment continues for at least 1 year in the absence of disease progression or unacceptable toxicity.
+
+ Patients who are considered to have benefited may continue treatment beyond 1 year.
+
+ PROJECTED ACCRUAL: Not determined.
+
+ STI571 in Treating Patients With Accelerated Phase Chronic Myelogenous Leukemia@highlight
+
+RATIONALE: STI571 may interfere with the growth of cancer cells and may be effective treatment for chronic myelogenous leukemia.
+
+ PURPOSE: Phase II trial to study the effectiveness of STI571 in treating patients who have accelerated phase chronic myelogenous leukemia.
+

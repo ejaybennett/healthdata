@@ -1,0 +1,16 @@
+(firstQuint)Radioaerosol Pulmonary Deposition During Asthma Exacerbation Through Noninvasive Ventilation.
+
+ Reduced work of breathing, increased oxygenation and increased in expiratory peak flow (EPF) and forced expiratory volume in the first second (FEV1) are benefits of noninvasive ventilation (NV) in the treatment of asthma.
+
+ Despite these clinical improvements attributed to NV during asthma exacerbations and the well-established effects of nebulization, there are few studies in the literature coupling both therapeutic resources.
+
+ In addition to this, no studies on scintigraphic analysis of radioaerosol deposition coupled with NV in asthmatics have published.
+
+ A previous study was published by our group, but involved healthy subjects.
+
+.
+
+ Radioaerosol Pulmonary Deposition During Asthma Exacerbation Through Noninvasive Ventilation@highlight
+
+Despite the physiologic and clinical effects provided by coupling nebulization with noninvasive ventilation in asthma exacerbation, there are few and controversial studies reported in the literature.
+

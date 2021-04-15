@@ -1,0 +1,16 @@
+(firstQuint)Neuromarker S-100B as Diagnostic Tool.
+
+ The question, if there is an effect on the cerebrospinal system during spine surgery, which can be traced by monitoring serum levels of neuromarkers is not yet answered.
+
+ This study has its background from other studies on patients with traumatic brain injury (TBI), in whom elevated serum levels of the two neuromarkers S-100B and NSE are associated with injury severity, neuronal damage, brain, tissue damage, and outcome.
+
+ Patients undergoing spine surgery with or without pre-existing traumatic neurologic symptoms are planned to be the study cohort.
+
+ Pre- and postoperatively the serum levels of S-100B and NSE are obtained and are statistically compared with patients undergoing other types of bone-related surgery.
+
+.
+
+ Neuromarker S-100B as Diagnostic Tool@highlight
+
+The hypothesis of this study is to find evidence if there is an influence of spine surgery on the serum levels of two proteins secreted from neuronal cells.
+

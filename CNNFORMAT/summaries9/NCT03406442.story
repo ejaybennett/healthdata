@@ -1,0 +1,44 @@
+(fifthQuint)Transpterygoid Approaches.
+
+ Skull base surgery has undergone dramatic advances.
+
+ During early stages, the endoscopic approaches were limited by the resultant skull base defects .
+
+ Access to the pterygopalatine fossa (PPF) is a surgical challenge due to its deep location in the mid-third of the face and its complex array of vascular and neural structures.
+
+ An important aspect of the PPF is its topographical relation to the orbit and cranial cavity.
+
+ The philosophy behind the transpterygoid approach centers on the maxillary sinus as the primary corridor, displaces the contents of the PPF and removes the pterygoid process partially or completely to reach to the lateral extent of the endonasal technique.
+
+ The endoscopic endonasal transpterygoid approaches classified into five types.
+
+ Type A involves thinning of the pterygoid process to gain access to PPF.
+
+ Type B involves removal of the medial and anterior aspect of the base of the pterygoid process to access the lateral recess of the sphenoid sinus.
+
+ Type C involves dissecting the vidian nerve to identify the petrous ICA and removing the base of the pterygoid plates to reach the petrous apex, Meckel's cave, or cavernous sinus.
+
+ Type D requires a variable removal of the pterygoid plates to access the infratemporal fossa.
+
+ Type E requires removal of part or even the entire pterygoid process, and the medial third of the Eustachian tube to provide exposure of the lateral nasopharynx.
+
+.
+
+ Transpterygoid Approaches@highlight
+
+To identify: 1.
+
+ The most frequent pathologies affecting pterygopalatine fossa, lateral recess of the sphenoid sinus, petrous apex, Meckel's cave, cavernous sinus, infratemporal fossa and lateral nasopharynx that can be treated by endonasal endoscopic transptergoid approaches, the most common presenting manifestations and indication of surgery.
+
+ 2.
+
+ The different techniques and feasibility of different endonasal endoscopic transpterygoid approaches and the frequency of utilization of approach.
+
+ 3.
+
+ Try to establish a protocol for post-operative care and management of complications.
+
+ 4.
+
+ Obtain sufficient surgical experience in endonasal endoscopic transpterygoid surgery to establish endonasal endoscopic skull-base surgery in Assiut University Hospital.
+

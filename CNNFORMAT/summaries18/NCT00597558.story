@@ -1,0 +1,28 @@
+(thirdQuint)Treatment of Egg Allergy in Children Through Oral Desensitization (EGG OIT).
+
+ Egg allergy in children under 5 years of age is extremely common.
+
+ Egg, along with milk and peanuts, cause 80% of the food allergy reactions in children in the United States.
+
+ Children have allergic reactions to egg ranging from mild urticaria to systemic anaphylaxis.
+
+ The current therapy for children with egg allergy is to place the child on an egg-free diet until the allergy is outgrown.
+
+ Because egg protein is a part of a significant number of processed foods it is difficult to totally avoid all egg proteins.
+
+ Accidental ingestions leading to reactions to egg can occur with a bite of a cookie (~70 mg of egg protein) or a bite of a cake (~55 mg of egg protein).
+
+ Children typically do not outgrow their egg allergy for several years.
+
+ Therefore it would be helpful if a specific form of therapy would make children outgrow their allergic reactions to egg sooner.
+
+ Egg protein is given to children in this study in small increasing amounts to desensitize them to the egg protein with the goal of helping them to outgrow their allergy.
+
+.
+
+ Treatment of Egg Allergy in Children Through Oral Desensitization (EGG OIT)@highlight
+
+The purpose of this study is to determine if children with egg allergy can be desensitized to egg protein and if this desensitization can help them outgrow their egg allergy at an earlier time than normal.
+
+ Our hypothesis is that children with egg allergy can be orally desensitized to egg protein and that this desensitization will help them outgrow their egg allergy at an earlier time than normal.
+

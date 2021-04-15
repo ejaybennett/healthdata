@@ -1,0 +1,12 @@
+(firstQuint)Acetaminophen IV vs Hydromorphone IV in the ED.
+
+ This is a randomized, double-blind placebo-controlled clinical trial comparing intravenous acetaminophen and intravenous hydromorphone in the treatment of acute pain in the Emergency Department.
+
+ Enrolled subjects presenting to the ED with acute pain will be randomized to receive either acetaminophen 1g IV or hydromorphone 1mg IV.
+
+.
+
+ Acetaminophen IV vs Hydromorphone IV in the ED@highlight
+
+The purpose of the current study is to compare the analgesic efficacy of intravenous acetaminophen and intravenous hydromorphone in the treatment of acute pain in the ED.
+

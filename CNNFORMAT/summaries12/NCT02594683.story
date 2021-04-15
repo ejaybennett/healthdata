@@ -1,0 +1,15 @@
+(firstQuint)A Follow-up Study to Investigate the Effects of a New Infant Formula on Growth and Body Composition.
+
+ A follow-up study of a randomised, controlled, study to investigate the effects of a new infant formula given in the first 12 months of life on growth and body composition up to 5 years of age.
+
+ Participants from Venus study will be invited to participate in this follow-up study.
+
+ Hypothesis: Significant difference in body mass index (BMI) development for subjects who had received infant formula and follow on formula with scGOS/lcFOS/Nuturis(R) compared to the control product scGOS/lcFOS and standard formula.
+
+ No significant difference in growth of subjects who had received infant formula and follow on formula with scGOS/lcFOS/Nuturis(R) compared to the breast-feeding reference group.
+
+.
+
+ A Follow-up Study to Investigate the Effects of a New Infant Formula on Growth and Body Composition@highlight
+
+A follow-up study of a randomised, controlled, study to investigate the effects of a new infant formula given in the first 12 months of life on growth and body composition up to 5 years of age

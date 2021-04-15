@@ -1,0 +1,20 @@
+(thirdQuint)FRESH-DOSE: Families Responsibility Education Support HealthDual Options for Sustained Effectiveness.
+
+ The primary aim of this project is to determine whether gshFBT is non-inferior to FBT for childhood obesity on child weight loss.
+
+ Four assessments will be conducted; baseline (month 0), month 6 (post-treatment), and at month 12 and month 18.
+
+ Assessments will include the following for child and parent: anthropometry, physical activity, nutrition, and cost-effectiveness.
+
+ Cost-effectiveness will be calculated from a societal perspective and a third party payor perspective.
+
+ This program of research has the potential to advance the standard of practice for children who are overweight or obese by providing a less intensive but more cost-effective intervention.
+
+.
+
+ FRESH-DOSE: Families Responsibility Education Support HealthDual Options for Sustained Effectiveness@highlight
+
+The objective of the study is to evaluate whether a less intensive intervention, Guided Self-Help Family Based Treatment (gshFBT), is non-inferior to the more intensive Family Based Treatment (FBT) for childhood obesity on child weight loss over 18-months.
+
+ Cost-effectiveness of both treatments will also be compared.
+

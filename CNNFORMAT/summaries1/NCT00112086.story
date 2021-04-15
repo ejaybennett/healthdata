@@ -1,0 +1,18 @@
+(secondQuint)OVCA-NAC-P2: Study of Chemotherapy Followed by Cytoreductive Surgery for Ovarian, Tubal and Peritoneal Cancers: JCOG0206.
+
+ The purposes are to assess the safety and efficacy of the treatment starting with NAC and to know whether we can accurately diagnose these advanced carcinomas by imaging studies, cytologic findings and tumor markers without staging laparotomy or laparoscopy.
+
+ Fifty-six patients with advanced mullerian carcinomas will be recruited to the study.
+
+ After confirmation of diagnosis by laparoscopic inspection and biopsies, patients undergo 4 cycles of chemotherapy as NAC followed by ICS and additional 4 cycles of postsurgical chemotherapy.
+
+ The primary endpoint is proportion of clinical complete remission after accomplishment of the protocol treatment and the major secondary endpoint is positive predictive value of diagnosis before laparoscopy regarding tumor origin, histology and stage.
+
+ Based on the result of this study, we will conduct a phase III study to compare the treatment starting with NAC and primary cytoreductive surgery followed by postsurgical chemotherapy.
+
+.
+
+ OVCA-NAC-P2: Study of Chemotherapy Followed by Cytoreductive Surgery for Ovarian, Tubal and Peritoneal Cancers: JCOG0206@highlight
+
+A feasibility study of neoadjuvant chemotherapy (NAC) followed by interval cytoreductive surgery (ICS) and postoperative chemotherapy for stage III/IV mullerian carcinomas such as ovarian, tubal and peritoneal carcinomas.
+

@@ -1,0 +1,13 @@
+(secondQuint)Microbiological Assessment After Chemo-Mechanical Caries Removal Using Papain-based Enzyme Versus Conventional Rotary Tools in Occlusal Carious Lesions.
+
+ Twenty-three patients who will fulfill the inclusion criteria will be enrolled to the study.
+
+ For every patient two contra-lateral class I carious molars will be selected, so the total number of included molars will be 46 molars.
+
+ One contra-lateral molar will be randomly assigned to the chemo-mechanical (Brix 3000) caries removal technique and the other will be assigned to the conventional rotary one.
+
+ From every molar two dentin specimens will be collected (baseline and after excavation) with a total of 92 samples.
+
+ Microbiological Assessment After Chemo-Mechanical Caries Removal Using Papain-based Enzyme Versus Conventional Rotary Tools in Occlusal Carious Lesions@highlight
+
+This study will be conducted to assess the efficacy of caries excavation using the papain-based chemo-mechanical method (Brix 3000) in comparison to conventional rotary tools in the reduction of the bacterial population in occlusal carious cavities

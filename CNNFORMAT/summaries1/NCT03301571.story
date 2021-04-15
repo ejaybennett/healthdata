@@ -1,0 +1,52 @@
+(fifthQuint)Right Ventricular Echocardiography in caRdiac SurgEry.
+
+ Clinical procedure: For the operation standard procedures for anaesthesia, surgery and cardiopulmonary bypass will be used.
+
+ This includes installment of a pulmonary artery catheter and performing a transesophageal echocardiography.
+
+ For the purpose of this study additional TEE images and a transthoracic echocardiography (TTE) will be obtained in order to correlate different echocardiographic indices with haemodynamic measurements and investigate any differences between TTE and TEE measurements.
+
+ Transthoracic echocardiography (TTE): Basic TTE will be performed after anaesthesia induction, before surgery commences and repeated immediately after arrival at the ICU.
+
+ Image acquisitions from TTE: - 2D apical 4-chamber view for right ventricular fractional area change (RVFAC) - M-mode tricuspid annular plane systolic excursion (TAPSE).
+
+ - M-mode lateral mitral annular plane systolic excursion (MAPSE) measurements Transoesophageal echocardiography (TEE): After probe placement and before commencing surgery a TEE will be performed.
+
+ The probe will be left in place during surgery for continuous imaging.
+
+ Standard views used for patient treatment will be acquired in accordance with the requirements of the treating anaesthesiologist and surgeon.
+
+ Additional views will be added in order to obtain standard 2D measures, M-mode measures, spectral doppler measures, myocardial doppler tissue imaging, strain and 3D measures of RV function.
+
+ Measurements will be performed at different stages throughout surgery following a period of relative hemodynamic stability defined as: 1 minute of no more than 10 beats/min variation in heart rate, maximum variation of 10 mmHg in mean arterial pressure, maximum variation of 3 mmHg in central venous pressure and no change in administration of vasoactive drugs.
+
+ If hemodynamic stability cannot be achieved an annotation comment will be entered.
+
+ Time points for echocardiography: TEE will be performed at four different time points during and immediately after surgery: Stage 1: After induction of anaesthesia.
+
+ Stage 2: After full sternotomy Stage 3: After completion of cardiopulmonary bypass Stage 4: Immediately after arrival at the ICU and will be repeated after each intervention Interventions Each intervention will be investigated separately and before each intervention the patient will return to hemodynamic baseline.
+
+ Trendelenburg position for 5 minutes will be investigated.
+
+ Following positive end-expiratory pressures will be investigated: 0 cm H2O, 5 cm H2O and 10 cm H2O.
+
+ Following fractions of inspired O2 will be investigated: 0.
+
+5 and 1.
+
+0 for 10 minutes at each setting.
+
+ Following pacemaker settings will be investigated: Atrioventricular pacing 10 bpm over the patients' intrinsic rhythm, atrial pacing 10 bpm over the patients' intrinsic rhythm, ventricular pacing 10 bpm over the patients' intrinsic rhythm.
+
+ Right Ventricular Echocardiography in caRdiac SurgEry@highlight
+
+Postoperative right ventricular (RV) dysfunction increases mortality and risk of cardiac failure after cardiac surgery substantially.
+
+ A comprehensive understanding of this condition is paramount in order to achieve success in treatment and early diagnosis.
+
+ This study has two main aims.
+
+ Perioperative aim: To investigate correlations between changes in echocardiographic measurements and hemodynamic changes at baseline and following coronary artery bypass graft (CABG) surgery.
+
+ Postoperative aim: To evaluate changes in haemodynamics and echocardiographic parameters during separate physiological interventions (increase in preload/afterload, oxygen fraction, pacing modes (AAI/DDD/VVI)).
+

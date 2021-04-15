@@ -1,0 +1,170 @@
+(fifthQuint)The Use of Wound Protector in Whipple's Procedure With Intrabiliary Stent.
+
+ Introduction The Department of Surgery at the University of Calgary has a long and proud tradition of research surrounding surgical site infections (SSI).
+
+ More specifically, former surgeon and Department Chair Dr.
+
+ Peter Cruse prospectively studied 23,649 surgical wounds following operative intervention.
+
+ This massive study remains unmatched in size by a single institution publication.
+
+ Dr.
+
+ Cruse and Ms.
+
+ Rosemary Foord demonstrated a decrease in SSI rates with the pre-surgical use of hexachlorophene wash and by not shaving the surgical site1.
+
+ They observed an increase in SSI rates with advanced age, use of drains, prolonged hospital stay before the operation, and longer operative times.
+
+ Dr.
+
+ Cruse is directly responsible for confirming the validity of the wound classification system currently in use throughout the world (clean, clean-contaminated, contaminated, and dirty).
+
+ We propose to carry on the tradition of this line of investigation, reinforcing Calgary as a world leader in SSI research.
+
+ SSI are a frequent and costly source of post-operative morbidity.
+
+ They are the most common complication following gastrointestinal and biliary tract surgery, occurring in 5-30% of patients.
+
+ SSI are associated with a two-fold increased risk of in-hospital mortality, a 50% increase in intensive care admission, a 6-day mean increase in hospital stay, and a five-fold increased rate of readmission.
+
+ SSI also have additional and highly negative consequences in the treatment of oncology patients.
+
+ More specifically, medical oncologists wait until all operative wounds are entirely healed prior to beginning adjuvant chemotherapy.
+
+ This delay is both oncologically concerning, as well as psychologically destructive to highly stressed patients with poor associated survivals.
+
+ Furthermore, with a significant SSI, this delay often leads to a total omission of adjuvant therapies as a whole.
+
+ The estimated increased cost per SSI ranges from $1,300 to $5,000 in the United States.
+
+ In Canada, a 1998 study estimated $3,937 per infection, resulting from increased hospital stay, as well as emergency department and clinic visits.
+
+ The implications of these costs have now become paramount given that both U.
+
+S.
+
+ Medicare and Medicaid currently deny any reimbursement for patients who obtain an SSI while admitted to hospital.
+
+ In addition, patients who develop SSI experience psychosocial distress, loss of income, and loss of productivity.
+
+ Prevention of SSI is therefore a vitally important goal in delivering quality care to patients.
+
+ The SSI rate is 40-50% in patients undergoing pancreatoduodenectomy with intrabiliary stents, the population of interest for this study.
+
+ Wound protectors are devices designed to protect the abdominal wound tissue edges from contamination and trauma during laparotomy.
+
+ A major reason for their conception and use is a theoretical reduction in risk of SSI.
+
+ Various devices with similar intent have been described since the 1960s, falling into two main design categories: (1) Those with an internal and external ring connected by impervious plastic, and (2) Those with a single, internal ring connected to a drape which extends outward, over the wound edges and onto the abdomen where they are affixed with adhesive or clips.
+
+A recent meta-analysis of randomized controlled trials was conducted by a team led by the Principal Investigator to evaluate whether impervious plastic wound protectors reduce the risk of surgical site infection following gastrointestinal and biliary surgery.
+
+ Six studies representing 1,008 patients were included.
+
+ Wound protectors were associated with a 45% decrease in SSI (p = 0.
+
+04).
+
+ The Alexis Wound Protector, a ring based model, had evidence of superiority to other products and has been selected for this study based on this finding.
+
+ Methods Recruitment: Contact information for study candidates will be obtained by the project's research fellow from the offices of the participating (4) surgeons.
+
+ Patients will be contacted prior to their surgery by the research fellow and will be provided information regarding the study.
+
+ Patients who consent to participate will be randomized.
+
+ Randomization process: This study is a simple, two-arm randomized clinical trial (RCT) with block randomization.
+
+ Allocation will be concealed before the patient enters study.
+
+ Patients will be randomized by the Research fellow following consent.
+
+ Allocation will be provided to surgeon in a sealed envelope to be opened immediately before surgery.
+
+ Patients and the data analyst will be blind to allocation; the surgeons cannot be blinded.
+
+ Charts will be blinded for data abstraction.
+
+ Data collection: Information will be collected by chart review from the operative report and patient records by the research fellow in the Department of Surgery.
+
+ Data elements to be collected include: Date of birth, Sex, American Society of Anesthesiologist (ASA) score, Surgeon, Site (if more than one facility), Fellow/resident/clerk present (y/n), Surgical procedure, Antibiotic prophylaxis received (y/n) and time given, Information about repeat antibiotic prophylaxis (for longer surgeries), Antibiotic type/combination, Type of wound protector and manufacturer, Prep type (ETOH based, chlorhexidine based, iodine based), Hair removal, Medications given, Packing, Drains, Wound classification, Wound closure technique & dressing type, Length of surgery, Surgical suite infection control factors (e.
+
+g.
+
+ UV, OR ventilation) if these differ, Transfusions, Patient records: Current use of corticosteroids/immune suppressant, Preoperative chemotherapy, Smoking history, Co-morbidities (diabetes, hypertension, etc.
+
+), Body Mass Index (BMI).
+
+ The presence of an SSI will be determined according to guidelines developed by the Centers for Disease Control.
+
+ More specifically, SSI is defined as being the presence of at least one of the following: 1.
+
+ Purulent drainage, with or without laboratory conformation, from the superficial incision.
+
+ 2.
+
+ Organisms isolated from an aseptically obtained culture of fluid from the superficial incision.
+
+ 3.
+
+ At least one of the following signs or symptoms of infection: pain or tenderness, localized swelling, redness and superficial incision is deliberately opened by surgeon, unless incision is culture-negative.
+
+ 4.
+
+ Diagnosis of superficial incisional SSI by the surgeon or attending physician.
+
+ Analysis We will use an intention to treat approach to the analysis to avoid the effects of crossover and dropout.
+
+ To achieve a power (superiority trial) of 90%, and alpha of 0.
+
+05 with a 5% crossover and a 40% expected SSI rate in control versus 10% in wound protector groups, the total sample size is 78 (i.
+
+e.
+
+ 39 in each arm).
+
+ Resources This project will capitalize on an existing research team who can work collaboratively with the Principal Investigator and research assistant to carry out the project effectively and efficiently.
+
+ The current research team includes a clinical research fellow with experience recruiting research participants from this patient population and a project manager who can assist with ethics applications, manuscript writing and reporting.
+
+ Additionally, the Principal Investigator will benefit from mentorship by an experienced investigator who can provide guidance not only on methodology, interpretation of data and publication strategies, but also on the day-to-day logistics of running a research project.
+
+.
+
+ The Use of Wound Protector in Whipple's Procedure With Intrabiliary Stent@highlight
+
+Background: There are no published studies regarding the use of wound protectors in the context of surgical site infection (SSI) rates among patients receiving a pancreatoduodenectomy (Whipple) with preoperatively placed intrabiliary stents.
+
+ In high volume experiences, the SSI rate is 40-50% within this cohort.
+
+ In Calgary, preoperative biliary stent placement for bile duct decompression represents the norm given typical surgical wait times.
+
+ In addition to having higher associated lengths of hospital stay, ICU admissions, hospital re-admissions, and overall mortality, patients with SSI are also delayed, and often omitted, in their progression to critical oncologic adjuvant chemotherapy.
+
+ As a result, SSI remain crucial and devastating complications for pancreas surgeons and their patients alike.
+
+ Methods: The investigators will complete a randomized controlled trial evaluating the rate of SSI in adult patients who undergo a pancreatoduodenectomy following biliary stent placement when wound protectors are employed versus no wound protector use.
+
+ This trial will employ block randomization.
+
+ All four University of Calgary Heapato-Pancreatico-Biliary (HPB) surgeons will participate with a planned inclusion of all patients scheduled to undergo a pancreatoduodenectomy.
+
+ Analysis: The investigators will use an intention to treat approach to the analysis.
+
+ Categorical baseline data will be analyzed using the Fisher exact probability test.
+
+ Non-categorical baseline data will be analyzed using the Student t test.
+
+ SSI rates will be determined using the Fisher exact probability test.
+
+ Hypothesis: Wound protectors will reduce the SSI rate in patients undergoing a pancreatoduodenectomy with preoperatively placed intrabiliary stents.
+
+ Potential Impact: Given the tremendous oncologic, economic, and psychological impact of SSI following pancreatoduodenectomy, the epidemic incidence of this complication must be reduced.
+
+ The additional crippling effect of refusing (Medicare) payment for any patient who receives a SSI in the United States has launched all techniques and analyses that can potentially reduce this complication into the National health care agenda.
+
+ In Canada, health care utilization and economics are always a relevant and ever expanding area of importance.
+
+ It is crucial that the investigators reduce complications such as SSI, regardless of individual payer sources.
+

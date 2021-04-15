@@ -1,0 +1,26 @@
+(thirdQuint)Vaccine Therapy in Treating Patients Who Are Being Considered For a Solid Organ Transplant and Are at Risk For Post-Transplant Lymphoproliferative Disorder.
+
+ OBJECTIVES: Primary - Determine the efficacy of photochemically-treated autologous Epstein-Barr virus (EBV)-transformed B-lymphoblastoid cell vaccine in generating an EBV-specific T-cell and antibody response in EBV-negative patients or in boosting the response in EBV-positive patients who are being considered for a solid organ transplant and are at high risk for post-transplant lymphoproliferative disorder.
+
+ - Determine adverse events associated with this vaccine in these patients.
+
+ - Determine the ability of the vaccine to protect from EBV primary infection in EBV-seronegative patients during the time course of the study.
+
+ OUTLINE: This is a nonrandomized, pilot study.
+
+ Patients are stratified according to Epstein-Barr virus (EBV) status (seropositive vs seronegative).
+
+ Patients receive photochemically-treated autologous EBV-transformed B-lymphoblastoid cell vaccine intradermally once in weeks 0 and 4.
+
+ After completion of study treatment, patients are followed periodically for up to 5 years.
+
+ PROJECTED ACCRUAL: A total of 40 patients will be accrued for this study.
+
+.
+
+ Vaccine Therapy in Treating Patients Who Are Being Considered For a Solid Organ Transplant and Are at Risk For Post-Transplant Lymphoproliferative Disorder@highlight
+
+RATIONALE: Vaccines made from a person's white blood cells may help the body build an effective immune response.
+
+ PURPOSE: This phase I trial is studying the side effects of vaccine therapy in treating patients who are being considered for solid organ transplant who are at risk for post-transplant lymphoproliferative disorder.
+

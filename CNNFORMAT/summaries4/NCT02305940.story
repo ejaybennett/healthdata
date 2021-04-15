@@ -1,0 +1,20 @@
+(secondQuint)Effects of Long Term Antibiotic Therapy on Exacerbation Rate in Stable COPD Patients.
+
+ Chronic Obstructive Pulmonary Disease (COPD) is a common disease which can place a considerable burden on people who suffer from it.
+
+ COPD exacerbations (periods when symptoms flare up) are a major cause of hospital admission in the UK.
+
+ Bacterial infections play an important role in the development of COPD and so one possible treatment for COPD is with antibiotics.
+
+ However, there is little information available about the use of long term antibiotics in the treatment of this disease.
+
+ Therefore, the purpose of this study is to investigate if long term use of the antibiotic Doxycycline can reduce exacerbations and improve the outlook for these patients.
+
+.
+
+ Effects of Long Term Antibiotic Therapy on Exacerbation Rate in Stable COPD Patients@highlight
+
+This study investigates if long term use of the antibiotic doxycycline can reduce exacerbations in COPD patients.
+
+ Half of the patients will receive doxycycline which the other half will receive a placebo.
+

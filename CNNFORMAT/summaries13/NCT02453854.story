@@ -1,0 +1,14 @@
+(firstQuint)Small Changes a One Year Protocol for Weight Management.
+
+ A quasi-experimental design.
+
+ With one arm focussed on 'treatment as usual' and the other on Motivational Interviewing.
+
+ Subjects were not randomly assigned but treated as two separate cohorts one Running October 2011-October 2012 using the Treatment as usual and a separate cohort running from October 2012 to October -2013 using motivational interviewing as the approach for treatment.
+
+.
+
+ Small Changes a One Year Protocol for Weight Management@highlight
+
+A trial comparing Treatment as usual with Motivational Interviewing focussed treatment in the 'Small Changes' programme.
+

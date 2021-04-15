@@ -1,0 +1,20 @@
+(secondQuint)Pharmacokinetics of Telavancin in Normal and Obese Subjects.
+
+ This study is a Phase I, open-label, single-dose pharmacokinetic study in healthy adult male and female subjects.
+
+ Eligible subjects will be assigned to one of four groups based on their body mass index and total body weight.
+
+ Subjects will receive a single dose of telavancin depending on subject's group as a 1-hour intravenous infusion.
+
+ Serial blood and urine samples will be collected over 12 hours to determine serum and urinary pharmacokinetics of telavancin.
+
+ Subjects will return for blood and urine sample collection at 24 and 48 hours.
+
+ Safety evaluations will be assessed throughout the study and will include physical examination, vital sign monitoring, clinical laboratory tests, monitoring of adverse events, and markers of kidney injury.
+
+.
+
+ Pharmacokinetics of Telavancin in Normal and Obese Subjects@highlight
+
+The purpose of this study is to characterize plasma and urinary concentrations of telavancin following intravenous administration of a single dose of telavancin in healthy subjects who are normal weight, overweight, and obese.
+

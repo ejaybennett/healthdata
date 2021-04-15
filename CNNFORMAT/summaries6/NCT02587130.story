@@ -1,0 +1,32 @@
+(fifthQuint)Ketamine and Refractory Painful Care in a Palliative Unit.
+
+ Patients in palliative care units have serious and incurable conditions and are in the sickness' late or final stages.
+
+ This is why the relief of their symptoms is a priority for their medical care, being pain one of the major symptoms.
+
+ In this context, the idea of treating various types of pain such as pain due to bed sore and ulcer bandages, carcinological or ischemic wounds or injuries, pain due to patients' reduced mobility, etc.
+
+ was raised.
+
+ French Ministry of Health's 2010 recommends the use of ketamine to treat refractory pain after the failure of usual therapeutic treatments (opioids, Nitrous oxide and oxygen (also known as MEOPA)).
+
+ This treatment is then used in association with midazolam (0.
+
+01 to 0.
+
+05 mg/kg) to prevent hallucinating effects.
+
+ However, the intravenous treatment is often the alternative and this choice is justified by the study population's characteristics (usually elderly patients, multi-pathologic, etc) and by the invasive way of treatment used with a repeated central and peripheral venous catheters which is contrary to the primary objective of patient comfort.
+
+ To the investigators' knowledge, no randomised study has ever been done regarding the use of ketamine to treat refractory pain administered subcutaneously.
+
+.
+
+ Ketamine and Refractory Painful Care in a Palliative Unit@highlight
+
+Pain is one of the major symptoms in palliative care units and often is very difficult to treat, being considered as a refractory pain.
+
+ There are different causes of refractory pain: pain due to bed sores and ulcer bandages, carcinological or ischemic wounds or injuries, pain due to patients' reduced mobility, pain due to traumatological injuries, pain associated with a long-term bed confinement, etc.
+
+ The investigators propose a prospective study to estimate the effect and the tolerance to a subcutaneous bolus of ketamine administered for the treatment of refractory pain due to the care of bedsores, ulcers and vascular wounds in patients hospitalized in palliative care units.
+

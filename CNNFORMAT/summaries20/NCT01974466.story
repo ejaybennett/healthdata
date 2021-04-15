@@ -1,0 +1,17 @@
+(firstQuint)Fluid Resuscitation Goal in Early Stage of Severe Acute Pancreatitis.
+
+ With regard to study of sepsis and several studies of SAP demonstrating the deleterious effects of fluid loss and haemoconcentration within the first 24h after admission(or onset of abdominal pain), early goal-directed fluid resuscitation has the potential of improving outcome also in SAP.
+
+ But the goal of fluid resuscitation remained controversial.
+
+Several criteria of fluid resuscitation had been described.
+
+ Ours had been described in previous study, and had shown a ideal result with less incidence of abdominal compartment syndrome and higher survival rate.
+
+ This study aims to determine a better goal of fluid resuscitation in severe acute pancreatitis.
+
+.
+
+ Fluid Resuscitation Goal in Early Stage of Severe Acute Pancreatitis@highlight
+
+To compare different goals of fluid resuscitation in early stage of acute pancreatitis

@@ -1,0 +1,26 @@
+(secondQuint)Integrative Approaches to Cancer Survivorship: Project 3.
+
+ Post-treatment cancer survivorship is often associated with a void in care given the drop-off in support provided to survivors from the medical team as well as family and friends.
+
+ In addition, cancer associated symptoms and impaired quality of life remain significant problems for patients despite advances in cancer treatment.
+
+ Few effective treatment options exist for these symptoms.
+
+ Integrative medicine is rising in popularity in the United States; however, few integrative medicine modalities have been rigorously studied.
+
+ Ayurveda, a whole system of medicine that originated in the Indian subcontinent, has its own system of diagnostics and therapeutics, and among its strengths are wellness and prevention.
+
+ In the Integrative Medicine intervention, Ayurvedic nutrition and lifestyle guidance will be presented, along with instruction in Yoga.
+
+ In the Health Education intervention, informative content on issues relevant to breast cancer survivors will be presented including the physical, social and emotional impacts of survivorship.
+
+ The investigators aim to perform a pilot RCT in breast cancer survivors with impaired quality of life.
+
+ Specifically, the investigators aim to assess feasibility of randomization, adherence and retention to the Integrative Medicine and Health Education interventions.
+
+.
+
+ Integrative Approaches to Cancer Survivorship: Project 3@highlight
+
+The purpose of this study is to conduct a randomized controlled trial or RCT of the following 2 supportive care interventions in recent breast cancer survivors: an Integrative Medicine intervention based on Ayurvedic medicine and a Health Education intervention.
+

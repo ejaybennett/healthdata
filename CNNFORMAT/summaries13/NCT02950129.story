@@ -1,0 +1,58 @@
+(fifthQuint)IRB-HSR # 14073 Investigation of Pelvic Girdle Dysfunction in the Low Back Pain Population.
+
+ Low back pain has been the subject of extensive research in the past 10 years.
+
+ Some of the efforts have focused on the effectiveness of diagnostic testing in determining the etiology of low back pain.
+
+ One component of low back pain clinically can be sacroiliac joint (SIJ) dysfunction.
+
+ The prevalence of sacroiliac pain in the low back pain population is reported to be approximately 10 to 30%.
+
+ The diagnosis of sacroiliac pain has been an area of controversy in the literature with poor inter-tester and intra-rater reliability described for motion testing.
+
+ More recently, a cluster of provocation tests has been described as predictive of the diagnosis of sacroiliac dysfunction.
+
+ Laslett et al suggested that SI pain provocation tests used in examination should include a cluster of six tests.
+
+ When three or more out of six tests or any two of four selected tests are positive, that showed the best predictive power in diagnosing SIJ pain.
+
+ The "gold standard" for diagnosing SIJ pain in this study was pain relief with intra-articular local anesthetic block injection.
+
+ When all six provocation tests do not provoke the patient's typical pain, the SIJ can be ruled out as a source of current low back pain.
+
+ Pelvic girdle pain including SIJ dysfunction has been investigated in post partum populations.
+
+ The Active Straight Leg Raise (ASLR) has been shown to be reliable in post partum pelvic pain.
+
+ This test is thought to help assess hypermobility in the SIJ.
+
+ This test has a positive likelihood ratio (+LR)= 14.
+
+5 and a negative likelihood ratio (-LR)= .
+
+14 which indicates that this is a good test to rule in or rule out pelvic girdle pain in pregnancy.
+
+ This test is thought to help assess dysfunction of the SIJ.
+
+ The Gillet test has recently been reported to indicate abnormal biomechanics on the stance side by Hungerford et al.
+
+ Increased hamstring activation on the stance leg has been identified as indicative of abnormal SI motion.
+
+ These two tests (ASLR and Gillet) are thought to be reflective of SIJ instability or abnormal movement in, respectively, pregnancy or low back patients.
+
+.
+
+ IRB-HSR # 14073 Investigation of Pelvic Girdle Dysfunction in the Low Back Pain Population@highlight
+
+The subjects will undergo a specific physical exam of tests reported to be diagnostic of sacroiliac joint (SIJ) pain prior to receiving the routine injection in the SIJ that which is being performed as part of their normal medical care.
+
+ Routine care involves use of any number of these tests, but doesn't routinely include assessment of all 6 tests in all patient's treatment.
+
+ The subject will fill out a Visual Analog Scale for pain and a pain drawing prior to and after the injection.
+
+ The tests will be repeated after the injection.
+
+ The investigators propose to investigate a cluster of tests proposed by Laslett as well as compare the results of the ASLR and the Gillet Test both before and after SIJ injection to determine the validity of these tests in a low back patients presenting for injections thought to be from the sacroiliac joint.
+
+ The secondary purpose would be the development of a clinical predictor rule to determine examination characteristics of patients who may benefit from intraarticular injections of the SIJ.
+

@@ -1,0 +1,24 @@
+(secondQuint)Treatment for Achilles Tendinopathy.
+
+ The purpose of this research project is to optimize the clinical outcome of patients with Achilles tendinopathy.
+
+ Patients who fail a standardized physical therapy regiment (eccentric training protocol) will be randomly allocated into two groups with one group receiving an injection of hypertonic glucose and Lidocaine (sclerosing solution) and the other receiving an injection of Lidocaine (control).
+
+ Neovascularisation (growth of new blood vessels and nerves into a damaged area of the tendon) appears to be associated with pain and subsequently a decrease in function and use of the affected tendon.
+
+ Results of an observational study in Sweden revealed that in all patients for which eccentric training was unsuccessful neovascularisation was present.
+
+ Sclerosis of neovessels appears to be successful in removing the pain associated with Achilles tendinopathy in both mid-portion and enthesitis patients.
+
+ However, there are no studies that have administered this technique to a homogenous patient population in a prospective, controlled and randomized manner.
+
+ In addition, there are no studies that have compared the effects of eccentric training in healthy individuals versus patients with painful Achilles tendinopathy in a controlled longitudinal study.
+
+ It is expected that patients for whom eccentric training is unsuccessful and who subsequently receive sclerosing therapy will show a statistically significant improvement in pain and function.
+
+.
+
+ Treatment for Achilles Tendinopathy@highlight
+
+The purpose of this study is to determine whether sclerotherapy using a 25% dextrose and 1% lidocaine solution is an efficacious treatment for patients with chronic Achilles tendinopathy who have failed a home based, heavy load eccentric training program.
+

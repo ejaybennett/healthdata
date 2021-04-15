@@ -1,0 +1,19 @@
+(fifthQuint)Real Time Myocardial Perfusion Echocardiography for Coronary Allograft Vasculopathy.
+
+ Heart transplant recipients are susceptible to developing a unique disease that causes blockages in the arteries of the transplanted heart (coronary arteries) called Coronary Allograft Vasculopathy (CAV).
+
+ Because CAV often progresses without symptoms, transplant recipients undergo regular surveillance testing so that CAV can be detected and treatment can be offered before significant damage to the transplanted heart occurs.
+
+ Current tests used to detect CAV are either invasive (with risk of complications) or may not be able to detect CAV in its early stages.
+
+ Myocardial contrast perfusion echocardiography is a safe non-invasive diagnostic test that may be well suited for detecting CAV, however has not been well studied in heart transplant recipients.
+
+ This study examines the ability of myocardial contrast perfusion echocardiography to detect CAV in adult and pediatric heart transplant recipients, and compare those results to current standard testing strategies such as Invasive Coronary Angiography (ICA) and standard stress echocardiography.
+
+ This will help determine whether myocardial contrast perfusion echocardiography is a better test for regular surveillance of CAV in adult and pediatric transplant recipients.
+
+.
+
+ Real Time Myocardial Perfusion Echocardiography for Coronary Allograft Vasculopathy@highlight
+
+Is real-time myocardial perfusion echocardiography (RTMPE) a feasible and effective non-invasive method to detect significant Coronary Allograft Vasculopathy in pediatric and adult cardiac transplant recipients? Will perfusion deficits correlate with significant coronary artery stenosis identified by standard stress echocardiography and Invasive Coronary Angiography (ICA), and identify diffuse small vessel disease more effectively than current non-invasive techniques?

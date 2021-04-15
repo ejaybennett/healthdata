@@ -1,0 +1,16 @@
+(secondQuint)Internet-delivered CBT for Adolescents With GAD.
+
+ This pilot study aims to test Internet-delivered Cognitive Behavioral Therapy (ICBT) for adolescents with Generalized Anxiety Disorder (GAD) The study has a single case research design (multiple baseline) and will include 12 participants with GAD according to a semi structured diagnostic interview.
+
+ Participants will be randomized to either two, six or ten weeks baseline measurements prior to starting treatment, and will thus work as their own controls.
+
+ Primary outcome measures will be collected at 10 weeks after treatment start.
+
+ Follow-up assessments will be made three month after treatment.
+
+.
+
+ Internet-delivered CBT for Adolescents With GAD@highlight
+
+This multiple baseline evaluation aims to test the feasibility and preliminary effectiveness of Internet-delivered cognitive behavioral therapy (ICBT) for adolescents with Generalized Anxiety Disorder (GAD).
+

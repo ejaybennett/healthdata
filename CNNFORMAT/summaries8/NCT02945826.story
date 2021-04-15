@@ -1,0 +1,14 @@
+(firstQuint)uPAR-PET/MRI in Glioblastoma Multiforme.
+
+ 68Ga-NOTA-AE105 is a radioligand targeting urokinase plasminogen activator receptor (uPAR), which is a promising imaging biomarker of tumor aggressiveness.
+
+ 68Ga-NOTA-AE105 PET/MRI will be applied in patients suspected of glioblastoma multiforme.
+
+ The uptake of the radioligand 68Ga-NOTA-AE105 will be compared and correlated with expression of the molecular target: uPAR using immunohistochemistry of tumor tissue samples obtained during routine stereotactic biopsies or operation.
+
+ In addition, the semiquantitative uptake (standard uptake values, SUVs) of 68Ga-NOTA-AE105 in tumor tissue will be correlated with overall survival and progression free survival.
+
+ uPAR-PET/MRI in Glioblastoma Multiforme@highlight
+
+The purpose of this study is to investigate the applicability of urokinase plasminogen activator receptor (uPAR) Positron Emission Tomography (PET) / MRI molecular imaging of glioblastoma.
+

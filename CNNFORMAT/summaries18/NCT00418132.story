@@ -1,0 +1,48 @@
+(thirdQuint)Thalidomide for Decreasing Collagen Biosynthesis in People With Progressive Systemic Sclerosis.
+
+ Progressive systemic sclerosis (SSc), also known as scleroderma, is a disease of the body's connective tissue.
+
+ It is characterized by fibrosis of the skin, or formation of scar-like tissue, resulting in progressively increased restriction of joint range of motion.
+
+ Fibrosis of internal organs also occurs, leading to irregular heart rhythms, acid reflux, and respiratory problems.
+
+ Unfortunately, no therapies have been developed to effectively treat SSc.
+
+ The disease is believed to be an immunological disorder that affects T-helper type 2 (Th2) cells, which stimulate the production of antibodies and interleukin-4 (IL-4), a protein with profibrotic properties.
+
+ T-helper type 1 (Th1) cells produce interferon- (IFN-), a protein that prevents fibroblast production of collagen, a primary component of the body's connective tissue.
+
+ It is possible that shifting the disease's target from the Th2 cells to the Th1 cells may decrease collagen production, and thereby reduce fibrosis.
+
+ Thalidomide is an immune modulatory drug that has been shown to stimulate production of Th1 cells.
+
+ This study will evaluate the effectiveness of thalidomide in treating adults with SSc.
+
+ Following screening procedures, participants in this 48-week, double-blind study will be randomly assigned to receive placebo or thalidomide at a dose of 50 mg/day.
+
+ The thalidomide dose will be increased to 100 mg/day at Week 2, then to 200 mg/day at Week 4, and finally to 300 mg/day at Week 6.
+
+ Participants who experience dose intolerance will immediately switch to the previously tolerated dose.
+
+ Inpatient hospital visits lasting 2 days will occur at the beginning of the study before starting thalidomide treatment and at Weeks 16 and 48.
+
+ Assessments and procedures at these visits will include blood and urine collection, a physical exam, a chest X-ray, an electrocardiogram, a skin biopsy, and various questionnaires.
+
+ Outpatient study visits will occur at Weeks 2, 4, 6, 8, 12, 18, 20 and then every 4 weeks until Week 44.
+
+ Assessments will include measures of immune function, clinical disease, hypothalamic-pituitary-adrenal axis, and safety.
+
+ Following the Week 48 inpatient visit, thalidomide will be tapered off over a 2-week period for all participants.
+
+.
+
+ Thalidomide for Decreasing Collagen Biosynthesis in People With Progressive Systemic Sclerosis@highlight
+
+Progressive systemic sclerosis (SSc) is an immune-based disease that causes abnormal connective tissue growth of the skin and internal organs.
+
+ At this point, there are no effective therapies for treating SSc.
+
+ Thalidomide is a medication that has been shown to stimulate an immune response that reduces the body's synthesis of collagen, the main component of connective tissue.
+
+ This study will determine the effectiveness of thalidomide in treating adults with SSc.
+

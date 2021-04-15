@@ -1,0 +1,22 @@
+(secondQuint)Oral Disintegrating Ondansetron Tablet to Reduce Vomiting From Gastroenteritis in a Pediatric Emergency Department.
+
+ Background: Vomiting may limit the success of oral rehydration in children with gastroenteritis and dehydration.
+
+ Limited data suggest that while oral ondansetron may reduce vomiting from gastroenteritis, emergency department revisits may increase.
+
+ Methods: The investigators conducted a prospective, double-blind randomized trial at a pediatric emergency department in 214 dehydrated children, aged 6 months to 10 years with gastroenteritis and mild to moderate dehydration as assessed by a dehydration score.
+
+ They were randomly assigned to receive treatment with an ondansetron oral disintegrating tablet or placebo.
+
+ Oral rehydration was administered according to a standard protocol.
+
+ The primary outcome was the proportion of children who vomited during oral rehydration therapy.
+
+ The secondary outcomes were the mean number of episodes of vomiting, and the proportion of children treated with intravenous rehydration or hospitalized.
+
+.
+
+ Oral Disintegrating Ondansetron Tablet to Reduce Vomiting From Gastroenteritis in a Pediatric Emergency Department@highlight
+
+The objectives of the study were to determine whether ondansetron treatment would reduce: - the amount of vomiting in the emergency department; - the need for intravenous rehydration; and - the need for hospitalization.
+

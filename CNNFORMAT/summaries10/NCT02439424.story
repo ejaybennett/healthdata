@@ -1,0 +1,28 @@
+(fifthQuint)The REACT-ICD Trial.
+
+ Atrial tachyarrhythmias (ATA) and heart failure (HF), which are well-recognized causes of morbidity and mortality, are growing and concerning issues in our patient population.
+
+ In patients implanted with a dual-chamber implantable cardioverter defibrillator (ICD), progression of paroxysmal to persistent or permanent atrial fibrillation (AF) has been documented.
+
+ Because of the untoward consequences of AF, such as development/worsening of HF or thromboembolic events (stroke and myocardial infarction [MI]), prevention of permanent AF has the potential to improve quality of life, reduce hospitalizations, and decrease the complications associated with AF.
+
+ Recent advancements with implantable cardiac device technology include extensive diagnostic and therapeutic algorithms for prevention as well as termination of ATA.
+
+ Preventive atrial pacing (PAP) and a novel atrial antitachycardia pacing algorithm (Reactive ATP cent ) in conjunction with managed ventricular pacing (MVP) recently has been shown to reduce progression to permanent AF in pacemaker patients with intact atriovenous (AV) conduction and a history of ATA.
+
+ Results of that study suggested that Reactive ATP cent specifically was responsible for this effect.
+
+ Whether the use of Reactive ATP cent for reducing AF burden extends to patients with an implantable cardioverter defibrillator (ICD), who typically have structural heart disease and HF, is unknown.
+
+ The aim of this study is to evaluate the effectiveness of atrial antitachycardia pacing (Reactive ATP) in patients implanted with either a dual-chamber or cardiac resynchronization therapy (CRT) ICD who have a history of ATA.
+
+.
+
+ The REACT-ICD Trial@highlight
+
+Recent advancements with implantable cardiac device technology include extensive diagnostic and therapeutic algorithms for prevention as well as termination of atrial tachyarrhythmias (ATA).
+
+ Preventive atrial pacing (PAP) and a novel atrial antitachycardia pacing algorithm (Reactive ATP cent ) in conjunction with managed ventricular pacing (MVP) recently has been shown to reduce progression to permanent atrial fibrillation (AF) in pacemaker patients with intact atriovenous (AV) conduction and a history of ATA.
+
+ Whether the use of Reactive ATP cent for reducing AF burden extends to patients with an implantable cardioverter defibrillator (ICD), who typically have structural heart disease and heart hailure (HF), is unknown.
+

@@ -1,0 +1,14 @@
+(firstQuint)Efficacy of Two Vaginal Solutions in Preoperative Use.
+
+ It is well known from the literature that the use of Povidone-iodone based solution for vaginal preparation before surgery is fraught with side effects and sensitivity, and often does not provide sufficient eradication of colonies of pathogens from the operation field.
+
+ It is also known that Chlorhexidine gluconate in low concentration provides a better result and does not cause side effects more than Povidone-iodone, but the chlorhexidine is still not approved for washing the mucous membranes.
+
+ This study is necessary in order to provide proof of its effectiveness and safety.
+
+.
+
+ Efficacy of Two Vaginal Solutions in Preoperative Use@highlight
+
+This study is necessary in order to provide proof the effectiveness of Chlorhexidine gluconate and its safety.
+

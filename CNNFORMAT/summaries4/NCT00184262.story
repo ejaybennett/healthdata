@@ -1,0 +1,14 @@
+(secondQuint)Exposure and Response Prevention With Behavioral- Versus Cognitive Therapy Rationale in Obsessive Compulsive Disorder.
+
+ The aim of the study is to determine whether exposure and response prevention (ERP) is more effective when patients are presented with a behavioral therapy versus cognitive therapy rationale in the treatment of obsessive-compulsive disorder OCD.
+
+ A randomized controlled trial including patients with OCD.
+
+ 50 patients will receive 15 ERP sessions in 3 months.
+
+.
+
+ Exposure and Response Prevention With Behavioral- Versus Cognitive Therapy Rationale in Obsessive Compulsive Disorder@highlight
+
+The aim of the study is to determine whether exposure and response prevention (ERP) is more effective when patients are presented with a behavioral therapy versus cognitive therapy rationale in the treatment of obsessive-compulsive disorder (OCD).
+

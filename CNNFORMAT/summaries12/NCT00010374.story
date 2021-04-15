@@ -1,0 +1,48 @@
+(fifthQuint)Electrical Activation of The Diaphragm for Ventilatory Assist.
+
+ System: NeuRx RA/4 Diaphragm Pacing Stimulation System Summary: The NeuRx-RA/4 is intended to be used by individuals that have sustained a spinal cord injury, requiring aid with respiration.
+
+ The device connects to the diaphragm which delivers current to stimulate muscle contractions to aid in respirations.
+
+ This device currently holds an Investigational Device Exemption No.
+
+ G920162 in the United States and is currently undergoing clinical trials at University Hospitals (Cleveland), Shepherd Center (Atlanta) and Vancouver (Canada).
+
+ Introduction: The purpose of the study is to determine if a new, investigational diaphragm pacing system can provide part or full time respiratory support to spinal cord injured persons who normally need a mechanical ventilator.
+
+ Patients with high-level spinal cord injuries typically experience chronic ventilatory insufficiency due to respiratory muscle paralysis; these patients must be supported predominantly through positive pressure mechanical ventilation with a ventilator.
+
+ The diaphragm pacing system (NeuRx-RA/4) provides an electrical signal to the motor point of the muscle that causes the diaphragm to contract and allows patients to breathe more naturally.
+
+ Synapse Biomedical, in conjunction with Case Western Reserve University and University Hospitals of Cleveland, are evaluating activating the diaphragm with percutaneous intramuscular electrodes implanted laparoscopically.
+
+ This eliminates any direct contact with the phrenic nerve, allows all circuitry and electronics to remain outside the body, and provides direct, selective activation to each hemidiaphragm.
+
+ The NeuRx RA/4 Diaphragm Pacing Stimulation (DPS) System has been implanted in over 25 individuals with high-level spinal cord injury, resulting in over 20 years of cumulative active implantation time.
+
+ The longest term patient was implanted March 6, 2000 and has been using the DPS System as his sole means of respiratory support for over five years.
+
+ With the exception of the second patient, who does not meet our revised inclusion criteria and has gained no benefit from the implant, all of the remaining patients have been able to achieve significant tidal volumes with the DPS System.
+
+ Based on the current results, the NeuRx RA/4 DPS System has demonstrated safety and efficacy in patients with high-level spinal cord injury.
+
+ Given the results to date the study has demonstrated preliminary efficacy in this patient population.
+
+ With no unexpected significant adverse events reported the NeuRx RA/4 DPS System has performed reliably and safely in this patient population.
+
+ Device Description: The NeuRx RA/4 Respiratory System is manufactured by Synapse Biomedical.
+
+ The NeuRx RA/4 System comprises the following components: an external, battery powered Stimulator Device, an associated Programmer/Controller, Intramuscular Electrodes, associated percutaneous Lead Wires, a Surgical Placement Tool Set, and a surgical Mapping Station.
+
+ Inclusion Criteria: - Age 18 years or older - Cervical spinal cord injury dependant on mechanical ventilation - Clinically stable following acute spinal cord injury - Bilateral phrenic nerve function clinically acceptable as demonstrated with EMG recordings and nerve conduction times - Diaphragm movement with stimulation visible under fluoroscopy - Clinically acceptable oxygenation on room air (>90%) - Hemodynamically stable - No medical co-morbidities that would interfere with the proper placement or function of the device - Committed primary caregiver - Negative pregnancy test in females of child-bearing potential - Informed consent from patient or designated representative Exclusion Criteria: - Co-morbid medical conditions that preclude surgery - Active lung disease (obstructive, restrictive or membrane diseases) - Active cardiovascular disease - Active brain disease - Hemodynamic instability or low oxygen levels on room air - Hospitalization for or a treated active infection within the last 3 months - Significant scoliosis or chest deformity - Marked obesity - Anticipated poor compliance with protocol by either patient or primary caregiver.
+
+ - Currently breastfeeding.
+
+ Electrical Activation of The Diaphragm for Ventilatory Assist@highlight
+
+OBJECTIVES: The objectives of this study are to test the Diaphragm Pacing Stimulation (DPS) System for treating chronic ventilatory insufficiency in persons with respiratory muscle paralysis.
+
+ The hypothesis being tested in the clinical trial is that laparoscopic stimulation of the diaphragm at the motor point with intramuscular electrodes is safe and effective in providing significant ventilatory support to individuals who are otherwise dependant on a mechanical ventilator.
+
+ Patients in our initial study group have all suffered from high-level spinal cord injury and were full-time dependant on positive pressure mechanical ventilation prior to inclusion.
+

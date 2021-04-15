@@ -1,0 +1,14 @@
+(secondQuint)Safety and Efficacy Study of GR68755 (Alosetron Hydrochloride) to Treat Severe Diarrhea-Predominant Irritable Bowel Syndrome (IBS).
+
+ The study objectives are to obtain the clinical experience of GR68755 1 mg QD in Japanese female subjects with severe d-IBS who have frequent bowel urgency and to obtain exploratory efficacy and safety data that can be used as reference for endpoints and dosage and administration of a next phase clinical study in Japan.
+
+ After giving a written informed consent, subjects will undergo essential observation and examinations during the screening phase and subjects who meet the eligibility criteria will enter into the treatment phase.
+
+ When subjects enter into the treatment phase, the subjects will administer GR68755 1 mg tablets QD in the morning every day for 28 days from the next day of receiving the investigational products.
+
+.
+
+ Safety and Efficacy Study of GR68755 (Alosetron Hydrochloride) to Treat Severe Diarrhea-Predominant Irritable Bowel Syndrome (IBS)@highlight
+
+This study is an exploratory study aiming (i) to obtain clinical experience of GR68755 in Japanese subjects with severe d-IBS to explore the feasibility of the next phase study and (ii) to obtain reference data for endpoints and dosage and administration of a next phase study.
+

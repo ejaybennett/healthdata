@@ -1,0 +1,16 @@
+(secondQuint)Allogeneic Human Mesenchymal Stem Cell Infusion Versus Placebo in Patients With Alzheimer's Disease.
+
+ This is a randomized, placebo-controlled clinical trial designed to evaluate the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) or placebo in subjects with Alzheimer's Disease.
+
+ Following a successful Safety Run-In Phase, a total of twenty-five (25) subjects will be randomized to (2:2:1) to receive low-dose LMSCs, high-dose LMSCs or placebo.
+
+ After randomization, baseline imaging, and study product infusion, subjects will be followed up at 2,4,13, 26, 39 and 52 week post study product infusion.
+
+ Intention-to-treat study population will be used for the purpose of the endpoint analysis and safety evaluations.
+
+.
+
+ Allogeneic Human Mesenchymal Stem Cell Infusion Versus Placebo in Patients With Alzheimer's Disease@highlight
+
+This is a Phase I, prospective, randomized, placebo-controlled, double-blinded study designed to test the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) for the treatment of subjects with clinically diagnosed Alzheimer's disease.
+

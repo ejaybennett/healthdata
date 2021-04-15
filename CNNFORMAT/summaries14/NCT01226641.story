@@ -1,0 +1,32 @@
+(secondQuint)Usefulness of a Telemedicine System for OSA Patients Follow-up With High Cardiovascular Risk.
+
+ The obstructive sleep apnea syndrome (OSAS) corresponds to repeated epochs of complete or incomplete pharynx collapses occurring during sleep.
+
+ The Continuous Positive Airway Pressure is the gold standard treatment for OSAS.
+
+ It consists of air insufflation in upper airways with a pressure of about 5 to 15 cm of water with a facial or nasal mask.
+
+ CPAP treatment reduces cardiovascular morbi-mortality.
+
+ OSAS is associated with cardiovascular mortality.
+
+ A dose response effect exists between severity and arterial blood pressure.
+
+ A recent meta-analysis has shown in unselected OSAS patients with or without hypertension, treated or non-treated for hypertension, CPAP reduces 24 h ambulatory blood pressure of approximately 2 mmHg.
+
+ This decrease corresponds to a significant reduction in cardiovascular risk.
+
+ The aim of the present study is to include OSAS patients with a high cardiovascular risk and to measure the effect of CPAP on home measurements of arterial blood pressure.
+
+ This controlled randomized trial will compare the effect CPAP on arterial blood pressure in a group with a telemedicine system versus a group with standard home care CPAP treatment.
+
+ An interim analysis will be carried out when 100 patients have been included in the study.
+
+.
+
+ Usefulness of a Telemedicine System for OSA Patients Follow-up With High Cardiovascular Risk@highlight
+
+The aim of this study is to determine the usefulness of a telemedicine system for the follow-up of OSA patients with a high cardiovascular risk.
+
+ Our hypothesis is that the telemedicine system will enhance compliance and thus reduce self-measured blood pressure.
+

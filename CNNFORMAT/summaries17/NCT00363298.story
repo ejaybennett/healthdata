@@ -1,0 +1,24 @@
+(secondQuint)Dextro-Amphetamine Versus Caffeine in Treatment-resistant OCD.
+
+ The study will investigate whether dextro-amphetamine (d-amphetamine) is safe and effective compared to caffeine as an active placebo when used to augment treatment for Obsessive-Compulsive Disorder (OCD), and whether tolerance (loss of therapeutic effect) to the medication will develop over a period of several weeks D-amphetamine is approved by the U.
+
+S.
+
+ Food and Drug Administration to treat Attention Deficit Hyperactivity Disorder (ADHD) in children and adolescents.
+
+ Because of the effects that d-amphetamine has on the brain, Dr.
+
+ Koran believes it may be helpful in treating OCD.
+
+ A positive finding in this study may stimulate research aimed at improving OCD treatment and understanding of the neurochemistry involved.
+
+ This research study will enroll 24 people who are taking medication for their OCD but are not receiving sufficient benefit.
+
+ The research will be performed only at Stanford University.
+
+.
+
+ Dextro-Amphetamine Versus Caffeine in Treatment-resistant OCD@highlight
+
+The study hypothesis is that dextro-amphetamine (d-amphetamine) will be safe and effective when used to augment treatment for Obsessive-Compulsive Disorder (OCD), and that tolerance (loss of therapeutic effect) to the medication will not develop over a period of several weeks.
+

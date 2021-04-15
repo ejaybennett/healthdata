@@ -1,0 +1,14 @@
+(firstQuint)Treatment of Primary CNS Lymphoma.
+
+ Primary CNS lymphoma (PCNSL) is a rare B-cell variant of non-Hodgkin lymphoma that is confined to the brain, leptomeninges, spinal cord, and eyes.
+
+ The optimum treatment for patients with PCNSL remains challenging and at present there is no universally accepted therapeutic approach for patients with newly diagnosed disease.
+
+ The purpose of this study is to evaluate the efficacy and safety of FVD regiment(fotemustine, teniposide and dexamethasone)contrast with HD-MTX-Ara-C program for patients with primary CNS lymphoma.
+
+.
+
+ Treatment of Primary CNS Lymphoma@highlight
+
+The purpose of this study is to evaluate the efficacy and safety of FVD regiment (fotemustine, teniposide and dexamethasone ) for patients with primary CNS lymphoma.
+

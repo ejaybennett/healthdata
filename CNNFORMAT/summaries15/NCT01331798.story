@@ -1,0 +1,24 @@
+(secondQuint)Evaluation of Cohera TissuGlu in the Management of Wound Drainage Following Abdominoplasty.
+
+ Background: Fluid accumulation in dissected tissue planes has been a longstanding problem following surgical procedures.
+
+ The common use of closed suction drains has been associated with infection risk, wound healing complications, additional scarring, and patient discomfort.
+
+ Additionally, seroma formation after drain removal often requires invasive treatment.
+
+ Therapies that can reduce fluid accumulation and decrease the need for drains will have a positive impact on surgical practice.
+
+ Objective: To study the safety and the preliminary efficacy of a TissuGlu(R), a novel surgical adhesive, in the management of wound drainage during abdominoplasty procedures.
+
+ Material & Methods: A blinded prospective randomized trial compared drain fluid output (volume) and complication profile in 40 subjects undergoing abdominoplasty with (n=20) or without (n=20) the use of a urethane based adhesive.
+
+ The TissuGlu(R) adhesive, which required no mixing or preparation, was administered to the abdominal wall using a custom drop tip applicator prior to closure of the abdominoplasty flap.
+
+ Two Blake(R) drains connected to J-VAC suction reservoirs were placed in the wound.
+
+.
+
+ Evaluation of Cohera TissuGlu in the Management of Wound Drainage Following Abdominoplasty@highlight
+
+A blinded, prospective, randomized trial in 40 abdominoplasty cases at three sites to study the safety and the preliminary efficacy of TissuGlu(R), a novel surgical adhesive, in the management of wound drainage during abdominoplasty procedures.
+

@@ -1,0 +1,26 @@
+(firstQuint)Matrix Metalloproteinase-1/Tissue Inhibitor of Metalloproteinase-1 (MMP-1/TIMP-1) Ratio and Diabetic Foot Ulcers.
+
+ This monocentric, prospective, non-randomized study assesses the amount of the main metalloproteinases (MMP1, MMP9, MMP13) and their inhibitor TIMP-1 in wound fluid from diabetic foot ulcers.
+
+ It aims at demonstrating whether a MMP-1/TIMP-1 ratio equal to 0.
+
+24 at study entry can predict wound healing 12 weeks later.
+
+ All patients will receive the same treatment according to our local protocol.
+
+ The difference with standard care will be a sample of wound fluid at week 0 and week 4 and a numeric photograph for wound area measurement at week 0, week 4 and week 12.
+
+ The main outcome measurement is the percent change of wound area between week 0 and week 12 Secondary objectives include the evaluation of a MMP-1/TIMP-1 ratio equal to 0.
+
+4 and the search for confounding factors.
+
+ A correlation between MMP-9, MMP-13 and wound healing will also be investigated.
+
+.
+
+ Matrix Metalloproteinase-1/Tissue Inhibitor of Metalloproteinase-1 (MMP-1/TIMP-1) Ratio and Diabetic Foot Ulcers@highlight
+
+The primary objective of this study is to assess the sensitivity and specificity of a MMP-1/TIMP-1 ratio equal to 0.
+
+24 at study entry to predict wound healing at 12 weeks' follow up visit.
+

@@ -1,0 +1,26 @@
+(secondQuint)Radiation Therapy Following Surgery in Treating Patients With Recurrent or Second Primary Cancer of the Head and Neck Following Previous Radiation Therapy.
+
+ OBJECTIVES: - Determine the survival and local control in previously irradiated patients at high risk for local failure following regional resection of recurrent or second primary head and neck cancer.
+
+ - Determine the acute and late toxicities of this treatment in these patients.
+
+ - Determine the pattern of disease failure in these patients on this treatment.
+
+ - Determine any change in quality of life in these patients on this treatment.
+
+ OUTLINE: Patients receive fractionated doses of radiotherapy five times weekly for 6 weeks.
+
+ Quality of life is assessed prior to study, 2 months after radiotherapy, every 3 months for remainder of year 1, every 4 months for years 2-3, every 6 months for years 4-5, and then annually thereafter.
+
+ Patients are followed 2 months after radiotherapy, every 3 months for year 1, every 4 months for year 2, every 6 months for years 3-5, and then annually thereafter.
+
+ PROJECTED ACCRUAL: A total of 30 patients will be accrued for this study within 5 years.
+
+.
+
+ Radiation Therapy Following Surgery in Treating Patients With Recurrent or Second Primary Cancer of the Head and Neck Following Previous Radiation Therapy@highlight
+
+RATIONALE: Radiation therapy uses high-energy x-rays to damage tumor cells.
+
+ PURPOSE: Phase I/II trial to study the effectiveness of radiation therapy following surgery in treating patients who have recurrent or second primary cancer of the head and neck following previous radiation therapy.
+

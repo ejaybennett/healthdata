@@ -1,0 +1,42 @@
+(fifthQuint)Aligning Patient Preferences: a Role Offering Alzheimer's Patients, Caregivers, and Healthcare Providers Education and Support.
+
+ A significant number of patients Alzheimer's disease or related dementia diagnoses will be cared for in nursing homes near the end of life.
+
+ Unfortunately, many of these patients experience unwanted and burdensome medical treatments, such as potentially avoidable hospitalizations, that negatively impact quality of life.
+
+ Advance care planning (ACP) discussions with patients and family caregivers are important to explore goals in advance of a crisis and support informed, values-based decision-making.
+
+ The ACP process helps ensure that preferences about treatments such as hospitalization are known, documented, and honored.
+
+ Research indicates that ACP can reduce burdensome treatments and increase the likelihood that care will match documented preferences.
+
+ Nursing homes are currently required by regulations to offer ACP to patients and families.
+
+ However, there are no training requirements for nursing home staff and approaches to fulfilling this regulatory and ethical responsibility vary widely, resulting in inconsistent ACP.
+
+ The "Aligning Patient Preferences - a Role Offering Alzheimer's patients, Caregivers, and Healthcare providers Education and Support (APPROACHES)" trial will test the ACP Specialist Program.
+
+ Existing nursing home staff members will be trained to enhance care and reduce unwanted, burdensome hospitalizations through improved ACP procedures, standardized staff education on ACP, and systematic ACP facilitation.
+
+ The primary trial outcome is hospital transfers (admissions and emergency department visits) per 1000 person-days alive.
+
+ Consistent with the spirit of a pragmatic trial, study outcomes rely on data already collected for quality improvement, clinical or billing purposes.
+
+ In the 18 month R21 pilot phase, the aims are to: 1) Establish the trial's organizational structure and processes; and 2) Pilot test the intervention in 4 nursing homes.
+
+ In the R33 phase, a pragmatic cluster randomized clinical trial will be conducted in partnership with 3 nursing home corporations who operate a combined total of 206 diverse urban and rural facilities in 14 states.
+
+ The aims of the 42 month R33 phase are to: 3) Evaluate the primary outcome of hospital transfers over 12 months among patients with dementia in intervention versus control nursing homes; and 4) Compare ACP documentation, measures of quality of care at the end of life, and patient and family satisfaction between the intervention versus control nursing homes.
+
+ If successful, the ACP Specialist Program will be primed for rapid translation into nursing home practice to reduce unwanted, burdensome hospitalizations and improve quality of care for patients with dementia.
+
+.
+
+ Aligning Patient Preferences: a Role Offering Alzheimer's Patients, Caregivers, and Healthcare Providers Education and Support@highlight
+
+Nursing home (NH) patients with Alzheimer's disease and related dementias often receive unwanted, burdensome treatments such as hospitalization.
+
+ Advance care planning (ACP) is a key strategy to support patients and family-caregivers in making informed decisions and ensuring treatment preferences are proactively known and honored.
+
+ The ACP Specialist Program will improve care and reduce unwanted, burdensome hospitalizations through improved ACP procedures, standardized staff education on ACP, and systematic ACP facilitation delivered by existing NH staff.
+

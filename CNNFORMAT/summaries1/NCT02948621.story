@@ -1,0 +1,20 @@
+(thirdQuint)Endoscopic Sleeve Gastroplasty.
+
+ Gastric restriction is one of the fundamental principles of gastric bypass and gastric banding.
+
+ Nowadays, practitioners have the possibility to reduce stomach size by merging tissues through an endoscopic endoluminal suture approach without any incision.
+
+ This could reduce the complications associated with current surgical techniques while obtaining the target gastric restriction, weight loss, comorbidities and quality of life improvement.
+
+ The primary objective of this study is to assess weight loss after endoscopic sleeve gastroplasty in patients with morbid obesity according to the technique described in the literature: reduction of the gastric pouch into a sleeve structure by modification of the stomach greater curvature thanks to a plication.
+
+.
+
+ Endoscopic Sleeve Gastroplasty@highlight
+
+The endoscopic sleeve gastroplasty allows stomach size reduction through an endoluminal suture approach without any incision.
+
+ It could reduce the complications associated with current surgical techniques while obtaining the target gastric restriction, weight loss, comorbidities and quality of life improvement.
+
+ The primary objective of this study is to assess weight loss after endoscopic sleeve gastroplasty in patients with morbid obesity.
+

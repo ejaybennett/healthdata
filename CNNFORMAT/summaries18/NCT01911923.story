@@ -1,0 +1,30 @@
+(thirdQuint)Ventilation Strategy Reduces Postoperative Atelectasis.
+
+ During general anesthesia, the combination of reduced functional residual capacity (FRC), high inspiratory oxygen fraction (FIO2), and airway closure are the main factors implicated in the atelectasis, shunt and shunt-like effects that account for the majority of the impaired oxygenation seen during general anesthesia.
+
+ Previous studies have shown that formation of atelectasis during preoxygenation and induction of anesthesia can be avoided by adding a continuous positive airway pressure (CPAP) followed by a positive end-expiratory pressure (PEEP).
+
+During emergence from anesthesia, high concentrations of oxygen predispose to atelectasis formation.
+
+ Even a recruitment maneuver, followed by ventilation with 100% oxygen with a PEEP/CPAP of 10 cm H2O until extubation, failed to improve postoperative oxygenation compared with that achieved with zero end-expiratory pressure (ZEEP).
+
+This failure may have been caused by the presence of lung regions with high oxygen concentrations.
+
+ The investigators hypothesized that by inducing and discontinuing anesthesia during CPAP/PEEP and deliberately reducing FIO2 after extubation, postoperative atelectasis would be reduced compared with standard protocols.
+
+ To test our hypothesis, the investigators studied 1) a control group with no CPAP/PEEP and a FIO2 of 1.
+
+0 while breathing spontaneously after extubation, and 2) an intervention group that was on CPAP/PEEP of 6 cmH2O from induction to extubation and that received an FIO2 of 1.
+
+0 until extubation and then an FIO2 of 0.
+
+3 via a facemask while on CPAP after extubation.
+
+.
+
+ Ventilation Strategy Reduces Postoperative Atelectasis@highlight
+
+Atelectasis is common during and after general anesthesia.
+
+ The investigators hypothesized that a ventilation strategy with a combination of 1) continuous positive airway pressure (CPAP) or positive end-expiratory pressure (PEEP) and 2) a reduced end-expiratory oxygen fraction (FETO2) before commencing mask ventilation with CPAP after extubation would reduce the area of postoperative atelectasis.
+

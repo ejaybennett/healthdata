@@ -1,0 +1,20 @@
+(thirdQuint)Reliability of the Swiss Emergency Triage Scale (SETS) Used by Emergency Medical Service (EMS) Providers.
+
+ The Swiss Emergency Triage Scale (SETS) in used for triage in emergency departments in Switzerland, France and Belgium.
+
+ No validated triage scale is actually used by EMS providers.
+
+ The objective of this project is to evaluate the reliability and performance of triage by EMS providers with the SETS.
+
+ In order to perform this evaluation a cohort of 22 EMS providers will evaluate 28 standardized clinical scenarios using a computer simulator.
+
+.
+
+ Reliability of the Swiss Emergency Triage Scale (SETS) Used by Emergency Medical Service (EMS) Providers@highlight
+
+The Swiss Emergency Triage Scale (SETS) in used for triage in emergency departments in Switzerland, France and Belgium.
+
+ No validated triage scale is actually used by Emergency Medical Service (EMS) providers.
+
+ The objective of this project is to evaluate the reliability and performance of triage by EMS providers with the SETS.
+

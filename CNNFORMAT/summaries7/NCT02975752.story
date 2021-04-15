@@ -1,0 +1,26 @@
+(thirdQuint)EGFRdelEx19 and KRAS Exon 2 Mutation Detection in EBUS-TBNA.
+
+ First-line treatment with afatinib prolongs overall survival in patients with metastatic non-small-cell lung cancer (NSCLC) harboring EGFR exon 19 deletion mutations.
+
+ Conversely, somatic KRAS mutations are negative predictors for benefit from EGFR-targeting agents.
+
+ Rapid availability of these biomarker results is mandatory to prevent delayed or inferior treatments.
+
+ Endobronchial ultrasound-guided transbronchial needle aspiration (EBUS-TBNA) is well-established for lung cancer diagnosis and staging.
+
+ Next generation sequencing (NGS) via targeted resequencing allows simultaneous interrogation for multiple mutations, but has its limitations based on the amount of tumor tissue required and assay times.
+
+ RT-PCR using Light-Cycler technology (LC-RTPCR) is a rapid and sensitive assay to detect somatic mutations in various tissues from NSCLC patients.
+
+ The study's aim was to analyze if LC-RTPCR is feasible for rapid EGFRdelEx19 and KRAS Exon 2 mutation detection in EBUS-TBNA samples and to compare results with results obtained via standard NGS mutation analyses.
+
+.
+
+ EGFRdelEx19 and KRAS Exon 2 Mutation Detection in EBUS-TBNA@highlight
+
+First-line treatment with afatinib prolongs overall survival in patients with metastatic non-small-cell lung cancer (NSCLC) harboring EGFR exon 19 deletion mutations.
+
+ Conversely, somatic KRAS mutations are negative predictors for benefit from EGFR-targeting agents.
+
+ In this study we want to compare a new highly sensitive method for the detection of EGFRdelEx19 and KRAS Exon 2 with targeted-resequencing multiplex-PCR (NGS).
+

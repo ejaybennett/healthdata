@@ -1,0 +1,20 @@
+(secondQuint)A Pilot Study to Determine the Efficacy of Intravenous Ibuprofen for Pain Control Following Arthroscopic Knee Surgery.
+
+ Non-steroidal anti-inflammatory drugs(NSAIDs) are an effective adjunct to opioid analgesia for moderate-severe pain, with improvement in the quality of pain relief and consistent evidence of opioid dose sparing.
+
+ NSAIDs alone could provide effective analgesia post-surgery when mild-moderate pain is expected.
+
+ There is also evidence that the use of NSAIDs, by avoiding or decreasing the need for opioids, can lead to a reduction in the incidence of adverse events which are commonly attributed to, or exacerbated by, opioids.
+
+ The intent of this study is to assess the analgesic efficacy of IV ibuprofen when administered at induction of anesthesia.
+
+ Results from this pilot study will be used to design and determine the appropriate statistical power for a larger, multi-center randomized study.
+
+.
+
+ A Pilot Study to Determine the Efficacy of Intravenous Ibuprofen for Pain Control Following Arthroscopic Knee Surgery@highlight
+
+The intent of this study is to assess the analgesic efficacy of IV ibuprofen when administered at induction of anesthesia.
+
+ Results from this pilot study will be used to design and determine the appropriate statistical power for a larger, multi-center randomized study.
+

@@ -1,0 +1,44 @@
+(fifthQuint)Pharmacogenomic Biomarker Study for Recombinant Human Activated Protein C Treatment in Severe Sepsis.
+
+ This will be a multicenter, "prospective-retrospective", controlled, matched-patients study.
+
+ Retrospective phenotypic data and DNA samples will be obtained from patient registries and clinical trials where the study hypotheses were not related to DrotAA treatment.
+
+ The prospective aspect of this study will be the statistical testing of prespecified hypotheses regarding the IRP genotype as a predictive biomarker for differential DrotAA treatment effects.
+
+ To control for differences in standard of care in different countries and medical centers, the selection of matched control patients will be performed within each cohort.
+
+ Control patients will be selected to match the DrotAA-treated patients using an algorithm that matches on baseline demographic and disease characteristics that may have influenced the decision to give DrotAA or that may impact survival.
+
+ A propensity score (the likelihood for having received DrotAA treatment) will be derived using the matching variables that are common in all cohorts.
+
+ The number of matched control patients for each treated patient will be variable, up to a maximum of 3.
+
+ The selection of the control patients via the matching algorithm will be conducted by an independent clinical research organization (CRO) in a blinded manner - specifically without knowledge of survival outcome, other outcome data, and genotype.
+
+ A two-phase transfer of data from each center will be implemented to ensure that the selection of matched control patients is implemented in a blinded manner.
+
+ The first step will involve the transfer of the baseline data for all variables needed to conduct the matching.
+
+ Once the control patients have been identified for each cohort, the outcomes data will be transferred to the CRO in the second phase of data transfer.
+
+ Centralized genotyping using a validated Taqman(R)-based analytical method will be conducted on the DNA samples for all matched patients.
+
+ The genotyping laboratory will be blinded to treatment and outcome.
+
+ The total number of patients in the available cohorts is >23,000, with approximately 800 who have received DrotAA as part of their standard ICU-based care.
+
+ After applying eligibility criteria to all patients and selecting the matched control patients, it is expected that the final analysis will include approximately 3000 patients.
+
+.
+
+ Pharmacogenomic Biomarker Study for Recombinant Human Activated Protein C Treatment in Severe Sepsis@highlight
+
+The overall purpose of the study is to determine whether either of the Improved Response Polymorphisms (IRPs) individually predicts a differential DrotAA treatment effect in patients with severe sepsis and high risk of death.
+
+ This will be an international, multicenter, "prospective-retrospective", nonrandomized, controlled, outcome-blinded, genotype-blinded, matched-patients study.
+
+ No prospective enrollment or treatment of patients will occur under this protocol.
+
+ Retrospectively collected clinical data and DNA samples will be analyzed for existing cohorts of patients with severe sepsis who were previously treated with DrotAA (treatment group) or not (control group) as part of their standard care in an ICU.
+

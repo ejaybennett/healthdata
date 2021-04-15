@@ -1,0 +1,20 @@
+(thirdQuint)Influence of Aerobic Exercise Training (AET) on Inflammatory Bowel Disease (IBD) in Children and Adolescents.
+
+ An AET intervention is designed to increase the aerobic fitness levels of IBD sufferers through daily activity, which is notably lower in this population and could be beneficial for sufferers managing this lifelong disease.
+
+ With an increase in physical activity, the exergame aims to introduce, instill and integrate daily physical activity in the lives of IBD sufferers.
+
+ The Just Dance Kids exergame for Nintendo Wii employs moderate intensity physical activity and is well suited for this study.
+
+ The exergame intervention protocol will comprise a ramped duration aerobic exercise training starting with 10 minutes in week 1 and rises to 30 minutes per session in weeks 5 through 8.
+
+ Just Dance Kids will be used by participants under the age of 11 and Just Dance for participants over the age of 10 due to the age appropriate dancing skill required in each game.
+
+ The aim is to determine if this moderate intensity, 5 times per week exercise could decrease IBD flare-ups, improve cardiovascular fitness, reduce depressive symptoms, improve quality and quantity of sleep and improve the health-related quality of life in children and adolescents with IBD.
+
+.
+
+ Influence of Aerobic Exercise Training (AET) on Inflammatory Bowel Disease (IBD) in Children and Adolescents@highlight
+
+The purpose of this study is to determine if aerobic exercise training can serve as comprehensive palliative care, whereby enhancing cardiovascular fitness, mitigating depressive symptoms and augmenting sleep while bolstering health related quality of life in youth with Crohn's Disease and Ulcerative Colitis.
+

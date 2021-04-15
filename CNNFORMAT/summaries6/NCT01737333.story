@@ -1,0 +1,12 @@
+(secondQuint)Multidetector Computed Tomography (MDCT) Tailored Protocol.
+
+ To record technical information and compare image quality regarding routine MDCT procedures with contrast administration using a tailored contrast injection and radiation dose protocol.
+
+ The hypotheses are that the tailored protocols lead to a lower applied mean radiation dose compared to the use of standard protocols and will provide a more standardized contrast dose per patient size without impairing diagnostic quality.
+
+.
+
+ Multidetector Computed Tomography (MDCT) Tailored Protocol@highlight
+
+Collection of data from different sites regardless of whether they use standard or tailored protocols for the application of high concentration iodinated contrast agents to assess if the individually patient-adapted protocols result in a similar diagnostic image quality.
+

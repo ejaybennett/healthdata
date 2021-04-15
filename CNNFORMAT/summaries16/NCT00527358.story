@@ -1,0 +1,14 @@
+(secondQuint)Evaluation of SAFER Latinos' Program to Prevent Youth Violence.
+
+ To prevent youth involvement in violence, outreach workers will work with families and youth to improve school bonding, family cohesion and awareness and utilization of existing services; and a youth drop-in center will provide youth with an adult supervised place to "hang out", do homework, or participate in sports and job training.
+
+ Following implementation of the intervention, we will collect detailed process data (regarding implementation), and evaluate impact/outcome using a quasi-experimental design with baseline (prior to intervention) and two followup data collections in both the intervention and a control community (Culmore, Virginia), measuring change in a selected set of aggregate community variables that represent mediating factors and outcomes for youth violence in Langley Park.
+
+ Data will be collected via a survey and focus groups.
+
+.
+
+ Evaluation of SAFER Latinos' Program to Prevent Youth Violence@highlight
+
+This is an evaluation of a primary prevention program to prevent youth violence by improving family cohesion, networking among families, school bonding, and access to services for Latinos in Langley Park, MD.
+

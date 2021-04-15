@@ -1,0 +1,28 @@
+(secondQuint)Study in HCV-Infected Patients to Determine the Safety, Tolerability, Pharmacokinetics and Antiviral Activity of JNJ-47910382.
+
+ This is a Phase Ib, double-blind (neither physician nor patient knows the treatment that the patient receives), randomized (the study drug is assigned by chance), placebo-controlled study in treatment-naive (someone who has never used drugs for HCV infection), Caucasian genotype 1 chronic HCV-infected patients.
+
+ The study consists of a screening period, a 9-day treatment period (with 5 days of actual medication intake) and a 4-week follow-up period.
+
+ The patients will be divided over 4 panels of 10 patients each that will be initiated sequentially.
+
+ In each panel patients will receive JNJ-47910382 or placebo during 5 consecutive days.
+
+ JNJ-47910382 or placebo will be administered once daily or twice daily.
+
+ Within each panel, 5 patients of genotype-1a and 5 patients of genotype-1b will be enrolled.
+
+ Patients will be randomly assigned to receive active treatment or placebo in such a way that 4 patients of each genotype receive active treatment and 1 subject of each genotype receives placebo.
+
+ The pharmacokinetic profile of JNJ-47910382 will be assessed in each panel.
+
+ HCV RNA kinetics (HCV RNA level) and HCV resistance will be studied and biomarkers at the messenger RNA (mRNA), protein and cell level will be explored.
+
+ The entire study duration for each participant will be approximately four weeks.
+
+.
+
+ Study in HCV-Infected Patients to Determine the Safety, Tolerability, Pharmacokinetics and Antiviral Activity of JNJ-47910382@highlight
+
+The purpose of this study is to determine the safety, tolerability, pharmacokinetics (what the body does to the medication) and antiviral activity of JNJ-47910382 when administered in different dosing regimens in Caucasian genotype-1 chronic HCV-infected patients.
+

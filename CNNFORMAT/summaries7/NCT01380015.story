@@ -1,0 +1,24 @@
+(fifthQuint)Efficacy of Spearmint Tea in Relieving Osteoarthritis of the Knee.
+
+ Healthy adults with a clinical diagnosis of osteoarthritis of the knee will be recruited and will undergo a brief phone screening interview, followed by a detailed in-person screening process, to determine study eligibility.
+
+ Eligible participants will be matched according to sex, baseline pain according to the Western Ontario and McMaster Universities Arthritis Index (WOMAC) score, and duration of osteoarthritis.
+
+ Participants will then be randomly assigned to receive either the investigative high rosmarinic acid spearmint tea or a comparable placebo mint tea.
+
+ During the 4-month treatment period, participants will consume two cups (300 mL in the morning and 300 mL in the evening) of either the high rosmarinic acid spearmint tea (approximately 300 mg rosmarinic acid per day) or the commercial spearmint tea (approximately 20 mg of rosmarinic acid per day) daily.
+
+ Data collection will occur at baseline (week 0), mid-treatment (week 8), post-treatment (week 16), and follow-up (week 20).
+
+ Outcome measures include WOMAC and SF-36 scores, physical function (6-minute walk, stair climb task), inflammatory markers (serum C-reactive protein), and self-reported changes in pain medication use.
+
+ In a sub-set of consenting participants deemed eligible by the study physician, a synovial fluid sample will be drawn from the knee for the analyses of cartilage degradation biomarkers (GAG, COMP, PGE2, NO) at baseline (week 0) and post-treatment (week 16).
+
+.
+
+ Efficacy of Spearmint Tea in Relieving Osteoarthritis of the Knee@highlight
+
+The purpose of this study is to investigate the benefits of daily consumption of a high rosmarinic acid spearmint tea, developed by the University of Guelph, on measures of pain, physical function and disease activity in osteoarthritis of the knee.
+
+ The investigators hypothesize that a spearmint tea high in rosmarinic acid is efficacious in mitigating the symptoms of osteoarthritis of the knee through its actions in reducing cartilage degradation, oxidative stress and inflammation.
+

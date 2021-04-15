@@ -1,0 +1,22 @@
+(firstQuint)Escitalopram for the Treatment of Obsessive Compulsive Disorder (OCD).
+
+ Background and Purpose: Obsessive compulsive disorder affects approximately 3% of the population.
+
+ Treatment options include the selective serotonin reuptake inhibitors (SSRIs), dual serotonin and norepinephrine reuptake inhibitors, and behavioral therapy.
+
+ A recent double-blind, placebo-controlled trial demonstrated that citalopram is effective in the treatment of OCD.
+
+ Escitalopram is a new SSRI that may be more effective than other SSRIs for the treatment of major depression and may have fewer side effects.
+
+ This study aims to assess the efficacy of escitalopram for the treatment of OCD.
+
+ Comparisons: Subject Y-BOCs pre-post treatment.
+
+ We will also compare the improvement of subjects across the three different medication levels: 10 mg, 20 mg, and 30 mg.
+
+.
+
+ Escitalopram for the Treatment of Obsessive Compulsive Disorder (OCD)@highlight
+
+The purpose of this study is to assess the efficacy of Escitalopram in the treatment of obsessive compulsive disorder and to determine the optimal treatment dose.
+

@@ -1,0 +1,16 @@
+(secondQuint)Alzheimer's in Long-Term Care--Treatment for Agitation.
+
+ Although the occurrence of disruptive agitation behaviors likely are influenced by environmental/ interpersonal factors, it is also likely that behaviorally relevant neurobiologic abnormalities lower the threshold for the expression of such behavior in Alzheimer's disease.
+
+ Because of the success prazosin has had in the treatment of Posttraumatic Stress Disorder, it is thought that it could be used similarly with disruptive agitation.
+
+ Originally designed to evaluate Alzheimer's disease patients in nursing homes, the study now includes outpatients.
+
+ It is a 9-week placebo-controlled trial.
+
+.
+
+ Alzheimer's in Long-Term Care--Treatment for Agitation@highlight
+
+The purpose of this study is to see if a medication called prazosin is useful in the treatment of agitation and aggression in persons with Alzheimer's disease (AD) and other types of dementia in late life.
+

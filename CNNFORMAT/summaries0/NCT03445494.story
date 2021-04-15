@@ -1,0 +1,30 @@
+(thirdQuint)Shoulder Abduction Brace Against Normal Sling After Arthroscopical Rotator Cuff Suture.
+
+.
+
+ The patient undergoes arthroscopic surgery to treat rotator cuff injury.
+
+ At the end of the surgery, the patient will be randomized into group A (brace) or group B (normal sling).
+
+ Both groups will then perform only passive movements according to pain for the first 6 weeks supported by the physiotherapy, according to standard therapy.
+
+ The following six weeks passive movements will be associated with active movements .
+
+ No brace nor normal sling will be used anymore.
+
+ Patients are in study for 6 months.
+
+ During this period quality of life and pain questionnaires are submitted to the patients and a MRI will be done at the end of the study.
+
+.
+
+ Shoulder Abduction Brace Against Normal Sling After Arthroscopical Rotator Cuff Suture.
+
+@highlight
+
+The patient undergoes arthroscopic surgery to treat rotator cuff injury.
+
+ At the end of the surgery, the patient will be randomized into group A (brace) or group B (normal sling).
+
+ Both groups will be also treated according to standard of care with physiotherapy and progressive introduction of movements.
+

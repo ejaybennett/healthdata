@@ -1,0 +1,54 @@
+(fifthQuint)Postplacental or Delayed Insertion of the Levonorgestrel-releasing Intrauterine Device (IUD) After Vaginal Delivery.
+
+ The United States (US) has the highest unintended pregnancy rate of any developed country.
+
+ Of the 6.
+
+4 million pregnancies in the US each year, almost half are unintended (49%).
+
+ Roughly half of these (22% of all pregnancies) result in unintended births, while 20% of all pregnancies result in abortion.
+
+ Postpartum women are particularly susceptible, with an unintended pregnancy rate of 10%-44% in the first year postpartum.
+
+ These unintended pregnancies occur despite the recommendation that a contraceptive method be selected prior to hospital discharge.
+
+ Given the high rate of unintended pregnancy in the United States, particularly in postpartum women, there is a need for reliable, effective, long-term contraception such as the IUD in postpartum women.
+
+ Postplacental insertion of intrauterine contraception would help to address this need.
+
+ The IUD is a highly effective but underused method of postpartum contraception.
+
+ Although the expulsion rate in postplacental insertion is higher than interval insertion, the benefits of highly effective contraception available immediately after delivery may outweigh the risks of expulsion.
+
+ To date, there have been no randomized trials of postplacental insertion of the LNG-IUD in the United States.
+
+ One pilot study in the United States of 20 subjects who received an ultrasound-guided postplacental insertion of the LNG-IUD showed an acceptable expulsion rate of 10% and no infections over a 10-week follow-up, thus making postplacental insertion of LNG-IUD safe for further study.
+
+ This study is a randomized controlled trial comparing 6 month usage rates of the levonorgestrel-releasing intrauterine device (LNG-IUD) when inserted postplacentally after vaginal delivery or delayed placement at 6-8 weeks postpartum.
+
+ One hundred sixty-eight women receiving prenatal care at Magee-Womens Hospital, Pittsburgh, PA, who are interested in using the LNG-IUD for contraception will be enrolled during their pregnancy.
+
+ The IUD will be inserted within 10 minutes after delivery of the placenta in women randomized to immediate insertion.
+
+ Delayed IUD insertion will be performed at the first postpartum visit in 6-8 weeks.
+
+ All subjects will follow up in person at 6-8 weeks and 6 months after delivery.
+
+ A telephone interview will occur at 3 months after delivery for all subjects.
+
+ Subjects who are not eligible for insertion due to post-randomization ineligibility criteria will be referred to their primary gynecologist or midwife for delayed IUD placement.
+
+ They will be contacted by phone at 3 and 6 months to assess quality of life, contraceptive usage, and unintended pregnancy rates.
+
+.
+
+ Postplacental or Delayed Insertion of the Levonorgestrel-releasing Intrauterine Device (IUD) After Vaginal Delivery@highlight
+
+This study is a randomized controlled trial comparing 6 month usage rates of the levonorgestrel-releasing intrauterine device (LNG-IUD) when inserted postplacentally after vaginal delivery or delayed placement at 6-8 weeks postpartum.
+
+ Given the high rate of unintended pregnancy in the United States, particularly in postpartum women, there is a need for reliable, effective, long-term contraception such as the IUD in postpartum women.
+
+ Postplacental insertion of intrauterine contraception would help to address this need.
+
+ The primary hypothesis of this study is that use of the LNG-IUD at 6 months after vaginal delivery will be higher in women who have immediate postplacental insertion as compared to delayed insertion 6-8 weeks following delivery.
+

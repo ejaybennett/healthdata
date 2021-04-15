@@ -1,0 +1,22 @@
+(secondQuint)Lenalidomide and Obinutuzumab for Previously Untreated CLL.
+
+ This is phase 1/2 study for patients with CLL or (SLL) who have not been previously treated.
+
+ The primary endpoint is to determine safety and tolerability of the regimen and determine complete response (CR) to therapy.
+
+ The secondary endpoints will assess the impact of treatment on progression free and overall survival Eligible patients will receive obinutuzumab for 6 x 28 day cycles.
+
+ Patients will also receive lenalidomide orally once daily on days 8-28 of each 28 day cycles.
+
+ The starting dose for all patients is 5 mg PO daily.
+
+ At the start of each cycle, there is intra-patient dose-escalation to a maximum of 25mg daily, as tolerated.
+
+.
+
+ Lenalidomide and Obinutuzumab for Previously Untreated CLL@highlight
+
+This is phase 1/2 study for patients with CLL or (SLL) who have not been previously treated.
+
+ This study will evaluate whether obinutuzumab and lenalidomide is safe and tolerable in this setting and induce complete clinical responses.
+

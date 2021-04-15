@@ -1,0 +1,42 @@
+(secondQuint)Decitabine in Treating Patients With Myelodysplastic Syndromes or Acute Myeloid Leukemia.
+
+ OBJECTIVES: I.
+
+ Determine the maximum tolerated dose of decitabine in patients with high-risk myelodysplastic syndromes or acute myeloid leukemia.
+
+ II.
+
+ Determine the minimum effective dose of this drug that produces demethylation of DNA with tolerable toxicity in these patients.
+
+ III.
+
+ Determine the minimum effective dose of this drug that augments in vitro responses to retinoids.
+
+ IV.
+
+ Determine the pharmacokinetics of this drug in these patients.
+
+ V.
+
+ Determine the clinical response rate of patients treated with this drug.
+
+ OUTLINE: This is a dose-escalation, multicenter study.
+
+ Patients receive decitabine IV over 3 hours twice daily OR IV over 1 hour once daily on days 1-5.
+
+ Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity.
+
+ Cohorts of 3-6 patients receive escalating doses of decitabine until the maximum tolerated dose (MTD) is determined.
+
+ The MTD is defined as the dose preceding that at which 2 of 6 patients experience dose-limiting toxicity.
+
+ PROJECTED ACCRUAL: A maximum of 36 patients will be accrued for this study within 18 months.
+
+.
+
+ Decitabine in Treating Patients With Myelodysplastic Syndromes or Acute Myeloid Leukemia@highlight
+
+This phase I trial is studying the side effects and best dose of decitabine in treating patients with myelodysplastic syndromes or acute myeloid leukemia.
+
+ Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.
+

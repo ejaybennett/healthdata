@@ -1,0 +1,74 @@
+(fifthQuint)CrYobiopsy With Radial UltraSound Guidance.
+
+ Diffuse parenchymal lung diseases comprise a group of noninfectious, non-neoplastic lung diseases, each characterized by varying degrees of inflammation or fibrosis of the parenchyma of both lungs.
+
+ The differentiation of these disorders may require biopsy material, particularly in patients with atypical clinical or radiological presentations.
+
+ Cryobiopsies offer specialists the advantage of being able to collect much larger specimens than can be collected with forceps biopsy, while preserving the underlying lung architecture (no crush artifact).
+
+ The biggest disadvantage of cryobiopsy is a higher risk of procedural bleeding and, to a lesser extent, pneumothorax than conventional transbronchial lung biopsies.
+
+ Existing cryobiopsy literature is significantly limited by lack of procedure standardization, variable diagnostic endpoints and non-uniform grading of complications.
+
+ Surgical lung biopsy, currently the gold standard for histological diagnosis of DPLD, is associated with significant morbidity and mortality.
+
+ The rate of in-hospital mortality following SLB for DPLD was recently found to be 1.
+
+7% in a large dataset, with a complication rate of 30% (including post-operative pneumothorax, pneumonia, respiratory failure).
+
+ Mortality was slightly lower at 1.
+
+5% for elective operations but markedly higher at 16% for operations labeled "non-elective," presumably performed in the setting of acute disease exacerbations.
+
+ Clearly, less invasive strategies, such as cryobiopsy, are urgently needed.
+
+ Recent studies demonstrate that there might be a trend toward more bleeding complications with transbronchial cryobiopsies.
+
+ The increased risk of bleeding is due to the larger biopsies thus obtained, and the necessity to retrieve bronchoscope and cryoprobe en-bloc as biopsies are too large to be pulled through he working channel of the bronchoscope, preventing the proceduralist from keeping he bronchoscope wedged in the biopsied segment allowing bleeding tamponade.
+
+ Accordingly, most proceduralists perform cryobiopsy with prophylactic placement of bronchial blocker positioned proximal to the selected lobe to occlude the segmental airway after biopsy.
+
+ While this technique has essentially eliminated the risk of life-threatening bleeding after cryobiopsies, significant bleeding complications persist and can occasionally substantially lengthen the duration of the procedure, leading to premature termination and potentially quantitatively inadequate biopsy acquisition.
+
+ Conceptually it seems that the ability to select a less vascular area for a somewhat larger cryobiopsy may result in decreased risk of hemorrhage and/or reduction in bleeding severity.
+
+ Average peripheral cryobiopsy size varies significantly and may be dependent on freezing time and cryoprobe size.
+
+ Increase in resource utilization due to the use of radial ultrasound could be offset by a decrease in complication rate, decreased procedural time and potentially decreased endobronchial blocker need.
+
+ This use of radial probe ultrasound use has not been widely reported in literature except for a recent single center retrospective review of 10 patients undergoing transbronchial cryobiopsies for ILD(Berim, 2017).
+
+ Six of these patients underwent vascular localization with radial probe endobronchial localization with trends towards less bleeding.
+
+ The purported benefit of radial ultrasound-guided transbronchial cryobiopsy is the avoidance of excessive bleeding, which has been associated with this procedure.
+
+ With the systematic use of a prophylactic bronchial blocker, an ideal endpoint for this pilot study would be the time spent obtaining each biopsy.
+
+ We propose to study in a prospective, double-blind, randomized controlled fashion, the efficacy of radial endobronchial ultrasound (in combination with fluoroscopy) guided transbronchial cryobiopsy as compared to conventional fluoroscopy guided cryobiopsy in reducing time needed to achieve hemostasis (primary endpoint) and need for additional modalities to control bleeding and size of biopsies obtained (secondary endpoints).
+
+.
+
+ CrYobiopsy With Radial UltraSound Guidance@highlight
+
+Transbronchial cryobiopsy carries a higher chance of establishing pathological diagnosis in diffuse parenchymal lung disease (DPLD) than traditional transbronchial forceps guided biopsy.
+
+ It is a novel technique capable of obtaining large, high-quality samples of lung tissue in a minimally invasive manner.
+
+ This procedure may decrease the need for surgical lung biopsy in 75% of cases.
+
+ However, there is an increased risk of pneumothorax and airway bleeding compared to traditional transbronchial forceps guided biopsy.
+
+ Several strategies are used by practitioners of this technique to mitigate the risks of significant bleeding and pneumothorax.
+
+ These include prophylactic placement of an endobronchial blocker, the use of fluoroscopy guidance, instillation of cold saline to promote vasoconstriction, and establishment of a secure airway with endotracheal tube placement or rigid bronchoscopy .
+
+ Vanderbilt University Medical Center is one of the most active centers in terms of cryobiopsies performed as part of the diagnostic workup of DPLD.
+
+ Currently all transbronchial cryobiopsies here are performed under fluoroscopic guidance, with endotracheal tube intubation and endobronchial blocker placement.
+
+ Despite these precautions, post biopsy bleeding complications occur and can substantially lengthen the duration of the procedure and occasionally expose patients to procedural complications.
+
+ Radial ultrasound has been well utilized to define anatomy of peripheral lung and localization of peripheral pulmonary nodules.
+
+ We postulate that using radial ultrasound to identify peribronchial lung parenchyma with low vascularity will mitigate the risk of hemorrhage during peripheral lung cryobiopsy in patients with DPLD and hence improve patient safety.
+

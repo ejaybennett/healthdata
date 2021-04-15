@@ -1,0 +1,16 @@
+(firstQuint)Study of the Effect of Differing Platelet Transfusion Times in Neonates.
+
+ 1.
+
+ It is our hypothesis that the change in post-transfusion platelet counts of babies who receive platelets over 30 minutes (short transfusion group) will be significantly different from the change in babies who receive platelets over two hours (long transfusion group) when platelets are checked immediately after transfusion and 6 hours after the completion of transfusion.
+
+ 2.
+
+ We also expect there to be significant differences in the platelet counts drawn thirty minutes after transfusion compared to the counts drawn 6 hours after the completion of the transfusion in either group.
+
+.
+
+ Study of the Effect of Differing Platelet Transfusion Times in Neonates@highlight
+
+To evaluate changes in platelet counts and hemodynamics between "rapid" and "long" platelet infusion groups.
+

@@ -1,0 +1,30 @@
+(secondQuint)Nebulized Hypertonic Saline for Inpatient Use in COPD.
+
+ Hypothesis: A clinically significant difference exists between albuterol treatments with nebulized 3% saline versus standard saline, for improvements in the patient's modified Borg dyspnea score during an acute exacerbation of COPD.
+
+Study Population: This study will involve 146 patients admitted to Doctors Hospital in Columbus, Ohio from September 2014 through September 2015 with a clinical diagnosis of an acute exacerbation of COPD, defined as an increase in the patient's dyspnea, cough, or change in sputum consistency/volume/color from the patient's baseline during stable conditions.
+
+ Study Design: Patients will be randomly assigned to 2.
+
+5 mg albuterol treatments with either normal saline, as is the standard, or hypertonic saline.
+
+ Once the patient is enrolled, they will be randomly assigned to 2.
+
+5 mg albuterol treatments with either normal saline, as is the standard, or hypertonic saline.
+
+ They will then receive the 2.
+
+5mg albuterol treatment, and saline solution as determined by the randomization plan (Group 1 will receive 0.
+
+9% saline and Group 2 will receive 3% saline), every six hours for at least the first 24 hours, with allowance for PRN (pro re nata= as needed) use every four hours by patient request.
+
+ The patient's dyspnea will be evaluated prior to starting the treatment and after the intervention period is completed using the Modified Borg Dyspnea Scale.
+
+.
+
+ Nebulized Hypertonic Saline for Inpatient Use in COPD@highlight
+
+A comparison of albuterol treatments using hypertonic saline (3%) versus standard saline (0.
+
+9%) in patients with admitted patients COPD in regard to Modified Borg Dyspnea scale scores after 4 treatments within 24 hours.
+

@@ -1,0 +1,19 @@
+(thirdQuint)Long-term Oxygen Therapy in Patients With Chronic Obstructive Pulmonary Disease Who Live at High Altitude.
+
+ A clinical, prospective, randomized controlled trial to determine the effect of prescribing oxygen in a group of COPD patients with PaO2 50 and 55 mmHg who do not have erythrocytosis or pulmonary hypertension on echocardiogram (which are considered manifestations of chronic hypoxia).
+
+ It will be included 220 patients of the Fundacion Neumologica Colombiana living in Bogota who accept their participation by signing an informed consent.
+
+ The subjects will be randomly assigned to receive or not LTOT and they will be followed for 30 months.
+
+ At baseline and then at 10, 20 and 30 months, they will be clinically evaluated with arterial blood gases, pulse oximetry, echocardiography, spirometry with bronchodilator, diffusion capacity, quality of life (SGRQ), neurocognitive performance (MMSE) and six minutes walk test.
+
+ The primary outcome will evaluate the ratio of occurrence of erythrocytosis or pulmonary hypertension.
+
+ Secondary outcomes will be evaluated quality of life, lung function, neurocognitive performance and exercise tolerance by comparing the groups with and without LTOT.
+
+.
+
+ Long-term Oxygen Therapy in Patients With Chronic Obstructive Pulmonary Disease Who Live at High Altitude@highlight
+
+A clinical, prospective, randomized controlled trial to determine the effect of prescribing oxygen in a group of COPD (chronic pulmonary disease) patients with PaO2 (arterial oxygen tension) 50 and 55 mmHg who do not have erythrocytosis or pulmonary hypertension on echocardiogram (which are considered manifestations of chronic hypoxia)

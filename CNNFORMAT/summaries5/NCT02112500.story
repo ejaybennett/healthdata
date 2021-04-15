@@ -1,0 +1,30 @@
+(fifthQuint)Mesenchymal Stem Cell in Patients With Acute Severe Respiratory Failure.
+
+ Although the advent of advanced medical support for respiratory failure, the mortality rate of acute severe respiratory failure is still reported to be more than 40%.
+
+ The respiratory distress syndrome may develop in all ages resulting in progressive pulmonary fibrosis.
+
+ A number of survivors from respiratory failure suffer from the sequelas of pulmonary fibrosis.
+
+ However, the treatments of respiratory failure are limited to the correction of baseline disease, cardiopulmonary support, and conservative management to minimize the lung injury.
+
+ There has not been any effective and specific treatment for respirator distress nor medicine to reduce mortality.
+
+ There have been reports of mesenchymal stem cell experimental animals with chronic obstructive pulmonary disease, interstitial lung disease, and sepsis.
+
+ In addition, the mesenchymal stem cell treatment showed beneficial effect in bleomycin endotoxin induced lung injury.
+
+ Authors hypothesize that the mesenchymal stem cell treatment in patients with respiratory failure will show efficacy.
+
+ We would conduct the present pilot study to evaluate the efficacy and safety in patients with respiratory failure and intend to suggest an additional alternative treatment option for those without additional treatment option.
+
+.
+
+ Mesenchymal Stem Cell in Patients With Acute Severe Respiratory Failure@highlight
+
+Although the advent of advanced medical support for respiratory failure, the mortality rate of acute severe respiratory failure is still high and the life quality is frequently compromised from pulmonary fibrosis.
+
+ The investigators hypothesize that the treatment using mesenchymal stem cell can be beneficial in patients with respiratory failure.
+
+ The present study is a pilot study evaluating the efficacy and safety of mesenchymal stem cell treatment in patients with respiratory failure.
+

@@ -1,0 +1,14 @@
+(secondQuint)The Use of 5mg Finasteride Versus 200mg Spironolactone and Topical 5% Minoxidil in Treating Postmenopausal Female Androgenetic Alopecia.
+
+ Participants diagnosed with AGA will be randomized into one of the two treatment arms outlined below, and will take the assigned treatment for a total duration of 12 months.
+
+ Medications will be dispensed by a nurse who is blinded to the participants within each treatment group.
+
+ Global photograph assessment and participant questionnaires at 0, 4, 8 and 12 months will be the primary means to determine improvement in hair loss.
+
+ Compare the following interventions in treating postmenopausal female AGA: A) Combination 5% Minoxidil and 200mg Spironolactone (Combination Group) B) 5mg Finasteride with placebo topical preparation (Single Group).
+
+ The Use of 5mg Finasteride Versus 200mg Spironolactone and Topical 5% Minoxidil in Treating Postmenopausal Female Androgenetic Alopecia@highlight
+
+The investigators propose to conduct a head-to-head, randomized clinical trial to compare the effectiveness of Minoxidil with Spironolactone and Finasteride in treating postmenopausal females with Androgenetic Alopecia (AGA).
+

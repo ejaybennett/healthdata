@@ -1,0 +1,20 @@
+(secondQuint)Caffeic Acid Combining High-dose Dexamethasone in Management of ITP.
+
+ The investigators are undertaking a multicenter, randomized, double blinded placebo-controlled trial of 240 primary ITP adult patients from 8 medical centers in China.
+
+ One part of the participants are randomly selected to receive caffeic acid tablets (given orally at a dose of 900mg per day for 3 consecutive months), combining with dexamethasone (given orally at a dose of 40 mg per day for 4 days, two cycles with an interval of 10 days); the others are selected to receive high-dose of dexamethasone treatment plus placebo.
+
+ Platelet count, bleeding and other symptoms were evaluated before and after treatment.
+
+ Adverse events are also recorded throughout the study.
+
+ In order to report the efficacy and safety of caffeic acid tablets combining with high-dose dexamethasone therapy for the treatment of adults with ITP.
+
+.
+
+ Caffeic Acid Combining High-dose Dexamethasone in Management of ITP@highlight
+
+The project was undertaking by Qilu Hospital of Shandong University in China.
+
+ In order to report the efficacy and safety of caffeic acid tablets combining with high-dose dexamethasone for the treatment of adults with newly-diagnosed primary immune thrombocytopenia (ITP).
+

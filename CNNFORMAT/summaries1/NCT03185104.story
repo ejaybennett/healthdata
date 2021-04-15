@@ -1,0 +1,16 @@
+(secondQuint)Silver Diamine Fluoride for Caries Prevention in Removable Partial Dentures Wearers.
+
+ Removable partial dentures are commonly constructed to replace missing teeth.
+
+ It is observed that removable partial denture wearers are susceptible to dental caries.
+
+ The mode of action of silver diamine fluoride on caries prevention is dual: fluoride ions interact synergistically with silver to react with hydroxyapatite to form fluorapatite, and silver is bactericidal by reacting with the thiol groups of the amino and nucleic acids that halt the metabolic and reproductive functions of the cariogenic bacteria.
+
+.
+
+ Silver Diamine Fluoride for Caries Prevention in Removable Partial Dentures Wearers@highlight
+
+This study measures and compares the effect of silver diamine fluoride (SDF) on caries increment in removable partial denture wearers.
+
+ Half of the participants will SDF and while the other half will receive placebo.
+

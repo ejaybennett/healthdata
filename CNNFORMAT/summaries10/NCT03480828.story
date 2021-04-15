@@ -1,0 +1,22 @@
+(fifthQuint)Diaphragm Ultrasound to Predict Weaning Outcomes in Mechanically Ventilated Patients.
+
+ This trial enrolled all the adult patients who were mechanically ventilated for more than 48 hours and met all creteria for extubation.
+
+ Patients who needed reintubation for upper aiway obstruction, neurological or hemodynamic alteration were excluded.
+
+ The diaphragm ultrasound was performed during spontaneous breathing test or pressure support ventilation trial measuring the dipahragmatic excursion (DE) and the diaphragm thickening fraction (DTF) whithin 24 hours before extubation.
+
+ The investigators compared the median values of DE and DTF in the group of successfully extubated patients and the group of patients who needed reintubation.
+
+ Our study compared the utility of DTF and DE to predict extubation success.
+
+.
+
+ Diaphragm Ultrasound to Predict Weaning Outcomes in Mechanically Ventilated Patients@highlight
+
+This trial enrolled all the adult patients who were mechanically ventilated for more than 48 hours and met all creteria for extubation.
+
+ Patients who needed reintubation for upper aiway obstruction, neurological or hemodynamic alteration were excluded.
+
+ The diaphragm ultrasound was performed during spontaneous breathing test or pressure support ventilation trial measuring the dipahragmatic excursion (DE) and the diaphragm thickening fraction (DTF) whithin 24 hours before extubation.
+

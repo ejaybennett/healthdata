@@ -1,0 +1,38 @@
+(secondQuint)The Effect of Fish Oil Plus Fenofibrate on Triglyceride Levels in People Taking Highly Active Antiretroviral Therapy (HAART).
+
+ Although highly active antiretroviral therapy (HAART) has decreased the morbidity and mortality caused by HIV infection, its use has been associated with lipid abnormalities, particularly elevations in serum triglycerides.
+
+ Hypertriglyceridemia is a risk factor in the development of cardiovascular and cerebrovascular disease as well as pancreatitis.
+
+ Lipid-lowering drugs called fibrates have been part of the recommended treatment for elevated triglycerides, but the response to fibrates is incomplete in a large proportion of people.
+
+ Fish oil capsules containing large amounts of omega-3 fatty acids have been shown to decrease serum triglycerides.
+
+ However, fish oil supplements or fibrates alone are often inadequate for treating hypertriglyceridemia in people taking HAART.
+
+ This study will determine whether the combination of the two therapies will lower serum triglycerides in people on HAART more effectively than either therapy alone.
+
+ This study comprises two steps.
+
+ In Step I, participants will be randomly assigned to receive either fish oil supplements or fenofibrate.
+
+ Participants will be evaluated for treatment response at Week 8.
+
+ Those who have responded to their treatment will remain on their original single agent therapy through Week 18.
+
+ Those who have not responded to treatment at Week 10 will move on to Step 2 and begin combination therapy with both fenofibrate and fish oil until Week 18.
+
+ All participants will return at Week 22 for a follow-up visit.
+
+ Except at the Week 10 visit, participants will be expected to fast prior to all study visits.
+
+ Participants will remain on their individual HAART regimens for the duration of the study.
+
+.
+
+ The Effect of Fish Oil Plus Fenofibrate on Triglyceride Levels in People Taking Highly Active Antiretroviral Therapy (HAART)@highlight
+
+The purpose of this study is to determine the effectiveness of fish oil supplements combined with the drug fenofibrate in treating elevated triglyceride levels in people taking anti-HIV drugs.
+
+ The participants in this study will have shown no response to fish oil supplements or fenofibrate alone.
+

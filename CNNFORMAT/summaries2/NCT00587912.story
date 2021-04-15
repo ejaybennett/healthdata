@@ -1,0 +1,20 @@
+(thirdQuint)AIDS and Cancer Specimen Bank (ACSB).
+
+ The overall goal of the AIDS and Cancer Specimen Bank is to obtain clinical specimens from pathologists and physicians involved in the diagnosis and care of patients with AIDS and non- AIDS associated malignancies.
+
+ These specimens will be banked and linked to a clinical data set so that experimental results obtained by analysis of specific specimens can be linked to relevant clinical data.
+
+ Contents of the ACSB will be made available to researchers through an application to the National Cancer Institute.
+
+ Strict patient confidentiality protection guidelines are in place for all specimens in the ACSB.
+
+ The objective of this protocol is to obtain clinical specimens from potential participants in clinical trials conducted by the AIDS Malignancies Consortium, and from other patients with and without HIV infection, who have AIDS-Associated malignancies.
+
+.
+
+ AIDS and Cancer Specimen Bank (ACSB)@highlight
+
+The purpose of this study is to obtain clinical specimens from pathologists and physicians involved in the diagnosis and care of patients with AIDS and non-AIDS associated malignancies.
+
+ The National Cancer Institute has set up a Bank for tissues and biological fluids from HIVpositive and HIV-negative individuals in order to have specimens available for scientists studying malignancies associated with HIV disease.
+

@@ -1,0 +1,14 @@
+(secondQuint)A Multinational Trial to Evaluate the Longterm Safety of the Parachute Implant System.
+
+ While current therapies for heart failure (including but not limited to: medical management, cardiac resynchronization and ICDs) may represent the best treatment available today for the majority of HF patients, the medical community recognizes that pharmacologic therapy has been optimized to nearly the extent that is possible, and that any incremental improvements in the management of HF patients will now come from device based therapies.
+
+ With this background, CardioKinetix has developed a catheter-based intravascular approach to ventricular partitioning using an implantable device.
+
+ The purpose of this study is to assess the longterm safety of using the CardioKinetix Parachute device to isolate the malfunctioning portion of the left ventricle in patients with symptoms of HF due to ischemic heart disease.
+
+.
+
+ A Multinational Trial to Evaluate the Longterm Safety of the Parachute Implant System@highlight
+
+The primary objective is to assess the longterm safety of the CardioKinetix Parachute Implant and Delivery System in the partitioning of the left ventricle in patients with heart failure due to ischemic heart disease.
+

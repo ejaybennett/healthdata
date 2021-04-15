@@ -1,0 +1,16 @@
+(firstQuint)Descriptive Study of Trampoline Accidents in the Pediatric Emergency Department of Rennes.
+
+ Trampoline accidents are increasing since a few years.
+
+ In Rennes hospital, pediatric emergencies are experiencing a subjective increase in admissions for trampoline trauma with increasingly early ages and severe trauma.
+
+ The aim of this study is to compare trauma related to others sport to trauma due to trampoline in pediatric emergencies of Rennes.
+
+ In parallel, retrospective data analysis will be performed on the same data during the year 2008, to compare with a period before the explosion of trampoline sales.
+
+.
+
+ Descriptive Study of Trampoline Accidents in the Pediatric Emergency Department of Rennes@highlight
+
+The aim of this study is to compare trauma related to others sport to trauma due to trampoline in pediatric emergencies of Rennes.
+

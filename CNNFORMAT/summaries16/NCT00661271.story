@@ -1,0 +1,18 @@
+(thirdQuint)Mindfulness-based Stress Reduction for Urban Youth.
+
+ A randomized controlled trial will be conducted at two urban clinic sites.
+
+ HIV-positive youth between the ages of 14 and 22 will be recruited and randomized into either an eight-week (with one retreat session) Mindfulness-Based Stress Reduction (MBSR) course (intervention) or an eight-week (with one retreat session) Healthy Topics (HT) course (active control).
+
+ Measures of psychological functioning, coping, and life satisfaction will take place at baseline, immediately post-program, and 3-months post program.
+
+ Medical data, including Cluster of Differentiation 4 (CD4) and viral load counts, will also be collected at the three data collection time points.
+
+.
+
+ Mindfulness-based Stress Reduction for Urban Youth@highlight
+
+Our uncontrolled study of mindfulness-based stress reduction (MBSR) for urban youth suggests benefits in mental health and quality of life outcomes.
+
+ To evaluate further the specific effects of MBSR, we are conducting a small randomized controlled trial of the MBSR program compared with a health education program.
+

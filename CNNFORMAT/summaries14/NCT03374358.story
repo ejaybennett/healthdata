@@ -1,0 +1,44 @@
+(fifthQuint)Effect on Liver Fat and Metabolic Parameters When Switching a Protease Inhibitor or Efavirenz to Raltegravir.
+
+ The prevalences of overweight (body-mass-index, BMI 25-30 kg/m2) and obesity (BMI>30 kg/m2) are steadily increasing among HIV-infected patients globally.
+
+ In parallel, the risk of non-alcoholic fatty liver disease (NAFLD) increases.
+
+ Clinically alarming are the data which suggest that HIV infected have higher rates of progressive form of NAFLD than non-HIV infected age, gender and BMI matched controls.
+
+ As the treatment for HIV is life-long, it is crucial to understand the effects of different antiretroviral therapy (ART) regimens on metabolism.
+
+ Some antiretroviral agents appear to promote unfavourable changes in metabolism (e.
+
+g.
+
+ in blood lipids) and predispose to trunk fat redistribution and liver fat accumulation.
+
+ Raltegravir has been demonstrated to have beneficial impact on some metabolic parameters compared to the protease inhibitor class or efavirenz.
+
+ In this study, the aim is to investigate whether switching a protease inhibitor or efavirenz to raltegravir reduces liver fat in patients who are overweight or obese and have at least one metabolic syndrome component.
+
+ For this purpose, the proton magnetic resonance spectroscopy will be used.
+
+ In addition, the aim is to clarify the change in the body composition in this study group.
+
+ For this purpose, the visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT) volumes will be measured using MRI.
+
+ To acquire more knowledge on metabolic effects in adipose tissue level, subcutaneous adipose tissue biopsies will be collected together with blood, saliva and feces samples.
+
+.
+
+ Effect on Liver Fat and Metabolic Parameters When Switching a Protease Inhibitor or Efavirenz to Raltegravir@highlight
+
+This study will provide data on the switch from a protease inhibitor or efavirenz to the new formulation of raltegravir (RAL) dosed once daily.
+
+ The study group consists of patients with metabolic risk factors and co-morbidities, in need of optimization of their current ART to minimize the drug-related metabolic side effects as standard of care.
+
+ The primary objective of this study is to investigate whether switching a protease inhibitor (PI) or efavirenz to raltegravir once daily reduces liver fat in patients who are overweight or obese and have at least one metabolic syndrome component.
+
+ For this purpose, the liver fat content will be analyzed using the proton magnetic resonance spectroscopy.
+
+ In addition, the aim is to clarify the change in the body composition and metabolism in this study group.
+
+ For this purpose the visceral adipose tissue (VAT) and subcutaneous adipose tissue (SAT) volumes will be measured and subcutaneous tissue samples will be collected for future analyses of adipose tissue function.
+

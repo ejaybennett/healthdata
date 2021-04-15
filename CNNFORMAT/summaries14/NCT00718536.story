@@ -1,0 +1,24 @@
+(thirdQuint)Clinical Trial Assessing Once Daily Raltegravir Administration (800 mg QD) in HIV-1-Infected Patients Receiving Unboosted Atazanavir (400 mg QD)- Based Antiretroviral Therapy.
+
+ Treatment adherence is crucial for the effectiveness of antiretroviral therapy, and, in an attempt to promote treatment adherence by the patients, once daily (QD) regimens are preferred rather than twice daily (BID) regimens.
+
+ The dose of 400 mg BID of raltegravir has been recently licensed for the treatment of human immunodeficiency virus (HIV-1) infection in treatment-experienced adult patients.
+
+ Raltegravir is eliminated mainly by metabolism via uridine diphosphate glucuronyl transferase (UGT1A1)-mediated glucuronidation pathway.
+
+ Thus, co-administration of raltegravir with medicinal products that are known to be potent UGT1A1 inhibitors, such as atazanavir, may increase plasma levels of raltegravir.
+
+ Based on these data, it could be hypothesized that once daily raltegravir (800 mg QD) could be an appropriate therapeutic option in HIV-infected patients also receiving atazanavir-containing antiretroviral regimens.
+
+ However, pharmacokinetic data supporting this hypothesis are lacking.
+
+.
+
+ Clinical Trial Assessing Once Daily Raltegravir Administration (800 mg QD) in HIV-1-Infected Patients Receiving Unboosted Atazanavir (400 mg QD)- Based Antiretroviral Therapy@highlight
+
+The co-administration of raltegravir with medicinal products that are knouwn to be potent UGT1A1 inhibitors, such as atazanavir, may increase plasma levels of raltegravir.
+
+ So once daily raltegravir (800 mg QD), instead of twice a day (400 mg BID), could be an appropriate therapeutic option in HIV-infected patients also receiving atazanavir-containing antiretroviral regimens.
+
+ In this study, pharmacokinetic data supporting this hypothesis are recovered.
+

@@ -1,0 +1,18 @@
+(secondQuint)Irritable Bowel Syndrome Hypnotherapy.
+
+ Patients with Irritable Bowel Syndrome entering a group hypnotherapy program are asked to complete a series of questionnaires at the outset, and repeat a symptom severity scale at intervals over the one year period after termination of treatment.
+
+ Eligibility was limited to patients with age greater than 20.
+
+ Outcome measures were improvement in symptom score.
+
+ Outcome predictors studied included quality of relationships, measured with a Quality of Relationship Inventory and attribution of IBS to physical or emotional cause, measured with a Mind-Body IBS Questionnaire, both administered before onset of hypnotherapy.
+
+.
+
+ Irritable Bowel Syndrome Hypnotherapy@highlight
+
+The primary goal of the study was whether gut focused hypnotherapy, in a group format, was successful in reduction of symptoms in patients with irritable bowel syndrome.
+
+ The secondary goal was to see if any outcome predictors could be determined.
+

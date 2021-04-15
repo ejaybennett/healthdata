@@ -1,0 +1,22 @@
+(firstQuint)Pharmacotherapy Dosing Regimen in Cocaine and Opiate Dependent Individuals - 8.
+
+ This is a 24-week, randomized, double-blind, placebo-controlled study examining two doses of modafinil (200 and 400 mg) and citalopram (20 and 40 mg) in the treatment of methadone maintained cocaine dependent individuals.
+
+ Participants will first be given methadone to determine its tolerated and effective doses.
+
+ Most participants will be able to reach a stable dose of methadone within 7 to 10 days of methadone initiation.
+
+ When 80% of the projected dose of methadone has been achieved, participants will begin the medication regimen of modafinil or citalopram.
+
+ Modafinil will be given over a 7-day period.
+
+ Dosing of modafinil will begin at 200 mg and, depending on the individual, may increase to 400 mg.
+
+ Citalopram will be given in increasing doses, starting at 20 mg and increasing to 40mg.
+
+.
+
+ Pharmacotherapy Dosing Regimen in Cocaine and Opiate Dependent Individuals - 8@highlight
+
+The purpose of this study is to examine two medications, modafinil and citalopram, in the treatment of cocaine dependent individuals who are maintained on methadone.
+

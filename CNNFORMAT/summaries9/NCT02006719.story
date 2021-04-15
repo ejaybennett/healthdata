@@ -1,0 +1,26 @@
+(firstQuint)Clinical Study for the Treatment of Adhesive Capsulitis of the Shoulder.
+
+ Study is a Phase 2b, double-blind, placebo-controlled study of the safety and efficacy of AA4500 for the treatment of adhesive capsulitis of the shoulder.
+
+ To be eligible for treatment, a subject must have unilateral idiopathic adhesive capsulitis of the shoulder with restricted range of motion in the affected shoulder for at least 3 months but not more than 12 months.
+
+ Subjects will be screened for study eligibility within 28 days before injection of study drug.
+
+ Approximately 300 adult women and men are to be enrolled in this study.
+
+ Following screening and determination of study eligibility, subjects will be randomized 3:1 to receive 0.
+
+58 mg of AA4500 or placebo.
+
+ Subjects will receive up to 3 injections of study drug.
+
+ Each injection will be separated by a minimum of 21 days.
+
+ Subjects will also be instructed in home shoulder exercises after the first injection.
+
+.
+
+ Clinical Study for the Treatment of Adhesive Capsulitis of the Shoulder@highlight
+
+The objectives of this study are to assess the safety, effectiveness, and immunogenicity of AA4500 in the treatment of adhesive capsulitis.
+

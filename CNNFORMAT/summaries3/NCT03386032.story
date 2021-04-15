@@ -1,0 +1,18 @@
+(firstQuint)8-Week Atopic Dermatitis (AD) Treatment Study.
+
+ This will be a 9-week, randomized, double blind, parallel comparison study consisting of a 1-week washout phase followed by an 8-week treatment phase.
+
+ This study will be executed by one clinical research company utilizing two test sites and up to 62 subjects with moderate or severe atopic dermatitis, ages 12-65, will be enrolled.
+
+ Subjects that are enrolled will be placed on one of three products (e.
+
+g.
+
+ Sponsor's Experimental Cream Treatment, a basic moisturizer, or a positive control - Desonide) and will be required to use the assigned product twice a day for the duration of the 8-week treatment phase.
+
+.
+
+ 8-Week Atopic Dermatitis (AD) Treatment Study@highlight
+
+This is a study to investigate the clinical effectiveness of the Sponsor's experimental cream treatment on eczema as measured by visual grading of SCORAD (scoring of atopic dermatitis).
+

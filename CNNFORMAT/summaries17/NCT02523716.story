@@ -1,0 +1,26 @@
+(secondQuint)Effect of Short-term Simulated Altitude Exposure on Cardiopulmonary Functional Capacity.
+
+ Background There is an urgent need to reduce morbidity and mortality following major surgery.
+
+ Bodily demands for oxygen increase after major surgery, and postoperative outcomes can be predicted by quantifying the body's ability to meet increased mitochondrial demand for oxygen using cardiopulmonary exercise testing (CPET).
+
+ Design This is a preliminary, physiological study to establish the baseline relationship between mild hypoxia exposure and cardiopulmonary function.
+
+ This study will begin to examine the feasibility and potential for achieving risk modification through low-oxygen (hypoxic) conditioning, in which a safe and convenient "dose" of mild hypoxia is used to improve CPET derived variables that predict mortality following surgery.
+
+ The study will use a randomised, double blind, sham-controlled, crossover design.
+
+ After a baseline CPET test, participants will be exposed to 7 days of either mildly hypoxic or normoxic air.
+
+ A follow up CPET test will then be used to determine if cardiopulmonary functional capacity increased after exposure.
+
+ After a two week washout period, participants will return for a second 7-day session where the alternate exposure will be given.
+
+ A final follow-up CPET test will then be performed.
+
+.
+
+ Effect of Short-term Simulated Altitude Exposure on Cardiopulmonary Functional Capacity@highlight
+
+To determine if exposure of older volunteers, age 50-70y, who are healthy, but not physically active, to 7 days of mild hypoxia (15% oxygen, equivalent 2440m) will improve cardiopulmonary functional capacity.
+

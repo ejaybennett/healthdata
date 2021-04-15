@@ -1,0 +1,18 @@
+(secondQuint)Effectiveness of Aurix Therapy in Pressure Ulcers.
+
+ Pressure ulcers (PUs) are a common problem in all patient care settings, especially long-term acute care facilities and nursing homes.
+
+ Aurix is a platelet-rich plasma gel used in the treatment of non-healing chronic wounds.
+
+ The results of Aurix to date when used to treat PUs have been promising.
+
+ The aim of this trial is to demonstrate the effectiveness of complete wound healing in a prospective, open-label, randomized trial in which pressure ulcers will be treated using Aurix and standard of care to determine time to heal at 16 weeks.
+
+ Comparison will be made to patients receiving undefined Usual and Customary Care in a 1:1 manner.
+
+.
+
+ Effectiveness of Aurix Therapy in Pressure Ulcers@highlight
+
+The aim of this trial is to demonstrate the effectiveness of complete wound healing in a prospective, open-label, randomized trial in which pressure ulcers will be treated using Aurix and standard care and compared 1:1 to patients receiving undefined Usual and Customary Care.
+

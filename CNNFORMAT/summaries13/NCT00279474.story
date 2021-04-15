@@ -1,0 +1,16 @@
+(secondQuint)The Effect of Cognitive Behavior Intervention on Psychological Distress of Cancer Patients and Their Family Members.
+
+ The aim of the study is to evaluate the effect of cognitive behavior group intervention with cancer patients and their family members.
+
+ Around 80 cancer patients and their family members will participate in group intervention and will be compared with 80 controls (randomized control study).
+
+ Brief Symptom Inventory,Fatigue inventory, Mini Sleep Questionnaire and repression-sensitization questionnaire will be answered by the participants pre-, post-intervention and after four months.
+
+.
+
+ The Effect of Cognitive Behavior Intervention on Psychological Distress of Cancer Patients and Their Family Members@highlight
+
+The aim of the study is to evaluate the effect of cognitive behavior group intervention with cancer patients and their family members.
+
+ Around 80 cancer patients and their family members will participate in group intervention and will be compared with 80 controls.
+

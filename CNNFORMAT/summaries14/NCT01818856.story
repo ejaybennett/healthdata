@@ -1,0 +1,22 @@
+(secondQuint)Pharmacokinetic Interactions Between Telaprevir and Un-boosted Atazanavir.
+
+ Objectives 1.
+
+ Primary Outcome Measures: evaluate the changes in the plasma pharmacokinetic parameters (Cmax, Cmin, AUC, t 1/2, and Cl) of Telaprevir (TVR) administered at 750 mg/8h together with un-boosted Atazanavir (200 mg/12h), taking as reference the pharmacokinetic parameters observed when TVR is administered with Atazanavir/ritonavir (300/100 mg/day) 2.
+
+ To assess the changes in the plasma pharmacokinetic parameters of Atazanavir administered as 200 mg/12h with respect to its administration as 300/100 mg/day when administered together with TVR (750 mg/8h or 1125 mh/12h).
+
+ Method: open labelled clinical trial with a planned duration of 24 weeks in which 14 HIV/Hepatitis C virus genotype 1 patients under treatment with pegylated -interferon, Ribavirin and Telaprevir will be enrolled.
+
+ A 24 hours pharmacokinetic profile will be obtained after a supervised drug intake while taking TVR and ATV/rtv.
+
+ Afterwards, the patients will take un-boosted ATV 200 mg bid for 7 - 10 days.
+
+ Subsequently, a new pharmacokinetic profile will be obtained.
+
+.
+
+ Pharmacokinetic Interactions Between Telaprevir and Un-boosted Atazanavir@highlight
+
+Hypothesis: the Telaprevir(TVR) plasma levels (750 mg q8h or 1125 mg/12h )will not be affected when co-administered with un-boosted Atazanavir (ATV) 200 mg q12h plus two analogues (NRTIs) in HCV/HIV-co-infected patients.
+

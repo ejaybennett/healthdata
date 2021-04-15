@@ -1,0 +1,70 @@
+(fifthQuint)Scientific Protocol for the Study of Thyroid Cancer and Other Thyroid Disease in Ukraine Following the Chernobyl Accident.
+
+ The nuclear power plant accident at Chornobyl released large quantities of Iodine-131 and other radioisotopes of iodine into the atmosphere, contaminating thousands of square kilometers and exposing millions of people.
+
+ For this study, a well-defined subset of Ukrainian children aged less than 18 years or in utero at the time of the accident were identified and have been followed up.
+
+ The main cohort was screened for thyroid disease every two years for 4 cycles from 1998 through 2007, with another cycle resumed in 2011(fifth cycle), which is now underway.
+
+ The in utero cohort was screened between 2003-2006 and has also been screened since 2011.
+
+ The study is a collaborative effort of researchers in Ukraine and the United States.
+
+ The main cohort includes approximately 13,000 persons who were children in 1986, all or most of whom had their thyroids measured for radioactivity during the weeks immediately following the accident.
+
+ Under a rigid research protocol, these subjects receive diagnostic thyroid examinations, including palpation, ultrasound scanning, thyroid hormone and other laboratory tests (only in the first four cycles).
+
+ If indicated, they are referred for a fine-needle aspiration biopsy.
+
+ Interview information regarding residential, health, diet and lifestyle history has also been collected.
+
+ All subjects are followed for thyroid cancer morbidity.
+
+ Thyroid cancers are confirmed by expert pathology examination of tissue obtained during surgery.
+
+ The in utero cohort includes a total of 2,582 individuals.
+
+ In addition starting in 2003, ~ 7,000 parents of members of the main cohort who were under age 10 y at the time of the accident were interviewed in order to increase the accuracy of recall.
+
+ These individuals were listed as new subjects.
+
+ Altogether, 23,143 individuals have been accrued in this study.
+
+ In addition to the analysis of thyroid radiation measurements made in May-June, 1986, radiation dose to the thyroid was estimated drawing on such data as the reconstruction of deposition patterns and environmental pathways of the radioiodines, and of the location, dietary characteristics, and lifestyle of each person throughout the exposure period.
+
+ For in utero subjects, fetal dose has been estimated based on the mother s thyroid dose.
+
+ The aim of the study is to assess the early and late morphologic and functional changes in the thyroid glands of persons exposed at young ages to radiation from radioactive materials released as a consequence of the Chernobyl nuclear power plant accident, with emphasis on dose-and time-specific changes.
+
+ There have been several amendments to the protocol: transition in 2008 to cancer case ascertainment using a passive form of follow-up based on linkage to the National Cancer Registry of Ukraine (NCRU) which still continues during thefifth cycle of screening; a sub-study involving an additional follow-up examination of those cohort members who were diagnosed with benign nodular thyroid pathology during one of the earlier four active screening cycles; and genetic studies (gene expression and germline SNP studies) of thyroid cancer in this Ukrainian cohort exposed to radioiodines from Chernobyl fallout as children or adolescents; and most recently, a pilot study of genomic characterization of thyroid cancers (2013).
+
+.
+
+ Scientific Protocol for the Study of Thyroid Cancer and Other Thyroid Disease in Ukraine Following the Chernobyl Accident@highlight
+
+The nuclear power plant accident at Chornobyl released large quantities of Iodine-131 and other radioisotopes of iodine in the atmosphere, contaminating thousands of square kilometers and exposing millions of people.
+
+ For this study, a well-defined subset of Ukrainian children aged 0-18 years or in utero at the time of the accident are being identified and examined by well-trained specialists for thyroid disease every two years for at least three cycles.
+
+ The study is a collaborative effort of research in Ukraine and the United States.
+
+ The cohort will include approximately 13,000 persons who were children in 1986, all or most of whom have had their thyroids measured for radioactivity during the weeks immediately following the accident (or whose mothers had measurements taken while the child was in utero).
+
+ Under a rigid research protocol these subjects will receive diagnostic thyroid examinations, including palpation, ultrasound scanning, thyroid hormone and other laboratory tests, and, if indicated, fine-needle aspiration biopsy.
+
+ Interview information regarding residential, health, diet and lifestyle history will also be collected.
+
+ All subjects will be followed for thyroid cancer morbidity and mortality.
+
+ Thyroid cancers will be confirmed by expert pathology examination of tissue.
+
+ In addition to the analysis of thyroid radiation measurements made in May-June, 1986, efforts will be made to reconstruct each person's exposure and to estimate the radiation dose to the thyroid.
+
+ This will involve the reconstruction of deposition patterns and environmental pathways of the radioiodines, and of the location, dietary characteristics, and lifestyle of each person throughout the exposure period.
+
+ The aim of the study is to carry out valid and credible assessments of the early and late morphologic and functional changes in the thyroid glands of persons exposed to radiation from radioactive materials released as a consequence of the Chornobyl nuclear power plant accident.
+
+ The emphasis is on dose- and time-specific changes.
+
+ In the course of the study other possible risk factors will be examined including dietary iodine intake during and after 1986, and the ingestion of potassium iodide for thyroid protection shortly after the accident.
+

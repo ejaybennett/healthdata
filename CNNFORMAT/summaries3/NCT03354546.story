@@ -1,0 +1,18 @@
+(secondQuint)Development and Validation of a Preoperative Frailty Index Using Health Administrative Data.
+
+ The investigators will create a frailty index using health administrative data available for older people having surgery.
+
+ The index will be based on the Canadian Study of Health and Aging Frailty Index and standard recommendations for creation of frailty indices.
+
+ Once derived the index will be tested to measure its association with outcomes, as well as its discrimination.
+
+ Various representations of the frailty index will be tested (primary-as a continuous measure; secondary as a binary, categorical and fractional polynomial variable).
+
+ Performance in subgroups will also be evaluated,.
+
+ Development and Validation of a Preoperative Frailty Index Using Health Administrative Data@highlight
+
+The investigators will create a frailty index using health administrative data available for older people having surgery.
+
+ The index will be based on the Canadian Study of Health and Aging Frailty Index and standard recommendations for creation of frailty indices.
+

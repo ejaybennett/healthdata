@@ -1,0 +1,24 @@
+(secondQuint)The Use of Novel us Device (Jetguide) to Measure the Distance to the Roof of the IAC (Inferior Alveolar Canal).
+
+ To date, the most accurate method to assess the distance from the alveolar crest to the IAC is cone beam computerized tomography (CBCT).
+
+ This technique carries with it some potential concerns, including measurements errors, inability to perform intra-operative radiographs substantial financial and radiation costs.
+
+ In the present study patients will have a CBCT of the mandible taken.
+
+ Sites where implants will be inserted will be marked on the CBCT, measurements of the distance from bone crest to the roof of the inferior alveolar canal (BC-IAC) will be performed.
+
+ During implant surgery the depth of the osteotomy (OD) will be measured using a periodontal probe; OD and the distance from the bottom of the osteotomy to the roof of the IAC (residual distance - RD) will be measured using a standard JetGuide(R) device.
+
+ In addition, standard panoramic radiographs will be taken with a surgical gauge in the osteotomy which will enable us to measure the RD radiographically.
+
+ The correlation between the radiographic and clinical BC-IAC distance will be the primary outcome variable.
+
+ The same correlation for the RD between the Jetguide readings and the linear measurements on the panoramic radiographs will serve as the secondary outcome variable.
+
+.
+
+ The Use of Novel us Device (Jetguide) to Measure the Distance to the Roof of the IAC (Inferior Alveolar Canal)@highlight
+
+The purpose of this human clinical trial is to validate the accuracy of Jetguide(R) US device in detecting the inferior alveolar canal (IAC) and to compare it to measurements performed on computerized tomography images.
+

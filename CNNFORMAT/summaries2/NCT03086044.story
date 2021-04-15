@@ -1,0 +1,16 @@
+(secondQuint)Transplanting Hepatitis C Positive Thoracic Organs.
+
+ This is an open label pilot study transplanting thoracic organs from Hepatitis C positive donors into HCV uninfected recipients at Brigham and Women's Hospital.
+
+ Heart and lung transplant participants will be stratified into two different study arms depending on whether the donor of the thoracic organ was HCV nucleic acid amplifications technology (NAT) positive or negative.
+
+ In the NAT positive arm, the recipients will receive a course of direct acting antivirals (DAA) to begin on the day of transplant, or at the earliest time point post-transplant.
+
+ If the donor was HCV antibody (Ab) positive and NAT negative, the recipients will receive close monitoring with serial HCV viral loads (VL) and will only begin treatment with DAA if they develop HCV viremia.
+
+.
+
+ Transplanting Hepatitis C Positive Thoracic Organs@highlight
+
+This is an open-label, pilot safety and efficacy trial for adults who are active on the heart or lung transplantation lists and are eligible to receive an organ from an increased risk donor who has evidence of active or prior hepatitis C infection (HCV).
+

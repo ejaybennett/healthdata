@@ -1,0 +1,22 @@
+(firstQuint)Probiotics for Prevention of Antibiotic-associated Diarrhea.
+
+ A common complication of antibiotic use is antibiotic-induced diarrhea (AAD).
+
+ AAD is the result of disrupted microflora, occurring two to eight weeks after antibiotic use.
+
+ Probiotic supplementation may rebalance the intestinal flora, thus reducing the incidence of diarrhea, improving quality of life and reducing symptoms associated with antibiotic administration.
+
+ The proposed study will be a prospective, randomized, double blind, placebo-controlled trial that will assess the efficacy of the Jarro-Dophilus EPS probiotics formula for the prevention of AAD.
+
+ In addition,a subgroup of participants will be requested to provide one fecal sample at the initiation of the study and one sample in the last three days of probiotic (or placebo) treatment.
+
+ The samples will undergo microbial analysis for routine C & S(Salmonella, Shigella, Campylobacter, Ecoli 0157, Yersinia), VRE, Yeast, Fungus culture (moulds) and C.
+
+ difficile toxin.
+
+.
+
+ Probiotics for Prevention of Antibiotic-associated Diarrhea@highlight
+
+The purpose of this study is to evaluate if ingestion of a probiotic formula (Jarrow-Dophilus EPS)reduces incidence of diarrhea and improves the quality of life of patients receiving antibiotic therapy.
+

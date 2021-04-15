@@ -1,0 +1,36 @@
+(thirdQuint)Metal or Plastic Stents to Relieve Obstruction of Obstructive Jaundice Prior to Resection of Periampullary Tumors.
+
+.
+
+ Patients who present with obstructive jaundice and have a periampullary tumor and where the patient seems to be in good condition for surgical resection are offered the opportunity to become randomized to either endoscopic drainage with self expanding metallic or plastic stents.
+
+ Before randomization they are informed about the study details and have to give their consent to participate.
+
+ The metallic as well as plastic stents are standard commercially available stents.
+
+ Within four weeks after stent placement the patient will be operated and the following parameters will be evaluated: quality of life, clinical symptoms and lab tests.
+
+ At the operation the surgeon will make an evaluation of the inflammatory reaction in the area of the bile ducts.
+
+ A culture from the bile is sampled close to the area where the anastomosis will be sutured.
+
+ A tissue sample is also taken from the bile ducts to evaluate inflammation.
+
+ A Lymph node is also sampled for the same reason.
+
+ The surgeon also evaluates the difficulty with which the stent had to be removed.
+
+ Postoperative complications are monitored in line with the regular routines at the clinic.
+
+.
+
+ Metal or Plastic Stents to Relieve Obstruction of Obstructive Jaundice Prior to Resection of Periampullary Tumors.
+
+@highlight
+
+Patients with obstructive jaundice due to periampullary tumor can temporarily be relieved of their jaundice with transpapillary stenting at endoscopic retrograde cholangio-pancreatography (ERCP) prior to operation.
+
+ Usually plastic stents are used.
+
+ Hypothesis: Self expanding metallic stents offer a be a better alternative for preoperative stenting in patients with obstructive jaundice due to periampullary tumour obstruction.
+

@@ -1,0 +1,26 @@
+(secondQuint)Efficacy of Preoperative Intra Gastric Balloon in Morbidly Obese Patients Selected for Gastric By-pass.
+
+ On inclusion, comorbidities associated with obesity will be recorded.
+
+ After recording of the informed consent patients will be randomized in two groups: usual care or intra-gastric balloon.
+
+ In the latter, a second randomization will be performed between air-filled balloon or water-filled balloon.
+
+ Six months later, after withdrawal of the balloon (if required), laparoscopic gastric by-pass will be performed.
+
+ Thereafter, patients will be followed during 6 months.
+
+ On each visit, inclusion, 3 months, 6 months, surgery, 1 month and 6 months post surgery, a medical and biological evaluation will be systematically performed.
+
+ The main criteria of judgement is the rate of admission in ICU during more than 24 hrs during the 30 days following surgery.
+
+ The secondary criteria of judgement is: the differences in pre-operative weight loss between the 2 groups, number of complications occurring during the 30 days after surgery, differences in different scales of quality of life (SF36, IWQOL-lite), differences in operative time, length of hospital stay, readmissions, and medical cots between the two strategies.
+
+ Efficacy and tolerance of each type of balloon (air-filled or water-filled) will be compared in the intra-gastric balloon group.
+
+.
+
+ Efficacy of Preoperative Intra Gastric Balloon in Morbidly Obese Patients Selected for Gastric By-pass@highlight
+
+To demonstrate, during a prospective randomized medico-economic study, in morbidly obese patients (BMI > 45 kg/m) selected for a laparoscopic gastric by-pass that, in comparison to usual care, a temporary intra-gastric balloon (6 months) decreases medical costs and peri-operative morbidity.
+

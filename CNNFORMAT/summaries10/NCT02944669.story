@@ -1,0 +1,12 @@
+(secondQuint)ReWalk Personal Device Postmarket Study.
+
+ This study will monitor and further describe the long-term safety of the ReWalk Personal Device for Subjects and their Companions in institutional and non-institutional environments, such as the clinic, home, and community.
+
+ The study will also evaluate the adequacy of the Multi-Tiered Training Program of the ReWalk Personal Device for Subjects, their Companions, and their Clinical Trainers, monitor and further describe all ReWalk Personal Device malfunctions and screen for potential Unexpected Adverse Events.
+
+.
+
+ ReWalk Personal Device Postmarket Study@highlight
+
+This study seeks to further evaluate the Multi-Tiered Training Program and to further explore the overall safety profile of the ReWalk Personal Device outside of the institutional setting under conditions of routine medical practice.
+

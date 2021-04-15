@@ -1,0 +1,28 @@
+(fifthQuint)Silver Diamine Fluoride Pilot Study (SDF).
+
+ This pilot study will compare 1) Silver diamine fluoride (SDF) and fluoride varnish to 2) Placebo and fluoride varnish (conventional prevention) in the management of early approximal carious lesions.
+
+ Early approximal carious lesions refers to decay between teeth, diagnosed with radiographs, not extending more than 1/3 of the way into dentin.
+
+ Management of early approximal carious lesions refers to halting lesion progression, or encouraging lesion reversal after an early carious lesion is detected.
+
+ SDF provides a novel, low-cost intervention option for managing early carious lesions that could potentially bridge the 'gap' between non-operative and operative options; thus, postponing the first placement of a restoration.
+
+ SDF has been used in arresting carious lesions for more than 100 years.
+
+ However, SDF has never been tested in the arrest of approximal caries lesions in permanent teeth.
+
+ SDF acts to both prevent and arrest tooth decay in multiple ways: 1) it acts on the body of carious lesions by precipitating silver ion into the lesion, thus blocking diffusion pathways for cariogenic acids; 2) it interacts with dental enamel leading to the formation of fluoroapatite crystals making the tooth surface more acid resistant; and 3) the precipitated silver from SDF acts as a bactericidal agent disturbing the formation of cariogenic biofilm.
+
+.
+
+ Silver Diamine Fluoride Pilot Study (SDF)@highlight
+
+This pilot trial is randomized, double-blind, and placebo-controlled trial with two parallel arms: an intervention group using silver diamine fluoride (SDF) and a placebo group (control).
+
+ 144 eligible healthy adults will be enrolled in the study and randomly assigned to one of the two treatment groups.
+
+ Both groups will receive the traditional preventive measures including cleanings, Fluoride varnish, diet analysis and counseling.
+
+ Study participants will be followed for two years and caries progression will be radiographically monitored.
+

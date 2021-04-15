@@ -1,0 +1,33 @@
+(thirdQuint)Rebeccamycin Analogue in Treating Women With Stage IIIB or Stage IV Breast Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To assess the activity of rebeccamycin analog as therapy for advanced breast cancer when administered in two different treatment schedules.
+
+ SECONDARY OBJECTIVES: I.
+
+ To assess the toxicity associated with administration of rebeccamycin analog therapy in women with advanced breast cancer.
+
+ II.
+
+ To evaluate topoisomerase I and II levels in human lymphocytes following treatment with rebeccamycin analog.
+
+ OUTLINE: This is a randomized, multicenter study.
+
+ Patients are randomized to one of two treatment arms.
+
+ Arm I: Patients receive rebeccamycin analogue IV over 60 minutes on day 1.
+
+ Arm II: Patients receive rebeccamycin analogue IV over 60 minutes on days 1-5.
+
+ In all arms, courses repeat every 21 days in the absence of disease progression or unacceptable toxicity.
+
+.
+
+ Rebeccamycin Analogue in Treating Women With Stage IIIB or Stage IV Breast Cancer@highlight
+
+Randomized phase II trial to compare the effectiveness of two regimens of rebeccamycin analogue in treating women who have stage IIIB or stage IV breast cancer.
+
+ Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.
+
+ The best way to give rebeccamycin analog in breast cancer patients is not yet known

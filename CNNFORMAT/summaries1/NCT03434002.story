@@ -1,0 +1,24 @@
+(firstQuint)Virtual Reality Simulation for Teaching and Assessment of Anesthesia Crisis Management.
+
+ Competency based medical education (CBME) is an outcomes-based approach to the design, implementation, assessment, and evaluation of medical education.
+
+ The goals of Competency Based Medical Education are to improve patient safety, patient health outcomes, and enhance the competence and performance of individuals, groups and teams.
+
+ Simulation-based training is a proven effective method to improve the skills and competency of the student by permit-ting repetitive practice before an actual procedure is performed on real patients.
+
+ e Virtual reality simulation has been used successfully to teach technical skills such as laparoscopic surgery, carotid stenting, gall bladder surgery, and knee arthroscopy.
+
+ The specific aims of this project are: 1.
+
+ Build a multi-user, multi-site virtual reality simulator for anesthesia management and team training 2.
+
+ Evaluate the simulation as a tool for competency based medical education 3.
+
+ Compare the effectiveness of the simulator with mannequin based simulator for competency based medical education.
+
+.
+
+ Virtual Reality Simulation for Teaching and Assessment of Anesthesia Crisis Management@highlight
+
+In this study, Investigators are going to develop and test a device to apply virtual reality simulation to improve and help for teaching and assessment of anesthesia crisis management.
+

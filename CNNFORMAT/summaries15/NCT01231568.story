@@ -1,0 +1,26 @@
+(firstQuint)An Open Label Study to Examine the Effects of a High-Fat Meal and Particle Size on the Pharmacokinetics of Orally Administered GSK2118436 in Subjects With BRAF Mutation Positive Tumor.
+
+ GSK2118436 is an orally administered, potent and selective small molecule BRAF inhibitor that is currently being developed for the treatment of BRAF mutation-positive tumors.
+
+ This study is designed to evaluate the effects of particle size on the relative bioavailability of GSK2118436 (Cohort 1) and to evaluate the effects of a high-fat meal on the pharmacokinetics of GSK2118436 (Cohort 2).
+
+ Subjects will randomly receive two of four possible regimens over two periods.
+
+ Subjects enrolled in Cohort 1 will receive a single 150 mg dose of GSK2118436 as micronized particles fasted (gelatin capsule formulation) and a single 150 mg dose of GSK2118436 as non-micronized particles fasted (larger particle size).
+
+ Subjects enrolled in Cohort 2 will receive a single 150 mg dose of GSK2118436 (HydroxyPropyl Methyl Cellulose (HPMC) capsule formulation) fasted and with a high-fat breakfast.
+
+ GSK2118436 will be administered as the mesylate salt (equivalent to 150 mg free base).
+
+ Safety and tolerability will also be evaluated.
+
+ The study will be conducted at a sufficient number of centers to complete approximately 28 adult subjects (14 subjects per cohort) with BRAF mutation-positive tumors.
+
+ Following completion of this study, subjects may continue dosing with GSK2118436 in the roll-over study, Protocol BRF114144.
+
+.
+
+ An Open Label Study to Examine the Effects of a High-Fat Meal and Particle Size on the Pharmacokinetics of Orally Administered GSK2118436 in Subjects With BRAF Mutation Positive Tumor@highlight
+
+The study is designed to evaluate the effects of a high fat meal on the pharmacokinetics of 150 mg of GSK2118436, as well as the effects of particle size on the relative bioavailability of GSK2118436.
+

@@ -1,0 +1,16 @@
+(secondQuint)Single-dose Pharmacokinetics and Relative Bioavailability of Two Different Formulations of Opicapone.
+
+ Single-centre, open-label, randomised, two-way crossover study in 28 healthy volunteers.
+
+ The study consisted of two consecutive single-dose treatment periods separated by a washout period of 14 days or more.
+
+ A total of twenty-eight (28) healthy volunteers received a single dose of 50 mg OPC, orally.
+
+.
+
+ Single-dose Pharmacokinetics and Relative Bioavailability of Two Different Formulations of Opicapone@highlight
+
+Single-centre, open-label, randomised, two-way crossover study in 28 healthy volunteers.
+
+ The study consisted of two consecutive single-dose treatment periods separated by a washout period of 14 days or more.
+

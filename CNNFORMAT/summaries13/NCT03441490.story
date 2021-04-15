@@ -1,0 +1,16 @@
+(firstQuint)Internet-delivered Cognitive Behavioural Therapy for Adolescents With Anxiety.
+
+ The study is set up as a factorial design with two independent variables: 1: Learning support and 2: chat-sessions in real time.
+
+ The intervention tested is based on cognitive behavior therapy delivered over the internet via a secure treatment platform.
+
+ Participants in the study are recruited from the general public via social media.
+
+ The intervention is in Swedish.
+
+.
+
+ Internet-delivered Cognitive Behavioural Therapy for Adolescents With Anxiety@highlight
+
+The purpose of this study is to evaluate the effects of learning support and chat on treatment outcome in internet-administrated cognitive behaviour therapy (ICBT) for adolescents with anxiety.
+

@@ -1,0 +1,13 @@
+(firstQuint)Fatty Liver Disease Collaborative Research in China.
+
+ This is a multicenter, prospective and open-enrollment epidemiologic study.
+
+ All the patients with liver biopsy-proven macrovesicular steatosis (>5%) will be enrolled in the baseline cross-sectional analysis.
+
+ Those who are either diagnosed as NAFLD or ALD, if meeting all the inclusion and exclusion criteria, will be enrolled in the following cohort study, will be followed up after 1 year, 3 years and 5 years with a visit window of +1 month.
+
+.
+
+ Fatty Liver Disease Collaborative Research in China@highlight
+
+A multi-center, prospective cohort study on the natural history of fatty liver disease in China

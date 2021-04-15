@@ -1,0 +1,14 @@
+(secondQuint)Extension of SoluMatrix TM Abiraterone Acetate in Patients Who Completed Study Number CHL-AA-201.
+
+ An Open-label extension (OLE), expanded access study, to assess long-term safety of SoluMatrix cent Abiraterone Acetate 500mg (4 x 125 mg qd) with Methylprednisolone (4mg bid) in patients who completed study number CHL-AA-201.
+
+ An exploratory endpoint of Improved safety from switching from Zytiga (aberaterone Acetate 1000mg(4 x 250 mg qd) to SoluMatrix cent Abiraterone Acetate 500mg (4 x 125 mg qd) will also be ascertained.
+
+.
+
+.
+
+ Extension of SoluMatrix TM Abiraterone Acetate in Patients Who Completed Study Number CHL-AA-201@highlight
+
+An Open-label extension (OLE), expanded access study, to assess long-term safety of SoluMatrix cent Abiraterone Acetate 500mg (4 x 125 mg qd) with Methylprednisolone (4mg bid) in patients who completed study number CHL-AA-201.
+

@@ -1,0 +1,16 @@
+(secondQuint)Treatment of Social Phobia With Combined Cognitive Bias Modification and iCBT.
+
+ Previous studies have shown that individuals with social phobia have attention biases, often focusing on or avoiding aversive stimuli (such as judging facial expressions) and thereby reinforcing the bias.
+
+ Computerized training programs have been developed to implicitly direct the users attention.
+
+ In this study, such a program -- combined with an established, well-researched and proven effective form of internet-based cognitive behavioral therapy (iCBT) -- will be provided to 128 participants that meet the diagnostic criteria for social phobia, and the pre/post-measurements will be compared.
+
+ Participants will be randomized to one of two groups, receiving one of two variants of the cognitive bias modification program (both receive iCBT).
+
+.
+
+ Treatment of Social Phobia With Combined Cognitive Bias Modification and iCBT@highlight
+
+The purpose of this study is to determine whether an internet-based treatment program, consisting of combined cognitive bias modification and cognitive behavioral therapy, reduces symptoms of social phobia among a population diagnosed with this disorder.
+

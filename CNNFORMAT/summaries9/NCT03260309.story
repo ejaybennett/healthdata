@@ -1,0 +1,20 @@
+(firstQuint)The Influence of Perioperative Optimisation to the Hip Arthroplasty Outcomes.
+
+ Success of the total hip arthroplasty depends on the measures that optimize perioperative conditions.
+
+ They increase the emotional stress of the staff and error probability.
+
+ It is planned to evaluate semi-closed loop infusion system, its adaption for infusion application's influence to near and far treatment outcomes done by prospective randomized clinical trial.
+
+ This is done by performing total hip arthroplasty.
+
+ It's expected to evaluate the semi-closed loop system's influence on the doctor's emotional tension during the decision making.
+
+.
+
+ The Influence of Perioperative Optimisation to the Hip Arthroplasty Outcomes@highlight
+
+Success of the hip arthroplasty depends on the measures that optimize perioperative conditions.
+
+It is planned to evaluate semi-closed loop system in the hip arthroplasty surgery.
+

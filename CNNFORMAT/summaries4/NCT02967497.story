@@ -1,0 +1,16 @@
+(secondQuint)Clinical Study of YQ1 Plus Cisplatin-based Chemotherapy in Advanced NSCLC EGFR Wild Type.
+
+ This randomized pilot phase II trial studies the effect of YQ1, a herbal medicine, with cisplatin-based chemotherapy on gut microbiota and immune response in patients with EGFR/ALK wild type non-small cell lung cancer, stage IIIB-IV.
+
+ Chinese herbal medicine was known to be beneficial adjuvant or alternative medicine for cancer treatment.
+
+ However, the mechanism was unknown.
+
+ This study wants to investigate the effect and mechanism of YQ1, which was proved to improve the antitumor immunity, to inhibit cancer progression, and to prolong overall survival of lung adenocarcinoma in a series of preclinical studies.
+
+.
+
+ Clinical Study of YQ1 Plus Cisplatin-based Chemotherapy in Advanced NSCLC EGFR Wild Type@highlight
+
+This randomized pilot phase II trial studies the effect of YQ1, a herbal medicine, with cisplatin-based chemotherapy on gut microbiota and immune response in patients with EGFR/ALK wild type non-small cell lung cancer, stage IIIB-IV.
+

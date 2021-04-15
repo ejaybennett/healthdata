@@ -1,0 +1,24 @@
+(firstQuint)Suprapatellar Nailing of Tibial Shaft Fractures.
+
+ Suprapatellar nailing.
+
+.
+
+.
+
+ Participants will be followed for 10 years prospectively.
+
+ Follow up visits will occur at 2 weeks, 6weeks, 3 months, 6 months, 12 months, 3 years, 5 years, 7 years and 10 years.
+
+ Interim analysis will be done at 1, 3, 5, and 7 years with final analysis occuring at 10 years.
+
+ Primary and secondary endpoints in patients undergoing suprapatellar nailing of tibial shaft fractures are: 1.
+
+ To evaluate the long term presence of knee pain 2.
+
+ To evaluate the long term functional outcomes.
+
+ Suprapatellar Nailing of Tibial Shaft Fractures@highlight
+
+To investigate the functional outcomes and prevalence and severity of knee pain for patients undergoing suprapatellar nailing of tibial shaft fractures.
+

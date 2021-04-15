@@ -1,0 +1,42 @@
+(fifthQuint)Investigation of Cecal Intubation Rates and Pain Levels Between Water Exchange and Air Insufflation Flexible Sigmoidoscopy.
+
+ Purpose: This study is being conducted to evaluate whether a new technique, known as the water exchange technique can more frequently allow for the full colon to be examined in patients undergoing screening sigmoidoscopy.
+
+* Hypothesis & Goals & Objectives: It is hypothesised that there will be a 20% or greater difference in cecal intubation rate (ability for the colonoscope to reach the Ileocecal juncture, and thereby provide full examination of the colon) at a minimal and acceptable level of discomfort in non-sedated colon screening patients receiving a scope using the water-exchange method, when compared to the air insufflation method.
+
+ Justification: Previous studies have shown that the water exchange method is associated with a significant reduction in discomfort and often allows patients to receive colonoscopy without sedation or with only minimal sedation.
+
+ The ability to increase the likelihood of full colon examination at minimal discomfort has the opportunity to improve upon screening practices and increase the likelihood of patient participation as discomfort and fear of discomfort is a major factor that limits uptake of sigmoidoscopy and colonoscopy screening.
+
+ Research Design: This study takes a patient and interviewer blinded and randomised study design.
+
+ Patients will be randomly assigned to receive either the water exchange method or the air insufflation method.
+
+ Rates of cecal intubation are compared across study arms.
+
+ Statistical Analysis Plan: Effect differences in cecal intubation rates, and responses to whether the scope that they received was more uncomfortable than they expected, and whether they would be willing to receive the test again at their next screening interval will be compared using the Chi-Squared or, when the data necessitates, Fisher's Exact Test.
+
+ Assuming a non-normal distribution in reported pain scores, the Mann Whitney U test will be used to assess the differences in maximum reported pain according to the Wong Baker Faces Pain Rating Scale between study arms.
+
+ *The term sigmoidoscopy is used here as patients are prepared for the procedure using a standard sigmoidoscopy protocol, rather than colonoscopy.
+
+ That is, sedation is not administered; this is a standard practice for sigmoidoscopy procedures but not for colonoscopy.
+
+.
+
+ Investigation of Cecal Intubation Rates and Pain Levels Between Water Exchange and Air Insufflation Flexible Sigmoidoscopy@highlight
+
+This study evaluates how often patients without sedation that receive screening sigmoidoscopy are able to have their full colon examined without significant discomfort by comparing a new colonoscopy technique known as the water exchange technique to the traditional air insufflation technique.
+
+ It compares the differences between complete colon exam rates for water exchange when compared to the traditional air technique.
+
+ Patients will be randomised and blinded to the procedure type.
+
+ Previous studies have shown that the water exchange method is associated with a significant reduction in discomfort and often allows patients to receive colonoscopy without sedation or with only minimal sedation.
+
+ However, the potential for water exchange to be used in the screening setting has yet to be evaluated.
+
+ As per standard practices in sigmoidoscopy screening, patients will not be sedated.
+
+ However, unlike standard practices in sigmoidoscopy screening, while maintaining minimal levels of discomfort, the investigators will attempt to scope beyond the distal colon.
+

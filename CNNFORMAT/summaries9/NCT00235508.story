@@ -1,0 +1,22 @@
+(secondQuint)Safety and Efficacy of Eszopiclone in Patients With Generalized Anxiety Disorder.
+
+ An 8-week, randomized, double-blind, placebo-controlled, parallel-group adjunctive therapy trial.
+
+ The study consists of subjects with insomnia related to Generalized Anxiety Disorder who will be treated for 10 weeks with open-label escitalopram oxalate 10 mg/day at bedtime, and randomized to receive either eszopiclone 3 mg nightly or placebo nightly for 8 weeks.
+
+ This study was previously posted by Sepracor Inc.
+
+ In October 2009, Sepracor Inc.
+
+ was acquired by Dainippon Sumitomo Pharma.
+
+, and in October 2010, Sepracor Inc's name was changed to Sunovion Pharmaceuticals Inc.
+
+.
+
+ Safety and Efficacy of Eszopiclone in Patients With Generalized Anxiety Disorder@highlight
+
+To determine the safety and efficacy of eszopiclone as adjunctive therapy in the treatment of insomnia in patients with insomnia related to Generalized Anxiety Disorder.
+
+ All subjects will receive an approved anxiolytic agent and will be randomized to nightly therapy with either eszopiclone or placebo.
+

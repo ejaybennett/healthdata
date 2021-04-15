@@ -1,0 +1,26 @@
+(secondQuint)To Evaluate the Feasibility, Safety, and Efficacy of TET for FMT Via Colonic Approach.
+
+ The previous reported fecal microbiota transplantation (FMT)through whole colon.
+
+ delivering ways were involved with upper digestive tract, middle digestive tract and lower digestive tract.
+
+ FMT via colonoscope is the most common approach, participants have to endure the discomfortable of bowel preparation and colonoscopy, and FMT by colonoscopy was recommended for repeat FMT treatment in short period.
+
+ Traditional enema infuses bacteria solution into rectal and sigmoid colon but cannot spread to whole colon.
+
+No technique by placing a tube through anus into cecum for whole colon administration, which could be maintained for repeat FMTs.
+
+To solve these problems, investigators designed a new technique called transendoscopic enteral tubing (TET).
+
+the TET tube was fixed at cecum by clips under endoscopy.
+
+ This study aimed to evaluate the feasibility, safety, and efficacy of TET for FMT via colonic approach.
+
+.
+
+ To Evaluate the Feasibility, Safety, and Efficacy of TET for FMT Via Colonic Approach@highlight
+
+No technique by placing a tube through anus into cecum for whole colon administration.
+
+ This study aimed to evaluate the feasibility, safety, and efficacy of transendoscopic enteral tubing (TET) in fecal microbiota transplantation (FMT) through whole colon.
+

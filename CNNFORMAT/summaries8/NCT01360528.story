@@ -1,0 +1,20 @@
+(firstQuint)Serum Folic Acid Levels in Preterm Infants.
+
+ All babies need to different vitamin supplementation.
+
+ Especially preterm infants need some vitamin supplements.
+
+ Folic acid is very important structure of part of cell growing.
+
+in theorically; preterm infants have very rapid cell reproduction capacity than term infants.
+
+ Therefore preterm infants must need folic acid replacement than term babies.
+
+ The investigators want to determine preterm infants folic acid levels due to gestational age whether needs folic acid replacement.
+
+.
+
+ Serum Folic Acid Levels in Preterm Infants@highlight
+
+Therefore preterm infants must need folic acid replacement than term babies.
+

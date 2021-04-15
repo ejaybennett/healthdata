@@ -1,0 +1,11 @@
+(firstQuint)Prevention for the Restenosis of Intracranial Artery Stent Implantation Treated With Herbal Medicine C117.
+
+ Intracranial artery stenosis (ICAS) is a common cause of ischemic stroke worldwide.
+
+ At present, percutaneous transluminal angioplasty and stenting serve as a possible treatment option for ICAS patients, however, intracranial in-stent restenosis(ISR) limited its use in clinical practice, which led to recurrent stroke even death, meanwhile, From the point of chinese medicine, in-stent restenosis(ISR) regard as the unhealthy environmental influences with shapes, therefore, we have design two control group on the basis of conventional secondary prevention, one use herbal medicine for blood-acting and stasis-dissolving, and another use the similar looking placebos, after 12 months of treatment, we will evaluate the rate of all-cause stroke and all-cause mortality, moreover, we also record the Vascular restenosis rate which may cause recurrent ischemic stroke, the aim of this study was to evaluate the safety and efficacy of herbal medicine C-117.
+
+.
+
+ Prevention for the Restenosis of Intracranial Artery Stent Implantation Treated With Herbal Medicine C117@highlight
+
+Prevention for the Restenosis of Intracranial artery Stent Implantation Treated with herbal medicine C117--PRISIT Trial

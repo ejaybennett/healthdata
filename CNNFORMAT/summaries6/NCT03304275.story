@@ -1,0 +1,20 @@
+(secondQuint)The Feasibility of Pertussis Immunization in a Canadian Emergency Department.
+
+ This study is a prospective randomized, controlled trial of two strategies to provide patients with the pertussis vaccine.
+
+ Eligible adult patients with be offered pertussis vaccination in the Emergency Department vs.
+
+ a referral to Public Health for pertussis vaccination.
+
+ The effect of both strategies on triage time as well as measure of emergency department efficiency including length of stay, time to physician and left without being seen rates will be compared.
+
+ At a four-month follow up, rates of pertussis vaccination will be measured.
+
+.
+
+ The Feasibility of Pertussis Immunization in a Canadian Emergency Department@highlight
+
+Randomized controlled trial of 2 strategies to provide adults with the Tdap vaccine to patients presenting to the emergency department.
+
+ Rates of vaccination as well as effects on department efficiency will be measured.
+

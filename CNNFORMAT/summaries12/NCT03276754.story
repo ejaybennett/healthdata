@@ -1,0 +1,19 @@
+(firstQuint)Immunization To Prevent Acute COPD Exacerbations.
+
+ Patients with chronic obstructive pulmonary disease (COPD) have been demonstrated to have an increased risk of pneumococcal disease.
+
+ Pneumonia is frequent among patients hospitalized for COPD exacerbations and is associated with increased health care utilization and higher mortality.
+
+ Up to 50%-70% of exacerbations can be attributed to respiratory infections by viruses or bacteria, even more in the most severe patients.
+
+ They are often associated with the colonization of airways by multiple bacteria or viruses of low virulence that in normal conditions are parts of the normal flora of the upper airway.
+
+ Current recommendations for immunization of patients with COPD include vaccination against influenza and Streptococcus pneumoniae.
+
+ The aim of this study is to evaluate the potential benefits of immunization of COPD patients with PCV13 and/or against influenza in terms of clinical benefits and quality of life.
+
+.
+
+ Immunization To Prevent Acute COPD Exacerbations@highlight
+
+Prospective multicenter observational study, to evaluate the impact of routine clinical practice vaccination with PCV13 on the reduction of the risk of moderate/severe COPD exacerbations

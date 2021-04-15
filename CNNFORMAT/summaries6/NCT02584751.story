@@ -1,0 +1,36 @@
+(fifthQuint)GERD and Anti-Reflux Therapy Between Able-bodied and SCI Individuals.
+
+ Complete or partial loss of respiratory muscle innervation in individuals with cervical (C1-8) and high thoracic (T1-6) injuries leads to inadequate ventilation and inability to effectively clear secretions, often prompting supportive ventilation following initial injury.
+
+ Development of atelectasis, pneumonias and respiratory failure are the most common respiratory complications observed during the acute phase of injury.
+
+ The role of chronic airway inflammation on pulmonary function in persons with SCI is unknown, although the investigators' recent work has shown that individuals with cervical SCI have elevated levels of exhaled nitric oxide (NO), comparable to those seen in mild asthma.
+
+ It is now widely believed that in the airways of asthmatic patients, the release of NO represents a physiological mechanism to counteract the bronchoconstriction caused by various stimuli.
+
+ In persons with cervical SCI, bronchoconstriction may represent a consequence of unopposed parasympathetic influence, but alternative mechanisms, such as recurrent infections secondary to impaired cough effectiveness, systemic inflammatory response following SCI, or extra-esophageal manifestations of underlying esophageal dysmotility and/or GERD need to be evaluated.
+
+ In general population, it has been long recognized that esophageal dysmotility and/or GERD may lead to extra-esophageal manifestations.
+
+ Reflux can affect both upper and lower respiratory systems leading to the variety of extra-esophageal manifestations, such as reflux asthma, chronic cough, hoarseness, chronic sinusitis, laryngitis, loss of dental enamel, idiopathic pulmonary fibrosis, recurrent pneumonia, chronic bronchitis, etc.
+
+ 2 possible mechanisms of these complications have been identified: the direct aspiration of reflux content and indirectly, stimulation of vagally-mediated reflexes.
+
+ Regardless of the underlying mechanisms, treatments with acid-reducing therapies have shown improvement in GERD and extra-esophageal manifestations of the disease the general population.
+
+ Investigators propose to study the effects of anti-reflux therapy (proton pump inhibition) in persons with SCI on objective and subjective symptoms of respiratory function to determine the underlying mechanisms of airway inflammation due to GERD.
+
+.
+
+ GERD and Anti-Reflux Therapy Between Able-bodied and SCI Individuals@highlight
+
+Respiratory dysfunction, esophageal dysmotility, and a gastroesophageal reflux disease (GERD) have been demonstrated to be highly prevalent in persons with SCI.
+
+ GERD has been linked to respiratory symptoms and conditions such as asthma, chronic cough, and an increased rate of respiratory infections in the general population.
+
+ In persons with asthma, respiratory symptoms and dependency on asthma medications have been reduced by treatment with anti-reflux medication.
+
+ Possible mechanisms have been proposed for this link, including the microaspiration of reflux materials, which may result in airway acidification and aspiration pneumonia, or the stimulation of the vagus nerve through acid-sensitive receptors in the esophagus with associated esophageal inflammation and reflex bronchoconstriction.
+
+ Investigators propose to study the effects of anti-reflux therapy (proton pump inhibition) in persons with SCI on objective and subjective symptoms of respiratory function to determine the underlying mechanisms of airway inflammation due to GERD.
+

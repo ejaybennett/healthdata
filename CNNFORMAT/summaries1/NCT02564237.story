@@ -1,0 +1,34 @@
+(secondQuint)A Controlled Study to Evaluate the Safety and Immunogenicity of StreptAnova in Healthy Adults.
+
+ This is a single-centered trial of a group A streptococcal (GAS) vaccine, StreptAnova cent , to be performed in Canada.
+
+ It will be randomized, observer-blinded, and comparator controlled.
+
+ The study is designed to assess safety and immunogenicity of three doses (0, 1, 6 months) of one dosage (600 mu g protein) in healthy adults 18 through 50 years of age.
+
+ A comparator vaccine is included at 2:1 ratio (StreptAnova cent to comparator).
+
+ Assignment to StreptAnova cent or comparator vaccine will be both randomized and observer-blinded.
+
+ Three (3) 0.
+
+6 mL doses (600 mu g protein) of StreptAnova cent or 0.
+
+5 mL doses of comparator will be administered on days 0, 30 and 180 (N= 30 StreptAnova cent , 15 comparator); each subject will receive three doses of the same treatment.
+
+ Forty-five subjects will be enrolled.
+
+ At each vaccine dose, detailed safety data will be collected from the first 15 randomized subjects until seven days after administration and used to determine whether to proceed to immunizing the 30 remaining subjects.
+
+ Detailed safety data will be collected from the remaining 30 randomized subjects until seven days after administration and used to determine whether to proceed to immunizing the first 15 randomized subjects at the next dose.
+
+ Treatments will be followed by standard clinical parameters for evaluating the safety of a biologic/vaccine product including standardized methods for local and systemic vaccine reactions, repeated vital signs and physical examinations, 12-month follow-up (6 months post-dose 3) for adverse events and concomitant medication changes, and monitoring of clinical laboratory values as clinically indicated.
+
+.
+
+ A Controlled Study to Evaluate the Safety and Immunogenicity of StreptAnova in Healthy Adults@highlight
+
+This is a single-centered trial of a group A streptococcal (GAS) vaccine, StreptAnova cent .
+
+ The study is designed to assess safety and immunogenicity of three doses (0, 1, 6 months) of one dosage (600 mu g protein) in healthy adults 18 through 50 years of age.
+

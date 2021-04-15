@@ -1,0 +1,36 @@
+(thirdQuint)Correlation Intraocular Pressure With Intracranial Pressure.
+
+ Severe Trauma Brain Injury (TBIs) is a public health problem and monitoring of Intracranial Pressure (ICP) is a determinant key of it prognosis.
+
+ Within the noninvasive methods to estimate the ICP, the measurement of intraocular pressure has been proposed because of its biological plausibility (proximity of the eye to the encephalic contend).
+
+ Objective.
+
+ Correlate intraocular pressure with ICP in children with TBIs and obtain their utility values.
+
+ Material and methods.
+
+ Correlation and diagnostic test design study.
+
+ Inclusion criteria: children with TBIs admitted to the emergency room and indication of catheter for ICP measurement.
+
+ Exclusion criteria: injury or ophthalmic disease, glaucoma, encephalic death.
+
+ Intraocular pressure was measured with electronic tonometer in both eyes prior to placement of the catheter for ICP measurement.
+
+ Correlation was estimated with Spearman's Rho.
+
+ The utility values of the diagnostic test were obtained from an Receiver Operating Characteristic curve.
+
+.
+
+ Correlation Intraocular Pressure With Intracranial Pressure@highlight
+
+Severe Trauma Brain Injury (TBIs) is a public health problem and monitoring of Intracranial Pressure (ICP) is a determinant key of it prognosis.
+
+ Within the noninvasive methods to estimate the ICP, the measurement of intraocular pressure has been proposed because of its biological plausibility (proximity of the eye to the encephalic contend).
+
+ Objective.
+
+ Correlate intraocular pressure with ICP in children with TBIs and obtain their utility values.
+

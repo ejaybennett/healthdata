@@ -1,0 +1,11 @@
+(firstQuint)Uric Acid and the Endothelium in CKD.
+
+ The purpose of the study is to understand the effect of lowering serum uric acid levels on vascular function in individuals with chronic kidney disease by comparing the effects of: 1) Allopurinol therapy and 2) Placebo.
+
+ Patients will receive: 3 month study drug (either allopurinol or placebo), with assessment of serum uric acid levels and vascular function.
+
+.
+
+ Uric Acid and the Endothelium in CKD@highlight
+
+This study will test the hypothesis that uric acid impairs the function of vessels in patients with kidney disease

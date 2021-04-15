@@ -1,0 +1,20 @@
+(thirdQuint)Brazilian Randomized Study - Impact of MRI for Breast Cancer.
+
+ The aim of this study is to evaluate the ability of MRI to select patients for conservative treatment of breast cancer.
+
+An accurate assessment of the tumor is essential to select the best therapeutic strategy in the treatment of breast cancer.
+
+Currently, mammography, ultrasound and clinical examination are the standard techniques to assess the extent and location of the tumor.
+
+However, these imaging methods fail to assess the real size in approximately one third of patients eligible to conservative treatment.
+
+MRI has high sensitivity (95-100%) in the detection of invasive cancers as well as being able to detect hidden tumors, multifocality, multicentricity and cancer in the contralateral breast more often and greater accuracy than mammography or ultrasound.
+
+.
+
+ Brazilian Randomized Study - Impact of MRI for Breast Cancer@highlight
+
+The aim of this study is to evaluate the ability of MRI to select patients for conservative treatment of breast cancer.
+
+ Participants: female, over 18 years with breast cancer, stages I, II and III candidates for conservative surgery will be randomly randomized to do MRI or not according mammary density.
+

@@ -1,0 +1,18 @@
+(thirdQuint)Akershus Cardiac Examination (ACE) 1950 Study.
+
+ Design: The Akershus Cardiac Examination (ACE) 1950 Study is a population-based, prospective, cerebro- and cardiovascular age-cohort study of all men and women born in 1950 in Akershus County, Norway.
+
+ Time schedule: Study inclusion and baseline examinations took place in the period September 2012 - May 2015.
+
+ Follow-up and sub-studies are ongoing.
+
+ Current status: As per May 2018, follow-up and sub-studies are ongoing.
+
+.
+
+ Akershus Cardiac Examination (ACE) 1950 Study@highlight
+
+Akershus Cardiac Examination (ACE) 1950 Study is a large, observational, prospective, longitudinal, population-based cohort study.
+
+ The overall aim is to establish an extensive cardio- and cerebrovascular age cohort of elderly subjects for various longitudinal long-term follow-up studies of cardiovascular and cerebrovascular disease.
+

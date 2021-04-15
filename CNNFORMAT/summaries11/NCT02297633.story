@@ -1,0 +1,22 @@
+(thirdQuint)Evaluation of Reactive Oxygen Metabolites in the Value of COPD.
+
+ Reactive oxygen metabolites (reactive oxygen metabolites, ROMs) test is a method by measuring the total reactive oxygen metabolites (ROMs) content in blood so as to evaluate the overall level of oxidative stress in the human body .
+
+Our previous studies have established the method of detecting ROMs which is suitable for fully automatic biochemical analyser.
+
+Our study through the long-term observation followed up for 2 years to find the change of the COPD patients blood ROMs, systematically evaluate the relationship between ROMs and the severity of COPD.
+
+ Evaluate the differences of prognosis between the different oxidative stress level (according to the level of ROMs are divided into higher and normal phenotype).
+
+ Explore the new oxidative stress evaluation index ROMs application value in COPD.
+
+.
+
+ Evaluation of Reactive Oxygen Metabolites in the Value of COPD@highlight
+
+This study through the long-term observation followed up for 2 years to find the change of the COPD patients blood ROMs, systematically evaluate the relationship between ROMs and the severity of COPD.
+
+ Evaluate the differences of prognosis between the different oxidative stress level (according to the level of ROMs are divided into higher and normal phenotype).
+
+ Explore the new oxidative stress evaluation index ROMs application value in COPD.
+

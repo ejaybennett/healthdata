@@ -1,0 +1,18 @@
+(firstQuint)Induction Preoperative Chemotherapy for Patients With Locally Advanced Triple Negative Breast Cancer.
+
+ Compared to other breast cancer subtypes, patients with triple-negative breast cancer have a lower recurrence-free and overall survival, regardless of disease stage at diagnosis.
+
+ That's why new approaches to treatment of this aggressive breast cancer subtype are extremely anticipated.
+
+ One of the ways to improve the results of treatment of locally advanced triple-negative breast cancer is intensification of induction preoperative chemotherapy regimens.
+
+ Elevation of the rate of pathological complete responses after completion of intensification induction preoperative chemotherapy enables to decrease the stage and increase survival of this aggressive breast cancer subtype.
+
+ We hope to achieve more clinical and pathological treatment responses than with standard chemotherapy regimens and therefore to improve treatment outcomes of this extremely adverse group of patients.
+
+.
+
+ Induction Preoperative Chemotherapy for Patients With Locally Advanced Triple Negative Breast Cancer@highlight
+
+The purpose of this study is to increase survival of patients with locally advanced triple-negative breast cancer using two consequent induction preoperative chemotherapy regimens.
+

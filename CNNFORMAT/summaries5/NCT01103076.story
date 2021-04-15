@@ -1,0 +1,78 @@
+(fifthQuint)Effects of High Cut-off (HCO) Hemodialysis on Central Memory CD4+ T and Treg Cells in Patients With End-stage Kidney Disease.
+
+ Chronic hemodialysis (HD) has been associated with changes not only in T cell immunity but also in lipid profile.
+
+ Apart from their immune function, circulating T cells may participate actively in atherogenesis, and treatments that aim to reduce T cell activation and apoptosis in patients with ESRD reduce the risk for development of cardiovascular disease.
+
+ Evidence exists that HD patients are exposed to enhanced oxidative stress that is initiated by the generation of oxygen free radicals, mainly in tissue and probably in the circulation.
+
+ The most potent O2-generating proteins are oxidatively modified lipoproteins, mainly oxidized (oxLDL).
+
+ OxLDL have been shown to trigger apoptosis of endothelial cells, macrophages, and lymphocytes.
+
+ However, the pathophysiological relevance of oxLDL-induced CD4+ T cell apoptosis in HD patients remains uncertain.
+
+ Previous findings including ours have suggested that in chronic HD patients, a significantly high percentage of activated CD4+ T cells ultimately do not proliferate but become apoptotic.
+
+ The induction of activated CD4+ T cell apoptosis from HD patients was dependent on Fas/FasL expression, which leads to a cell contact form of circulating CD4+ T cell self-injury.
+
+ Furthermore, the investigators showed that activated CD4+ T cells from these patients fail to respond adequately to exogenous IL-2.
+
+ This is due to the downmodulation of surface IL-2 receptor (IL-2R) beta and gamma subunit expression, impaired IL-2 signal transduction in CD4+ T cells, and/or increased serum levels of soluble IL-2R (sIL-2R).
+
+ Moreover, in vivo sensitization to IL-2 or low synthesis of endogenous IL-2, themselves potentially may lead to enhanced sensitivity to T cell apoptosis.
+
+ Decreased proliferative capacity of CD69+/CD4+ T cells that were from individuals with normal renal function and incubated with serum from chronic HD patients and its restoration by normal serum strongly suggest that mediators that are induced by HD affect transduction mechanisms in the IL-2/IL-2R pathway.
+
+ Finally, IL-2 seems to inhibit the apoptotic process at many stages by interacting with various proteins.
+
+ Therefore, the investigators postulated that, in HD patients, oxidative stress that is induced by oxLDL may increase CD4+ T cell sensitivity to Fas-mediated apoptosis, in part as a consequence of an HD patient's specific dysregulation of IL-2 expression.
+
+ To test this hypothesis, the investigators assessed the role of Fas and IL-2 in mediating the oxLDL-induced CD4+ T cell dysfunction in patients with ESRD.
+
+ Recently, Meier et al.
+
+ have shown that HD patients exhibited a reduction in the number of peripheral Tregs, which showed a reduced suppressor function.
+
+ Considering the oxLDL effects, the relative percentage of Tregs of the total CD4 population was significantly reduced by incubation with oxLDL compared with a nonsignificant depleting effect on CD4+/CD25- T cells.
+
+ The authors suggest that oxLDL have a specific role on Tregs.
+
+ More interestingly, Tregs from HD patients exhibited early cell-cycle arrest and became apoptotic.
+
+ These phenomena were the consequence of the oxLDL-inhibited proteasome proteolytic activity of p27Kip1 and Bax proteins, both of which accumulated in PHA-stimulated Tregs in vitro.
+
+ Thus, plasma oxLDL in uremic patients might be the trigger of Tregs cycle arrest and apoptosis through proteasome alteration.
+
+ Furthermore, they found that both uremic serum from HD patients and oxLDL triggered a time- and concentration-dependent down-regulatory effect on the expression of FOXP3.
+
+ This means that circulating Tregs in HD patients, in addition to being reduced in number, also expressed low levels of FOXP3 per cell, and thus failed to suppress the proliferation of effector cells.
+
+ In our study, the investigators want to use gene and protein expression profiling and functional assays of human (ESKD patients on chronic HD or naive uremic patients not yet on HD) CD4+ TCM to identify the mechanisms underlying their maintenance or dysfunction.
+
+ Our results will provide a molecular basis for the capacity of CD4+ TCM to resist apoptosis and to persist in a stable manner in the host, thereby conferring long-term protective immunity against reinfection.
+
+ To test this hypothesis, it will be important to determine whether TCM producing cytokines represent a distinct subset of memory cells expressing a specific differentiation phenotype.
+
+ To the other part the investigators will analyse the role played by Tregs in uremic patients using a new membrane, namely HCO 1100.
+
+.
+
+ Effects of High Cut-off (HCO) Hemodialysis on Central Memory CD4+ T and Treg Cells in Patients With End-stage Kidney Disease@highlight
+
+In this study, the investigators will evaluate whether CD4+ TCM producing effector cytokines can be distinguished on the basis of their expression of the IL-7 receptor alpha-chain (CD127).
+
+ Using CD154 production as a marker of Ag-specific CD4+ T cells, the investigators will also test the hypothesis that the phenotype and function of TCM are influenced by the type of Ag they recognize.
+
+ TCM specific for two cleared protein Ag, tetanus toxoid (TT) and hepatitis B surface (HBs), inducing an early stage of CD4+ T cell differentiation will be compared to TCM specific for cytomegalovirus (CMV), a persistent virus inducing an advanced stage of CD4+ T cell differentiation.
+
+ The primary endpoint is to demonstrate in uremic patients who will begin chronic HD and in patients already chronically hemodialyzed any improvement in CD4+ T cell function ex vivo and in vitro.
+
+ These analyzes will focus on memory T-cell subsets (i.
+
+e.
+
+ Th17 and Tregs population) using HCO membranes or polyamide dialyzers.
+
+ The secondary endpoint is a clinical one, namely, to show any improvement in T cell response to HB and TT vaccination (blood antibody titers).
+

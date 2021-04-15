@@ -1,0 +1,18 @@
+(firstQuint)Group Training for Social Skills in Psychosis.
+
+ This study is assessing the feasibility of a psychological intervention targeting social cognition problems in people with psychosis.
+
+ The intervention is a group psychological treatment facilitated by a clinical psychologist.
+
+ The group therapy takes advantage of audiovisual material and practical exercises to illustrate strategies and thinking styles that may help participants overcome difficulties in social settings.
+
+ A second objective of this study is to test a new method to measure social cognition by using portable devices.
+
+ These devices will be carried by participants in their everyday life and will ask about their social activity levels at random times and record activity levels.
+
+.
+
+ Group Training for Social Skills in Psychosis@highlight
+
+The purpose of this study is to assess the feasibility of a social skills training group for people with psychosis.
+

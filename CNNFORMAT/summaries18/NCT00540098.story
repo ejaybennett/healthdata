@@ -1,0 +1,20 @@
+(firstQuint)Paroxetine vs Placebo Combined With Aerobic Exercise or Relaxation in Panic Disorder.
+
+ In continuation of prior work from our group (Broocks A, Bandelow B, Pekrun G, et al.
+
+ Comparison of aerobic exercise, clomipramine, and placebo in the treatment of panic disorder.
+
+ Am J Psychiatry 1998; 155(5):603-9.
+
+) it is the purpose of this trial to test the assumed superiority of a combined therapy of paroxetine and aerobic exercise compared to placebo or unspecific relaxation training in panic disorder.
+
+ Participants were randomized to a 10 week treatment protocol of paroxetine 40 mg daily or placebo in combination with regular exercise or regular relaxation after having given informed consent and screening of in- and exclusion criteria.
+
+.
+
+ Paroxetine vs Placebo Combined With Aerobic Exercise or Relaxation in Panic Disorder@highlight
+
+Efficacy and safety of a 10-weeks treatment protocol of paroxetine vs.
+
+ placebo in combination with regular aerobic exercise (running) or regular relaxation training in the treatment of panic disorder.
+

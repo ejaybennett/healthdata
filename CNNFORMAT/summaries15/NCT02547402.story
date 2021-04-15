@@ -1,0 +1,16 @@
+(firstQuint)A Study of the PK Interaction of CXA-10 With Pravastatin and Vytorin in Healthy Males.
+
+ This is an exploratory study in a small, well controlled group of healthy subjects to explore the effect of CXA-10 on pravastatin and Vytorin(R) (combination of simvastatin and ezetimibe).
+
+ The overall design of the trial is to administer drugs that are metabolized through these transporters to quantify the impact CXA-10 may have on the exposure of these drugs.
+
+ The study will also examine the 24-h urine total creatinine excretion prior to and following administration of CXA-10 to examine the effects of CXA-10, if any, either directly on creatinine transporters or through enhanced creatinine production.
+
+ To reduce the potential variability in drug exposure levels, the study population will only include male subjects between 19 to 25 years of age.
+
+.
+
+ A Study of the PK Interaction of CXA-10 With Pravastatin and Vytorin in Healthy Males@highlight
+
+This is an exploratory study in a small, well controlled group of healthy subjects to explore the effect of CXA-10 on pravastatin and Vytorin(R) (combination of simvastatin and ezetimibe).
+

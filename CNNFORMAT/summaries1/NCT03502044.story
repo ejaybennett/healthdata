@@ -1,0 +1,28 @@
+(thirdQuint)New MRT Imaging Biomarkers and Treatment With Kinetic Oscillatory Stimulation (KOS) in Nasal Cavity for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
+
+ Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a neurologic disease that is characterized by extreme physical and mental fatigue.
+
+ Although some signs of inflammation have been reported previously in ME/CFS patients, the data have been quite limited and controversial.
+
+ A recent study based on multiplex array of a Luminex system has demonstrated an immune signature of serum cytokines that is correlated with the disease severity and fatigue duration.
+
+ Results from resting-state functional MRI (fMRI) studies have also demonstrated that there is a significant correlation between the degree of chronic fatigue and reduction of functional network connectivity in the brain.
+
+ The autonomic nervous system (ANS) plays an important role in the regulation of systemic inflammation.
+
+ The nasal cavity has a rich innervation of cranial nerves.
+
+ We have recently developed a non-invasive ANS stimulation technique, called Kinetic Oscillation Stimulation (KOS) in the nasal cavity.
+
+ KOS treatment is expected to have a positive impact on systemic inflammation via the restoration of ANS homeostasis.
+
+ With this double blinded, placebo controlled, clinical trial, the efficacy of KOS treatment on ME/CFS will be assessed by clinical evaluation, multiplex immunoassay of peripheral blood samples, performance of psychomotor vigilance task, structural and functional MRI of the brains at the baseline point before KOS treatment and after the completion of KOS treatment period.
+
+.
+
+ New MRT Imaging Biomarkers and Treatment With Kinetic Oscillatory Stimulation (KOS) in Nasal Cavity for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)@highlight
+
+Placebo controlled trial study of efficacy of Kinetic Oscillation Stimulation (KOS) in nasal cavity will be conducted in patients with myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
+
+ The outcome of the treatment will be assessed with clinical evaluation of patients, cognitive tests, structural and functional MRI of the brain.
+

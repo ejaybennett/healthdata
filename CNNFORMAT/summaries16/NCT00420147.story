@@ -1,0 +1,42 @@
+(fifthQuint)Wedged Orthoses and Knee Osteoarthritis.
+
+ Introduction: In shoe wedged orthoses have been shown to be an effective conservative approach in reducing pain in patients with osteoarthritis (OA).
+
+ The mechanism responsible for this pain reduction is not well-understood.
+
+ It is not known whether placing a medial or lateral wedge in the shoe results in alterations in lower extremity alignment, knee joint moments or some combination of the two.
+
+ The longterm effects of this intervention on OA patients' functional status as well the progression of their OA has not been studied.
+
+ Therefore, the purpose of this study is to examine the effect of in-shoe wedged orthoses in patients with knee OA on the frontal plane knee joint moment.
+
+ Methods: 38 patients between the ages of 40-70 yrs with knee OA (grades I-IV) will be recruited from within the medical community.
+
+ Subjects with a diagnosis of unilateral knee OA of greater than 3 months duration, as defined by the American College of Rheumatology Guidelines, will be included.
+
+ 19 subjects will be assigned to a treatment group and 19 subjects will be assigned to a control group.
+
+ The treatment group will receive custom molded orthotics with a lateral wedge.
+
+ Both the treatment and control groups will be tested initially and then again 1 year later.
+
+ The dependent variable is peak knee adduction moment.
+
+ Statistics: A two-way ANOVA will be used to test the hypothesis.
+
+ This design will include 2 levels of group (control and treatment) and two levels of trial (pretest and 1 yr posttest).
+
+ Significance will be determined at a level of p<.
+
+05.
+
+.
+
+ Wedged Orthoses and Knee Osteoarthritis@highlight
+
+The five-year goal of this project is to investigate the effect of in-shoe wedged orthoses on lower extremity function in patients with knee osteoarthritis.
+
+ In general, our aims address the long-term effects of orthoses.
+
+ The investigators hypothesize that subjects who use the lateral wedged in shoe orthosis will result in altered gait mechanics that reflect a reduction in the frontal plane knee joint moment compared to subjects who use a neutral in shoe orthosis.
+

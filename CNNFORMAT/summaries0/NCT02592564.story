@@ -1,0 +1,28 @@
+(firstQuint)Brain Plasticity and Cellular Aging After Internet-delivered CBT for Social Anxiety Disorder.
+
+ Internet-delivered cognitive behavior therapy for social anxiety disorder has previously demonstrated to target and affect the brains fear network, typically neural response in the amygdala ameliorate after effective psychological treatment.
+
+ Commonly, neuroimaging studies have performed brain imaging at pre- and post-intervention, yet, longitudinal study designs including several repeated measures of neural response over the course of treatment are currently missing in anxiety disorder.
+
+ In the current study the participants will undergo magnetic resonance imaging (MRI) at four occasion.
+
+ a) Twice before treatment initiation (9 weeks apart), b) at week 4 (during treatment), c) and directly after treatment termination.
+
+ Biological aging can be quantified at the individual cell level by measuring telomere length in peripheral immune cells (leukocytes).
+
+ Telomeres are located at the end of each chromosome and protect the genetic material during cell division.
+
+ Telomerase is an enzyme that can lengthen telomeres, and have in this way a protective function against accelerated cellular aging.
+
+ Variations in these bodily processes have been associated with psychiatric manifestations such as anxiety and depression.
+
+ In the current study the participants telomere length and telomerase activity will be assessed at three occasion.
+
+ a) Twice before treatment initiation (9 weeks apart), and b) directly after treatment termination.
+
+.
+
+ Brain Plasticity and Cellular Aging After Internet-delivered CBT for Social Anxiety Disorder@highlight
+
+This study evaluates underlying psychological and biological mediators in Internet-delivered cognitive behavior therapy for adults with social anxiety disorder.
+

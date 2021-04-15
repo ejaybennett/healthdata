@@ -1,0 +1,20 @@
+(thirdQuint)Insulinotropic Effect of GIP and GLP-1 Before and After Reduced Glucose Tolerance.
+
+ The incretin effect in patients with type two diabetes is reduced.
+
+ The investigators have previously shown that it is possible to induce a defect in the incretin effect in healthy individuals.
+
+ The purpose of this study is to evaluate the insulinotropic affect of the incretin hormones in healthy individuals before and after a deterioration of the glucose homeostasis.
+
+ The evaluation is done by infusing GIP, GLP-1 or saline during hyperglycemic clamps.
+
+.
+
+ Insulinotropic Effect of GIP and GLP-1 Before and After Reduced Glucose Tolerance@highlight
+
+The incretin effect in patients with type two diabetes is reduced.
+
+ The investigators have previously shown that it is possible to induce a defect in the incretin effect in healthy individuals.
+
+ The purpose of this study is to evaluate the insulinotropic affect of the incretin hormones in healthy individuals before and after a deterioration of the glucose homeostasis.
+

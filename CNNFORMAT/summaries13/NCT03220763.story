@@ -1,0 +1,20 @@
+(secondQuint)Eating Away From Home and Mortality.
+
+ This study uses public domain data collected in the National Health and Nutrition Examination Surveys (NHANES) conducted in 1999-2000, 2001-2002, and 2003-2004 by the National Center for Health Statistics.
+
+ Data on frequency of eating restaurant meals were collected at that time.
+
+ The surveys have been linked to the National Death Index and mortality status information is available in public-release files.
+
+ The investigators aim to examine if exposure to restaurant meals at baseline is prospectively linked to the risk of mortality.
+
+ All data are anonymized and available in the public domain.
+
+.
+
+ Eating Away From Home and Mortality@highlight
+
+The proposed study will test the hypothesis that frequency of eating away from home meals is independently related to the prospective risk of mortality in the US population.
+
+ The study will use public-domain mortality linked data from US national Surveys to address this question.
+

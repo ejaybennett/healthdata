@@ -1,0 +1,58 @@
+(fifthQuint)Tetrahydrobiopterin in Patients With Chronic Kidney Disease (CKD) and Albuminuria.
+
+ ABSTRACT Background: Chronic kidney disease (CKD) is characterized by a high propensity to cardiovascular disease (CVD); therefore treatments that impact both CKD and CVD are needed.
+
+ CKD is accompanied by endothelial dysfunction and nitric oxide (NO) deficiency.
+
+ Tetrahydrobiopterin (BH4), an important co-factor for endothelial NO synthase (eNOS) increases the availability of NO.
+
+ Administration of BH4 has the potential to improve endothelial function and thereby reduce albuminuria in CKD.
+
+ Patients and Methods: This Phase 2 open-label study is designed to assess the efficacy and safety of twice daily oral dosing of 6R-BH4 in 30 subjects with CKD (estimated glomerular filtration rate (eGFR) 40ml/min/1.
+
+73m2).
+
+ Trial Design: Subjects will receive 6R-BH4 400mg bid for 6 weeks, sequentially followed by 6R-BH4 plus Vitamin C 500mg bid for another 6 weeks.
+
+ Patients will have scheduled visits at Weeks 0,3,6,9 and 12, with an exit-visit at week 16.
+
+ Albuminuria will be assessed in 24-hour urine collections as well as early morning spot urine samples for albumin:creatinine ratio.
+
+ Blood and urine will be tested for routine clinical laboratory tests, blood NO, and also archived for later assays for special biomarkers.
+
+ The primary outcome will be level of albuminuria as measured in a 24-hour urine collection at 6 and 12 weeks of therapy.
+
+ Secondary outcomes will include urine albumin/creatinine ratio, eGFR, and blood pressure.
+
+ Adverse events will be monitored closely.
+
+ Data analysis: For all patients combined and for each of the above outcomes, we will sequentially compare each time point to the baseline level using paired t-tests.
+
+ For the comparison of 6R-BH4 versus 6R-BH4+vitamin C, we will compare albuminuria at 6 and 12-weeks, adjusted for baseline values, using regression analysis.
+
+ We will also use regression to test for an interaction between baseline value and treatment group.
+
+ Anticipated results: We postulate that 6R-BH4 alone or in conjunction with high dose vitamin C will reduce albuminuria in patients with CKD by improvement in endothelial function that is integral to glomerular filtration.
+
+ Future Implications: Reduction in albuminuria if demonstrable, will have implications for simultaneous renal and cardiovascular protection.
+
+ This will need to be confirmed in a larger randomized controlled clinical trial in subjects with CKD.
+
+.
+
+ Tetrahydrobiopterin in Patients With Chronic Kidney Disease (CKD) and Albuminuria@highlight
+
+Patients with chronic kidney disease (CKD) and albuminuria are at increased risk of developing cardiovascular disease (CVD) which is often associated with hypertension, left ventricular hypertrophy, endothelial dysfunction and increased generation of reactive oxygen species (ROS).
+
+ These patients also manifest a decrease in nitric oxide (NO) availability which is thought to play an important role in their progressive vascular disease.
+
+ Tetrahydrobiopterin (BH4), an essential cofactor for endothelial nitric oxide synthase(eNOS), an important regulator of NO and that is a key mediator of endothelial dysfunction.
+
+ Changes in NO availability are believed to contribute to endothelial dysfunction seen in CKD and common CVD states.
+
+ 6R-tetrahydrobiopterin (6R-BH4 or sapropterin dihydrochloride) is an investigational oral drug that is being evaluated to determine whether it will restore NO availability, leading to beneficial effects on vascular function and ultimately positive clinical outcomes in patients with CKD.
+
+ The primary endpoint in this study is the level of albuminuria, an easily measured marker that has served as a predictor of kidney disease progression.
+
+ If 6R-BH4 reduces albuminuria in patients with kidney disease, it may have implications to slow the disease progression as well as decreased risk of CVD.
+

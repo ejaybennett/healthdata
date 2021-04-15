@@ -1,0 +1,26 @@
+(secondQuint)Orthodontic Archwire Effectiveness Trial.
+
+ This is a randomised clinical trial of Firewire and CNiTi as orthodontic aligning archwires.
+
+ A two group single blind parallel multicentre study design in a National Health Service primary care setting in England will be used.
+
+ Patients will be recruited from those attending the practices for orthodontic treatment that meet the inclusion and exclusion criteria.
+
+ Online randomisation will allocate to one of the two groups, stratified by centre and age group (adolescent / adult).
+
+ Sample size calculation indicates a total sample size of 42, but allowing for dropouts and missing data the investigators will recruit 64, 32 to each group.
+
+ Patients will be treated according to a strict clinical protocol including customised Damon Q fixed appliances and defined archwire sequence.
+
+ Participants will be seen at initial 5 week intervals for data collection after new archwire placement, and otherwise at routine 10 week intervals.
+
+ Primary outcome data (rate of alignment) will be collected over the initial 10 weeks and secondary outcomes over the duration of the treatment (18 months approx).
+
+.
+
+ Orthodontic Archwire Effectiveness Trial@highlight
+
+This study protocol is for a randomised clinical trial which aims to test two materials used as orthodontic archwire to compare FireWire archwires to Copper Nickel Titanium (CNiTi) archwires.
+
+ Both professional and patient related outcome measures are to be used to fully evaluate performance.
+

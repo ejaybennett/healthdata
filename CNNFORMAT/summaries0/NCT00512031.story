@@ -1,0 +1,16 @@
+(firstQuint)Characterizing PAI-1 Modulation on Monocyte Adhesion.
+
+ The principal aim of this study is to determine if molecular regulation of the human gene PAI-1 alters the migratory properties of human myeloid and endothelial cells sufficiently enough to regulate entry and exit from the vascular space.
+
+ Human monocyte become the key cellular orchestrators of human atherosclerotic plaque.
+
+ We believe that a "loss" of PAI-1 activity may promote a pro-atherogenic effect in human vasculature thereby defining a novel atheroprotective effect for PAI-1 when expressed at normal levels in humans.
+
+ By using RNA interference to achieve PAI-1 gene, we hope to elucidate the mechanistic basis of how PAI-1 regulation may affect human migration within the vasculature.
+
+.
+
+ Characterizing PAI-1 Modulation on Monocyte Adhesion@highlight
+
+To determine how altering the expression of a gene known as PAI-1 may affect the adhesive capacity of cells that play a critical role in the developement of human atherosclerosis.
+

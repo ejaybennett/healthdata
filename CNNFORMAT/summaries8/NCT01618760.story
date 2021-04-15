@@ -1,0 +1,18 @@
+(thirdQuint)Bioequivalence Study of Risperidone Tablet 1 mg Under Fed Condition.
+
+ Objective of this pivotal study was to assess the bioequivalence between Test Product: Risperidone Tablet 1 mg of Ipca Laboratories Limited, India and the corresponding Reference Product: Risperdal(R) (Risperidone) Tablets 25 mg of Janssen Pharmaceutica Products, USA, under fed condition in normal, healthy, adult, human subjects in a randomized crossover study.
+
+ The study was conducted with 48 healthy adult subjects.
+
+ In each study period, a single 1 mg dose of either test or reference was administered to the subjects as per the randomization schedule in each study period with about 240 mL of water at ambient temperature in sitting position.
+
+ The duration of the clinical phase was approximately 16 days including washout period of at least 10 days between administrations of study drug in each study period.
+
+.
+
+ Bioequivalence Study of Risperidone Tablet 1 mg Under Fed Condition@highlight
+
+This is a randomized, open Label, balanced, two-treatment, two-period, two-sequence, single dose, crossover pivotal study.
+
+ The purpose of this study is to assess the bioequivalence between Test Product and the corresponding Reference Product under fed condition in normal, healthy, adult human subjects.
+

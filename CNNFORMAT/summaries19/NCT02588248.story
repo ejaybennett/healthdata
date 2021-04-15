@@ -1,0 +1,34 @@
+(thirdQuint)L-Menthol Infusion as a Novel Technique During Colonoscopy.
+
+ Adult subjects who are undergoing colonoscopy for primary colorectal cancer screening or surveillance.
+
+ The study will be carried out as a prospective, double-blinded, fully-masked randomized controlled trial.
+
+ Prior to the trial entry, the participant's labs and medical record will be reviewed in the electronic records system.
+
+ If the subject meets inclusion/exclusion criteria, he or she will be consented at bedside prior undergoing their scheduled procedure and receive standard care as otherwise.
+
+ Experimental and placebo solution ingredients will be serially numbered and randomized in a 1:1 ratio using a variable block strategy and provided by the institutional investigational pharmacy.
+
+ Research staff will draw up experimental or placebo solution in 4 syringes with a total of 20mL in each solution.
+
+ The solutions are identical in appearance and endoscopic delivery.
+
+ To prevent olfactory detection of the peppermint oil solution an essential oil diffuser will be used in all endoscopy rooms using the same oil as in the experimental solution.
+
+ Endoscopists will be instructed to deliver the contents of one syringe sprayed via the endoscope in the cecum and one in the sigmoid colon.
+
+ The contents of the other two syringes are to be delivered at the discretion of the endoscopist.
+
+ After the procedure, endoscopists and study participants will be surveyed to determine if blinding was effective and to assess patient comfort levels, respectively.
+
+ The primary and secondary end points will be determined on an intention to treat basis.
+
+.
+
+ L-Menthol Infusion as a Novel Technique During Colonoscopy@highlight
+
+The primary objective of this double-blinded, prospective, randomized placebo-controlled study is to evaluate for change in endoscopic adenoma detection rates (ADR) with the use of peppermint oil solution vs placebo application during colonoscopy.
+
+ The investigators hypothesize that ADR will be increased with the use of the peppermint oil solution and thus further reduce the risk of colon cancer by means of colonoscopy.
+

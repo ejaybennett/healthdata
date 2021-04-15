@@ -1,0 +1,22 @@
+(firstQuint)A Comparative Study of Two Endoscopic Operations for Lacrimal Duct Obstruction.
+
+ Lacrimal duct obstruction is common among patients with epiphora,which is seriously affect the quality of life.
+
+ The treatment principle is to restore or rebuild the lacrimal duct drainage channel.
+
+ The classic operation type is dacryocystorhinostomy(DCR), which is complex for face-section particularly.
+
+ However, with the development of endoscopy, the investigators prefer to the silicone nasolacrimal intubation under nasal endoscopy, which is more simple and efficient.
+
+ With endoscopy, the investigators can see anatomical structures clearly and then can perform the operation much more perfectly.
+
+Compare to the classic one called DCR, its short and long term therapeutic effects are equal and even better.
+
+Therefore,the latter type does do good to both doctors and patients.
+
+.
+
+ A Comparative Study of Two Endoscopic Operations for Lacrimal Duct Obstruction@highlight
+
+To compare the clinical effects between the silicone nasolacrimal intubation under nasoendoscopy and dacryocystorhinostomy on patients with lacrimal duct obstruction.
+

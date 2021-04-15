@@ -1,0 +1,20 @@
+(secondQuint)MRI Guided HIFU for Palliation of Painful Skeletal Metastases in Children.
+
+ The objective of this study is to determine if MR-guided high intensity focused ultrasound (MR-HIFU) is an effective technique for alleviating the pain associated with bone metastases in paediatric cancer patients.
+
+ This technique meant to be an adjunct therapy to the standard-of-care, which includes radiation therapy and chemotherapy.
+
+ Safety of the technique will be assessed through evaluating non-targeted heating using MRI-based temperature mapping, and inspecting patients post-treatment for skin burns.
+
+ or other signs of serious adverse events.
+
+ Efficacy of the technique will be assessed by evaluating/recording patients observed pain, quality of life, and pain medication usage both before and up to 3 months following treatment.
+
+.
+
+ MRI Guided HIFU for Palliation of Painful Skeletal Metastases in Children@highlight
+
+The Philips Sonalleve MR-HIFU system is expected to be effective in reducing pain intensity and/or reducing analgesic use in patients with painful uncomplicated bone metastases.
+
+ No serious adverse effects are expected to result from this treatment.
+

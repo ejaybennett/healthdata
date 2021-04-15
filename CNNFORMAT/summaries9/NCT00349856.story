@@ -1,0 +1,16 @@
+(secondQuint)Dispensing Overnight Study in Lenses.
+
+ The purpose of the study is to evaluate the fit and performance of an investigational soft contact lens in comparison with a currently marketed lens.
+
+ Both lenses will be worn on a continuous wear basis, which means the lenses will be worn while sleeping.
+
+ Physiological changes will be monitored and subjective ratings collected.
+
+.
+
+ Dispensing Overnight Study in Lenses@highlight
+
+The purpose of the study is to evaluate the fit and performance of an investigational soft contact lens in comparison with a currently marketed lens.
+
+ Both lenses will be worn on a continuous wear basis, which means the lenses will be worn while sleeping.
+

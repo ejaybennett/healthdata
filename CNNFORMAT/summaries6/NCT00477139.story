@@ -1,0 +1,16 @@
+(firstQuint)A Pilot Study Evaluating the Immunologic Status of Patients With HER2+ Breast Cancer.
+
+ This is a pilot study to gather preliminary data on the baseline immunologic status of patients with HER-2(+) breast cancer and to establish an immune monitoring laboratory for future clinical trial.
+
+ We will ask up to 10 patients with HER-2(+) breast cancer in stable condition and in reasonable health to participate in this study.
+
+ The study will establish an immune monitoring for correlative studies done in patients with HER-2(+) breast cancer.
+
+ The immunologic tests that will be done are ELISpot, lymphocyte proliferation, intracellular cytokine staining, lymphocyte immunophenotyping, and ELISA.
+
+.
+
+ A Pilot Study Evaluating the Immunologic Status of Patients With HER2+ Breast Cancer@highlight
+
+This is a pilot study to gather preliminary data on the baseline immunologic status of patients with HER-2(+) breast cancer and to establish an immune monitoring laboratory for future clinical trial.
+

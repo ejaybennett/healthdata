@@ -1,0 +1,34 @@
+(fifthQuint)Cosmetic Result/Toxicity in Post-Mastectomy Immediate Reconstruction Expander+RT.
+
+ - ADMs have been used in combination with a tissue expander and radiotherapy but have not been studied formally in terms of their ability to avoid complications sometimes seen with other methods of reconstruction and improve the delivery of the radiation.
+
+ The only difference between being on the study and not being on the study is that the research team will analyze the records of those who participate to see how easy it was to give the radiation, how good the cosmetic outcome of the reconstruction is and what, if any, complications occured.
+
+ - A minimum of 6 weeks between the surgery and the start of radiation therapy is required to allow for adequate healing.
+
+ Often this interval will be longer, as many patients will receive chemotherapy in the interim.
+
+ There is no maximum time from surgery to radiation.
+
+ - Around the time of radiation planning, the radiation oncologist and plastic surgeon will agree upon how much deflation of the tissue expander will be required to permit simulation of the radiation therapy.
+
+ - Radiation therapy to the chest wall (with or without adjacent lymph nodes) will be given once daily Monday through Friday over 5-7 weeks.
+
+ - After the completion of the radiation therapy, the tissue expander will be re-expanded and eventually replaced by the permanent implant or flap reconstruction at the discretion of the plastic surgeon.
+
+ - Participants will be expected to return to the Radiation Oncology Clinic for follow-up visits 6, 12, 18 and 24 months after the end of the radiation therapy.
+
+ Evaluation of cosmetic results and complications will be done at these visits using a recognized scoring system and photographs taken at each time point and scored for specific items (necrosis, telangiectasia, etc).
+
+.
+
+ Cosmetic Result/Toxicity in Post-Mastectomy Immediate Reconstruction Expander+RT@highlight
+
+This research study is being done to carefully evaluate the effect of giving radiation therapy after temporary breast reconstruction.
+
+ The investigators want to see if this type of reconstruction combined with radiation will look better (once the final reconstruction has been completed) and will reduce the risk that the participant will develop complications that sometimes occur with other kinds of reconstruction procedures.
+
+ The investigators also want to know if it is easier to give the radiation with this type of reconstruction than with other kinds of reconstruction procedures.
+
+ The reconstruction procedure involves the temporary use of a tissue expander and an acellular dermal matrix (ADM).
+

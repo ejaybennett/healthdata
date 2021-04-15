@@ -1,0 +1,16 @@
+(firstQuint)Umbilical Cord Derived Mesenchymal Stem Cells Therapy in Ischemic Cardiomyopathy.
+
+ Coronary artery disease (CAD) is a common disorder that can lead to heart failure.
+
+ Not all people with CAD are eligible for today's standard treatments.
+
+ One new treatment approach uses umbilical cord blood derived mesenchymal stem cells-specialized cells capable of developing into other types of cells-to stimulate growth of new blood vessels for the heart.
+
+ The aim of the present study is to investigate safety and efficacy of intramyocardial implantation of allogeneic mesenchymal stem cells in patients with ischemic cardiomyopathy .
+
+.
+
+ Umbilical Cord Derived Mesenchymal Stem Cells Therapy in Ischemic Cardiomyopathy@highlight
+
+The aim of the present study is to investigate safety and efficacy of intramyocardial implantation of allogeneic mesenchymal stem cells in patients with ischemic cardiomyopathy .
+

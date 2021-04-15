@@ -1,0 +1,26 @@
+(secondQuint)Oral Penicillin and Penicillin Levels in Venous Umbilical Cord Blood.
+
+ According to the CDC, before screening for GBS colonization was implemented, early onset GBS disease occurred at a rate of 1.
+
+5-2 per 1,000 live births.
+
+ Antibiotic treatment for GBS colonized women according to guideline recommended by the American College of Obstetricians and Gynecologists (ACOG) decreases the risk for early onset neonatal GBS infection 10 fold.
+
+ Unfortunately, many eligible women don't receive the full treatment protocol.
+
+ Although the rate of early onset infection is low, the newborns of group B strep positive women who do not receive the recommended preventative antibiotics must undergo testing and extended observation.
+
+ This study will determine the level of antibiotics in the umbilical vein cord blood of newborn infants after the administration of penicillin orally while in labor and compare these levels to levels of penicillin in the umbilical vein cord blood of patients treated with intravenous penicillin in labor.
+
+ Comparisons will be done through literature only; there will be no intravenous penicillin administration arm of the study.
+
+.
+
+ Oral Penicillin and Penicillin Levels in Venous Umbilical Cord Blood@highlight
+
+Pregnant,laboring women will receive 2 grams of oral penicillin V before delivery.
+
+ At the time of delivery of the infant, umbilical vein cord blood will be obtained from the umbilical cord.
+
+ These cord blood samples will be sent for bioassay of penicillin levels.
+

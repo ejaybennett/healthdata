@@ -1,0 +1,14 @@
+(firstQuint)Cardiac Resynchronization Therapy Defibrillator Based Impedance Monitoring Study.
+
+ This is a multi-center feasibility study intended to collect information on changes in intra-thoracic impedance measurements from CRT-D devices.
+
+ In order to obtain an intra-thoracic impedance measurement, the device delivers a subthreshold impulse that measures the resistance between two electrodes.
+
+ At the programmed interval, measurements will be obtained between six different lead configurations.
+
+.
+
+ Cardiac Resynchronization Therapy Defibrillator Based Impedance Monitoring Study@highlight
+
+The intent of this feasibility study is to collect and analyze intra-thoracic impedance measurements from a CRT-D device in a heart failure population.
+

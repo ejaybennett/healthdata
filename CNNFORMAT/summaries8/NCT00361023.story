@@ -1,0 +1,44 @@
+(fifthQuint)Effects of Losartan on Insulin Sensitivity and Secretion in Type 2 Diabetes and Nephropathy.
+
+ Angiotensin II (AngII), the main effector peptide of the rennin-angiotensin system (RAS), is implicated in the development of vascular, cardiac, and renal pathologies.
+
+ Several lines of evidence have suggested that AngII can impair insulin sensitivity.
+
+Angiotensin type-1 receptor (AT1R) blockers (ARBs) have been recognized recently as regulators of glucose and lipid metabolism in adipocytes and adipose tissue.
+
+ Recent clinical trials suggest that blockade of the RAS, either by inhibiting the angiotensin-converting enzyme (ACE) or by blocking AT1R, may substantially lower the risk for type 2 diabetes.
+
+ In the Heart Outcomes Prevention Evaluation (HOPE) trial, there was 34% reduction in relative risk for the development of type 2 diabetes.
+
+ Similarly, in the Intervention For Endpoint Reduction in Hypertension study (LIFE), the incidence of type 2 diabetes was reduced by 25% in the losartan group compared with other antihypertensive therapies.
+
+ Previous study demonstrated that AT1R blockade improved insulin sensitivity in animal models of insulin resistance.
+
+ The underlying mechanism of the insulin sensitizing and anti-diabetic effect of ARBs is incompletely clear.
+
+ The nuclear hormone receptor peroxisome proliferator activated receptor- (PPAR-) plays an important role in the regulation of insulin sensitivity.
+
+ Several studies have shown the ARBs telmisartan and irbesartan potently induces PPAR- activity, promoting PPAR--dependent differentiation in adipocytes.
+
+ However, not all ARBs own PPAR- activating properties.
+
+ In vitro studies have shown that significant differences among PPAR- activating ARBs are likely caused by their physicochemical properties, and high lipophilicity is required to obtain sufficiently high penetration rates to bind to intracellular PPAR-.
+
+ Losartan at high concentrations could activate PPAR- and behaved like partial PPAR- agonists.
+
+ Nevertheless the results of losartan on insulin sensitivity remain controversial.
+
+ To elucidate the underlying effects of losartan on insulin sensitivity, we investigated the effects of losartan on insulin sensitivity and secretion in patients with type 2 diabetes and nephropathy.
+
+.
+
+ Effects of Losartan on Insulin Sensitivity and Secretion in Type 2 Diabetes and Nephropathy@highlight
+
+Angiotensin type-1 receptor (AT1R) blockers (ARBs) have been recognized recently as regulators of glucose and lipid metabolism in adipocytes and adipose tissue.
+
+Moreover telmisartan and irbesartan have been recognized recently as regulators of glucose metabolism.
+
+ For ARB losartan, the results were controversial.
+
+ To confirm its effect on glucose metabolism, we designed and performed a prospective, randomized and controlled study in subjects with type 2 diabetes and nephropathy.
+

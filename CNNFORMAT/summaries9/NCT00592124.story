@@ -1,0 +1,40 @@
+(thirdQuint)Adherence and Acceptability to and Blood Levels of Tenofovir Gel and Tablets in HIV Uninfected Women.
+
+ It is necessary to monitor both the adherence and blood levels of microbicides in order to gauge its efficacy in a study population.
+
+ Utilizing an experimental microbicide (tenofovir gel) and an anti-HIV drug (TDF), this study will measure the adherence and acceptability to and blood levels of the two interventions in three separate regimens given to HIV-uninfected women.
+
+ The expected duration of participation for each participant is 21 weeks.
+
+ Study participants will be randomly assigned into one of six study groups, each with a different regimen sequence.
+
+ Each sequence will consist of three study periods and three wash-out periods.
+
+ Each study period lasts 6 weeks, followed by a 1 week wash-out period.
+
+ The regimen assigned for a given study period will include either oral TDF, tenofovir vaginal gel, or both.
+
+ All participants will be prescribed all three regimens in the order designated by their randomized assignment.
+
+ Study visits will occur at Weeks 1, 3, 6, 7, 10, 13, 14, 17, 20, and 21.
+
+ Medical history, a physical exam, behavioral assessment, and urine, blood, pelvic sample collection, and counseling will occur at all visits.
+
+ At some study sites rectal swabs may be performed.
+
+ Counseling will include information regarding contraception, protocol adherence, HIV, HIV/Sexually Transmitted Infection risk reduction, and male condom use.
+
+ Pharmacokinetic (PK) studies, to be determined by the study site, will occur during all three study periods.
+
+ These studies may involve additional procedures.
+
+.
+
+ Adherence and Acceptability to and Blood Levels of Tenofovir Gel and Tablets in HIV Uninfected Women@highlight
+
+A new approach to HIV prevention currently being studied includes the use of microbicides, substances that kill microbes.
+
+ Tenofovir disoproxil fumarate (TDF) is an oral, FDA-approved, anti-HIV drug, and tenofovir gel is an experimental microbicide.
+
+ The purpose of this study is to determine the adherence and acceptability to and blood levels of three daily regimens of tenofovir in both oral and gel form.
+

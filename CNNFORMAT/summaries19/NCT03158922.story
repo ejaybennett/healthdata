@@ -1,0 +1,30 @@
+(secondQuint)The BARCODE 1 Study.
+
+ The BARCODE 1 study aims to evaluate genetic profiling using the known 170 prostate cancer (PrCa) risk single-nucleotide polymorphisms (SNPs) as a means of offering targeted screening for PrCa in men at a genetically higher risk.
+
+ Initially, 300 men will be recruited via participating General Practices (GPs).
+
+ Men aged 55-69 years who are likely to be eligible for the study will be identified by GPs from medical records.
+
+ Participants will be contacted via invitation letters from GPs and if interested in the study will be asked to fill in a questionnaire to confirm eligibility to participate.
+
+ This questionnaire can be completed in hard copy and men will also be given the option to fill in an online version.
+
+ If eligible, men will then be sent a DNA collection saliva kit.
+
+ DNA from saliva will be analysed with SNP profiling for the known 170 clinically relevant SNPs.
+
+ Men with a genetic risk equivalent to the top 10% of the population distribution (approximately 30 men in total) will be invited for a transrectal ultrasound (TRUS) prostate biopsy, plus further biological samples.
+
+ Biopsy results will be correlated with the genetic score.
+
+ Prostate-specific antigen (PSA) and other biomarkers will be integrated into results to assess combined effects of genetic score and markers.
+
+.
+
+ The BARCODE 1 Study@highlight
+
+BARCODE 1 is a screening study designed to investigate the role of genetic profiling for targeting population prostate cancer screening.
+
+ This study forms a pilot of 300 men, with the view to continue to a future study of 5000 men.
+

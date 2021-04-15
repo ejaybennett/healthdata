@@ -1,0 +1,42 @@
+(fifthQuint)Adjusting Insulin Delivery to Activity.
+
+ This study is a pilot trial investigating the feasibility of using activity monitoring data to adjust insulin pump therapy and prevent hypoglycemia.
+
+ The study will enroll 20 patients with type 1 diabetes mellitus on insulin pump therapy, 10 from each of two age groups: younger children aged 1 year to <7 years of age, and older children aged 7-17 years of age.
+
+ Subjects will be provided with continuous glucose monitors (DexCom G4) and activity monitors.
+
+ Study duration will be 3 months.
+
+ During the course of the study patients will continue to receive routine care by their primary endocrinologist and diabetes nurse educator (DNE).
+
+ Insulin dose adjustments unrelated to activity monitor data will continue to be at the discretion of the patient's primary diabetes team.
+
+ Activity level (steps and calories burned) will be uploaded over the web in a secure fashion to our central firewall-protected database on a daily basis while CGM glucose values and insulin pump data will be collected once a week.
+
+ The initial 2 weeks of a subject's enrollment in the study will be used to establish his or her baseline activity level and no changes to the insulin regimen will be made based on the activity monitor data.
+
+ During weeks 3 to 12, activity data will be reviewed daily and an alternate basal insulin rate will be recommended on days considered to be increased activity days.
+
+ We will use an adaptive algorithm to help guide suggested insulin basal rate changes.
+
+ All recommendations will be reviewed and approved by a physician prior to implementation.
+
+ The alternate rate will be derived using the subject's usual care pump settings as an initial starting point from which to make incremental changes in the 3 hour interval leading up to the hypoglycemic event.
+
+ Target will be the overnight nadir obtained with usual care settings.
+
+ Residual error (CGM-target) will be used to assess the validity of using the 3 hour window prior to the event to effect lower basal.
+
+.
+
+ Adjusting Insulin Delivery to Activity@highlight
+
+Increased daytime activity in children and adolescents with type I diabetes is known to be associated with overnight hypoglycemia.
+
+ We therefore wish to perform a prospective clinical study to assess the feasibility of using activity monitor data to adjust insulin pump basal rates and see whether we can help prevent overnight hypoglycemia following high activity days.
+
+ We plan to carry this out by enrolling 20 subjects (10 subjects 1 to <7 years old and 10 subjects 7 to 17 years old) with type 1 diabetes managed on insulin pump therapy and having them wear activity monitors and CGMs for 3 months.
+
+ After an initial two-week period to establish activity baselines, we will recommend nighttime basal insulin rate adjustments based on activity monitor, CGM and insulin pump data.
+

@@ -1,0 +1,18 @@
+(secondQuint)Efficacy Study of a Computer Decision Support System to Treat Depression.
+
+ The research project was designed to test the feasibility and effectiveness of implementing a Computerized Decision Support System for depression (CDSS-D) during acute care in a primary care setting.
+
+ The basic experimental design was a two-group, two-site study design.
+
+ Three different clinics with a total of 4 primary care physicians agreed and provided informed consent and participated in the study.
+
+ Half of the physicians used the CDSS-D to treat patients with MDD and the other half provided Usual Care (UC) treatment.
+
+ The intervention, CDSS-D, incorporated a pre-existing depression treatment algorithm (Texas Medication Algorithm Project for Depression, Trivedi et al) with computer decision support programming, providing the treatment group physicians with a computerized algorithm.
+
+.
+
+ Efficacy Study of a Computer Decision Support System to Treat Depression@highlight
+
+The purpose of this study was designed to test the feasibility and effectiveness of implementing a Computerized Decision Support System for depression (CDSS-D) during acute care in a primary care setting.
+

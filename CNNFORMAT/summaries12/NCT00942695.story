@@ -1,0 +1,20 @@
+(firstQuint)Energy Value of Macronutrients From Pistachio Nuts and Mechanisms of Nutrient Action.
+
+ Previous studies have suggested that nut consumption imparts a variety of health benefits, including reduction of cardiovascular disease and improved satiety.
+
+ However, studies of pistachios are extremely limited.
+
+ The aim of this study is to determine the energy value of pistachios in the human diet and to probe mechanisms by which pistachios impart health benefits.
+
+ The metabolizable energy value of pistachio nuts will be calculated based on the chemical composition and energy content of the consumed diet and excreta.
+
+ This will provide a better estimate of the energy value of pistachios than simply calculating energy value based on Atwater factors.
+
+ In addition to determining the energy value of pistachios, we will evaluate the effects of pistachio-rich diets on plasma phytonutrient levels and on gene expression changes to determine what protective mechanisms are activated by pistachio consumption.
+
+.
+
+ Energy Value of Macronutrients From Pistachio Nuts and Mechanisms of Nutrient Action@highlight
+
+The objective of this study is to measure the energy value of pistachios in the human diet and study molecular mechanisms that may help explain the beneficial health effects of pistachios.
+

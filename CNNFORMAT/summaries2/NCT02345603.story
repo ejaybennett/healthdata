@@ -1,0 +1,24 @@
+(thirdQuint)Pilot Study of of Renal Arterial Sympathetic Denervation by Cryotherapy.
+
+ Non-randomized study of 5 subjects that have been selected for prophylactic open surgery due to abdominal aortic aneurysm.
+
+ During the surgery the renal arteries at both sides are identified and subjected to about 60 seconds each of freezing by application of liquid nitrogen in dedicated catheters around the circumference of each artery.
+
+ Renal arterial blood flow is checked by Doppler after the freezing procedure, during the surgery.
+
+ Another 5 patients that are not subjected to the freeze therapy serve as controls.
+
+ Main outcome is change in 24h ambulatory blood pressure levels and of course safety parameters such as creatinine levels.
+
+.
+
+ Pilot Study of of Renal Arterial Sympathetic Denervation by Cryotherapy@highlight
+
+Non-randomized study of 5 subjects that have been selected for prophylactic open surgery due to abdominal aortic aneurysm.
+
+ During surgery the renal arteries are identified and subjected to about 60 seconds each of freezing by application of liquid nitrogen in dedicated catheters around the circumference of each artery.
+
+ Another 5 patients that are not subjected to the freeze therapy serve as controls.
+
+ Main outcome is change in ambulatory blood pressure levels.
+

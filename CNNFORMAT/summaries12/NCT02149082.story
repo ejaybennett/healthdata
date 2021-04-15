@@ -1,0 +1,24 @@
+(thirdQuint)Near-infrared Spectroscopy (NIRS) for Intracranial Hematoma Detection in Children.
+
+ A key decision point in the management of patients with an acute traumatic brain injury is determining the presence of an intracranial hematoma that may require neurosurgical intervention.
+
+ An expanding hematoma can lead to significant neurological morbidity or death due to brainstem compression or further ischemic injury.
+
+ Unfortunately, no single physical sign, symptom, or score reliably indicates the presence of an intracranial hematoma.
+
+ A computerized tomography (CT) scan of the head is the gold standard for emergent identification and localization of acute intracranial hematomas.
+
+ However, the ionizing radiation from CT scans is associated with an increased risk of developing malignancies.
+
+ Near infrared spectroscopy (NIRS) is a non-invasive technology that may be useful as an adjunctive modality to CT scanning for early identification of intracranial hematomas.
+
+ A hand-held NIRS device called the Infrascanner has shown about 90% sensitivity and specificity for detecting intracranial hematomas in adults and a few small studies have shown similar results in children.
+
+ The present study will aim to validate this device in a wide age range of pediatric subjects and in multiple hospital settings where this device may serve as a valuable screening tool.
+
+.
+
+ Near-infrared Spectroscopy (NIRS) for Intracranial Hematoma Detection in Children@highlight
+
+This is a study to determine whether the Near infrared spectroscopy (NIRS) optical density (OD) measurement with an Infrascanner device accurately identifies the presence of an intracranial hematoma in pediatric patients 18 years of age after known or suspected traumatic brain injury compared with head computerized tomography (CT) scans as the gold standard.
+

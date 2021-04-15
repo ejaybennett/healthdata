@@ -1,0 +1,12 @@
+(thirdQuint)Intravitreal Bevacizumab for Low Vision in Neovascular Age-related Macular Degeneration (AMD).
+
+ There is no clear indication regarding the treatment of patients with subfoveal choroidal neovascularisation (CNV) secondary to age-related macular degeneration (AMD) presenting at baseline with best corrected visual acuity (BCVA) less than 20/200.
+
+ Treatment of eyes with low visual acuity could lead to a waste of resources, without any functional and social improvements.
+
+ Aim of the present study is to compare the effectiveness of intravitreal bevacizumab injection (IVBI) with respect to simple observation in.
+
+ Intravitreal Bevacizumab for Low Vision in Neovascular Age-related Macular Degeneration (AMD)@highlight
+
+The purpose of this study is to compare the effectiveness of intravitreal bevacizumab injection (IVBI) with respect to simple observation in patients with subfoveal choroidal neovascularisation (CNV) secondary to age-related macular degeneration (AMD) presenting at baseline with best corrected visual acuity (BCVA) less than 20/200.
+

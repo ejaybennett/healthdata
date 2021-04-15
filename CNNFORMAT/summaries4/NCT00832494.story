@@ -1,0 +1,16 @@
+(firstQuint)Phase II Study of DMXAA (ASA404) in Combination With Chemotherapy in Patients With Advanced Non-Small Cell Lung Cancer.
+
+ The study was designed to determine the safety, tolerability and efficacy of DMXAA in combination with carboplatin and paclitaxel in patients with locally advanced and metastatic (Stage IIIb and IV) non-small cell lung cancer.
+
+ The phase Ib part of the study evaluated dose levels of DMXAA at 600 mg/m2, 1200 mg/m2 and 1800 mg/m2.
+
+ In the phase II part of the study, patients were randomized to receive carboplatin and paclitaxel alone or in combination with ASA404 1200 mg/m2.
+
+ An additional single-arm study was undertaken to evaluate further patients at the 1800 mg/m2 dose level.
+
+.
+
+ Phase II Study of DMXAA (ASA404) in Combination With Chemotherapy in Patients With Advanced Non-Small Cell Lung Cancer@highlight
+
+This study was designed to test the addition of DMXAA (now known as ASA404) to carboplatin and paclitaxel in patients with NSCLC.
+

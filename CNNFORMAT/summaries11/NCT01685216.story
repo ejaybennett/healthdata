@@ -1,0 +1,30 @@
+(fifthQuint)Efficacy and Safety Study of Velaglucerase Alfa in Children and Adolescents With Type 3 Gaucher Disease.
+
+ Gaucher disease is a rare lysosomal storage disorder caused by the deficiency of the enzyme glucocerebrosidase (GCB).
+
+ Due to the deficiency of functional GCB, glucocerebroside accumulates within the macrophages leading to cellular engorgement, organomegaly, and organ system dysfunction.
+
+ Gaucher disease has been classified into 3 clinical subtypes based on the presence or absence of neurological symptoms and severity of neurological symptoms.
+
+ Patients with type 2 Gaucher disease present with acute neurological deterioration, and those with type 3 Gaucher disease typically display a more sub acute neurological course; type 1 Gaucher disease, the most common form accounting for more than 90% of all cases, does not involve the central nervous system.
+
+ Velaglucerase alfa is an approved enzyme replacement therapy (ERT) for pediatric and adult patients with type 1 Gaucher disease.
+
+ ERTs have been proven to reduce organomegaly, improve hematological parameters and positively impact health-related quality of life; ERTs have not been shown to cross the blood brain barrier and as a result have shown limited ability to improve the neurological (Central Nervous System; CNS) manifestations associated with Gaucher disease.
+
+ This study will provide a basis for exploring the efficacy and safety of velaglucerase alfa in patients with type 3 Gaucher disease.
+
+.
+
+ Efficacy and Safety Study of Velaglucerase Alfa in Children and Adolescents With Type 3 Gaucher Disease@highlight
+
+Gaucher disease is a rare lysosomal storage disorder caused by the deficiency of the enzyme glucocerebrosidase (GCB).
+
+ Gaucher disease has been classified into 3 clinical subtypes based on the presence or absence of neurological symptoms and the severity of these neurological symptoms.
+
+ Patients with type 2 Gaucher disease present with acute neurological deterioration, and those with type 3 disease typically display a more sub acute neurological course.
+
+ Type 1 Gaucher disease, the most common form accounting for more than 90% of all Gaucher disease cases, does not involve the central nervous system.
+
+ The purpose of this clinical research study is to investigate the safety and effectiveness of velaglucerase alfa in patients with type 3 Gaucher disease.
+

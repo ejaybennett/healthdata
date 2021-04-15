@@ -1,0 +1,17 @@
+(secondQuint)Ultrasonography Versus Palpation for Identification of the Cricothyroid Membrane.
+
+ After a structured teaching program anaesthetists are educated in identifying the cricothyroid membrane with ultrasonography.
+
+ Thereafter their ability to do so is compared with their ability to do so with palpation.
+
+ The purpose is to advise a propriety method for preanesthetic identification.
+
+ In an obese volunteer.
+
+ Ultrasonography Versus Palpation for Identification of the Cricothyroid Membrane@highlight
+
+After a structured teaching program anaesthetists are educated in identifying the cricothyroid membrane with ultrasonography.
+
+ Thereafter their ability to do so is compared with their ability to do so with palpation.
+
+ In an obese volunteer

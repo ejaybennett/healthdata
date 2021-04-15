@@ -1,0 +1,20 @@
+(thirdQuint)Dendritic Cell-based Immunotherapy for Advanced Solid Tumours of Children and Young Adults.
+
+ Phase I/II, open, prospective clinical trial, historically controlled.
+
+ Patients affected of metastatic or relapsed sarcomas or (Central Nervous System) CNS tumors will be included.
+
+ The patients will receive standard treatment and experimental treatment based on a cellular therapy with vaccination with autologous dendritic cells pulsed with tumor lysate.
+
+ The immunization schedule includes 4 monthly vaccines, 4 bimonthly and quarterly remaining vaccines.
+
+ The vaccines will be administered intradermally in combination with standard treatment for each type of tumor.
+
+.
+
+ Dendritic Cell-based Immunotherapy for Advanced Solid Tumours of Children and Young Adults@highlight
+
+Phase I/II, open, prospective clinical trial, historically controlled.
+
+ The objective is to evaluate the safety and, as a secondary measure, the efficacy of an experimental treatment based on a cellular therapy (vaccination with autologous dendritic cells pulsed with tumor lysate) in patients affected of metastatic or relapsed sarcomas or (Central Nervous System) CNS tumors.
+

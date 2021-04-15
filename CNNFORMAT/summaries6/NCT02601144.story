@@ -1,0 +1,28 @@
+(fifthQuint)Variable Frequency Stimulation of Subthalamic Nucleus for Freezing of Gait in Parkinson's Disease.
+
+ HFS of STN provides consistent, long-term improvement of the cardinal motor signs of PD, such as bradykinesia, tremor and rigidity.
+
+ FOG has responded poorly to HFS and tends to continue to deteriorate over time, but this can be alleviated by relatively LFS.
+
+ Evidence has indicated that LFS-STN can improve axial signs in some but not all PD patients, but most of them experienced loss of efficacy in the short term.
+
+ Then comes to the little improvement or even worse of tremor, rigidity and bradykinesia, which consists of the three main symptoms of Parkinson's disease.
+
+ Thus even if axial problems could be solved by LFS in a long way, it could also be hard to tolerate by those patients.
+
+ The effect of VFS on FOG will be studied.
+
+ The investigators hypothesize that VFS could have better effect on Freezing of gait than HFS and LFS.
+
+.
+
+ Variable Frequency Stimulation of Subthalamic Nucleus for Freezing of Gait in Parkinson's Disease@highlight
+
+This is the first study on the effect of the variable frequency stimulation (VFS) on Freezing of gait (FOG) in Parkinson's disease (PD) patients with STN DBS.
+
+ FOG has responded poorly to High frequency stimulation (HFS) but can be alleviated by relatively VFS.
+
+ This study would have significant clinical implications in the management of Freezing of gait (FOG) in these PD patients with subthalamic nucleus (STN) DBS.
+
+ The investigators hypothesize that VFS could have better effect on FOG than HFS and low frequency stimulation (LFS).
+

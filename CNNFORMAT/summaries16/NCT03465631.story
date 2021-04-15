@@ -1,0 +1,20 @@
+(thirdQuint)Upper Extremity Rehabilitation Using SMART Glove System With Transcranial Direct Current Stimulation.
+
+ This is a double-blind, randomized controlled study.
+
+ Patients were randomly assigned to 1 : 1 ratio to experimental group (VR-based training with dual-tDCS; VR-Dual) or the control group (VR-based training with dual sham tDCS; VR-Sham) .
+
+ For both conditions, VR-Dual and VR-Sham group commenced at the same time (20 minutes).
+
+ The therapist and patients were blinded as to whether the patients received real or sham tDCS.
+
+ The study was approved by the Ethics Committee of the National Rehabilitation Center, Korea, and all participants provided written informed consent before enrollment.
+
+.
+
+ Upper Extremity Rehabilitation Using SMART Glove System With Transcranial Direct Current Stimulation@highlight
+
+The aim of this study to investigate the effect of combined bilateral tDCS and VR-based therapy on distal upper extremity training in patients with stroke.
+
+ We hypothesized that experimental group (VR-based training with dual-tDCS) would improve distal upper extremity function rather than control group (VR-based training with dual sham tDCS).
+

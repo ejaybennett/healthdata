@@ -1,0 +1,15 @@
+(secondQuint)Stem Cell Therapy for Outer Retinal Degenerations.
+
+ To determine whether the surgical implantation of a human embryonic stem cell-derived retinal pigmented epithelium (hESC-RPE) monolayer seeded onto a polymeric versus hESC-RPE injections into the sub retinal space is a safe procedure.
+
+ 6 Patients will receive hESC-RPE cell injections (100000 cells) in the sub retinal space (2 Dry Age-related macular degeneration (AMD), 2 Wet AMD with disciform scar and 2 with Stargardt's disease).
+
+ Also 5 patients Dry AMD, 5 patients with Wet AMD with disciform scar and 5 patients with Stargardt's disease with receive a subretinal implantation of the hESC-RPE seeded in a monolayer in a polymeric substrate.
+
+ Patients will be enrolled sequentially, and after the procedure the patients will be followed for 1 year.
+
+.
+
+ Stem Cell Therapy for Outer Retinal Degenerations@highlight
+
+This study is a Phase I/II , open label,non randomized, prospective study to determine the safety of human embryonic stem cell derived Retinal pigmented epithelium (hESC RPE) sub retinal injections versus hESC RPE seeded on a polymeric substrate implanted in the sub retinal space,

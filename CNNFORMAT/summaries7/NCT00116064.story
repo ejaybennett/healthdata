@@ -1,0 +1,20 @@
+(secondQuint)Intranasal Lorazepam Versus Intramuscular Paraldehyde in Paediatric Convulsions.
+
+ The ideal first line anticonvulsant agent would be one that can be safely and easily given at a primary health care facility.
+
+ It should be quick acting, have minimal cardiorespiratory side effects and have a relatively prolonged effect and be cheap.
+
+ No combination of drug or delivery system fully satisfies these criteria.
+
+ There are no large published studies evaluating intranasal lorazepam in paediatric status epilepticus.
+
+ Given its favourable pharmacokinetics and potential practical advantages, we wished to assess the efficacy and safety of intranasal delivery of lorazepam compared to intramuscular paraldehyde, our existing first line anticonvulsant agent in the treatment of acute seizures in children.
+
+.
+
+ Intranasal Lorazepam Versus Intramuscular Paraldehyde in Paediatric Convulsions@highlight
+
+The purpose of this study is to evaluate intranasal lorazepam in paediatric status epilepticus.
+
+ This is a potentially, more effective, safer and cheaper treatment for a common paediatric medical emergency compared to our present first line therapy intramuscular paraldehyde.
+

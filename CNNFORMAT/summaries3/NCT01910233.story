@@ -1,0 +1,34 @@
+(fifthQuint)Registry of Patients With Acute Dyspnea in the Emergency Department.
+
+ This is a prospective registry of patients presenting with acute dyspnea to the emergency department of the city hospital in Nuremberg during May 23th 2013 and October 31th 2013.
+
+ To be included into the registry the patient has to express acute dyspnea.
+
+ Minor patients are not included.
+
+ The admission documents of the studied patients are accompanied by a questionnaire that has to be completed by the triage nurse and the attending physician.
+
+ The questionnaire includes items like professional experience and subjective assessment of patient's prognosis.
+
+ In addition the attending physician has to state if the evaluation of medical history was difficult, if previous medication is known and how likely the presence of heart failure as underlying condition is.
+
+ Data of the questionnaire, the patient record and the follow up contacts are entered in a SPSS database.
+
+ Finally, we measure the OPTIMIZE-HF score (Abraham et al.
+
+ 2008) and the PRIDE mortality score (Baggish et al.
+
+ 2007) in a retrospective manner in order to compare the subjective assessments with objective criteria.
+
+.
+
+ Registry of Patients With Acute Dyspnea in the Emergency Department@highlight
+
+This is a prospective registry of patients presenting with acute dyspnea to the emergency department of the city hospital in Nuremberg.
+
+ There is evidence that acute dyspnea is associated with a mortality rate of 10%, however acute dyspnea is not perceived as a life-threatening condition, both in public and in health care providers.
+
+ Our aim is to describe the patient collective concerning their demographics, baseline characteristics, type of referral and disposition, medical care processes and prognosis.
+
+ Secondly, we want to evaluate if the subjective risk assessment of emergency department personnel matches with objective risk stratification tools and the actual outcome of the studied patients.
+

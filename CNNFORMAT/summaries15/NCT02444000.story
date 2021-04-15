@@ -1,0 +1,16 @@
+(secondQuint)gliomasPCV Only in 1p/19q Codeleted Anaplastic Gliomas.
+
+ Multicentric, Randomized phase III study (1:1), Population: newly diagnosed 1p/19-codeleted anaplastic gliomas, Primary objective: To determine whether treating newly diagnosed 1p/19q-codeleted anaplastic gliomas with PCV alone can increase overall survival without neurocognitive deterioration Control group: radiotherapy followed by 6 cycles of PCV chemotherapy.
+
+ Experimental group: 6 cycles of PCV chemotherapy (radiotherapy being deferred at the time of progression).
+
+ Number of centres participating: the 31 centers of the POLA network Recruitment duration: 7 years, the accrual rate being 40 patients per year, and patients are followed-up until the end of the trial.
+
+.
+
+ gliomasPCV Only in 1p/19q Codeleted Anaplastic Gliomas@highlight
+
+Patients with 1p/19q-codeleted anaplastic gliomas treated with RT + PCV are at risk of neurocognitive deterioration.
+
+ Treating these patients with PCV alone (could reduce the risk of neurocognitive deterioration without impairing overall survival.
+

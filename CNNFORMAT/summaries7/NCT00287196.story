@@ -1,0 +1,22 @@
+(firstQuint)Immediate Radiotherapy or Observation After Surgery for Melanoma Involving Lymph Nodes.
+
+ This is a randomised phase III trial which is being performed on patients at high risk of local recurrence after having a lymphadenectomy for stage 3 melanoma.
+
+ The control arm is surgery alone with radiotherapy reserved for those who recur.
+
+ The study arm is surgery plus post-operative radiotherapy.
+
+ All 3 major node sites are eligible.
+
+ The radiation dose administered is 48Gy in 20 fractions.
+
+ It is likely to be the only study of its kind ever performed.
+
+ The target is 230 patients.
+
+.
+
+ Immediate Radiotherapy or Observation After Surgery for Melanoma Involving Lymph Nodes@highlight
+
+This trial seeks to establish the role of post-operative radiotherapy in patients who have had surgery for melanoma involving lymph nodes and who are at high risk of recurrence.
+

@@ -1,0 +1,20 @@
+(firstQuint)Veliparib With Radiation Therapy in Patients With Inflammatory or Loco-regionally Recurrent Breast Cancer.
+
+ Veliparib is an investigational drug known as a "PARP inhibitor.
+
+" Because veliparib affects the way that cells repair damage, veliparib may be useful in combination with radiation treatment because it may help make radiation work better.
+
+ Veliparib is an oral medication that will be taken twice daily during the 6 weeks a patient is receiving radiation therapy.
+
+ The researchers will also be analyzing blood and tissue taken from the skin of patients.
+
+ The skin biopsies will help determine which patients are more sensitive to treatment with radiation combined with the study drug.
+
+ While the blood sample will allow researchers to see if the way a person's body processes drugs affects how the patient responds to treatment.
+
+.
+
+ Veliparib With Radiation Therapy in Patients With Inflammatory or Loco-regionally Recurrent Breast Cancer@highlight
+
+The purpose of this study is to determine the maximum tolerated dose of veliparib that can be given while a patient is receiving radiation therapy.
+

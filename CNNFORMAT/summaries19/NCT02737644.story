@@ -1,0 +1,38 @@
+(thirdQuint)Peri-conception Key Nutritional Factors and Congenital Heart Disease.
+
+ Congenital heart defects (CHD) are among the most common major congenital anomalies with an incidence of about 8-12/1,000 live births worldwide.
+
+ The mechanism of CHD is still unclear.
+
+ Many studies indicated that the level of key nutrients (eg.
+
+folic acid and vitamins) during peri-conceptional period might affect the incidence of CHD, but the evidence is limited.
+
+ The study aimed to explore the association between serum key nutrients during peri-conceptional period and the incidence of CHD in newborn.
+
+ All couples attending pre-pregnancy physical examination from 11 districts (Minhang District, Huangpu District, Xuhui District, Changning District, Jingan District, Putuo District, Yangpu District, Jiading District, Pudong District,Songjiang District, Qingpu District) in Shanghai from March 2016, are recruited and their blood samples and questionnaires about the supplementation of key nutrients are collected.
+
+ During the gestation, venous blood of pregnant women at all of three trimesters is taken.
+
+ Besides, questionnaires about the supplementation of key nutrients at the first antenatal visit are also obtained.
+
+ The level of serum folic acid, vitamin A and vitamin B12 at preconception and during gestation are measured.
+
+ Finally, investigators identifies those whose newborns developed CHD during follow-up as the cases.
+
+ Then, investigators selects four controls for each case from the rest of the cohort by matching on constitutional determinants of CHD such as age and sex.
+
+ Participants are identified by national identification number during the follow up.
+
+ The level of serum key nutrients is compared in cases and controls.
+
+ Univariate and multivariate association analyses will be performed to identify risk factors to CHD by using multivariate logistic regression model.
+
+.
+
+ Peri-conception Key Nutritional Factors and Congenital Heart Disease@highlight
+
+The study is a nested case-control study and the purpose is to describe the status of key nutrients(eg.
+
+folic acid and vitamins) supplementation among pregnant women in Shanghai, to find out the association between the level of serum key nutrients during peri-conceptional period and the incidence of congenital heart defects (CHD) in newborn, and to provide better preconception care.
+

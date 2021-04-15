@@ -1,0 +1,26 @@
+(thirdQuint)5fluorouracil for Advanced Photoaging.
+
+ The use of 5% 5-fluorouracil (5-FU) cream, twice a day, during 3 weeks represents a classic treatment for multiple and superficial AKs.
+
+ The main adverse event is the severe skin irritation leading to interruption of the treatment in some cases.
+
+ In the last decade a superficial pulse-peeling using it as agent in sequential applications was described.
+
+ This modality of treatment has been demonstrated efficacy and better tolerability.
+
+ The improvement of the overall aspect of photodamaged skin is observed while treating multiple AKs.
+
+ There are no comparative study between the two types of 5% 5-FU use.
+
+ So that is the purpose of our clinical trial.
+
+.
+
+ 5fluorouracil for Advanced Photoaging@highlight
+
+It is well known the efficacy of 5% 5-fluoruracil for multiple and superficial actinic keratosis (AKs)treatment.
+
+ Recently its additional benefit for advanced and severe photoaging while treating Aks was reported.
+
+ The aim of this study is to compare the efficacy and safety of the two modalities of 5% 5-FU use for forearms photoaging.
+

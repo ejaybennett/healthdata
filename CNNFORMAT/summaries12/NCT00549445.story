@@ -1,0 +1,34 @@
+(thirdQuint)Effect of Macrolide Antibiotics on Airway Inflammation in People With Chronic Obstructive Pulmonary Disease (COPD).
+
+ COPD is a disease in which the lung airways are partly damaged and obstructed, making it difficult to breathe.
+
+ The most common cause is cigarette smoking, but breathing in other types of lung irritants, including pollution, dust, and chemicals, over a long period of time may also contribute to COPD.
+
+ It is the fourth leading cause of death in the United States.
+
+ Symptoms include coughing, excess mucus production, shortness of breath, wheezing, and chest tightness.
+
+ Some bacterial infections may worsen COPD exacerbations.
+
+ Current studies are examining if the macrolide antibiotic azithromycin may be beneficial at reducing the frequency and/or severity of COPD exacerbations.
+
+ Azithromycin also has anti-inflammatory properties that may reduce the severity of COPD exacerbations by inhibiting the matrix metalloprotease (MMP)-catalyzed breakdown of collagen and the subsequent generation of proline-glycine-proline (PGP), a substance produced in response to collagen breakdown.
+
+ An increase in PGP levels may indicate an increase in inflammation, which can worsen COPD symptoms.
+
+ NHLBI's COPD Network Macrolide study includes people with COPD who were randomly assigned to receive either azithromycin or placebo for 1 year.
+
+ For this current study, researchers will examine the Macrolide participants' previously collected blood samples, sputum samples, and study data, including information on COPD exacerbations and azithromycin effects.
+
+ The purpose of this study is to examine the anti-inflammatory properties of azithromycin in people with COPD.
+
+.
+
+ Effect of Macrolide Antibiotics on Airway Inflammation in People With Chronic Obstructive Pulmonary Disease (COPD)@highlight
+
+Chronic obstructive pulmonary disease (COPD) is a chronic lung disease.
+
+ Azithromycin, an antibiotic, may be beneficial at reducing the symptoms and severity of the disease.
+
+ This study will analyze previously collected study data to evaluate the anti-inflammatory properties of azithromycin and determine how azithromycin affects the frequency and severity of COPD exacerbations.
+

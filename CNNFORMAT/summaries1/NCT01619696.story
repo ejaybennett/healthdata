@@ -1,0 +1,14 @@
+(secondQuint)Prospective Pilot Study of Multimodal Radiological Evaluation Feasibility During Chemoradiotherapy of Rectal Adenocarcinomas.
+
+ The objective of the present project is to validate the feasibility of a multimodal radiological pathway while on chemoradiotherapy, in order to validate potentially predictive factors for chemoradiotherapy sensitivity of rectal adenocarcinomas.
+
+ It is based on a structured clinical and radiological pathway for patients, using diffusion MRI and F misonidazole PET.
+
+ Validation of these new tools is already needed in clinical practice since future institutional trials will be based on treatment individualisation, using preoperative predicting factors.
+
+.
+
+ Prospective Pilot Study of Multimodal Radiological Evaluation Feasibility During Chemoradiotherapy of Rectal Adenocarcinomas@highlight
+
+The objective of the present project is to validate the feasibility of a multimodal radiological pathway while on chemoradiotherapy, in order to validate potentially predictive factors for chemoradiotherapy sensitivity of rectal adenocarcinomas.
+

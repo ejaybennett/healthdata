@@ -1,0 +1,42 @@
+(fifthQuint)A Clinical Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of SRT501 in Subjects With Colorectal Cancer and Hepatic Metastases.
+
+ This is a randomized, double-blind, placebo-controlled, inpatient/outpatient study to assess the safety, pharmacokinetics, and pharmacodynamics of SRT501 in subjects diagnosed with colorectal cancer and hepatic metastases.
+
+ Fifteen subjects aged 18 years of age and older who fulfill the inclusion/exclusion criteria, will be enrolled in this study.
+
+ Ten subjects, if eligible, will be randomized to receive SRT501 and 5 subjects, if eligible, will be randomized to receive placebo.
+
+ Subjects will sign the informed consent form prior to any study-related procedures.
+
+ If eligible, subjects will consent to receive 5.
+
+0 g of SRT501 or placebo, to be administered once daily as an oral reconstituted powder, for 14 days at the same time each day.
+
+ On Days 1 and 2, SRT501 or placebo will be administered approximately 15-30 minutes following the consumption of a standardized breakfast to allow for PK sample collection.
+
+ On all other days, SRT501 or placebo will be administered approximately 15-30 minutes following the consumption of the evening meal.
+
+ Following the course of SRT501 or placebo administration, subjects will undergo scheduled surgical removal of their metastatic liver disease as well as non-diseased tissue and these samples will be evaluated for SRT501 concentrations and pharmacodynamic markers of neoplastic activity (such as cell differentiation, apoptosis, proliferation, etc.
+
+).
+
+ Due to scheduling and surgical availability, subjects can receive SRT501 or placebo for a minimum of 10 days and a maximum of 21 days.
+
+ If diseased colon tissue is also scheduled to be removed during resection, both diseased and normal colon tissue will also be collected for analysis.
+
+ Participants will be required to return to the study center on Day 2 for a 24-hour PK sample and the evening prior to their scheduled surgical resection as well as per the Institution's standards of care for recovery following the surgical procedure.
+
+.
+
+ A Clinical Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of SRT501 in Subjects With Colorectal Cancer and Hepatic Metastases@highlight
+
+The primary purpose of this study is to determine the safety and tolerability of SRT501 (5.
+
+0 g) in subjects with colorectal cancer and hepatic metastases when administered once daily for 14 days.
+
+ The purpose is to also characterize the pharmacokinetic profile of SRT501 (5.
+
+0 g) by assessing levels of SRT501 and metabolites in blood, urine, bile and normal and malignant metastatic tissues in subjects with colorectal cancer and hepatic metastases when administered once daily for 14 days.
+
+ The secondary purpose is to examine the pharmacodynamics of SRT501 activity in both normal and malignant tissue samples, including blood and/or bodily fluids.
+

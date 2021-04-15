@@ -1,0 +1,13 @@
+(firstQuint)Safety and Tolerability Extension Trial for Patients With Chronic Idiopathic Constipation.
+
+ This was a Phase 3 multicenter, open-label, safety and tolerability extension trial of 10 mg elobixibat daily, with possibility for dose adjustment to 5 mg daily, for 52-week Treatment Period in patients with CIC.
+
+ A dose adjustment to 5 mg/day was allowed for the remainder of the trial if a patient reported unacceptable treatment-related diarrhoea that occurred within the first four weeks of treatment.
+
+ The trial enrolled patients from two lead-in, double-blind efficacy trials (trial codes NCT01827592 and NCT01833065).
+
+.
+
+ Safety and Tolerability Extension Trial for Patients With Chronic Idiopathic Constipation@highlight
+
+Safety and Tolerability Extension Trial for Patients with Chronic Idiopathic Constipation (CIC)

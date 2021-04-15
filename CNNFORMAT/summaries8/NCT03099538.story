@@ -1,0 +1,30 @@
+(thirdQuint)Ixekizumab in the Treatment of Bullous Pemphigoid.
+
+ BP is the most common auto-immune blistering disease of the skin and causes significant morbidity.
+
+ BP disproportionally affects the elderly population and the current, non-specific immunosuppressive therapies, in addition to patient comorbidities, are associated with a high risk of infection related mortality.
+
+ Neutrophils and their proteases have been shown to play a major role in the cleavage of Bullous Pemphigoid 180 Antigen (BP180) in BP.
+
+ Mast cells and other cellular mediators also contribute to the pro-inflammatory environment within and surrounding blisters of BP.
+
+ However, the prior targeting of mast cells and basophils has resulted in unpredictable disease control.
+
+ Recently, IL-17 has been identified as a key driver of chronic inflammation in BP.
+
+ With the increasing aged population in the United States, BP will increase in prevalence and the development of a more targeted approach will be necessary to decrease morbidity and mortality.
+
+ IL-17 inhibition with Ixekizumab may have targeted, disease-modifying effects on BP.
+
+ The primary objective is to test the effect of Ixekizumab in the treatment of the autoimmune blistering disease, BP.
+
+.
+
+ Ixekizumab in the Treatment of Bullous Pemphigoid@highlight
+
+Recently, Interleukin (IL)-17 has been identified as a key driver of chronic inflammation in Bullous Pemphigoid (BP).
+
+ Ixekizumab is a recombinant high-affinity fully human monoclonal antibody that targets IL-17A Immunoglobulin gamma-1 (IgG1)/kappa-class.
+
+ The purpose of this study is to determine the effect of Ixekizumab on BP patients.
+

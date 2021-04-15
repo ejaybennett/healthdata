@@ -1,0 +1,40 @@
+(thirdQuint)Metabolic Assessment of Aging Men With Urinary Lithiasis.
+
+ Urolithiasis is a common disease, with an overall prevalence about 2% in the world.
+
+ Accordingly growth of life expectancy, elderly people become more susceptible to present renal calculi.
+
+ The investigators have two purposes: (1) evaluate metabolic disturbances in aging men with urinary lithiasis, and (2) evaluate bone demineralization in aging men with renal calculi.
+
+ The investigators have made a case-control model.
+
+ The case-group is compposed by men with more than fifty years-old who had their first lithiasic diagnosis (renal colic ou incidental finding) after that age.
+
+ The control-group is compposed by men with more than fifty years-old who had never diagnosed with renal stones.
+
+ So the investigators have excluded men with repetitive episodes of renal colic, that could be negatively influence the outcomes of aging factors on urinary lithiasis.
+
+ All the people have to submitted to blood tests, 24-hour urinary samples, abdominal ultrassonography and abdominal X-ray (or abdominal CT, if necessary); and bone densitometry.
+
+ The investigators hope to achieve reliable conclusions about urinary lithogenesis.
+
+ Blood tests: total calcium, ionized calcium, uric acid, phosphorus, creatinine, urea, testosterone and parathyroid hormone.
+
+ 24-hour urinary sample(s): calcium, uric acid, creatinine, citrate, sodium, pH and volume.
+
+ Patients of the case arm had to collect 6 24-hour urine samples, while the control arm had collected 3 24-hour urine samples.
+
+ Data were analyzed using the Fischer's exact, Chi-square and Mann-Whitney tests; a level of significance of 5% was adopted.
+
+.
+
+ Metabolic Assessment of Aging Men With Urinary Lithiasis@highlight
+
+Urinary lithiasis is a common disease on young adults, but not so far on aging people.
+
+ Nowadays, the investigators are seeing a gradative growth on men above sixty years old, mainly in industrialized countries.
+
+ The purpose of this study is to investigate metabolic aspects of aging men with renal stones, towards blood tests, 24 hour-urinary samples, imagenological exams and bone densitometry.
+
+ The investigators have made a case-control model.
+

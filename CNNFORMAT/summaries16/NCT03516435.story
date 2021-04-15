@@ -1,0 +1,18 @@
+(firstQuint)Efficacy of Different Electrical Stimulation Placement in Patients With Overactive Bladder Syndrome.
+
+ This experiment is expected to understand the benefits of different settings of electrical stimulation in the treatment of overactive bladder.
+
+The study will adopt a longitudinal research design with randomized quasi-experimental trial.
+
+The patients will recruited and be randomly assigned to Group A (Parasacral transcutaneous electrical stimulation) or Group B (Intravaginal electrical stimulation).
+
+ There will be 30 participants in each group.
+
+ Data will be collected 2 times.
+
+.
+
+ Efficacy of Different Electrical Stimulation Placement in Patients With Overactive Bladder Syndrome@highlight
+
+This experiment is expected to understand the benefits of different settings of electrical stimulation in the treatment of overactive bladder.
+

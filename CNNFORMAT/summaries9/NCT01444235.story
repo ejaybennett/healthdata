@@ -1,0 +1,16 @@
+(secondQuint)Phase III Study Comparing Two Methods of Cardioplegia in Coronary Artery Bypass Surgery.
+
+ The objective of this investigation is to compare the cardioprotective effects and safety of two cardioplegic solutions, HTK Cardioplegic Solution (Custodiol) and Custodiol-N in patients undergoing cardiopulmonary bypass for coronary artery bypass surgery.
+
+ The study design is a prospective, double blind, multicenter, randomized, Phase III comparison study intended to demonstrate non-inferiority in surgical outcome between Custodiol and Custodiol-N as determined by CK-MB area under the curve (primary endpoint), catecholamine requirement(cumulative dose) and cardiac Troponin T, occurrence of comorbid events postoperatively (e.
+
+g.
+
+, myocardial infarction).
+
+.
+
+ Phase III Study Comparing Two Methods of Cardioplegia in Coronary Artery Bypass Surgery@highlight
+
+Comparison of the cardioprotective effects and safety of two cardioplegic solutions (solutions used during a cardiac arrest in the heart surgery) in patients undergoing cardiopulmonary bypass for coronary artery bypass surgery.
+

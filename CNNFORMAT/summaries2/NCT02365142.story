@@ -1,0 +1,56 @@
+(fifthQuint)Treatment of Osteoarthritis by Intra-articular Injection of Bone Marrow Mesenchymal Stem Cells With Platelet Rich Plasma.
+
+ Purpose: To determine the safety, feasibility and effectiveness (clinical and radiological) of intra-articular administration of autologous mesenchymal stem cells (MSCs) with platelet richa plasma (PRGF(R)) in patients with knee osteoarthritis.
+
+ Patients and methods Clinical trial phase I- II, randomized , multicenter , with two treatment arms and 19 patients for each group.
+
+ The investigators compare the intraarticular injection of against the administration of two different doses of mesenchymal stem cells with hialuronic acid according to the following scheme: 1.
+
+ Group A: 3 intra-articular injections of platelet richa plasma (PRGF(R)) separated by 7 days.
+
+ 2.
+
+ Group B: 3 intra-articular injections of platelet richa plasma (PRGF(R)) separated by 7 days and one with Mesenchimal stem cell.
+
+ Intra-articular injection of 100 million autologous mesenchymal progenitor stem cells cultured ex - vivo (cell suspension sterile small volume (5-10 ml ) in a vehicle suitable for intraarticular injection ) followed by an intraarticular injection of platelet richa plasma (PRGF(R)).
+
+ The treatment is completed with 2 more injection of platelet richa plasma (PRGF(R)) separeted by one week.
+
+ The autologous mesenchymal stem cells are obtained from the iliac crest under local anesthesia and sedation.
+
+ They are cultured ex vivo The primary endpoint is safety and feasibility.
+
+ The investigators registered the occurrence of complications and / or adverse effects during the study.
+
+ In addition the investigators assess the response to intra-articular infusion of CMM analyzing the following parameters: - Clinical assessment of pain and function (Baseline, 1, 3, 6 and 12 months since treatment): VAS , WOMAC , KOOS , EuroQol, SF-16, Lequesne , WOMAC , KOOS.
+
+ - Radiographic (baseline, 6 and 12 months since treatment): Femorotibial space.
+
+ - Radiographic using MRI (baseline, 6 and 12 months since treatment): by assessing the number location of the lesions , cartilage thickness , signal intensity , subchondral bone alteration , volume and WORMS and dGEMRIC protocols.
+
+ All patients met the following inclusion and exclusion criteria:.
+
+ Treatment of Osteoarthritis by Intra-articular Injection of Bone Marrow Mesenchymal Stem Cells With Platelet Rich Plasma@highlight
+
+Purpose: To determine the safety, feasibility and effectiveness (clinical and radiological) of intra-articular administration of autologous mesenchymal stem cells (MSCs) with platelet richa plasma (PRGF) in patients with knee osteoarthritis.
+
+ Patients and methods Clinical trial phase I- II, randomized , multicenter , with two treatment arms and 19 patients for each group.
+
+ The investigators compare the intraarticular injection of against the administration of two different doses of mesenchymal stem cells with hialuronic acid according to the following scheme: 1.
+
+ Group A: 3 intra-articular injections of platelet rich plasma (PRGF(R)) separated by 7 days.
+
+ 2.
+
+ Group B: 3 intra-articular injections of platelet richa plasma (PRGF(R)) separated by 7 days and one with Mesenchimal stems cells.
+
+ Intra-articular injection of 100 million autologous mesenchymal progenitor stem cells cultured ex - vivo (cell suspension sterile small volume (5-10 ml ) in a vehicle suitable for intraarticular injection ) followed by an intraarticular injection of platelet richa plasma (PRGF(R)).
+
+ The treatment is completed with 2 more injection of platelet richa plasma (PRGF(R)) separeted by one week.
+
+ In addition the investigators assess the response to intra-articular infusion of CMM analyzing the following parameters: - Clinical assessment of pain and function (Baseline, 1, 3, 6 and 12 months since treatment): VAS , WOMAC , KOOS , EuroQol, SF-16, Lequesne , WOMAC , KOOS.
+
+ - Radiographic (baseline and 12 months from treatment): Femorotibial space.
+
+ - Radiographic using MRI (baseline and 12 months from treatment): by assessing the number location of the lesions , cartilage thickness , signal intensity , subchondral bone alteration , volume and WORMS and dGEMRIC protocols.
+

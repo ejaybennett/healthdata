@@ -1,0 +1,11 @@
+(firstQuint)Feeding Tolerance Evaluation.
+
+ Exclusively formula-fed infants will participate in two 2-week feeding periods of 2 infant formulas.
+
+ Daily tolerance records will be kept by caregivers.
+
+.
+
+ Feeding Tolerance Evaluation@highlight
+
+Crossover study of 2 infant formulas

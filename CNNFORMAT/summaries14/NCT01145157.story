@@ -1,0 +1,18 @@
+(thirdQuint)A Comparison Between Signature Total Knee Arthroplasty (TKA) to Conventional TKA and Computer Assisted TKA.
+
+ The objective of this study is to report and compare on the outcomes from patients undergoing total knee arthroplasty utilizing 'SignatureTM Personalised Patient Care', Conventional Total Knee Arthroplasty and Computer Assisted Navigation.
+
+ The 'SignatureTM Personalised Patient Care' is a system that uses a patient's Magnetic Resonance Imaging (MRI) and X-ray design to build surgical instruments customized for a patient's unique knee anatomy.
+
+ Cutting positioning guides are produced to match the outer shape of the individual's distal femur and proximal tibia.
+
+ The cutting positioning guides are intended to be used as patient-specific surgical instrumentation to assist in the positioning of total knee replacement components intra-operatively and in guiding the marking of bone before cutting.
+
+.
+
+ A Comparison Between Signature Total Knee Arthroplasty (TKA) to Conventional TKA and Computer Assisted TKA@highlight
+
+This is a prospective, randomised clinical outcomes study comparing the Signature Personalised Patient Care, Conventional Total Knee Arthroplasty and Computer Assisted Navigation, using Vanguard Knee System.
+
+ The aim of the study is to evaluate the safety and efficacy of TKA using Signature Personalised Patient Care compared to Conventional TKA and Computer Assisted Navigation.
+

@@ -1,0 +1,20 @@
+(firstQuint)CBT for Patients With Attention Deficit Hyperactivity Disorder (ADHD) and Substance Use Disorders.
+
+ Attention Deficit Hyperactivity Disorder(ADHD) is an important comorbid condition in patients with substance use disorders (SUD).
+
+ The prevalence of ADHD in patients with SUD is estimated 23%, and ADHD is associated with an untoward prognosis of SUD.
+
+ However, adequate treatment programs for patients with ADHD and SUD are not available.
+
+ Results of medication trials for patients with ADHD and SUD are disappointing, and cognitive behavioral therapy (CBT) has not yet been investigated in this population.
+
+ In patients with ADHD without comorbid SUD, the results of CBT in randomized trials are positive.
+
+ The purpose of this study is to investigate if CBT is effective in treating ADHD symptoms in patients with ADHD and SUD.
+
+.
+
+ CBT for Patients With Attention Deficit Hyperactivity Disorder (ADHD) and Substance Use Disorders@highlight
+
+The purpose of this study is to determine if cognitive behavioral therapy is effective in treating ADHD symptoms in patients with substance use disorders and comorbid ADHD.
+

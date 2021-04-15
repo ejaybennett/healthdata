@@ -1,0 +1,20 @@
+(firstQuint)A Multi-dose Study of ARC-520 in Patients With Hepatitis B 'e' Antigen (HBeAg) Positive, Chronic HBV Infection.
+
+ This is a multicenter, randomized, double-blind, placebo-controlled, multi-dose study of ARC-520 in combination with entecavir or tenofovir administered to patients with HBeAg positive and immune active chronic HBV infection Eligible patients who have signed an Ethics Committee - approved informed consent, will be enrolled and will receive ARC-520 or placebo in combination with entecavir or tenofovir.
+
+ The study will enroll up to a total of 90 eligible chronic HBV infected patients.
+
+ Patients will undergo the following evaluations at regular intervals during the study: medical history, physical examinations, vital sign measurements (blood pressure, heart rate, respiratory rate and temperature), weight, adverse events assessment (AEs), 12 lead ECGs, liver fibrosis testing, concomitant medication assessment, blood sample collection for hematology, coagulation, chemistry, lactate, Pharmacokinetic (PK) measures (in a subset of patients), exploratory Pharmacodynamic (PD) measures, urinalysis, HBV serology, Follicle Stimulating Hormone (FSH) testing (post-menopausal females) and pregnancy testing for females of childbearing potential.
+
+ Clinically significant changes including AEs will be followed until resolution, until the condition stabilizes, until the event is otherwise explained, or until the patient is lost to follow-up.
+
+ For each patient the duration of the study is approximately 33 weeks from screening to the Day 169 follow-up visit.
+
+ For patients enrolling into a planned extension study, the total duration of this study is approximately 25 weeks from screening to Day 113 end of study visit.
+
+.
+
+ A Multi-dose Study of ARC-520 in Patients With Hepatitis B 'e' Antigen (HBeAg) Positive, Chronic HBV Infection@highlight
+
+Patients with HBeAG positive, chronic Hepatitis B Virus (HBV) infection will receive either ARC-520 or placebo in combination with entecavir or tenofovir, and be evaluated for safety and efficacy.
+

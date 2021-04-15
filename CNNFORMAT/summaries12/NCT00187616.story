@@ -1,0 +1,16 @@
+(firstQuint)Questioning Patients About Adverse Medical Events: A Randomized Controlled Trial.
+
+ 214 patients involved in a larger randomized controlled trial of the herb, saw palmetto, for benign prostatic hyperplaisa were randomly assigned to 3 different methods of adverse event ascertainment after a 1-month placebo run-in visit.
+
+ Two methods of ascertainment were open ended questions, and 1 was a checklist.
+
+ Patients were blinded to group assignment, but investigators were aware (single blind).
+
+ All patients had taken placebo for one month, but had been told it was a study drug (single blind).
+
+.
+
+ Questioning Patients About Adverse Medical Events: A Randomized Controlled Trial@highlight
+
+This trial studies whether 3 different methods of asking patients about adverse medical events in a clinical trial affects the rate of reported side effects.
+

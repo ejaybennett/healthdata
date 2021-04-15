@@ -1,0 +1,15 @@
+(firstQuint)Usability and Ergonomic Evaluation of Self-Positioning System for Retinal Imaging.
+
+ One of the main challenges in developing a retinal imager is to design it to be self-operated by elderly patients in their home setting The study's objective is to explore ergonomic solutions that will allow the user to perform imaging on their own.
+
+ The study will be done in a home-simulated environment using a dedicated ergonomic system (termed "PAF" - Positioning And Fixation system) that stimulates the retinal imager and enables to record the tested subject using standard cameras.
+
+ The prototype doesn't include the retinal imager and does not include any imaging capabilities aside from standard means of photography Subjects will be evaluating for positioning accuracy and comfort by comparing different methods.
+
+ Pupil position will be recorded using commercial off the shelf cameras when the subject is performing simple ergonomic tasks while looking at a screen presenting images.
+
+.
+
+ Usability and Ergonomic Evaluation of Self-Positioning System for Retinal Imaging@highlight
+
+The purpose of the study "Usability and Ergonomic Evaluation of Self-Positioning System for Retinal Imaging" is to enable self-operation of a monitoring device in home-simulated environment

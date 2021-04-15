@@ -1,0 +1,22 @@
+(firstQuint)AAB-001 in Patients With Mild to Moderate Alzheimer's Disease.
+
+ The humanized monoclonal antibody, AAB-001, which binds to and clears beta amyloid peptide, is designed to provide antibodies to beta amyloid directly to the patient, rather than requiring the patient to mount his/her own individual response.
+
+ It is believed that this approach may eliminate the need for the patient to mount an immune response to beta amyloid.
+
+ Animal studies have shown that this approach is equally effective in clearing beta amyloid from the brain as traditional active immunization methods.
+
+ This is a multicenter, double-blind, placebo controlled, randomized, outpatient, multiple ascending dose study in male and female patients aged 50 to 85 years with mild to moderate AD.
+
+ Approximately 30 study sites will be involved.
+
+ Patients will be randomized to receive either AAB-001 or placebo.
+
+ Each patient's participation will last approximately 2 years.
+
+.
+
+ AAB-001 in Patients With Mild to Moderate Alzheimer's Disease@highlight
+
+The purpose of this study is to assess the safety and tolerability of multiple doses of AAB-001 passive immunization in patients with mild to moderate Alzheimer's disease (AD).
+

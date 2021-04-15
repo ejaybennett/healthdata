@@ -1,0 +1,18 @@
+(secondQuint)INC280 Combined With Bevacizumab in Patients With Glioblastoma Multiforme.
+
+ Despite recent advances, glioblastoma multiforme (GBM) remains an incurable malignancy with a short expected survival.
+
+ c-MET signalling promotes invasive growth and has been described in various cancers.
+
+ INC280 is a highly potent and selective c-MET inhibitor which also penetrates the blood-brain barrier.
+
+ In this open-label, multicenter Phase 1b study, investigators determined the optimal dose of the INC280/bevacizumab combination to administer to patients.
+
+ Enrollment has now expanded in order to treat 3 cohorts of GBM patients: those who progressed after first-line standard therapy, those who progressed after second-line therapy with INC280/bevacizumab, and those with unresectable GBM.
+
+.
+
+ INC280 Combined With Bevacizumab in Patients With Glioblastoma Multiforme@highlight
+
+The purpose of this study is to determine whether the combination of two agents, INC280 and bevacizumab, is safe and effective when administered to patients with Glioblastoma Multiforme (GBM) who have progressed after receiving prior therapy or who have unresectable GBM.
+

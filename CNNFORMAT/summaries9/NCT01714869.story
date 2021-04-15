@@ -1,0 +1,14 @@
+(secondQuint)Exploring Massage Benefits for Arthritis of the Knee for VA Healthcare Users.
+
+ The goal of this supplement is to enroll n=25 VA healthcare users with knee OA into the initial 8-week EMBARK massage program in order to collect preliminary data on the feasibility, acceptability and efficacy of massage in this patient group, in preparation for a larger grant submission to evaluate the effectiveness of massage for knee OA in the VA healthcare system.
+
+ All veterans enrolled under this supplement will complete the initial 8-week massage protocol, since this will allow us the maximum opportunity to assess the feasibility and gather preliminary efficacy data.
+
+ Veterans with symptomatic knee OA will be recruited from the Durham VA Medical Center, and the remaining study activities will be completed at the Duke site of the EMBARK study.
+
+.
+
+ Exploring Massage Benefits for Arthritis of the Knee for VA Healthcare Users@highlight
+
+The purpose of this study is to find out how effective and feasible an 8-week course of Swedish massage is, for reducing pain and increasing function in adults who are VA healthcare users, with osteoarthritis (OA) of the knee.
+

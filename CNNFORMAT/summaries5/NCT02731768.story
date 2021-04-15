@@ -1,0 +1,14 @@
+(firstQuint)Nutrition, Exercise, and Technology for Weight Loss.
+
+ This 4-month randomized controlled trial is designed to investigate the short-term efficacy and feasibility of a novel, social support-enhanced behavioral weight control intervention.
+
+ Participants will be recruited via email listservs, fliers, and word of mouth.
+
+ They will be randomized to a standard behavioral weight control treatment (SBT) or a social support-enhanced behavioral weight control treatment which receives the same intervention as SBT plus social support resources (specifically, additional self-monitoring technologies) for weight loss.
+
+.
+
+ Nutrition, Exercise, and Technology for Weight Loss@highlight
+
+The purpose of this study is to evaluate whether a social support-enhanced, technology-based, behavioral weight control intervention can improve weight loss over existing best practices.
+

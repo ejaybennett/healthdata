@@ -1,0 +1,32 @@
+(thirdQuint)Wearable LITUS Device for Osteoarthritis of the Knee: a Randomized Double-Blind Placebo-Controlled Trial.
+
+ This is an eight week study to clinically evaluate the effect of the low intensity long duration ultrasound (LITUS) device on symptoms of patients suffering from knee osteoarthritis.
+
+ The device, sam(R) has been FDA-cleared for use.
+
+ For the first two weeks of the study, baseline data will be collected as patients report pain scores (NRS) three times per day.
+
+ During the following 6 weeks, patients will self-apply the wearable LITUS device to their affected knee for 4 hours daily.
+
+ Each day of the study, pain scores (NRS) will be recorded immediately before application of LITUS device as well as 30 minutes, 2-hours and 4-hours after applying the device.
+
+ A quality of life assessment (WOMAC), muscle strength and range of motion assessment (JTech) will be performed prior to the patient beginning the protocol and at the conclusion of the protocol.
+
+ Up to 93 subjects will be recruited from neighboring communities to the study site.
+
+ The study is designed to reach a target patient population which includes rural citizens and socioeconomic disadvantaged individuals where non-pharmacotherapies do not exist to manage pain.
+
+ Subjects will be randomly assigned to active (60%) and placebo groups (40%).
+
+ The sponsor and investigators are blinded as to which type of device each patient is assigned.
+
+ The study will be monitored by an external monitor and a data safety monitoring board (DSMB).
+
+.
+
+ Wearable LITUS Device for Osteoarthritis of the Knee: a Randomized Double-Blind Placebo-Controlled Trial@highlight
+
+The purpose of this study is to measure the effectiveness of a wearable therapeutic ultrasound device in patients with stage I and stage II knee osteoarthritis.
+
+ The ability of the device to reduce pain, increase mobility, increase range of motion and muscle strength of the affected leg, and improve quality of life in patients with knee osteoarthritis will be evaluated.
+

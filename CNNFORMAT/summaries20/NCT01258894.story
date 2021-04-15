@@ -1,0 +1,22 @@
+(thirdQuint)Investigation of Human Alpha-fetoprotein Genes.
+
+ Abnormal AFP elevation was usually noted in liver regeneration, HCC, nonseminomatous germ cell tumors or other malignant tumors.
+
+ However, some studies revealed that patients with hereditary persistence of AFP also had persistent abnormal AFP.
+
+ Therefore, we study will recruit the patients and their family with elevated AFP (>20 ng/mL) and normal AFP patients being control groups.
+
+ Then, their AFP genes extracted from the blood will be analyzed.
+
+ The hypothesis of this study is that the mutation of AFP gene might be one of the causes of abnormal AFP.
+
+.
+
+ Investigation of Human Alpha-fetoprotein Genes@highlight
+
+Studies revealed that patients with hereditary persistence of AFP also had persistent abnormal AFP.
+
+ Therefore, this study will recruit the patients and their family with elevated AFP (>20 ng/mL) and normal AFP patients being control groups.
+
+ Then, their AFP genes extracted from the blood will be analyzed.
+

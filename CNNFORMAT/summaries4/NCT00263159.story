@@ -1,0 +1,12 @@
+(firstQuint)Pharmaceutical Care for Asthma Control Improvement (PHARMACI)-Study.
+
+ The objective of this study is to evaluate the therapeutic effectiveness and cost-effectivity of pharmaceutical care for asthma patients.
+
+ Patients will be randomly allocated to the control group (= no input from pharmacist) or intervention group (= with pharmaceutical care at baseline and follow-up visits over 6 months).
+
+.
+
+ Pharmaceutical Care for Asthma Control Improvement (PHARMACI)-Study@highlight
+
+The objective of this study is to evaluate the therapeutic effectiveness and cost-effectivity of pharmaceutical care for asthma patients.
+

@@ -1,0 +1,38 @@
+(secondQuint)Different Concentrations of Potassium Nitrate in In-office Tooth Bleaching Sensitivity.
+
+ For this study, 56 volunteers who had an equal allocation rate between the groups (G1-control and G2-experimental) were selected for this study.
+
+ Both gels act in the same way, the difference between them is the concentration.
+
+ In both groups, the different desensitizing gels were applied to the vestibular surface of the anterior superior teeth with the aid of a tray, remaining in position according to the time specified by the manufacturers.
+
+ In the control group, a gel based on 5% potassium nitrate and 2% sodium fluoride was used, while in the experimental group, the gel was based on 3% potassium nitrate and 0.
+
+25% sodium fluoride.
+
+ After removal of the desensitizing gel, both groups were subjected to bleaching with 40% hydrogen peroxide gel for 40 minutes.
+
+ Patients recorded an occurrence or not of dental sensitivity (SD) in a sensitivity diary for 48 hours.
+
+ A Verbal Evaluation Scale (VRS) and a Visual Analogue Scale (VAS) were used for pain assessment.
+
+ The values were organized into two categories: percentage of patients who presented SD at some time of treatment (absolute risk of sensitivity) and SD intensity.
+
+ To evaluate the color before the first bleaching session, and after 7, 14 and 28 days, two methods were used: objective evaluation using the spectrophotometer and subjective evaluation using two color scales: Vita Classical and Vita Bleachedguide 3D-MASTER.
+
+ An analysis of the data followed the intent-to-treat protocol and involved all randomly allocated participants.
+
+ The absolute risk of SD was compared using Fisher's exact test ( = 5%).
+
+ The Mann-Whitney test was used to compare the intensity of SD.
+
+ Student's t test was used to compare the color change.
+
+ The level of significance adopted in all tests was 5%.
+
+.
+
+ Different Concentrations of Potassium Nitrate in In-office Tooth Bleaching Sensitivity@highlight
+
+The aim of this randomized, double-blind controlled clinical study was to evaluate the absolute risk and intensity of sensitivity to dental bleaching in adults on the application of two different gels based on potassium nitrate and sodium fluoride from a prospective randomized clinical study.
+

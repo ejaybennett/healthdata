@@ -1,0 +1,20 @@
+(firstQuint)Multiple-dose Nicotine Pharmacokinetics With a New Oral Nicotine Replacement Product.
+
+.
+
+ This study compares a new oral Nicotine Replacement Therapy (NRT) product with NiQuitin cent lozenge 4 mg and Nicorette(R)gum 4 mg, after 12 hours of nicotine abstinence, with respect to steady-state nicotine pharmacokinetics, during 12 hours after start of the first administration.
+
+ Multiple doses of each treatment are given once hourly during five separate treatment visits scheduled in a crossover setting with randomized treatment sequences.
+
+ The study will include 40 healthy smokers between 18-50 years, who have been smoking at least 20 cigarettes daily during at least one year preceding inclusion.
+
+ Subjects and study personnel will be aware of which treatment is administered at a given visit.
+
+.
+
+ Multiple-dose Nicotine Pharmacokinetics With a New Oral Nicotine Replacement Product.
+
+@highlight
+
+A comparison of three products for oral nicotine replacement with respect to pharmacokinetics after multiple-doses of nicotine.
+

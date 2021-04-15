@@ -1,0 +1,28 @@
+(thirdQuint)Confocal Laser Microscopy in Non Erosive Reflux Disease.
+
+ Gastroesophageal reflux disease (GERD) remains a major problem in the United States affecting about 20% of Americans.
+
+ Upper endoscopy (EGD) is commonly used to diagnose and grade GERD based on mucosal breaks and erosions.
+
+ It is now evident from multiple studies however that the majority of GERD patients (50-70%) have negative EGDs.
+
+These patients are refered to as "Non Erosive Reflux Disease" (NERD) patients.
+
+Confocal Laser Microscopy (CLM) is a new endoscopic technique that offers the advantage of detecting histologic changes during real time endoscopy and thus can diagnose NERD.
+
+ We thus propose to study the sensitivity and specificity of CLM in predicting NERD.
+
+ We hypothesize that CLM can reliably diagnose NERD in the appropriate clinical setting based on intrapapillary capillary loop patterns.
+
+ This will be a pilot study after which a randomized trial will evaluate the reversibility of these changes after PPI therapy as seen by CLM.
+
+ Confocal Laser Microscopy in Non Erosive Reflux Disease@highlight
+
+Heartburn or reflux disease affects about 20% of Americans.
+
+ 50 - 70% of people who have endoscopy for reflux disease have a normal appearing esophagus.
+
+ Confocal Laser Microscopy allows us to see changes in the cells not visable during routine endoscopy.
+
+ Whe goal of this study is to identify the use of this new technique in diagnosing reflux in patients who have normal appearing esophagus.
+

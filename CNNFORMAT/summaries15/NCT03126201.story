@@ -1,0 +1,18 @@
+(secondQuint)Predictors of Disease Progression in Primary Focal Segmental Glomerulosclerosis.
+
+ Focal segmental glomerulosclerosis (FSGS) is one of the most common primary glomerular diseases leading to end stage renal disease worldwide.
+
+ Numerous studies have been conducted in order to identify the etiology of this debilitating disease.
+
+ Beyond the etiological research, however, few studies managed to demonstrate the possible predictors of disease progression in patients.
+
+ Therefore, we aim to evaluate the effects of histopathological, clinical, and laboratory features of patients with primary FSGS on the disease progression.
+
+.
+
+ Predictors of Disease Progression in Primary Focal Segmental Glomerulosclerosis@highlight
+
+Focal segmental glomerulosclerosis (FSGS) is one of the most common primary glomerular diseases leading to end stage renal disease.
+
+ In this study, our aim is to evaluate the effects of histopathological, clinical, and laboratory features of patients with primary FSGS on the disease progression.
+

@@ -1,0 +1,24 @@
+(secondQuint)Embozene Microspheres for Prostatic Arterial Embolization in Patients With Symptomatic Benign Prostatic Hyperplasia.
+
+ EmboProstate is an observational study that collects data of patients with benign prostatic hyperplasia that are treated with 250 mu m Embozene (R) Microspheres (Boston Scientific).
+
+ The study evaluates the efficacy and safety of the microspheres for prostatic arterial embolization for benign prostata hyperplasia treatment.
+
+ 10 adult male subjects will be enrolled in this study.
+
+ If eligible patients are recruited, they will undergo the prostate artery embolization procedure in our radiology department.
+
+ Once the catheter is placed in the prostate artery, a fluid containing thousands of tiny particles (microspheres) is injected through the catheter into these small arteries which nourish the prostate.
+
+ The injected embospheres will slow the blood flow to the prostate reducing urinary tract symptoms caused by BPH.
+
+ Within one week after PAE as well as after one, three and six months post-procedure an MRI examination ill occur.
+
+ A follow-up visit using a questionnaire is due after 6 months.
+
+.
+
+ Embozene Microspheres for Prostatic Arterial Embolization in Patients With Symptomatic Benign Prostatic Hyperplasia@highlight
+
+The purpose of this observational study is to evaluate the prostatic arterial embolization (PAE) with Embozene(R) Microspheres (Boston Scientific) in sphere sizes of 250 mu m for the treatment of symptomatic benign prostatic hyperplasia (BPH).
+

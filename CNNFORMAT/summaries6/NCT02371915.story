@@ -1,0 +1,66 @@
+(fifthQuint)Interprofessional Care Models Using Videoconferencing for Patients With Inflammatory Arthritis.
+
+ Part A: Validation Study This study involves inter-professional care with rural-based physical therapists and urban-based rheumatologists, it will be a valuable first step to validate comparability of the physical examination.
+
+ We shall compare physical examination accuracy between and within examiner disciplines.
+
+ Examiners will include the three rheumatologist study investigators and three participating physical therapists with additional training in inflammatory rheumatic diseases and experienced in musculoskeletal assessment.
+
+ Procedures: All examiners will undergo a standardized review of examination techniques and documentation prior to participating.
+
+ Comparison groups will be: 1.
+
+ Rheumatologist A.
+
+ to Rheumatologist B.
+
+ 2.
+
+ Physiotherapist A.
+
+ to Physiotherapist B.
+
+ 3.
+
+ Rheumatologist A/B to Physiotherapist C/teleconferenced Rheumatologist C.
+
+ We will use web-based videoconferencing software.
+
+ This desktop-based solution is currently being piloted by Telehealth Saskatchewan and is used extensively in Ontario.
+
+ This technology satisfies Health Information Protection Act (HIPA) as well as the Saskatchewan privacy and security concerns.
+
+ An examining room with telehealth/videoconference equipment will be available for patient distance examination for comparison group C as listed above.
+
+ The rheumatologist will be in a physically separate room with viewing equipment in a mock distance evaluation.
+
+ The proposed study will be conducted in cooperation with the Canadian Centre for Health and Safety in Agriculture (CCHSA) within the 1350 m2 National Agricultural-Industrial Hygiene Laboratory.
+
+ Clinical visits will be conducted at the CCHSA.
+
+ Part B: Randomized Controlled Rheumatoid Arthritis Care Delivery Model Trial Randomization: Participating patients will be randomly allocated to two arms, either to be followed by telehealth/videoconferencing in or near their home community or to continue traveling to their Saskatoon rheumatology clinic.
+
+ Intervention: One study arm will be followed in traditional rheumatology clinic (in-person examining rheumatologist).
+
+ The second study arm will be followed by telehealth/videoconferencing.
+
+ Patients in the telehealth/videoconferencing arm will be examined by a rural-based physical therapist who will report exam findings during telehealth review with the urban-based rheumatologist.
+
+ Follow-up visits will be every three months in both arms.
+
+ All patients will complete standardized history/data-collection forms.
+
+ Patients will be followed in their respective study arms for nine months, and then will be evaluated in-person in rheumatology clinic for final face-to-face disease activity evaluation.
+
+.
+
+ Interprofessional Care Models Using Videoconferencing for Patients With Inflammatory Arthritis@highlight
+
+This project will be conducted in two phases.
+
+ Phase 1: RA patients will be recruited to participate in five repeated examinations occurring in one day to compare between and within specialties, ensuring reasonable equivalency of examination findings.
+
+ Phase 2: RA patients living > 100 km from Saskatoon will be randomized to the intervention or control group, with both groups having three follow-up appointments in 3-month intervals.
+
+ The intervention group will be evaluated by a physiotherapist supported by a rheumatologist through videoconferencing, while the control group will continue to travel to Saskatoon for follow-up care.
+

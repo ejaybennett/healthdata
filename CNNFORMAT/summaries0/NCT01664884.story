@@ -1,0 +1,26 @@
+(firstQuint)Internalized Stigma in Patients With Bipolar Disorder or Schizophrenia.
+
+ The stigma is considered by patients, government organizations and health professionals a key point in mental illness (Griffiths et al, 2006).
+
+ The related literature has focused on individuals with schizophrenia although there are indications that stigma act negatively in patients with bipolar disorder; this, in turn, is described in a few studies, always with heterogeneous samples, chronic and symptomatic patients (Perlick et al, 2001).
+
+ It is also known that there is a significant association between affective symptoms and the presence of stigma, (Vazquez et al, 2010).
+
+ There are reports of higher levels of public stigma towards people with schizophrenia, compared to patients with bipolar disorder or unipolar depression, however there are no studies available on internalized stigma in such samples, especially in remitted patients .
+
+ Since schizophrenia coexists with significant impairment of insight, such individuals may exhibit more difficulty internalizing the external bias and stereotypes.
+
+ On the other hand, patients with bipolar disorder - despite being less discriminated by the public in relation to schizophrenia - probably have a high potential for self-stigma and its fearsome consequences, justified by higher levels of insight.
+
+ The investigators would like to examine whether the lower impairment of insight in young bipolar patients(in relation to young people with schizophrenia) could be accompanied by an increase in internalized stigma in this sample.
+
+ Its an observational, cross-sectional study with no intervention.
+
+ Hypothesis: the internalized stigma in young adults with bipolar disorder is identical to that of young patients with schizophrenia.
+
+.
+
+ Internalized Stigma in Patients With Bipolar Disorder or Schizophrenia@highlight
+
+The aim of this study is to explore the levels of internalized stigma in a sample of young patients with bipolar disorder or schizophrenia.
+

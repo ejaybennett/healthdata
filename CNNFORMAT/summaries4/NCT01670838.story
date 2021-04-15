@@ -1,0 +1,22 @@
+(thirdQuint)Cardiopulmonary Complication in Aneurysmal Subarachnoid Haemorrhage Patients.
+
+ Laboratory markers daily: Routine laboratory test (blood gases, haemoglobin, thrombocytes, leukocytes, INR, bilirubin, creatinine, c-reactive protein, CK, CK-MB, Tnt, BNP, sodium, potassium, magnesium) are taken at 8 a.
+
+m.
+
+ Study laboratory tests (sensitive ischemia markers, remodelling marker MMP-9 and CgA as surrogate marker for increased sympathetic activity) are taken four times during study period at the same time as cardiac ECHOes and Holtering.
+
+ Gene sample is taken once on day one.
+
+ Primary outcome measurement is to document the incidence of myocardial dysfunction and the predictive factors during the hospital stay and at three months.
+
+ Secondary outcome is to assess the impact of cardiac problems on morbidity and mortality during first three months.
+
+.
+
+ Cardiopulmonary Complication in Aneurysmal Subarachnoid Haemorrhage Patients@highlight
+
+This is a prospective cohort study investigating cardiac function and cardiac biomarkers in patients with acute Aneurysmal Subarachnoid Haemorrhage (aSAH).
+
+ The aims of the study are to document the incidence of myocardial dysfunction,to find the predictive factors of myocardial dysfunction, describe heart rate variability and to assess the impact of all cardiac problems on morbidity and mortality.
+

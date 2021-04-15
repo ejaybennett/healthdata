@@ -1,0 +1,16 @@
+(firstQuint)Subsymptom Threshold Exercise Protocol Following Mild TBI.
+
+ The proposed pilot randomized controlled clinical trial (RCCT) will provide preliminary data to examine the effect of a novel intervention to promote brain health after mild Traumatic Brain Injury (mTBI).
+
+ The study will implement a randomized controlled clinical trial of a 6 week exercise intervention (STEP) for participants with persistent mTBI symptoms, comparing STEP to standard of care practice in the controls.
+
+ We will demonstrate the feasibility and acceptability of the STEP intervention.
+
+ We hypothesize that STEP will lead to meaningful improvement on objective measures of self-reported mTBI symptoms, formal neuropsychological performance, and postural stability.
+
+.
+
+ Subsymptom Threshold Exercise Protocol Following Mild TBI@highlight
+
+The study will monitor outcomes of two interventions to develop a best practice in the treatment of mild Traumatic Brain Injury (mTBI).
+

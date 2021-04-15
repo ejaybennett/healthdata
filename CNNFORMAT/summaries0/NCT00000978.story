@@ -1,0 +1,40 @@
+(fifthQuint)A Study of Dideoxycytidine Plus Zidovudine in the Treatment of AIDS or Advanced AIDS Related Complex (ARC).
+
+ Treatments using AZT alternating with ddC are being evaluated in ongoing trials with a goal of reducing the toxicity of each while maintaining antiviral effects.
+
+ In addition, AZT and ddC may work together in a way that both drugs can be taken at lower doses or less frequent intervals when given together.
+
+ If the doses can be reduced, then toxicity associated with long-term use of one drug may be reduced.
+
+ Combination of AZT and ddC might reduce the likelihood of the emergence of resistant mutants.
+
+ Recent studies indicate a reduced sensitivity of HIV isolated from patients after prolonged AZT therapy.
+
+ Although the clinical significance of this finding is not clear, it would indicate that these combination studies are all the more important.
+
+ HIV strains with decreased sensitivity to AZT are still sensitive to ddC.
+
+ Patients are randomly assigned to one of six treatment groups of various dose combinations of AZT and ddC.
+
+ Patients are evaluated every week for the first 10 weeks and biweekly thereafter.
+
+.
+
+ A Study of Dideoxycytidine Plus Zidovudine in the Treatment of AIDS or Advanced AIDS Related Complex (ARC)@highlight
+
+To determine the safety, tolerability, and activity of zidovudine (AZT) and zalcitabine (dideoxycytidine; ddC) and the bloodstream levels of these drugs in patients with AIDS or advanced AIDS-related complex (ARC).
+
+ Treatments using AZT alternating with ddC are being evaluated in ongoing trials with a goal of reducing the toxicity of each while maintaining antiviral effects.
+
+ In addition, AZT and ddC may work together in a way that both drugs can be taken at lower doses or less frequent intervals when given together.
+
+ If the doses can be reduced, then toxicity associated with long-term use of one drug may be reduced.
+
+ Combination of AZT and ddC might reduce the likelihood of the emergence of resistant mutants.
+
+ Recent studies indicate a reduced sensitivity of HIV isolated from patients after prolonged AZT therapy.
+
+ Although the clinical significance of this finding is not clear, it would indicate that these combination studies are all the more important.
+
+ HIV strains with decreased sensitivity to AZT are still sensitive to ddC.
+

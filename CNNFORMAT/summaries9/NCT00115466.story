@@ -1,0 +1,12 @@
+(thirdQuint)Autologous Stem Cells Derived From Lipoaspirates for the Non-Surgical Treatment of Complex Perianal Fistula.
+
+ Comparative, multicentre, randomised clinical trial, designed with two parallel groups that will follow a treatment either with an autologous implant of ASCs (Adipose Derived Stem Cells) and fibrin glue (tissue adhesive material) or with fibrin glue alone for the NON-SURGICAL treatment of complex perianal fistula.
+
+ The closure/healing of the fistula will be evaluated periodically, and it will be considered completely closed if there is no suppuration from the external orifice and re-epithelialisation can be observed at 8 weeks after the administration of the randomised therapy.
+
+.
+
+ Autologous Stem Cells Derived From Lipoaspirates for the Non-Surgical Treatment of Complex Perianal Fistula@highlight
+
+This comparative, multicentre, randomised clinical trial is designed with two parallel groups that will follow a treatment either with an autologous implant of ASCs (Adipose Derived Stem Cells) and fibrin glue (tissue adhesive material) or with fibrin glue alone for the non-surgical treatment of complex perianal fistula.
+

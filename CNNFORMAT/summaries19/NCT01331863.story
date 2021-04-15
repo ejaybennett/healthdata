@@ -1,0 +1,48 @@
+(fifthQuint)Airway and/or Pulmonary Vessels Transplantation.
+
+ Surgery remains the best option for curative treatment of early stages Non-Small Cell Lung Cancer (NSCLC).
+
+ Peripheral tumors are usually resected using lobectomy with a low 90-day morbidity and mortality rate (2%).
+
+ Central NSCLC often require a pneumonectomy with a high 90-day morbidity and mortality rate (up to 24%), especially when some factors are present: age > 70 years, right side, neoadjuvant chemoradiotherapy.
+
+ On the other hand, bronchoplastic lobectomies have been proposed in order to avoid pneumonectomy.
+
+ However, more than fifty years after their first description, bronchoplastic lobectomies remain uncommon (<1% of all pulmonary resection).
+
+ This could be explained by some technical difficulties showing the potential interest of a bronchial substitute.
+
+ In a 10-year research phase on a sheep model (n=108), we demonstrated that aortic grafts could be valuable substitutes for tracheobronchial replacement.
+
+ We observed a progressive transformation of the aortic tissue into airway tissue comprising epithelium and regenerated cartilage.
+
+ The technique was extended to clinical tracheal replacement by us and others with encouraging results.
+
+ We proposed to evaluate the feasibility of the use of a stent-supported cryopreserved aortic allograft as a bronchial substitute to prevent pneumonectomy and its associated high mortality rate in NSCLC surgery.
+
+ Primary outcome will be the 90-day mortality.
+
+ Secondary outcomes will be the postoperative complications, the 90-day morbidity.
+
+ This prospective open study will include 20 to 30 patients according to eligibility criteria (see below).
+
+ The operation will consist of the curative resection of the NSCLC followed by the replacement of a bronchial segment using a cryopreserved allograft in order to re-implant a functional pulmonary lobe.
+
+ A stent will be placed in the graft to prevent airway collapse.
+
+ -Current study (TRACHEO BRONC-ART) The BRONC-ART study was extended to major (malignant or benign) lesions of the trachea requiring airway transplantation.
+
+ For these patients, resection followed by direct end to end anastomosis is not possible or at high risk.
+
+.
+
+ Airway and/or Pulmonary Vessels Transplantation@highlight
+
+- First study (BRONC-ART) The purpose of this prospective study is to evaluate the 90-day morbidity and mortality rates of bronchial transplantation using cryopreserved aortic allograft in proximal lung cancer surgery.
+
+ The investigators hypothesize that this stage 1-2 surgical innovation could be safe and effective in order to reduce the 90-day morbidity and mortality rates compared to those observed with pneumonectomy, especially when some factors are present: age > 70 years, right side, neoadjuvant chemoradiotherapy.
+
+ - Current study (TRACHEO BRONC-ART) The BRONC-ART study was extended to major (malignant or benign) lesions of the trachea requiring airway transplantation.
+
+ For these patients, resection followed by direct end to end anastomosis is not possible or at high risk.
+

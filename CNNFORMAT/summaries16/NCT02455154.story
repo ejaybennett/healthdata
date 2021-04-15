@@ -1,0 +1,16 @@
+(firstQuint)Traditional Chinese Medicine as Preventive Method for Osteoporosis Induced by Adjuvant Endocrine Therapy.
+
+ Breast cancer is the most common malignant tumor in female wolrdwide.
+
+ Results from clinical trials like ATAC trial have demonstrated the efficacy of AIs in postmenopausal breast cancer patients.
+
+ Meanwhile it may cause a certain rate of osteoporosis in postmenopausal patients.
+
+ The aim of this trial is to test the efficacy of two traditional Chinese medicine in preventing osteoporosis in patients receiving adjuvant endocrine therapy.
+
+.
+
+ Traditional Chinese Medicine as Preventive Method for Osteoporosis Induced by Adjuvant Endocrine Therapy@highlight
+
+To test the efficacy of two Traditional Chinese Medicine in preventing osteoporosis in patients receiving adjuvant endocrine therapy.
+

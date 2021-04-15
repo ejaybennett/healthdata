@@ -1,0 +1,12 @@
+(firstQuint)STimulation to Improve Auditory haLLucinations.
+
+ The investigator's primary objective is to conduct a pilot clinical trial to establish the feasibility and to collect first effectiveness data for the use of transcranial alternating current stimulation (tACS) to re-normalize pathological alpha oscillations in dorso-lateral prefrontal cortex (dl-PFC) of patients with schizophrenia or schizoaffective disorder by comparing Auditory Hallucination Rating Scale (AHRS) scores immediately before the first stimulation session and immediately after the last stimulation session.
+
+ As a secondary objective the investigators will assess the differential clinical effects of sham, 10 Hz and 2 mA transcranial direct current stimulation (tDCS) on electroencephalogram (EEG) measures of alpha oscillations.
+
+.
+
+ STimulation to Improve Auditory haLLucinations@highlight
+
+Investigating the effects of non-invasive transcranial current stimulation as a treatment for auditory hallucinations in patients with schizophrenia.
+

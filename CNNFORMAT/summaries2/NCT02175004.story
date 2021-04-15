@@ -1,0 +1,20 @@
+(firstQuint)Open-Label Extension Assessing Long Term Safety and Efficacy of IONIS-TTR Rx in Familial Amyloid Polyneuropathy (FAP).
+
+ Familial Amyloid Polyneuropathy (FAP) is a rare, hereditary disease caused by mutations in the transthyretin (TTR) protein.
+
+ TTR is made by the liver and secreted into the blood.
+
+ TTR mutations cause it to misfold and deposit in multiple organs causing FAP.
+
+ IONIS-TTR Rx is an antisense drug that is designed to decrease the amount of mutant and normal TTR made by the liver.
+
+ It is predicted that decreasing the amount of TTR protein will result in a decrease in the formation of TTR deposits, and thus slow or stop disease progression.
+
+ This study evaluates the safety and tolerability of extended dosing with IONIS-TTR Rx in patients with Familial Amyloid Polyneuropathy.
+
+.
+
+ Open-Label Extension Assessing Long Term Safety and Efficacy of IONIS-TTR Rx in Familial Amyloid Polyneuropathy (FAP)@highlight
+
+This study evaluates the safety and tolerability of extended dosing with IONIS-TTR Rx in patients with Familial Amyloid Polyneuropathy.
+

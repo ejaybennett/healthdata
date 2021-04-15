@@ -1,0 +1,18 @@
+(firstQuint)Safety and Efficacy of AV608 in Subjects With Idiopathic Detrusor Overactivity.
+
+ This is a Phase 2, randomized, double-blind, placebo-controlled trial to evaluate the safety and efficacy of AV608 in subjects with idiopathic detrusor overactivity.
+
+ Female subjects between 18 and 65 years of age with a diagnosis of Overactive Bladder Syndrome and urodynamic observation of involuntary detrusor contractions during the filling phase will be eligible for the trial.
+
+ Eligible subjects will complete a baseline urodynamic assessment.
+
+ All subjects who participate in the study will receive 3 weeks of treatment with AV608 or placebo.
+
+ At the end of the treatment period, subjects will complete a second urodynamic assessment.
+
+.
+
+ Safety and Efficacy of AV608 in Subjects With Idiopathic Detrusor Overactivity@highlight
+
+The purpose of this study is to assess the effects of AV608, a neurokinin 1 (NK-1) antagonist, in subjects with Idiopathic Detrusor Overactivity.
+

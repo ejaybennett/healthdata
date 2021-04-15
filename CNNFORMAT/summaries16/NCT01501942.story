@@ -1,0 +1,42 @@
+(fifthQuint)Efficacy, Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of Oral Administration of AIM-102 in Patients With Mild to Moderate Allergic Asthma.
+
+ This is a Phase II, double-blind, placebo-controlled, cross-over trial to evaluate the efficacy of AIM-102 for the treatment of allergen-induced asthma.
+
+ Individuals with stable, mild to moderate allergic asthma by American Thoracic Society (ATS) criteria (1), with a history of episodic wheeze and shortness of breath, will be eligible for enrollment.
+
+ The study is divided into 2 parts.
+
+ Part 1: Screening Patients who meet all entry criteria will be screened with a history, physical examination, spirometry, and routine laboratory tests.
+
+ If they continue to meet entry criteria, their atopic status will be documented by skin testing against common airborne allergens (including cat, dust mite, grass, pollen).
+
+ Twenty-four (24) hr later, an allergen challenge will be performed to confirm the presence of an Early Asthmatic Response (EAR) and Late Asthmatic Response (LAR).
+
+ Methacholine PC20 and sputum differentials will be performed before and after allergen challenges.
+
+ Only patients with a documented early and late asthmatic response to inhaled incremental allergen challenge will be eligible for entry into Part 2 of the study.
+
+ Part 2: Dosing and Follow-up Patients will be assigned to receive drug and placebo in a random order, with at least a two week washout between treatment periods.
+
+ Spirometry, vital signs, and asthma symptomatology, methacholine challenge, sputum differentials will be evaluated before the first dose and again 24 hr before allergen challenge.
+
+ Allergen challenge will be performed in the morning of Day 3 of dosing, post-dose, with spirometry measured until seven hr post-challenge.
+
+ Sputum will also be induced at seven hr following the allergen challenge.
+
+ Methacholine challenge and sputum induction will be performed 24 hr after allergen challenges.
+
+ Any adverse events (AEs) and asthma symptoms will be evaluated at each clinic visit.
+
+ A physical examination, vital signs, ECG, spirometry and laboratory tests will be repeated at the termination visit.
+
+.
+
+ Efficacy, Safety, Tolerability, Pharmacodynamics and Pharmacokinetics of Oral Administration of AIM-102 in Patients With Mild to Moderate Allergic Asthma@highlight
+
+This is a Phase II, double-blind, placebo-controlled, cross-over trial to evaluate the efficacy of AIM-102 for the treatment of allergen-induced asthma.
+
+ Individuals with stable, mild to moderate allergic asthma by American Thoracic Society (ATS) criteria (1), with a history of episodic wheeze and shortness of breath, will be eligible for enrollment.
+
+ The patients will receive 4 consecutive days of dosing of AIM-102 or placebo (inactive product) with an allergen challenge on day 3 of dosing to see how the patient's lung function is changed by using AIM-102 or placebo.
+

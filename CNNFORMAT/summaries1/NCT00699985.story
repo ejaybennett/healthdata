@@ -1,0 +1,33 @@
+(secondQuint)Psychological Symptoms in Patients With Behcet's Disease by SCL90-R.
+
+ 200 BD and 200 Non-BD patients were checked for psychological symptoms by Symptom Check List 90 Revised (SCL90-R).
+
+ BD diagnosis was based on the new International Criteria for Behcet's Disease (ICBD).
+
+ Non-BD patients were patients mimicking BD.
+
+ All patients were asked to complete the SCL90-R when they attended the clinic for their routine follow-up.
+
+ The demographic information and disease manifestations including ocular and neurological involvement were registered.
+
+ For those with visual impairment, SCL90-R was applied by an interviewer.
+
+ Frequencies and descriptive analysis were measured in both BD and Non-BD groups.
+
+ Means and standard deviations (SD) of visual acuity were calculated.
+
+ Data collected from SCL90-R did not have normal distribution in any dimension.
+
+ The mean values of raw numbers, global severity index (GSI), the positive symptoms total (PST) and the positive symptom distress index (PSDI), were compared by Mann-Whitney U (M-W U) test.
+
+).
+
+To detect any bias in results due to data collection method, self reported data and reviewer collected data were compared.
+
+.
+
+ Psychological Symptoms in Patients With Behcet's Disease by SCL90-R@highlight
+
+To find the overall psychological profile of patients with Behcet's Disease (BD) and compare it with Non-BD patients.
+
+patients were checked for psychological symptoms by Symptom Check List 90 Revised (SCL90-R)

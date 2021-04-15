@@ -1,0 +1,14 @@
+(firstQuint)Contraceptive Effectiveness Trial of Cellulose Sulfate Gel.
+
+ Cellulose sulfate has been shown in preclinical studies to have both contraceptive and antimicrobial properties.
+
+ Clinical safety studies have shown it to be safe for use up to six days in women and 7 days in men, and ongoing studies are assessing its safety for twice daily use for 14 days in women.
+
+ This study will evaluate its contraceptive effectiveness in women who use it for 6 months.
+
+.
+
+ Contraceptive Effectiveness Trial of Cellulose Sulfate Gel@highlight
+
+This study will evaluate the contraceptive effectiveness of cellulose sulfate vaginal gel in preventing pregnancy when used for 6 months.
+

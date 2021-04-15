@@ -1,0 +1,18 @@
+(firstQuint)Quadripolar Pacing Post Approval Study.
+
+ The Quadripolar Pacing Post Approval Study is a multi-center, post-approval study.
+
+ Patients who meet inclusion/exclusion criteria will have an attempted implant of a Quadripolar CRT-D device system (device and lead).
+
+ Patients who have an unsuccessful implant will be followed for 30 days for any adverse events and then withdrawn from the study, or may have an implant reattempted if the physician chooses to do so.
+
+ Patients enrolled in the study will be followed at 6 months, and every 6 months thereafter, for 60 months of follow up (5 years).
+
+ After patients complete 60 months of follow-up, their participation in the study will be terminated.
+
+.
+
+ Quadripolar Pacing Post Approval Study@highlight
+
+The purpose of this post approval study is to evaluate the acute and chronic performance of a Quadripolar CRT-D device system in a patient population indicated for cardiac resynchronization therapy.
+

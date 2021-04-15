@@ -1,0 +1,40 @@
+(thirdQuint)Dosage Determination Trial for Indigo Naturalis Extract in Oil Ointment.
+
+ The use of indigo naturalis ointment to treat psoriasis has been proven effective in our previous clinical studies which demonstrated the efficacy and safety of topical indigo naturalis ointment, showing its ability to provide significant improvement of psoriatic skin lesions.
+
+ We developed a new formulation in which indigo naturalis powder is refined and reduces the blue discoloration of skin and clothes, making the treatment more user-friendly.
+
+ We had observed an equivalent efficacy of the refined form of indigo naturalis (INEO) ointment on treating psoriasis as the crude form.
+
+ However, it is necessary to determine an appropriate dosage of the refined form regarding its efficacy and safety.
+
+ This is a double-blind, 4-arm parallel study.
+
+ The aim of this study is 1.
+
+ To determine an appropriate dosage of indirubin in INEO ointment, regarding its efficacy and safety.
+
+ 2.
+
+ To evaluate the efficacy of INEO ointment in different local skin signs of plaque lesions.
+
+ 3.
+
+ To evaluate the efficacy of INEO in different traditional Chinese medicine clinical syndromes of psoriasis vulgaris.
+
+ 4.
+
+ To investigate the effects of INEO ointment on the immune system.
+
+ 5.
+
+ To evaluate the effects of INEO ointment in improving quality of life after treatment.
+
+.
+
+ Dosage Determination Trial for Indigo Naturalis Extract in Oil Ointment@highlight
+
+The use of refined indigo naturalis (indigo naturalis extract in oil, INEO)ointment to treat psoriasis has been proven effective in our previous study.
+
+ This study aims to evaluate the efficacy and safety of INEO ointment, and further determine the optimal concentration of INEO ointment (per gram of ointment containing either 200 1/2g, 100 1/2g, 50 1/2g or 10 1/2g of indirubin) in treatment of various local skin signs and thickness of psoriasis plaque.
+

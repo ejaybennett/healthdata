@@ -1,0 +1,21 @@
+(secondQuint)Investigation of Biomarkers in Susac Syndrome.
+
+ Susac Syndrome is a rare disease characterized by encephalopathy, branch retinal artery occlusion and sensorineural deafness.
+
+ The pathogenesis is not yet clear, an autoimmune endotheliopathy is discussed.
+
+ Because of the variable and often incomplete clinical presentation, the establishment of the diagnosis is often delayed or even completely missed.
+
+ The aim of this study is to identify biomarkers that facilitate the reliable and prompt establishment of the diagnosis.
+
+ Patients with a definite diagnosis of Susac syndrome and healthy subjects as controls are investigated.
+
+ Furthermore, the correlation of serological markers with structural retinal and cerebral changes will contribute to clarification of the pathogenesis of Susac syndrome.
+
+.
+
+ Investigation of Biomarkers in Susac Syndrome@highlight
+
+Susac Syndrome is a rare disease and the establishment of the diagnosis is often difficult.
+
+ The aim of this investigation is to identify relevant biomarkers and to elucidate the pathogenesis of Susac syndrome

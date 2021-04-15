@@ -1,0 +1,58 @@
+(fifthQuint)" Sweeper " and Epiretinal Membrane Surgery.
+
+ Epiretinal membrane (ERM) is a pathological phenomenon that leads to visual loss, visual distortions, central scotoma, and diplopia.
+
+ No medical treatment is yet available.
+
+ ERM surgery requires separation of normal retina and epiretinal membrane.
+
+ After epiretinal peeling, if internal limiting membrane (ILM) is not spontaneously peeled with ERM, surgeon peels ILM from retina (also named active peeling).
+
+ Initiation of peeling is very accurate and delicate.
+
+ Either microscopic forceps or sweeper are used to initiate peeling.
+
+ Sweeper is a microscopic tool with a soft silicon tip covered with diamond dust which allows peeling initiation without retina prehension.
+
+ It may reduce retinal trauma and visual sequelae.
+
+ ILM active peeling reduces recurrence of ERM and rate of repeat surgery.
+
+ No visual acuity loss has been found.
+
+ But 2 studies show increase of micro scotoma at micro-perimetry after active ILM peeling with forceps.
+
+ Purpose of our study is to evaluate use of sweeper during 20 ERM surgeries.
+
+ The investigator will compare microperimetry before surgery versus those after 1 month (M1) and 3 months (M3), and measure difference of number and depths of micro scotoma.
+
+ The investigator will note: number of forceps uses if sweeper is inefficient, all areas of sweeper use to correlate them with micro scotoma.
+
+ The investigator will evaluate visual and optical coherence tomography improvement after surgery.
+
+ Our study doesn't include any intervention while surgeries would be realized with or without study participation.
+
+ Examinations are non-invasive, usual, and done during usual medical visit without additional visit.
+
+.
+
+ " Sweeper " and Epiretinal Membrane Surgery@highlight
+
+Epiretinal membrane (ERM) is a pathological phenomenon requiring surgery when vision is altered.
+
+ ERM surgery requires ERM peeling, then active internal limiting membrane (ILM) peeling if it is not spontaneously peeled with ERM.
+
+ Initiation of peeling is very delicate and can lead to micro scotoma when realized with microscopic forceps.
+
+ The Sweeper is a microscopic tool with a soft silicon tip covered with diamond dust which allows peeling initiation without retina prehension.
+
+ It may reduce retinal trauma and visual sequelae.
+
+ Purpose of our study is to evaluate use of sweeper during 20 ERM surgeries.
+
+ The investigator will compare microperimetry before surgery versus those after 1 month (M1) and 3 months (M3), and measure difference of number and depths of micro scotoma.
+
+ The investigator will note: number of forceps uses if sweeper is inefficient and all areas of sweeper use to correlate them with micro scotoma.
+
+ The investigator will evaluate visual and optical coherence tomography improvement after surgery.
+

@@ -1,0 +1,32 @@
+(fifthQuint)Treatment of Hepatitis B Virus (HBV) Before Beginning Anti-HIV Drugs in Patients With Both HBV and HIV.
+
+ Studies indicate that 70% to 80% of HIV infected patients have or have had HBV infection and that 10% are HBV carriers.
+
+ Lamivudine therapy for treatment of HBV in HIV infected patients has limited long-term efficacy due to the development of resistance mutations.
+
+ Telbivudine is a thymidine analogue with excellent HBV inhibitory activity but no anti-HIV activity.
+
+ The primary objective of this study is to evaluate the safety and anti-HBV activity of telbivudine alone and in combination with a lamivudine-based highly active antiretroviral therapy (HAART) regimen in patients coinfected with HBV and HIV.
+
+ Patients in this study will take telbivudine for 24 weeks.
+
+ At Week 24, patients will add a HAART regimen containing lamivudine and efavirenz plus either didanosine or abacavir.
+
+ Patients who are unable to add a HAART regimen at Week 24 due to lab abnormalities or other contraindications will be allowed to delay the initiation of HAART until Week 30.
+
+ Patients may initiate HAART prior to Week 24 if deemed medically necessary by the primary HIV care provider.
+
+ Patients will take both telbivudine and HAART for 24 weeks.
+
+ At Week 48, patients will discontinue telbivudine and continue on the HAART regimen alone for an additional 12 weeks.
+
+.
+
+ Treatment of Hepatitis B Virus (HBV) Before Beginning Anti-HIV Drugs in Patients With Both HBV and HIV@highlight
+
+This study will evaluate the drug telbivudine (LdT) for treatment of hepatitis B virus (HBV) in HIV infected patients.
+
+ Patients will take telbivudine alone for 24 weeks, add anti-HIV drugs for 24 weeks, then stop taking telbivudine while continuing their anti-HIV drug regimen.
+
+ To enroll in this study, patients must not be taking any anti-HIV drugs and cannot have taken more than 31 days of treatment with lamivudine (3TC), protease inhibitors (PIs), or nonnucleoside reverse transcriptase inhibitors (NNRTIs).
+

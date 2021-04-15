@@ -1,0 +1,54 @@
+(fifthQuint)COPES Phase I Randomized Controlled Trial of Treatment For Distress in Heart Disease Patients.
+
+ Objectives: To examine patient satisfaction, treatment safety, and symptom reduction associated with treatment for symptoms of distress and/or depressed mood among post acute coronary syndrome (ACS) patients, as compared to usual cardiology care.
+
+ Research Design: The Study utilizes a Phase-I RCT design to achieve this Aim.
+
+ Methodology: Patients with confirmed ACS are screened for symptoms of distress and/or depressed mood within 7 days of the index ACS event, using the Beck Depression Inventory (BDI).
+
+ Those meeting inclusion criterion on the BDI (score>10) and consenting to study are followed for 3-months, at which time they are re-assessed.
+
+ Those continuing to show BDI score >10 and consenting, are randomized to the intervention condition (INT) or to usual cardiologic care (UCC).
+
+ INT is defined by up to 6-months of a patient preference, stepped care treatment whereby patients chose between brief, problem-focused psychotherapy (PST) and antidepressant medication (MED).
+
+ Patients are re-evaluated at 2- and 4-months after randomization.
+
+ Those not showing sufficient improvement in symptoms receive augmented therapy.
+
+ Those who initially choose PST can receive more frequent sessions and/or the addition of MED; those who initially choose MED can receive a change of agent, an increase in dosage, an additional medication, and/or PST.
+
+ Hypotheses to be tested are: 1.
+
+ Patient satisfaction within intervention treatment (INT) will be higher than in the usual cardiologic care (UCC) condition, as evidenced by self-report and levels of participation 2.
+
+ The INT group will experience a greater reduction in symptoms of distress and/or depression over the treatment period than the UCC group (secondary hypothesis).
+
+ 3.
+
+ Improvement in symptoms of distress and/or depression will be associated with reduction in levels of inflammatory markers and improvement in adherence with physician prescribed aspirin therapy (secondary hypothesis).
+
+ This is a multi-site study involving Mt.
+
+ Sinai, and Yale and Columbia University Schools of Medicine.
+
+ A total of 500 people will be screened into the initial 'observational period', which occurs at the time of new ACS diagnosis.
+
+ From among these, it is anticipated that 200 people will evidence persistent BDI > 10 at 3-month follow-up and agree to be enrolled in the Phase 1 RCT.
+
+ The clinical relevance of the Study concerns demonstration of the acceptability and satisfaction with the treatment approach by post-ACS patients, as preliminary to a Phase-III RCT that would test the effect of such an intervention on event-free survival after ACS.
+
+.
+
+ COPES Phase I Randomized Controlled Trial of Treatment For Distress in Heart Disease Patients@highlight
+
+The specific aim of the "Coronary Patients Evaluation Study" (COPES) Project 2 is, within a Phase-I RCT, to examine patient satisfaction, treatment safety, and symptom reduction associated with treatment for symptoms of distress and/or depressed mood among post acute coronary syndrome (ACS) patients, as compared to usual cardiology care.
+
+ For the purposes of this study, "symptoms of distress and/or depressed mood" is defined by a score on the Beck Depression Inventory (BDI) >10.
+
+ The specific treatment approach utilized follows the, "Improving Mood-Promoting Access to Collaborative Treatment" (IMPACT) Clinical Trial, and involves up to 6-months of a patient preference, stepped-care protocol.
+
+ Within this protocol, patients choose between brief, problem focused psychotherapy and anti-depressant medication.
+
+ Treatment progress is reviewed at 2-month intervals, providing opportunities to 'step-up' treatment if patients are not demonstrating sufficient symptom reduction.
+

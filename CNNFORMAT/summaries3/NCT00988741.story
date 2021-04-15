@@ -1,0 +1,22 @@
+(secondQuint)Trial of ARQ 197 in Patients With Unresectable Hepatocellular Carcinoma (HCC) Who Have Failed One Prior Systemic Therapy.
+
+ Patients will be randomly assigned in a 2:1 ratio to receive ARQ 197 or placebo.
+
+ The treatment assignment will be stratified based on Eastern Cooperative Oncology Group (ECOG) performance status (PS), and vascular invasion status.
+
+ The treatment with ARQ 197 or placebo will be continued until progression of disease, unacceptable toxicity, or another discontinuation criterion listed in this protocol is met.
+
+ After radiographic disease progression is documented, treatment assignment will be unblinded.
+
+ Patients who were assigned to placebo arm and had documented radiographic disease progression will have the option to receive ARQ 197 and will be evaluated for objective response rate and disease control rate continuously.
+
+ The study will continue until 78 total time to progression events are reached.
+
+ At the end of study, all remaining patients still on treatment will have the option to be rolled over to another study to continue their treatment.
+
+.
+
+ Trial of ARQ 197 in Patients With Unresectable Hepatocellular Carcinoma (HCC) Who Have Failed One Prior Systemic Therapy@highlight
+
+This is a global randomized, placebo-controlled, double-blinded Phase 2 study designed to compare treatment of ARQ 197 versus placebo in patients with unresectable HCC who had radiographic disease progression after systemic first line therapy or were unable to tolerate the therapy.
+

@@ -1,0 +1,14 @@
+(secondQuint)The Effect of Integrated CAM Treatment in Hospitalized Patients.
+
+ This study investigates the effect of hospital-based intensive non-surgical treatment in musculoskeletal patients admitted to an integrated hospital that offers both complementary and alternative medicine (CAM) and conventional medicine treatment.
+
+ Inpatients received treatment according to a CAM treatment protocol (herbal medicine, acupuncture, bee venom pharmacopuncture, and Chuna manipulation) and conventional medicine treatment as needed.
+
+ The main outcome measures were the duration of pain, NRS of back pain, radiating leg pain, neck pain, radiating arm pain, knee pain, shoulder pain, previous surgery, previous interventions (injections), Oswestry Disability Index (ODI), Vernon-Mior Neck Disability Index, the Korean Western Ontario McMaster Index, Shoulder Pain and Disability Index, range of motion (ROM), Straight leg raise test (SLR), alcohol use, smoking, exercise at admission, 2 weeks, and discharge.
+
+.
+
+ The Effect of Integrated CAM Treatment in Hospitalized Patients@highlight
+
+This study investigates the effect of hospital-based intensive non-surgical treatment in musculoskeletal patients admitted to an integrated hospital that offers both complementary and alternative medicine (CAM) and conventional medicine treatment.
+

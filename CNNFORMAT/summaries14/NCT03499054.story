@@ -1,0 +1,17 @@
+(firstQuint)Breathing Exercises to Improve Fatigue and Quality of Life in Hemodialysis Patients.
+
+ Patients receiving haemodialysis have poor physical function, psychological status and quality of life than the general population.
+
+Fatigue is a debilitating symptom in haemodialysis patients Exercise training may improve these parameters for haemodialysis patients.
+
+ A 3-month randomized control trial with baseline,Week 4,Week 12 measurement periods was conducted.
+
+ Exercise group was taught to Breathing exercise week and Usual care for three months.
+
+ The control group received usual routine care.
+
+ A total of 86 patients participated in this study, with 43 patients in the Exercise group and 43 patients in the control group Methods: Hemodialysis Fatigue scale , WHOQOL-BREF , HADS_ Anxiety , HRV.
+
+ Breathing Exercises to Improve Fatigue and Quality of Life in Hemodialysis Patients@highlight
+
+Breathing exercises to improve fatigue and quality of life in hemodialysis patients

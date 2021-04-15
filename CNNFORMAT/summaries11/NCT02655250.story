@@ -1,0 +1,14 @@
+(firstQuint)Neonatal Microbiome Validity Study.
+
+ In order to conduct a future study of the gut microbiome in a population living in a rural, low income setting, this validation study will be conducted to verify the validity of our proposed field collection methods for stool and breast milk samples.
+
+ We will compare the microbial diversity and abundance in the biologic samples using various proposed field collection methods to an immediately frozen sample.
+
+ The proposed field collection methods are feasible for use in a community-based study in a low income setting with limited access to cold storage.
+
+.
+
+ Neonatal Microbiome Validity Study@highlight
+
+This is a validation study to compare proposed field collection methods with a gold standard collection technique for microbiome analysis of stool and breast milk samples.
+

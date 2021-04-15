@@ -1,0 +1,26 @@
+(fifthQuint)Academic-Industrial Partnership for Translation of Acoustic Angiography.
+
+ Increasing the sensitivity and specificity of diagnostic imaging in patients at high risk for breast cancer could provide substantial clinical benefit by improving diagnosis, preventing over-treatment, and reducing healthcare costs.
+
+ Acoustic angiography is a new type of contrast enhanced ultrasound imaging which is specifically sensitive to microvascular structure and density.
+
+ It evaluates tumor micro-vasculature and may provide a powerful prognostic tool for the diagnosis of breast cancer, and eventually for treatment evaluation.
+
+ Sixty patients who are to have a clinical surgical breast biopsy based on results from pre-study standard of care (SOC) imaging will be recruited from the UNC Breast Clinic for participation in the study.
+
+ The primary objective of this single arm study is to compare the sensitivity and specificity of acoustic angiography with traditional b-mode ultrasound in the distinction of malignant versus benign breast lesions.
+
+ Secondary objectives include a comparison of area under the curve (AUC) for acoustic angiography versus b-mode ultrasound, and comparison of radiologist preference for the two imaging techniques for each of 3 lesion characteristics.
+
+.
+
+ Academic-Industrial Partnership for Translation of Acoustic Angiography@highlight
+
+Purpose: The primary objective of this single arm study is to compare the sensitivity and specificity of acoustic angiography with traditional b-mode ultrasound in the distinction of malignant versus benign breast lesions.
+
+ Secondary objectives include a comparison of area under the curve (AUC) for acoustic angiography versus b-mode ultrasound, and comparison of radiologist preference for the two imaging techniques for each of 3 lesion characteristics.
+
+ Participants: Sixty patients who are to have a clinical surgical breast biopsy based on results from pre-study standard of care (SOC) imaging will be recruited from the UNC Breast Clinic for participation in the study.
+
+ Procedures (methods): This is a one arm single center study of patients with suspicious breast lesions (BIRADS 4 or 5) from the UNC Breast Clinic that consent to undergo an acoustic angiography in conjunction with b-mode ultrasound prior to their scheduled biopsy.
+

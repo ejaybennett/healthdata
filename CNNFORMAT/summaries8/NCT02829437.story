@@ -1,0 +1,11 @@
+(firstQuint)Observational Study on Endometrial Stromal Tumors.
+
+ Observational, retrospective and prospective study on EST aimed to understand more about its biology, natural history and antitumor activity of different treatment options.
+
+ This study will collect data in prospective and retrospective way of patients affected by EST and treated according disease guidelines and local practices.
+
+ The study will also review the diagnosis by a central expert pathologist in order to its confirmation.
+
+ Observational Study on Endometrial Stromal Tumors@highlight
+
+Observational, retrospective and prospective study on Endometrial Stromal Tumor (EST)

@@ -1,0 +1,66 @@
+(fifthQuint)Virtual Hypertension Clinic.
+
+ Hypertension is a major risk factor for renal and cardiovascular disease, and a significant contributor to adult disability.
+
+ About 50 million individuals are hypertensive in the United States1.
+
+ The Framingham Heart Study suggests that normotensive individuals at 55 years have a 90% lifetime risk of hypertension2.
+
+ Treatment of hypertension is the leading reason for physician visits and prescription drugs in the US3.
+
+ Despite increasing awareness of the risks and of complications of poorly controlled hypertension, only 58% of hypertensive patients are being treated and of these only 38% achieve blood pressure control4, 5.
+
+ Sub-optimal therapy remains the most common cause for uncontrolled hypertension6.
+
+ One of the major barriers to effective management of hypertension is therapeutic inertia on the part of physicians that leads to suboptimal therapy being prescribed for hypertensive patients7.
+
+ This barrier to effective hypertension treatment achieves further significance as data from several clinical trials clearly demonstrate that reduction of blood pressure by even a few millimeters of mercury can significantly decrease an individual risk for mortality from cardiovascular disease8.
+
+ Although hypertension remains the most common reason for patient visit to a physician office in the United States, the lack of patient-health care provider connectivity outside the office setting may play an important factor in the disappointing proportion of patients achieving blood pressure control in the US for the past 30 years.
+
+ Recent home blood pressure monitoring guidelines published by the American Heart Association and other professional societies have emphasized the importance of home blood pressure monitoring in the management of hypertension9.
+
+ In addition, a recent study by Green et al extended this concept a step further by utilizing a web based intervention utilized by a pharmacist to control blood pressure10.
+
+ Results from this study they demonstrated a significant reduction in blood pressure in the intervention group when compared to usual care (-14.
+
+2 mmHg Vs -5.
+
+3 mmHg p <0.
+
+001).
+
+ One of the potential draw backs of a web based intervention for blood pressure control could be the lack of access to internet in the general population.
+
+ According to a recent USDA report, almost 40% Americans in urban areas and 60% in rural areas do not have internet access (http://arstechnica.
+
+com/tech-policy/news/2009/03/the-many-blessing-of-rural.
+
+ars ).
+
+ This in essence would deprive a large number of those with hypertension from access to the web based newer models of blood pressure control as tested in the recent study by Green et al.
+
+ The Stabil-o-Graph is a validated home blood pressure device (http://www.
+
+dableducational.
+
+org/dabl_library/library2_sbpm.
+
+html#upper_arm) that relays blood pressure readings to a designated health care provider using blue tooth technology and a telephone connection The current model of health care in the US for the management of hypertension employs direct patient-physician encounters in an office setting to control blood pressure.
+
+ This existing healthcare model has failed to keep abreast with current national guidelines and consensus among experts in hypertension that promote home blood pressure monitoring and application of newer technology with the potential to seamlessly connect a patient with his health care provider with the goal of improved blood pressure control.
+
+ Our proposed study aims to address this gap in patient-healthcare provider connectivity utilizing newer technology and home blood pressure monitoring to achieve goal blood pressure foe an individual.
+
+.
+
+ Virtual Hypertension Clinic@highlight
+
+This is a prospective, randomized controlled trial designed to determine whether blue tooth and telephone technology can be utilized to successfully relaying home blood pressure information electronically to healthcare providers so that timely and more frequent treatment interventions can be instituted to optimize and reach goal blood pressure level for an individual as compared to usual care.
+
+ The primary study outcomes are improvement in systolic, diastolic, and blood pressure control and time to control blood pressure.
+
+ Secondary outcomes are proportion of patients controlled to blood pressure goal at the end of the study, adherence to blood pressure monitoring and utilization of VHC model.
+
+ If this is successful and cost-effective such technology and interventions could be utilized on large scale to improve the care and proportion of hypertensive patients achieving goal blood pressure in the United States.
+

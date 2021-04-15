@@ -1,0 +1,36 @@
+(fifthQuint)Axillary Lymph Node Preservation Surgery in Reducing Lymphedema in Patients With Breast Cancer.
+
+ PRIMARY OBJECTIVES: I.
+
+ To produce a map of the lymphatic drainage of the upper extremity as it relates to breast drainage, to determine the proportion of women undergoing axillary lymphadenectomy at risk for lymphedema.
+
+ II.
+
+ To determine if blue lymphatics contain lymph node metastases.
+
+ III.
+
+ To evaluate the incidence of lymphedema and associated other surgical related quality of life in those undergoing this procedure as compared to the current standard of care.
+
+ OUTLINE: This is a phase I study followed by a randomized phase II study.
+
+ PILOT PORTION: Patients receive isosulfan blue dye subcutaneously (SC) and then undergo reverse mapping-guided axillary lymph node dissection.
+
+ RANDOMIZED PORTION: Patients are randomized to 1 of 2 treatment arms.
+
+ ARM I: Patients receive isosulfan blue dye subcutaneously (SC) and then undergo reverse mapping-guided axillary lymph node dissection.
+
+ ARM II: Patients undergo standard axillary lymph node dissection and then receive isosulfan blue dye SC.
+
+ After completion of study treatment, patients are followed up periodically.
+
+.
+
+ Axillary Lymph Node Preservation Surgery in Reducing Lymphedema in Patients With Breast Cancer@highlight
+
+This pilot phase I and randomized phase II trial studies the best way to perform axillary lymph node preservation surgery and to see how well it works in preventing lymphedema in patients with breast cancer.
+
+ Lymph node mapping may help in planning surgery to remove breast cancer and affected lymph nodes.
+
+ It is not yet known whether reverse mapping guided axillary lymph node dissection is more effective than standard axillary lymph node dissection in preventing lymphedema.
+

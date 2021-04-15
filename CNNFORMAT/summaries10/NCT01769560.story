@@ -1,0 +1,20 @@
+(firstQuint)MeFirst: A Tailored Intervention to HPV Vaccine Decision Making.
+
+ MeFirst is the first web-based, online, educational tool designed to promote Human Papillomavirus (HPV) vaccine awareness and understanding in an effort to improve HPV vaccine intent and uptake among female university students.
+
+ HPV is the most common sexually transmitted infection and causes genital warts and cancer.
+
+ The HPV vaccine has been recommended for girls ages 11-26 since 2006, yet vaccination rates remain low.
+
+ Tailored online interventions may be more effective tools to promote behavior change among college students than traditional static interventions.
+
+ The proposed study is a randomized controlled trial testing the efficacy of the MeFirst tool vs.
+
+ standard static educational material on increasing HPV vaccination intent and uptake among female university students aged 18-26.
+
+.
+
+ MeFirst: A Tailored Intervention to HPV Vaccine Decision Making@highlight
+
+This study will test whether a tailored, online educational intervention increases HPV vaccine uptake and intent among female college students.
+

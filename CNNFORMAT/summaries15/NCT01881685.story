@@ -1,0 +1,20 @@
+(firstQuint)Fetal Intrapartum Heart Rate FHR/ECG Study.
+
+ The purpose of the study is to: 1.
+
+ evaluate the association between serologic markers of neonatal brain injury and the specific FHR monitoring findings using the investigational device; 2.
+
+ investigate the relationship between selective serotonin reuptake inhibitor (SSRI) antidepressants and the QT interval of the fetal heart.
+
+ Specifically, examine the potential association between maternal SSRI use and the fetal QT interval,and; 3.
+
+ develop the capacity to measure uterine contractions during labor using non-invasive electrodes that measure the electrical signal from the uterine muscle.
+
+ For this study, the investigational device will not be used to diagnose or treat as it will be used in concert with the current standard of care monitors.
+
+.
+
+ Fetal Intrapartum Heart Rate FHR/ECG Study@highlight
+
+The objective of the study is to evaluate the association between certain markers in the blood of neonatal brain injury and specific Fetal Heart Rate monitoring findings using the device under study.
+

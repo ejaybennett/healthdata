@@ -1,0 +1,20 @@
+(secondQuint)Effects of N-acetylcysteine on Cardiorespiratory Control in COPD Patients With Mild-to-moderate Airflow Obstruction.
+
+ Chronic obstructive pulmonary disease (COPD) is a leading cause of morbidity and mortality worldwide.
+
+ Cardiovascular complications constitute the main causes of poor physical capacity and healthcare resources utilization in COPD.
+
+ There is emerging evidence that these impairments have a major impact on the health of patients with mild-to-moderate disease, the largest sub-population of COPD.
+
+ This important problem, however, is currently neglected as no specific pharmacological treatment is offered to these patients.
+
+ Recent studies indicate that vascular abnormalities are mediated, at least in part, by circulating inflammatory substances and direct damage of the arteries by oxygen radicals (oxidative stress).
+
+ The current investigation will test the hypothesis that N-acetylcysteine (NAC), via its anti-inflammatory and antioxidant properties, improves systemic vascular function and physical capacity in COPD patients with mild-to-moderate airflow obstruction.
+
+.
+
+ Effects of N-acetylcysteine on Cardiorespiratory Control in COPD Patients With Mild-to-moderate Airflow Obstruction@highlight
+
+The main purpose of this study is to determine whether pharmacological treatment with N-acetylcysteine improves central and peripheral cardiorespiratory control and physical capacity in COPD patients with mild-to-moderate airflow obstruction.
+

@@ -1,0 +1,12 @@
+(secondQuint)Desflurane Versus Propofol in the Sitting Position.
+
+ The investigators hypothesized that both propofol and desflurane would decrease the rSO2 but propofol is likely to reduce rSO2 more than sevoflurane when patients are raised to the sitting position.
+
+ Therefore, the purpose of this study was to investigate the effect of desflurane and propofol on rSO2 values during the beach chair position for shoulder arthroscopy.
+
+.
+
+ Desflurane Versus Propofol in the Sitting Position@highlight
+
+The investigators hypothesized that both propofol and desflurane would decrease the regional oxygen saturation (rSO2) but propofol is likely to reduce rSO2 more than sevoflurane when patients are raised to the sitting position.
+

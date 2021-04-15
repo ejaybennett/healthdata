@@ -1,0 +1,28 @@
+(firstQuint)Effects of Folfirinox and Stereotactic Body Radiation Therapy for Advanced Pancreatic Cancer.
+
+ The study will be a prospective, non-randomized, single center, trial to assess the effects of FOLIRINOX chemotherapy with SBRT on locally advanced, non-resectable pancreatic cancer.
+
+ Patients will either undergo a biopsy to confirm the diagnosis or have strong clinical suspicion of a new cancer or recurrence based on the recommendations of a multi-disciplinary GI oncology team.
+
+ FOLFIRINOX with be delivered prior to SBRT for 4 cycles.
+
+ Restaging imaging will occur prior to SBRT delivery.
+
+ SBRT will be delivered using standard stereotactic techniques to a dose of 3200cGy at 650cGy per fraction delivered over 2 weeks.
+
+ Additional adjuvant chemotherapy with be delivered at the physician's discretion.
+
+ Patients will be reassessed both clinically and radiographically at 3 months, 6 months, 9 months and 12 months post-treatment.
+
+ Quality of life analysis will occur at 3 month intervals after treatment.
+
+ Blood will be drawn for exploratory biomarker analysis at strategic timepoints during treatment and followup.
+
+ Following the initial imaging time points, standard surveillance will be employed with clinical assessment and imaging at 3 month intervals for the first 2 years post-treatment.
+
+.
+
+ Effects of Folfirinox and Stereotactic Body Radiation Therapy for Advanced Pancreatic Cancer@highlight
+
+This study wants to find out how safe and effective the use of Folfirinox combined with Stereotactic Body Radiation Therapy )(SBRT) is for the treatment of pancreatic cancer.
+

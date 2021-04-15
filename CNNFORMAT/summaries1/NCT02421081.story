@@ -1,0 +1,48 @@
+(fifthQuint)Effect of Cell Surface Markers and Lymphoid Cell Distribution on the Arterial Tissue Repair (ECLAR).
+
+ The radial and ulnar arteries cuts that need to be urgently repaired using microsurgical techniques; after treatment failure rate is quite high among the injured.
+
+ When straight cut repaired with microsurgical instruments under the microscope cut properly; can be obtained close to excellent results.
+
+ However, there are many factors that impact on the arterial healing.
+
+ Hypertension, hypotension, age, diabetes mellitus, obesity and female gender has negative effects on the vascular healing.
+
+ In recent years, positive effects of endothelialization begun to focus on the improvement; and has been shown to endothelialization on the hematopoietic stem cells and endothelial progenitor cells CD34 and CD133 cd309 is effective.
+
+ CD34 is a type 1 transmembrane protein and is known as the stem cell marker.
+
+ Proliferative cells and endothelial stem cells play an important role still in the healing process after vascular incisions.
+
+ These include CD133 (haematopoietic progenitor cells) and CD309 (Vasculoendotelial Growth Factor Receptor 2) is also believed to be effective.
+
+ These stem cells and proliferating endothelial cells is called collectively endothelial proliferative cells (EPC).
+
+ Griese et al in a study had been done on rabbits; autologous endothelial cells, obtained from peripheral blood with immunohistochemical methods, were transplanted after carotid artery intimal injury experimentally.
+
+The EPC-treated group was observed that increased endothelialization and significantly reduced neointimal hyperplasia, compared to the control group.
+
+ Kawamoto et al in their study ex vivo; endothelial progenitor cells in the myocardial ischemic group, has been shown to have positive impact on the preservation of left ventricular function.
+
+ In another clinical study in patients with peripheral arterial disease with ischemic limbs; increase of oxygen carried in the extremities in the study group, decrease in rest pain, increase in walk distance and had an increase in ankle-brachial index.
+
+ In the investigators study on the vessel laceration, such as CD 34, CD133 and CD309 endothelial progenitor cells and stem cells in the blood levels will show whether the effects on vascular healing.
+
+ Results to be obtained; frequently encountered and the relatively high treatment costs and lead to the loss also great labor; myocardial infarction, peripheral arterial disease, ensuring the fistula opening in chronic dialysis patients, provision of limb preservation and vitality of limb replantation will open up new horizons.
+
+.
+
+ Effect of Cell Surface Markers and Lymphoid Cell Distribution on the Arterial Tissue Repair (ECLAR)@highlight
+
+The radial and ulnar artery injuries related with the wrist cut are frequently encountered.
+
+ There are many factors which are effective on the improvement of these arterial structures was repaired with microsurgical techniques.
+
+ Recently has begun to focus on neointimal thickening and endothelialization of the role in vascular healing and maturation made on histopathological study.
+
+ In this study, the radial and ulnar artery laceration repair healing with the microsurgical anastomosis methods on blood CD34, CD133 and CD309 levels of the effect of the distribution of lymphoid cells has been investigated.
+
+ The investigators think that; thus by demonstrating the positive impact that may arise; autologous endothelial progenitor cells which are obtained in patients; continuation of anastomotic patency undergoing coronary by-pass or the in hemodialysis patients with arteriovenous fistula; also ensuring the re-flow in patients with acute and chronic peripheral arterial occlusion.
+
+ The investigators believe could be used for the reimplanted tissue in the limb breakage ensuring that survive.
+

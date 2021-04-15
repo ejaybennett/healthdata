@@ -1,0 +1,18 @@
+(firstQuint)A Dose-Ranging Study of IPH2201 in Patients With Gynecologic Malignancies.
+
+ This research is being done because there is no treatment that will cure this type of cancer.
+
+ Although some types of chemotherapy may cause this cancer to shrink for a time, better options are needed.
+
+ In laboratory tests and animals, IPH2201 has been shown to have effects which result in shrinkage of tumours.
+
+ IPH2201 has been studied in people with rheumatoid arthritis but it has not yet been studied in people with cancer and the investigators do not know if it can offer better results than standard treatment.
+
+ The standard or usual treatment for this disease could include surgery, chemotherapy or radiation.
+
+.
+
+ A Dose-Ranging Study of IPH2201 in Patients With Gynecologic Malignancies@highlight
+
+The purpose of this study is to test the safety of a new drug, IPH2201, to see what effects it has on this type of cancer.
+

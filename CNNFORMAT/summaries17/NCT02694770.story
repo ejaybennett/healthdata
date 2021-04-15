@@ -1,0 +1,17 @@
+(firstQuint)A Study Evaluating the Efficacy and Safety of Neihulizumab vs "Conventional Treatment" to Treat Sr-aGvHD.
+
+ This current Phase II trial is a randomized, open label, controlled, multiple dose, multi-centre study to study the clinical efficacy and safety of Neihulizumab vs "Conventional Treatment" to treat steroid-refractory acute graft-vs-host disease (sr-aGvHD) in patients undergoing allogeneic hematopoietic cell transplantation.
+
+ This study will enroll a minimum of 90 patients, approximately 60 in Neihulizumab treatment arm and 30 in Conventional treatment control arm.
+
+ The primary objectives is to evaluate the efficacy of Neihulizumab treatment in patients with steroid-refractory acute GvHD compared to "conventional treatment.
+
+" The secondary objectives are to investigate safety, pharmacokinetics, and immunogenicity of Neihulizumab administration in subjects with steroid-refractory acute GvHD.
+
+ For safety evaluation, the parameters to be assessed are adverse events (AEs), discontinuation of therapy due to AEs, safety laboratory analysis, ECG, vital signs, physical examination, and immunogenicity.
+
+.
+
+ A Study Evaluating the Efficacy and Safety of Neihulizumab vs "Conventional Treatment" to Treat Sr-aGvHD@highlight
+
+This study is to assess the efficacy of Neihulizumab versus "conventional therapy" and to evaluate safety, pharmacokinetics and immunogenicity in treating steroid-refractory acute Graft-vs-Host Disease

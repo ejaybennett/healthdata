@@ -1,0 +1,20 @@
+(secondQuint)Long-term Outcome of Patients Treated With Extracorporeal Membrane Oxygenation.
+
+ Patients admitted to ICUs and treated with extracorporeal membrane oxygenation from March 1,2011 to March 1,2017 were screened .
+
+ Pre-Ecmo clinical parameters(diagnose,APACHE-II, SOFA,indications,expected mortality) and related treatment conditions(duration of ICU stay, duration of ECMO,duration of mechanical ventilation,ventilation conditions,prone ventilation,ECMO complications )will be used to assess the severity and curative effect of these patients.
+
+Short Form-36 Health Status Questionnaire,EuroQol-5 Dimensions and St.
+
+ George's Respiratory Questionnaire(SGRQ) will deliver in these survivors ,which are used to assess the physical and mental health ,as well as the social adaptation.
+
+ Finally a comprehensive assessment will be obtained to describe the outcomes and long-term quality-of-life of patients treated With ECMO.
+
+.
+
+ Long-term Outcome of Patients Treated With Extracorporeal Membrane Oxygenation@highlight
+
+Outcomes and Long-term Quality-of-life of Patients Treated With Extracorporeal Membrane Oxygenation are not known in china.
+
+A cross-section survey will be performed to assess the long-term outcome of these patients.
+

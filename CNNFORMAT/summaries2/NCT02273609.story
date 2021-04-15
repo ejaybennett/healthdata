@@ -1,0 +1,56 @@
+(fifthQuint)INR Control and Atrial Fibrillation in Primary Care in Spain (PAULA).
+
+ Vitamin K antagonists (VKAs) have traditionally been used for long-term prevention of thromboembolic complications in patients with atrial fibrillation (AF).
+
+ Because of the variability in the dose response with VKAs and the narrow therapeutic window, monitoring the degree of anticoagulation is mandatory.
+
+ The international normalized ratio (INR) provides a standardized measure of the VKA anticoagulant effect.
+
+ The INR should be kept within a narrow range (therapeutic INR target 2.
+
+0-3.
+
+0) to control the intensity of anticoagulation.
+
+ The primary objective of this study was to determine rates of INR control of patients with nonvalvular AF daily attended in primary care in Spain.
+
+ PAULA is an observational retrospective/cross-sectional and multicenter study supported by the three main Spanish primary care scientific societies: Sociedad Espanola de Medicos de Atencion Primaria (SEMERGEN), Sociedad Espanola de Medicina de Familia y Comunitaria (SEMFYC) and Sociedad Espanola de Medicos Generales y de Familia (SEMG).
+
+ Patients aged 18 years old, with nonvalvular AF, treated with VKAs for at least one year in primary care were included in the study.
+
+ To be included, at least 80% of INR values during the past 12 months should be available.
+
+ Before inclusion, patients provided written consent.
+
+ Clinical data (biodemographic data, comorbidities, treatments, and thromboembolic/bleeding risk) were recorded from the clinical history of patients at the moment of inclusion.
+
+ INR values were taken from the previous 12 months of inclusion.
+
+ Poor INR control was considered when percent time in therapeutic INR range (TTR) was <65% (calculated by Rosendaal method) or <60% by direct method (proportion of INR values).
+
+ The study was approved by the ethics committee of hospital La Paz, Madrid.
+
+ A total of 1,524 patients have been included in the study.
+
+.
+
+ INR Control and Atrial Fibrillation in Primary Care in Spain (PAULA)@highlight
+
+The primary objective of this study was to determine rates of INR control of patients with nonvalvular AF daily attended in primary care in Spain.
+
+ PAULA is an observational retrospective/cross-sectional and multicenter study.
+
+ Patients aged 18 years old, with nonvalvular AF, treated with VKAs for at least one year in primary care were included in the study.
+
+ To be included, at least 80% of INR values during the past 12 months should be available.
+
+ Before inclusion, patients provided written consent.
+
+ Clinical data (biodemographic data, comorbidities, treatments, and thromboembolic/bleeding risk) were recorded from the clinical history of patients at the moment of inclusion.
+
+ INR values were taken from the previous 12 months of inclusion.
+
+ Poor INR control was considered when percent time in therapeutic INR range (TTR) was <65% (calculated by Rosendaal method) or <60% by direct method (proportion of INR values).
+
+ A total of 1,524 patients have been included in the study.
+

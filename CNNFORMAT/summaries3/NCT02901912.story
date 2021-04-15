@@ -1,0 +1,11 @@
+(firstQuint)Comparison of Gut Microbiota in Sedentary and Active Women.
+
+ Observational study comparing gut microbiota of people who did not practice any physical exercise (sedentary) with the gut microbiota of people who at least practice exercise a minimum of 3 hours per week but they were not professional athletes.
+
+ Since the hormonal status and gender are factors that influence gut microbiota, this study has been conducted in premenopausal women.
+
+.
+
+ Comparison of Gut Microbiota in Sedentary and Active Women@highlight
+
+Gut microbiota comparison of active and sedentary women

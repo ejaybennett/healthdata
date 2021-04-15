@@ -1,0 +1,24 @@
+(secondQuint)A Phase 3 Study Comparing Oral Ixazomib Plus Lenalidomide and Dexamethasone Versus Placebo Plus Lenalidomide and Dexamethasone in Adult Patients With Relapsed and/or Refractory Multiple Myeloma.
+
+ The drug being tested in this study is called Ixazomib.
+
+ Ixazomib is being tested to treat people who have relapsed and/or refractory multiple myeloma (RRMM).
+
+ This study will look at progression free survival (PFS), overall survival (OS) and safety in participants who take ixazomib in addition to lenalidomide and dexamethasone compared to placebo in addition to lenalidomide and dexamethasone.
+
+ The study enrolled 722 patients.
+
+ Participants were randomly assigned (by chance, like flipping a coin) to one of the two treatment groups-which will remain undisclosed to the patient and study doctor during the study (unless there is an urgent medical need): - Ixazomib 4 mg + lenalidomide + dexamethasone - Placebo (dummy inactive pill) - this is a tablet that looks like the study drug but has no active ingredient + lenalidomide + dexamethasone All participants will receive treatment in 28 day cycles until disease progression or unacceptable toxicity.
+
+ This multi-center trial will be conducted worldwide.
+
+ The overall time to participate in this study is approximately 80 months.
+
+ Participants will make multiple visits to the clinic, and will be contacted every 4 weeks for PFS and every 12 weeks for OS.
+
+.
+
+ A Phase 3 Study Comparing Oral Ixazomib Plus Lenalidomide and Dexamethasone Versus Placebo Plus Lenalidomide and Dexamethasone in Adult Patients With Relapsed and/or Refractory Multiple Myeloma@highlight
+
+The purpose of this study is to determine whether the addition of oral ixazomib to the background therapy of lenalidomide and dexamethasone improves progression free survival (PFS) in participants with relapsed and/or refractory multiple myeloma (RRMM).
+

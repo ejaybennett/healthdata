@@ -1,0 +1,31 @@
+(firstQuint)2-part Study to Assess Safety, Pharmacokinetics & Pharmacodynamics of CC-220 & Effect of Food on CC-220 in Healthy Subjects.
+
+ This is a 2-part study to be conducted at a single study center.
+
+ Part 1 is a randomized, double-blind, placebo-controlled, ascending-dose study.
+
+ During the course of Part 1, each subject will participate in a screening phase, a baseline phase, a treatment phase and a follow-up visit.
+
+ There will be a total of 7 cohorts, each of which consists of a different dose level, with 8 subjects per cohort.
+
+ In each cohort, 6 subjects will receive a dose of CC-220 and 2 subjects will receive placebo depending on the randomization schedule.
+
+ A single dose will be administered to each subject.
+
+ This study design allows safety and tolerability data to be gathered in a stepwise fashion.
+
+ Administration of study drug at the next higher dose level will not begin until the safety and tolerability of the preceding dose have been evaluated and deemed acceptable by the investigator and sponsor's medical monitor.
+
+ Part 2 is an open-label, randomized, 2-period, 2-way crossover study.
+
+ During the course of Part 2, each subject will participate in a screening phase, a baseline phase in each study period, a treatment phase in each study period and a follow-up visit.
+
+ A total of 10 subjects will receive a single dose of 1 mg CC-220 in each of 2 study periods, once without food and once with food, depending on the treatment sequence to which they are randomized.
+
+ The CC-220 dose in each study period will be separated by a washout of 11 to 14 days.
+
+.
+
+ 2-part Study to Assess Safety, Pharmacokinetics & Pharmacodynamics of CC-220 & Effect of Food on CC-220 in Healthy Subjects@highlight
+
+To evaluate the safety, tolerability, pharmacokinetics and pharmacodynamics of a single oral dose of CC-220 and to explore the effect of food on the bioavailability of CC-220 in healthy subjects

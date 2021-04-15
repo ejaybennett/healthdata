@@ -1,0 +1,18 @@
+(firstQuint)Short Term Effects of Photodynamic Therapy in Basal Cell Carcinoma.
+
+ Background and Aim: Basal cell carcinoma (BCC) is the most common skin cancer .
+
+Photodynamic therapy _as a novel , non-invasive therapeutic approach _may be considered a valuable strategy.
+
+ This study was designed with the aim of the evaluation of efficacy of PDT in treatment of BCC and factors that may affect response rate.
+
+ Materials and Methods: This was a clinical trial which was done on 28 BCCs.
+
+ Patients were treated with ALA-PDT monthly for 1-6 sessions and evaluated for clinical response,cosmetic results and probable side effects.
+
+.
+
+ Short Term Effects of Photodynamic Therapy in Basal Cell Carcinoma@highlight
+
+The purpose of this study is to evaluate the efficacy of photodynamic therapy in treatment of Basal cell carcinoma (BCC) and factors that affect response rate.
+

@@ -1,0 +1,14 @@
+(firstQuint)Neural Enabled Prosthesis for Upper Limb Amputees.
+
+ The purpose of this study is to evaluate a new prosthetic system for transradial amputees called the neural-enabled prosthetic hand (ANS-NEPH).
+
+ It is intended to provide the sense of touch, grasp force and hand opening to the user by sending electrical stimulation pulses to electrodes implanted in nerve fascicles in the upper arm of the residual limb.
+
+ The system uses measurements from sensors in the prosthetic hand and wireless communication to the implanted neurostimulator to adjust the pulses continuously so that the user gets sensation as tasks are performed with the prosthesis.
+
+.
+
+ Neural Enabled Prosthesis for Upper Limb Amputees@highlight
+
+This study is designed to evaluate the feasibility of The Adaptive Neural Systems Neural-Enabled Prosthetic Hand (ANS-NEPH) system.
+

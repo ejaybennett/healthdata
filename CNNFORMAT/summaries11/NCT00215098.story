@@ -1,0 +1,24 @@
+(thirdQuint)Chylothorax Following Heart Surgery.
+
+ Chylothorax is not uncommon following congenital heart surgery.
+
+ It often results in prolonged chest tube drainage and hospital stays.
+
+ Due to the feeding difficulties, it often results in malnutrition and the need for central hyperalimentation.
+
+ In addition, it results in a depressed immune system with the possibility of subsequent infection.
+
+ Chylothorax can be a significant contributor to post-operative morbidity and mortality.
+
+ The primary aims are to determine at risk populations - certain congenital heart defects or certain operative procedures, to define the associated morbidity secondary to chylothorax - prolonged chest tube drainage, prolonged hospital stay, need for central access and hyperalimentation, subsequent infection and to review our current treatment methods - change formulas, hyperalimentation, somatostatin.
+
+ The secondary aims are to determine ways to prevent chylothorax, determine the most successful treatment method, and to discover better treatment methods.
+
+ This study will be conducted through a retrospective chart review.
+
+.
+
+ Chylothorax Following Heart Surgery@highlight
+
+The purpose of this study is to determine at risk populations for certain congenital heart defects or certain operative procedures and to define the associated morbidity secondary to chylothorax - prolonged chest tube drainage, prolonged hospital stay, need for central access and hyperalimentation, subsequent infection.
+

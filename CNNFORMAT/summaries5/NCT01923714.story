@@ -1,0 +1,18 @@
+(secondQuint)Impact of a Tolerability Switch to Dorzolamide/Timolol Preservative-free Fixed Combination on Ocular Surface Symptoms.
+
+ The study is an 8-week multi-center, prospective, observational and non-interventional, open-label study aiming at assessing a change in visual-related quality of life of glaucoma patients that switch therapy to preservative-free DTFC.
+
+ As a non-interventional study, the decision for the to switch was at the discretion of the physician.
+
+ Patients scheduled to switch therapy to preservative free DTFC will be asked to fill in the 10 item, linkert-type GSS questionnaire at baseline, at week 4 and at week 8 of therapy switch.
+
+ The study data will be collected at a baseline and at 2 follow-up visits occurring 4 weeks +/- 1 week and 8 weeks +/- 1 week.
+
+ If no visit was scheduled, the patient was asked to send the completed documents to the physician.
+
+.
+
+ Impact of a Tolerability Switch to Dorzolamide/Timolol Preservative-free Fixed Combination on Ocular Surface Symptoms@highlight
+
+This study aims at validating in real-life clinical practice and using the self-reported Glaucoma Symptom Scale (GSS) questionnaire, the impact of a switch to preservative-free dorzolamide/timolol fixed combination (DTFC) in patients using preserved topical therapy for glaucoma.
+

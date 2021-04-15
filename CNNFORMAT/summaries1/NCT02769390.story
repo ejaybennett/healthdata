@@ -1,0 +1,28 @@
+(fifthQuint)Association of Different Doses of Clonidine in Caudal Epidural Anesthesia for Hypospadias Surgery.
+
+ It is a randomized, double blind study, involving 80 children with ages from 1 to 10 years old, following eletive hypospadias surgery, under general anesthesia and caudal epidural block .
+
+ The patients will be divided into 4 groups: bupivacaine alone, bupivacaine plus clonidine 1mcg/kg, bupivacaine plus clonidine 2 mcg/kg, bupivacaine plus clonidine 3 mg/kg.
+
+ The peroperative consumption of anesthetics gases, heart rate and arterial blood pressure will be recorded.
+
+ Postoperative pain will be evaluated by using FLACC scale ( faces , legs, activity, cry , consolability ) .
+
+ Requiriments for supplementary postoperative analgesia at 24 h will be avaiable.
+
+ Postoperative hemodynamics parameters will be recordes at 24 h.
+
+.
+
+ Association of Different Doses of Clonidine in Caudal Epidural Anesthesia for Hypospadias Surgery@highlight
+
+The use of increasing doses of clonidine ssociated to bupivacaine in caudal epidural block provides better postoperative analgesia compared whit analgesia provide by bupivacaine alone It is a randomized, double blind study, involving 80 children with ages from 1 to 10 years old, following eletive hypospadias surgery, under general anesthesia and caudal epidural block .
+
+ The patients will be divided into 4 groups: bupivacaine alone, bupivacaine plus clonidine 1mcg/kg, bupivacaine plus clonidine 2 mcg/kg, bupivacaine plus clonidine 3 mg/kg.
+
+ The peroperative consumption of anesthetics gases, heart rate and arterial blood pressure will be recorded.
+
+ Postoperative pain will be evaluated by using FLACC scale ( faces , legs, activity , cry , consolability ) .
+
+ Requiriments for supplementary postoperative analgesia at 24 h will be avaiable.
+
